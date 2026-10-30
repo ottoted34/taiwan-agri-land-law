@@ -1,0 +1,30 @@
+# 收錄法規清單。name 必須與全國法規資料庫名稱完全一致；查無者會在同步紀錄列為「未查得」，不會自行產生。
+# topics: farm_use(農地農用認定) facility(農業設施容許使用) land_control(土地使用管制)
+#         farmhouse(農舍) soil_water(水土保持/水利) tax(稅務) procedure(行政程序) building(建築)
+laws:
+  - {name: 農業發展條例, topics: [farm_use, facility, tax], core: true}
+  - {name: 農業發展條例施行細則, topics: [farm_use, facility], core: true}
+  - {name: 農業用地作農業使用認定及核發證明辦法, topics: [farm_use, tax], core: true}
+  - {name: 申請農業用地作農業設施容許使用審查辦法, topics: [facility], core: true}
+  - {name: 農業用地興建農舍辦法, topics: [farmhouse]}
+  - {name: 農業主管機關受理申請許可案件及核發證明文件收費標準, topics: [farm_use, facility]}
+  - {name: 農業用地違規使用檢舉獎勵辦法, topics: [farm_use]}
+  - {name: 休閒農業輔導管理辦法, topics: [facility]}
+  - {name: 農業用地變更回饋金撥繳及分配利用辦法, topics: [land_control]}
+  - {name: 非都市土地使用管制規則, topics: [land_control, facility]}
+  - {name: 區域計畫法, topics: [land_control]}
+  - {name: 區域計畫法施行細則, topics: [land_control]}
+  - {name: 國土計畫法, topics: [land_control]}
+  - {name: 都市計畫法, topics: [land_control]}
+  - {name: 都市計畫法臺灣省施行細則, topics: [land_control]}
+  - {name: 水土保持法, topics: [soil_water]}
+  - {name: 水土保持法施行細則, topics: [soil_water]}
+  - {name: 山坡地保育利用條例, topics: [soil_water]}
+  - {name: 農田水利法, topics: [soil_water]}
+  - {name: 土地稅法, topics: [tax]}
+  - {name: 土地稅法施行細則, topics: [tax]}
+  - {name: 遺產及贈與稅法, topics: [tax]}
+  - {name: 建築法, topics: [building]}
+  - {name: 實施都市計畫以外地區建築物管理辦法, topics: [building, facility]}
+  - {name: 行政程序法, topics: [procedure]}
+  - {name: 行政罰法, topics: [procedure]}
