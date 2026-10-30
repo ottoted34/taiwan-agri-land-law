@@ -49,11 +49,11 @@ export default function Sources() {
             <td className="small">{a ? <>{a.reachable === true ? "可連線" : a.reachable === false ? `無法連線${a.error ? "（" + a.error + "）" : ""}` : "未連線檢查"}{a.robots_allowed === false && "；robots 不允許"}<div className="tiny muted">{dt(a.checked_at)}</div></> : "—"}</td></tr>; })}</tbody></table></div>
     </Section>
     <Section title="農業部機關盤點與本站收錄筆數">
-      <p className="small muted">依農業部「所屬機關(構)職掌」頁面建立名錄。筆數僅為本站收錄數，非機關資料總數。法規由法務部全國法規資料庫統一取得，不分機關計算。</p>
+      <p className="small muted">依農業部「所屬機關(構)職掌」頁面建立名錄。筆數僅為本站收錄數，非機關資料總數；官方頁面未載明發文機關之函釋（約半數）不計入各機關筆數。法規由法務部全國法規資料庫統一取得，不分機關計算。</p>
       <div className="scroll-x"><table className="t"><thead><tr><th>機關</th><th>層級</th><th>優先序</th><th>函釋</th><th>技術書目</th><th>備註</th></tr></thead>
         <tbody>{[...s.agencies].sort((a, b) => a.priority - b.priority).map((a) => <tr key={a.id}>
           <td>{a.official_site ? <ExtLink href={a.official_site}>{a.name}</ExtLink> : a.name}</td><td className="small">{a.level}</td><td className="small">{PRI[a.priority]}{a.relevance === "low" ? "（低相關）" : ""}</td>
-          <td>{s.per_agency[a.id]?.interps ?? 0}</td><td>{s.per_agency[a.id]?.tech ?? 0}</td><td className="tiny muted">{a.note}</td></tr>)}</tbody></table></div>
+          <td>{s.per_agency[a.id]?.interps || <>0<div className="tiny muted" style={{ whiteSpace: "nowrap" }}>未載明發文機關之函釋<br />不計入各機關筆數</div></>}</td><td>{s.per_agency[a.id]?.tech ?? 0}</td><td className="tiny muted">{a.note}</td></tr>)}</tbody></table></div>
     </Section>
     <Section title={`改制前機關對照（${s.historical.reorg_date} 行政院農業委員會改制為農業部）`}>
       <p className="small muted">本表為業務承接對照，<strong>不代表</strong>改制前機關發布之函釋當然繼續適用。</p>
