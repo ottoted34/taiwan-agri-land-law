@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T11:57:12+08:00",
+ "generated_at": "2026-10-30T13:10:36+08:00",
  "relations": [
   {
    "interp_id": "itp-f1f802bad8",
@@ -371,6 +371,41 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "interp_id": "itp-56e9e5f3e1",
+   "law_id": "M0020014",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "interp_id": "itp-cc620d84e6",
+   "law_id": "M0020014",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "interp_id": "itp-7c60dcdb34",
+   "law_id": "M0020014",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "interp_id": "itp-25a63f20d3",
+   "law_id": "M0020014",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "interp_id": "itp-fea2a59179",
+   "law_id": "M0020014",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
   },
   {
    "interp_id": "itp-a819043284",
@@ -27615,41 +27650,6 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
-  },
-  {
-   "interp_id": "itp-56e9e5f3e1",
-   "law_id": "RMIS-2011",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
-  },
-  {
-   "interp_id": "itp-cc620d84e6",
-   "law_id": "RMIS-2011",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
-  },
-  {
-   "interp_id": "itp-7c60dcdb34",
-   "law_id": "RMIS-2011",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
-  },
-  {
-   "interp_id": "itp-25a63f20d3",
-   "law_id": "RMIS-2011",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
-  },
-  {
-   "interp_id": "itp-fea2a59179",
-   "law_id": "RMIS-2011",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
   },
   {
    "interp_id": "itp-4c1232f855",

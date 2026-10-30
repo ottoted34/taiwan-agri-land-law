@@ -37,6 +37,15 @@
   "basis": [
    {
     "type": "law_amendment",
+    "law_id": "M0020014",
+    "law_name": "農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則",
+    "article": null,
+    "amended_on": "2015-02-12",
+    "history": "中華民國一百零四年二月十二日行政院農業委員會農企字第 1040012063A 號令修正發布全文 17 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
     "law_id": "D0060013",
     "law_name": "非都市土地使用管制規則",
     "article": "37",
@@ -56,7 +65,7 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2011",
+   "law_id": "M0020014",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"

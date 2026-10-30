@@ -231,15 +231,15 @@
    }
   ],
   "modified_date": "2022-11-01",
-  "fetched_at": "2026-10-30T10:55:49+08:00"
+  "fetched_at": "2026-10-30T12:07:40+08:00"
  },
  "content_hash": "6fb0dd03f56ea16d29991d5937b903c935585aea1c821e390fa57700ebd4cf25",
- "last_checked": "2026-10-30T10:53:58+08:00",
+ "last_checked": "2026-10-30T12:07:25+08:00",
  "first_seen": "2026-10-30T10:53:58+08:00",
  "last_changed": "2026-10-30T10:53:58+08:00",
  "cross_check": {
   "source": "rmis-laws",
-  "at": "2026-10-30T10:58:51+08:00",
+  "at": "2026-10-30T12:08:02+08:00",
   "rmis_modified": "2022-11-01",
   "moj_modified": "2022-11-01",
   "article_count_rmis": 18,

@@ -1,0 +1,130 @@
+{
+ "run_id": "41001038278",
+ "mode": "weekly",
+ "started_at": "2026-10-30T12:06:51+08:00",
+ "sources": [
+  {
+   "source_id": "moj-law-api",
+   "status": "ok",
+   "complete": true,
+   "added": 3,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 25,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 2,
+   "notes": [
+    "全國法規資料庫查無（名稱不符或已廢止）：農業動力用電範圍及標準、農業技術密集或資本密集類目標準、都市計畫法臺灣省施行細則",
+    "資料集更新日期：{'law': '2026/10/22 上午 12:00:00', 'order': '2026/10/22 上午 12:00:00'}"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-laws",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 24,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 25,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 480,
+   "notes": [
+    "第二輪補抓空白頁：64／102 頁成功",
+    "列表第 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153 頁重試後仍無資料（官方伺服器回應「目前無資料可顯示」），本次不視為完整比對",
+    "列表頁數：172，本次讀取列表 1330 筆（不重複）",
+    "明細擷取 0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 24,
+   "notes": [
+    "官方列示關聯 4055 筆；本次新收錄僅見於法規對應頁之函釋 0 筆（官方頁面未載發文日期）"
+   ],
+   "errors": []
+  }
+ ],
+ "events": [
+  {
+   "kind": "law_id_migrated",
+   "old_id": "RMIS-2011",
+   "new_id": "M0020014",
+   "name": "農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "M0020014",
+   "name": "農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則"
+  },
+  {
+   "kind": "law_id_migrated",
+   "old_id": "RMIS-2003",
+   "new_id": "M0110010",
+   "name": "集村興建農舍獎勵及協助辦法"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "M0110010",
+   "name": "集村興建農舍獎勵及協助辦法"
+  },
+  {
+   "kind": "law_id_migrated",
+   "old_id": "RMIS-2001",
+   "new_id": "M0070009",
+   "name": "擴大家庭農場經營規模協助農民購買耕地貸款辦法"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "M0070009",
+   "name": "擴大家庭農場經營規模協助農民購買耕地貸款辦法"
+  }
+ ],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 32,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 927,
+   "no_known_cessation": 3004,
+   "needs_review": 53,
+   "amended_by_later": 56
+  },
+  "relations_extracted": 6289,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-10-30T13:10:39+08:00",
+ "result": "success_changed"
+}
