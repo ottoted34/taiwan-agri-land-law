@@ -65,21 +65,9 @@ counties:
         reviewed_by: Repository 擁有者指示收錄（系統候選清單）
         reviewed_at: 2026-10-30
         basis: 臺中市法規查詢系統「農業類」分類列表候選
-      - law_system_id: GL001263
-        name: 臺中市辦理徵收土地農作改良物水產養殖物及畜禽類補償遷移費查估基準
-        topics: []
-        scenarios: [local]
-        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
-        reviewed_at: 2026-10-30
-        basis: 臺中市法規查詢系統「農業類」分類列表候選
-      - law_system_id: GL001238
-        name: 臺中市陸上魚塭養殖漁業登記及管理自治條例
-        topics: [aquaculture]
-        scenarios: [local]
-        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
-        reviewed_at: 2026-10-30
-        basis: 臺中市法規查詢系統「農業類」分類列表候選
     rejected:
+      - GL001238  # 魚塭登記自治條例：擁有者複核後不收錄（2026-10-30）
+      - GL001263  # 補償查估基準：擁有者複核後不收錄（2026-10-30）
       - GL001239  # 官方標示「廢」（2026-10-30 同步發現），不收錄
       - FL035348  # 官方標示「廢」（2026-10-30 同步發現），不收錄
       - GL001919  # 官方標示「廢/停」（2026-10-30 首次同步發現），不收錄
