@@ -67,3 +67,9 @@ export function articleName(key: string) { return key.startsWith("P") ? `第 ${k
 export function docnoKey(s: string) {
   return norm(s).replace(/號.*$/, "號");
 }
+
+/** Display date for letters; undated ones show the docno-based estimate, clearly labelled. */
+export function letterDate(d: string | null | undefined, yh?: number | null): string {
+  if (d) return roc(d);
+  return yh ? `日期未載（依字號推估約民國${yh - 1911}年）` : "官方頁面未載日期";
+}

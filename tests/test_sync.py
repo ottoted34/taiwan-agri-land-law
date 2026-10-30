@@ -131,8 +131,37 @@ def test_duplicate_docno_not_duplicated(seeded):
     n = len(Store(paths.INTERP).ids())
     run("monthly", FakeClient(), only=["rmis-interpretations"])  # refetches all details
     assert len(Store(paths.INTERP).ids()) == n
-    keys = [(r["docno"], r["date"]) for r in Store(paths.INTERP).all()]
+    from agrilaw.util import subject_key
+    keys = [(r["docno"], r["date"], subject_key(r["subject"])) for r in Store(paths.INTERP).all()]
     assert len(keys) == len(set(keys))
+    sk = [s["source_key"] for r in Store(paths.INTERP).all() for s in r["sources"]]
+    assert len(sk) == len(set(sk))  # every official record lives in exactly one canonical record
+
+
+def test_same_docno_different_subject_kept_apart(seeded):
+    """A compiled ruling set can hold several items under one 字號 and date; they must not be merged."""
+    from agrilaw.collectors.base import CollectResult
+    from agrilaw.util import now_iso
+    r = Run("daily", client=FakeClient())
+    res = CollectResult("rmis-interpretations", "interpretation", complete=False)
+    for i, subj in enumerate(["049 釋農業用地作農業使用證明書之審核應以申請書所載共有持分面積審認案", "027 釋涉及所有權移轉之農業用地分割案"]):
+        res.records.append({"source_key": f"rmis:99{i}", "docno": "農企字第0960149506號", "date": "2007-09-07", "date_text": "96/9/7",
+                            "agency_text": "行政院農業委員會", "category": "解釋令", "subject": subj, "content": f"內容{i}", "memo": "",
+                            "source": {"source_id": "rmis-interpretations", "url": f"https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=99{i}", "fetched_at": now_iso()}})
+    from collections import Counter
+    st = Counter()
+    r.apply_interpretations(res, st)
+    assert st["added"] == 2
+    same = [x for x in Store(paths.INTERP).all() if x["docno"] == "農企字第0960149506號"]
+    assert len(same) == 2
+
+
+def test_lawexp_only_letters_imported(seeded):
+    its = list(Store(paths.INTERP).all())
+    lawexp_only = [r for r in its if all(s["source_id"] == "rmis-lawexp" for s in r["sources"])]
+    assert lawexp_only, "letters listed only on the official law-exp page should be imported"
+    assert not any(r["validity"]["status"] == "possibly_affected" and not r.get("date") for r in lawexp_only)
+    assert any("date_unknown" in r["flags"] for r in lawexp_only)
 
 
 def test_midrun_exception_isolated(seeded, monkeypatch):

@@ -121,12 +121,15 @@ def postprocess() -> dict:
             validity.setdefault("notes", []).append("本文件為停止適用公告")
         text = (r.get("subject") or "") + (r.get("content") or "")
         topics = _topics(text, topics_cfg["legal_topics"])
-        flags = []
+        flags = list(r.get("flags_in", []))
+        if not r.get("date"):
+            flags.append("date_unknown")
+            validity.setdefault("notes", []).append("官方頁面未載發文日期，無法比對修法時序。")
         if r.get("is_historical"):
             flags.append("historical_agency")
         if r.get("source_missing_since"):
             flags.append("source_missing")
-        if len(by_docno.get(r["docno"], [])) > 1:
+        if len(by_docno.get(r["docno"], [])) > 1 and "docno_shared" not in flags:
             flags.append("docno_shared")
         derived = {"validity": validity, "topics": topics, "flags": flags, "relations": uniq}
         if sha256({k: r.get(k) for k in DERIVED}) != sha256(derived):

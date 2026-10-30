@@ -1,6 +1,7 @@
 """Agency resolution, incl. pre-2023-08-01 COA agencies -> current successor (business only)."""
 from __future__ import annotations
 
+import re
 from functools import lru_cache
 
 from .paths import CONFIG
@@ -32,6 +33,16 @@ def resolve(agency_text: str, date_iso: str | None, docno: str = "") -> dict:
             return {"agency_id": a["id"], "agency_name": a["name"], "historical_name": None, "is_historical": False}
     if t in ("農業部",):
         return {"agency_id": "moa", "agency_name": "農業部", "historical_name": None, "is_historical": False}
+    if not t and docno:
+        pref = re.match(r"([\u4e00-\u9fff]+字)", docno or "")
+        info = (reg["historical"].get("doc_prefixes") or {}).get(pref.group(1)) if pref else None
+        if info:
+            if info.get("historical"):
+                return {"agency_id": "moa" if "委員會" in info["historical"] else None, "agency_name": None,
+                        "historical_name": info["historical"] + "（依字號字頭推定）", "is_historical": True}
+            aid = info.get("agency")
+            return {"agency_id": aid, "agency_name": (reg["agencies"].get(aid) or {}).get("name"),
+                    "historical_name": None, "is_historical": False, "agency_inferred": True}
     # no explicit agency text: before the reorganisation the issuer was the COA system
     if not t and date_iso and date_iso < reorg:
         return {"agency_id": None, "agency_name": None, "historical_name": "（原文未載發文機關；改制前文件）", "is_historical": True}

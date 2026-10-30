@@ -89,6 +89,7 @@ class DataMoaPublications(Collector):
         from ..paths import META
         from ..util import read_json, write_json
         res = CollectResult(self.source_id, self.kind)
+        res.extra = {}  # type: ignore[attr-defined]
         static = load_yaml(CONFIG / "sources" / "technical_datasets.yaml")["datasets"]
         cat_path = META / "datamoa-catalog.json"
         catalog = read_json(cat_path, None)
@@ -126,7 +127,7 @@ class DataMoaPublications(Collector):
                     title = f"{ds['series']} {issue}".strip()
                 if not title:
                     continue
-                key = sha256([ds["unit_id"], issue, title])[:16]
+                key = sha256([ds["unit_id"], issue, title, str(_first(row, DATE) or ""), str(link or "")])[:16]
                 res.records.append({
                     "source_key": f"datamoa:{ds['unit_id']}:{key}",
                     "title": title,
@@ -147,6 +148,7 @@ class DataMoaPublications(Collector):
                 })
                 n += 1
             res.notes.append(f"{ds['title']}：{n} 筆")
+            res.extra.setdefault("complete_units", []).append(ds["unit_id"])  # type: ignore[attr-defined]
         res.requests = self.client.requests_made
         if res.errors:
             res.status = "partial" if res.records else "failed"

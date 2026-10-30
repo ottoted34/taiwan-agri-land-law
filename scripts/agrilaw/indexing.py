@@ -22,7 +22,7 @@ def build() -> dict:
         shutil.rmtree(out)
     out.mkdir(parents=True)
     laws = sorted(Store(paths.LAWS).all(), key=lambda l: (not l.get("core"), l["name"]))
-    interps = sorted(Store(paths.INTERP).all(), key=lambda r: r.get("date") or "", reverse=True)
+    interps = sorted(Store(paths.INTERP).all(), key=lambda r: r.get("date") or (f"{r['year_hint']}-00" if r.get("year_hint") else ""), reverse=True)
     techs = sorted(Store(paths.TECH).all(), key=lambda r: r.get("date") or "", reverse=True)
     reg = registry()
     agencies = reg["agencies"]
@@ -60,18 +60,19 @@ def build() -> dict:
         it_index.append({"id": r["id"], "no": r["docno"], "d": r.get("date"), "ag": r.get("agency_text") or r.get("historical_name") or "",
                          "agid": r.get("agency_id"), "h": bool(r.get("is_historical")), "cat": r.get("category"),
                          "s": r.get("subject"), "c": r.get("content"), "tp": r.get("topics", []),
-                         "v": (r.get("validity") or {}).get("status"), "rel": rel, "fl": r.get("flags", [])})
+                         "v": (r.get("validity") or {}).get("status"), "rel": rel, "fl": r.get("flags", []), "yh": r.get("year_hint")})
         write_json(out / "interps" / f"{r['id']}.json", {k: r.get(k) for k in (
             "id", "docno", "date", "date_text", "agency_text", "agency_id", "agency_name", "historical_name", "is_historical",
             "category", "subject", "content", "memo", "sources", "validity", "topics", "flags", "relations", "first_seen",
-            "last_synced", "version", "history", "source_missing_since")}, compact=True)
+            "last_synced", "version", "history", "source_missing_since", "year_hint")}, compact=True)
     write_json(out / "search-interps.json", it_index, compact=True)
 
     # ---- technical
     tech_index = [{"id": t["id"], "t": t["title"], "se": t.get("series"), "is": t.get("issue"), "ag": t.get("agency_id"),
                    "au": t.get("authors"), "d": t.get("date"), "u": t.get("url"), "tp": t.get("topics", []),
                    "isbn": t.get("isbn"), "gpn": t.get("gpn"), "pg": t.get("pages"), "ds": (t.get("dataset") or {}).get("title"),
-                   "dsu": (t.get("dataset") or {}).get("url"), "lic": t.get("license"), "ls": t.get("last_synced")} for t in techs]
+                   "dsu": (t.get("dataset") or {}).get("url"), "lic": t.get("license"), "ls": t.get("last_synced"),
+                   "miss": t.get("source_missing_since")} for t in techs]
     write_json(out / "search-tech.json", tech_index, compact=True)
 
     # ---- sources / status

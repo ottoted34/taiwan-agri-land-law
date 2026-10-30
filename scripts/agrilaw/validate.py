@@ -8,10 +8,14 @@ ISO = re.compile(r"^\d{4}-\d{2}(-\d{2})?$")
 
 def validate_interpretation(r: dict) -> list[str]:
     errs = []
-    if not r.get("docno") or "字第" not in r["docno"]:
-        errs.append("發文字號缺漏或格式不符")
-    if not r.get("date") or not ISO.match(r["date"]):
-        errs.append(f"發文日期無法辨識：{r.get('date_text')}")
+    if not (r.get("docno") or "").strip() and not r.get("subject"):
+        errs.append("發文字號與主旨皆缺漏")
+    date_optional = (r.get("source") or {}).get("source_id") == "rmis-lawexp"
+    if not r.get("date"):
+        if not date_optional:
+            errs.append(f"發文日期無法辨識：{r.get('date_text')}")
+    elif not ISO.match(r["date"]):
+        errs.append(f"發文日期格式錯誤：{r.get('date')}")
     elif not ("1945-01-01" <= r["date"] <= "2100-01-01"):
         errs.append("發文日期超出合理範圍")
     if not r.get("subject") and not r.get("content"):

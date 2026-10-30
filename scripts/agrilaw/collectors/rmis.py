@@ -167,6 +167,7 @@ def parse_law_exp(html: str) -> dict | None:
     for w in doc.find_all(id=re.compile(r"dl4_lbl_exp_wprd_\d+$")):
         idx = re.search(r"_(\d+)$", w["id"]).group(1)
         items.append({
+            "docno_text": clean(w.get_text()),
             "docno": normalize_docno(w.get_text()),
             "title": clean(text_of(doc.find(id=re.compile(rf"dl4_lbl_exp_title_{idx}$")), False)),
             "content": text_of(doc.find(id=re.compile(rf"dl4_lbl_exp_content_{idx}$"))),
@@ -249,7 +250,7 @@ class RmisInterpretations(Collector):
             rec["list_hash"] = lh
             res.records.append(rec)
         res.notes.append(f"明細擷取 {fetched} 筆")
-        res.extra = {"listed_keys": [f"rmis:{r['rmis_id']}" for r in rows]}  # type: ignore[attr-defined]
+        res.extra = {"listed_keys": [f"rmis:{r['rmis_id']}" for r in rows]}
         res.requests = self.client.requests_made
         if res.errors:
             res.status = "partial"
@@ -334,7 +335,7 @@ class RmisLawExp(Collector):
             if not d:
                 continue
             for it in d["items"]:
-                res.records.append({"law_id": law["law_id"], "docno": it["docno"], "title": it["title"],
+                res.records.append({"law_id": law["law_id"], "docno": it["docno"], "docno_text": it["docno_text"], "title": it["title"],
                                     "content": it["content"], "evidence_url": law["lawexp_url"]})
         res.requests = self.client.requests_made
         if res.errors:

@@ -16,6 +16,7 @@ export default function TechPage() {
     <h1 style={{ marginTop: 8 }}>{t.t}</h1>
     <div className="callout tech" style={{ marginBottom: 16 }}><strong>技術參考資料</strong>：本筆為試驗研究機構出版品之書目資訊，可作為農業經營合理性、設施需求或現況判斷之專業參考，
       <strong>不具法規或函釋效力</strong>，亦不能據以推論農業設施容許使用或農用證明之准駁。</div>
+    {t.miss && <div className="callout danger" style={{ marginBottom: 12 }}>此筆自 {dt(t.miss)} 起已不在官方資料集中，可能已更正或下架。</div>}
     <dl className="kv card">
       <dt>發布機關</dt><dd>{man.agency_names[t.ag] || t.ag}</dd>
       <dt>刊物／編號</dt><dd>{t.se} {t.is}</dd>

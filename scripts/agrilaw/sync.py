@@ -22,7 +22,7 @@ from .collectors.rmis import RmisInterpretations, RmisLawExp, RmisLaws
 from .http import Client
 from .postprocess import postprocess
 from .store import Store, content_hash
-from .util import load_yaml, nfkc, normalize_docno, now_iso, read_json, sha256, write_json
+from .util import clean, date_in_text, interp_id, load_yaml, nfkc, normalize_docno, now_iso, read_json, sha256, subject_key, write_json, year_hint_from_docno
 from .validate import VALIDATORS
 
 SHRINK_RATIO = 0.8
@@ -184,61 +184,16 @@ class Run:
         if res.complete and known_keys and len(listed) < SHRINK_RATIO * len(known_keys):
             self.quarantine(res.source_id, res, f"完整列表僅 {len(listed)} 筆，少於既有 {len(known_keys)} 筆之 {int(SHRINK_RATIO*100)}%", stats)
             return
-        canon_by_key = {}
-        for rid in self.interps.ids():
-            r = self.interps.get(rid)
-            canon_by_key[(r.get("docno"), r.get("date"))] = rid
         for raw in res.records:
+            if not raw.get("docno") or "字第" not in raw["docno"]:
+                raw["docno"] = clean(raw.get("docno_text") or raw.get("docno") or "")
+                raw.setdefault("flags_in", []).append("docno_unparsed")
             errs = VALIDATORS["interpretation"](raw)
             if errs:
                 stats["rejected"] += 1
                 res.errors.append(f"{raw['source_key']} 驗證失敗：{'；'.join(errs)}")
                 continue
-            sk = raw["source_key"]
-            rid = (self.index.get(sk) or {}).get("id") or canon_by_key.get((raw["docno"], raw["date"]))
-            if not rid:
-                rid = "itp-" + sha256(f"{raw['docno']}|{raw['date']}")[:10]
-            existing = self.interps.get(rid)
-            ag = resolve(raw["agency_text"], raw["date"], raw["docno"])
-            src = {**raw["source"], "source_key": sk}
-            if existing is None:
-                rec = {"id": rid, "doc_class": "interpretation", **{k: raw[k] for k in
-                       ("docno", "date", "date_text", "agency_text", "category", "subject", "content", "memo")},
-                       **ag, "sources": [src], "first_seen": now_iso(), "last_synced": now_iso(), "version": 1,
-                       "validity": {"status": "no_known_cessation", "basis": [], "confirmed": False}}
-                rec["content_hash"] = content_hash("interpretation", rec)
-                self.interps.put(rec)
-                stats["added"] += 1
-                self.event("added", type="interpretation", id=rid, docno=raw["docno"], date=raw["date"])
-            else:
-                if (existing.get("docno"), existing.get("date")) != (raw["docno"], raw["date"]) and existing["sources"][0]["source_key"] != sk:
-                    # same canonical id but different identity -> never merge blindly
-                    rid = "itp-" + sha256(f"{raw['docno']}|{raw['date']}|{sk}")[:10]
-                    existing = None
-                    self.event("identity_conflict", source_key=sk, docno=raw["docno"])
-                    continue
-                new = {**existing, **{k: raw[k] for k in ("docno", "date", "date_text", "agency_text", "category",
-                                                           "subject", "content", "memo")}, **ag}
-                srcs = [s for s in existing.get("sources", []) if s.get("source_key") != sk] + [src]
-                new["sources"] = srcs
-                new["last_synced"] = now_iso()
-                new.pop("source_missing_since", None)
-                h = content_hash("interpretation", new)
-                if h != existing.get("content_hash"):
-                    hist = existing.get("history", [])
-                    hist.append({"at": now_iso(), "previous_hash": existing.get("content_hash"),
-                                 "changed_fields": [k for k in ("subject", "content", "category", "docno", "date")
-                                                    if existing.get(k) != new.get(k)],
-                                 "previous": {k: existing.get(k) for k in ("subject", "content", "category") if existing.get(k) != new.get(k)}})
-                    new["history"] = hist[-10:]
-                    new["content_hash"] = h
-                    new["version"] = existing.get("version", 1) + 1
-                    stats["modified"] += 1
-                    self.event("modified", type="interpretation", id=rid, docno=raw["docno"])
-                else:
-                    stats["unchanged"] += 1
-                self.interps.put(new)
-            self.index[sk] = {"id": rid, "list_hash": raw.get("list_hash")}
+            self.upsert_interpretation(raw, stats)
         if res.complete and listed:
             listed_set = set(listed)
             for sk in known_keys:
@@ -250,6 +205,68 @@ class Run:
                         self.interps.put(r)
                         stats["missing"] += 1
                         self.event("missing_from_source", id=rid, source_key=sk)
+
+    FIELDS = ("docno", "date", "date_text", "agency_text", "category", "subject", "content", "memo")
+
+    def upsert_interpretation(self, raw: dict, stats: Counter) -> str:
+        """Identity = 發文字號 + 發文日期 + 主旨. A compiled ruling set can carry several different
+        items under one 字號 and date, so 字號+日期 alone must never merge documents."""
+        sk = raw["source_key"]
+        rid = interp_id(raw["docno"], raw.get("date"), raw.get("subject", ""))
+        mapped = (self.index.get(sk) or {}).get("id")
+        if mapped and mapped != rid:
+            old = self.interps.get(mapped)
+            other_primary = [x for x in (old or {}).get("sources", []) if x.get("source_key") != sk and str(x.get("source_key", "")).startswith("rmis:")]
+            if old and (not other_primary or not sk.startswith("rmis:")) and (sk.startswith("rmis:") or len(old.get("sources", [])) <= 1):
+                # the stored record belongs only to this source key: its identity changed (official edit)
+                rid_keep = mapped
+            else:
+                rid_keep = rid  # mapping pointed at another document (old collision): detach
+                if old:
+                    old["sources"] = [s for s in old["sources"] if s.get("source_key") != sk] or old["sources"]
+                    self.interps.put(old)
+                self.event("identity_split", source_key=sk, from_id=mapped, to_id=rid)
+            rid = rid_keep
+        existing = self.interps.get(rid)
+        ag = resolve(raw.get("agency_text", ""), raw.get("date"), raw.get("docno", ""))
+        src = {**raw["source"], "source_key": sk}
+        flags_in = raw.get("flags_in", [])
+        if existing is None:
+            rec = {"id": rid, "doc_class": "interpretation", **{k: raw.get(k, "") for k in self.FIELDS}, **ag,
+                   "year_hint": year_hint_from_docno(raw["docno"]) if not raw.get("date") else None,
+                   "sources": [src], "first_seen": now_iso(), "last_synced": now_iso(), "version": 1, "flags_in": flags_in,
+                   "validity": {"status": "no_known_cessation", "basis": [], "confirmed": False}}
+            rec["content_hash"] = content_hash("interpretation", rec)
+            self.interps.put(rec)
+            stats["added"] += 1
+            self.event("added", type="interpretation", id=rid, docno=raw["docno"], date=raw.get("date"))
+        else:
+            new = dict(existing)
+            primary = raw["source"]["source_id"] == "rmis-interpretations" or existing["sources"][0].get("source_key") == sk
+            if primary:  # list/detail system is authoritative; law-exp copies only add a source
+                new.update({k: raw.get(k, "") for k in self.FIELDS if raw.get(k) or k in ("memo",)})
+                new.update(ag)
+                new["year_hint"] = year_hint_from_docno(raw["docno"]) if not new.get("date") else None
+            new["sources"] = [s for s in existing.get("sources", []) if s.get("source_key") != sk] + [src]
+            new["last_synced"] = now_iso()
+            new["flags_in"] = sorted(set(existing.get("flags_in", [])) | set(flags_in)) if not primary else flags_in
+            new.pop("source_missing_since", None)
+            h = content_hash("interpretation", new)
+            if h != existing.get("content_hash"):
+                hist = existing.get("history", [])
+                hist.append({"at": now_iso(), "previous_hash": existing.get("content_hash"),
+                             "changed_fields": [k for k in ("subject", "content", "category", "docno", "date") if existing.get(k) != new.get(k)],
+                             "previous": {k: existing.get(k) for k in ("subject", "content", "category", "date") if existing.get(k) != new.get(k)}})
+                new["history"] = hist[-10:]
+                new["content_hash"] = h
+                new["version"] = existing.get("version", 1) + 1
+                stats["modified"] += 1
+                self.event("modified", type="interpretation", id=rid, docno=raw["docno"])
+            else:
+                stats["unchanged"] += 1
+            self.interps.put(new)
+        self.index[sk] = {"id": rid, "list_hash": raw.get("list_hash")}
+        return rid
 
     # ------------------------------------------------------------------ laws
     def _save_law(self, rec: dict, stats: Counter, source_label: str) -> None:
@@ -299,7 +316,32 @@ class Run:
                            "source": source_label, "articles": law["articles"], "is_full_text": True,
                            "note": "本系統擷取時之現行條文快照"})
 
+    def migrate_law_id(self, old_id: str, new_id: str) -> None:
+        """A law first stored from RMIS (e.g. MOJ was down) gets its national PCode once MOJ data arrives."""
+        import shutil
+        old = self.laws.get(old_id)
+        if not old:
+            return
+        src_dir, dst_dir = paths.LAWS / "versions" / old_id, paths.LAWS / "versions" / new_id
+        if src_dir.exists():
+            dst_dir.mkdir(parents=True, exist_ok=True)
+            for f in src_dir.glob("*.json"):
+                d = read_json(f)
+                d["law_id"] = new_id
+                if not (dst_dir / f.name).exists():
+                    write_json(dst_dir / f.name, d)
+            shutil.rmtree(src_dir)
+        self.laws.path(old_id).unlink(missing_ok=True)
+        off = read_json(paths.RELATIONS / "official.json", None)
+        if off:
+            for r in off.get("relations", []):
+                if r["law_id"] == old_id:
+                    r["law_id"] = new_id
+            write_json(paths.RELATIONS / "official.json", off)
+        self.event("law_id_migrated", old_id=old_id, new_id=new_id, name=old.get("name"))
+
     def apply_laws_moj(self, res: CollectResult, stats: Counter) -> None:
+        provisional = {l["name"]: l for l in self.laws.all() if l.get("primary_source") == "rmis-laws" and l["id"].startswith("RMIS-")}
         for raw in res.records:
             errs = VALIDATORS["law"](raw)
             if errs:
@@ -309,6 +351,10 @@ class Run:
             rec = {**raw, "doc_class": "law", "sources": [raw.pop("source")]}
             rec["primary_source"] = "moj-law-api"
             rec["former_names"] = sorted(set(re.findall(r"原名稱[：:]\s*([^；;，,）)]+)", " ".join(h["text"] for h in rec["histories"]))))
+            prov = provisional.get(rec["name"])
+            if prov and prov["id"] != rec["id"]:
+                rec["rmis"] = prov.get("rmis")
+                self.migrate_law_id(prov["id"], rec["id"])
             self._save_law(rec, stats, "全國法規資料庫")
 
     def apply_laws_rmis(self, res: CollectResult, stats: Counter) -> None:
@@ -361,39 +407,66 @@ class Run:
                     self.event("history_version", law_id=law_id, version=vid)
 
     def apply_lawexp(self, res: CollectResult, stats: Counter) -> None:
-        by_docno: dict[str, list[str]] = {}
-        for r in self.interps.all():
-            by_docno.setdefault(r["docno"], []).append(r["id"])
-        rels, unmatched = [], []
-        for it in res.records:
-            ids = by_docno.get(it["docno"], [])
-            if ids:
-                for i in ids:
-                    rels.append({"interp_id": i, "law_id": it["law_id"], "article": None, "kind": "official",
-                                 "evidence": it["evidence_url"]})
-            else:
-                unmatched.append({"law_id": it["law_id"], "docno": it["docno"], "title": it["title"][:200],
-                                  "evidence": it["evidence_url"]})
         if len(res.records) < 10:
             self.quarantine(res.source_id, res, f"法規對應函釋僅取得 {len(res.records)} 筆，疑似異常", stats)
             return
+        by_docno: dict[str, list[dict]] = {}
+        for r in self.interps.all():
+            by_docno.setdefault(r["docno"], []).append(r)
+        rels, created = [], 0
+        for it in res.records:
+            docno = it["docno"]
+            cands = by_docno.get(docno, [])
+            tk = subject_key(it["title"])
+            match = next((c for c in cands if subject_key(c.get("subject")) == tk), None)
+            if match is None and cands and len(cands) == 1 and not tk:
+                match = cands[0]
+            if match is None:
+                match = next((c for c in cands if tk and (tk[:20] in subject_key(c.get("subject")) or subject_key(c.get("subject"))[:20] in tk)), None)
+            sk = f"rmis-lawexp:{docno}|{tk[:30]}"
+            if match is None:
+                dtx = date_in_text(it.get("docno_text", ""))
+                raw = {"source_key": sk, "docno": docno, "date": dtx, "date_text": it.get("docno_text", "") if dtx else "", "agency_text": "", "category": "",
+                       "subject": it["title"], "content": it["content"], "memo": "",
+                       "source": {"source_id": "rmis-lawexp", "url": it["evidence_url"], "fetched_at": now_iso()}}
+                if "字第" not in docno:
+                    raw["flags_in"] = ["docno_unparsed"]
+                if VALIDATORS["interpretation"](raw):
+                    stats["rejected"] += 1
+                    continue
+                rid = self.upsert_interpretation(raw, stats)
+                rec = self.interps.get(rid)
+                by_docno.setdefault(docno, []).append(rec)
+                created += 1
+            else:
+                rid = match["id"]
+                if not any(s.get("source_key") == sk for s in match.get("sources", [])):
+                    match["sources"] = match.get("sources", []) + [{"source_id": "rmis-lawexp", "url": it["evidence_url"],
+                                                                    "fetched_at": now_iso(), "source_key": sk}]
+                    self.interps.put(match)
+                self.index[sk] = {"id": rid}
+            rels.append({"interp_id": rid, "law_id": it["law_id"], "article": None, "kind": "official", "evidence": it["evidence_url"]})
+        uniq = {(r["interp_id"], r["law_id"]): r for r in rels}
+        rels = list(uniq.values())
         old = read_json(paths.RELATIONS / "official.json", {}) or {}
-        new = {"generated_at": now_iso(), "relations": rels, "unmatched": unmatched}
-        if sha256(rels) != sha256(old.get("relations")):
-            stats["modified"] += 1
-        else:
-            stats["unchanged"] += 1
-        write_json(paths.RELATIONS / "official.json", new)
-        res.notes.append(f"官方列示關聯 {len(rels)} 筆；列示但本站未收錄之函釋 {len(unmatched)} 筆")
+        if sha256(sorted((r["interp_id"], r["law_id"]) for r in rels)) != sha256(sorted((r["interp_id"], r["law_id"]) for r in old.get("relations", []))):
+            stats["status_changed"] += 0
+        write_json(paths.RELATIONS / "official.json", {"generated_at": now_iso(), "relations": rels})
+        res.notes.append(f"官方列示關聯 {len(rels)} 筆；本次新收錄僅見於法規對應頁之函釋 {created} 筆（官方頁面未載發文日期）")
 
     # ------------------------------------------------------------------ technical
     def apply_technical(self, res: CollectResult, stats: Counter) -> None:
+        seen_ids = set()
         for raw in res.records:
             errs = VALIDATORS["technical"](raw)
             if errs:
                 stats["rejected"] += 1
                 continue
             rid = "tech-" + sha256(raw["source_key"])[:12]
+            if rid in seen_ids:
+                stats["unchanged"] += 1  # exact duplicate row inside the official dataset
+                continue
+            seen_ids.add(rid)
             existing = self.tech.get(rid)
             rec = {"id": rid, **{k: v for k, v in raw.items() if k not in ("source",)}, "sources": [raw["source"]]}
             rec["content_hash"] = content_hash("technical", rec)
@@ -409,5 +482,12 @@ class Run:
                 stats["modified"] += 1
             else:
                 existing["last_synced"] = now_iso()
+                existing.pop("source_missing_since", None)
                 self.tech.put(existing)
                 stats["unchanged"] += 1
+        complete = set(getattr(res, "extra", {}).get("complete_units", []))
+        for t in self.tech.all():
+            if (t.get("dataset") or {}).get("unit_id") in complete and t["id"] not in seen_ids and not t.get("source_missing_since"):
+                t["source_missing_since"] = now_iso()
+                self.tech.put(t)
+                stats["missing"] += 1

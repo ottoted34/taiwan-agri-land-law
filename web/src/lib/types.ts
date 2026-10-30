@@ -2,11 +2,11 @@ export type Article = [key: string, label: string | null, chapter: string | null
 export interface LawIdx { id: string; n: string; lv: string; st: string; md: string | null; tp: string[]; core: boolean; src: string; a: Article[]; h?: [string, string][] }
 export interface InterpIdx {
   id: string; no: string; d: string | null; ag: string; agid: string | null; h: boolean; cat: string; s: string; c: string;
-  tp: string[]; v: string; rel: [lawId: string, article: string | null, kind: string][]; fl: string[];
+  tp: string[]; v: string; rel: [lawId: string, article: string | null, kind: string][]; fl: string[]; yh?: number | null;
 }
 export interface TechIdx {
   id: string; t: string; se: string; is: string; ag: string; au: string; d: string | null; u: string | null; tp: string[];
-  isbn?: string | null; gpn?: string | null; pg?: string | null; ds?: string; dsu?: string; lic?: string; ls?: string;
+  isbn?: string | null; gpn?: string | null; pg?: string | null; ds?: string; dsu?: string; lic?: string; ls?: string; miss?: string | null;
 }
 export interface Manifest {
   built_at: string; git_sha: string;
@@ -26,7 +26,7 @@ export interface InterpDetail {
   sources: { source_id: string; url: string; fetched_at: string; source_key: string }[];
   validity: { status: string; confirmed: boolean; basis: Record<string, unknown>[]; notes?: string[] };
   topics: string[]; flags: string[]; relations: Relation[]; first_seen: string; last_synced: string; version: number;
-  history?: { at: string; changed_fields: string[]; previous: Record<string, string> }[]; source_missing_since?: string;
+  history?: { at: string; changed_fields: string[]; previous: Record<string, string> }[]; source_missing_since?: string; year_hint?: number | null;
 }
 export interface LawVersionRef { id: string; date: string | null; kind: "captured" | "official_history"; full: boolean; entry: string | null; url: string | null }
 export interface LawDetail {

@@ -106,6 +106,8 @@ _DOC_LEAD_STOP = set("日月年號、及與函以前依並或之於係經暨同�
 
 
 def _trim_prefix(p: str) -> str:
+    if "日" in p[:-2]:  # '二月五日農授糧字' / '九十三年四月六日農糧企字' -> drop the date words
+        p = p[p.rindex("日", 0, len(p) - 2) + 1:]
     while len(p) > 2 and p[0] in _DOC_LEAD_STOP:
         p = p[1:]
     return p
@@ -174,3 +176,42 @@ def load_yaml(path: Path) -> Any:
 
 def slug(s: str) -> str:
     return re.sub(r"[^0-9A-Za-z一-鿿]+", "-", nfkc(s)).strip("-")
+
+
+def subject_key(s: str | None) -> str:
+    """Normalised subject used for identity / dedup: drop whitespace, punctuation and leading item numbers."""
+    t = nfkc(s).translate(FW_DIGITS)
+    t = re.sub(r"^\s*\d{1,4}\s*", "", t)
+    t = re.sub(r"[\s，。、；：:,.;「」『』（）()〈〉《》\-－—]", "", t)
+    return t[:60]
+
+
+def interp_id(docno: str, date: str | None, subject: str) -> str:
+    return "itp-" + sha256(f"{docno}|{date or ''}|{subject_key(subject)}")[:10]
+
+
+def year_hint_from_docno(docno: str) -> int | None:
+    """公文文號前 3 碼通常為民國年度（如 1010731383 -> 101；0970105603 -> 97）。僅供排序參考。"""
+    m = re.search(r"第0?(\d{2,3})\d{5,}", docno or "")
+    if not m:
+        return None
+    y = int(m.group(1))
+    if y >= 1000:
+        return None
+    if 70 <= y <= 130:
+        return y + 1911
+    return None
+
+
+_CN_DATE = re.compile(r"(?:民國)?([0-9一二三四五六七八九十百零〇○]{2,4})年([0-9一二三四五六七八九十]{1,3})月([0-9一二三四五六七八九十]{1,3})日")
+
+
+def date_in_text(s: str | None) -> str | None:
+    """'九十三年四月六日農糧企字…' -> '2004-04-06'; requires an explicit year."""
+    m = _CN_DATE.search(nfkc(s).replace("○", "〇"))
+    if not m:
+        return None
+    y, mo, d = (cn_to_int(x) for x in m.groups())
+    if None in (y, mo, d):
+        return None
+    return roc_to_iso(f"{y}/{mo}/{d}")

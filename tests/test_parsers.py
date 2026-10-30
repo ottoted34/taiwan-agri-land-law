@@ -28,6 +28,14 @@ def test_docno_normalisation():
         "農授糧字第1020723962號", "農農保字第1142655512號"]
 
 
+def test_docno_with_date_prefix():
+    from agrilaw.util import date_in_text
+    assert normalize_docno("二月五日農授糧字第0931001784號") == "農授糧字第0931001784號"
+    assert normalize_docno("七日台八九內中地字第8906564號") == "台八九內中地字第8906564號"
+    assert date_in_text("九十三年四月六日農糧企字○九三一○七○三六七號函") == "2004-04-06"
+    assert date_in_text("二月五日農授糧字第0931001784號") is None
+
+
 def test_article_keys():
     assert article_key("第 8-1 條") == "8-1"
     assert article_key("第八條之一") == "8-1"

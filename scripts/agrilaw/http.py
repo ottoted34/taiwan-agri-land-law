@@ -57,17 +57,23 @@ class Client:
         host = f"{p.scheme}://{p.netloc}"
         if host not in self._robots:
             rp = urllib.robotparser.RobotFileParser()
-            try:
-                r = self.s.get(host + "/robots.txt", timeout=self.timeout)
-                if r.status_code == 200:
-                    rp.parse(r.text.splitlines())
-                elif r.status_code in (401, 403):
-                    rp.disallow_all = True
-                else:  # 404 etc. -> no restrictions published
-                    rp.allow_all = True
-            except requests.RequestException:
-                rp = None  # unknown; treat as unavailable later
-            self._robots[host] = rp
+            got = False
+            for attempt in range(3):
+                try:
+                    r = self.s.get(host + "/robots.txt", timeout=max(self.timeout, 60))
+                    if r.status_code == 200:
+                        rp.parse(r.text.splitlines())
+                    elif r.status_code in (401, 403):
+                        rp.disallow_all = True
+                    elif r.status_code >= 500:
+                        raise requests.RequestException(f"HTTP {r.status_code}")
+                    else:  # 404 etc. -> no restrictions published
+                        rp.allow_all = True
+                    got = True
+                    break
+                except requests.RequestException:
+                    time.sleep(5 * (attempt + 1))
+            self._robots[host] = rp if got else None
         rp = self._robots[host]
         if rp is None:
             raise SourceUnavailable(f"robots.txt unreachable for {host}")

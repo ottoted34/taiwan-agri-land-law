@@ -1,6 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import { getInterp, getManifest } from "../lib/data";
-import { articleAnchor, articleName, dt, roc } from "../lib/text";
+import { articleAnchor, articleName, dt, letterDate, roc } from "../lib/text";
 import { CopyButton, ErrorBox, ExtLink, Loading, Section, TypeTag, useAsync, ValidityTag } from "../components/ui";
 
 const KIND: Record<string, string> = { official: "官方列示", extracted: "系統比對（演算法建議）", manual: "人工確認" };
@@ -21,9 +21,9 @@ export default function InterpPage() {
       <h1 style={{ marginTop: 8 }}>{r.subject}</h1>
       <dl className="kv card" style={{ marginBottom: 16 }}>
         <dt>發文機關</dt><dd>{r.agency_text || "（原始資料未載）"}{r.historical_name && r.agency_name && <div className="small muted">改制前機關：{r.historical_name}；目前業務承接機關（業務對照，非效力認定）：{r.agency_name}</div>}</dd>
-        <dt>發文日期</dt><dd>{roc(r.date, true)}（{r.date}）</dd>
+        <dt>發文日期</dt><dd>{r.date ? <>{roc(r.date, true)}（{r.date}）</> : <>{letterDate(null, r.year_hint)}<div className="small muted">本筆僅見於官方「法規對應解釋函」頁面，該頁未提供發文日期；推估年度僅供排序，請查官方原文。</div></>}</dd>
         <dt>發文字號</dt><dd className="row">{r.docno} <CopyButton text={r.docno} label="複製字號" /> <CopyButton text={cite} label="複製引用" /></dd>
-        <dt>官方原文</dt><dd>{r.sources.map((s) => <div key={s.source_key}><ExtLink href={s.url}>{s.source_id === "rmis-interpretations" ? "農地及農舍法規檢索系統" : s.source_id}</ExtLink> <span className="tiny muted">擷取 {dt(s.fetched_at)}</span></div>)}</dd>
+        <dt>官方原文</dt><dd>{r.sources.map((s) => <div key={s.source_key}><ExtLink href={s.url}>{s.source_id === "rmis-interpretations" ? "農地及農舍法規檢索系統（函釋明細）" : s.source_id === "rmis-lawexp" ? "農地及農舍法規檢索系統（法規對應解釋函頁）" : s.source_id}</ExtLink> <span className="tiny muted">擷取 {dt(s.fetched_at)}</span></div>)}</dd>
         <dt>最後確認</dt><dd>{dt(r.last_synced)}（首次收錄 {dt(r.first_seen)}；內容版本 {r.version}）</dd>
       </dl>
       {r.source_missing_since && <div className="callout danger" style={{ marginBottom: 12 }}>官方來源自 {dt(r.source_missing_since)} 起已查無此筆，可能已下架、搬移或停止適用，請向主管機關確認。本站保留歷史紀錄供查考。</div>}

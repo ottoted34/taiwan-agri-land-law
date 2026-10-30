@@ -3,7 +3,7 @@ import { Link, useSearchParams } from "react-router-dom";
 import { getInterps, getLaws, getManifest, getTech } from "../lib/data";
 import { parseQuery, prepInterps, prepLaws, prepTech, searchArticles, searchInterps, searchTech } from "../lib/search";
 import type { ParsedQuery } from "../lib/search";
-import { articleAnchor, roc, rocToIso } from "../lib/text";
+import { articleAnchor, letterDate, roc, rocToIso } from "../lib/text";
 import type { Manifest } from "../lib/types";
 import { CopyButton, ErrorBox, Hl, Loading, Pager, TypeTag, useAsync, VALIDITY_SHORT, ValidityTag } from "../components/ui";
 
@@ -44,7 +44,7 @@ export default function SearchPage() {
     const bySc = <T extends { score: number },>(arr: T[], get: (x: T) => string | null) => [...arr].sort((a, b) => b.score - a.score || (get(b) || "").localeCompare(get(a) || ""));
     return {
       pq, man,
-      interps: sort === "date" || !q ? byDate(iHits, (x) => x.r.d) : bySc(iHits, (x) => x.r.d),
+      interps: sort === "date" || !q ? byDate(iHits, (x) => x.r.d || (x.r.yh ? `${x.r.yh}-00` : null)) : bySc(iHits, (x) => x.r.d || (x.r.yh ? `${x.r.yh}-00` : null)),
       arts: bySc(aHits, (x) => x.a.law.md),
       tech: sort === "date" || !q ? byDate(tHits, (x) => x.r.d) : bySc(tHits, (x) => x.r.d),
     };
@@ -122,7 +122,7 @@ export default function SearchPage() {
         {showInterp && res.interps.length > 0 && <ResultBlock title="函釋" total={res.interps.length} more={tab === "all" ? () => set("type", "interp") : undefined}>
           {(tab === "all" ? res.interps.slice(0, 8) : res.interps.slice((page - 1) * SIZE, page * SIZE)).map(({ r }) =>
             <div key={r.id} className="result">
-              <div className="meta"><TypeTag kind="interp" /><span>{roc(r.d)}</span><span>{r.ag || "（未載機關）"}</span>{r.h && <span className="tag neutral">改制前</span>}<ValidityTag status={r.v} />
+              <div className="meta"><TypeTag kind="interp" /><span>{letterDate(r.d, r.yh)}</span><span>{r.ag || "（未載機關）"}</span>{r.h && <span className="tag neutral">改制前</span>}<ValidityTag status={r.v} />
                 {r.cat && r.cat !== "解釋函" && <span className="tag neutral">{r.cat}</span>}</div>
               <h3><Link to={`/interp/${r.id}`}><Hl text={r.s || "（無主旨）"} terms={pq.terms} max={300} /></Link></h3>
               <div className="row tiny muted"><span>{r.no}</span><CopyButton text={r.no} label="複製字號" /></div>

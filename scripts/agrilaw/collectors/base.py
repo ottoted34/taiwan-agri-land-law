@@ -19,6 +19,7 @@ class CollectResult:
     notes: list[str] = field(default_factory=list)
     status: str = "ok"  # ok | partial | failed | robots_disallowed | unavailable
     requests: int = 0
+    extra: dict[str, Any] = field(default_factory=dict)
 
 
 class Collector:
