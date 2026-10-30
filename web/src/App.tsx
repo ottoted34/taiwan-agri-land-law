@@ -8,7 +8,6 @@ import LawPage from "./pages/LawPage";
 import Compare from "./pages/Compare";
 import InterpPage from "./pages/InterpPage";
 import TechPage from "./pages/TechPage";
-import Updates from "./pages/Updates";
 import Sources from "./pages/Sources";
 import Guide from "./pages/Guide";
 import About from "./pages/About";
@@ -16,7 +15,7 @@ import Assist from "./pages/Assist";
 
 const NAV: [string, string][] = [
   ["/search", "全站搜尋"], ["/laws", "法規"], ["/search?type=interp", "函釋"], ["/search?type=tech", "農業技術"],
-  ["/assist", "案件審查輔助"], ["/sources", "資料來源"], ["/updates", "更新紀錄"], ["/guide", "使用說明"],
+  ["/assist", "案件審查輔助"], ["/sources", "資料來源"], ["/guide", "使用說明"],
 ];
 
 export default function App() {
@@ -48,7 +47,6 @@ export default function App() {
         <Route path="/law/:id/compare" element={<Compare />} />
         <Route path="/interp/:id" element={<InterpPage />} />
         <Route path="/tech/:id" element={<TechPage />} />
-        <Route path="/updates" element={<Updates />} />
         <Route path="/sources" element={<Sources />} />
         <Route path="/guide" element={<Guide />} />
         <Route path="/about" element={<About />} />
@@ -58,7 +56,7 @@ export default function App() {
     </main>
     <footer className="site"><div className="inner">
       <p style={{ marginTop: 0 }}><strong>非官方網站聲明：</strong>{DISCLAIMER}</p>
-      <p className="row" style={{ gap: 16 }}><Link to="/about">聲明及資料授權</Link><Link to="/sources">資料來源與涵蓋範圍</Link><Link to="/updates">更新紀錄</Link>
+      <p className="row" style={{ gap: 16 }}><Link to="/about">聲明及資料授權</Link><Link to="/sources">資料來源與涵蓋範圍</Link>
         <a href="https://github.com/ottoted34/taiwan-agri-land-law" target="_blank" rel="noopener noreferrer">GitHub 原始碼</a></p>
     </div></footer>
   </>;

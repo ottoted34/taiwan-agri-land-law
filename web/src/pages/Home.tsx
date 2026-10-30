@@ -5,9 +5,6 @@ import { dt, roc } from "../lib/text";
 import { DISCLAIMER, ErrorBox, Loading, TypeTag, useAsync, ValidityTag } from "../components/ui";
 
 const QUICK = ["資材室", "農機具室", "溫室", "網室", "鋪設水泥", "填土", "貨櫃", "農用證明", "部分面積", "果樹", "集貨", "農路"];
-const RESULT_LABEL: Record<string, string> = {
-  success_changed: "已成功檢查，有資料異動", success_no_change: "已成功檢查、無資料異動", partial_failure: "部分來源檢查失敗", failed: "檢查失敗",
-};
 
 export default function Home() {
   const nav = useNavigate();
@@ -39,9 +36,8 @@ export default function Home() {
         <Link to="/laws" className="card stat" style={{ textDecoration: "none", color: "inherit" }}><b>{man.counts.laws}</b><span>部法規（{man.counts.articles.toLocaleString()} 條／點）</span></Link>
         <Link to="/search?type=interp" className="card stat" style={{ textDecoration: "none", color: "inherit" }}><b>{man.counts.interps.toLocaleString()}</b><span>件函釋</span></Link>
         <Link to="/search?type=tech" className="card stat" style={{ textDecoration: "none", color: "inherit" }}><b>{man.counts.tech.toLocaleString()}</b><span>筆農業技術書目</span></Link>
-        <Link to="/updates" className="card stat" style={{ textDecoration: "none", color: "inherit" }}><b style={{ fontSize: "1rem", paddingTop: 6 }}>{dt(man.last_success_any)}</b><span>最後成功同步（臺灣時間）</span></Link>
+        <div className="card stat"><b style={{ fontSize: "1rem", paddingTop: 6 }}>{dt(man.last_success_any)}</b><span>最後成功同步（臺灣時間）</span></div>
       </div>
-      {man.latest_run && <p className="small muted">最近一次更新作業：{dt(man.latest_run.started_at)}（{man.latest_run.mode}）— {RESULT_LABEL[man.latest_run.result] || man.latest_run.result}。<Link to="/updates">查看更新紀錄</Link></p>}
 
       <div className="grid cols-2" style={{ marginBottom: 16 }}>
         <section className="card">

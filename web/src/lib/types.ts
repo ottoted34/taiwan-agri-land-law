@@ -12,8 +12,7 @@ export interface Manifest {
   built_at: string; git_sha: string;
   counts: { laws: number; articles: number; interps: number; tech: number; law_versions: number };
   validity_counts: Record<string, number>; validity_labels: Record<string, string>;
-  last_success: Record<string, string | null>; last_success_any: string | null;
-  latest_run: { run_id: string; mode: string; started_at: string; finished_at: string; result: string } | null;
+  last_success_any: string | null;
   law_names: Record<string, string>; agency_names: Record<string, string>;
   topics: { legal_topics: Record<string, { label: string; keywords: string[] }>; technical_topics: Record<string, { group: string; label: string; keywords: string[] }> };
   synonyms: string[][];
