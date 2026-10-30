@@ -28,3 +28,8 @@ laws:
   - {name: 實施都市計畫以外地區建築物管理辦法, topics: [building, facility]}
   - {name: 行政程序法, topics: [procedure]}
   - {name: 行政罰法, topics: [procedure]}
+  - {name: 集村興建農舍獎勵及協助辦法, topics: [farmhouse]}
+  - {name: 農業技術密集或資本密集類目標準, topics: [land_control]}
+  - {name: 農業動力用電範圍及標準, topics: [facility]}
+  - {name: 農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則, topics: [land_control]}
+  - {name: 擴大家庭農場經營規模協助農民購買耕地貸款辦法, topics: [farm_use]}

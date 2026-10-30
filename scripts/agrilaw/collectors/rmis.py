@@ -235,6 +235,21 @@ class RmisInterpretations(Collector):
             if not got and p != last:
                 empty_pages.append(p)
             rows.extend(got)
+        if empty_pages:  # second pass after a pause: the empty blocks are usually transient on the server
+            time.sleep(60)
+            still = []
+            for p in empty_pages:
+                self.client.s.cookies.clear()
+                try:
+                    got, _ = parse_news_list(self.client.get(f"{BASE}NewsList.aspx?page={p}", expect_html=True).text)
+                except SourceError:
+                    got = []
+                if got:
+                    rows.extend(got)
+                else:
+                    still.append(p)
+            res.notes.append(f"第二輪補抓空白頁：{len(empty_pages) - len(still)}／{len(empty_pages)} 頁成功")
+            empty_pages = still
         if empty_pages:
             res.complete = False
             res.notes.append(f"列表第 {', '.join(map(str, empty_pages[:20]))} 頁重試後仍無資料（官方伺服器回應「目前無資料可顯示」），本次不視為完整比對")
