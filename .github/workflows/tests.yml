@@ -1,0 +1,32 @@
+name: tests
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["data/**"]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  python:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt detect-secrets pip-audit
+      - run: python -m pytest -q tests
+      - name: secret scan
+        run: |
+          detect-secrets scan --exclude-files '^(tests/fixtures|data|web/package-lock\.json)/' > .secrets.json
+          python -c "import json,sys;d=json.load(open('.secrets.json'));n=sum(len(v) for v in d['results'].values());print('findings',n);sys.exit(1 if n else 0)"
+      - name: dependency audit
+        run: pip-audit -r requirements.txt
+  web:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22, cache: npm, cache-dependency-path: web/package-lock.json}
+      - working-directory: web
+        run: npm ci && npm run typecheck && npm test && npm audit --omit=dev --audit-level=high

@@ -1,0 +1,29 @@
+# 每月 1 日 04:30（臺灣時間）來源盤點：重新檢查所有來源連線與 robots 規則、重新搜尋開放資料目錄、全部函釋明細重新比對
+name: source-audit
+on:
+  schedule:
+    - cron: "30 20 1 * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - working-directory: scripts
+        run: python -m agrilaw.cli sync --mode monthly
+      - uses: ./.github/actions/commit-data
+        with: {message: "data: monthly source audit [run ${{ github.run_id }}]"}
+  deploy:
+    needs: audit
+    if: always() && needs.audit.result != 'cancelled'
+    uses: ./.github/workflows/deploy.yml
+    permissions: {contents: read, pages: write, id-token: write}

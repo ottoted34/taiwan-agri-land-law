@@ -8,7 +8,7 @@ import json
 import re
 
 from ..http import SourceError
-from ..util import load_yaml, nfkc, now_iso, sha256
+from ..util import clean, load_yaml, nfkc, now_iso, sha256
 from ..paths import CONFIG
 from .base import CollectResult, Collector
 
@@ -45,13 +45,67 @@ def _ym(s) -> str | None:
     return None
 
 
+LIST_API = "https://data.moa.gov.tw/api/open_list.ashx"
+PUB_TITLE = re.compile(r"專刊|彙報|專訊|月刊|季刊|期刊|出版|叢書|專輯|手冊|技術|農情|研究|成果|問答")
+EXCLUDE_TITLE = re.compile(r"技術移轉|技轉|商標|品種權|專利|授權|徵才|採購|預算|決算")
+
+
+def discover(client, agencies: dict) -> tuple[list[dict], list[str]]:
+    """Find publication datasets of research institutes / stations in the MOA open-data catalogue."""
+    found, notes, seen = [], [], set()
+    names = {a["id"]: a for a in agencies.values() if a.get("priority", 3) <= 2}
+    for aid, a in names.items():
+        kw = a.get("short") or a["name"]
+        for page in range(1, 4):
+            try:
+                r = client.s.post(LIST_API, data={"Page": page, "Limit": 50, "Keyword": kw, "Ord": 1,
+                                                  "Sel_Catalog": "", "Sel_Organ": "", "Sel_Format": ""}, timeout=60)
+                client.requests_made += 1
+                payload = r.json()
+            except Exception as e:  # noqa: BLE001
+                notes.append(f"目錄查詢失敗 {kw}: {type(e).__name__}")
+                break
+            data = payload.get("Data") or []
+            for it in data:
+                title, organ = nfkc(it.get("Title")), nfkc(it.get("Organ"))
+                short = a.get("short") or ""
+                if it["ID"] in seen or not (short and (short in title or short in organ or short[:2] in organ)):
+                    continue
+                if PUB_TITLE.search(title) and not EXCLUDE_TITLE.search(title):
+                    seen.add(it["ID"])
+                    found.append({"unit_id": it["ID"], "title": title, "organ": organ, "agency_id": aid,
+                                  "series": re.sub(r"^(.*?(改良場|試驗所|繁殖場|中心))", "", title) or title})
+            if page >= int(payload.get("Total_pages") or 1):
+                break
+    return found, notes
+
+
 class DataMoaPublications(Collector):
     source_id = "datamoa-publications"
     kind = "technical"
 
     def collect(self, mode: str) -> CollectResult:
+        from ..agencies import registry
+        from ..paths import META
+        from ..util import read_json, write_json
         res = CollectResult(self.source_id, self.kind)
-        sets = load_yaml(CONFIG / "sources" / "technical_datasets.yaml")["datasets"]
+        static = load_yaml(CONFIG / "sources" / "technical_datasets.yaml")["datasets"]
+        cat_path = META / "datamoa-catalog.json"
+        catalog = read_json(cat_path, None)
+        if mode in ("monthly", "full") or catalog is None:
+            disc, notes = discover(self.client, registry()["agencies"])
+            res.notes.extend(notes)
+            if disc:
+                catalog = {"discovered_at": now_iso(), "datasets": disc}
+                write_json(cat_path, catalog)
+            elif catalog is None:
+                catalog = {"datasets": []}
+        by_id = {d["unit_id"]: d for d in (catalog or {}).get("datasets", [])}
+        for d in static:
+            by_id[d["unit_id"]] = {**by_id.get(d["unit_id"], {}), **d}
+        excluded = {str(x) for x in load_yaml(CONFIG / "sources" / "technical_datasets.yaml").get("exclude", [])}
+        sets = [d for k, d in by_id.items() if k not in excluded]
+        res.notes.append(f"出版品資料集 {len(sets)} 個")
         for ds in sets:
             url = SVC.format(ds["unit_id"])
             try:
@@ -65,7 +119,7 @@ class DataMoaPublications(Collector):
                 continue
             n = 0
             for row in data:
-                title = nfkc(str(_first(row, TITLE) or ""))
+                title = clean(str(_first(row, TITLE) or ""))
                 issue = nfkc(str(_first(row, ISSUE) or ""))
                 link = _first(row, LINK)
                 if not title:
@@ -79,7 +133,7 @@ class DataMoaPublications(Collector):
                     "series": ds["series"],
                     "issue": issue,
                     "agency_id": ds["agency_id"],
-                    "authors": nfkc(str(_first(row, AUTHOR) or "")),
+                    "authors": clean(str(_first(row, AUTHOR) or "")),
                     "date": _ym(_first(row, DATE)),
                     "url": link,
                     "isbn": row.get("ISBN"),

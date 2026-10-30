@@ -1,0 +1,29 @@
+# 農業技術資料（試驗研究機構出版品目錄）每週四 03:50 臺灣時間同步
+name: update-technical
+on:
+  schedule:
+    - cron: "50 19 * * 3"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - working-directory: scripts
+        run: python -m agrilaw.cli sync --mode technical
+      - uses: ./.github/actions/commit-data
+        with: {message: "data: technical sync [run ${{ github.run_id }}]"}
+  deploy:
+    needs: sync
+    if: always() && needs.sync.result != 'cancelled'
+    uses: ./.github/workflows/deploy.yml
+    permissions: {contents: read, pages: write, id-token: write}

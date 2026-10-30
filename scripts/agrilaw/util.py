@@ -29,6 +29,14 @@ def nfkc(s: str | None) -> str:
     return re.sub(r"[ \t　\xa0]+", " ", s).strip()
 
 
+def clean(s: str | None) -> str:
+    """Whitespace-only cleanup for official text. Never alters punctuation or characters."""
+    if not s:
+        return ""
+    s = s.replace("\xa0", " ")
+    return re.sub(r"[ \t]+", " ", s).strip()
+
+
 def cn_to_int(s: str) -> int | None:
     """Convert Chinese numerals up to 9999 (e.g. 一百零五, 二十九) or arabic digits."""
     s = s.strip().translate(FW_DIGITS)
@@ -94,13 +102,22 @@ def iso_to_roc(iso: str | None) -> str:
 DOCNO_RE = re.compile(r"([一-鿿]{1,8}字)\s*第\s*([0-9A-Za-z\-]+)\s*號")
 
 
+_DOC_LEAD_STOP = set("日月年號、及與函以前依並或之於係經暨同前開揭第")
+
+
+def _trim_prefix(p: str) -> str:
+    while len(p) > 2 and p[0] in _DOC_LEAD_STOP:
+        p = p[1:]
+    return p
+
+
 def normalize_docno(s: str | None) -> str:
     """Canonical 發文字號: NFKC, remove spaces, upper-case letters. '農保規字第 1150230515 號' -> '農保規字第1150230515號'."""
     t = nfkc(s).translate(FW_DIGITS).replace(" ", "")
     m = DOCNO_RE.search(t)
     if not m:
         return t
-    return f"{m.group(1)}第{m.group(2).upper()}號"
+    return f"{_trim_prefix(m.group(1))}第{m.group(2).upper()}號"
 
 
 def docno_parts(s: str) -> tuple[str, str] | None:
@@ -110,7 +127,7 @@ def docno_parts(s: str) -> tuple[str, str] | None:
 
 def find_docnos(text: str) -> list[str]:
     t = nfkc(text).translate(FW_DIGITS).replace(" ", "")
-    return list(dict.fromkeys(f"{m.group(1)}第{m.group(2).upper()}號" for m in DOCNO_RE.finditer(t)))
+    return list(dict.fromkeys(f"{_trim_prefix(m.group(1))}第{m.group(2).upper()}號" for m in DOCNO_RE.finditer(t)))
 
 
 def sha256(obj: Any) -> str:
@@ -142,9 +159,17 @@ def write_json(path: Path, data: Any, compact: bool = False) -> None:
     os.replace(tmp, path)
 
 
+class _StrDateLoader(yaml.SafeLoader):
+    """Keep YAML dates as plain strings so config round-trips to JSON unchanged."""
+
+
+_StrDateLoader.yaml_implicit_resolvers = {k: [r for r in v if r[0] != "tag:yaml.org,2002:timestamp"]
+                                          for k, v in yaml.SafeLoader.yaml_implicit_resolvers.items()}
+
+
 def load_yaml(path: Path) -> Any:
     with open(path, encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        return yaml.load(f, Loader=_StrDateLoader)  # noqa: S506 - SafeLoader subclass
 
 
 def slug(s: str) -> str:

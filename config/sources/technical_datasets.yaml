@@ -1,0 +1,10 @@
+# 農業資料開放平臺（data.moa.gov.tw）出版品目錄資料集。
+# 系統每月自動從平臺目錄搜尋各試驗研究機構資料集（data/metadata/datamoa-catalog.json），
+# 下列為人工確認過的資料集，會與自動結果合併。unit_id 即平臺資料集代碼。
+datasets:
+  - {unit_id: "740", title: 臺南區農業改良場技術專刊目錄, agency_id: tndais, series: 技術專刊}
+  - {unit_id: "B84", title: 臺東區農業改良場農業專訊, agency_id: ttdares, series: 農業專訊}
+  - {unit_id: "B83", title: 臺東區農業改良場農情月刊, agency_id: ttdares, series: 農情月刊}
+  - {unit_id: "809", title: 桃園區農業改良場研究彙報, agency_id: tydares, series: 研究彙報}
+# 經人工判斷與本專案無關、不收錄的資料集代碼
+exclude: []

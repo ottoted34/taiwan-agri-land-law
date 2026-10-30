@@ -12,7 +12,7 @@ from urllib.parse import urljoin
 from ..articles import article_key, article_label, split_fulltext_articles
 from ..html import by_id_suffix, soup, text_of
 from ..http import SourceError
-from ..util import nfkc, normalize_docno, now_iso, roc_to_iso, sha256
+from ..util import clean, nfkc, normalize_docno, now_iso, roc_to_iso, sha256
 from .base import CollectResult, Collector
 
 BASE = "https://rmis.ardswc.gov.tw/Web/"
@@ -32,7 +32,7 @@ def parse_news_list(html: str) -> tuple[list[dict], int | None]:
             "rmis_id": int(m.group(1)),
             "date_text": get("lblExpDate"),
             "docno_text": get("lblExpWord"),
-            "subject": nfkc(a.get_text()),
+            "subject": clean(a.get_text()),
             "category": get("lblExpClass"),
         })
     last = None
@@ -51,11 +51,11 @@ def parse_news_detail(html: str) -> dict | None:
     g = lambda k: text_of(by_id_suffix(doc, f"ucNewsDetailOut1_{k}"))
     serial = doc.find(id=re.compile(r"ucNewsDetailOut1_hfExpSn$"))
     return {
-        "category": nfkc(g("lblExpClass")),
+        "category": clean(g("lblExpClass")),
         "date_text": nfkc(g("lblExpDate")),
         "docno_text": nfkc(g("lblExpWord")),
-        "agency_text": nfkc(g("lblExpDept")),
-        "subject": nfkc(g("lblExpTitle")),
+        "agency_text": clean(g("lblExpDept")),
+        "subject": clean(g("lblExpTitle")),
         "content": g("lblExpContent"),
         "memo": g("lblExpMemo"),
         "serial": serial.get("value") if serial else None,
@@ -66,7 +66,7 @@ def parse_directory(html: str) -> list[dict]:
     doc = soup(html)
     out, seen = [], set()
     for a in doc.find_all("a", href=True):
-        name = nfkc(a.get_text())
+        name = clean(a.get_text())
         href = urljoin(BASE, a["href"])
         if not name or len(name) < 3 or href in seen:
             continue
@@ -97,18 +97,18 @@ def parse_law_detail(html: str) -> dict | None:
                      "chapter": None, "text": _list_text(body)})
     hist = []
     for a in doc.find_all("a", id=re.compile(r"dl3_hlRelation_\d+$")):
-        t = nfkc(a.get_text())
+        t = clean(a.get_text())
         m = re.search(r"id=(\d+)", a.get("href", ""))
         hist.append({"text": re.sub(r"^\d+、", "", t), "date": roc_to_iso(t), "rmis_history_id": int(m.group(1)) if m else None})
     att = []
     for lab in doc.find_all(id=re.compile(r"dl5_lbl_DocName_\d+$")):
         idx = re.search(r"_(\d+)$", lab["id"]).group(1)
         link = doc.find(id=re.compile(rf"dl5_hl_DocFile_{idx}$"))
-        att.append({"name": nfkc(lab.get_text()), "url": urljoin(BASE, link["href"]) if link and link.get("href") else None})
+        att.append({"name": clean(lab.get_text()), "url": urljoin(BASE, link["href"]) if link and link.get("href") else None})
     exp = by_id_suffix(doc, "ucLawDetailOut1_hl_LawExp")
     return {
-        "name": nfkc(name.get_text()),
-        "docno_text": nfkc(text_of(by_id_suffix(doc, "ucLawDetailOut1_lblLawCode"), False)),
+        "name": clean(name.get_text()),
+        "docno_text": clean(text_of(by_id_suffix(doc, "ucLawDetailOut1_lblLawCode"), False)),
         "date_text": nfkc(text_of(by_id_suffix(doc, "ucLawDetailOut1_lblLaw_Date"), False)),
         "articles": arts,
         "histories": hist,
@@ -120,9 +120,12 @@ def parse_law_detail(html: str) -> dict | None:
 def _point_key(label: str) -> str | None:
     """行政規則 use 點: '一、' / '第1點' -> 'P1'."""
     from ..util import cn_to_int
-    m = re.search(r"第?\s*([0-9一二三四五六七八九十百]+)\s*[點、]", nfkc(label))
+    m = re.search(r"第?\s*([0-9一二三四五六七八九十百]+)(?:\s*[-之]\s*([0-9一二三四五六七八九十]+))?\s*[點、]", nfkc(label))
     if m and cn_to_int(m.group(1)) is not None:
-        return f"P{cn_to_int(m.group(1))}"
+        k = f"P{cn_to_int(m.group(1))}"
+        if m.group(2) and cn_to_int(m.group(2)) is not None:
+            k += f"-{cn_to_int(m.group(2))}"
+        return k
     return None
 
 
@@ -146,8 +149,8 @@ def parse_law_history(html: str) -> dict | None:
     content = text_of(by_id_suffix(doc, "ucLawHistoryDetailOut1_lbl_LawHistoryContent"))
     arts = split_fulltext_articles(content)
     return {
-        "name": nfkc(name.get_text()),
-        "docno_text": nfkc(text_of(by_id_suffix(doc, "ucLawHistoryDetailOut1_lblLawCode"), False)),
+        "name": clean(name.get_text()),
+        "docno_text": clean(text_of(by_id_suffix(doc, "ucLawHistoryDetailOut1_lblLawCode"), False)),
         "date": roc_to_iso(text_of(by_id_suffix(doc, "ucLawHistoryDetailOut1_lblLaw_Date"), False)),
         "content": content,
         "articles": arts if len(arts) >= 3 else [],
@@ -165,10 +168,10 @@ def parse_law_exp(html: str) -> dict | None:
         idx = re.search(r"_(\d+)$", w["id"]).group(1)
         items.append({
             "docno": normalize_docno(w.get_text()),
-            "title": nfkc(text_of(doc.find(id=re.compile(rf"dl4_lbl_exp_title_{idx}$")), False)),
+            "title": clean(text_of(doc.find(id=re.compile(rf"dl4_lbl_exp_title_{idx}$")), False)),
             "content": text_of(doc.find(id=re.compile(rf"dl4_lbl_exp_content_{idx}$"))),
         })
-    return {"name": nfkc(name.get_text()), "items": items}
+    return {"name": clean(name.get_text()), "items": items}
 
 
 # ---------------------------------------------------------------- collectors

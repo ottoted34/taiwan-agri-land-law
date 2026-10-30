@@ -10,7 +10,7 @@ import zipfile
 
 from ..articles import article_key, article_label
 from ..http import SourceError
-from ..util import load_yaml, nfkc, now_iso, roc_to_iso
+from ..util import clean, load_yaml, nfkc, now_iso, roc_to_iso
 from ..paths import CONFIG
 from .base import CollectResult, Collector
 
@@ -28,7 +28,7 @@ def _attachments(v) -> list[dict]:
                 v = json.loads(v)
             except ValueError:
                 return []
-    return [{"name": nfkc(a.get("FileName")), "url": a.get("FileURL")} for a in v if isinstance(a, dict)]
+    return [{"name": clean(a.get("FileName")), "url": a.get("FileURL")} for a in v if isinstance(a, dict)]
 
 
 def _histories(text: str) -> list[dict]:
@@ -36,14 +36,14 @@ def _histories(text: str) -> list[dict]:
     if not text:
         return []
     joined = re.sub(r"\r?\n\s*", "", text)
-    parts = re.split(r"(?:(?<=^)|(?<=[。；行\)）]))\s*(\d{1,3})\.(?=中華民國|民國)", joined)
+    chunks = re.split(r"(?=中華民國[一二三四五六七八九十百零〇]+年)", joined)
     out = []
-    if len(parts) > 1:
-        it = iter(parts[1:])
-        for seq, body in zip(it, it):
-            out.append({"seq": int(seq), "text": nfkc(body), "date": _roc_cn_date(body)})
-    else:
-        out.append({"seq": 1, "text": nfkc(joined), "date": _roc_cn_date(joined)})
+    for ch in chunks:
+        ch = re.sub(r"\s*\d{1,3}\.\s*$", "", ch).strip()  # trailing numbering of the next entry
+        ch = re.sub(r"^\d{1,3}\.\s*", "", ch).strip()
+        if not ch.startswith("中華民國"):
+            continue
+        out.append({"seq": len(out) + 1, "text": clean(ch), "date": _roc_cn_date(ch)})
     return out
 
 
@@ -69,7 +69,7 @@ def normalize_law(raw: dict, level_hint: str) -> dict:
     articles, chapter = [], None
     for a in raw.get("LawArticles") or []:
         if a.get("ArticleType") == "C":
-            chapter = nfkc(a.get("ArticleContent"))
+            chapter = clean(a.get("ArticleContent"))
             continue
         key = article_key(a.get("ArticleNo") or "")
         if not key:
@@ -85,17 +85,17 @@ def normalize_law(raw: dict, level_hint: str) -> dict:
         status = "partially_pending"
     return {
         "id": pcode,
-        "name": nfkc(raw.get("LawName")),
+        "name": clean(raw.get("LawName")),
         "level": nfkc(raw.get("LawLevel")) or level_hint,
         "category": nfkc(raw.get("LawCategory")),
         "official_url": f"https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode={pcode}" if pcode else raw.get("LawURL"),
         "modified_date": roc_to_iso(raw.get("LawModifiedDate")) if raw.get("LawModifiedDate") else None,
         "effective_date": roc_to_iso(raw.get("LawEffectiveDate")) if raw.get("LawEffectiveDate") else None,
-        "effective_note": eff_note,
-        "abandon_note": abandon,
+        "effective_note": clean(raw.get("LawEffectiveNote")),
+        "abandon_note": clean(raw.get("LawAbandonNote")),
         "status": status,
         "histories": _histories(raw.get("LawHistories") or ""),
-        "foreword": nfkc(raw.get("LawForeword")),
+        "foreword": clean(raw.get("LawForeword")),
         "articles": articles,
         "attachments": _attachments(raw.get("LawAttachements")),
     }

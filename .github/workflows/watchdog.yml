@@ -1,0 +1,47 @@
+# 監控：每天 12:10（臺灣時間）檢查每日同步是否在 50 小時內成功；逾時即開立 Issue（GitHub 會寄通知給 Repository 擁有者），
+# 並嘗試重新啟用被停用的排程。注意：GitHub 不保證排程永久執行，請參考 docs/maintenance.md。
+name: watchdog
+on:
+  schedule:
+    - cron: "10 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+  actions: write
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: re-enable scheduled workflows if GitHub disabled them
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          for w in update-laws.yml update-technical.yml source-audit.yml; do
+            state=$(gh workflow view "$w" --json state -q .state 2>/dev/null || echo unknown)
+            echo "$w: $state"
+            if [ "$state" != "active" ] && [ "$state" != "unknown" ]; then gh workflow enable "$w" && echo "re-enabled $w"; fi
+          done
+      - name: health
+        id: h
+        working-directory: scripts
+        run: |
+          set +e
+          python -m agrilaw.cli check-health --max-age-hours 50 > ../health.txt
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          cat ../health.txt
+      - name: open or update issue
+        if: steps.h.outputs.code != '0'
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          title="資料同步逾時警示"
+          n=$(gh issue list --state open --search "$title in:title" --json number -q '.[0].number')
+          body="$(cat health.txt)
+
+          檢查時間：$(TZ=Asia/Taipei date '+%F %T')（臺灣時間）
+          處理方式見 docs/maintenance.md「更新失敗怎麼辦」。"
+          if [ -n "$n" ]; then gh issue comment "$n" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
+          exit 1

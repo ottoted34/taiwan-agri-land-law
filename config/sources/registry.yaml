@@ -1,0 +1,120 @@
+# 官方資料來源登錄檔（機器可讀）。docs/source-audit.md 為人類可讀版本。
+# audit_status 只能為下列之一：
+#   synced_full        已完整盤點且可自動同步
+#   synced_partial     已盤點但只能部分同步
+#   manual             已盤點且需人工補充
+#   pending_license    已找到來源但尚未取得授權（或 robots.txt 不允許自動擷取）
+#   not_identified     尚未確認有適當資料來源
+#   discontinued       官方來源已停用
+#   unreachable        來源暫時無法連線（自 GitHub Actions 海外主機）
+#   no_relevant_data   經查核沒有與本專案相關的公開資料
+# 「已同步」不代表歷史文件全部收錄；每月 source-audit 會自動重新檢查連線與 robots 規則。
+last_reviewed: 2026-10-30
+sources:
+  - id: moj-law-api
+    name: 全國法規資料庫 開放資料 API（中文法律、命令）
+    agency: 法務部
+    url: https://law.moj.gov.tw/api/ch/order/json
+    probe_url: https://law.moj.gov.tw/api/ch/law/json
+    content: 法律 1,351 部、命令 10,453 部之現行全文、沿革、附件連結（2026-10-30 探測，資料集更新日 2026-10-22）
+    doc_types: [法律, 命令]
+    formats: [JSON(zip), XML(zip)]
+    api: true
+    fulltext: true
+    attachments: 連結（附表 PDF 由官方提供下載）
+    coverage: 現行版本；不含歷次修正前之條文全文
+    license: 法規條文依著作權法第9條不得為著作權標的；資料集依政府資料開放授權條款
+    auto_update: daily
+    audit_status: synced_full
+    collector: moj_law
+  - id: rmis-interpretations
+    name: 農地及農舍法規檢索系統－最新解釋函
+    agency: 農業部農村發展及水土保持署
+    url: https://rmis.ardswc.gov.tw/Web/NewsList.aspx
+    content: 通案性質解釋函，2026-10-30 查得 1,712 筆、172 頁，最早為民國89年3月27日
+    doc_types: [解釋函, 解釋令, 公告, 停止適用]
+    formats: [HTML]
+    api: false
+    fulltext: true
+    robots: 無 robots.txt（HTTP 404），未限制
+    coverage: 系統自述「僅提供通案性質之函釋查詢」；個案函復不在此系統
+    license: 政府機關公文（著作權法第9條）；網站另有政府網站資料開放宣告
+    auto_update: daily（前3頁）／weekly（全部列表）／monthly（全部明細重新比對）
+    audit_status: synced_full
+    collector: rmis_interpretations
+  - id: rmis-laws
+    name: 農地及農舍法規檢索系統－法規目錄、法規內容、歷史沿革
+    agency: 農業部農村發展及水土保持署
+    url: https://rmis.ardswc.gov.tw/Web/Directory.aspx
+    content: 24 部本系統內法規（含審查作業要點等行政規則）＋43 部外部法規連結；歷史沿革頁部分版本含全文
+    doc_types: [法律, 命令, 行政規則, 附表]
+    formats: [HTML, PDF附表]
+    api: false
+    fulltext: true
+    coverage: 歷史沿革全文僅部分版本提供；部分沿革頁僅有修正說明
+    auto_update: daily（現行內容）／weekly（歷史沿革）
+    audit_status: synced_full
+    collector: rmis_laws
+  - id: rmis-lawexp
+    name: 農地及農舍法規檢索系統－法規對應解釋函
+    agency: 農業部農村發展及水土保持署
+    url: https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013
+    content: 依法規列示相關解釋函（例：容許使用審查辦法 354 件、農業發展條例 54 件），作為「官方列示」關聯
+    formats: [HTML]
+    auto_update: weekly
+    audit_status: synced_full
+    collector: rmis_lawexp
+  - id: datamoa-publications
+    name: 農業資料開放平臺－試驗研究機構出版品目錄
+    agency: 農業部資訊司（各試驗研究機構提供）
+    url: https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740
+    content: 各區農業改良場技術專刊、研究彙報、農業專訊等書目（題名、作者、出版年月、ISBN、官方 PDF 連結）
+    formats: [JSON, XML, CSV]
+    api: true
+    fulltext: false
+    license: 政府資料開放授權條款（書目）；出版品全文著作權屬原機關，本站不鏡像 PDF
+    coverage: 僅限各機關上架於平臺之資料集；每月自動搜尋平臺目錄補充
+    auto_update: weekly；monthly 重新搜尋目錄
+    audit_status: synced_partial
+    collector: datamoa
+  - id: moa-law-system
+    name: 農業部主管法規查詢系統
+    agency: 農業部
+    url: https://law.moa.gov.tw/index.aspx
+    content: 主管法規（含行政規則）、最新法規異動、草案預告
+    formats: [HTML]
+    note: 自 GitHub Actions 主機連線逾時（2026-10-30）；法律與命令改由全國法規資料庫同步，行政規則部分由 RMIS 補足
+    audit_status: unreachable
+  - id: datagov-54370
+    name: 政府資料開放平臺「行政院農業委員會主管法規查詢」資料集 54370
+    agency: 農業部
+    url: https://data.gov.tw/dataset/54370
+    note: 平臺頁面顯示資源資料量 0、資源更新時間 2019-12-06，無可用下載；改用全國法規資料庫 API
+    audit_status: discontinued
+  - id: afa-site
+    name: 農糧署全球資訊網（農糧法規及解釋、溫網室設施專區、出版品）
+    agency: 農業部農糧署
+    url: https://www.afa.gov.tw/cht/index.php?code=list&ids=353
+    probe_url: https://www.afa.gov.tw/cht/index.php?code=list&ids=353
+    note: robots.txt 不允許本專案自動擷取（2026-10-30 確認）。農作產銷設施之核心規範（容許使用審查辦法附表一）已由全國法規資料庫及 RMIS 取得；農糧署個別文件需人工整理或向機關申請開放資料
+    audit_status: pending_license
+  - id: tari-site
+    name: 農業試驗所全球資訊網（出版品、技術服務）
+    agency: 農業部農業試驗所
+    url: https://www.tari.gov.tw/
+    note: 自 GitHub Actions 主機連線逾時；農業資料開放平臺未查得其出版品目錄資料集（每月自動重查）
+    audit_status: unreachable
+  - {id: tydares-site, name: 桃園區農業改良場網站, agency: 農業部桃園區農業改良場, url: "https://www.tydares.gov.tw/", note: "海外主機網路不可達；研究彙報目錄由開放資料平臺取得", audit_status: unreachable}
+  - {id: mdares-site, name: 苗栗區農業改良場網站, agency: 農業部苗栗區農業改良場, url: "https://www.mdares.gov.tw/", note: "海外主機網路不可達；開放資料平臺目錄每月自動重查", audit_status: unreachable}
+  - {id: tcdares-site, name: 臺中區農業改良場網站, agency: 農業部臺中區農業改良場, url: "https://www.tcdares.gov.tw/", note: "海外主機網路不可達；開放資料平臺目錄每月自動重查", audit_status: unreachable}
+  - {id: tndais-site, name: 臺南區農業改良場網站, agency: 農業部臺南區農業改良場, url: "https://www.tndais.gov.tw/", note: "海外主機網路不可達；技術專刊目錄由開放資料平臺取得", audit_status: unreachable}
+  - {id: kdais-site, name: 高雄區農業改良場網站, agency: 農業部高雄區農業改良場, url: "https://www.kdais.gov.tw/", note: "海外主機網路不可達；政府資料開放平臺有研究彙報資料集(56378)，每月自動重查", audit_status: unreachable}
+  - {id: hdares-site, name: 花蓮區農業改良場網站, agency: 農業部花蓮區農業改良場, url: "https://www.hdares.gov.tw/", note: "海外主機網路不可達；開放資料平臺目錄每月自動重查", audit_status: unreachable}
+  - {id: ttdares-site, name: 臺東區農業改良場網站, agency: 農業部臺東區農業改良場, url: "https://www.ttdares.gov.tw/", note: "海外主機網路不可達；農業專訊、農情月刊目錄由開放資料平臺取得", audit_status: unreachable}
+  - {id: tbrs-site, name: 茶及飲料作物改良場網站, agency: 農業部茶及飲料作物改良場, url: "https://www.tbrs.gov.tw/", note: 海外主機網路不可達, audit_status: unreachable}
+  - {id: tss-site, name: 種苗改良繁殖場網站, agency: 農業部種苗改良繁殖場, url: "https://www.tss.gov.tw/", note: 海外主機網路不可達, audit_status: unreachable}
+  - {id: kmweb, name: 農業知識入口網, agency: 農業部, url: "https://kmweb.moa.gov.tw/", note: "RSS 僅知識家、農情關注、活動；未提供改良場出版品機器可讀清單", audit_status: no_relevant_data}
+  - {id: moa-site, name: 農業部全球資訊網（組織、所屬機關）, agency: 農業部, url: "https://www.moa.gov.tw/ws.php?id=2514350", note: "所屬機關名錄來源；全站未見函釋查詢專區", audit_status: manual}
+  - {id: ia-site, name: 農田水利署網站, agency: 農業部農田水利署, url: "https://www.ia.gov.tw/", note: "可連線；尚未確認有與容許使用相關之函釋專區", audit_status: not_identified}
+  - {id: forest-site, name: 林業及自然保育署網站, agency: 農業部林業及自然保育署, url: "https://www.forest.gov.tw/", note: "可連線；林業設施相關規範以容許使用審查辦法附表二為主，林保署函釋專區尚未確認", audit_status: not_identified}
+  - {id: local-taichung, name: 臺中市法規查詢系統（地方自治法規）, agency: 臺中市政府, url: "https://lawsearch.taichung.gov.tw/", note: 地方規定模組已建立資料結構，尚未完成查核, audit_status: not_identified}

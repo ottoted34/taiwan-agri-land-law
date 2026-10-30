@@ -5,7 +5,8 @@ import re
 
 from .util import cn_to_int, nfkc
 
-_ART_RE = re.compile(r"第\s*([0-9０-９一二三四五六七八九十百零〇]+)\s*(?:[-－之]\s*([0-9０-９一二三四五六七八九十]+))?\s*條")
+_N = r"[0-9０-９一二三四五六七八九十百零〇]+"
+_ART_RE = re.compile(rf"第\s*({_N})\s*(?:[-－]\s*({_N}))?\s*條(?:\s*之\s*({_N}))?")
 
 
 def article_key(label: str) -> str | None:
@@ -15,8 +16,9 @@ def article_key(label: str) -> str | None:
     main = cn_to_int(m.group(1))
     if main is None:
         return None
-    if m.group(2):
-        sub = cn_to_int(m.group(2))
+    subtxt = m.group(2) or m.group(3)
+    if subtxt:
+        sub = cn_to_int(subtxt)
         return f"{main}-{sub}" if sub is not None else str(main)
     return str(main)
 

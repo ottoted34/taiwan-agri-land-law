@@ -5,7 +5,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-from .util import nfkc
+from .util import clean
 
 
 def soup(html: str) -> BeautifulSoup:
@@ -22,7 +22,7 @@ def text_of(node, keep_breaks: bool = True) -> str:
             tag.append("\n")
     t = node.get_text("")
     t = t.replace("\r", "")
-    lines = [nfkc(x) for x in t.split("\n")]
+    lines = [clean(x) for x in t.split("\n")]
     out, blank = [], False
     for ln in lines:
         if ln:
