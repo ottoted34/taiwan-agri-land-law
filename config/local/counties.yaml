@@ -37,21 +37,9 @@ counties:
         reviewed_by: 初始設定（待管理者複核）
         reviewed_at: 2026-10-30
         basis: 臺中市法規查詢系統法規內容頁（府授法規字第1150212413號令修正）
-      - law_system_id: GL001919
-        name: 臺中市政府農業局同意農業用地變更使用審查作業要點隔離綠帶或設施基準
-        topics: [land_change]
-        scenarios: [land_change, local]
-        reviewed_by: 初始設定（待管理者複核）
-        reviewed_at: 2026-10-30
-        basis: 臺中市法規查詢系統「農業類／行政規則」分類列表
-      - law_system_id: GL000534
-        name: 臺中市都市計畫保護區農業區農地重劃土地變更非農業使用審查作業要點
-        topics: [land_change]
-        scenarios: [land_change, local]
-        reviewed_by: 初始設定（待管理者複核）
-        reviewed_at: 2026-10-30
-        basis: 臺中市法規查詢系統「農業類／行政規則」分類列表
-    rejected: []
+    rejected:
+      - GL001919  # 官方標示「廢/停」（2026-10-30 首次同步發現），不收錄
+      - GL000534  # 官方標示「廢/停」（2026-10-30 首次同步發現），不收錄
   - {name: 臺北市, code: TPE, checked: false}
   - {name: 新北市, code: NWT, checked: false}
   - {name: 桃園市, code: TAO, checked: false}
