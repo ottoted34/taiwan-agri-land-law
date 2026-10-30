@@ -20,6 +20,8 @@ def main(argv=None) -> int:
     dg = sub.add_parser("diagnose")
     dg.add_argument("--out", default="../diagnostics")
     dg.add_argument("--max-pages", type=int, default=0)
+    dg.add_argument("--probe", default="", help="space-separated URLs to evaluate instead of the RMIS list check")
+    dg.add_argument("--follow", default="", help="regex of same-host links to follow one level when probing")
     sub.add_parser("build")
     h = sub.add_parser("check-health")
     h.add_argument("--max-age-hours", type=float, default=50)
@@ -34,7 +36,10 @@ def main(argv=None) -> int:
         return 0 if log["result"] != "failed" else 2
     if a.cmd == "diagnose":
         from pathlib import Path
-        from .diagnose import rmis_list
+        from .diagnose import probe, rmis_list
+        if a.probe:
+            print(json.dumps(probe(Path(a.out), a.probe.split(), a.follow), ensure_ascii=False, indent=1))
+            return 0
         print(json.dumps(rmis_list(Path(a.out), a.max_pages or None), ensure_ascii=False, indent=1))
         return 0
     if a.cmd == "postprocess":
