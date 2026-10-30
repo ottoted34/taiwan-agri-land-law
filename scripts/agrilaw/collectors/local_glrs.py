@@ -85,10 +85,13 @@ def parse_glrs_law(html: str, url: str) -> dict | None:
             arts[-1]["text"] += "\n" + text
         else:
             preface.append(first if len(text) > 400 else text)
+    abolished_mark = re.match(r"^\s*廢\s*/\s*停\s*", name)  # 官方系統於名稱前加「廢/停」標示已廢止或停止適用
+    if abolished_mark:
+        name = name[abolished_mark.end():]
     system = head.get("法規體系", "")
     level = system.split("/")[-1] if "/" in system else system
     status = "current"
-    if re.search(r"廢止|停止適用", head.get("公發布日_note", "") + head.get("法規名稱_note", "") + name):
+    if abolished_mark or re.search(r"廢止|停止適用", head.get("公發布日_note", "") + head.get("法規名稱_note", "") + name):
         status = "abolished"
     return {
         "name": name, "published_date": roc_to_iso(head.get("公發布日")), "modified_date": roc_to_iso(head.get("修正日期")) or roc_to_iso(head.get("公發布日")),

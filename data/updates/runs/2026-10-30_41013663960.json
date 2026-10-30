@@ -1,0 +1,121 @@
+{
+ "run_id": "41013663960",
+ "mode": "daily",
+ "started_at": "2026-10-30T14:22:19+08:00",
+ "sources": [
+  {
+   "source_id": "moj-law-api",
+   "status": "failed",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 2,
+   "missing_flagged": 0,
+   "requests": 0,
+   "notes": [
+    "全國法規資料庫查無（名稱不符或已廢止）：休閒農業輔導管理辦法、區域計畫法、區域計畫法施行細則、國土計畫法、土地稅法、土地稅法施行細則、實施都市計畫以外地區建築物管理辦法、山坡地保育利用條例、建築法、擴大家庭農場經營規模協助農民購買耕地貸款辦法、水土保持法、水土保持法施行細則、申請農業用地作農業設施容許使用審查辦法、行政程序法、行政罰法、農業主管機關受理申請許可案件及核發證明文件收費標準、農業動力用電範圍及標準、農業技術密集或資本密集類目標準、農業用地作農業使用認定及核發證明辦法、農業用地興建農舍辦法、農業用地變更回饋金撥繳及分配利用辦法、農業用地違規使用檢舉獎勵辦法、農業發展條例、農業發展條例施行細則、農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則、農田水利法、遺產及贈與稅法、都市計畫法、都市計畫法臺灣省施行細則、集村興建農舍獎勵及協助辦法、非都市土地使用管制規則",
+    "資料集更新日期：{}"
+   ],
+   "errors": [
+    "https://law.moj.gov.tw/api/ch/law/json: robots.txt unreachable for https://law.moj.gov.tw",
+    "https://law.moj.gov.tw/api/ch/order/json: robots.txt unreachable for https://law.moj.gov.tw"
+   ]
+  },
+  {
+   "source_id": "rmis-laws",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 24,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 25,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 3,
+   "notes": [
+    "列表頁數：172，本次讀取列表 30 筆（不重複）",
+    "明細擷取 0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "local-taichung",
+   "status": "ok",
+   "complete": true,
+   "added": 4,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 60,
+   "notes": [
+    "GL001919 官方名稱「廢/停 臺中市政府農業局同意農業用地變更使用審查作業要點隔離綠帶或設施基準」與設定「臺中市政府農業局同意農業用地變更使用審查作業要點隔離綠帶或設施基準」不同（可能已修正名稱），以官方為準",
+    "GL000534 官方名稱「廢/停 臺中市都市計畫保護區農業區農地重劃土地變更非農業使用審查作業要點」與設定「臺中市都市計畫保護區農業區農地重劃土地變更非農業使用審查作業要點」不同（可能已修正名稱），以官方為準",
+    "臺中市有 8 筆待管理者審核之候選法規（data/metadata/local-candidates.json）"
+   ],
+   "errors": []
+  }
+ ],
+ "events": [
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL000357",
+   "name": "臺中市申請農業用地作農業設施容許使用審查要點"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL002048",
+   "name": "臺中市都市計畫保護區農業區土地使用審查辦法"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL001919",
+   "name": "廢/停 臺中市政府農業局同意農業用地變更使用審查作業要點隔離綠帶或設施基準"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL000534",
+   "name": "廢/停 臺中市都市計畫保護區農業區農地重劃土地變更非農業使用審查作業要點"
+  }
+ ],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 0,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 927,
+   "no_known_cessation": 3004,
+   "needs_review": 53,
+   "amended_by_later": 56
+  },
+  "relations_extracted": 6289,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-10-30T14:25:43+08:00",
+ "result": "partial_failure"
+}
