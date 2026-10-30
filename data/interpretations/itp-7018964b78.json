@@ -1,0 +1,43 @@
+{
+ "id": "itp-7018964b78",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第1040800132號",
+ "date": "2015-01-12",
+ "date_text": "",
+ "agency_text": "內政部",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）請建築管理單位就本會農業設施得免申請建築執照之審認事宜配合辦理",
+ "content": "內政部104年1月12日內授營建管字第1040800132號函請建築管理單位就本會農業設施得免申請建築執照之審認事宜配合辦理。",
+ "memo": "摘自：農業部農村發展及水土保持署「農業用地作農業設施容許使用相關法規與實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:內授營建管字第1040800132號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "323b090ef13101d7c432fbbc6afef4542ba657e57a79d7b0ca6018aa6ae7faca",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

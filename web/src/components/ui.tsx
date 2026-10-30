@@ -44,6 +44,12 @@ export function ValidityTag({ status, confirmed }: { status: string; confirmed?:
   </span>;
 }
 
+/** 課程摘錄（教育訓練資料之文字，非函釋原文） */
+export const COURSE_FLAG = "course_summary";
+export function CourseTag({ fl }: { fl?: string[] }) {
+  return fl && fl.includes(COURSE_FLAG) ? <span className="tag warn" title="摘自農業部所屬機關教育訓練資料，非函釋原文；引用前請取得官方原文">課程摘錄・非原文</span> : null;
+}
+
 export function CopyButton({ text, label = "複製" }: { text: string; label?: string }) {
   const [ok, setOk] = useState(false);
   return <button className="btn ghost small no-print" onClick={async () => {

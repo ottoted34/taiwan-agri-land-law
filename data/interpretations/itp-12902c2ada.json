@@ -1,0 +1,46 @@
+{
+ "id": "itp-12902c2ada",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1061018395號",
+ "date": "2017-09-27",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）設施屋頂附屬設置綠能設施,建議應優先設置於不透光之附屬設施空間後,始得在不影響作物生育前提下,平均分散設置於植物栽培區屋",
+ "content": "106年9月27日農授糧字第1061018395號函設施屋頂附屬設置綠能設施,建議應優先設置於不透光之附屬設施空間後,始得在不影響作物生育前提下,平均分散設置於植物栽培區屋頂,以維持足夠之日照穿透。至植物栽培區屋頂附屬設置綠能設施,依容許辦法第28條規定,申請人應檢附農業經營實績之證明文件,並經直轄市、縣(市)主管機關查核確有農業經營事實,且符合原核定之計畫內容使用,故上開擬附設之綠能設施自應配合原核定計畫之農業生產狀態予以搭建,作為審查與農業經營是否相容及結合之依據。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農授糧字第1061018395號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "2de2513e1ce0d5a5a0af2ef8a1680d50776f098fa89ca1d652b218f06ebdebd0",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

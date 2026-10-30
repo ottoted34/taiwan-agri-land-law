@@ -3,7 +3,7 @@ import { useEffect, useMemo } from "react";
 import { Link, useLocation, useParams } from "react-router-dom";
 import { getInterps, getLaw } from "../lib/data";
 import { articleAnchor, articleName, dt, letterDate, roc } from "../lib/text";
-import { CopyButton, ErrorBox, ExtLink, Loading, Section, TypeTag, useAsync, ValidityTag } from "../components/ui";
+import { CopyButton, CourseTag, ErrorBox, ExtLink, Loading, Section, TypeTag, useAsync, ValidityTag } from "../components/ui";
 
 const STATUS: Record<string, string> = { current: "現行有效", abolished: "已廢止", partially_pending: "有已公布尚未施行之規定", needs_review: "尚待查核" };
 const SRC: Record<string, string> = { "moj-law-api": "全國法規資料庫開放資料", "rmis-laws": "農地及農舍法規檢索系統" };
@@ -69,7 +69,7 @@ export default function LawPage() {
                 <div className="doc">{a.text}</div>
                 {rel.length > 0 && <details className="small no-print" style={{ marginTop: 6 }}>
                   <summary>引用本條之函釋 {rel.length} 件（系統由函釋內文比對，非官方關聯）</summary>
-                  <ul>{rel.sort((x, y) => (y.d || "").localeCompare(x.d || "")).slice(0, 30).map((r) => <li key={r.id}><Link to={`/interp/${r.id}`}>{letterDate(r.d, r.yh)} {r.no}</Link> {r.s.slice(0, 60)}… <ValidityTag status={r.v} /></li>)}</ul>
+                  <ul>{rel.sort((x, y) => (y.d || "").localeCompare(x.d || "")).slice(0, 30).map((r) => <li key={r.id}><Link to={`/interp/${r.id}`}>{letterDate(r.d, r.yh)} {r.no}</Link> {r.s.slice(0, 60)}… <CourseTag fl={r.fl} /><ValidityTag status={r.v} /></li>)}</ul>
                   <Link to={`/search?type=interp&law=${law.id}&q=${encodeURIComponent(articleName(a.key).replace(/\s/g, ""))}`}>搜尋更多</Link>
                 </details>}
               </div>

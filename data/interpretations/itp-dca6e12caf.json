@@ -1,0 +1,52 @@
+{
+ "id": "itp-dca6e12caf",
+ "doc_class": "interpretation",
+ "docno": "農糧資字第1141028345號",
+ "date": "2025-12-02",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條附表1 所定「農糧剩餘副產物集貨加工室(場)」申",
+ "content": "114年12月2日農糧資字第1141028345號函查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條附表1 所定「農糧剩餘副產物集貨加工室(場)」申請基準及條件略以,該項設施係作為稻草、稻殼、竹木、果樹枝(皮)、花卉殘株及其他農糧剩餘副產物之集貨、加工場所及設施使用。農糧剩餘副產物之來源必須為農業生產經營過程中所剩餘之生物性副產物,旨案所詢「木碳、生物碳、木醋液、乾燥後鳳梨果皮」其所使用之加工原料應係屬農糧剩餘副產物,非農糧產品加工室之範疇。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": null,
+ "is_historical": false,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧資字第1141028345號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "231f9a9471bf2f2ac3d314a93eb7e97fb973b36393926a55fb95f4e5b0ca7799",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "orchard"
+ ],
+ "flags": [
+  "course_summary"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "(課程摘錄)查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條附表1 所定「農糧剩餘副產物集貨加工室(場)」申\n1"
+  }
+ ]
+}

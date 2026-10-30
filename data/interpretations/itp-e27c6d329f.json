@@ -1,0 +1,45 @@
+{
+ "id": "itp-e27c6d329f",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1080235338號",
+ "date": "2019-08-27",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）針對設施型農業計畫補助原則所指「鋼骨結構型溫網室」係以鋼骨為主要支柱,側樑結構加強,且具有固定基礎,倘農民所搭建設施符合",
+ "content": "另查農委會108年8月27日以農授糧字第1080235338號函針對設施型農業計畫補助原則所指「鋼骨結構型溫網室」係以鋼骨為主要支柱,側樑結構加強,且具有固定基礎,倘農民所搭建設施符合上開原則,且無密閉式外牆,屬開放性之生產設施者,應申請農業設施容許使用,得免申請建築執照。爰針對貴府所詢使用C型鋼或H型鋼作為主要支架之結構型鋼骨溫網室,倘符合上開審認原則,得屬免申請建築執照之農業設施類型。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農授糧字第1080235338號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "78e0a1da6c896acac07a97773ca7eea3a21881bdce0496c7f83de205cb3654a9",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

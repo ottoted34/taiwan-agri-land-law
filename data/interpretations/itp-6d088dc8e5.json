@@ -1,0 +1,44 @@
+{
+ "id": "itp-6d088dc8e5",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1050716690號",
+ "date": "2016-06-16",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）書函釀製啤酒得否申請農糧產品加工室一節,涉關所使用之農糧產品有無連結農業生產之事實,查一般啤酒之製作多以麥芽為主要原料,",
+ "content": "105年6月16日農糧企字第1050716690號書函釀製啤酒得否申請農糧產品加工室一節,涉關所使用之農糧產品有無連結農業生產之事實,查一般啤酒之製作多以麥芽為主要原料,經添加啤酒花取得獨特風味後發酵而成,自應檢視麥芽之來源是否確實鏈結地區農業生產,惟鑑於啤酒款式多元,其製程及原料使用或有差異,爰申請案應由容許使用受理機關依「基於農業生產之事實」及「連結農業生產」之旨意,就申請人所提經營計畫書內容,按設施與農業經營之必要性及合理性予以審認。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1050716690號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "b01e52fe0cc91a15184b1b20b4c2176c296154dfc4243b951640edfdfdb4f98c",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

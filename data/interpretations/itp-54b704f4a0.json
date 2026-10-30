@@ -1,0 +1,58 @@
+{
+ "id": "itp-54b704f4a0",
+ "doc_class": "interpretation",
+ "docno": "農授農保字第1150703574號",
+ "date": "2026-04-10",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）一、依申請農業用地作農業設施容許使用審查辦法申設地面型綠能設施之附屬設施(下稱綠能附屬設施),其審認原則,農業部前業以1",
+ "content": "(115年4月10日農授農保字第1150703574號)一、依申請農業用地作農業設施容許使用審查辦法申設地面型綠能設施之附屬設施(下稱綠能附屬設施),其審認原則,農業部前業以114年1月23日農農保字第1142655512號函及114年7月3日農農保字第1142656005號函說明在案。二、針對漁電共生案場倘有設置綠能附屬設施規模超過45平方公尺需求者,得於案場內,設置有綠能設施之同一地號土地,依非都市土地使用管制規則規定,向能源主管機關申請面積660平方公尺以下之公用事業設施。",
+ "memo": "摘自：農業部農村發展及水土保持署「農業用地作農業設施容許使用相關法規與實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農授農保字第1150703574號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "f94c06036e008b7dde8c30c141931b867ea625027591236f4da74d8c329d84c5",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "course_summary"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "(課程摘錄)一、依申請農業用地作農業設施容許使用審查辦法申設地面型綠能設施之附屬設施(下稱綠能附屬設施),其審認原則,農業部前業以1\n("
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "平方公尺需求者,得於案場內,設置有綠能設施之同一地號土地,依非都市土地使用管制規則規定,向能源主管機關申請面積660平方公尺以下之公用事業設施。"
+  }
+ ]
+}

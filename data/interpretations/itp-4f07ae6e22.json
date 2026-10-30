@@ -1,0 +1,45 @@
+{
+ "id": "itp-4f07ae6e22",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1040230847號",
+ "date": "2015-10-06",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）基於農業設施係輔助經營管理使用,須與農業經營密切相關,故申請設施要求所提之經營計畫內容須具合理性,並符合與農業經營之相當",
+ "content": "104年10月06日農授糧字第1040230847號函(魚菜共生)基於農業設施係輔助經營管理使用,須與農業經營密切相關,故申請設施要求所提之經營計畫內容須具合理性,並符合與農業經營之相當、必要性等原則。所稱「魚菜共生」,倘依貴府所敘,係於同一空間及同一設施,作農作及水產養殖等2種農業生產行為,為免造成申請設施面積藉以累加,宜以設施之主要用途予以審認核處,先予敘明。本案從事2種農業生產行為使用之農業設施,應逕依申請人所提主要用途之設施種類予以受理,並就該設施與農業經營之相當、必要性予以審認。至主要用途之認定倘有疑義,地方政府再按設施與經營之必要性、投資金額、產值等作為判斷依據,均屬適宜。另針對兼具之使用方式,宜請申請人於經營計畫明敘,始得就其相容性予以審認核處,並確保所申請設施依核定經營計畫內容使用。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農授糧字第1040230847號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "50ea7c4978f720adad8f6fdccbc130c5a239d6ac100be876f5a65594570a74fe",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

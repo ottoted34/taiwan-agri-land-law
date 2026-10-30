@@ -1,0 +1,44 @@
+{
+ "id": "itp-2e3b5dc3e5",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1080727168號",
+ "date": "2019-11-04",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）考量菇類產業需求,菇類培植廢棄包處理及再利用係屬專業之技術,協助處理菇類栽培場所產生之廢棄菇包,對於菇農及菇產業確有助益",
+ "content": "108年11月4日農糧企字第1080727168號函考量菇類產業需求,菇類培植廢棄包處理及再利用係屬專業之技術,協助處理菇類栽培場所產生之廢棄菇包,對於菇農及菇產業確有助益,單獨設置菇類培植廢棄包處理場尚屬合宜,惟剩餘農地仍應有農業使用行為。至得否於菇類培植廢棄包處理場將廢棄介質製成木質顆粒作為生質燃料一節,查容許辦法第13條附表1所定菇類培植廢棄包處理場之申請基準或條件,並無處理後續再製造生質燃料(造粒)之規範或限制,惟廢棄菇包原料加工製成生質能源燃料之製程複雜,已涉環保、消防等公共安全專業,仍須符合相關法規始得辦理。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1080727168號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "df1202715c0eb0fa47628f3f99d2516c370f968057c5d7952285013550d61e6f",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

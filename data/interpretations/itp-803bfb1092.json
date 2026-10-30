@@ -1,0 +1,53 @@
+{
+ "id": "itp-803bfb1092",
+ "doc_class": "interpretation",
+ "docno": "農企字第1060226404號",
+ "date": "2017-09-20",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）依據本會106年6月28日修正發布之申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第13條附表1農業資材室、",
+ "content": "106年9月20日農企字第1060226404號函依據本會106年6月28日修正發布之申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第13條附表1農業資材室、管理室之申請基準或條件分別規定,坐落之農業用地已興建農舍者,不得申請興建農業資材室、管理室。按其立法意旨係鑒於農舍已有農業資材室及管理室之使用性質,已興建農舍之土地不宜再興建農業資材室或管理室,合先敘明。上開申請基準或條件「坐落之農業用地『已興建』農舍者」係就申請農業資材室或管理室之時點,現勘該申請之土地是否已有農舍(含興建中或已完工),並以取得建造執照為審查基準,實務執行可請建築主管單位於申請農業用地作農業設施容許使用案件審查簽辦單另審認該筆土地是否申請興建農舍在案。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農企字第1060226404號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "20935525633a9bdd2156ed216cab65c42ce8cfd533a999eb81b62c51aac1cf24",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "(課程摘錄)依據本會106年6月28日修正發布之申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第13條附表1農業資材室、\n106年9月20日農企字第106"
+  }
+ ]
+}

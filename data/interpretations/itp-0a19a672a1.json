@@ -1,0 +1,44 @@
+{
+ "id": "itp-0a19a672a1",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1041026287號",
+ "date": "2016-01-18",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）容許辦法第13條第3項規定之車輛運(迴)轉空間不列計於興建面積,應指對應附表1所列設施細目之申請基準或條件之可興建面積,",
+ "content": "105年1月18日農糧企字第1041026287號函(第13條第3項)容許辦法第13條第3項規定之車輛運(迴)轉空間不列計於興建面積,應指對應附表1所列設施細目之申請基準或條件之可興建面積,雖不受該設施細目之可興建面積限制,惟附屬設施亦為農業設施之部分。爰車輛運(迴)轉空間之興建面積,除符合容許辦法第7條第1項但書規定之情形者外,其所有農業設施總面積,依同項規定仍不得超過申請設施所坐落之農業用地土地面積之40%。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1041026287號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "76f4f526761b6c24aea55c7fbaaa45d40fc0673470e433172f2cd637cea5c1b3",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

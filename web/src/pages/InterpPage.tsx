@@ -1,7 +1,13 @@
 import { Link, useParams } from "react-router-dom";
 import { getInterp, getManifest } from "../lib/data";
 import { articleAnchor, articleName, dt, letterDate, roc } from "../lib/text";
-import { CopyButton, ErrorBox, ExtLink, Loading, Section, TypeTag, useAsync, ValidityTag } from "../components/ui";
+import { CopyButton, COURSE_FLAG, CourseTag, ErrorBox, ExtLink, Loading, Section, TypeTag, useAsync, ValidityTag } from "../components/ui";
+
+const SOURCE_NAME: Record<string, string> = {
+  "rmis-interpretations": "農地及農舍法規檢索系統（函釋明細）", "rmis-lawexp": "農地及農舍法規檢索系統（法規對應解釋函頁）",
+  "forest-interpretations": "林業及自然保育署（公文函釋）", "talis-green-energy": "農業綠能發展資訊網（函釋查詢）",
+  "course-summaries": "教育訓練資料摘錄（無官方原文連結）",
+};
 
 const KIND: Record<string, string> = { official: "官方列示", extracted: "系統比對（演算法建議）", manual: "人工確認" };
 
@@ -17,21 +23,23 @@ export default function InterpPage() {
   return <div className="layout-detail">
     <article>
       <div className="row"><TypeTag kind="interp" />{r.category && <span className="tag neutral">{r.category}</span>}<ValidityTag status={v.status} confirmed={v.confirmed} />
-        {r.is_historical && <span className="tag neutral">改制前機關</span>}</div>
+        {r.is_historical && <span className="tag neutral">改制前機關</span>}<CourseTag fl={r.flags} /></div>
       <h1 style={{ marginTop: 8 }}>{r.subject}</h1>
       <dl className="kv card" style={{ marginBottom: 16 }}>
         <dt>發文機關</dt><dd>{r.agency_text || "（原始資料未載）"}{r.historical_name && r.agency_name && <div className="small muted">改制前機關：{r.historical_name}；目前業務承接機關（業務對照，非效力認定）：{r.agency_name}</div>}</dd>
         <dt>發文日期</dt><dd>{r.date ? <>{roc(r.date, true)}（{r.date}）</> : <>{letterDate(null, r.year_hint)}<div className="small muted">本筆僅見於官方「法規對應解釋函」頁面，該頁未提供發文日期；推估年度僅供排序，請查官方原文。</div></>}</dd>
         <dt>發文字號</dt><dd className="row">{r.docno} <CopyButton text={r.docno} label="複製字號" /> <CopyButton text={cite} label="複製引用" /></dd>
-        <dt>官方原文</dt><dd>{r.sources.map((s) => <div key={s.source_key}><ExtLink href={s.url}>{s.source_id === "rmis-interpretations" ? "農地及農舍法規檢索系統（函釋明細）" : s.source_id === "rmis-lawexp" ? "農地及農舍法規檢索系統（法規對應解釋函頁）" : s.source_id}</ExtLink> <span className="tiny muted">擷取 {dt(s.fetched_at)}</span></div>)}</dd>
+        <dt>官方原文</dt><dd>{r.sources.map((s) => <div key={s.source_key}>{s.url ? <ExtLink href={s.url}>{SOURCE_NAME[s.source_id] || s.source_id}</ExtLink> : SOURCE_NAME[s.source_id] || s.source_id} <span className="tiny muted">擷取 {dt(s.fetched_at)}</span></div>)}</dd>
         <dt>最後確認</dt><dd>{dt(r.last_synced)}（首次收錄 {dt(r.first_seen)}；內容版本 {r.version}）</dd>
       </dl>
+      {r.flags.includes(COURSE_FLAG) && <div className="callout danger" style={{ marginBottom: 12 }}><strong>本筆為課程摘錄，不是函釋原文。</strong>
+        內容摘自農業部所屬機關教育訓練資料（見下方備註），可能是摘要或其他函釋之引述；本站尚未取得官方原文。請勿逕予引用，應先向發文機關取得原文核對字號、日期與全文。</div>}
       {r.source_missing_since && <div className="callout danger" style={{ marginBottom: 12 }}>官方來源自 {dt(r.source_missing_since)} 起已查無此筆，可能已下架、搬移或停止適用，請向主管機關確認。本站保留歷史紀錄供查考。</div>}
       <ValidityBox v={v} man={man.validity_labels} lawNames={man.law_names} />
       <Section title="內容">
         <div className="doc">{r.content || "（官方系統未提供內容）"}</div>
         {r.memo && <p className="small"><strong>備註：</strong>{r.memo}</p>}
-        <p className="small muted">內容係官方系統公開文字之轉錄；如原文含附件，請至官方原文頁面查閱。</p>
+        <p className="small muted">{r.flags.includes(COURSE_FLAG) ? "內容為教育訓練資料之文字轉錄，非函釋原文。" : "內容係官方系統公開文字之轉錄；如原文含附件，請至官方原文頁面查閱。"}</p>
       </Section>
       {r.history && r.history.length > 0 && <Section title="本站偵測之官方內容異動">
         <ul className="small">{r.history.map((h, i) => <li key={i}>{dt(h.at)}：異動欄位 {h.changed_fields.join("、")}</li>)}</ul>

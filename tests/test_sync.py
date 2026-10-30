@@ -82,7 +82,9 @@ def test_new_record_added(seeded):
 
 def test_outage_keeps_data(seeded):
     snapshot = {p.name: p.read_text() for p in paths.INTERP.glob("*.json")}
-    log = run("daily", FakeClient(down=["rmis.ardswc.gov.tw", "law.moj.gov.tw", "law.taichung.gov.tw", "forest.gov.tw", "talis.moa.gov.tw"]))
+    from agrilaw.sync import COURSE, PLANS
+    online = [s for s in PLANS["daily"] if s != COURSE]  # 課程摘錄為本地設定檔，不受斷線影響
+    log = run("daily", FakeClient(down=["rmis.ardswc.gov.tw", "law.moj.gov.tw", "law.taichung.gov.tw", "forest.gov.tw", "talis.moa.gov.tw"]), only=online)
     assert src(log, "rmis-interpretations")["status"] != "ok"
     assert log["result"] == "failed"
     after = {p.name: p.read_text() for p in paths.INTERP.glob("*.json")}

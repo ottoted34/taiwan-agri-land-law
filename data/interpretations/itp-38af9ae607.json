@@ -1,0 +1,78 @@
+{
+ "id": "itp-38af9ae607",
+ "doc_class": "interpretation",
+ "docno": "農糧儲字第1051004864號",
+ "date": "2016-03-21",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）該農會並已依計畫規定將計畫工程規劃書及設計圖送本署委託之財團法人農業機械化研究發展中心進行書面審查通過,據以辦理採購及工",
+ "content": "105年3月21日農糧儲字第1051004864號函該農會並已依計畫規定將計畫工程規劃書及設計圖送本署委託之財團法人農業機械化研究發展中心進行書面審查通過,據以辦理採購及工程施設。依「申請農業用地作農業設施容許使用審查辦法」第13條附表1所定旨揭設施高度超過14公尺,應檢附證明文件規定,因本案設施高度18.9公尺,係該農會委由廠商依實際生產需求設計訂做,可請農會提供財團法人農業機械化研究發展中心就本案計畫工程規劃書及設計圖核定函做為證明文件,予以認定。(本署補助案件)",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧儲字第1051004864號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "f1a00e87503656b25d58cd9a3013012254dde4950e0a4504561be10b11f9f582",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國一百零六年六月二十八日行政院農業委員會農企字第 1060012754A 號令修正發布第 6、23、27～30、32、33 條條文及第 13 條條文之附表一、第 16 條條文之附表二、第 21 條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2022-10-26",
+    "history": "中華民國一百十一年十月二十六日行政院農業委員會農企字第 1110013671 號令修正發布第 13 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "械化研究發展中心進行書面審查通過,據以辦理採購及工程施設。依「申請農業用地作農業設施容許使用審查辦法」第13條附表1所定旨揭設施高度超過14公尺,應檢附證明文件規定,因本案設施高度18.9公"
+  }
+ ]
+}

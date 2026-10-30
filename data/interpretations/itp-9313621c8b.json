@@ -1,0 +1,46 @@
+{
+ "id": "itp-9313621c8b",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1051013133號",
+ "date": "2016-07-21",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）有關貴府所詢「沉香」及「白鳳草」相關生產資料一節,查農業統計年報或農情報告資源網(http://agr.afa.gov.",
+ "content": "105年7月21日農糧企字第1051013133號函有關貴府所詢「沉香」及「白鳳草」相關生產資料一節,查農業統計年報或農情報告資源網(http://agr.afa.gov.tw/afa/afa_frame.jsp)尚無資料可稽。爰如何判定其農業經營之合理性一節,尚得比照一般作物之設施栽培,設施應提供全域均勻透光,以及給予最適且一致之栽培環境條件;並就該等作物之栽培密度及田間管理情形,予以綜合考量。 25",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1051013133號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "56db030f08c5e2f2725c6a5632a9e907b0ba1740086c9c7b06f89f8c7d0e16c3",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

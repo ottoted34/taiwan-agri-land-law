@@ -1,0 +1,44 @@
+{
+ "id": "itp-fd1dc491db",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1031044024號",
+ "date": "2015-01-29",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）倘以甘蔗為主要原料製酒,自符合農糧產品加工室容許使用之意涵",
+ "content": "104年1月29日農糧企字第1031044024號函倘以甘蔗為主要原料製酒,自符合農糧產品加工室容許使用之意涵。惟查本案擬使用之製酒原料除甘蔗等農產品外,尚包括非屬農產品之糖蜜,允請申請人提供蒸餾酒之製程(如榨汁、發酵及蒸餾等)及半成品或成品之各階段製成率,以利換算農產品原料使用量合理性,並據以審認是否適用申設「農糧產品加工室」之容許使用。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1031044024號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "b7e05c5ca956096dbbdebdc27e61f8a7046ab00d27fb679d8d763a996acfe905",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}
