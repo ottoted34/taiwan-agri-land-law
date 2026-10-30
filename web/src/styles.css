@@ -143,3 +143,6 @@ textarea.case { width: 100%; min-height: 120px; border: 1px solid var(--line-str
 .copy-ok { color: var(--ok); font-size: .85rem; }
 .loading { padding: 40px; text-align: center; color: var(--ink-3); }
 @media print { header.site, footer.site, .notice-bar, .no-print, aside { display: none !important; } .layout-detail { display: block; } body { background: #fff; } }
+.layout-search > *, .layout-detail > * { min-width: 0; }
+.result, .doc, dl.kv dd, .snip { overflow-wrap: anywhere; }
+.tabs { scrollbar-width: thin; }
