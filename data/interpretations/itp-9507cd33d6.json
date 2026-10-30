@@ -1,0 +1,61 @@
+{
+ "id": "itp-9507cd33d6",
+ "doc_class": "interpretation",
+ "docno": "農授中字第0921070708號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "001 行政院農業委員會92.12.15農授中字第0921070708號令",
+ "content": "農業發展條例92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照，係指配合下列情形之一者：\n一、供農作物、菇蕈、林木栽培或培養、育種、育苗使用之設施。\n二、供禽畜飼養或撫育、孵育使用之設施。\n三、供肥料、飼料、農機具、農產品或農業資材之存放場所。\n四、供水產養殖或繁殖生產使用之抽水機房、循環水設施及電力設施。\n五、農業事業廢棄物回收、處理、貯存設施。\n六、其他經建築師、土木技師或結構技師簽證之農業設施。\n符合農業發展條例第8條之1第2項規定免申請建築執照之農業設施，得檢具政府核發之農業用地容許作農業設施使用同意文件影本，申請接水、接電。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授中字第0921070708號|行政院農業委員會921215農授中字第0921070708號"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "89cd8bcce0a245c354c51f55712f6bbf0f724b7e069434ed2905d7ed11410189",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "\n六、其他經建築師、土木技師或結構技師簽證之農業設施。\n符合農業發展條例第8條之1第2項規定免申請建築執照之農業設施,得檢具政府核發之農業用地容許作農業設施使用同"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3893",
    "serial": null,
-   "fetched_at": "2026-10-30T10:05:50+08:00",
+   "fetched_at": "2026-10-30T11:33:03+08:00",
    "source_key": "rmis:3893"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:屏府農企字第10377738100號|有關國家公園區農業用地申請興建農舍農民資格之執行疑義詳如說明"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -49,16 +55,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "03年12月10日營署綜字第1030078871號函。\n二、「農業用地興建農舍辦法」由貴署及行政院農業委員會會銜修正發布,其「興建農舍之申請人資格條件審查表」明列各"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "關建築法規取得農舍或集村農舍建造執照,先予敘明。\n三、另依據「建築法」第2條規定,主管建築機關,在中央為內政部;在直轄市為直轄市政府;在縣(市)為縣(市)政"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

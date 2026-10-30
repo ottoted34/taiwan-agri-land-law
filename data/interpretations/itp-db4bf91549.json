@@ -1,0 +1,61 @@
+{
+ "id": "itp-db4bf91549",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090236714號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴公司函詢申請興建農舍相關規定疑義案，復如說明，請查照。",
+ "content": "一、復貴公司 109年8月21日牧邑字第 1090821001號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、查農業用地興建農舍辦法第 2條第 1項規定略以：「依本條例第18條第 1項規定申請興建農舍之申請人應為農民，且其資格應符合下列條件，．．．：(第 2款)申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。」，至有關土地取得時點之認定，本會水土保持局前以 101年6月29日農水保字第 1011865000號令及 102年10月25日農水保字第 1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第 759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，倘有任何疑義，宜請洽所在地直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090236714號|有關貴公司函詢申請興建農舍相關規定疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3dc9874054c9c3f6e21234276708c55b02f49ac36f4071de8d0a0cf755757602",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "許可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n三、查農業用地興建農舍辦法第 2條第 1項規定略以:「依本條例第18條第 1項規定申請興建農舍之申請人應為農民,且"
+  }
+ ]
+}

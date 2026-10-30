@@ -1,0 +1,53 @@
+{
+ "id": "itp-d06020e594",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940163998號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關建議中華電信股份有限公司為經營電信需要所興建之設施，申請農業用地變更使用應繳交回饋金以符合公平性案。",
+ "content": "主旨：有關 貴府來函建議○○股份有限公司為經營電信需要所興建之設施，申請農業用地變更使用應繳交回饋金以符合公平性案，復請 查照。\n說明：\n一、依據交通部電信總局94年11月21日電信公字第09400253390號函辦理（如附件一），並復 貴府94年10月14日屏府農務字第0940197422號函。\n二、本案經本會函請交通部就中華電信股份有限公司興建設施性質提供意見，案經該部電信總局函復略以：「按電信法第1條所揭櫫『為健全電信發展，增進公共福利，保障通信安全及維護使用者權益』之立法意旨觀之，○○股份有限公司.......，爰其為電信工程所需興建之設施，仍應視同政府興辦之公共建設，符合『政府興辦之公共建設或公益性設施』要件」，並建議「宜考量電信事業之公共服務特性及依法向政府繳納特許規費之實情，......即其電信工程所需興建之設施，比照政府機關辦理之公共建設免繳交回饋金」。\n三、按本會90年5月4日（90）農企字第900121349號函，前就○○股份有限公司配合國家經濟需要，興辦之各項電信設施，應屬廣義之政府機關或視同政府機關辦理之公共建設，解釋再案(如附件二)，復依交通部上揭意見，該公司依法申請農業用地辦理變更使用者，得免繳交農業用地變更回饋金，於現階段仍予維持。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940163998號|有關建議中華電信股份有限公司為經營電信需要所興建之設施申請農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "56abc61cd806d1aebebac23a769b75280d098c9a3640203fd5674a89429d1a8f",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  }
+ ]
+}

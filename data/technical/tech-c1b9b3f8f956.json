@@ -1,0 +1,38 @@
+{
+ "id": "tech-c1b9b3f8f956",
+ "source_key": "datamoa:D97:26489ab30a81ebc3",
+ "title": "技術專刊 20",
+ "series": "技術專刊",
+ "issue": "20",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2343",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "20",
+  "出刊年月": "200809",
+  "期刊名稱": "晚崙夏橙栽培管理技術",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2343"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "633174d3aa4192c5a13d8dcfc05ea04156361f775c6a8b332f77e4a37204b72f",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

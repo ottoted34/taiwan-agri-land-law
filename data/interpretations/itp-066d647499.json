@@ -1,0 +1,59 @@
+{
+ "id": "itp-066d647499",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1071826239號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍座落之土地及建物拍賣，應買人是否需符合農業發展條例相關規定，復如說明，請查照。",
+ "content": "一、依據本會水土保持局案陳貴府107年2月5日府農務字第1070024952號函辦理。\n二、依貴府來函說明二所述臺灣嘉義地方法院拍賣貴縣鹿草鄉○○○地號上之豬舍是否為農舍，請貴府先予釐明。\n三、依據農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。」其立法意旨乃在避免農舍與其坐落用地分屬不同所有權人，產生徒有農舍卻無供農業經營用地之不合理現象，爰農舍應與其坐落用地併同移轉。\n四、另有關興建中農舍或興建完成之農舍，經法院拍賣者，其投標人資格應符合無自用農舍條件。查本會前以96年2月13日農水保字第0961848111號函各法院有案，另本會96年9月4日農授水保字第0961848953號函併提供參考。隨文檢送前開二號函供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1071826239號|有關農舍座落之土地及建物拍賣應買人是否需符合農業發展條例相關"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3c6f63d6d8b17449dbf6f6b02ca81869297632d031e575e42079f2c898ed8e79",
+ "topics": [
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "草鄉○○○地號上之豬舍是否為農舍,請貴府先予釐明。\n三、依據農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-07b11edfb2",
+ "doc_class": "interpretation",
+ "docno": "中市農地字第1060003928號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺灣臺中地方法院函詢貴市清水區○○○○○建號農舍建物分割乙案，業經內政部營建署檢附相關函釋供參，詳如說明，請查照。",
+ "content": "一、依內政部營建署106年1月24日營署建管字第1050083217號書函、臺灣臺中地方法院105年11月22日中院民實105簡上331字第1050136035號函辦理暨復貴所105年12月19日清地二字第1050011679號函。\n二、檢附前項內政部營建署書函及相關附件乙份供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:中市農地字第1060003928號|有關臺灣臺中地方法院函詢貴市清水區○○○○○建號農舍建物分割"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "69f7abc5c3d1fb544fa59cc439e4e4c7d09e6e1073f9a62ab91a70c7a44209de",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

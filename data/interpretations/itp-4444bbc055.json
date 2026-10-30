@@ -1,0 +1,57 @@
+{
+ "id": "itp-4444bbc055",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950137804號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢○○鄉公所為辦理土地所有權人為外國籍申請「農業用地容許作農業設施使用同意書」之疑義案。",
+ "content": "主旨：有關貴府函詢○○鄉公所為辦理土地所有權人為外國籍申請「農業用地容許作農業設施使用同意書」之疑義案，復請查照。\n說明：\n一、復貴府95年7月4日屏府農務字第0950130443號函。\n二、有關申請人為辦理農業用地容許作農業設施使用案，檢附之戶籍謄本登記欄註記出境及遷出登記，且經戶政機關標示「本部分謄本與戶籍登記除戶資料無異」一節，尚無涉土地所有權人申請農業用地容許作農業設施使用之權利，故本案仍請依農業用地容許作農業設施使用審查辦法等相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950137804號|有關貴府函詢○○鄉公所為辦理土地所有權人為外國籍申請農業用地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5855bc3ee64d85cda6c8f46f466f16c0416edccfdb556afc0456099beb7429ea",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地所有權人申請農業用地容許作農業設施使用之權利,故本案仍請依農業用地容許作農業設施使用審查辦法等相關規定辦理。"
+  }
+ ]
+}

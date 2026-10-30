@@ -1,0 +1,58 @@
+{
+ "id": "itp-1670800a16",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041805403號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "請問宜蘭縣農業處定這種草案合理嗎",
+ "content": "有關台端所詢宜蘭縣政府訂定農舍申請人資格，查目前宜蘭縣政府尚未預告相關草案，台端倘有相關疑義，得於該府進行草案預告期間，依行政程序法第154條第1項第4款規定逕向宜蘭縣政府陳述意見。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041805403號|請問宜蘭縣農業處定這種草案合理嗎"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4bc63ce5d297c14e2f3aefa002ca7d14194a704340c936d1fcebf36b4ab0cf95",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "154",
+   "kind": "extracted",
+   "snippet": "預告相關草案,台端倘有相關疑義,得於該府進行草案預告期間,依行政程序法第154條第1項第4款規定逕向宜蘭縣政府陳述意見。"
+  }
+ ]
+}

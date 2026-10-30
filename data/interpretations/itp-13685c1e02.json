@@ -1,0 +1,58 @@
+{
+ "id": "itp-13685c1e02",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0910164124號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣民雄鄉公所91年10月21日建字第9100019330號函詢有關興建農舍之申請人資格疑義案，復如說明，請查照。",
+ "content": "一、復貴府91年10月31日91府農務字第0131345號函。\n二、查農業發展條例第18條第4項規定，農舍應與其坐落用地併同移轉或併同設定抵押，應指整筆農業用地而言，對於共有土地雖可由其中一位共有人徵得其他共有人同意而興建農舍，惟在農舍管理方面，仍需整筆註記，未來移轉亦應遵循上開條文之原則，合先敘明。\n三、共有土地原應由共有人共同行使權益，惟部分共有人自願放棄自有權益，不必然即應免除限制。本會91年10月2日農輔字第0910151735號函已具提示效果，亦即其他共有人出具同意書供一人申請興建農舍，將來農舍應與其坐落用地併同移轉或併同設定抵押權，且已申請興建農舍之農業用地不得重複再申請，故共有人決定是否出具同意書時，應自行衡量未來可能導致之結果，而此與政府規定之原則並無關聯。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0910164124號|有關貴縣民雄鄉公所91年10月21日建字第910001933"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1af5f3feb2e9cc9e8d2592f0c2d5fc41fc02e208889366b3e929384e30af0c29",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "91年10月31日91府農務字第0131345號函。\n二、查農業發展條例第18條第4項規定,農舍應與其坐落用地併同移轉或併同設定抵押,應指整筆農業用地而言,對於"
+  }
+ ]
+}

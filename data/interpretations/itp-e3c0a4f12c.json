@@ -1,0 +1,64 @@
+{
+ "id": "itp-e3c0a4f12c",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1020054458號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端所詢農業用地興建農舍辦法疑義，復請查照。",
+ "content": "一、依據行政院農業委員會水土保持局102年8月21日水保農字第1020725907號書函副本(正本諒達)辦理並復臺端102年8月12日陳情書。\n二、有關所詢農民認定方式及農業用地興建農舍辦法(以下簡稱本辦法)所訂農舍放流水相關規定，行政院農業委員會水土保持局前開函已有相關說明，請參依該會意見辦理。\n三、另有關本辦法第6條「申請興建農舍之申請人五年內曾取得個別農舍或集村農舍建造執照，...，直轄市、縣(市)主管機關或其他主管機關應認不符農業發展條例第18條第1項、第3項所定需興建要件而不予許可興建農舍」之執行方式，係由直轄市、縣(市)政府依本辦法第2條及第3條規定辦理申請興建農舍資格之核定作業時，藉由建築管理資訊系統查核申請人過去五年內是否曾取得農舍建造執照，並得視審查作業需要，請申請人就五年內是否申請農舍建造執照予以切結，併予說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1020054458號|有關臺端所詢農業用地興建農舍辦法疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "625fc13cf30c8d32467f958674af692f90e934752a47cc89d37dee61fe0f1b32",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關臺端所詢農業用地興建農舍辦法疑義,復請查照。\n一、依據行政院農業委員會水土保持局102年8月21日水保農字第"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "執照,...,直轄市、縣(市)主管機關或其他主管機關應認不符農業發展條例第18條第1項、第3項所定需興建要件而不予許可興建農舍」之執行方式,係由直轄市、縣(市)"
+  }
+ ]
+}

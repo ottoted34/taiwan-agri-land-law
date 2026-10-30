@@ -1,0 +1,61 @@
+{
+ "id": "itp-e5cae3e7d9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040211059號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關個別農舍依水土保持法設置之水土保持設施，其農舍用地面積計算疑義一案，復請查照。",
+ "content": "一、復貴部104年3月26日內授營建管字第1040410160號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作。山坡地範圍內申請農舍興建，按水土保持相關法規所擬具之水土保持計畫，依其計畫內容設置之必要水土保持設施，應屬農舍附屬設施，計入農舍用地面積內（農業用地10%）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040211059號|有關個別農舍依水土保持法設置之水土保持設施其農舍用地面積計算"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f28446e6b0b629050cc3a6fc6f2f89d6a404fe4b4f2b413fa5c828575693a7ed",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關個別農舍依水土保持法設置之水土保持設施,其農舍用地面積計算疑義一案,復請查照。\n一、復貴部104年3"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "itp-96e5721bc9",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1051831394號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "請教有關農舍坐落基地分割相關問題。",
+ "content": "一、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農業用地上興建具有放置農機具兼具居住之需求，以便利其農事工作，爰於農業用地上申請興建之。\n二、依據農業用地興建農舍辦法第12條第3項規定：「已申請興建農舍領有使用執照之農業用地經套繪管制，除符合下列情形之一者外，不得解除：一、農舍坐落之農業用地已變更為非農業用地。......」，其立法目的係為落實土地使用管理規定，爰如農業用地已變更為非農業用地者，自得依上開辦法第12條第3項第1款規定申請解除套繪管制，提供興建該農舍之農業用地亦得一併申請解除套繪管制。\n三、另，有關建築用地上所存在之建物應非屬農舍，倘房屋坐落於非農業用地上且領有農舍使用執照者，宜先依規定申請辦理變更使用執照用途。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1051831394號|請教有關農舍坐落基地分割相關問題"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6a0004a61d66e6794b9e71162a46d41eeabc1288c89f6009e5d773555ead26ec",
+ "topics": [
+  "machinery_room",
+  "land_change",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "需求,以便利其農事工作,爰於農業用地上申請興建之。\n二、依據農業用地興建農舍辦法第12條第3項規定:「已申請興建農舍領有使用執照之農業用地經套繪管制,除符合下列情形之一"
+  }
+ ]
+}

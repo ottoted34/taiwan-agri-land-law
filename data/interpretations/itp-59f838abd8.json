@@ -1,0 +1,52 @@
+{
+ "id": "itp-59f838abd8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1001866746號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關監察院函為貴部及本會對於未能掌握興建農舍所衍生之問題等情案之辦理情形審核意見案(99財正64)，請貴部提供意見，於100年8月26日前送本會彙整，請 查照。",
+ "content": "依據行政院100年8月11日院臺農字第1000101750號函辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1001866746號|有關監察院函為貴部及本會對於未能掌握興建農舍所衍生之問題等情"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3ecab03f431237b845c27edf7f0c83ae5e20dfa3bc607a86e7987344ca9ffbe0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

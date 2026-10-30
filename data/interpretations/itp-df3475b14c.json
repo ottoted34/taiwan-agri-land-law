@@ -1,0 +1,58 @@
+{
+ "id": "itp-df3475b14c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970149121號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關核發無自用農舍證明書疑案，復請查照。",
+ "content": "1.復 貴府97年8月28日府農地字第0970219114號函。 2.按非都市土地使用管制規則第6條附表一規定，丙種建築用地提供居住使用之建築物係稱住宅，其與農業用地上為因應農業經營需要附帶提供居住功能而興建之農舍性質有別。 3.○○○所有新社鄉○○○地號土地上實施建築管理前既之建物，其主用途是否作為農舍使用，依本會90年7月4日(90)農輔字第900050675號函附件一申請興建農舍之申請人資格條件審查表內，審查「申請人是否無自用農舍者」，係由農業單位會同建管單位查明是否無自農舍，本案應先請建築管理單位釐清。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970149121號|有關核發無自用農舍證明書疑案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4db037f684ca231041a0274e2b0bc816bc2347bddaf7e1afcb49c751f5de76e0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "97年8月28日府農地字第0970219114號函。 2.按非都市土地使用管制規則第6條附表一規定,丙種建築用地提供居住使用之建築物係稱住宅,其與農業用地上為因應農業經"
+  }
+ ]
+}

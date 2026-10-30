@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4876",
    "serial": null,
-   "fetched_at": "2026-10-30T10:19:12+08:00",
+   "fetched_at": "2026-10-30T11:46:26+08:00",
    "source_key": "rmis:4876"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0970127098號|釋土地鋪設有水泥地面覆土後種植果樹得否認定為作農業使用案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,20 +37,20 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": "7",
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -62,22 +68,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "37",
    "kind": "extracted",
    "snippet": "使用之農業用地得申請不課徵土地增值稅或免徵遺產稅、贈與稅,為農業發展條例第37條及第38條所明定,其立法目的係以賦稅減免之優惠措施,獎勵農業用地作農業使用,以落"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "7",
    "kind": "extracted",
    "snippet": "業用地作農業使用,以落實農地農用政策,並維護農業生產資源。又農業用地作農業使用認定及核發證明辦法第7條明定:「農業用地有下列各款情形之一者,不得認定為作農業使用...二、現場堆置與農"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

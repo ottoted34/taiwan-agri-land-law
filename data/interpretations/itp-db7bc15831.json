@@ -1,0 +1,59 @@
+{
+ "id": "itp-db7bc15831",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980133430號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴部函為南投地方法院拍賣○○○所有南技縣仁愛鄉○○○○○建號農舍，因坐落用地為國有原住民保留地，無法併同該農舍一併拍賣一案，復如說明，請 查照。",
+ "content": "一、復 貴部98年6月1日內授中辦地字第0980044830號函。\n二、依農業發展條例第18條第4項規定，農舍應與坐落用地併同移轉或併同設定抵押權。惟對於農舍若屬農業發展條例89年修正施行前已興建完成，且農舍與農地分屬不同所有權人時，於農舍或農業用地移轉時，為避免該類所有權人無法處分其產權之疑慮，貴部於93年11月2日內授中辦地字第0930015211 號函釋，得不受上開條例第18條第4項之限制有案。\n三、本案依來函所述雖為農業發展條制修法復興建之農舍，惟該農舍係依「九二一震災重建暫行條例」第20條之l規定申請興建，得不受農業發展條例第18條規定之限制，造成該農舍坐落基地為國有原住民保留地，該土地無從併同農舍移轉之現象，故基於該農舍係依「九二一震災重建暫行條例」之特別法規定申請興建，亦明文排除農業發展條例第18條之適用，為解決該農舍產權無法處分之問題，似得參照 貴部上開函釋意旨，同意該類個案得免受農業發展條例第18條第4項，農舍應與坐落用地併同移轉或併同設定抵押權規定之限制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0980133430號|有關貴部函為南投地方法院拍賣○○○所有南技縣仁愛鄉○○○○○"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "00b4bccbd71aa14408b4e8fa86c7c056b777a9a5f73a7a7d318ce75ff3c5aa34",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "8年6月1日內授中辦地字第0980044830號函。\n二、依農業發展條例第18條第4項規定,農舍應與坐落用地併同移轉或併同設定抵押權。惟對於農舍若屬農業發展條例"
+  }
+ ]
+}

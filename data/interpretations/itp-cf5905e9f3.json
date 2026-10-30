@@ -1,0 +1,58 @@
+{
+ "id": "itp-cf5905e9f3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981843208號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍起造人資格疑義案，復請查照。",
+ "content": "一、復 貴府98年9月2日南市建農字第09841049200 號函。\n二、有關集村興建農舍起造人數及資格疑義乙節，本會98 年4月17日農授水保字第0981842465號函略以「......，故參加集村興建農舍之起造人資格條件除應符合前開辦法第3條第1 項規定外，亦應符合戶籍法規定，即同一戶籍之農業用地所有權人，僅得參加一處集村興建農舍為限」所稱「同一戶籍」係「同一戶」之誤植。故符合戶籍法「戶」之定義，得為符合「農業用地興建農舍辦法」第8條第1項第1款所稱「戶」之規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981843208號|有關集村興建農舍起造人資格疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "573e89c56400e6985127eb78cdb116c66f6f3329188eb776891e52de0d3e13f5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "戶籍」係「同一戶」之誤植。故符合戶籍法「戶」之定義,得為符合「農業用地興建農舍辦法」第8條第1項第1款所稱「戶」之規定。"
+  }
+ ]
+}

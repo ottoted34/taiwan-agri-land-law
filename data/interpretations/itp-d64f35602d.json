@@ -1,0 +1,64 @@
+{
+ "id": "itp-d64f35602d",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031805085號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍過戶及增建問題。",
+ "content": "一、依農業發展條例第18條第1項規定，以89年1月28日後取得之農業用地申請興建農舍，應符合「農業用地興建農舍辦法」第2條所定各項資格要件，請參照附件條文。\n二、次依「農業用地興建農舍徘法」第9條第2項第6款規定，略以「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格」，合先敘明。\n三、爰台端申請農舍增建，應符合上開規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1031805085號|農舍過戶及增建問題"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "41e72ac14e9550cd14af5509d8548ba5bdef8291800a1eb47b05802542e5469d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農舍過戶及增建問題。\n一、依農業發展條例第18條第1項規定,以89年1月28日後取得之農業用地申請興建農舍,應符合「農業用地興建"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "規定,以89年1月28日後取得之農業用地申請興建農舍,應符合「農業用地興建農舍辦法」第2條所定各項資格要件,請參照附件條文。\n二、次依「農業用地興建農舍徘法」第9條第2項"
+  }
+ ]
+}

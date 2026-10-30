@@ -1,0 +1,58 @@
+{
+ "id": "itp-7ac69829e6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0921829259號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍，各人農地是否需符合○．二五公頃規定疑義案，復請查照。",
+ "content": "一、復台端九十二年十二月十日申請書。 二、二十戶以上農民為起造人，其各起造人持有之農業用地是否不得小於○．二五公頃限制及共同持有持分之農業用地可否參加集村興建農舍乙節，查本會九十二年八月七日及九月二十二日分別召開「農業用地興建農舍辦法」有關集村興建農舍執行疑義及共同持有持分之農業用地申請集村興建農舍案件應如何處理會議，經與會代表充分討論，已獲致結論如執行疑義二、九、十二、十八之研商結論及討論提案：案由一：決議一，請詳參該二次會議紀錄(附件)",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0921829259號|有關集村興建農舍各人農地是否需符合○二五公頃規定疑義案復請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4980b931ed61386380626a43b397e1541fe334aa8788dcd3178204b0ffe9cfeb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "村興建農舍乙節,查本會九十二年八月七日及九月二十二日分別召開「農業用地興建農舍辦法」有關集村興建農舍執行疑義及共同持有持分之農業用地申請集村興建農舍案件應如何處理會"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-4dd8a85bc2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950126452號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關鄉鎮市公所執行無自用農舍查核疑義案，復請查照。",
+ "content": "一、 依據內政部營建署95年5月12日營署綜字第0950023481號函辦理，兼復 貴府95年5月4日府城建字第0950030886號函。\n二、有關無自用農舍之認定，依現行程序，申請人係需檢具全國財產總歸戶查詢清單、清單所列房屋之使用執照影本、及無自用農舍切結書等資料供縣市政府相關單位查核，必要時並得實地查證，如無現有農舍，始可認定為無自用農舍，合先敘明。\n三、本案依來函所敘，似屬補辦申請農舍建築執照案件，檢附本會93年2月9日農企字第0930105880號函供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950126452號|貴府函詢有關鄉鎮市公所執行無自用農舍查核疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c3f681bfa079e10f011274c93b76ec2e4409bdd22a138f48aebd8e2fe82d9754",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

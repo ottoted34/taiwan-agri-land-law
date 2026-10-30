@@ -1,0 +1,91 @@
+{
+ "id": "itp-bf142068d7",
+ "doc_class": "interpretation",
+ "docno": "農牧字第0930120273號",
+ "date": "2004-05-06",
+ "date_text": "93年5月6日農牧字第0930120273號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "064 釋農業用地從事非畜牧範疇之動物（寵物）繁殖，不符合農業發展條例第3條第12款農業使用案",
+ "content": "查「農業用地作農業使用認定及核發證明辦法」第5條規定略以，「農業用地有下列情形，且無第6條及第7條之情形者，認定為作農業使用：一、農業用地實際作農作、森林、養殖、畜牧、保育使用者；其依規定辦理休耕、休養、停養或有不可抗力等事由而未使用者，亦得認定為作農業使用。……」，有關於農業用地飼養及繁殖犬隻是否符合前揭辦法規定疑義，經查「畜牧法」第3條第1款明定，家畜係指牛、羊、馬、豬、鹿、兔及其他經中央主管機關指定之動物，故犬隻非屬家畜之範疇，其飼養及繁殖行為自不屬畜牧使用，故無「農業用地作農業使用認定及核發證明辦法」之適用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農牧字第0930120273號|釋農業用地從事非畜牧範疇之動物寵物繁殖不符合農業發展條例第3"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2007-11-21",
+    "history": "中華民國九十六年十一月二十一日行政院農業委員會農企字第 0960014 174 號令修正發布第 5 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "5b3ff1e2559f9fc4eba4d1bf6a7cf334a99a92b21597cb837ce6c1abb6591db2",
+ "topics": [
+  "farm_use_cert",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "064 釋農業用地從事非畜牧範疇之動物(寵物)繁殖,不符合農業發展條例第3條第12款農業使用案\n查「農業用地作農業使用認定及核發證明辦法」第5條規定略以,「"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "(寵物)繁殖,不符合農業發展條例第3條第12款農業使用案\n查「農業用地作農業使用認定及核發證明辦法」第5條規定略以,「農業用地有下列情形,且無第6條及第7條之情形者,認定為作農業使用:一"
+  }
+ ]
+}

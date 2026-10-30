@@ -1,0 +1,98 @@
+{
+ "id": "itp-fd8e88b6c9",
+ "doc_class": "interpretation",
+ "docno": "農企字第0910113182號",
+ "date": "2002-03-20",
+ "date_text": "91/3/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "023 釋都市計畫土地使用分區為「部分其他使用分區或用地、部分農業區或保護區」土地，申請農業用地作農業使用證明書核發事宜案",
+ "content": "查財政部91年3月11日台財稅字第0910451416號函略以：「查『公共設施保留地……因繼承或因配偶、直系血親間之贈與而移轉者，免徵遺產稅或贈與稅。』為都市計畫法第50條之1所明定，本案被繼承人所遺公園用地，如符合上揭規定，自可據以免徵遺產稅，惟因公共設施保留地，並非農業用地，考量農業發展條例第38條追繳應納稅賦之規定，為避免就承受人應繼續作農業使用之面積產生混淆及爭議，建議本案仍宜就農業用地與非農業用地，分別估算面積後，就農業用地部分核發農業用地作農業使用證明書。」準此，本案仍請貴府儘速完成界址定樁，以釐清農業用地與非農業用地之範圍；或請都市計畫單位提供該筆土地之分區套圖後，得以地政事務所所核發，分別估算不同分區或用地面積之證明文件，並僅就該保護區部分土地查核發給農業用地作農業使用證明書，俾免影響民眾權益。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5527",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:27+08:00",
+   "source_key": "rmis:5527"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0910113182號|釋都市計畫土地使用分區為部分其他使用分區或用地部分農業區或保"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "38",
+    "amended_on": "2010-12-08",
+    "history": "中華民國99年12月08日總統華總一義字第0990331471號令公布增訂第38條之1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b4bc6a1c54f15e4273db9597b83a3af053a9438f85d7215ac76c9e6ee073a24e",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "50-1",
+   "kind": "extracted",
+   "snippet": "或因配偶、直系血親間之贈與而移轉者,免徵遺產稅或贈與稅。』為都市計畫法第50條之1所明定,本案被繼承人所遺公園用地,如符合上揭規定,自可據以免徵遺產稅,惟因公共設"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "38",
+   "kind": "extracted",
+   "snippet": ",自可據以免徵遺產稅,惟因公共設施保留地,並非農業用地,考量農業發展條例第38條追繳應納稅賦之規定,為避免就承受人應繼續作農業使用之面積產生混淆及爭議,建議本案"
+  }
+ ]
+}

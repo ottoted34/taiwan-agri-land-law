@@ -1,0 +1,58 @@
+{
+ "id": "itp-7f06e3fd14",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920000263號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關所詢農地所有人逝世後，由其妻繼承農地，其申請興建農舍之起算時間問題案，復如說明，請查照。",
+ "content": "一、依據立法院王院長金平92年4月10日致本會李主任委員箋函辦理。\n二、針對台端認為夫妻之不動產登記大都擇一登記，不會登記為共有，但事實為兩人共同努力所得，應溯自夫或妻名義登記時間開始起算一節，本會認為夫妻之財產是屬夫妻共有或個別所有，應依民法相關規定認定，若涉及物權規定者，亦需符合物權之相關規定，以符合法制。另「繼承」已屬土地權利義務主體之改變，故需申請興建農舍者，仍應依農業用地興建農舍辦法之相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920000263號|有關所詢農地所有人逝世後由其妻繼承農地其申請興建農舍之起算時"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3f28d11fc741723d33671e2fa86a157a985862e4a243e71c58e3e9df8cdc4576",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "繼承」已屬土地權利義務主體之改變,故需申請興建農舍者,仍應依農業用地興建農舍辦法之相關規定辦理。"
+  }
+ ]
+}

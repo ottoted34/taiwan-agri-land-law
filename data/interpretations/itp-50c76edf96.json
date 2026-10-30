@@ -1,0 +1,58 @@
+{
+ "id": "itp-50c76edf96",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050241976號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢有關釐清農舍搭排疑義，復如說明，請查照。",
+ "content": "一、奉行政院農業委員會交下貴府105年10月27日府水管字第1050359007號函辦理。\n二、有關農舍放流水，請悉依農業用地興建農舍辦法第9條第2項第5款規定辦理，另相關規定疑義，檢送行政院農業委員會103年4月28日農授水保字第1030209563號函及本局105年3月31日水保農字第1051803351號函供審查參考。\n三、有關申請興建農舍之個案審查係屬直轄市、縣(市)政府權責，請貴府本權責卓處。倘貴府審查個案具有疑義，請依中央行政機關法制作業應注意事項第18點規定：「各機關適用法規有疑義時，應就疑義之法條及疑點研析各種疑見之得失，擇採適法可行之見解。如須函請上級機關或其他機關釋復時，應分別敘明下列事項：(一)有疑義之法條及疑點。(二)各種疑見及其得失分析。(三)擬採之見解及其理由。」辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1050241976號|有關貴府函詢有關釐清農舍搭排疑義復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f27711262a79d2890bac4f7f4a9fc8eb8a86aba716f07e10b54df8f9043e2d85",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "第1050359007號函辦理。\n二、有關農舍放流水,請悉依農業用地興建農舍辦法第9條第2項第5款規定辦理,另相關規定疑義,檢送行政院農業委員會103年4月28日農授"
+  }
+ ]
+}

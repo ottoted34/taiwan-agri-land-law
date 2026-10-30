@@ -1,0 +1,60 @@
+{
+ "id": "itp-84d496d570",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第0940051305號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關彰化縣花壇鄉○○○已興建並領有使用執照之農舍，部分擬設置自產農產品加工室（釀酒用途），申請容許使用疑義乙案，復請查照。",
+ "content": "一、復貴辦公室94年8月23日(94)儀國字第940823V01號函。 二、查「非都市土地使用管制規則」第6條第2項規定，前項容許使用及……其他法律有禁止或限制使用之規定者，依其規定。同條第3項附表1規定，「農舍（工業區、河川區除外）」許可作一、農家住宅。二、農舍附屬設施。三、農產品之零售。四、農作物生產資材及日用品零售。五、民宿。等細目使用。復依本部營建署91年5月16日營署綜字第0912907543號函釋略以：「『農舍係指供農民自用之住宅及倉儲使用之房舍，並為與農業經營不可分離之設施物』本部91年7月22日台內中地字第0910084291號函已有明示，是農舍可否同時經營『製酒業』，係屬個案使用具體事實之認定，是否符合前揭函示自用農舍之用途與功能，宜由該案所轄主管機關依前揭規定逕為核處。」又據財政部92年3月24日台財庫字第0920015523號函說明○○段略以：「惟同年貴會（行政院農業委員會）3月11日農糧字第0920106260號函表示農民申請設立酒製造業，若擬利用現有設施如農舍，則可申請變更用途為自產農產品加工設施容許使用許可，即可合法供釀酒用途，且據了解，目前部分地方政府農業局亦採如此做法。」綜上，本案應依上開規定及函釋辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授中辦地字第0940051305號|有關彰化縣花壇鄉○○○已興建並領有使用執照之農舍部分擬設置自"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "901736a4f857c319caaffb54ee65996e8d3949a4d3fe048400f8253c201adaee",
+ "topics": [
+  "material_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "年8月23日(94)儀國字第940823V01號函。 二、查「非都市土地使用管制規則」第6條第2項規定,前項容許使用及......其他法律有禁止或限制使用之規定者,依其規定"
+  }
+ ]
+}

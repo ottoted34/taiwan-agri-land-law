@@ -1,0 +1,64 @@
+{
+ "id": "itp-6536024bb6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960123360號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴縣民○○○因豪大雨致房屋龜裂毀損，擬以農業發展條例修正施行後取得之農地興建農舍，陳情免受農業用地取得滿2年始得興建之限制案，復請查照。",
+ "content": "1.依據內政部營建署96年4月27日營署綜字第0962906842號函辦理，兼復 貴府96年4月17日府商建字第0960049674號函。\n2.農業用地申請興建農舍，悉依「農業用地興建農舍辦法」規定辦理;經查農業發展條例修正施行後取得之農地，申請興建農舍應依上開辦法第3條相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960123360號|貴縣民○○○因豪大雨致房屋龜裂毀損擬以農業發展條例修正施行後"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6d4691ada4bf10d300a310a791394f1a2b9d94c2aa9b43d26de70240c2b532fc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴縣民○○○因豪大雨致房屋龜裂毀損,擬以農業發展條例修正施行後取得之農地興建農舍,陳情免受農業用地取得滿2年始得興建之限制案,復請查"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第0960049674號函。\n2.農業用地申請興建農舍,悉依「農業用地興建農舍辦法」規定辦理;經查農業發展條例修正施行後取得之農地,申請興建農舍應依上開辦法第3條相"
+  }
+ ]
+}

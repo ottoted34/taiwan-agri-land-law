@@ -1,0 +1,52 @@
+{
+ "id": "itp-5ea7414ff9",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051835077號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「關於老舊農舍修繕補助辦法」案",
+ "content": "一、有關農舍建築係內政部營建署權管，有關住宅修繕，查該署訂有「修繕住宅貸款利息及簡易修繕住宅費用補貼辦法」，倘有相關需求請逕向縣市政府主管建築機關洽詢。\n二、另有關「農村社區個別宅院整建補助辦法」，係依農村再生條例第13條第2項規定訂定之，以能增進農村社區整體景觀為限，並須符合相關規定。如依辦法第3條第1項第1款:「坐落於已核定農村再生計畫所定個別宅院整建之範圍。」，另依第2款規定:「前項個別宅院整建補助應由十個以上住宅單位共通申請，並委託社區組織代表提出。...」，爰該辦法並未就單一住宅單位提供修繕補助。\n三、非常感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051835077號|關於老舊農舍修繕補助辦法案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a4821999475896f59e26e349bce3cd83356adf665408ff953a5a625262dbb756",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

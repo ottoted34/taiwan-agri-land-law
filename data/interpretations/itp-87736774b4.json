@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4794",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:05+08:00",
+   "fetched_at": "2026-10-30T11:36:18+08:00",
    "source_key": "rmis:4794"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第1031000996號|農業用地上之農業設施附屬設置配電場所所涉審查疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "0號函。\n二、依據行政院農業委員會102年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條第3項規定「第1項第1款至第4款設施,得依實際需求,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,61 @@
+{
+ "id": "itp-ecbe627137",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100209084號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "建議簡化農舍申請程序案",
+ "content": "主旨：有關貴府農業局函轉金山區公所反映研議簡化農舍申請程序一案，詳如說明，請查照。\n說明：\n一、依據貴府農業局110年3月10日新北農牧字第1100455650號函辦理。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業用地興建農舍辦法規定，申請興建農舍者，應先取得農舍興建資格後，再據以向建築主管機關申請建築許可，尚無繁雜程序，或逾越農舍申請興建之合理審查範疇。至金山區公所反映之問題不甚明確，按「農舍」與「觀光遊憩設施」之性質，立法目的仍屬有別，倘確有實務執行疑義，請貴府具體敘明問題癥點及意見，俾利協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100209084號|建議簡化農舍申請程序案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ee195ad53f050052eb8e98539d19a6bc58f68c51b4b05e8a06f34ead013d03fc",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法規定,申請興建農舍者,應先取得農舍興建資格後,再據以向建築主管機關申請建築許可,"
+  }
+ ]
+}

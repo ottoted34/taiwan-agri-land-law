@@ -1,0 +1,67 @@
+{
+ "id": "itp-299104535b",
+ "doc_class": "interpretation",
+ "docno": "內營字第9082636號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於貴府函為因都市計畫法臺灣省施行細則農業區建蔽率規定之修正，於原已供興建農舍之建築基地辦理現有農舍增建後即符所需，剩餘之建築基地是否得辦理分割後解除套繪並自由買賣乙案，復請查照。",
+ "content": "一、復本部營建署案陳貴府89年11月22日89屏府工建字第186994號函。\n二、案經本部營建署函准行政院農業委員會以90年2月1日（90）農輔字第900050102號函（詳附件一）示意見：「…縣市政府審核時如確知農舍係以配合耕地方式興建，且該配合耕地以單筆形式解除套繪後，其農舍建築面積和耕地面積之百分比仍能符合上開法令規定時，應同意解除套繪…」在案。是以，本案旨揭農業區土地是否得辦理分割後解除套繪乙節，本部同意依上開函示辦理；至其是否得自由買賣乙節，本部業以89年12月22日台（89）內地字第8962476號函（詳附件二）復在案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2001,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內營字第9082636號|關於貴府函為因都市計畫法臺灣省施行細則農業區建蔽率規定之修正"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-c8afe29fe0",
+    "by_docno": "內授營建管字第0920012211號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "另有關因都市計畫法台灣省施行細則農業區建蔽率規定之修正,於原已供興建農舍之建築基地辦理現有農舍增建後即符所需,剩餘之建築基地是否得辦理分割後解除套繪並自由買賣乙案,前經本部90年2月26日台90內營字第9082636號函釋有案"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "074c9ac2b522fcf29ee0c55670afe5e7267d06d084d667d7322843d2751e8a8a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "關於貴府函為因都市計畫法臺灣省施行細則農業區建蔽率規定之修正,於原已供興建農舍之建築基地辦理現有農舍增建"
+  }
+ ]
+}

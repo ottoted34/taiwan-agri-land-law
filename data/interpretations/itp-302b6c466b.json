@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5420",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:17+08:00",
+   "fetched_at": "2026-10-30T11:44:30+08:00",
    "source_key": "rmis:5420"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0990107776號|農業用地上興建有未經申請之農業設施申請補辦農業設施容許使用之"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -47,22 +53,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "9年1月29日北府農牧字第0990089937號函。\n二、依農業發展條例第8條之1規定,農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並依法申請"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "許使用,並依法申請建築執照。本會依據同條文第3項之授權,訂定「申請農業用地作農業設施容許使用審查辦法」,作為受理申請案件之行政審查依據。\n三、有關農業用地上興建有未經申請容許使用之農"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請補辦農業設施之容許使用,貴府應依法受理申請,並依前開辦法及區域計畫法或都市計畫等相關規定,就其違反土地使用管制之違規情節是否確已排除等情,予以審認核"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

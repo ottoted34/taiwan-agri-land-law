@@ -1,0 +1,66 @@
+{
+ "id": "itp-c7bcbfef30",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000103977號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局函詢依耕地三七五減租條例訂有租約土地，其土地所有權人得否以該土地申請興建農舍疑義，復請查照。",
+ "content": "一、復貴局100年1月17日北農牧字第1000050373號函。\n二、農業用地上准許興建農舍，目的係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作。\n三、查農業用地興建農舍辦法第3條第1項第5款規定，申請人為該農業用地之所有權人，且該農業用地應確供農業使用，惟本案農地所有權人已將農地訂定租約，對該農業用地並無使用之權，亦即，該農業用地已非供土地所有權人農業使用。\n四、依耕地三七五減租條例訂有三七五租約之農業用地，倘土地所有權人尚未依法終止租約，收回農業用地自任耕作，則未能符合農業發展條例申請興建農舍之立法意旨，應不宜同意其農舍興建之申請。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000103977號|有關貴局函詢依耕地三七五減租條例訂有租約土地其土地所有權人得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "85d3a4ef29ad08ad03641586e9bc1b71b4a5de6723a544cc46367be052379043",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "具有居住兼具放置農機具之需求,以便利其從事農事工作。\n三、查農業用地興建農舍辦法第3條第1項第5款規定,申請人為該農業用地之所有權人,且該農業用地應確供農業使用,惟本"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地所有權人尚未依法終止租約,收回農業用地自任耕作,則未能符合農業發展條例申請興建農舍之立法意旨,應不宜同意其農舍興建之申請。"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "itp-e5b8570bf6",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961848423號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "依法興建之農舍，將多餘之房間出租，是否違反非都市土地使用管制規則等相關規定及得否享有相關賦稅優惠案，請惠示卓見還辦，請查照。",
+ "content": "1.依據 屏東縣政府96年4月9日屏府農務字第0960067636號函辦理。\n2.依法興建之農舍，得否將多餘之房間出租及享有相關賦稅優惠乙節，本會96年1月25日農水保字第0951854272號及96年3月29日農水保字第0961848283號函復該府有案。\n3.農舍得否分租，農業發展條例固無明文規定，惟該條例之立法意旨，農舍應作農業使用，且以自用為前提，農舍除自用外，可否將多餘房間出租，其關鍵仍應視都市計畫法、區域計畫法及非都市土地使用管制規則等土地使用管制規定有關容許使用之規定如何，因事涉非都市土地使用管制規則第6條第3項附表1農舍之許可使用細目之規定，係屬 貴部職掌。\n4.隨文檢送相關函釋文及立法院王委員幸男95年12月19日召開集村興建農舍得否出租協調會相關資料。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961848423號|依法興建之農舍將多餘之房間出租是否違反非都市土地使用管制規則"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "36ea0f301d3de7800eb430b61bcb5b6dc40e0bf295f381ff8a1958f9f9f8994d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "字第0961848283號函復該府有案。\n3.農舍得否分租,農業發展條例固無明文規定,惟該條例之立法意旨,農舍應作農業使用,且以自用為前提,農舍除自用外"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "以自用為前提,農舍除自用外,可否將多餘房間出租,其關鍵仍應視都市計畫法、區域計畫法及非都市土地使用管制規則等土地使用管制規定有關容許使用之規定如何,因"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",農舍除自用外,可否將多餘房間出租,其關鍵仍應視都市計畫法、區域計畫法及非都市土地使用管制規則等土地使用管制規定有關容許使用之規定如何,因事涉非都市土"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "使用管制規則等土地使用管制規定有關容許使用之規定如何,因事涉非都市土地使用管制規則第6條第3項附表1農舍之許可使用細目之規定,係屬 貴部職掌。\n4.隨文檢送相關函釋文及"
+  }
+ ]
+}

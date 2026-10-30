@@ -1,0 +1,64 @@
+{
+ "id": "itp-49ee905fb0",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051804075號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關本局105年3月23日召開「105年研商農舍相關議題第一次會議」之會議紀錄事宜，復如說明，請查照。",
+ "content": "一、復貴局105年4月11日北市產業農字第10530668531號函。\n二、貴局於旨揭會議提出申請興建農舍之申請人資格及檢附佐證資料等疑義，係屬該會議討論議題案由二之範疇，且已充分討論。\n三、依農業發展條例規定，申請興建農舍者應為農民，直接從事農業生產之自然人，並不以職業別作為審查原則，依貴局所述申請興建農舍之申請人為上市公司董事長或公司負責人，非以從事農業經營為主要職業，與農業發展條例第18條立法意旨顯有不符，惟有關個案審查屬各直轄市、縣(市)主管機關權責，建議得由貴局邀集相關單位組成審查小組審認之。\n四、農業用地興建農舍辦法第3條之1但書規定，對於農民健康保險被保險人或全民健康保險第三類被保險人者之審認，僅以申請興建農舍之申請日仍在保，且應檢附申請日前30日內所核發之投保證明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051804075號|有關本局105年3月23日召開105年研商農舍相關議題第一次"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2914cc2bebf74bb115a22257534535b03b5e57f3c5a790c804e3569b7c45993b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "為上市公司董事長或公司負責人,非以從事農業經營為主要職業,與農業發展條例第18條立法意旨顯有不符,惟有關個案審查屬各直轄市、縣(市)主管機關權責,建議得由貴局邀"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "機關權責,建議得由貴局邀集相關單位組成審查小組審認之。\n四、農業用地興建農舍辦法第3條之1但書規定,對於農民健康保險被保險人或全民健康保險第三類被保險人者之審認,僅以申請"
+  }
+ ]
+}

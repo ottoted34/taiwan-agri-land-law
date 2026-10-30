@@ -16,21 +16,20 @@
  "sources": [
   {
    "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4904",
-   "serial": null,
-   "fetched_at": "2026-10-30T10:20:06+08:00",
-   "source_key": "rmis:4904"
-  },
-  {
-   "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5534",
    "serial": null,
-   "fetched_at": "2026-10-30T10:20:08+08:00",
+   "fetched_at": "2026-10-30T11:47:21+08:00",
    "source_key": "rmis:5534"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0960149506號|釋涉及所有權移轉之農業用地分割應以分割前原地號查核作農業使用"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 2,
  "validity": {
   "status": "possibly_affected",
@@ -38,20 +37,20 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": "9",
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -75,26 +74,29 @@
   "farm_use_cert"
  ],
  "flags": [
-  "historical_agency"
+  "historical_agency",
+  "docno_shared"
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "9",
    "kind": "extracted",
    "snippet": "整筆土地或共有持分部分均能符合作農業使用之認定而言。\n二、依「農業用地作農業使用認定及核發證明辦法」第9條第1項所規範應檢具之文件資料包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "假分割,而仍同意該假分割之未違規部分享有賦稅減免優惠,恐有違農業發展條例以賦稅減免優惠獎勵農地農用之意旨,且將衍生違規使用部分是否須先依土地管理法規處罰"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

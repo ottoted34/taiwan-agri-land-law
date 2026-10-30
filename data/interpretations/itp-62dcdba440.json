@@ -1,0 +1,58 @@
+{
+ "id": "itp-62dcdba440",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040230445號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端致行政院院長函，為證交稅、農舍改建別墅及課綱爭議事件等提出建言案，請查照。",
+ "content": "一、依據行政院綜合業務處104年8月5日院臺綜字第1040042988號函辦理。\n二、台端函有關農舍改建別墅之建言，本會為導正農地農舍炒作亂象，正積極推動修正農業用地興建農舍辦法，落實農地農用政策及維護農業生產環境之一貫立場不變，將持續推動修法作業，感謝台端對修法之支持與農地農舍之關心。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040230445號|有關台端致行政院院長函為證交稅農舍改建別墅及課綱爭議事件等提"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ce315f9df2f57d739c03c50a598ddf8151ce2509f06377839a5508a7fc897503",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍改建別墅之建言,本會為導正農地農舍炒作亂象,正積極推動修正農業用地興建農舍辦法,落實農地農用政策及維護農業生產環境之一貫立場不變,將持續推動修法作業,感謝台端"
+  }
+ ]
+}

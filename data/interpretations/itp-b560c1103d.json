@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5266",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:56+08:00",
+   "fetched_at": "2026-10-30T11:36:09+08:00",
    "source_key": "rmis:5266"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030203619號|申請人為申請農業用地作農業使用證明書檢附尚未判決確定之地政事"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "8",
    "kind": "extracted",
    "snippet": "月29 日屏府農企字第10302402000 號函。\n二、依農業用地作農業使用認定及核發證明辦法第8條第1項第3款規定略以:「因他共有人無法尋覓、死亡或不願切結違規使用等情事,共有人"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "」又同條第2項規定:「依前項第3款規定辦理者,受理機關應踐行行政程序法第1章第6節及第104條至第106條規定。」查其立法意旨係考量合法使用人應有舉證"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

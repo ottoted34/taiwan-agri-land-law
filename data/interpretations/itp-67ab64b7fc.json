@@ -1,0 +1,61 @@
+{
+ "id": "itp-67ab64b7fc",
+ "doc_class": "interpretation",
+ "docno": "農授水保字地1021829317號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "申請興建農舍。",
+ "content": "一、農業用地因現有道路通過，但尚未分割，該筆土地扣除道路面積後，未達0.25公頃，得由縣市主管機關依個案事實審認受理興建農舍之申請，提出申請之農業用地，仍應依「農業用地興建農舍辦法」第12條規定註記列管，且道路用地應不得提供農舍興建計算建築面積占農業用地面積之比例。\n二、感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字地1021829317號|申請興建農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cb17b532bcc1fd9272beb9d50b8eaf53bdae6cfe088a8b6a2eb21db7736f8947",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "docno_unparsed",
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "依個案事實審認受理興建農舍之申請,提出申請之農業用地,仍應依「農業用地興建農舍辦法」第12條規定註記列管,且道路用地應不得提供農舍興建計算建築面積占農業用地面積之比例。\n二"
+  }
+ ]
+}

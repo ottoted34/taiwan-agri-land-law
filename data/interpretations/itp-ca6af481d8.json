@@ -1,0 +1,78 @@
+{
+ "id": "itp-ca6af481d8",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950162030號",
+ "date": "2006-11-08",
+ "date_text": "95年11月08日農企字第0950162030號",
+ "agency_text": "",
+ "category": "",
+ "subject": "008 釋農業發展條例施行細則第14條之1土地之農業設施應如何審理",
+ "content": "一、查本會前於94年8月30日農企字第0940145612號函說明略以：「農業發展條例施行細則第14條之1土地，於辦理核發農業用地作農業使用證明書時，該筆土地上興建有固定基礎之農業設施應如何審查案，請比照農業用地容許作農業設施使用審查辦法之規定補辦農業設施容許使用。」有案，先予敘明。\n二、又依內政部營建署95年2月27日營署中城字第0953500970號函說明略以：「查都市計畫住宅區之使用管制，都市計畫法臺灣省施行細則第15條業有明文，農作產銷設施(溫室、農業資材)依上開條文規定尚無明文禁止．．．」。綜上，本案請貴府比照農業用地容許作農業設施使用審查辦法審查，惟仍應同時符合都市計畫法臺灣省施行細則及所在地都市計畫書相關規定",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950162030號|釋農業發展條例施行細則第14條之1土地之農業設施應如何審理"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-bdef3467d6",
+    "by_docno": "農企字第1080232427號",
+    "by_date": "2019-08-21",
+    "kind": "cease",
+    "phrase": "四、基於農發條例第38條之1規定係為土地移轉之稅賦優惠,且該土地已非屬農業用地,而容許辦法係規範農業設施,且以農業用地為適用範圍,二者規範之目的不同、適用之土地亦有別,故農發條例第38條之1土地應無容許辦法之適用,爰本會94年8月30日農企字第0940145612號函、95年11月8日農企字第0950162030號函、98年2月24日農企字第0980109258號函、以及102年11月8日農企字第"
+   }
+  ]
+ },
+ "content_hash": "9a79894f09c57984eae26812f93ba2df22b91e808a053333ff2d5998b52ea081",
+ "topics": [
+  "farm_use_cert",
+  "material_room",
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "14-1",
+   "kind": "extracted",
+   "snippet": "008 釋農業發展條例施行細則第14條之1土地之農業設施應如何審理\n一、查本會前於94年8月30日農企字第09401456"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "書時,該筆土地上興建有固定基礎之農業設施應如何審查案,請比照農業用地容許作農業設施使用審查辦法之規定補辦農業設施容許使用。」有案,先予敘明。\n二、又依內政部營建署95年2月2"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "53500970號函說明略以:「查都市計畫住宅區之使用管制,都市計畫法臺灣省施行細則第15條業有明文,農作產銷設施(溫室、農業資材)依上開條文規定尚無"
+  }
+ ]
+}

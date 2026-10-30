@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4660",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:52+08:00",
+   "fetched_at": "2026-10-30T11:23:04+08:00",
    "source_key": "rmis:4660"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080721235號|有關貴縣員林市農友○○○擬以員林市○○○地號土地申請興建農舍"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,10 +45,12 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

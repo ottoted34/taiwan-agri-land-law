@@ -1,0 +1,82 @@
+{
+ "id": "itp-b4e54a2cbe",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950127088號",
+ "date": "2006-05-19",
+ "date_text": "95年5月19日農企字第0950127088號書函",
+ "agency_text": "",
+ "category": "",
+ "subject": "041釋農業用地飼養牲畜寵物，是否可視為農業使用及申請興建農業設施之疑義",
+ "content": "一、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」故農業用地如擬作畜牧使用而需興建相關農業設施時，應依農業用地容許作農業設施使用審查辦法之規定，申請農業設施之容許使用，始符合法令規定。\n二、另查畜牧法第3條規定畜牧動物包括家畜係指牛、羊、馬、豬、鹿、兔及其他經中央主管機關指定之動物；家禽係指雞、鴨、鵝、火雞及其他經中央主管機關指定之動物。台端擬飼養之寵物，如非屬畜牧法所定之畜牧動物，則不符合農業使用之定義。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950127088號|釋農業用地飼養牲畜寵物是否可視為農業使用及申請興建農業設施之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d34b8503d09503708812fb47891443f9a9954a0bde4ad8a91e6c4e5c14d137b7",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "牲畜寵物,是否可視為農業使用及申請興建農業設施之疑義\n一、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用者。」故農業用地如擬作畜牧使用而需興建相關農業設施時,應依農業用地容許作農業設施使用審查辦法之規定,申請農業設施之容許使用,始符合法令規定。\n二、另查畜牧法第3條規定畜牧動"
+  }
+ ]
+}

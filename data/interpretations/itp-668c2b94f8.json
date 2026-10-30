@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5292",
    "serial": null,
-   "fetched_at": "2026-10-30T10:20:54+08:00",
+   "fetched_at": "2026-10-30T11:48:08+08:00",
    "source_key": "rmis:5292"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0960119292號|釋申請農業用地容許作農業設施使用之疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,20 +37,20 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2009-03-16",
-    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -59,22 +65,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "用農舍現已無居住之事實,倘僅供農場生產經營管理之用,且尚符合農業用地容許作農業設施使用審查辦法規定之農業資材室申請要件及農業經營之必要性、合理性,應得依法規規定申請農業用地容"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "合理性,應得依法規規定申請農業用地容許作農業資材室使用。又依農業發展條例第18條第4項規定,已申請興建農舍之農業用地不得重復申請,本案農業用地仍不得重複申請興建"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",僅供農業生產經營之用,除其使用變更已涉及原有農舍之使用應依建築法令規定處理外,尚須依農業用地容許作農業設施使用審查辦法之規定辦理,即本案由農舍使"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

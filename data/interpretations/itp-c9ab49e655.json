@@ -1,0 +1,64 @@
+{
+ "id": "itp-c9ab49e655",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1931814551號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端陳情嚴格執行「農業用地興建農舍辦法」，避免興建農舍時，廣植林木並築高牆，致影響農作物生長造成損害案，復請查照。",
+ "content": "一、依據台端九十三年六月二十五日並副知總統府、行政院陳情書辦理。\n二、「農業發展條例」第十八條第一項、第三項明定，在本條例修正施行前(後)取得農業用地之農民，無自用農舍而需興建者，經直轄市或縣(市)主管機關核定，於不影響農業生產環境及農村發展，得申請以集村方式或在自有農業用地興建農舍。同條第五項並授權由內政部會同中央主管機關，訂定「農業用地興建農舍辦法」，規範興建農舍之農民資格、最高樓地板面積、建蔽率、容積率、最大基層建築面積與高度、....等等事項。又「土地法」修正時，已刪除農地承受人之身分限制，並未禁止退休人員購買農地興建農舍，合先敘明。\n三、台端毗鄰農地所有權人，如依「農業用地興建農舍辦法」規定向主管機關申請興建之農舍，應屬合法之農舍，至於在農舍法定空地內種植喬木或灌木及築高牆，經查並未違背相關法令。\n四、茲隨文檢送「農業用地興建農舍辦法」一份供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1931814551號|台端陳情嚴格執行農業用地興建農舍辦法避免興建農舍時廣植林木並"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6c4acbdc027ad178cf7d5de4e22ebed395b47e22b0cec96dcbee96ae45645c94",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台端陳情嚴格執行「農業用地興建農舍辦法」,避免興建農舍時,廣植林木並築高牆,致影響農作物生長造成損害案,復請查照。\n一、"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "端九十三年六月二十五日並副知總統府、行政院陳情書辦理。\n二、「農業發展條例」第十八條第一項、第三項明定,在本條例修正施行前(後)取得農業用地之農民,無自用農舍而需興"
+  }
+ ]
+}

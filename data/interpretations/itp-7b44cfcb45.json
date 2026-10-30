@@ -1,0 +1,59 @@
+{
+ "id": "itp-7b44cfcb45",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070720897號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍及其坐落用地併同移轉等疑義，復如說明，請查照。",
+ "content": "一、復臺端107年7月30日未具文號陳情書。\n二、查臺端詢問旨案相關疑義，本會前以107年3月27日農水保字第1071826483號、107年4月20日農水保字第1070705726號、107年4月20日農水保字第1070707412號函回復有案。有關農業發展條例89年修正施行前已興建農舍仍應與其坐落用地併同移轉，且該坐落用地不應僅指農舍所坐落該筆農業用地，無論以多筆相毗鄰農地合併興建個別農舍，或以集村方式申請興建之農舍，均應受此規定所規範。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070720897號|有關農舍及其坐落用地併同移轉等疑義復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "786bf3a56cdd53350891dbb0d123097a0e67cf9226f92005baf49d7ebce39af3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年4月20日農水保字第1070707412號函回復有案。有關農業發展條例89年修正施行前已興建農舍仍應與其坐落用地併同移轉,且該坐落用地不應僅指農舍所坐"
+  }
+ ]
+}

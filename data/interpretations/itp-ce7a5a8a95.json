@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5401",
    "serial": null,
-   "fetched_at": "2026-10-30T10:16:33+08:00",
+   "fetched_at": "2026-10-30T11:43:47+08:00",
    "source_key": "rmis:5401"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0990158652號|都市計畫農業區申請設置汽車駕駛訓練班之農業用地變更回饋金計算"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -49,10 +55,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "函說明略以:「...因部分設施之設置不以建築為要件,且依現行都市計畫法規定,似亦未有核准建築面積與範圍,而不同於都市計畫範圍外變更編定為各種使用地之方"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

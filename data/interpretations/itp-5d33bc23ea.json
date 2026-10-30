@@ -1,0 +1,63 @@
+{
+ "id": "itp-5d33bc23ea",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950127362號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例第8條之1規定，得免申請建築執照之農業設施，及先行興建後輔導補辦容許使用之農業設施，是否須辦理地基調查案。",
+ "content": "主旨：有關貴府函詢農業發展條例第8條之1規定，得免申請建築執照之農業設施，及先行興建後輔導補辦容許使用之農業設施，是否須辦理地基調查案，復請查照。\n說明：\n一、依據內政部95年5月17日內授營建管字第0950081149號辦理(附件一)，並復貴府95年5月1日北府農牧字第0950349446號函。\n二、本案經洽內政部函復略以：「查農業發展條例第8條之1第2項規定『．．．但農業設施面積在45平方公尺以下，且屬一層樓之建築者，免申請建築執照。本條例中華民國92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照。』有關免申請建築執照之農業設施，及先行興建後輔導補辦容許使用之農業設施，既依上開規定免申請建築執照，未納入建築管理，應否辦理地基調查乙節，自非屬本管業務」，另查農業發展條例及農業用地容許作農業設施使用審查辦法亦無規範地基調查等有關事宜，綜上，免申請建築執照之農業設施，應無建築技術規則建築構造編第64條辦理地基調查之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950127362號|有關農業發展條例第8條之1規定得免申請建築執照之農業設施及先"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b7b8e48cef4310d267f482af357c448740dde6d2f78ebc48775b4f28e108ec1d",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "有關農業發展條例第8條之1規定,得免申請建築執照之農業設施,及先行興建後輔導補辦容許使用之農業設施,是否須"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",應否辦理地基調查乙節,自非屬本管業務」,另查農業發展條例及農業用地容許作農業設施使用審查辦法亦無規範地基調查等有關事宜,綜上,免申請建築執照之農業設施,應無建築技術規則建築"
+  }
+ ]
+}

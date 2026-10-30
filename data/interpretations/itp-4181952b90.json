@@ -1,0 +1,65 @@
+{
+ "id": "itp-4181952b90",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970130084號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關都市計畫農業區合法農舍可否兼營農藥零售販賣業案，復請查照。",
+ "content": "1.復 貴署97年6月4日營署都字第0970029255號函。\n2.依農舍性質及農業發展條例立法意旨觀之，農舍之管制標準及其可容許使用之內容，應不因土地為非都市土地或都市計畫農業區土地而有不同。按非都市土地使用管制規則第6條附表一規定，農舍許可使用細目包括農家住宅、農舍附屬設施、農產品之零售、農作物生產資材及日用品零售買賣。本案都市計畫農業區自用農舍及土地所有權人，可否兼營農藥零售販賣業，建議其使用管理似宜參照非都市土地使用管制規則，就農藥零賣販賣是否屬農作物生產資材及日用品零售，作一致性之規範及解釋，如何之處，還請卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970130084號|有關都市計畫農業區合法農舍可否兼營農藥零售販賣業案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9ebf516247b7b95ae0405470e6e9c823dabf66200061a32151ba6845bd6809ee",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月4日營署都字第0970029255號函。\n2.依農舍性質及農業發展條例立法意旨觀之,農舍之管制標準及其可容許使用之內容,應不因土地為非都市土地或都市計"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "內容,應不因土地為非都市土地或都市計畫農業區土地而有不同。按非都市土地使用管制規則第6條附表一規定,農舍許可使用細目包括農家住宅、農舍附屬設施、農產品之零售、農作物生產"
+  }
+ ]
+}

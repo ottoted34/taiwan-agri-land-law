@@ -1,0 +1,73 @@
+{
+ "id": "itp-9de0ec6669",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930159878號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋農民申請於農業用地容許作自產農產品加工室生產酒製品使用，因生產過程需於地下層發酵、儲存用途之面積審核疑義案",
+ "content": "一、依農業發展條例第三條第十二款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故農業用地申請興建農舍或農業設施，均需與農業生產或農業使用相關，而貴府亦應本於職權就當地農業經營發展、農業設施與農業生產經營之必要性及「農業用地容許作農業設施使用審查辦法」等相關規定，視個案實務及事實予以審認。又農業用地容許設置何種類型或何種規模之農業 (農作產銷)設施，依據「農業用地容許作農業設施使用審查辦法」之審查標準規定，若農業用地擬興建之農業設施規模過大或不符合容許使用項目者，則需先辦理用地變更，始符合法制，合先說明。\n二、本案自產農產品加工室農業設施依上開審查辦法第十一條第十四款規定，得依生產需要核定，最大興建面積為六六○平方公尺，其並未規定建築結構及方式。至地下層面積之計算，參照「農業用地興建農舍辦法」第六條第二款規定，地下層興建面積應列入總樓地板面積(即上開最大興建面積六六○平方公尺)予以計算。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930159878號|釋農民申請於農業用地容許作自產農產品加工室生產酒製品使用因生"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "40befa21c0c91ce2dd5e7ff5bb2b593b503cc1fcc3708acff6e7d6ed629041a7",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": ",因生產過程需於地下層發酵、儲存用途之面積審核疑義案\n一、依農業發展條例第三條第十二款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "本於職權就當地農業經營發展、農業設施與農業生產經營之必要性及「農業用地容許作農業設施使用審查辦法」等相關規定,視個案實務及事實予以審認。又農業用地容許設置何種類型或何種規模之農業"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "平方公尺,其並未規定建築結構及方式。至地下層面積之計算,參照「農業用地興建農舍辦法」第六條第二款規定,地下層興建面積應列入總樓地板面積(即上開最大興建面積六六○平方公尺)"
+  }
+ ]
+}

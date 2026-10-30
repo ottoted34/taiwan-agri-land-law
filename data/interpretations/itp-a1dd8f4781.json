@@ -1,0 +1,70 @@
+{
+ "id": "itp-a1dd8f4781",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950170879號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行前取得之農地，於修正施行後因法院判決移轉，其申請興建農舍應適用農業用地興建農舍辦法第2條或第3條案，復請查照。",
+ "content": "一、復 貴府95年12月12日府農務字第0950241960號函。\n二、「土地法」第43條規定，依本法所為之登記，有絕對效力;故「土地取得」之認定時點，應以土地登記機關登記之時點為基準，合先敘明。\n三、依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地，申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950170879號|農業發展條例修正施行前取得之農地於修正施行後因法院判決移轉其"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ebc2bc0b71c34a0f0dae136c2f4342e15ed014a46e5110ae45a70307b86d41b0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正施行前取得之農地,於修正施行後因法院判決移轉,其申請興建農舍應適用農業用地興"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "取得之農地,於修正施行後因法院判決移轉,其申請興建農舍應適用農業用地興建農舍辦法第2條或第3條案,復請查照。\n一、復 貴府95年12月12日府農務字第09502419"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "發展條例」修正公布生效日後取得之農業用地,申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理。"
+  }
+ ]
+}

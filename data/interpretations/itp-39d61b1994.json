@@ -1,0 +1,64 @@
+{
+ "id": "itp-39d61b1994",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040714867號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農地欲申請興建農舍，是否檢具「無農舍證明」案，復請查照。",
+ "content": "一、復行政院農業委員會交下台端104年5月4日申請書。\n二、依農業用地興建農舍辦法第2條第1項規定，興建農舍申請人資格應經直轄市、縣(市)主管機關核定，爰申請人無自用農舍之審查單位，應以申請興建農舍所在地之主管機關為宜。\n三、副本抄送花蓮縣政府，依行政程序法第19條規定，行政機關為發揮共同一體之行政機能，應於其權限範圍內互相協助，且行政機關執行職務時，得向無隸屬關係之其他機關請求協助。貴府為辦理興建農舍申請人無自用農舍之審查，得視個案實際需要函請相關直轄市、縣(市)政府協助辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1040714867號|有關農地欲申請興建農舍是否檢具無農舍證明案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d12a0042469aada242d1f092cbf5f7a06ce0d32e8620b03fa3b877a00eff1390",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "、復行政院農業委員會交下台端104年5月4日申請書。\n二、依農業用地興建農舍辦法第2條第1項規定,興建農舍申請人資格應經直轄市、縣(市)主管機關核定,爰申請人無自用農"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "19",
+   "kind": "extracted",
+   "snippet": "請興建農舍所在地之主管機關為宜。\n三、副本抄送花蓮縣政府,依行政程序法第19條規定,行政機關為發揮共同一體之行政機能,應於其權限範圍內互相協助,且行政機關執行"
+  }
+ ]
+}

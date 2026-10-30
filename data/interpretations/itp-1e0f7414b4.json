@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=1951",
    "serial": null,
-   "fetched_at": "2026-10-30T10:15:57+08:00",
+   "fetched_at": "2026-10-30T11:43:11+08:00",
    "source_key": "rmis:1951"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1001866169號|本會96年3月14日農授水保字第0961848256號函98"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "needs_review",
@@ -31,11 +37,27 @@
   "basis": [
    {
     "type": "cessation_signal",
+    "by_id": "itp-16e3245fe7",
+    "by_docno": "農授水保字第1010124799號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "三、申請興建農舍訂有0.25公頃面積之限制,係以往政府從事農地重劃時規劃標準農地坵塊之主要考量,0.25公頃亦為一較理想之農業經營面積,且農業用地興建農舍辦法除第3條第3項農業發展條例修法前取得之農業用地,依法被徵收得重新另購土地申請興建農舍之規定外,並未訂有其他除外規定,本會爰於100年6月16日農授水保字第1001866169號函停止適用得依政府公權力作為前之面積或作為後之殘餘面積申請興建農舍"
+   },
+   {
+    "type": "cessation_signal",
     "by_id": "itp-41c38013fc",
     "by_docno": "台內地字第1010322139號",
     "by_date": "2012-10-11",
     "kind": "cease",
     "phrase": "』;此所稱『該宗』農業用地,系指土地單一筆地號農業用地而言...本會爰於100年6月16日農授水保字第1001866169號函停止適用得依政府公權力作為前之面積或作為後之殘餘面積申請興建農舍之相關函釋如附件 "
+   },
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-d51712595b",
+    "by_docno": "農企字第1080231318號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "四、至本會96年3月14日農授水保字第0961848256號函,查係提供於都市計畫細部計畫核定發布實施後,於豎立都市計畫樁、計算坐標及辦理地籍分割測量階段,尚未實質異動土地權利之個案案例,惟因多有誤解,且恐有牴觸農業發展條例之立法意旨之虞,爰本會於100年6月16日以農授水保字第1001866169號函停止適用"
    }
   ]
  },
@@ -48,10 +70,12 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

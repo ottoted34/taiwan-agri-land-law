@@ -1,0 +1,59 @@
+{
+ "id": "itp-cf54861db3",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051834096號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴轄○○○申請興建農舍資格之合理性及必要性疑義案，復請查照。",
+ "content": "一、復貴府105年9月7日府產農字第1050135795號函。\n二、農業用地上准許興建農舍，係提供有心經營農業卻無自用農舍者於該農地上興建具有放置農機具兼具居住需求之構造物，以便利其從事農事工作，屬特許之行為。倘農業用地鄰近地區有可建築之建築用地，自應以建築用地作為居住使用，非謂有申請興建農舍提供居住使用之必要。\n三、依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定：「申請人為該農業用地之所有權人，且該農業用地應確供農業使用，並屬未經申請興建農舍之農業用地。」，又104年9月4日本辦法修正發布施行後，確供農業使用與不影響農業生產環境及農村發展之認定，由申請人檢附依中央主管機關訂定之經營計畫書格式，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣(市)主管機關審查。\n四、有關農舍之個案審查屬直轄市、縣(市)政府之權責，審查時仍請貴府審酌是否確供農業使用與不影響農業生產環境及農村發展，並考量興建農舍之必要性及合理性，本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051834096號|有關貴轄○○○申請興建農舍資格之合理性及必要性疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "10d66345622eb29af6667b2a843b5de4797c0ce3bfffc92424fd9d89d5dde88f",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "作為居住使用,非謂有申請興建農舍提供居住使用之必要。\n三、依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定:「申請人為該農業用地之所有權人,且該農"
+  }
+ ]
+}

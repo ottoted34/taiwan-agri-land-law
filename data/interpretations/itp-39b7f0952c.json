@@ -1,0 +1,64 @@
+{
+ "id": "itp-39b7f0952c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000137239號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局函為區域計畫法編定之水利用地上有無法提供使用執照影本之房屋如何認定及都市計畫範圍內風景區土地得否興建農舍疑義案，復請 查照。",
+ "content": "1.復貴局100年6月13日中市農地字第1000015520號函。\n2.依農業用地興建農舍辦法第4條規定：「申請興建農舍之土地，有下列情形之一者，不得依本辦法申請興建農舍：...一、依區域計畫法編定之水利用地、生態保護用地、國土保安用地。」是以水利用地自不得申請興建農舍，至水利用地上有無法提供執照影本之房屋如何認定乙節及所詢都市計畫範圍之風景區土地得否興建農舍，係涉內政部權責，請洽該部查詢。\n3.副本抄送內政部含來函影本，就涉及貴管權責，請研參逕復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000137239號|有關貴局函為區域計畫法編定之水利用地上有無法提供使用執照影本"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "73aa36606b9b7869ac9d510e7d3bd32e6fff820846a4ef35241ade18fe1c22e4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴局函為區域計畫法編定之水利用地上有無法提供使用執照影本之房屋如何認定及都市計畫範圍內風景區土地得"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "0年6月13日中市農地字第1000015520號函。\n2.依農業用地興建農舍辦法第4條規定:「申請興建農舍之土地,有下列情形之一者,不得依本辦法申請興建農舍:...一"
+  }
+ ]
+}

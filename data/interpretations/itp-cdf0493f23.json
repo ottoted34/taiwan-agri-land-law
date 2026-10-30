@@ -1,0 +1,84 @@
+{
+ "id": "itp-cdf0493f23",
+ "doc_class": "interpretation",
+ "docno": "農企字第890126724號",
+ "date": "2000-05-23",
+ "date_text": "89/5/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "001 釋申請人資格案",
+ "content": "查農業用地作農業使用證明僅為證明申請用地是否作農業使用，以供持憑辦理耕地所有權移轉登記及申請稅賦減免之用，至其申請人可為土地所有權人或其權利關係人。本案台灣糖業股份有限公司為土地之所有權人，以其公司名義申請農業用地作農業使用證明，於法並無不合。（台糖公司為處分其農業用地可為申請人97-004）",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4874",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:18+08:00",
+   "source_key": "rmis:4874"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890126724號|釋申請人資格案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2000-07-26",
+    "history": "中華民國八十九年七月二十六日行政院農業委員會（89）農企字第 890010180 號令、內政部臺（89）內中地字第 8979945 號令、財政部臺財稅字第 0890048779 號令會銜訂定發布全文 21 條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "f57677a9a676d2d36bc01badd23fcae7577c82a782178e53c113c81f8cc3c224",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

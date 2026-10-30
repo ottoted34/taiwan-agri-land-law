@@ -1,0 +1,38 @@
+{
+ "id": "tech-b17d172525bb",
+ "source_key": "datamoa:D97:167df84534e18d96",
+ "title": "技術專刊 38",
+ "series": "技術專刊",
+ "issue": "38",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2761",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "38",
+  "出刊年月": "200910",
+  "期刊名稱": "保健植物簡介及藥膳食譜",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2761"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "76fa6f04013a0d25af4be412ee7f204b98bc9a1c6ace70c57d4138da30d5eb95",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

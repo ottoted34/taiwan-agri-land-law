@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4825",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:34+08:00",
+   "fetched_at": "2026-10-30T11:35:46+08:00",
    "source_key": "rmis:4825"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030208511號|都市計畫農業區申請農業設施之容許使用是否有都市計畫法臺灣省施"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,16 +47,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "都市計畫農業區申請農業設施之容許使用,是否有「都市計畫法臺灣省施行細則」第29條第3項「農業產銷必要設施之建蔽率不得超過60%」之適用疑"
+  },
+  {
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "014767號函。\n二、依據本會102年10月9日修正發布之「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第7條規定,「申請本辦法所定各項農業設施,其所有農業設施總面"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

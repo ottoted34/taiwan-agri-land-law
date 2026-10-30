@@ -1,0 +1,81 @@
+{
+ "id": "itp-f5ff34851c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950153745號",
+ "date": "2006-09-25",
+ "date_text": "95/9/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "062 釋農牧用地整筆土地上建有祖墳案",
+ "content": "查本會旨揭函釋（94年3月23日農企字第0940113021號）略以：「....綜上，農業用地上於非都市土地使用編定前或都市計畫發布前已存在之墳墓，經原地修繕後，如經檢具相關證明文件，且符合相關法令規定者，仍宜有前開農業用地作農業使用認定及核發證明辦法第8條之適用。」所稱「原地修繕」應包括檢骨後於原地重新安葬。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4954",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:54+08:00",
+   "source_key": "rmis:4954"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950153745號|釋農牧用地整筆土地上建有祖墳案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "6cca8a182c834de74e5639627ae853879c71f4df112bf1ef102f735d323265d3",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "繕後,如經檢具相關證明文件,且符合相關法令規定者,仍宜有前開農業用地作農業使用認定及核發證明辦法第8條之適用。」所稱「原地修繕」應包括檢骨後於原地重新安葬。"
+  }
+ ]
+}

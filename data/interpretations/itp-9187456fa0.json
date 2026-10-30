@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5981",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:55+08:00",
+   "fetched_at": "2026-10-30T11:16:07+08:00",
    "source_key": "rmis:5981"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授農保字第1130239378號|有關依據產業創新條例辦理使用地變更之回饋金繳交涉及農業發展條"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,22 +43,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "有關依據產業創新條例辦理使用地變更之回饋金繳交涉及「農業發展條例」第12條第2項及第4項規定適用疑義案,復如說明,請查照。\n一、查「產業創新條例」(以下稱"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": "8",
    "kind": "extracted",
    "snippet": "2項之規定,撥交至農業發展基金,並請貴府(農業主管機關)依據農業用地變更回饋金撥繳及分配利用辦法第8條及第9條之規定辦理撥交作業。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

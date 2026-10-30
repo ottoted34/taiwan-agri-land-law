@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3561",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:10+08:00",
+   "fetched_at": "2026-10-30T11:35:22+08:00",
    "source_key": "rmis:3561"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營授辦城字第1030024691號|關於貴局函為都市計畫保護區原供森林使用得否申請興建農舍疑義一"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -51,16 +57,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "業區之有關規定及條件,申請建築農舍及農業產銷必要設施。復參酌「農業發展條例」第3條「農業使用」之定義,考量森林及保育與實際直接從事農業生產無關,故於上開細則條文修"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "事農業生產無關,故於上開細則條文修正時予以排除。另查貴府訂定「都市計畫法臺中市施行自治條例」業於103年2月6日發布實施,本案事涉上開自治條例第35條第"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

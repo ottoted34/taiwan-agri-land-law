@@ -1,0 +1,64 @@
+{
+ "id": "itp-ab3ef2ac24",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000100637號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢非都市土地風景區農牧用地申請興建農舍有否受水資源保護區管制禁建疑義，復請 查照。",
+ "content": "1.復台端100年1月3日書函。\n2.依據農業用地興建農舍辦法第4條規定：「申請興建農舍之土地，有下列情形之一者，不得依本辦法申請興建農舍：一、依區域計畫法編定之水利用地、生態保護用地、國土保安用地。二、工業區內農牧用地、林業用地。三、其他違反土地使用管制規定者。」台端所有農牧用地如非位於前述區位及用地者，且無違反土地使用管制規定者，自得依規定申請興建農舍。\n3.台端所稱位於石門水庫板新水廠水源水質水量保護區內之非都市土地風景區農牧用地，申請興建農舍有否受水資源保護區管制禁建乙節，係涉及自來水法、環境影響評估法及區域計畫法等相關規定，請向各該法令主管機關洽詢為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000100637號|台端函詢非都市土地風景區農牧用地申請興建農舍有否受水資源保護"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c46b270a91e0789e811257e4f782669d109185f5976f27ece19ec23337204112",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "義,復請 查照。\n1.復台端100年1月3日書函。\n2.依據農業用地興建農舍辦法第4條規定:「申請興建農舍之土地,有下列情形之一者,不得依本辦法申請興建農舍:一、依區"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍之土地,有下列情形之一者,不得依本辦法申請興建農舍:一、依區域計畫法編定之水利用地、生態保護用地、國土保安用地。二、工業區內農牧用地、林業用地。三、"
+  }
+ ]
+}

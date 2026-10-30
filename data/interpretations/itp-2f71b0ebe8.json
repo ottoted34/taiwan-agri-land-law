@@ -1,0 +1,67 @@
+{
+ "id": "itp-2f71b0ebe8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970158193號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "本會97年9月23日農授水保字第0971843998號函說明二後段「如經查明係進行土地投機炒作而非真正為經營農業需要興建，查與農業發展條例立法意旨相違背，縣(市)主管機關依權責得不受理申請」案，復請查照。",
+ "content": "1.復 貴府97年10月13日府農政字第0970155252B號函。\n2.農業用地准許興建「農舍」之制度，按其立法意旨，係經營農業不可分離之設施物，提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其農事工作，與一般家居住宅性質不同，故享有不課徵土地增值稅及免徵遺產稅等稅賦。農舍興建應符合農業發展條例及農業用地興建農舍辦法相關法令規定，需經申請審核通過後方能辦理。\n3.農業發展條例第18條第2項「……其在自有農業用地興建農舍滿5年始得移轉。但因繼承或法院拍賣而移轉者，不在此限」，同條第4項「第1項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落用地併同移轉或併同設定抵押權;已申請興建農舍之農業用地不得重複申請」，以上農舍坐落用地、移轉年限等限制規定，其意旨係為防止農地建地化，並保護供農業生產之土地，若農舍興建完成即進行移轉，再申請興建另一棟農舍，似違背經營農業需要，並有淪為土地炒作之虞，與立法意旨相違。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970158193號|本會97年9月23日農授水保字第0971843998號函說明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3eb769f1faf410849d3cbbb0eee5d91bf5ab7a3ffef59aeebbc932b14fa327e2",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "tax",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "徵土地增值稅及免徵遺產稅等稅賦。農舍興建應符合農業發展條例及農業用地興建農舍辦法相關法令規定,需經申請審核通過後方能辦理。\n3.農業發展條例第18條第2項「.."
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "興建農舍辦法相關法令規定,需經申請審核通過後方能辦理。\n3.農業發展條例第18條第2項「......其在自有農業用地興建農舍滿5年始得移轉。但因繼承或法院拍賣而"
+  }
+ ]
+}

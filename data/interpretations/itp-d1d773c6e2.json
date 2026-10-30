@@ -1,0 +1,65 @@
+{
+ "id": "itp-d1d773c6e2",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920161438號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋都市計畫農業區建地目申請變更免繳交回饋金",
+ "content": "主旨：有關都市計畫農業區建地目土地變更使用，是否仍須依「農業用地變更回饋金撥繳及分配利用辦法」規定，繳交農業用地變更回饋金乙案，復請查照。\n說明：\n一、復貴府九十二年十月十四日府農務字第○九二○一七○七七三號函。\n二、農業用地變更為非農業使用，應視其變更事業性質，繳交回饋金，為農業發展條例第十二條所明定。依據上開規定，農業用地變更回饋之繳交，以農業用地變更為非農業使用為要件。查都市計畫台灣省施行細則第三十條規定，都市計畫農業區內之建地目者，係以都市計畫發布前已編定為可供興建住宅使用之建築用地，或已建築供居住使用之合法建築務基地為原則，並依規定，該土地係以建築使用為目的，但不得違反農業區有關土地使用分區之規定。該等土地變更使用，如未涉及土地使用分區變更或變更非建築使用，應無涉及「農業用地變更回饋金撥繳及分配利用辦法」第三條應繳交農業用地變更回饋金之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920161438號|釋都市計畫農業區建地目申請變更免繳交回饋金"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "014828b00ecbcc4b751e2274336dcd434b9ee7db64bef8f3aa37ba45fa25dfb9",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "農業用地變更為非農業使用,應視其變更事業性質,繳交回饋金,為農業發展條例第十二條所明定。依據上開規定,農業用地變更回饋之繳交,以農業用地變更為非農業使用為要件。"
+  },
+  {
+   "law_id": "M0020018",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "變更使用,如未涉及土地使用分區變更或變更非建築使用,應無涉及「農業用地變更回饋金撥繳及分配利用辦法」第三條應繳交農業用地變更回饋金之規定。"
+  }
+ ]
+}

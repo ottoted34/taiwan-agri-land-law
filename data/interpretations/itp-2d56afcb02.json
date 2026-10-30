@@ -1,0 +1,60 @@
+{
+ "id": "itp-2d56afcb02",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090207352號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關已興建農舍之農牧用地得否由農舍坐落地之共同所有權人提供同意書調整配合耕地，涉及套繪管制實務執行事宜，係屬貴管，惠請卓處逕復，請查照。",
+ "content": "一、依據屏東縣政府109年2月25日屏府城管字第10906506800號函辦理(諒達)。\n\n二、查農業發展條例第18條第4項規定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。」，按其立法意旨，係為避免已興建農舍後之農地如得自由移轉予其他人，原供申請興建農舍之農地脫離農舍所有權人之支配管領範圍，無法落實已興建農舍後其他90%\n之農業用地仍供積極農業生產使用，將影響農地完整性及農業生產環境，爰規範農舍應與其坐落用地併同移轉，以確保足供積極農業生產使用之土地，先予敘明。\n\n三、復查最高行政法院107年度判字第266號判決理由略以：「．．．89年1月修正施行之農發條例第18條第4項規定．．．其中段限定農舍應與其坐落之農地併同移轉之規定，對於修正後建造之農舍適用，並無疑義；對於修正前建造之農舍而言，一方面縱無該規定，亦不得單獨移轉，二方面該規定就移轉為規範，未以建造時為要件，無須限定於何時建造，只要於修正後為移轉，即應適用該規定。．．．」，併予敘明。\n\n四、有關屏東縣政府所詢旨揭事宜，因涉及變更使用執照要件與程序，係屬貴管，惠請卓處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090207352號|有關已興建農舍之農牧用地得否由農舍坐落地之共同所有權人提供同"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8f5ebfafaa0650a8693148ad6cf5bf53c6ff5f39e36815c8eb7a14d7f9449f07",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "府城管字第10906506800號函辦理(諒達)。\n\n二、查農業發展條例第18條第4項規定:「第1項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

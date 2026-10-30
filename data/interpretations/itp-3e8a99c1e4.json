@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3824",
    "serial": null,
-   "fetched_at": "2026-10-30T10:07:20+08:00",
+   "fetched_at": "2026-10-30T11:34:33+08:00",
    "source_key": "rmis:3824"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農輔字第1030718136號|有關函詢以農舍做為套繪管制空地比之農業用地申請籌設休閒農場其"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,11 +46,11 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2002",
+    "law_id": "M0090014",
     "law_name": "休閒農業輔導管理辦法",
     "article": null,
     "amended_on": "2018-05-18",
-    "history": "中華民國107年05月18日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條",
+    "history": "中華民國一百零七年五月十八日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -60,16 +66,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2002",
+   "law_id": "M0090014",
    "article": null,
    "kind": "extracted",
    "snippet": "6月10日屏府農輔字第10315524300號函。\n二、依據休閒農業輔導管理辦法(以下簡稱本辦法)第10條第1項規定略以「設置休閒農場,其農業用地面積不得低於休"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

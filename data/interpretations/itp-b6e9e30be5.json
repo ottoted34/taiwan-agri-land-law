@@ -1,0 +1,58 @@
+{
+ "id": "itp-b6e9e30be5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061833642號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「89年1月4日前持有二筆農地可否合併再分割為二筆蓋農舍」一案",
+ "content": "一、有關「農業發展條例」第18條所稱取得農業用地，本會前以102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，其取得時點以登記日期為基準，爰農業用地取得時點，除有例外情形，其應以土地登記簿所有權部之登記日期為基準。另符合農業發展條例第18條第3項規定之農民，申請興建農舍不受農業用地不得小於0.25公頃及土地取得應滿2年之限制，合先敘明。\n二、有關土地合併分割因涉及地政業務，係屬內政部之權責，其合併分割行為實際是否對土地所有權部登記日期造成變動，敬請洽當地地政事務所了解。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061833642號|89年1月4日前持有二筆農地可否合併再分割為二筆蓋農舍一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "327c395870e10d4944da57097a6a333bb8833cd5440308de73558c28063fde47",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "4日前持有二筆農地可否合併再分割為二筆蓋農舍」一案\n一、有關「農業發展條例」第18條所稱取得農業用地,本會前以102年10月25日農水保字第1021866046號令"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "itp-1b0ab7cdda",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920165301號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋已依區域計畫法繳交「開發影響費」，是否仍須繳交農業用地變更回饋金規定",
+ "content": "主旨：有關非都市土地申請農業用地變更使用，已依區域計畫法繳交開發影響費，是否仍須依規定繳交農業用地變更回饋金乙案，復請查照。\n說明：\n一、復貴府九十二年十月三十一日府農務字第○九二○二○三七五五號函。\n二、有關申請土地開發，辦理分區或用地變更，繳交開發影響費，係依據區域計畫法第十五條之三規定辦理。依據內政部營建署九十一年十一月四日營署綜字第○九一○○六九二九一號函說明二敘明：農業用地變更回饋金係依農業發展條例第十二條規定，對農業用地變更為非農業使用之事業所收取之費用，專供農業發展與農民福利之用，其與非都市土地開發影響費「作為改善或增建相關公共設施之用」之徵收目的有別（詳如附件）。復依據農業發展條例第十二條規定意旨，農業用地變更使用應視變更事業性質繳交回饋金，就涉及農業用地變更案件，應請依據農業發展條例第十二條與「農業用地變更回饋金撥繳及分配利用辦法」相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920165301號|釋已依區域計畫法繳交開發影響費是否仍須繳交農業用地變更回饋金"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e949c1f185669dc1a923572d618e61ffb095b2d3c1632c7b79aee1b07e85bc92",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "D0070030",
+   "article": "15-3",
+   "kind": "extracted",
+   "snippet": "有關申請土地開發,辦理分區或用地變更,繳交開發影響費,係依據區域計畫法第十五條之三規定辦理。依據內政部營建署九十一年十一月四日營署綜字第○九一○○六九二九一號函說"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "第○九一○○六九二九一號函說明二敘明:農業用地變更回饋金係依農業發展條例第十二條規定,對農業用地變更為非農業使用之事業所收取之費用,專供農業發展與農民福利之用,"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "饋金,就涉及農業用地變更案件,應請依據農業發展條例第十二條與「農業用地變更回饋金撥繳及分配利用辦法」相關規定辦理。"
+  }
+ ]
+}

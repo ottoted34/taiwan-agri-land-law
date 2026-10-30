@@ -1,0 +1,58 @@
+{
+ "id": "itp-1fc71d2a0c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971844137號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關一筆農業用地上有5個建號的合法農舍，擬將土地移轉為7人共有，其中5間農舍移轉5人，另2人取得土地持分之疑義案，復請查照。",
+ "content": "一、復 台端97年9月23日陳情書。\n二、按農業發展條例第18條第4項規定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請」，查其立法精神，農業用地上興建農舍，應以自用為原則，本案1筆農業用地上有5棟農舍，似已無法符合自用之前提，且依農舍應與其坐落用地併同移轉或併同設定抵押權規定，如本案5棟農舍坐落基地移轉為共有持分，仍應符合上開農業發展條例之立法精神。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971844137號|有關一筆農業用地上有5個建號的合法農舍擬將土地移轉為7人共有"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7ae11a934aa7743214605925b759034518000d27dbb15f5cd4610b3e9217f995",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復 台端97年9月23日陳情書。\n二、按農業發展條例第18條第4項規定:「第1項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

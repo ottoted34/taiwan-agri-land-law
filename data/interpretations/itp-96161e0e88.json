@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3230",
    "serial": null,
-   "fetched_at": "2026-10-30T09:59:23+08:00",
+   "fetched_at": "2026-10-30T11:26:36+08:00",
    "source_key": "rmis:3230"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授糧字第1050728759號|貴府函為合法農業設施是否得變更作農舍兼原核定農業設施使用案復"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "營使用,其中農舍係基於農業經營之目的始附帶提供居住使用,並依農業用地興建農舍辦法規定辦理,農業設施則供農業經營使用,並依申請農業用地作農業設施容許使用審查辦法("
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "農業用地興建農舍辦法規定辦理,農業設施則供農業經營使用,並依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)予以審認核處,二者之性質、法令依據、申請要件與管制規定均不相"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "相關建造執照或使用執照者,尚不得轉作農舍使用,餘違規情事應依區域計畫法或都市計畫法裁罰後,再依相關規定辦理。為避免衍生適法性之衝突,加劇違規使用之虞,"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "或使用執照者,尚不得轉作農舍使用,餘違規情事應依區域計畫法或都市計畫法裁罰後,再依相關規定辦理。為避免衍生適法性之衝突,加劇違規使用之虞,請貴府依上開"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

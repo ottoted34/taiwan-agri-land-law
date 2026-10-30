@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6095",
    "serial": null,
-   "fetched_at": "2026-10-30T09:46:47+08:00",
+   "fetched_at": "2026-10-30T11:14:00+08:00",
    "source_key": "rmis:6095"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1150215715號|有關貴局函詢農舍變更作動物保護相關設施使用是否得適用農業用地"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -38,13 +44,13 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "12",
    "kind": "extracted",
    "snippet": "有關貴局函詢農舍變更作動物保護相關設施使用,是否得適用「農業用地興建農舍辦法」第12條規定解除套繪管制案,詳如說明,請查照。\n一、依據「農業用地興建農舍辦法」(下稱農"
@@ -56,10 +62,24 @@
    "snippet": "一、農舍坐落之農業用地已變更為非農業用地。....」。復依據「農業主管機關同意農業用地變更使用審查作業要點」第2點第4款規定,農業用地變更使用,屬「依非都市土地使用管制規則規定,作非農業使"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "使用審查作業要點」第2點第4款規定,農業用地變更使用,屬「依非都市土地使用管制規則規定,作非農業使用性質之容許使用或臨時使用」,應徵得農業主管機關同意。是以,農業"
+  },
+  {
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "723521號函說明四(如附件)略以:「動物保護相關設施非屬『農業發展條例』第3條第12款之農業使用....有關申請變更編定地號之基地已存有合法農舍,為興辦事業而"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",將該建物視為一般房舍,以符合土地使用管制原則。故申請人倘依建築法規定向貴府申請變更建物使用執照及解除套繪事宜,則應由建築主管機關依據建築相關法令"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5199",
    "serial": null,
-   "fetched_at": "2026-10-30T10:10:37+08:00",
+   "fetched_at": "2026-10-30T11:37:39+08:00",
    "source_key": "rmis:5199"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020239395號|農業用地上施設有農業設施申請核發農業用地作農業使用證明書疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "4",
    "kind": "extracted",
    "snippet": " 月13 日南市農務字第1021003116 號函。\n二、查農業用地作農業使用認定及核發證明辦法第4條第2款明定略以:「農業用地符合下列情形,且無第5條所定情形者,認定為作農業使用:"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "免檢附容許使用同意書外,依法仍應申辦上開同意書;至建築執照依農業發展條例第8條之1規定,已有45平方公尺以下免附,其餘依建管法令規定,倘有免申請者,亦適用之,合先"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

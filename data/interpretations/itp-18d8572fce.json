@@ -1,0 +1,59 @@
+{
+ "id": "itp-18d8572fce",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090703929號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端函詢農業用地興建農舍辦法第9條第2項第3款規定疑義案，復如說明，請查照。",
+ "content": "一、復臺端109年2月10日申請函。\n\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第3款規定略以：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，．．．。但於離島地區，以下列原因，於本條例中華民國89年1月28日修正生效後，取得被繼承人或贈與人於上開日期前所有之農業用地，申請興建農舍者，不在此限：（一）繼承。（二）為民法第1138條\n所定遺產繼承人於繼承開始前因被繼承人之贈與。」，已明定離島地區不受農舍用地面積10%限制之資格條件(即取得原因及時點)。\n\n三、又依民法第758條規定:「不動產物權，依法律行為而取得、設定、喪失及變更者，非經登記、不生效力。」暨土地法第43條規定:「依本法所為之登記，有絕對效力。」，爰申請興建農舍之農業用地取得原因，仍應以依法辦理土地登記簿謄本所載登記原因為準。\n\n四、至本案倘有土地登記規定疑義，建請臺端依個案實情洽詢金門縣政府地政單位提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090703929號|有關臺端函詢農業用地興建農舍辦法第9條第2項第3款規定疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "be782f4cdece8a82beb35a16c45215ec9f197ed1e8eed25a3fd6f57b1fa9f868",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關臺端函詢農業用地興建農舍辦法第9條第2項第3款規定疑義案,復如說明,請查照。\n一、復臺端109年2月10日申請函。"
+  }
+ ]
+}

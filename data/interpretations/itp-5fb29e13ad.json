@@ -1,0 +1,58 @@
+{
+ "id": "itp-5fb29e13ad",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060239033號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關興建在耕地上之未辦理保存登記房屋，其移轉應否受農業發展條例第18條第4項之規定，必須與其耕地併同移轉予同一人案，復如說明，請查照。",
+ "content": "一、回復您106年9月4日未具文號請示函暨依據內政部106年9月29日台內地字第1060436490號函辦理。\n二、依農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。」其立法意旨乃在避免農舍與其坐落用地分屬不同所有權人，產生徒有農舍卻無供農業經營用地之不合理現象，合先敘明。\n三、有關土地登記簿已有興建完成農舍之註記，但該農舍尚未辦理建物所有權第一次登記，於該農地移轉時應否要求一併移轉農舍並審查其承受人資格一節，查內政部前以104年12月3日內授中辦地字第1040087728號函釋略以「地政機關於受理申請農地移轉登記時，倘已得自登記簿查知該農地上已有興建完成之農舍，自應要求申請人檢附該農舍之移轉契約書及完稅證明文件或其他證明文件，以供審認其是否併同移轉，且其承受人亦應符合無自用農舍之要件。」有案。\n四、另您所詢農舍係涉個案實務執行，宜請敘明具體事實並檢附相關證明文件，向該土地所轄之直轄市、縣(市)政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060239033號|有關興建在耕地上之未辦理保存登記房屋其移轉應否受農業發展條例"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2b476023926712fd70ae697696620d3ab93ec205a56f974d33dac9dcef061b6d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關興建在耕地上之未辦理保存登記房屋,其移轉應否受農業發展條例第18條第4項之規定,必須與其耕地併同移轉予同一人案,復如說明,請查照。\n一、回復您10"
+  }
+ ]
+}

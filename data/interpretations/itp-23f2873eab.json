@@ -1,0 +1,52 @@
+{
+ "id": "itp-23f2873eab",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1011827906號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函為農牧用地供鄰近農地耕作通行之用的農路及供農田排水之公共溝渠，其所佔面積是否計入農業生產使用面積疑義案，復請查照。",
+ "content": "1.復貴府101年11月8日府農務字第1010334923號函。\n2.申請興建農舍之農業用地其面積在0.25公頃以上，如因現有道路或公共溝渠通過，該道路及公共溝渠部分之面積不得提供計算農舍興建面積之比例，亦即以扣除通行之用農路及供農田排水之公共溝渠面積後之實際農作面積，作為農舍興建之計算依據。惟本案所涉個案審查事宜，仍由縣市主管機關依事實審認。\n3.檢附行政院農業委員會100年2月23日農授水保字第1000108635號函供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1011827906號|貴府函為農牧用地供鄰近農地耕作通行之用的農路及供農田排水之公"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "19a695c9f24b9c9a0d006ed334d57e973fbab8d2e4ab3ad584e40072209dd0c0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "itp-346815260f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950131799號",
+ "date": "2006-06-22",
+ "date_text": "95年6月22日農企字第0950131799號書函",
+ "agency_text": "",
+ "category": "",
+ "subject": "045 釋農業用地申請容許作農業設施使用，於山坡地保育區農牧用地申請興建農路、整坡作業等相關設施之水土保持計畫提送疑義案。",
+ "content": "依水土保持法第12條第1項規定，於山坡地內修築農路或整坡作業，水土保持義務人應先擬具水土保持計畫，另依同條文第2項水土保持計畫未經主管機關核定前，各目的事業主管機關不得逕行核發開發或利用之許可。台端擬於山坡地範圍內申請農業設施及進行興建農路、整坡作業等事宜，應依水土保持法規定擬具水土保持計畫，同時提送農業用地作農業設施使用之申請案及水土保持計畫，由直轄市、縣(市)政府內農務單位及水土保持單位審查同意及核定後，始能進行相關作業。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950131799號|釋農業用地申請容許作農業設施使用於山坡地保育區農牧用地申請興"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d4ac8aeb331be44087d266aadd41e6faff4e0db092940eac3d08743a04d32b73",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "請興建農路、整坡作業等相關設施之水土保持計畫提送疑義案。\n依水土保持法第12條第1項規定,於山坡地內修築農路或整坡作業,水土保持義務人應先擬具水土保持計畫,另"
+  }
+ ]
+}

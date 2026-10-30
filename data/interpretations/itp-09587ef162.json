@@ -1,0 +1,58 @@
+{
+ "id": "itp-09587ef162",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971837429號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴國會辦公室關切○○○所有台中市○○○地號與○○○地號2筆土地毗鄰，卻因不同地段無法辦理合併致面積未達0.25公頃而請協助取得興建農舍資格案，請查照。",
+ "content": "1.依據 貴國會辦公室97年12月11日關切電話辦理。\n2.依「農業用地興建農舍辦法」第3條第1項第3款規定「申請興建農舍之該宗農業用地面積不得小於0.25公頃」，有關興建農舍之『該宗』農業用地如何認定及合併計算問題，本會前於95年8月16日邀集內政部等相關單位研商，確認『該宗』農業用地係指土地登記之單1筆地號農業用地；若有毗連2筆地號以上農業用地因單筆地號面積不符最小申請規模者，仍應依現行法令如『地籍測量實施規則』規定辦理合併為單筆地號，使其面積達0.25公頃以上，即符申請興建農舍之條件。不同地段而毗鄰之農地不得合併為單一筆地號，係於「地籍測量實施規則」等相關法規規範，屬內政部業務範疇。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971837429號|貴國會辦公室關切○○○所有台中市○○○地號與○○○地號2筆土"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9eb3700c41e8ba365adb8e6325c63b783f36a1778bd54f352d664900f4e6a81e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": ".依據 貴國會辦公室97年12月11日關切電話辦理。\n2.依「農業用地興建農舍辦法」第3條第1項第3款規定「申請興建農舍之該宗農業用地面積不得小於0.25公頃」,有關興建"
+  }
+ ]
+}

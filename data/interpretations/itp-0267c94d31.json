@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3618",
    "serial": null,
-   "fetched_at": "2026-10-30T10:01:29+08:00",
+   "fetched_at": "2026-10-30T11:28:42+08:00",
    "source_key": "rmis:3618"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040246820號|有關貴縣議會建議輔導舊有農舍就地合法排除區域計畫法及都市計畫"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,22 +48,42 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴縣議會建議輔導舊有農舍就地合法,排除區域計畫法及都市計畫法等相關規定,復請查照。\n一、復貴府104年11月26日府農農字第10"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴縣議會建議輔導舊有農舍就地合法,排除區域計畫法及都市計畫法等相關規定,復請查照。\n一、復貴府104年11月26日府農農字第10402482"
+  },
+  {
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "具有放置農機具兼具居住需求之構造物,以便利其農事工作,目前有農業發展條例其及授權訂定之農業用地興建農舍辦法以為申請興建農舍之依循。\n三、貴府首揭函建請輔"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "之構造物,以便利其農事工作,目前有農業發展條例其及授權訂定之農業用地興建農舍辦法以為申請興建農舍之依循。\n三、貴府首揭函建請輔導舊有農舍就地合法一節,有關農地上"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "以審查;至農地違規及違章建物,仍須依區域計畫法、都市計畫法、建築法等規定依法裁處,以避免藉由投機行為而達到「違規使用」之目的。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

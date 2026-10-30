@@ -1,0 +1,59 @@
+{
+ "id": "itp-22bb0a27c9",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080240492號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴署針對桃園市政府函詢該市觀音區○○○地號（特定農業區農牧用地）土地，原有農舍拆除重建，是否符合農業用地興建農舍辦法第9條第2項第6款規定1案，再請惠示意見，請查照。",
+ "content": "一、復貴署108年9月18日營署綜字第1080064002號函。\n二、針對貴署前揭號函說明三所示，建築物全部拆除而重行建築者係屬新建築行為，如何與農業用地興建農舍辦法第9條規定之「分期興建」產生連結？另，重新申請建造執照時，應否依原經核准之建造執照之內容再次申請興建，而不得任意變更興建位置或增加建築物之面積與容積？由於上述議題涉及農舍相關行政函釋一貫性，爰請貴署惠復釋疑。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080240492號|有關貴署針對桃園市政府函詢該市觀音區○○○地號特定農業區農牧"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "27e25476adec6a6bf3a5d517e8c63b7f54c185146574790499aa14047bfaa344",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "○地號(特定農業區農牧用地)土地,原有農舍拆除重建,是否符合農業用地興建農舍辦法第9條第2項第6款規定1案,再請惠示意見,請查照。\n一、復貴署108年9月18日營署綜"
+  }
+ ]
+}

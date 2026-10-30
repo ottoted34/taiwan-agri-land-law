@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5300",
    "serial": null,
-   "fetched_at": "2026-10-30T10:07:06+08:00",
+   "fetched_at": "2026-10-30T11:34:18+08:00",
    "source_key": "rmis:5300"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030227639號|已核發容許使用同意書之農業設施於實際興建時因應實需而調整高度"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,22 +43,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "10",
    "kind": "extracted",
    "snippet": "0158280號函。\n二、查本會92年12月15日修正發布之「農業用地容許作農業設施使用審查辦法」第10條規定:「申請容許農作產銷設施使用,申請人應擬定經營計畫書,並敘明下列事項,經營計"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "12",
    "kind": "extracted",
    "snippet": "亦同:...」於98年3月16日修正發布為「申請農業用地作作農業設施容許使用審查辦法」第12條規定:「申請農作產銷設施之容許使用,其經營計畫應敘明下列事項:...」,而將「,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

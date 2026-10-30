@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4885",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:07+08:00",
+   "fetched_at": "2026-10-30T11:35:19+08:00",
    "source_key": "rmis:4885"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030212723號|有關申請人已取得農業用地作農業設施容許使用同意在案可否於其他"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "3年4月17日府農管字第1030088476號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第11條規定:「已申請興建農業設施之農業用地上,申請設置相同"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

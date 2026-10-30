@@ -1,0 +1,60 @@
+{
+ "id": "itp-cc09ef0200",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041810862號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "興建農舍的法規疑問。",
+ "content": "一、農業用地上准許興建農舍之制度，係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作，與一般家居住宅性質不同。再者，農舍之興建與使用應與農業經營不可分離，並非僅做純住宅使用，先予敘明。\n二、依現行農業用地興建農舍辦法規定，同一筆農業用地僅能申請興建一棟農舍，又已興建農舍之農業用地不得重複申請，該筆農舍坐落之農業用地面積應大於0.25公頃以上，其餘部分始得申請解除套繪管制。\n三、另外，有關法規之適用，應以提出申請時之相關法令為依據，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041810862號|興建農舍的法規疑問"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "972a978d8c1e3659f790ab0c360e3eade8ebc206a3410a8fec0bff0dee231a0d",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業經營不可分離,並非僅做純住宅使用,先予敘明。\n二、依現行農業用地興建農舍辦法規定,同一筆農業用地僅能申請興建一棟農舍,又已興建農舍之農業用地不得重複申請,該"
+  }
+ ]
+}

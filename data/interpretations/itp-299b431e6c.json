@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5875",
    "serial": null,
-   "fetched_at": "2026-10-30T09:51:40+08:00",
+   "fetched_at": "2026-10-30T11:18:52+08:00",
    "source_key": "rmis:5875"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100251002號|申請興建農舍無自用農舍審查原則疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "aa4df29b9f444256718bc4593de6e052436d435fd701ad092b0eac6f63015081",
  "topics": [
@@ -39,22 +55,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": "義案\n主旨:有關貴府函詢貴轄民眾申請興建農舍之資料,是否符合農業用地興建農舍辦法第2條第1項第4款規定之疑義一案,復如說明,請查照。\n說明:\n一、復貴府110年11月"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "執照用途欄註明用途,以釐清是否為「農舍」,併予敘明。\n四、依農業發展條例(以下簡稱本條例)第18條規定,無自用農舍而需興建者,得依相關規定申請興建農舍;"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

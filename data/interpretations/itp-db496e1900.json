@@ -1,0 +1,58 @@
+{
+ "id": "itp-db496e1900",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0980035833號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農業用地興建農舍辦法第8條第1項第8款有關『每戶至少一個停車位』」疑義案，本署意見，請查照。",
+ "content": "一、復大會98年5月26 日農授水保字第0981842714號函。\n二、有關「停車位得否設置於1樓內並計入建築總樓地板面積」乙節，查「農業用地興建農舍辦法」第8條第8款規定集村興建農舍時每戶應至少設置一個停車位於法定空地，尚無法定空地停車位以外，所設置之停車位不得設置於1樓之規定。又依前開辦法第6條第2款規定：「地下層每層興建面積，不得超過基層建築面積，其面積應列入總樓地板面積計算。但防空避難設備、裝卸、停車空間、機電設備空間，符合建築技術規則建築設計施工編第一百六十二條規定者，得予扣除。」。綜上，設於1樓之停車位應計入建築總樓地板面積。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0980035833號|農業用地興建農舍辦法第8條第1項第8款有關每戶至少一個停車位"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a26e36a18c08a988797e878cc82d3a23878f801baba7bb08ed403fbfeb75d9e7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "「農業用地興建農舍辦法第8條第1項第8款有關『每戶至少一個停車位』」疑義案,本署意見,請查照。\n一、復大會9"
+  }
+ ]
+}

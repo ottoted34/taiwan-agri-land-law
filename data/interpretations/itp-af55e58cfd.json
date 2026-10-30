@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5643",
    "serial": null,
-   "fetched_at": "2026-10-30T09:52:34+08:00",
+   "fetched_at": "2026-10-30T11:19:46+08:00",
    "source_key": "rmis:5643"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090249539號|農業發展條例第18條所稱取得農業用地之取得時點認定"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,16 +47,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "農業發展條例第18條所稱取得農業用地之取得時點認定\n一、復貴府 109年11月9日屏府農企字第 10"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,59 @@
+{
+ "id": "itp-f6da259ddf",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1001867083號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關立法院邱○○委員質詢本會蘇前主任委員○○於 貴縣長治鄉興建農舍案，惠請 貴府儘速依本會100年9月19日農水保字第1001866939號函查復辦理情形，請 查照辦理。",
+ "content": "一、查本會以旨揭號函請 貴府查復相關事項，迄未獲復，先予敘明。\n二、按農舍係為便利農民從事農業而准許於自有農地上興建，其興建、使用之目的與農業設施相同，均應與農業經營不可分離。而旨揭農舍坐落農業用地90％面積土地應依「農業用地興建農舍辦法」第3條及第6條規定，確實作為農業使用。\n三、查貴府100年10月3日新聞稿並未說明旨揭農舍坐落之農業用地供農業生產使用之90％面積土地是否確為農業使用，且農業設施是否確依核定生產計畫使用，爰請 貴府派員現勘查認前開事項，並惠請儘速併同本會旨揭號函查復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1001867083號|有關立法院邱○○委員質詢本會蘇前主任委員○○於貴縣長治鄉興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7a0dd2e734612e2b5fcc44b28063dee4603b89536c9e2d92fcee1e0a4270a19e",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "與農業經營不可分離。而旨揭農舍坐落農業用地90%面積土地應依「農業用地興建農舍辦法」第3條及第6條規定,確實作為農業使用。\n三、查貴府100年10月3日新聞稿並未說明旨揭"
+  }
+ ]
+}

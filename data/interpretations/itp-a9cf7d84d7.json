@@ -1,0 +1,58 @@
+{
+ "id": "itp-a9cf7d84d7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1010110973號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地興建農舍辦法第6條第1項第5款農舍放流水規定執行疑義案，請查照。",
+ "content": "1.依據內政部營建署101年5月22日營署建管字第1013040263號函辦理並復貴府101年4月26日府建管字第1010052831號函。\n2.依農業用地興建農舍辦法第6條第5款規定：「農舍之放流水應排入排水溝渠，其排入灌溉專用渠道者，應經管理單位同意；其排入私有水體者，應經所有人同意。」，並審視同條文第4款規定，所稱之農舍放流水係指經建築物污水處理設施處理過，且應排入排水溝渠，是以並無以設置蓄水池方式，提供農舍放流水排入，再做為灌溉農作物使用之情形。至所稱私有水體，宜依水體之土地所有權人或管理人予以認定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1010110973號|有關農業用地興建農舍辦法第6條第1項第5款農舍放流水規定執行"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1cea6fc11f71233a172cc1d04ec0c4f3066ed2aad5e8a9c7b5070476c8c678ca",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第6條第1項第5款農舍放流水規定執行疑義案,請查照。\n1.依據內政部營建署101年5月"
+  }
+ ]
+}

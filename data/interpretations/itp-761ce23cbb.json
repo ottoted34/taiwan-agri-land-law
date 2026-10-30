@@ -1,0 +1,61 @@
+{
+ "id": "itp-761ce23cbb",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090253180號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "申請興建農舍涉及停灌之2年經營實績審認疑義",
+ "content": "一、復貴局 109年12月1日南市農工字第 1091461828號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關旨案涉及農業用地興建農舍辦法 (以下簡稱本辦法 )第 2條、第 3條及第 3條之 1之執行疑義，本會前於 106年7月28日以農水保字第 1061856255號函 (諒達 )說明在案。意即申請興建農舍時，除申請人身分認定以外，均須審查經營計畫書及該筆農業用地自申請日往前起算至少連續 2年經營實績，以確認該筆農業用地確有積極農用之事實，併予敘明。\n四、農業用地如因所有權人選擇不從事農業生產，或因土地客觀條件經常性無法生產，自難認定所有權人因經營農業而有興建農舍之需求。惟因短期、非經常性水資源不足，故政府調配水資源實施短期停灌措施，致農業用地短期未實際供農作生產，而使申請日期往前 2年內生產佐證資料中斷者，仍得就長期積極農用之事實予以認定，應視停灌期數，往前補足 2年經營實績文件資料作為依據。\n五、基於農舍之個案審查係屬直轄市、縣 (市 )政府之權責，請貴府於符合法令規定之下，依個案事實予以審認，針對受停灌措施影響區域申請興建農舍之案件，應注意停灌措施補助對象及興建農舍申請人是否為同一人。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090253180號|申請興建農舍涉及停灌之2年經營實績審認疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b3d1e91c42ed38b7c1b7d434892366b25f0e1a670db84bde7a3c4470dd289706",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",並非擁有農業用地即可興建農舍,先予敘明。\n三、有關旨案涉及農業用地興建農舍辦法 (以下簡稱本辦法 )第 2條、第 3條及第 3條之 1之執行疑義,本會前於 1"
+  }
+ ]
+}

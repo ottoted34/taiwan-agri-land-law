@@ -1,0 +1,64 @@
+{
+ "id": "itp-fef2ea0009",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031821075號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴署函為已興建農舍之共有農業用地，經鄉鎮市區公所調解成立或直轄市、縣(市)不動產糾紛調處委員會調處確定者，得否逕向地政機關申請分割疑義案，復請查照。",
+ "content": "一、依據本會水土保持局案陳貴署103年9月4日營署建管字第1032915456號函辦理。\n二、有關已興建農舍之耕地，如符合農業發展條例第16條規定，得辦理分割，惟仍須受同條例第18條第4項規定限制，內政部102年12月6日台內地字第1020360708號函釋有案，因此，除農業發展條例第16條有但書規定者外，其餘已興建農舍之共有農業用地若辦理分割，仍應受農業用地興建農舍辦法第12條所規範。\n三、另查內政部103年4月29日台內營字第1030804511號函說明三敘及已興建農舍之農業用地經法院判決共有物分割確定，自得檢附法院確定判決書，逕向地政機關申辦分割乙節，按其意旨似經法院判決分割確定者，即不受農業用地興建農舍辦法第12條有關分割限制之規範，恐有致前開規定淪為具文之虞，爰為回歸立法目的，建請貴署函知各級法院，於審理是類案件時應注意相關規定。\n四、至首揭函所稱經調處認定者其效力是否不同於法院判決乙節，請貴署洽主管機關解釋。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031821075號|有關貴署函為已興建農舍之共有農業用地經鄉鎮市區公所調解成立或"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f087f2dad01630f80443982c80c604544ce2ba3db2a01565ad089f1a1b779126",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "32915456號函辦理。\n二、有關已興建農舍之耕地,如符合農業發展條例第16條規定,得辦理分割,惟仍須受同條例第18條第4項規定限制,內政部102年12月6日"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "但書規定者外,其餘已興建農舍之共有農業用地若辦理分割,仍應受農業用地興建農舍辦法第12條所規範。\n三、另查內政部103年4月29日台內營字第1030804511號函說明"
+  }
+ ]
+}

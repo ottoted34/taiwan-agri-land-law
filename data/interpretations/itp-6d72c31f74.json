@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5017",
    "serial": null,
-   "fetched_at": "2026-10-30T10:12:26+08:00",
+   "fetched_at": "2026-10-30T11:39:29+08:00",
    "source_key": "rmis:5017"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1020229922號|農業主管機關同意農業用地變更使用審查作業要點第6點及第14點"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -49,6 +55,14 @@
    "article": null,
    "kind": "extracted",
    "snippet": "「農業主管機關同意農業用地變更使用審查作業要點」第6點及第14點規定疑義案。\n主旨:有關貴府函詢「農業主管機關同意農業用地變更使"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",合先敘明。\n三、綜上,符合變更作業要點第6點第6款:「符合非都市土地使用管制規則規定,為自然地形或合法建築用地包圍、夾雜之零星農業用地。」及第7款:「供公眾通行"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

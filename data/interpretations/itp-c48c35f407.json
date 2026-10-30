@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5110",
    "serial": null,
-   "fetched_at": "2026-10-30T10:14:42+08:00",
+   "fetched_at": "2026-10-30T11:41:56+08:00",
    "source_key": "rmis:5110"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1010107706號|農業發展條例暨申請農業用地作農業設施容許使用審查辦法之農業使"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -53,28 +59,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "「農業發展條例」暨「申請農業用地作農業設施容許使用審查辦法」之農業使用審認疑義案。\n主旨:有關 貴府函詢「農業發展條例」暨「申請農業用地作農"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "01年4月27日府農企字第1010055632號函。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "用地申請興建農業設施,均需實際供與農業使用相關者。本會並依據農業發展條例第8條之1訂定之「申請農業用地作農業設施容許使用審查辦法」,據以執行。\n三、按前開辦法於審"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,52 @@
+{
+ "id": "itp-b8354e4f75",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051826582號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "手冊索取資料。",
+ "content": "農舍興建因涉及農業、建築、土地、民法...等相關規定，衍生諸多疑義，本局爰蒐集相關法令及解釋函令，進行彙整及解析，編纂農舍執行疑義手冊，期增進行政效能。本局目前因印製數量有限，且優先提供行政機關使用，暫不提供民眾索取，至於電子檔部分則未提供下載服務，惟台端若有解釋函令法規查詢需要，可至本局「農村再生及農舍解釋函查詢系統」(網址：http://rlaw. swcb.gov.tw)查詢，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051826582號|手冊索取資料"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fa41fc1b30318bb0c14ba0b9715a0a226cea0af8b1ddce55311a3f6c0d744ddb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

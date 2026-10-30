@@ -1,0 +1,64 @@
+{
+ "id": "itp-02134d7231",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950137031號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○股份有限公司於貴縣六甲鄉都市計畫保護區土地申請興建水力發電廠11座電路鐵塔等變更作非農業使用案，是否應依「農業用地變更回饋金撥繳及分配利用辦法」繳交回饋金案。",
+ "content": "主旨：有關貴府函詢○○股份有限公司於貴縣六甲鄉都市計畫保護區土地申請興建水力發電廠11座電路鐵塔等變更作非農業使用案，是否應依「農業用地變更回饋金撥繳及分配利用辦法」繳交回饋金，復請查照。\n說明：\n一、復貴府95年7月3日府農務字第0950139604號函。\n二、依農業發展條例第12條第1項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，以供農業發展及農民福利之用，除有符合第4項之例外規定者，原則上均應依規定繳交。至第4項第1款所稱之「政府興辦之公共建設及公益性設施」得免繳交農業用地變更回饋金，則限定應屬政府部門興辦之各項公共建設及公益性設施者，方能適用之。本案依來函檢附之經濟部95年2月17日經授能字第09500022130號函所述，○○股份有限公司係依「電業法」相關規定核準設置之民營發電業，本案既屬民營發電業，應無農業發展條例第12條第4項之適用，故仍請 貴府依「農業用地變更回饋金撥繳及分配利用辦法」收取農業用地變更回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950137031號|有關○○股份有限公司於貴縣六甲鄉都市計畫保護區土地申請興建水"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8807805ecb9dbfcacccd2a97a0d9d0db040c3912977bb1e1734ba951a57e1444",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請興建水力發電廠11座電路鐵塔等變更作非農業使用案,是否應依「農業用地變更回饋金撥繳及分配利用辦法」繳交回饋金案。\n主旨:有關貴府函詢○○股份有限公司於貴縣六甲鄉都市計畫保護區土地"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "府95年7月3日府農務字第0950139604號函。\n二、依農業發展條例第12條第1項規定,屬農業用地之變更,應視其事業性質,繳交回饋金,以供農業發展及農民福利"
+  }
+ ]
+}

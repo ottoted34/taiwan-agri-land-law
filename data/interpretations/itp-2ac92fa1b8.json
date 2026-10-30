@@ -18,17 +18,60 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5635",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:56+08:00",
+   "fetched_at": "2026-10-30T11:21:09+08:00",
    "source_key": "rmis:5635"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1090708423號|農業用地存在道路或農路申請綠能設施面積計算"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2021-07-15",
+    "history": "中華民國一百十年七月十五日內政部台內地字第 1100263579 號令修正發布第 9、30、52-1 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2022-07-20",
+    "history": "中華民國一百十一年七月二十日內政部台內地字第 1110264095 號令修正發布第 40 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2024-03-29",
+    "history": "中華民國一百十三年三月二十九日內政部台內國字第 1130802987 號令修正發布第 6 條條文之附表一；並增訂第 30-7、30-8 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "b897ef77a260172a4d320053f425256d4bb5092a08a2037b23aaca121534c344",
  "topics": [
@@ -41,16 +84,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "9年3月24日廣宇能字第1090324001號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第30條規定,於本會公告之「嚴重地層下陷地區內不利農業經營得"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "農業使用之道路面積,再予核算綠能設施可興建面積。 (三)至依「非都市土地使用管制規則」第6條附表1規定申請之私設通路,其屬非農業使用性質,且該整筆農業用地不得認定為作農業使"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,60 @@
+{
+ "id": "itp-bfaaa70792",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050730657號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴事務所函詢申請興建農舍已辦理休耕之農業用地，得否依「農業用地興建農舍辦法」申請興建農舍一案，復如說明，請查照。",
+ "content": "一、復貴事務所105年10月24日琮福建管105字第0041號函。\n二、按「農舍」係為提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，而與農業經營不可分離之建築物，因此申請人係於農業用地上先有農業經營行為後始有興建農舍之需求，該農業用地應以積極利用為目的。\n三、本案農業用地如因休耕、休養、停養或有不可抗力等事由而未實際從事農作之行為，是否有農業經營之事實且衍生是否有興建農舍輔助農事之需求不無疑義。農舍之個案審查係屬直轄市、縣（市）政府之權責，建議貴事務所向所在地主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1050730657號|有關貴事務所函詢申請興建農舍已辦理休耕之農業用地得否依農業用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "504303cfeaf2b243b507e47888ed1acb38a726042693da79043dbca51570ef54",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴事務所函詢申請興建農舍已辦理休耕之農業用地,得否依「農業用地興建農舍辦法」申請興建農舍一案,復如說明,請查照。\n一、復貴事務所105年10月24日琮福建管"
+  }
+ ]
+}

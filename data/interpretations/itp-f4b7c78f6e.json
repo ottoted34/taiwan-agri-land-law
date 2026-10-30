@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4833",
    "serial": null,
-   "fetched_at": "2026-10-30T10:20:20+08:00",
+   "fetched_at": "2026-10-30T11:47:33+08:00",
    "source_key": "rmis:4833"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0960140930號|釋有關原住民於原住民保留地之耕地取得耕作權滿5年辦理所有權移"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "31",
    "kind": "extracted",
    "snippet": "住民保留地之耕地取得耕作權滿5年,辦理所有權移轉登記時,涉及農業發展條例第31條規定執行疑義案。\n主旨:有關原住民於原住民保留地之耕地取得耕作權滿5年,辦理所有"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

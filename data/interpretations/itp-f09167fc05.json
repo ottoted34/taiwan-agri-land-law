@@ -1,0 +1,52 @@
+{
+ "id": "itp-f09167fc05",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051814612號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢古坑鄉公所為辦理○○○新建農舍之建造執照面積檢討一案，復如說明，請查照。",
+ "content": "一、復貴府105年11月22日府農務二字第1052525409號函。\n二、有關農舍及其附屬設施應設置在10%農舍用地上，係為維持90%供農業生產使用面積，以維持農業經營規模及避免徒有農舍卻無供農業經營面積之不合理情形。\n三、申請興建農舍之農業用地倘因該筆農地上有無償提供供公眾使用之農再設施者，該農再設施之面積尚無須計入農舍用地面積內計算，惟應先扣除農再設施所占面積後，再以賸餘面積計算農舍比例。(本局104年11月19日水保農字第1040734270號函參照)\n四、有關申請興建農舍之個案審查係屬直轄市、縣(市)政府權責，請貴府依個案事實，本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051814612號|有關貴府函詢古坑鄉公所為辦理○○○新建農舍之建造執照面積檢討"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cc6abeee3c0c111a97d2ea7ea7e0399eb98f6b283b35ce9eceae5ad298ce2b37",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

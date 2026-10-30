@@ -1,0 +1,58 @@
+{
+ "id": "itp-e988ba0d19",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849213號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍之基層建築基地內含農業用地，是否符合農舍整體規劃，完整連接規定案，復請查照。",
+ "content": "1.復 貴府96年10月16日府建農字第0960091443號函。\n2.「農業用地興建農舍辦法」第8條第1項第1款規定：「20戶以上之農民為起造人，共同在一宗或數宗相毗連之農業用地整體規劃興建農舍。各起造人持有之農業用地，應位於同一鄉（鎮、市、區）或毗鄰之鄉（鎮、市、區）。……。」，又同條同項第4款規定：「……，其範圍內之土地為全部農舍之建築基地，並應完整連接，不得零散分布。」，合先敘明。\n3.上開辦法第8條第1項第4款規定，集村農舍之基層建築面積應完整連接，不得零散分布之意旨，亦即計算參與集村興建農舍之總建築基地應完整連接不得零散分布，則無所謂農舍間會有夾雜維持10分之9作農業使用之農地情形，另建築基地內之農舍配置自需與應設置之公共設施整體考量規劃;又有關農舍建築基地及配合耕地面積之計算方式，本會95年2月21日農授水保第0951850887號函釋有案（如附件）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849213號|有關集村興建農舍之基層建築基地內含農業用地是否符合農舍整體規"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "06f06627005d9152c6ef1e1ece20e7961df2306ead091db4481ff8f2d42c7f3b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "96年10月16日府建農字第0960091443號函。\n2.「農業用地興建農舍辦法」第8條第1項第1款規定:「20戶以上之農民為起造人,共同在一宗或數宗相毗連之農業用地整"
+  }
+ ]
+}

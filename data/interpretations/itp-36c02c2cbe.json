@@ -1,0 +1,64 @@
+{
+ "id": "itp-36c02c2cbe",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970166001號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關農業發展條例修正施行後取得之農地，申請興建農舍得否不受面積0.25公頃限制案，復請查照。",
+ "content": "1.復 台端97年11月3日函。\n2.依「農業發展條例」及「農業用地興建農舍辦法」等法令規定，申請興建農舍之條件，係依農業用地取得日期之不同而有所差異;台端90年4月26日取得之農地係在「農業發展條例」修正公布生效日(89年1月28日)後始取得所有權，依農業發展條例第18條第1項及第5項規定，自應受「農業用地興建農舍辦法」有關土地取得及戶籍登記均應滿2年、面積不得小於0.25公頃…等規定之限制，另辦法第3條第1項第3款規定「申請興建農舍之該宗農業用地面積不得小於0.25公頃…。」所稱「該宗」農業用地，係指土地登記之單一筆地號農業用地而言，不得合併多筆土地面積申請興建農舍。\n3.檢還台端來函附件全件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970166001號|台端函詢有關農業發展條例修正施行後取得之農地申請興建農舍得否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8445888f5c0bb598cc3f9210ea8d8d2aba010d74e6fca75cd5659b8f6cf6d3bd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "\n1.復 台端97年11月3日函。\n2.依「農業發展條例」及「農業用地興建農舍辦法」等法令規定,申請興建農舍之條件,係依農業用地取得日期之不同而有所差異;台端90年"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "展條例」修正公布生效日(89年1月28日)後始取得所有權,依農業發展條例第18條第1項及第5項規定,自應受「農業用地興建農舍辦法」有關土地取得及戶籍登記均應滿2"
+  }
+ ]
+}

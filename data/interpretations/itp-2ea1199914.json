@@ -1,0 +1,76 @@
+{
+ "id": "itp-2ea1199914",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930140936號",
+ "date": "2004-08-31",
+ "date_text": "93年8月31日農企字第0930140936號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "057 釋農業設施供釀酒等營利事業登記或農舍供家庭理髮使用，不符合作農業使用之認定案",
+ "content": "一、查「都市計畫內農業區之農舍申請營利事業登記，其業務範圍應以自營農作物生產所必須及農民所必須之日用雜貨為限。」、「為配合農業政策，鼓勵農地農用，現行相關法令對於農業用地有賦予租稅減免之優惠規定，惟應以『作農業使用』為要件，以符減免優惠之意旨。另有關『農業使用』有其法定意涵，其與符合土地使用管制法令之容許使用仍屬有間，似不宜予以一致之認定。」分別為內政部營建署及財政部前開函釋意旨。綜上，有關都市計畫農業區之農舍，仍應依其核定用途使用，始符合農業使用之定義以及獎勵農地農用之政策目的。\n二、本案都市計畫農業區之農舍因部分作家庭理髮使用，依農業用地作農業使用認定及核發證明辦法第六條「農業設施或農舍有下列各款情形之一者，不得認定為作農業使用：一、農業設施或農舍之興建面積，超過核准使用面積或『未依核定用途使用』者。二、……」之規定，尚不宜認定為作農業使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930140936號|釋農業設施供釀酒等營利事業登記或農舍供家庭理髮使用不符合作農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "6",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d77ea95682c779e11228088193bc4994a80eabf80ea9106cbd2bb28f155ec243",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "目的。\n二、本案都市計畫農業區之農舍因部分作家庭理髮使用,依農業用地作農業使用認定及核發證明辦法第六條「農業設施或農舍有下列各款情形之一者,不得認定為作農業使用:一、農業設施或農舍之"
+  }
+ ]
+}

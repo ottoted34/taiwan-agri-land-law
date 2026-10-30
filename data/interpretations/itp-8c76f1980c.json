@@ -1,0 +1,65 @@
+{
+ "id": "itp-8c76f1980c",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961848694號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行後取得農業用地，為農地管理需要調整地形與鄰地分割交換合併，申請興建農舍案，復請查照。",
+ "content": "1.復 台端96年6月11日致本會水土保持局申請書。 2.查土地法第43條規定；「依本法所為之登記，有絕對效力。』準此，土地之所有權或他項權利之取得時點，均以登記日為準，合先敘明。 3.復查農業用地興建農舍辦法第3條第1項第2款規定：「依本條例第18條第1項規定申請興建農舍之申請人應為農民，其資格應符合下列條件，並經直轄市、縣(市)主管機關核定：…… 2、申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿2年者。…… 」。 4.台端所有潭子鄉○○○地號係分割自○○○地號並合併自○○○地號，其登記日期為95年2月20日(豐原地政事務所土地登記第一類謄本參照)，自應以該登記日計算其2年期間。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961848694號|農業發展條例修正施行後取得農業用地為農地管理需要調整地形與鄰"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e99ec7754bf3fb3f8241221dde964fe59cf1c9ac1f9a28fa172461f772e9e51f",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正施行後取得農業用地,為農地管理需要調整地形與鄰地分割交換合併,申請興建農舍案"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "權或他項權利之取得時點,均以登記日為準,合先敘明。 3.復查農業用地興建農舍辦法第3條第1項第2款規定:「依本條例第18條第1項規定申請興建農舍之申請人應為農民,其資"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-3776e5da05",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849348號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用地更名為寺廟後，該農地已興建之農舍由寺廟承受，於辦理登記時，得否免檢附無農舍證明文件案，復請查照。",
+ "content": "1.復 貴事務所未列日期函。\n2.依農業發展條例第18條規定農舍興建需為無自用農舍之農民，且農舍起造人應為該農舍坐落土地之所有權人，故規範之對象係為自然人，合先敘明。\n3.又農業發展條例第17條第2項規定，「本條例修正施行前，登記有案之寺廟、教堂、依法成立財團法人之教堂（會）、宗教基金會或農民團體，其以自有資金取得或無償取得而以自然人名義登記之農業用地，得於本條例中華民國92年1月13日修正施行後一年內，更名為該寺廟、教堂或依法成立財團法人之教堂（會）、宗教基金會或農民團體所有。」所稱更名的標的僅限於農業用地。\n4.貴事務所詢寺廟承受農地上所興建之農舍，辦理登記時，得否免檢附無農舍證明文件乙節，查內政部曾於89年12月28日台（89）內中地字第8971992號函，說明略以：「農業用地上之農舍，自不得依上開條例申辦更名登記」有案，檢附上開函文供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849348號|農業用地更名為寺廟後該農地已興建之農舍由寺廟承受於辦理登記時"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "93dc04ce1937313ab2d2863e5fcad0004d016e5c8190c859cd61875ba0ffc7ba",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "證明文件案,復請查照。\n1.復 貴事務所未列日期函。\n2.依農業發展條例第18條規定農舍興建需為無自用農舍之農民,且農舍起造人應為該農舍坐落土地之所有權人,故規"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "17",
+   "kind": "extracted",
+   "snippet": "落土地之所有權人,故規範之對象係為自然人,合先敘明。\n3.又農業發展條例第17條第2項規定,「本條例修正施行前,登記有案之寺廟、教堂、依法成立財團法人之教堂(會"
+  }
+ ]
+}

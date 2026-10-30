@@ -1,0 +1,60 @@
+{
+ "id": "itp-b3db7ecbfc",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020234807號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函為「申請農業用地作農業設施容許使用審查辦法」中有關農業設施及農舍面積併計之建議案，復請查照。",
+ "content": "一、復貴府102年10月9日府授農地字第1020192817號函。\n二、查98年3月16日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第8條規定之立法意旨，係考量農業設施之興建，為輔助農業生產或經營，因此就其設置項目，應與農業經營密切相關。惟農業設施其使用主要多以建築為要件，因此無法避免對生產之農業用地造成影響，爰予訂定所有農業設施總面積除另有規定者外，不得超過坐落農業用地土地面積40%之規定，並考量農舍之興建，亦為農業用地上之建築行為，而予以規範農業設施及農舍之興建面積，應一併計算。\n三、本會檢討容許辦法修正案時，經召開多次中央與各直轄市、縣(市)政府研商會議，對本案亦經討論並獲共識，即仍維持原條文意旨(酌修文字)。爰請貴府依本會102年10月9日修正發布之容許辦法第7條第1項規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1020234807號|有關貴府函為申請農業用地作農業設施容許使用審查辦法中有關農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "235352a4589363dffa1a678dd0dc701e7437ed12d4692bf12a7134e318c26a0e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函為「申請農業用地作農業設施容許使用審查辦法」中有關農業設施及農舍面積併計之建議案,復請查照。\n一、復貴府102年10月9日府"
+  }
+ ]
+}

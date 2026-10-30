@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5117",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:23+08:00",
+   "fetched_at": "2026-10-30T11:38:25+08:00",
    "source_key": "rmis:5117"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020732607號|河川區農牧用地申請核發農業用地作農業使用證明書疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -43,22 +49,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "業使用證明書(以下簡稱農用證明)。有關「農業使用」之定義,依農業發展條例第3條第12款規定「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "10",
    "kind": "extracted",
    "snippet": "個案實情為之。\n四、又前開河川管理機關倘有需至現地勘查者,依農業用地作農業使用認定及核發證明辦法第10條第1項規定:「直轄市或縣(市)政府受理申請案件後,應實地勘查,並以一次為限。」為"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

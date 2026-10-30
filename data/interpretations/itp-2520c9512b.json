@@ -1,0 +1,60 @@
+{
+ "id": "itp-2520c9512b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950126498號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋辦理農業用地變更為非農業使用有關規劃配置隔離綠帶作通道使用之審查疑義。",
+ "content": "主旨：有關貴府辦理農業用地變更為非農業使用案件，部分業者於規劃配置之隔離綠帶作通道使用之審查疑義一案，復請查照。\n說明：\n一、復貴府95年5月12日府農務字第09500732570號函。\n二、依農業主管機關同意農業用地變更使用審查作業要點第11點第1項規定，申請變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，並具體標繪於土地使用配置圖上；又同要點第13點規定：「隔離設施之認定，指具有隔離效果之通路、水路、空地、廣場、平面停車場、開放球場及蓄水池等非建築之開放性設施。直轄市或縣(市)農業主管機關得依轄區農業用地特性增列具隔離效果之隔離設施項目，報中央農業主管機關備查。各目的事業計畫審查規定，所規劃留設之綠地或保育地，其設置區位具有隔離效果者，得併入應留設之隔離綠帶或設施面積計算。」因此，貴府應依上開規定，視個案實務及事實審認核處。至其他相關法令，如經濟部訂頒之「非都市土地農牧用地容許採取土石審查作業要點」第3點明定有「隔離綠帶」之規劃說明，則不得以隔離設施替代之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0950126498號|釋辦理農業用地變更為非農業使用有關規劃配置隔離綠帶作通道使用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "95c615147d56aa85d38c6519e1fc0d0c5c690a2024a4ab73d55343be58fed54a",
+ "topics": [
+  "landfill",
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "5年5月12日府農務字第09500732570號函。\n二、依農業主管機關同意農業用地變更使用審查作業要點第11點第1項規定,申請變更農業用地作與農業生產性質不相容之目的事業使用者,應配"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "itp-ca3acf7749",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990150797號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴府函詢農舍申請人於農業發展條例修正生效前取得之農業用地適用法規疑義，復如說明，請 查照。",
+ "content": "1.復 貴府99年7月26日府農務字第0990178389號函。\n2.本案依據「農業用地興建農舍辦法」第2條規定，依農業發展條例第18條第3項規定申請興建農舍之申請人應為農民，並符合同辦法第3條第1項第4款及第5款規定，其申請興建農舍，得依都市計畫法省（市）施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築法、國家公園法及其他相關法令規定辦理，不受本辦法所定申請興建農舍相關規定之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990150797號|有關貴府函詢農舍申請人於農業發展條例修正生效前取得之農業用地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "08994ef647af20b9333ef8e155113f964be0eae5a76149c5c22e899dd591d25f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "7月26日府農務字第0990178389號函。\n2.本案依據「農業用地興建農舍辦法」第2條規定,依農業發展條例第18條第3項規定申請興建農舍之申請人應為農民,並符合同辦法"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "9號函。\n2.本案依據「農業用地興建農舍辦法」第2條規定,依農業發展條例第18條第3項規定申請興建農舍之申請人應為農民,並符合同辦法第3條第1項第4款及第5款規"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "合同辦法第3條第1項第4款及第5款規定,其申請興建農舍,得依都市計畫法省(市)施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築法、國家公園法及其他相關法令規定辦理,不受本辦法所定申請興建農舍相關規定之限制。"
+  }
+ ]
+}

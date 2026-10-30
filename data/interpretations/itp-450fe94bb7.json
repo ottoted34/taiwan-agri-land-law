@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5111",
    "serial": null,
-   "fetched_at": "2026-10-30T10:14:30+08:00",
+   "fetched_at": "2026-10-30T11:41:44+08:00",
    "source_key": "rmis:5111"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1010113717號|已領得使用執照之農業設施因未依計畫用途使用經止農業設施容許使"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,29 +37,29 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "25",
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "extracted"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "25",
     "amended_on": "2020-11-12",
-    "history": "中華民國109年11月12日行政院農業委員會農企字第1090013497A號令修正發布第25、29條條文",
+    "history": "中華民國一百零九年十一月十二日行政院農業委員會農企字第 1090013497A 號令修正發布第 25、29 條條文",
     "relation_kind": "extracted"
    }
   ]
@@ -67,22 +73,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "1年6月11日府商建字第1010116944號函。\n二、依據農業發展條例第8條之1第2項規定:「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "25",
    "kind": "extracted",
    "snippet": "應先申請農業設施之容許使用,並依法申請建築執照...」,復依「申請農業用地作農業設施容許使用審查辦法」第25條第1項規定:「依本辦法取得同意容許使用之農業設施,依建築相關法令規定須申請建築執"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「...本案如經貴府查明確有違規之情事,其建築執照之廢止,因建築法尚無規定,應請原處分機關就個案事實,依行政程序法規定本於職權核處。」故其原領得之"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "築執照之廢止,因建築法尚無規定,應請原處分機關就個案事實,依行政程序法規定本於職權核處。」故其原領得之使用執照,仍請 貴府建築主管機關應依行政程序法規"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

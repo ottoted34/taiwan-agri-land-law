@@ -1,0 +1,76 @@
+{
+ "id": "itp-973d600dba",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930155982號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋申請於特定農業區農牧用地作農業資材室及圍牆使用，有填土增高情形且周邊築有圍牆以為擋土之用等審查疑義案",
+ "content": "一、依農業發展條例第三條第十二款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」因此，申請於農業用地容許作農作產銷等設施使用，係屬計畫型之土地使用型態，均需與農業生產或農業使用相關，如設施申請目的已非農業使用，農業主管機關應不同意以容許使用方式辦理。另農業用地週邊，原則上不得興建與農業經營無關之圍牆，惟因基於農業經營管理之特殊需要，有須於農業用地週邊興建圍牆者，各縣市政府應將其視同農業、畜牧及養殖設施之一部份而併同容許使用申請案辦理。至該土地填土增高情形是否屬農地改良行為乙節，應請查明，如係因堆積土石違反編定使用管制，依內政部八十八年二月廿四日台（八八）內地字第第八八○二七三六號函示，縣市政府應通知「土地所有權人」限期變更使用或恢復原狀，而「恢復原狀」，依該部函釋，其規定應符合下列要求：\n(一)安全上，需無崩塌、滑動或造成土、石流失等災害之虞，並依規定完成水土保持之處理與維護。\n(二)土地使用上，須恢復至無違反原土地使用分區劃定及用地編定之使用目的及功能。\n二、綜上，本案所涉實務及事實之認定，請參照農業使用之涵義、當地農業經營或生產環境需要、農業設施是否確屬經營所需及「農業用地容許作農業設施使用審查辦法」第八條等相關規定內涵，本於職權核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930155982號|釋申請於特定農業區農牧用地作農業資材室及圍牆使用有填土增高情"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "035bb0b1a73dd9b3c626b1cd0326f460d36ab57b8546b95fc10b9ab9d75037ea",
+ "topics": [
+  "landfill",
+  "material_room",
+  "land_change",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "有填土增高情形且周邊築有圍牆以為擋土之用等審查疑義案\n一、依農業發展條例第三條第十二款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "涵義、當地農業經營或生產環境需要、農業設施是否確屬經營所需及「農業用地容許作農業設施使用審查辦法」第八條等相關規定內涵,本於職權核處。"
+  }
+ ]
+}

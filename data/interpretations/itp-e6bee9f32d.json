@@ -1,0 +1,59 @@
+{
+ "id": "itp-e6bee9f32d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080013612號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端詢問農舍興建圍牆疑義一案，詳如說明，請查照。",
+ "content": "一、依據臺端於108年11月20日參加本會主任委員與桃園市楊梅區農會、八德區農會及復興區農會座談會之建議事項辦理。\n\n二、有關農業用地申請興建之農舍，依農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第3款規定，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，倘有附屬設置圍牆申請雜照之需要者，應依本辦法第9條第2項第1款規定辦理，以不超過農舍用地面積範圍為限。\n\n三、另，申請興建農舍需經直轄市、縣(市)主管機關審查其資格，倘有申請興建農舍資格之個案疑義，建請洽詢桃園市政府予以協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080013612號|有關臺端詢問農舍興建圍牆疑義一案詳如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e7a7848428984b58a8130afdb53d3d01f1b849765de10dcb9f5c536e40392a4d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "座談會之建議事項辦理。\n\n二、有關農業用地申請興建之農舍,依農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第3款規定,申請興建農舍之農業用地,其農舍用地面積"
+  }
+ ]
+}

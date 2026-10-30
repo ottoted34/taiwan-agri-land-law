@@ -1,0 +1,70 @@
+{
+ "id": "itp-40fe9e6517",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060207156號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢既有建物是否須依現行規定辦理管制案，復如說明，請查照。",
+ "content": "一、復貴府106年2月23日府農保字第1060035597號函。\n二、為落實農地農用，農業用地無論興建農舍與否，仍應維持農業使用，另依農業發展條例第32條第1項規定：「直轄市或縣(市) 政府對農業用地之違規使用，應加強稽查及取締...。」，及依第69條第1項規定：「農業用地違反區域計畫法或都市計畫法土地使用管制規定者，應依區域計畫法或都市計畫法規定處理。」。\n三、旨案所詢已領有「農舍」使用執照存根，其土地登記未辦理落簿登記及套繪管制，該建物能否認屬農舍等情事，係屬內政部權責。副本抄送內政部，請主政回復，並副知本會，至紉公誼。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060207156號|有關貴府函詢既有建物是否須依現行規定辦理管制案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f8776ea95532208fcaac048afe55d1962da9fe8e329c7633323be3e2629d04dd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "32",
+   "kind": "extracted",
+   "snippet": "實農地農用,農業用地無論興建農舍與否,仍應維持農業使用,另依農業發展條例第32條第1項規定:「直轄市或縣(市) 政府對農業用地之違規使用,應加強稽查及取締..."
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "稽查及取締...。」,及依第69條第1項規定:「農業用地違反區域計畫法或都市計畫法土地使用管制規定者,應依區域計畫法或都市計畫法規定處理。」。\n三、旨"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "..。」,及依第69條第1項規定:「農業用地違反區域計畫法或都市計畫法土地使用管制規定者,應依區域計畫法或都市計畫法規定處理。」。\n三、旨案所詢已領有"
+  }
+ ]
+}

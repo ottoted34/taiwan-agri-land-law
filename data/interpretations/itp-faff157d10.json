@@ -1,0 +1,73 @@
+{
+ "id": "itp-faff157d10",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030725709號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局函為經原核定機關廢止核發之農業設施容許使用同意書後另行改申請農舍使用之疑義案，復請查照。",
+ "content": "1.復貴局103年8月20日中市農地字第1030026337號函。\n2.依農業發展條例第8條之l及第18條規定，農業設施及農舍雖同屬農業用地上容許興建與農業經營不可分離之建築物，但農舍係基於農業經營之目的始附帶提供居住使用，而農業設施係供農業經營使用，且不得作為居住用途，兩者之性質及法令依據均不相同，分別依據「農業用地興建農舍辦法」及「申請農業用地作農業設施容許使用審查辦法」規定辦理，且兩者申請之要件及管制規定亦不相同。本案擬將該廢止農業設施容許使用之建築物改申請農舍使用，應依農業用地興建農舍辦法之規定辦理，並須符合其相關申請要件，始符法制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1030725709號|有關貴局函為經原核定機關廢止核發之農業設施容許使用同意書後另"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "400ae1f9d6ca6d4d0159604f5341f379784ebdec8f3775a8d365306e672a4dde",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "3年8月20日中市農地字第1030026337號函。\n2.依農業發展條例第8條之l及第18條規定,農業設施及農舍雖同屬農業用地上容許興建與農業經營不可分離之建"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",且不得作為居住用途,兩者之性質及法令依據均不相同,分別依據「農業用地興建農舍辦法」及「申請農業用地作農業設施容許使用審查辦法」規定辦理,且兩者申請之要件及管制規定"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之性質及法令依據均不相同,分別依據「農業用地興建農舍辦法」及「申請農業用地作農業設施容許使用審查辦法」規定辦理,且兩者申請之要件及管制規定亦不相同。本案擬將該廢止農業設施容許使用之建"
+  }
+ ]
+}

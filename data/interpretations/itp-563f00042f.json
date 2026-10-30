@@ -1,0 +1,59 @@
+{
+ "id": "itp-563f00042f",
+ "doc_class": "interpretation",
+ "docno": "高市農務字第10530430800號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "廢止 台端持有本局103年2月21日高市農務字第10330471000號(本市杉林區月眉段○○○地號)之興建農舍資格審查函，詳如說明，請 查照。",
+ "content": "一、依據行政院農業委員會105年2月2日水保農字第1050201703號函辦理暨高雄市政府工務局104年12月24日高市工務建字 第104A002904-3號函辦理。\n二、本案經查103年間 台端向本局申辦興建農舍資格審查檢附之送審資料，切結書中表明「本人為農民身分，…自認農作事實並無從事農業以外之職業，如有不實...由原核發機關撤銷興建農舍之申請人資格」，次查 台端現職擔任本市小港國中幹事一職，顯然有悖上開切結書所載，合先敘明。\n三、依據「農業用地興建農舍辦法」第13條規定，起造人提出申請興建農舍之資料不實者，直轄市、縣(市)主管機關應撤銷其核定，...，基此，本案興建農舍資格審查函自發文日起廢止。\n四、台端對於本處分如有不服者，得於本處分函送達之次日起30日內，依訴願法第58條第1項規定，訴願人應繕具訴願書經由原行政處分機關向訴願管轄機關提起訴願。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:高市農務字第10530430800號|廢止台端持有本局103年2月21日高市農務字第1033047"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e4570bd1dd18acbc7d30c87db717f3c33cc128f16e6a175d57e028cc3b371a4a",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "港國中幹事一職,顯然有悖上開切結書所載,合先敘明。\n三、依據「農業用地興建農舍辦法」第13條規定,起造人提出申請興建農舍之資料不實者,直轄市、縣(市)主管機關應撤銷其核定,"
+  }
+ ]
+}

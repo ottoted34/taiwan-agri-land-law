@@ -1,0 +1,59 @@
+{
+ "id": "itp-3aa4a78f03",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940149417號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地容許農業設施使用案件經同意後，申請人持同意書向建管單位申請建築執照時，經要求同意書上設施細目之「擋土牆」1項加註(含填土)字樣疑義案。",
+ "content": "主旨：有關農業用地容許農業設施使用案件經同意後，申請人持同意書向建管單位申請建築執照時，經要求同意書上設施細目之「擋土牆」1項加註(含填土)字樣疑義案，復請查照。\n說明：\n一、復貴府94年9月13日府農務字第0940188544號函。\n二、查擋土牆非屬建築法第7條所稱之雜項工作物，惟其是否為農業設施之範疇，宜就個案審認之，凡因土地自然因素形成落差，基於防止土石崩塌，避免水土流失，或基於農作經營需要，得認定為農業設施，其高度應以前開防止土石崩塌，避免水土流失之高度為準，惟倘於農地上進行堆置土石或填土增高造成高低差，則非屬施設擋土牆之必要條件，故本案不宜於農業設施容許使用同意書上設施細目之「擋土牆」1項加註(含填土)字樣。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940149417號|有關農業用地容許農業設施使用案件經同意後申請人持同意書向建管"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2e9962a479ef20c98e424fcf536469bf2e2ddedd82f868ecfb36c3c5e3ebab08",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "13日府農務字第0940188544號函。\n二、查擋土牆非屬建築法第7條所稱之雜項工作物,惟其是否為農業設施之範疇,宜就個案審認之,凡因土地自然因素形成"
+  }
+ ]
+}

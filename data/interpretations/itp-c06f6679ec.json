@@ -1,0 +1,52 @@
+{
+ "id": "itp-c06f6679ec",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0920078434號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○陳為原已申請興建農舍之農地，因土地分割，可否將多出之空地解除套繪申請建築乙案，涉事實認定係屬貴管，移請妥處逕復。",
+ "content": "一、依據○○○92年12月10日申請書（影本及附件原件如附）辦理。 二、分割後之耕地得否刪除使用執照所登載並解除套繪管制乙節，本署90年1月20日90營署建管字第001840號函已明示，請依上開函示規定認定核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第0920078434號|○○○陳為原已申請興建農舍之農地因土地分割可否將多出之空地解"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a9423e20a700193e9f516b73463e3a0b7d6c4298775145341cedcff18588d8d8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

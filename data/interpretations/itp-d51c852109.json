@@ -1,0 +1,73 @@
+{
+ "id": "itp-d51c852109",
+ "doc_class": "interpretation",
+ "docno": "農牧字第0910040002號",
+ "date": "2002-01-08",
+ "date_text": "91/1/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋核發畜牧設施動力用電證明得否免填設施使用馬力大小案",
+ "content": "查「農業動力用電範圍及標準」未涉及用電馬力大小之規定，惟本會九十年四月二十五日公告之格式除畜牧設施外，包括水產養殖、農產品冷藏及糧食倉儲、農業機械等格式皆列有填註馬力一項，本案除於公告格式尚未修正前仍請依現行格式填辦。本會將另函臺灣電力股份有限公司請其就農民申請農業用電減免時，所檢具畜牧設施動力用電證明填註設施用電馬力大小之必要性提供意見",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5064",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:36+08:00",
+   "source_key": "rmis:5064"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農牧字第0910040002號|釋核發畜牧設施動力用電證明得否免填設施使用馬力大小案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": null,
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4efa3d73a4c902097a0b862c4aa19c3b7082ebe3258124b6e771ed8a4690ff7e",
+ "topics": [
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋核發畜牧設施動力用電證明得否免填設施使用馬力大小案\n查「農業動力用電範圍及標準」未涉及用電馬力大小之規定,惟本會九十年四月二十五日公告之格式除畜牧設施外,包括水"
+  }
+ ]
+}

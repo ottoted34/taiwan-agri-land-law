@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3379",
    "serial": null,
-   "fetched_at": "2026-10-30T10:03:35+08:00",
+   "fetched_at": "2026-10-30T11:30:48+08:00",
    "source_key": "rmis:3379"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1040043758號|有關農業用地興建農舍辦法第4條適用疑義1案請查照"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "4",
     "amended_on": "2015-09-04",
@@ -58,22 +64,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "4",
    "kind": "extracted",
    "snippet": "有關「農業用地興建農舍辦法」第4條適用疑義1案,請查照。\n一、依據行政院農業委員會水土保持局104年7月1日水保農"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "年3月24日農授水保字第100015206號函示(如附件),農業發展條例89年1月28日修正施行前或後取得之農地興建農舍,僅得於一筆土地上提出,無法合計"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

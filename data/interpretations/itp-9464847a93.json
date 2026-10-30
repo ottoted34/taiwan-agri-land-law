@@ -1,0 +1,59 @@
+{
+ "id": "itp-9464847a93",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848196號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關興建農舍完成5年內是否得以繳納增值稅方式同意辦理所有權移轉案，復請查照。",
+ "content": "一、復 台端96年1月30日申情函。\n二、查農業發展條例第37條第1項規定，作農業使用之農業用地移轉與自然人時，得申請不課徵土地增值稅。又同條例第38條及第39條有關遺產稅及贈與稅之免稅規定，亦需農業用地作農業使用，故農業用地得否享有相關稅賦優惠，以農業用地現況是否作農業使用為前提，合先敘明。\n三、又依據前開條例第18條第2項規定，農舍興建滿5年始得移轉，係就產權移轉之法律限制，與前項農業用地作農業使用可享有相關稅賦之規定，係不同規範性質，二者並無替代關係，應無以繳稅為條件，換取不受農舍興建滿5年始得移轉限制之情形。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848196號|台端函詢有關興建農舍完成5年內是否得以繳納增值稅方式同意辦理"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a909e352e3f1964581a0c1731293916d21ecef2b74a56b52aca017e5b80b3694",
+ "topics": [
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復 台端96年1月30日申情函。\n二、查農業發展條例第37條第1項規定,作農業使用之農業用地移轉與自然人時,得申請不課徵土地增值稅。又同條例"
+  }
+ ]
+}

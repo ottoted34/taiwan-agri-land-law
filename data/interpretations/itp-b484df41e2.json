@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5983",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:16+08:00",
+   "fetched_at": "2026-10-30T11:17:28+08:00",
    "source_key": "rmis:5983"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1120217908號|有關貴部函詢已興建農舍之農業用地其申請變更編定涉及適用法令疑"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,19 +48,25 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "D0070009",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "發展條例89年修正施行「前」建造之農舍,係分別依據貴部訂定之「實施都市計畫以外地區建築物管理辦法」、「實施區域計畫地區建築管理辦法」、「臺灣省申請自用農舍補充注意事項」等規定,檢"
+  },
+  {
+   "law_id": "M0110013",
    "article": "12",
    "kind": "extracted",
    "snippet": "耕地早已脫離農舍所有權人之支配管理範圍。\n四、另,貴部為配合農業用地興建農舍辦法第12條套繪管制規定,分別於95年6月6日、95年12月11日、99年10月28日及10"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "日等多次函請各直轄市、縣(市)政府及特設主管建築機關,確實依農業發展條例第18條第4項及農業用地興建農舍辦法第12條規定,於核發農舍使用執照後,將農舍坐落之地號"
@@ -65,5 +77,7 @@
    "kind": "extracted",
    "snippet": "形,以及其坐落用地與配合耕地之土地權屬已有多種樣態,尚難納入「農業主管機關同意農業用地變更使用審查作業要點」作一致性之通案規定;倘貴部認為已興建農舍之農業用地變更使用應納入上述要點規範,建"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

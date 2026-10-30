@@ -1,0 +1,67 @@
+{
+ "id": "itp-fb49dd441d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070731719號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端詢問嘉義縣竹崎鄉○○○地號興建農舍，得否適用本會105年5月26日農水保字第1051859505號令案，復如說明，請查照。",
+ "content": "一、復臺端107年11月16日陳情書辦理。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、依據農業用地興建農舍辦法第2條第1項第3款規定「申請興建農舍之該筆農業用地面積不得小於0.25公頃．．．」，爰倘屬農業發展條例89年1月4日修正施行後取得農業用地，且無自用農舍須興建者，申請興建農舍應符合上開之規定。\n四、有關土地取得時點之認定，本會前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。\n五、查臺端陳情事項係其他共有人贈與而取得土地全部所有權案，與本會旨揭號令「共有耕地分割為單獨所有」之釋示標的不同。另，有關農業用地興建農舍申請案件之審查係屬直轄市、縣(市)政府之權責，如有相關疑問，仍請逕向所在地縣(市)政府洽詢。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070731719號|有關臺端詢問嘉義縣竹崎鄉○○○地號興建農舍得否適用本會105"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b8bf5914c47684325ee9601d3356c293feeeec667db09e4179bcad4cf7c9bf97",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n三、依據農業用地興建農舍辦法第2條第1項第3款規定「申請興建農舍之該筆農業用地面積不得小於0.25公頃...」,爰"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "建農舍之該筆農業用地面積不得小於0.25公頃...」,爰倘屬農業發展條例89年1月4日修正施行後取得農業用地,且無自用農舍須興建者,申請興建農舍應符合上"
+  }
+ ]
+}

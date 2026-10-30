@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4974",
    "serial": null,
-   "fetched_at": "2026-10-30T10:19:14+08:00",
+   "fetched_at": "2026-10-30T11:46:27+08:00",
    "source_key": "rmis:4974"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農牧字第0970126506號|釋農業用地經核准容許作畜牧設施使用所核准之畜牧空地上得舖設水"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,20 +37,20 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": "5",
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -60,22 +66,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "目的及法令依據均不相同,且二者並無關聯性,合先敘明。\n二、又農業發展條例第8條之1第2項明定:「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "5",
    "kind": "extracted",
    "snippet": "業設施,應先申請農業設施之容許使用,並依法申請建築執照。」另農業用地作農業使用認定及核發證明辦法第5條明定:「農業用地有下列情形,且無第6條及第7條之情形者,認定為作農業使用:..."
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

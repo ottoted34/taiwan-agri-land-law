@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5186",
    "serial": null,
-   "fetched_at": "2026-10-30T10:04:25+08:00",
+   "fetched_at": "2026-10-30T11:31:37+08:00",
    "source_key": "rmis:5186"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1040210485號|河川區域水利用地核發農業用地作農業使用證明書疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,16 +47,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "第10251009360號函意見及本會101年12月4日研商「農業用地作農業使用認定及核發證明辦法」修正草案會議決議,於102年3月5日以農企字第1020202829號通函說明,針"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "認定符合作農業使用之適用。\n三、又上開「從來使用」之認定,依非都市土地使用管制規則第8條第1項規定略以:「土地使用編定後,其原有使用或原有建築物不合土地使用分區規定者,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

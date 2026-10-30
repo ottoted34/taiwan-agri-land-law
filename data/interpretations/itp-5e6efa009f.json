@@ -1,0 +1,66 @@
+{
+ "id": "itp-5e6efa009f",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第0931002492號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋農業發展條例第八條之一第二項規定免申請建築執照之農業設施執行事宜",
+ "content": "一、農業發展條例第八條之一第二項規定：農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。但農業設施面積在四十五平方公尺以下，且屬一層樓之建築者，免申請建築執照。同條文後段規定，於上開條例中華民國九十二年一月十三日修正施行前，已興建有固定基礎之農業設施，面積在二百五十平方公尺以下而無安全顧慮者，得免申請建築執照。其立法旨意，係以法律豁免符合上開規定之農業設施，免再依「建築法」相關規定申請建築執照。故貴府於受理及審查申請核發「農業用地作農業使用證明書」案件時，對符合上開條例所規定者，自不宜要求申請人檢附建築執照、使用執照或雜項執照，以資簡政便民。\n二、前項所稱無安全顧慮之農業設施，依本會於九十二年十二月十五日農授中字第○九二一○七○七○八號令釋示辦理（略）。至其有關建築時點之認定，得以建築主管機關違章查報之資料、或房屋稅籍證明、或航照圖等資料認定之。\n三、另查建築法第十六條第一項規定：建築物及雜項工作造價在一定金額以下或規模在一定標準以下者，得免由建築師設計，或監造或營造業承造。同條第二項規定：前項造價金額或規模標準，由直轄市、縣（市）政府於建築管理規則中定之。農業設施部分倘 貴府尚未依上開規定訂定者，應請儘速訂定，以減輕農民負擔。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第0931002492號|釋農業發展條例第八條之一第二項規定免申請建築執照之農業設施執"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2e583616d3776ae1bca79252ec17416b422c3aec0e5e610c70d240cc149e09f7",
+ "topics": [
+  "farm_use_cert",
+  "facility_use"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "釋農業發展條例第八條之一第二項規定免申請建築執照之農業設施執行事宜\n一、農業發展條例第八條之一第二項規定"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "查報之資料、或房屋稅籍證明、或航照圖等資料認定之。\n三、另查建築法第十六條第一項規定:建築物及雜項工作造價在一定金額以下或規模在一定標準以下者,得免由建築"
+  }
+ ]
+}

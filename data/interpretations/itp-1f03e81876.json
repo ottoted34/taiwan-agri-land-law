@@ -1,0 +1,64 @@
+{
+ "id": "itp-1f03e81876",
+ "doc_class": "interpretation",
+ "docno": "內授營綜字第09808080402號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於「農業用地興建農舍辦法」中土地使用與建築管理之條文涉本部主管權責，由本部統一說明，請查照。",
+ "content": "一、本部依據農業發展條例第18條第5項規定會同行政院農業委員會於90年4月26日會銜訂定發布「農業用地興建農舍辦法以下簡稱本辦法」，實施8年以來本部與該會均依主管權責，視個案內容所涉議題而分別辦理，如有涉及共同事項，則均會先詢相關機關表示意見後，再綜合彙整辦理，先予敘明。\n二、本部前接獲中部鄉親陳情有關行政院農業委員會97年10月29日農授水保字第0971844124號函就提供集村興建農舍之農業用地面積計算及建築坐落基地每戶最大基層建築面積案，是否逾越權責乙節，經本部營建署與法規委員會檢討上開函內容尚符合本部之相關法令與函釋，本部營建署並已就易遭致誤解處以97年11月10日營署綜字第0970067096號函請該會釐清，於實務執行上尚不致產生「逾越權責」之情事，併予敘明。\n三、為避免民眾疑惑，後續關於本辦法涉本部主管權責土地使用與建築管理之條文部分如有執行疑義，請洽本部以利統一說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營綜字第09808080402號|關於農業用地興建農舍辦法中土地使用與建築管理之條文涉本部主管"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1fd5ad13305dceda77bdcff0048c1809fd0331aafddbf373d95779186280530a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "關於「農業用地興建農舍辦法」中土地使用與建築管理之條文涉本部主管權責,由本部統一說明,請查照。\n一、本部依據"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "之條文涉本部主管權責,由本部統一說明,請查照。\n一、本部依據農業發展條例第18條第5項規定會同行政院農業委員會於90年4月26日會銜訂定發布「農業用地興建農舍辦"
+  }
+ ]
+}

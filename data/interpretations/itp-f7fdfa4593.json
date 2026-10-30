@@ -1,0 +1,106 @@
+{
+ "id": "itp-f7fdfa4593",
+ "doc_class": "interpretation",
+ "docno": "農企字第890134469號",
+ "date": "2000-07-07",
+ "date_text": "89/7/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "006 釋特定農業區農牧用地違規挖掘漁塭恢復作農業使用案",
+ "content": "依非都市土地使用管制規則之規定，特定農業區農牧用地不容許作養殖設施使用，擅挖養殖魚塭係屬違規使用之範疇，依據內政部76年5月6日台內地字第495814號函釋略以：特定農業區農牧用地擅自挖掘漁塭違法使用，應依區域計畫法第21條規定令其恢復原狀。至所謂「恢復原狀」應以恢復至原無魚池、塭堤時之狀。是以其違規使用未恢復原狀前，不宜核發農業用地作農業使用證明。（97-006）",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4877",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:15+08:00",
+   "source_key": "rmis:4877"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890134469號|釋特定農業區農牧用地違規挖掘漁塭恢復作農業使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2000-07-26",
+    "history": "中華民國八十九年七月二十六日行政院農業委員會（89）農企字第 890010180 號令、內政部臺（89）內中地字第 8979945 號令、財政部臺財稅字第 0890048779 號令會銜訂定發布全文 21 條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": null,
+    "amended_on": "2001-03-26",
+    "history": "中華民國九十年三月二十六日內政部（90）台內中地字第 9081105號令修正發布全文 59 條；並自發布日起實施",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "9b99d619e6eccd0e26221012f82989596fdb54790ce14fb8bb4f5d7bf9742807",
+ "topics": [
+  "farm_use_cert",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "006 釋特定農業區農牧用地違規挖掘漁塭恢復作農業使用案\n依非都市土地使用管制規則之規定,特定農業區農牧用地不容許作養殖設施使用,擅挖養殖魚塭係屬違規使用之範疇,"
+  },
+  {
+   "law_id": "D0070030",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "14號函釋略以:特定農業區農牧用地擅自挖掘漁塭違法使用,應依區域計畫法第21條規定令其恢復原狀。至所謂「恢復原狀」應以恢復至原無魚池、塭堤時之狀。是以其違規使"
+  }
+ ]
+}

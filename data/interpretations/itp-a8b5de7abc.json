@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5190",
    "serial": null,
-   "fetched_at": "2026-10-30T09:58:38+08:00",
+   "fetched_at": "2026-10-30T11:25:51+08:00",
    "source_key": "rmis:5190"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:授工字第10620434910號|經濟部107年1月25日經授工字第10620434910號"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "定後,始得退還其已繳交之回饋金。\n四、另農業用地之變更,依據農業發展條例第12條規定應將收繳之回饋金二分之一繳交至直轄市、縣(市)政府設立之農業發展基金。依行政"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ")該產業園區經目的事業主管機關依法廢止原核定計畫。\n(三)依「非都市土地使用管制規則」規定恢復原編定為農業用地。\n(四)直轄市或縣(市)政府審認土地仍維持作農業使用。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

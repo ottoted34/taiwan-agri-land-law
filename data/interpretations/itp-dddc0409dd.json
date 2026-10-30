@@ -1,0 +1,58 @@
+{
+ "id": "itp-dddc0409dd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000130198號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問三七五租約之耕地，租佃雙方以分割方式終止租約，得否依農業發展條例第18條第3項規定申請興建農舍案，復請 查照。",
+ "content": "一、復台端100年5月11日申請書。\n二、依內政部100年5月12日台內地字第1000093706號書函說明二：「...耕地三七五租約承租人僅係基於租賃關係使用收益他人所有土地，自與民法第827條規定之公同共有人有別。」，是以本案既非公同共有人，自無農業發展條例第18條第3項規定之適用，爰「土地取得」之認定時點，仍應依土地法第43條規定，以土地登記機關登記之時點為基準。\n三、本案審查係屬個案，請洽地方政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000130198號|有關台端詢問三七五租約之耕地租佃雙方以分割方式終止租約得否依"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f99fe7a68a92bd87ab8333145ed24b974bee240de42561c3f6f2007b5028df3c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "台端詢問三七五租約之耕地,租佃雙方以分割方式終止租約,得否依農業發展條例第18條第3項規定申請興建農舍案,復請 查照。\n一、復台端100年5月11日申請書。\n二"
+  }
+ ]
+}

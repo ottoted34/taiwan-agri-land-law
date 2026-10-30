@@ -1,0 +1,58 @@
+{
+ "id": "itp-2330994ed4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941822963號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地上建有農舍並出售予他人，該土地所有權人是否符合「農業用地興建農舍辦法」第3條第1項第4款，申請人無自用農舍疑義案，復請查照。",
+ "content": "一、復 貴府94年10月3日府農務字第0940208292號函。\n二、為辦理「農業用地興建農舍辦法」第3條第1項各款申請人資格條件之審查，申請人應依據本會90年7月4日（90）農輔字第900050675號函示，檢具申請興建農舍之申請人資格條件審查表所列之證明文件;而依據該審查表，申請人需檢具(一)稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。(二)申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。(三)申請人切結無自用農舍文件等文件，俾審查申請人是否無自用農舍之規定。\n三、申請人為該農業用地所有權人，且該農業用地應確供農業使用，並屬未經申請興建農舍之農業用地，為「農業用地興建農舍辦法」第3條第1項第5款所明定;農業用地上既建有農舍，該筆農地自不得再申請興建農舍，至於該農地所有權人資格是否符合「農業用地興建農舍辦法」第3條第1項第4款「無自用農舍」規定，係屬個案涉及事實認定，請本諸權責核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941822963號|有關農業用地上建有農舍並出售予他人該土地所有權人是否符合農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8e4dafc96060ac2ebcc3557d68a93c1d02456cf6149189cd81f8ebcffc495b08",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "有關農業用地上建有農舍並出售予他人,該土地所有權人是否符合「農業用地興建農舍辦法」第3條第1項第4款,申請人無自用農舍疑義案,復請查照。\n一、復 貴府94年10月3日府"
+  }
+ ]
+}

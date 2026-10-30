@@ -1,0 +1,58 @@
+{
+ "id": "itp-9aab40d3a0",
+ "doc_class": "interpretation",
+ "docno": "林企字第1041607786號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○陳情其土地在都市計畫內，自用農舍事宜案，復如說明，請詧照。",
+ "content": "一、依據貴委員國會辦公室轉○○○陳情書及行政院農業委員會104年5月5日農授水保字第1040990305號函辦理。\n二、關於○○○陳情函所述，桃園市政府以土地位於都市計畫保護區林地目土地為由，認為應維持林用，不得申請興建自用農舍，因其係涉及土地管理制度之疑義，宜由主管機關內政部釋示為宜。至都市計畫保護區內申請興建農舍，除應依農業用地興建農舍辦法、都市計畫相關法令及所屬都市計畫分區管制內容規定辦理外，倘該筆土地經地方政府依森林法施行細則第3條認定為林地，有關興修工程、伐採林木等行為，應符合森林法相關規定及程序。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:林企字第1041607786號|有關○○○陳情其土地在都市計畫內自用農舍事宜案復如說明請詧照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2e16edf80c0ad331576106903f82b99b5c11593bfef6de0f213ed9e97024505f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "管機關內政部釋示為宜。至都市計畫保護區內申請興建農舍,除應依農業用地興建農舍辦法、都市計畫相關法令及所屬都市計畫分區管制內容規定辦理外,倘該筆土地經地方政府依森"
+  }
+ ]
+}

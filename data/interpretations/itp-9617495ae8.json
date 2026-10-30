@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4654",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:04+08:00",
+   "fetched_at": "2026-10-30T11:22:16+08:00",
    "source_key": "rmis:4654"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080239359號|有關貴府函詢貴轄民眾擬申請農舍重建或增建而其農民興建資格審查"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,16 +47,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "合原行政處分許可內容前提下,而擬採分期興建方式辦理增建者,依農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定,其申請人如為原申請人,自無須重新審查其"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "月25日營署綜字第1050014507號函說明三略以:「如屬建築法第9條規定之改建或修建行為,尚非本辦法前揭規定所稱『採分期興建辦理』之情形,得逕依建築"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5667",
    "serial": null,
-   "fetched_at": "2026-10-30T09:52:32+08:00",
+   "fetched_at": "2026-10-30T11:19:45+08:00",
    "source_key": "rmis:5667"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090251074號|農業用地申請解除套繪疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "11月17日營署建管字第 1091234419號函。\n二、查農業發展條例 (以下簡稱本條例 )第 16條規定:「每宗耕地分割後每人所有面積未達 0.25"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "分割後每人所有面積未達 0.25公頃者,不得分割。...」,農業用地興建農舍辦法 (以下簡稱本辦法 )第 12條規定:「...已申請興建農舍之農業用地,直轄市、"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

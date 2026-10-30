@@ -1,0 +1,60 @@
+{
+ "id": "itp-336005ad61",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070247990號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府詢問審查農業用地應確供農業使用之疑義案，復如說明，請查照。",
+ "content": "一、復貴府107年11月14日府建農字第1071407294號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第13條規定略以：「起造人提出申請興建農舍之資料不實者，直轄市、縣(市)主管機關應撤銷其核定，並由主管建築機關撤銷其建築許可...。」爰貴府原已核定之興建農舍資格，倘涉及申請人提供不正確資料或不完全陳述、編造不實資料等情事，貴府得依本辦法第13條規定撤銷其核定，若已核給建築執照者，並由主管建築機關撤銷其建築許可。\n三、至於申請興建農舍資格審查程序中，倘貴府認為申請人檢附之經營計畫、佐證資料等不足，可通知申請人於期限內補正，逾期未補正或未照補正事項完全補正者，貴府自得將該申請案予以駁回。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070247990號|有關貴府詢問審查農業用地應確供農業使用之疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5a26967bc6f544dd6640e2dd5419ad50c13c27f16d1e9bfbd7c9a2aef6369a81",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "7年11月14日府建農字第1071407294號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第13條規定略以:「起造人提出申請興建農舍之資料不實者,直轄市"
+  }
+ ]
+}

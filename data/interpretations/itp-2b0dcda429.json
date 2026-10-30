@@ -18,25 +18,30 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3641",
    "serial": null,
-   "fetched_at": "2026-10-30T10:05:20+08:00",
+   "fetched_at": "2026-10-30T11:32:33+08:00",
    "source_key": "rmis:3641"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041803357號|有關貴府函為興建農舍土地取得時點疑義案復請查照"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "possibly_affected",
+  "status": "amended_by_later",
   "confirmed": false,
   "basis": [
    {
-    "type": "law_amendment",
-    "law_id": "RMIS-2006",
-    "law_name": "農業用地興建農舍辦法",
-    "article": null,
-    "amended_on": "2015-09-04",
-    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
-    "relation_kind": "official"
+    "type": "amend_signal",
+    "by_id": "itp-9818b777bc",
+    "by_docno": "府農管字第1040079591號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "二、查行政院農業委員會水土保持局104年2月16日水保農字第 1041803357號函釋略以:「有關申請興建農舍之土地取得時點,行政院農業委員會依據民法及土地法規定,前以101年6月29日農水保字第1011865000號令,核釋有案,其後並以102年10月25日農水保字第1021866046號令補充規定"
    }
   ]
  },
@@ -49,10 +54,12 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

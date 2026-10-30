@@ -1,0 +1,67 @@
+{
+ "id": "itp-e90d77cff9",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070243480號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關民眾詢問規劃於農舍中設置游泳池或水療池疑義案，復如說明，請查照。",
+ "content": "一、復貴局107 年10 月16 日南市農工字第1071106747 號函。\n二、查農業用地興建農舍辦法第8條第3項規定略以：「．．．農舍用地面積為法定基層建築面積，且為農舍與農舍附屬設施之水平投影面積用地總和；農業經營用地面積為申請興建農舍之農業用地扣除農舍用地之面積。」，又同辦法第9條第2項第3款規定：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，爰農業經營面積不得低於該農業用地面積90%，且應供農業生產使用已有明定。次查非都市土地使用管制規則第6條第3項附表1規定農舍之許可細目為「農舍及農舍附屬設施」、「農產品之零售」、「農作物生產資材及日用品零售」及「民宿」等四項。故農舍之使用應認定是否屬上開列舉之許可使用細目適用範圍，合先敘明。\n三、副本抄送內政部，有關臺南市政府農業局函詢農舍內部空間設置游泳池或水療池，是否係屬農舍之附屬設施及應併入農舍用地面積計算一節，基於農舍係供農機具放置兼具居住需求之目的，且有前開許可細目之限制使用，針對本案涉及農舍建築管理事項，爰請貴部卓處回復並副知本會。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070243480號|有關民眾詢問規劃於農舍中設置游泳池或水療池疑義案復如說明請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f4306ac121cb129b16481f05e18dfe6bee3b0f4918ff88fb3e9283c8c79a93bd",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": " 月16 日南市農工字第1071106747 號函。\n二、查農業用地興建農舍辦法第8條第3項規定略以:「...農舍用地面積為法定基層建築面積,且為農舍與農舍附屬設施之"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "得低於該農業用地面積90%,且應供農業生產使用已有明定。次查非都市土地使用管制規則第6條第3項附表1規定農舍之許可細目為「農舍及農舍附屬設施」、「農產品之零售」、「農作"
+  }
+ ]
+}

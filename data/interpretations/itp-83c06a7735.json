@@ -1,0 +1,64 @@
+{
+ "id": "itp-83c06a7735",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031823495號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用地共有時，其申請興建農舍處理原則。",
+ "content": "一、依據本會103年2月14日農水保字第1031865030號令核釋有關農業用地興建農舍辦法第二條及第三條之農業用地為共有時，其申請興建農舍處理原則如下：\n(一)興建農舍之申請人應符合農業用地興建農舍辦法興建農舍資格條件。\n(二)應取得全部共有人之同意，並訂有分管契約。但共有人全部提出申請者，不在此限。\n(三)其可興建面積以申請人應有部分之面積計算，須興建於所分管土地範圍內。\n(四)申請之該筆農業用地係農業發展條例八十九年一月二十八日修正施行後取得者，其面積應超過零點二五公頃，惟申請人應有部分之面積雖未達零點二五公頃者，仍得依本原則辦理。\n(五)與前開意旨未符之相關函釋，自即日停止適用。\n二、爰本案倘有申請人係農業發展條例八十九年一月二十八日修正施行後取得者，該筆農業用地面積應達0.25公頃以上，始符上開號令規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031823495號|農業用地共有時其申請興建農舍處理原則"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "322a92bccd6def1267c5442a2375a42ceda09c79b62b3b3a7466c76e978910af",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "103年2月14日農水保字第1031865030號令核釋有關農業用地興建農舍辦法第二條及第三條之農業用地為共有時,其申請興建農舍處理原則如下:\n(一)興建農舍之申請人"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "計算,須興建於所分管土地範圍內。\n(四)申請之該筆農業用地係農業發展條例八十九年一月二十八日修正施行後取得者,其面積應超過零點二五公頃,惟申請人應有部分"
+  }
+ ]
+}

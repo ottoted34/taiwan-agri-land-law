@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3311",
    "serial": null,
-   "fetched_at": "2026-10-30T10:10:26+08:00",
+   "fetched_at": "2026-10-30T11:37:28+08:00",
    "source_key": "rmis:3311"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:台內營字第1020813101號|有關農業用地興建農舍辦法102年7月1日修正前已申請農舍之農"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "12",
     "amended_on": "2015-09-04",
@@ -59,28 +65,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "16",
    "kind": "extracted",
    "snippet": "7月1日修正前已申請農舍之農業用地分割,及已興建農舍之耕地依農業發展條例第16條規定辦理分割者,其辦理解除套繪事宜1案,請查照。\n一、依據本部營建署案陳行政院農"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "修正前規定,即仍應依現行本辦法第12條規定辦理。\n四、另依據農業發展條例第3條第11款規定:「耕地:指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "理。\n四、另依據農業發展條例第3條第11款規定:「耕地:指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地。」同條例第16條並"
+  },
+  {
+   "law_id": "M0110013",
    "article": "12",
    "kind": "extracted",
    "snippet": "雖依農業發展條例第16條辦理分割後,其解除套繪管制事項仍須依農業用地興建農舍辦法第12條規定辦理。\n五、副本抄送本部地政司,已興建農舍之耕地依農業發展條例第16條辦理分"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

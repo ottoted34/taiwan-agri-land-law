@@ -1,0 +1,64 @@
+{
+ "id": "itp-e1e5ec35c6",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0970121237號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端就共有農地上興建農舍問題申請再釋疑案，復如說明，請查照。",
+ "content": "一、復 台端97年4月18日申請書。\n二、依「土地法」第43條規定：「依本法所為之登記，有絕對效力。」而「土地取得」之認定時點，應以土地登記機關登記之時點為基準，合先敘明。\n三、依據「共有農業用地申請興建農舍處理原則」態樣二之處理原則「二、共有人最後取得持分面積維持原有修法前取得之持分面積或大於修法前取得之持分面積者，得適用修法前建管法令興建農舍，惟以原來取得之持分面積計算可興建農舍面積」之精神，台端原持分100平方公尺之共有農業用地經分割為單獨所有，得適用修法前相關法令申請興建農舍，惟其興建面積係以原持分土地面積100平方公尺之10計算。\n四、農業發展條例修正施行前民國89年1月28日取得之共有農業用地，在該條例修正施行後共有人之一經價購取得其他所有權人之農業用地，而為單筆農業用地所有權人，自不適用「共有農業用地申請興建農舍處理原則」，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0970121237號|台端就共有農地上興建農舍問題申請再釋疑案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "88416ceab03c547716a07a9f34599f36c6c94c56c5bd2759990378bc54611346",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "其興建面積係以原持分土地面積100平方公尺之10計算。\n四、農業發展條例修正施行前民國89年1月28日取得之共有農業用地,在該條例修正施行後共有人之一經"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "不適用「共有農業用地申請興建農舍處理原則」,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-2b229b52d5",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1001822492號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端為於新北市汐止區姜子寮公園旁規劃設計集村農舍，申請防汛道路通行權一案，復請 查照。",
+ "content": "一、復 台端100年8月22日申請書。\n二、查旨揭防汛道路係由汐止區公所施作，無涉本局權責。另有關防汛道路是否得作為集村農舍聯外道路，建請向內政部營建署洽辦釐明。\n三、檢還原申請書件一份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1001822492號|有關台端為於新北市汐止區姜子寮公園旁規劃設計集村農舍申請防汛"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "316fd422297e4ffb01c1ea4e45b47c19aff7f298cdffaf0a3773926a5900aa81",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "itp-5b7aa8d265",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070724635號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴事務所函詢農地興建農舍相關土地面積疑義案，復如說明，請查照。",
+ "content": "一、復貴事務所107年9月5日(107)舉字第0905號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第3款規定，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積90%。爰興建農舍用地面積及其農業用地之比例應符合上開規定辦理。\n三、次依本辦法第5條規定，申請興建農舍之土地，有其他違反土地使用管制規則規定者，不得依本辦法申請興建農舍。貴事務所函中所述農業用地遭違規占用之事實及後續排除作法未明，建請先予釐清處理。另基於農舍之個案審查係直轄市、縣(市)政府之權責，請貴事務所後續逕洽臺北市政府協助。\n四、副本抄送臺北市政府，並檢附○○建築師事務所107年9月5日(107)舉字第0905號函1份供參，本案審認事項續請主政辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070724635號|有關貴事務所函詢農地興建農舍相關土地面積疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "df630a814736cb3d6e04eeccb19713d5a80e3ebfab810c89bbb0d16e2b634294",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "事務所107年9月5日(107)舉字第0905號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第3款規定,申請興建農舍之農業用地,其農舍用地面積"
+  }
+ ]
+}

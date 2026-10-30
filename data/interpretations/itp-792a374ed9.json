@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5365",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:33+08:00",
+   "fetched_at": "2026-10-30T11:44:46+08:00",
    "source_key": "rmis:5365"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0980172541號|有關農民團體申請於都市計畫農業區內興建冷藏庫使用可否比照非都"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,20 +37,20 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -60,22 +66,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月21日內政部台內中營字第0950804204號令修正發布之「都市計畫法台灣省施行細則」第29條規定,「農業區為保持農業生產而劃定,除保持農業生產外,僅"
+  },
+  {
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "原則上都市計畫農業區申請設置農業產銷必要設施,應依本會所定之「申請農業用地作農業設施容許使用審查辦法」之規定辦理,並應符合都市計畫法台灣省施行細則等相關審查作業要點規定,合先敘明。\n"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "查作業要點」之規定,依上開函釋之原則,予以審認核處。\n四、又農業用地變更回饋金撥繳及分配利用辦法規定,針對非都市土地範圍內農業用地,變更為特定目的事業用地供農(漁)業產銷設施使"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5579",
    "serial": null,
-   "fetched_at": "2026-10-30T10:14:12+08:00",
+   "fetched_at": "2026-10-30T11:41:26+08:00",
    "source_key": "rmis:5579"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1010119155號|民眾以同一結構之一棟建築物同時申請核發僅供補辦農舍建築執照農"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,25 +37,25 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2013-07-01",
-    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "history": "中華民國一百零二年七月一日內政部台內營字第 1020805247 號令、行政院農業委員會農水保字第 1021865656 號令會銜修正發布全文 17 條；並自發布日施行",
     "relation_kind": "extracted"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -58,11 +64,20 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "7",
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
     "relation_kind": "extracted"
    }
   ]
@@ -79,22 +94,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "容許使用;而農舍係基於農業經營之目的始附帶提供居住使用,應依「農業用地興建農舍辦法」規定辦理,兩者之性質及法令依據不相同,且申請要件及管制規定亦不相同。故本案依來函"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "7",
    "kind": "extracted",
    "snippet": "核發事宜,仍請 貴府本於職權依前開號函原則辦理。\n四、另依據「申請農業用地作農業設施容許使用審查辦法」第7條第9款規定,申請農業用地作農業設施容許使用,申請案件有未符合本辦法規定或違反其他"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法規定或違反其他法令規定,不予同意。是以,農業用地倘確有違反區域計畫法或建築法令規定之情形,於裁處行政程序尚未終結,或違規情節尚未排除前,農業用地申請"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "其他法令規定,不予同意。是以,農業用地倘確有違反區域計畫法或建築法令規定之情形,於裁處行政程序尚未終結,或違規情節尚未排除前,農業用地申請農業設施"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

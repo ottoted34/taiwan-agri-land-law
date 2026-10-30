@@ -1,0 +1,80 @@
+{
+ "id": "itp-c86ea3bc73",
+ "doc_class": "interpretation",
+ "docno": "農企字第0910010038號",
+ "date": "2002-04-17",
+ "date_text": "91年4月17日農企字第0910010038號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "本會旨揭函（90年7月31日(90)農企字第900010341號函）釋所稱「參酌行政程序法第104條至第106條及第1章第6節相關規定妥處」乙節，係指應給予相對人陳述意見之機會及調查事實及證據，以作為行政處分之依據。於實務執行上，鄉（鎮、市、區）公所應將案情公告，並通函其他未簽署之共有人於一定期限內為意思表示，逾期不為表示即視同默認，鄉（鎮、市、區）公所即得依規定核處，並依行政程序法第一百條之規定使各共有人知悉該行政處分；倘如其他共有人有不同意見之表示，則該共有人合意之分管契約書無法成立，應將該申請案駁回。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0910010038號|釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "3d8fe81804328677f0f1fd8efb7730a92d297135495f2971e3fe9f8a51c5468a",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "104",
+   "kind": "extracted",
+   "snippet": "月31日(90)農企字第900010341號函)釋所稱「參酌行政程序法第104條至第106條及第1章第6節相關規定妥處」乙節,係指應給予相對人陳述意見之機會及調"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "100",
+   "kind": "extracted",
+   "snippet": "不為表示即視同默認,鄉(鎮、市、區)公所即得依規定核處,並依行政程序法第一百條之規定使各共有人知悉該行政處分;倘如其他共有人有不同意見之表示,則該共有人合意之"
+  }
+ ]
+}

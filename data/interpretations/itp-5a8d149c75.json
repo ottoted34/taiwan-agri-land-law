@@ -1,0 +1,59 @@
+{
+ "id": "itp-5a8d149c75",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040726919號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端詢問無自用農舍認定疑義案，復請查照。",
+ "content": "一、復臺端104年8月24日申請書。\n二、依農業用地興建農舍辦法第2條第4款規定:「申請人無自用農舍者。申請人已領有個別農舍或集村農舍建造執照者，視為已有自用農舍，但該建造執照屬尚未開工且已撤銷或原申請案件重新申請者，不在此限。」。有關農舍審查之個案認定係直轄市、縣(市)政府權責，倘臺端對於地方政府之執行存有疑義者，應請該府分析事由，轉由本會研釋審認原則為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040726919號|有關臺端詢問無自用農舍認定疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4ac720963e82b719e8cf81f21695540d350010a53beebb7dafff5c902e6fc6e5",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復臺端104年8月24日申請書。\n二、依農業用地興建農舍辦法第2條第4款規定:「申請人無自用農舍者。申請人已領有個別農舍或集村農舍建造執照者,視為"
+  }
+ ]
+}

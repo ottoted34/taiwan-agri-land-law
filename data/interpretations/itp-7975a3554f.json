@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5617",
    "serial": null,
-   "fetched_at": "2026-10-30T09:57:25+08:00",
+   "fetched_at": "2026-10-30T11:24:37+08:00",
    "source_key": "rmis:5617"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080207709號|不利農業經營區內建置綠能設施得否回填土方"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "27",
    "kind": "extracted",
    "snippet": "利農業經營得設置綠能設施範圍內而有不同,合先敘明。\n三、依據「申請農業用地作農業設施容許使用審查辦法」第27條第3項規定,於本會公告之嚴重地層下陷地區內不利農業經營用地得設置綠能設施範圍(以"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

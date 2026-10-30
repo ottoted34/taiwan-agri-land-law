@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5443",
    "serial": null,
-   "fetched_at": "2026-10-30T09:59:34+08:00",
+   "fetched_at": "2026-10-30T11:26:46+08:00",
    "source_key": "rmis:5443"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1050012635號|經濟部公告劃定之特定地區辦理區內未登記工廠土地變更編定為丁種"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "饋金收繳之新、舊法規適用原則如說明,請查照。\n說明:\n一、查農業用地變更回饋金撥繳及分配利用辦法(以下簡稱本辦法)最近一次修正,係於105年5月25日修正發布,有關本辦法修正發"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

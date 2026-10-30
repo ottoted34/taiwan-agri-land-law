@@ -1,0 +1,74 @@
+{
+ "id": "itp-a0f85ef3c0",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940158903號",
+ "date": "2005-10-31",
+ "date_text": "94年10月31日農企字第0940158903號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "052 釋法院拍賣之農業用地申請農業用地作農業使用證明書，現場會勘時得由相關權利人或申請人指界案",
+ "content": "查農業用地作農業使用認定及核發證明辦法第11條第2項明定「直轄市或縣 (市)政府辦理前項會勘時，應通知『申請人到場指界及說明』，如界址無法確定，應告知申請人向地政機關申請鑑界。」故其指界之責任應以申請人為主。至該條第3項所定「申請人非土地所有權人時，應通知土地所有權人到場。」之立法意旨，係因農業用地作農業使用證明書之申請核發，並未限制申請人應為土地所有權人，其他權利關係人或代理人均得申請。以致有農業用地經他人提出申請農業用地作農業使用證明書之情事，而所有權人卻毫無所悉，該農業用地作農業使用證明書之申請核發雖不致影響該所有權人之權益，卻也可能招致所有權人之抗議，故責以受理單位應通知土地所有權人之義務。至土地所有權人是否到場或委託他人代理到場，則依土地所有權人意願辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940158903號|釋法院拍賣之農業用地申請農業用地作農業使用證明書現場會勘時得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "11",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "bb255ceb19ee496937190b1cf9666b085d93d6272d9d88fd1239944c730e135d",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "作農業使用證明書,現場會勘時得由相關權利人或申請人指界案\n查農業用地作農業使用認定及核發證明辦法第11條第2項明定「直轄市或縣 (市)政府辦理前項會勘時,應通知『申請人到場指界及說明』"
+  }
+ ]
+}

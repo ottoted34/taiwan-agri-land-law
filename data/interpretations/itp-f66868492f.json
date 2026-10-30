@@ -1,0 +1,58 @@
+{
+ "id": "itp-f66868492f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960109771號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「不同戶籍」之夫妻，一方已有自用農舍，另一方可否再申請自用農舍案，復請查照。",
+ "content": "1.復 貴府96年2月12日府農務字第0960030656號函。\n2.申請興建農舍之資格條件，悉依「農業用地興建農舍辦法」第3條第1項規定辦理;查其立法意旨，在「不同戶籍」之夫妻，一方已有自用農舍，另一方資格條件若符合上開規定者，並未限制其申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960109771號|不同戶籍之夫妻一方已有自用農舍另一方可否再申請自用農舍案復請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8d52917a3ae6ef93344c22633a685677aa4511ce31b8a4f0c7c67abac40c2cb1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "0960030656號函。\n2.申請興建農舍之資格條件,悉依「農業用地興建農舍辦法」第3條第1項規定辦理;查其立法意旨,在「不同戶籍」之夫妻,一方已有自用農舍,另一方資格"
+  }
+ ]
+}

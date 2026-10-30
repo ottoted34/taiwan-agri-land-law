@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4793",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:13+08:00",
+   "fetched_at": "2026-10-30T11:36:26+08:00",
    "source_key": "rmis:4793"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第1030203310號|申請農業用地作農作產銷設施農業資材室容許使用疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": ",說明如下: (一)該二案前於本會102年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)前送件並經貴局駁回在案,復於容許辦法修正發布後再行申請一節,"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請貴局參據辦理。\n三、有關○○○申請案其設施坐落土地前因違反水土保持法經新北市政府裁罰並暫停系爭地號土地2年開發之申請一節,允屬容許辦法第6條第9款所"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

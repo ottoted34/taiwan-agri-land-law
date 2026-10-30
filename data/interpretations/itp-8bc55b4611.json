@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5373",
    "serial": null,
-   "fetched_at": "2026-10-30T10:04:55+08:00",
+   "fetched_at": "2026-10-30T11:32:07+08:00",
    "source_key": "rmis:5373"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1040210027號|農業用地作農業使用認定及核發證明辦法第8條第2款規定所需檢附"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "8",
    "kind": "extracted",
    "snippet": "農業用地作農業使用認定及核發證明辦法第8條第2款規定所需檢附文件疑義案。\n主旨:有關貴局函詢農業用地作農業使用認定及核發證"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "6",
    "kind": "extracted",
    "snippet": "共有人分管區域之地籍圖,且標明其分管之位置,以利審認是否符合農用證明辦法第6條第6款之規定。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

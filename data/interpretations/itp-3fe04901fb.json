@@ -1,0 +1,50 @@
+{
+ "id": "itp-3fe04901fb",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1053040480號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關民眾○○○就政府機關揭露公示之文件(土地謄本)應為民眾信賴確定之物件，不應損害善意第三人之應有權益所提陳情書一案，前經行政院農業委員會105年9月1日農授水保字第1050232731號書函、內政部105年8月8日內授營建管字第1050811238號函及高雄市政府105年10月13日高市府工建字第10538143400號函復陳情人在案，請查照。",
+ "content": "一、依據奉交下貴委員105年10月12日交辦案件辦理。\n二、檢附旨揭行政院農業委員會、內政部及高雄市政府等三號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署建管字第1053040480號|有關民眾○○○就政府機關揭露公示之文件土地謄本應為民眾信賴確"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ffd1fba22a748d0fff54dc89fb1ebf309f8fe3fb68d4472247564320c7896007",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

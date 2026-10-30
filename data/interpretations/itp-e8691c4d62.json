@@ -1,0 +1,66 @@
+{
+ "id": "itp-e8691c4d62",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930115376號",
+ "date": "2004-03-26",
+ "date_text": "93年3月26日農企字第0930115376號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "025 釋農業用地作假山、庭園造景及水池等使用案",
+ "content": "查農業用地作農業使用認定及核發證明辦法業有農業使用認定之相關條文規定，以作為農業用地是否符合作農業使用認定之依據；另所稱「植生」本會前於91年7月17日業有函釋在案；準此，農舍或農業設施以外之其餘農業用地如作假山、庭園造景、水池等使用，並不符合前開農業使用認定基準，不宜核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930115376號|釋農業用地作假山庭園造景及水池等使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "ee716a8603e1a9a06ee554e56530cc0cebdea4b0ea34dacc34dec651b5f6dfcd",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "025 釋農業用地作假山、庭園造景及水池等使用案\n查農業用地作農業使用認定及核發證明辦法業有農業使用認定之相關條文規定,以作為農業用地是否符合作農業使用認定之依據;另所"
+  }
+ ]
+}

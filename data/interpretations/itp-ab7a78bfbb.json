@@ -1,0 +1,65 @@
+{
+ "id": "itp-ab7a78bfbb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041811988號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍問題。",
+ "content": "一、農舍係與農業經營不可分離，且於農業發展條例及農業用地興建農舍辦法中，均明定申請興建農舍者應為農民，亦即須為實際從事農業生產者所需而興建，屬於農地上之特許設施，並非持有農地者即能申請。\n二、本次農業用地興建農舍辦法修正僅是針對農民的身分具體訂定如何審查的機制，以確認確實有從事農業生產經營，並不影響真正務農者的權益，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041811988號|農舍問題"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d61ebf0d9c286265d1c410c4058f7c72f35126e2ab4534ca5c71911c075d2fa6",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍問題。\n一、農舍係與農業經營不可分離,且於農業發展條例及農業用地興建農舍辦法中,均明定申請興建農舍者應為農民,亦即須為實際從事農業生產"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍問題。\n一、農舍係與農業經營不可分離,且於農業發展條例及農業用地興建農舍辦法中,均明定申請興建農舍者應為農民,亦即須為實際從事農業生產者所需而興建,屬於農地"
+  }
+ ]
+}

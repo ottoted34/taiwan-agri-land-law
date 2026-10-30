@@ -1,0 +1,64 @@
+{
+ "id": "itp-0ceb3ccd3e",
+ "doc_class": "interpretation",
+ "docno": "內授營都字第0940084906號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "檢送本部94年7月20日召開「研商都市計畫農業區及保護區以外之使用分區興建農舍，是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄乙份，請查照。",
+ "content": "",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營都字第0940084906號|檢送本部94年7月20日召開研商都市計畫農業區及保護區以外之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "86eb098ee609be21fb7d9e87c34da9db3ddafc817eb1538afbb00e02c83a21c7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「研商都市計畫農業區及保護區以外之使用分區興建農舍,是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄乙份,請查照。"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業區及保護區以外之使用分區興建農舍,是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄乙份,請查照。"
+  }
+ ]
+}

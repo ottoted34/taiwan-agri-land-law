@@ -1,0 +1,64 @@
+{
+ "id": "itp-2da2f16224",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041816119號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為孩子留一畝田，請堅持通過農舍修法，落實農地農用。",
+ "content": "為導正農地農舍炒作亂象，行政院農業委員會推動修正農業用地興建農舍辦法，已於104年9月6日由內政部會銜行政院農業委員會修正生效(9月4日發布)，明確農舍申請人應為農民之認定條件，以落實農舍興建確為輔助農業生產經營所需之立法目的。至農舍承受人應為農民之規範，因涉及法律保留原則，為求適法並杜絕各界爭議、爰將推動修正農業發展條例，明確農舍承受人資格條件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041816119號|為孩子留一畝田請堅持通過農舍修法落實農地農用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "01baba85f3e4f32de2b4afdbcfbd5b956007b9e0047ebb293bdbfec07fd297a6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農地農用。\n為導正農地農舍炒作亂象,行政院農業委員會推動修正農業用地興建農舍辦法,已於104年9月6日由內政部會銜行政院農業委員會修正生效(9月4日發布),明確"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "範,因涉及法律保留原則,為求適法並杜絕各界爭議、爰將推動修正農業發展條例,明確農舍承受人資格條件。"
+  }
+ ]
+}

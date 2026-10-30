@@ -1,0 +1,64 @@
+{
+ "id": "itp-27feec2404",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0910129535號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所請釋「農業發展條例」修正施行前已取得之農地，並於該條例修正施行後與鄰地分割交換合併後，可否依該條例修正施行前已取得之農業用地申請興建農舍疑義案，復如說明，請查照。",
+ "content": "一、復貴事務所91年5月24日申請書。 二、現行「農業發展條例」第18條第3項規定：「本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。」其「修正施行前」係指在該條例修正公布生效日(89年1月28日)前取得（包括繼承、買賣、拍賣等）之農業用地，合先敘明。 三、本案○○○於「農業發展條例」修正施行前(民國59年4月11日)取得農業用地，並於該條例修正施行後(民國91年1月2日)與鄰地分割交換合併，其權利主體未更動，且分割交換合併調整後之面積並未改變，可視為原權利內容之持續，由該主管機關本諸權責依法核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0910129535號|貴事務所請釋農業發展條例修正施行前已取得之農地並於該條例修正"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8116a3ea2e9b4ba84a70d218ad605ca7b442d5ae54070d0b0b40773ee2078f90",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ",請查照。\n一、復貴事務所91年5月24日申請書。 二、現行「農業發展條例」第18條第3項規定:「本條例中華民國89年1月4日修正施行前取得農業用地,且無自用農舍而"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。」其「修正施行前」係指在該條例修正公布生效日(89年1月2"
+  }
+ ]
+}

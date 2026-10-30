@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6073",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:07+08:00",
+   "fetched_at": "2026-10-30T11:14:19+08:00",
    "source_key": "rmis:6073"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授漁字第1151544846號|有關貴府農業局函詢室內水產養殖生產設施之室內設置屋頂型綠能設"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -38,16 +44,18 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "字第1142656005號函之審認原則。合先敘明。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(下稱容許辦法)第21條附表4「水產養殖設施-室內水產養殖生產設施」之申請基準或"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

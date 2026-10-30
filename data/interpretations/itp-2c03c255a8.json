@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5601",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:01+08:00",
+   "fetched_at": "2026-10-30T11:20:13+08:00",
    "source_key": "rmis:5601"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1090233574號|水利用地維持自然林木核發農用證明原則"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,10 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0110001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "9號通函(諒達)之例外情形,始得認定為作農業使用,無關是否為水土保持法第3條第7款所定之保護帶。\n三、依案附三峽區公所函文所述,本案水利用地位於三峽河岸,現"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

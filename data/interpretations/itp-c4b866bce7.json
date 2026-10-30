@@ -1,0 +1,64 @@
+{
+ "id": "itp-c4b866bce7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040236903號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端就農業用地興建農舍辦法第2條、第3條之1修正條文補充陳述意見案，請查照。",
+ "content": "一、依據內政部營建署104年9月18日營署綜字第1040059763號函辦理。\n二、按農業發展條例第18條第5項規定，有關興建農舍之農民資格由內政部會同中央主管機關定之。以往農業用地興建農舍辦法(以下簡稱本辦法)就農舍申請人資格條件之規範流於型式，地方政府亦未盡實質審查之責，導致農舍濫建及商品化炒作亂象，爰內政部會銜本會依前開規定之授權，修正本辦法，並已於104年9月6日發布生效，以明確農舍申請人應為農民之認定條件，並未逾越母法規定。\n三、為遏止農舍亂象，應從前端申請與後端管理雙管齊下。此次修法規範農舍申請人資格，其目的係為加強源頭控管，杜絕非農民興建農舍等投機性需求。而對於農舍違規行為之稽查，本會與內政部亦加強督導地方政府落實稽查與裁處，以落實農地農用政策及農舍為輔助農民農業經營所需而興建之立法目的。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040236903號|有關台端就農業用地興建農舍辦法第2條第3條之1修正條文補充陳"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8e08057068e1d67892039cbaccecd5022f21c13ea57e2eccb8da613c736bc5ac",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "有關台端就農業用地興建農舍辦法第2條、第3條之1修正條文補充陳述意見案,請查照。\n一、依據內政部營建署104年9月1"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "年9月18日營署綜字第1040059763號函辦理。\n二、按農業發展條例第18條第5項規定,有關興建農舍之農民資格由內政部會同中央主管機關定之。以往農業用地興建"
+  }
+ ]
+}

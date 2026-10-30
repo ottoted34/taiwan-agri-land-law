@@ -1,0 +1,70 @@
+{
+ "id": "itp-c2b17cb1b4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950131605號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢關於農業發展條例修正公布施行前取得農地及繼承後申請興建農舍疑義案，復請查照。",
+ "content": "一、 復 貴府95年6月7日府農務字第0950158484號函。\n二、依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依「農業用地興建農舍辦法」第2條規定申請興建農舍，不受申請興建農舍需有最低面積（0.25公頃）、土地取得應滿一定期間……等規定限制，以保障原擁有農業用地之農民權益;在「農業發展條例」修正公布生效日後取得之農業用地，申請興建農舍自應依「農業用地興建農舍辦法」第3條規定辦理;另「土地法」第43條規定，依本法所為之登記，有絕對效力，故「土地取得」之認定時點，應以土地登記機關登記之時點為基準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950131605號|貴府函詢關於農業發展條例修正公布施行前取得農地及繼承後申請興"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ed3a3c9190506a4765e7d613dbfe11f46d48ea10ae176bc1ec55482dcebc2f28",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴府函詢關於農業發展條例修正公布施行前取得農地及繼承後申請興建農舍疑義案,復請查照。\n一、 復 貴府95"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "8日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地,得依「農業用地興建農舍辦法」第2條規定申請興建農舍,不受申請興建農舍需有最低面積(0.25公頃)、土地取得應滿一定"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "發展條例」修正公布生效日後取得之農業用地,申請興建農舍自應依「農業用地興建農舍辦法」第3條規定辦理;另「土地法」第43條規定,依本法所為之登記,有絕對效力,故「土地取得」"
+  }
+ ]
+}

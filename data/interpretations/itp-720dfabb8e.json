@@ -1,0 +1,75 @@
+{
+ "id": "itp-720dfabb8e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980173390號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "053 釋農業發展條例及相關配套法案於89年1月26日修正施行前，以多筆農地合併興建農舍，配合耕地已移轉他人，該農舍及其坐落之農地併同移轉案",
+ "content": "主旨：有關都市計畫農業區已併計申請農舍後其配合農地可否個別申請核發農業用地作農業使用證明書疑義案，復請 查照。\n說明：\n一、復 貴府98年11月18日府建農字第0985037394號函。\n二、查所稱作為配合計算興建農舍基地面積之農地，應係指民國89年1月26日農業發展條例修正公布施行前，允許多筆農地合併計算基地面積，而申請興建農舍於其中一筆農地者而言，先予敘明。\n三、又農業發展條例第37條及第38條有關作農業使用之農業用地得有賦稅減免優惠之規定，應係指該筆擬辦理所有權移轉登記之土地而言；又同條例第18條第4項所稱已申請興建農舍之農業用地不得重複申請，應包括配合計算基地面積之農地，併予敘明。\n四、綜上，旨揭配合計算興建農舍基地面積之農地，如符合農業使用認定基準，應依規定核發農業用地作農業使用證明書，惟仍應依農業用地興建農舍辦法第9條之規定辦理標示、列管及註記，始符法制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0980173390號|釋農業發展條例及相關配套法案於89年1月26日修正施行前以多"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-68e0235fde",
+    "by_docno": "農企字第1120012752號",
+    "by_date": "2023-06-08",
+    "kind": "cease",
+    "phrase": "五、本會91年4月17日農企字第0910010047號函、92年2月17日農企字第0920108240號函、93年5月12日農企字第0930122644號函、96年5月9日農企字第0960124685號函、98年11月25日農企字第0980173390號函,以及與前開意旨未符之相關函釋,自即日停止適用"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9e6141c6e2efdb32e87e7b9e4e604a8baef5a12ba37da58112461d7294f6223a",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "面積,而申請興建農舍於其中一筆農地者而言,先予敘明。\n三、又農業發展條例第37條及第38條有關作農業使用之農業用地得有賦稅減免優惠之規定,應係指該筆擬辦理所有權"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "使用認定基準,應依規定核發農業用地作農業使用證明書,惟仍應依農業用地興建農舍辦法第9條之規定辦理標示、列管及註記,始符法制。"
+  }
+ ]
+}

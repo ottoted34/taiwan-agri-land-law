@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5419",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:26+08:00",
+   "fetched_at": "2026-10-30T11:44:39+08:00",
    "source_key": "rmis:5419"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0990103890號|三芝鄉公所於該鄉○○○○○○○○○○○○地號等4筆土地一般農"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -50,22 +56,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "般農業區農牧用地),辦理「福德村農路新闢道路工程」,是否應依「申請農業用地作農業設施容許使用審查辦法」申請農路之容許使用疑義案。\n主旨:有關 貴縣三芝鄉公所於該鄉○○○、○○○、○○"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "99年1月12日北農牧字第0990031462號函。\n二、依農業發展條例第8條之1第2項規定,「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

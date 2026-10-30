@@ -1,0 +1,59 @@
+{
+ "id": "itp-d30ca85b7c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1070990477號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關合法農舍災後重建可免除農業生產證明，30年以上之合法老舊農舍能否修法比照疑義案，復如說明，請查照。",
+ "content": "一、依據貴辦公室107年5月17日傳真辦理。\n二、農業用地興建農舍辦法係由內政部會銜農委會訂定之，農舍建築管理事項係內政部營建署權管，興建農舍農民資格審查事宜則由本會主管，先予敘明。\n三、農舍係與農業經營不可分離，爰申請興建農舍之該筆農業用地應有經營事實並提出農業生產相關佐證資料以供審認，以確保該農舍係為配合於農業用地上從事農業活動所需而興建之政策目的。\n四、風災震災火災爆炸災害災區民眾安置或重建簡化行政程序辦法係依災害防救法第37條之2第2項規定授權訂定，因天然災害發生，致影響災區民眾正常居住生活，為安置受災民眾或進行災區重建工作，爰訂定簡化行政程序，與老舊農舍之重建目的有別。\n五、來函有關30年以上之合法老舊農舍重建，係建築管理事項，屬內政部營建署權管。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1070990477號|有關合法農舍災後重建可免除農業生產證明30年以上之合法老舊農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "11de3cf2bf124efe3e2fd48d9fb6154f91fb491ef219649f444883093b881a80",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請查照。\n一、依據貴辦公室107年5月17日傳真辦理。\n二、農業用地興建農舍辦法係由內政部會銜農委會訂定之,農舍建築管理事項係內政部營建署權管,興建農舍農民資格"
+  }
+ ]
+}

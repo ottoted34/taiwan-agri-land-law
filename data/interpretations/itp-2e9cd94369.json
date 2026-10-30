@@ -1,0 +1,52 @@
+{
+ "id": "itp-2e9cd94369",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050727497號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢有關農民資格審查時農業生產事實之證明文件佐證資料之適用，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下台端105年9月20日申請書辦理。\n二、有關農舍之個案審查係屬直轄市、縣(市)政府權責，請台端逕洽所在地地方政府詢問。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1050727497號|有關台端函詢有關農民資格審查時農業生產事實之證明文件佐證資料"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d41a4dbb745860037e8b885bb41ac5528a790850870ed7d7543c44b47767fba6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

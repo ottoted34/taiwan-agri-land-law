@@ -1,0 +1,58 @@
+{
+ "id": "itp-7126cc1937",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000105558號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○君等20人擬分割平溪鄉○○○地號申請個別農舍案，復請查照。",
+ "content": "一、 復貴局100年1月24日北農牧字第1000070278號函。\n二、共有農業用地於「農業發展條例」89年1月28日修正施行後取得，且於98年7月23日以後分割者，依民法第824條之1規定，其土地取得時點應以土地完成分割登記日起算。此本會99年6月28日農水保字第0991875147號令釋在案，自應溯自98年7月23日適用，合先敘明。\n三、查民法第824條之1之規定，係經總統於98年1月23日以華總一義字第09800018501號令公布，並自98年7月23日施行；自98年7月23日起，有關共有人取得部分所有權之時點，亦應依民法第824條之1規定加以認定。\n四、本案縱以申請興建集村農舍為合併分割原因，惟既係於98年7月23日以後分割，即應符合前開令之規定，因事涉個案實質審認，仍請貴局本於權責依規辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000105558號|有關○○○君等20人擬分割平溪鄉○○○地號申請個別農舍案復請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "44a61b1a08a245cf1af8fa2e88602a22830be7e12271311fdfadddeb9a3a0c5a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "4日北農牧字第1000070278號函。\n二、共有農業用地於「農業發展條例」89年1月28日修正施行後取得,且於98年7月23日以後分割者,依民法第824條"
+  }
+ ]
+}

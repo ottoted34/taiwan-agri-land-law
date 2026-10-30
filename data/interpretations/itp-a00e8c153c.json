@@ -1,0 +1,52 @@
+{
+ "id": "itp-a00e8c153c",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0951850796號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關共同持有持分之農地，共有人之一農地經法院查封登記有案，其所提供興建農舍之同意書是否有效案，復請查照。",
+ "content": "一、復 台端95年1月4日致本會水土保持局請示書。\n二、強制執行法第51條規定：「查封之效力及於查封物之天然孳息。實施查封後，債務人就查封物所為移轉、設定負擔或其他有礙執行效果之行為，對於債權人不生效力。實施查封後，第三人未經執行法院允許，占有查封物或為其他有礙執行效果之行為者，執行法院得依職權或依聲請排除之。」; 第113條規定：「不動產強制執行，除本節有規定外，準用關於動產執行之規定。」合先敘明。\n三、有關共有人之一農地因法院查封後，可否再行同意供他人於該農地興建農舍乙案，應視該同意書行為是否有違上揭規定而定，如未違反上揭規定，似尚非不得為之; 如與上揭規定有違，則不得為之。故本案有無違反查封之效力，仍應由縣（市）主管機關本於權責依上揭規定視個案情形認定之。\n四、檢附相關行政函釋供參（6件）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0951850796號|台端函詢有關共同持有持分之農地共有人之一農地經法院查封登記有"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8954cd3a265ff57dbb85718770602ea57596fc8782f853b4149278a9832dbbf0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "id": "tech-ec89f9caa06c",
+ "source_key": "datamoa:740:394762689d3c8ea9",
+ "title": "穴盤蔬菜栽培技術之研發與應用",
+ "series": "技術專刊",
+ "issue": "技術專刊87-2(NO.74)",
+ "agency_id": "tndais",
+ "authors": "楊紹榮、鄭榮瑞",
+ "date": "1998-04",
+ "url": "http://book.tndais.gov.tw/Brochure/tech74.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "26頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊87-2(NO.74)",
+  "題目": "穴盤蔬菜栽培技術之研發與應用",
+  "作者": "楊紹榮、鄭榮瑞",
+  "出版日期年月": "08704",
+  "頁數": "26頁",
+  "定價": "50",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech74.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech74.htm",
+  "備註": "無存書"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "7499c8fd056398a82382cd7e054a04c82fcf52dcf6e419c35161c9d4468c05e6",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "vegetable",
+  "seedling",
+  "mgmt"
+ ]
+}

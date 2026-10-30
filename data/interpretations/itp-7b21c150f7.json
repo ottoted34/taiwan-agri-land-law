@@ -1,0 +1,58 @@
+{
+ "id": "itp-7b21c150f7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970109631號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "所有權人將其農地及其地上農舍因信託關係移轉予受託人（自然人），得否免受農業發展條例第18條第2項「興建農舍滿5年始得移轉」之限制案，復請查照。",
+ "content": "一、復貴事務所97年2月20日申請函。\n二、查信託法第1條規定：「稱信託者，謂委託人將財產權移轉或為其他處分，使受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係。」土地登記規則第128條第1項規定：「信託財產依第125條辦理信託登記後，於信託關係消滅時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」準此，由委託人依信託法規定將財產權移轉受託人管理，須辦理信託登記;信託關係消滅，亦應申請塗銷信託登記觀之，信託關係成立後，信託財產經由登記，即發生所有權移轉之法律效果，不因其係自益信託或他益信託而有所不同。\n三、農業發展條例第18條第2項規定：「…;其在自有農業用地興建農舍滿5年始得移轉。但因繼承或法院拍賣而移轉者，不在此限。」，有關所有權人將其農地及其地上農舍因信託關係移轉予受託人（自然人），倘於5年內將其所有權辦理自益信託登記受託人，查與本項規定尚未相符。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970109631號|所有權人將其農地及其地上農舍因信託關係移轉予受託人自然人得否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6c1ee977690158c6c1a7b006a4dd27a6eb62556fbafe3c89ce1426c5138a599d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "其農地及其地上農舍因信託關係移轉予受託人(自然人),得否免受農業發展條例第18條第2項「興建農舍滿5年始得移轉」之限制案,復請查照。\n一、復貴事務所97年2月2"
+  }
+ ]
+}

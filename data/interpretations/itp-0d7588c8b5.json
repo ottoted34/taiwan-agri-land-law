@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3978",
    "serial": null,
-   "fetched_at": "2026-10-30T10:04:35+08:00",
+   "fetched_at": "2026-10-30T11:31:48+08:00",
    "source_key": "rmis:3978"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1040216415號|有關貴局函詢審查興建農舍申請人資格涉及農業用地作農業使用證明"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,12 +37,21 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
     "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
     "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "G0340072",
+    "law_name": "遺產及贈與稅法",
+    "article": "23",
+    "amended_on": "2026-09-11",
+    "history": "中華民國一百十五年九月十一日總統華總一經字第 11500086661 號令修正公布第 6、17-1、23、26、30、41、51 條條文",
+    "relation_kind": "extracted"
    }
   ]
  },
@@ -51,16 +66,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "G0340096",
+   "article": "39-3",
+   "kind": "extracted",
+   "snippet": "業使用無誤,俾供持憑辦理申請稅賦減免優惠或興建自用農舍。參酌土地稅法第39條之3、遺產及贈與稅法第23條、第24條等對於土地移轉或贈與行為發生後1個月內申報、繼"
+  },
+  {
+   "law_id": "G0340072",
+   "article": "23",
+   "kind": "extracted",
+   "snippet": "理申請稅賦減免優惠或興建自用農舍。參酌土地稅法第39條之3、遺產及贈與稅法第23條、第24條等對於土地移轉或贈與行為發生後1個月內申報、繼承開始後6個月內申報,以"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "51",
+   "kind": "extracted",
+   "snippet": "轉或贈與行為發生後1個月內申報、繼承開始後6個月內申報,以及行政程序法第51條人民申請案處理期限最多為4個月之規定,爰農業用地作農業使用認定及核發證明辦法第1"
+  },
+  {
+   "law_id": "M0020015",
    "article": "14",
    "kind": "extracted",
    "snippet": "及行政程序法第51條人民申請案處理期限最多為4個月之規定,爰農業用地作農業使用認定及核發證明辦法第14條明定,農用證明之有效期限為6個月,業充分考量辦理各該業務之準備期限,尚屬妥適。\n"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

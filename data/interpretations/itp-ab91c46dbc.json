@@ -1,0 +1,58 @@
+{
+ "id": "itp-ab91c46dbc",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1001803495號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關配合耕地之坡度超逾限度執行及後續督導疑義，復請 查照。",
+ "content": "一、復貴署100年2月8日營署綜字第1000005939號函。\n二、查貴署刻正辦理之「農業用地興建農舍辦法」修正草案第6條第2項第6款：「農業用地屬山坡地，各坵塊平均坡度超過百分之三十者，不得計入申請興建農舍建築面積計算；其平均坡度計算方式依建築技術規則建築設計施工編第二百六十二條規定辦理。」又集村興建農舍之研訂意旨，係參酌引用土地發展權移轉之觀念，使所有權人間之土地使用權利，可透過農業用地興建農舍辦法之設計機制進行交換以集中興建，達到保護農業生產環境與確保環境品質之目的。因此，集村興建農舍係將農舍興建之權利移轉至他宗農業用地上集合興建，原無興建農舍權利之土地，自不得參與集村興建農舍。爰建議貴署參考前揭修正條文第6條內容，於第8條集村農舍修正條文中對應納入。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1001803495號|有關配合耕地之坡度超逾限度執行及後續督導疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "841cee48a96ddabe0221ca6540b4198d7f31c7dd575c0df3a17751bfd3c9eae7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "日營署綜字第1000005939號函。\n二、查貴署刻正辦理之「農業用地興建農舍辦法」修正草案第6條第2項第6款:「農業用地屬山坡地,各坵塊平均坡度超過百分之三十者,"
+  }
+ ]
+}

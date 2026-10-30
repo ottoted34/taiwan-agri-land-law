@@ -1,0 +1,59 @@
+{
+ "id": "itp-b7432e4e8b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041819067號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端函為已自行興建之建築物擬申請補領農舍建築執照之疑義案，復請查照。",
+ "content": "一、復臺端104年11月11日申請書。\n二、農業用地興建農舍辦法(以下簡稱本辦法)業於104年9月4日修正發布，新增申請人應為農民之認定條件，並由申請人檢附經營計畫書，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣(市)主管機關審查確供農業使用與不影響農業生產環境及農村發展。爰有關該筆農地應確供農業使用部分，須由申請人檢附經營計畫書以供審查。\n三、至本辦法修正前，申請人應檢附農業用地作農業使用證明書以資證明確供農業使用部分，目前已不再採用，惟個案之審查係屬各直轄市、縣(市)政府權責，如臺端對於地方政府之處分有疑義者，應請縣市政府分析事由後再送本會釋疑。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041819067號|有關臺端函為已自行興建之建築物擬申請補領農舍建築執照之疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c6c358a56fb0bb3878f12d805f137b3cf6f7a151b358763230e0ae48da12f295",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復臺端104年11月11日申請書。\n二、農業用地興建農舍辦法(以下簡稱本辦法)業於104年9月4日修正發布,新增申請人應為農民之認定條件,並"
+  }
+ ]
+}

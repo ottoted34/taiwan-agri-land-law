@@ -1,0 +1,64 @@
+{
+ "id": "itp-1a2482d433",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000135339號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所詢問無自用農舍證明疑義案，復請 查照。",
+ "content": "1.復貴事務所100年6月1日宏字第1000601號函。\n2.有關「農業用地興建農舍辦法」第3條第1項各款申請人資格條件之審查，申請人需檢具1、稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。2、申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。3、申請人切結無自用農舍文件等文件，俾以審查申請人是否無自用農舍之規定。至實施建築管理前之建築物，應請建築物所有權人先辦理『建築物第一次登記』或補辦建築物『使用執照』，並於建物所有權狀或建築物使用執照用途欄註明註明用途，以釐清是否為『農舍』，合先敘明。\n3.依據農業用地興建農舍辦法第9條規定，已申請興建農舍之農業用地，直轄市、縣市主管建築機關於核發使用執照後，應將農舍坐落之地號及提供興建農舍之所有地號之清冊，送地政機關於土地登記簿上註記。其目的在於避免已申請興建農舍之農業用地，重複申請興建農舍。惟如其房屋財產歸戶查詢清單經查明其名下確無農舍，且符合說明二所敘各項審查要件者，得核發「無自用農舍證明」，得申請於其名下他筆農業用地興建農舍。\n4.農舍興建之審查及核定為直轄市、縣市政府權責，本案係涉個案認定，請洽地方政府辦理為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000135339號|貴事務所詢問無自用農舍證明疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f943a852b57d5ff8b13fd09139cf40fb540b32c592e41ba35e218c9ffec8fe39",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "貴事務所100年6月1日宏字第1000601號函。\n2.有關「農業用地興建農舍辦法」第3條第1項各款申請人資格條件之審查,申請人需檢具1、稅捐稽徵單位開具申請人之房屋財產"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "途欄註明註明用途,以釐清是否為『農舍』,合先敘明。\n3.依據農業用地興建農舍辦法第9條規定,已申請興建農舍之農業用地,直轄市、縣市主管建築機關於核發使用執照後,應將農"
+  }
+ ]
+}

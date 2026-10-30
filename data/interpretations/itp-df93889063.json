@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5598",
    "serial": null,
-   "fetched_at": "2026-10-30T09:54:20+08:00",
+   "fetched_at": "2026-10-30T11:21:33+08:00",
    "source_key": "rmis:5598"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080257540號|復花蓮政縣府太陽光電如有編號供公眾通行之農路得適用有聯外道路"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -51,5 +57,7 @@
    "kind": "extracted",
    "snippet": "8年12月30日府農保字第1080277868號函。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱農變要點)第3點第1項第7款規定,農業用地變更使用說明書應對聯外道路規"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

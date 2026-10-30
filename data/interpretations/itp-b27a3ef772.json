@@ -1,0 +1,58 @@
+{
+ "id": "itp-b27a3ef772",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0941852846號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於○○地政士事務所函詢「農業用地興建農舍辦法」第3條規定有關土地取得時點及同一直轄市、縣（市）內疑義案，復請查照。",
+ "content": "一、復 貴府94年12月26日府農務字第0940276836號函。\n二、有關申請人取得土地與戶籍登記均應滿2年之限制，其登記時間，以採持續性為準（不能合併計算）。至土地取得原因為繼承，依民法第759條規定，其起算日以繼承原因發生日為依據;其他土地取得原因（如買賣、贈與等），依民法758條規定，其起算日期以登記日為依據，本會90年7月4日農輔字第900050675號函釋有案。\n三、查「地方制度法」第3條第1項、第3項規定：「地方劃分為省、直轄市。省劃分為縣、市【以下稱縣（市）】;縣劃分為鄉、鎮、縣轄市【以下稱鄉（鎮、市）】」，故，所詢「農業用地興建農舍辦法」第3條第1項第2款「二、申請人之戶籍所在地及其農業用地，須在同一直轄市、縣（市）內，且其土地取得及戶籍登記均應滿二年者。……」，稽其意旨，係指戶籍及農業用地均在同一縣（市）或直轄市管轄範圍內；設如戶籍在高雄縣，農業用地在高雄縣之鳳山市（縣轄市）者，則可謂在同一縣內，如戶籍在高雄市(直轄市)，農業用地在高雄縣者，則謂不在同一縣（市）內。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0941852846號|關於○○地政士事務所函詢農業用地興建農舍辦法第3條規定有關土"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a1ee3d0779bc8441b19f8b684de9d19e7870bd6b43d55365857ab8e2f7628151",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "關於○○地政士事務所函詢「農業用地興建農舍辦法」第3條規定有關土地取得時點及同一直轄市、縣(市)內疑義案,復請查照。\n一、復 貴府94"
+  }
+ ]
+}

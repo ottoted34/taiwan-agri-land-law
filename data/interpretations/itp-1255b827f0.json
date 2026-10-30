@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5131",
    "serial": null,
-   "fetched_at": "2026-10-30T09:58:26+08:00",
+   "fetched_at": "2026-10-30T11:25:39+08:00",
    "source_key": "rmis:5131"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1070711145號|釋養殖用地休養及地層下陷可否認定不可抗力事由"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,16 +47,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "4",
    "kind": "extracted",
    "snippet": "查照。\n說明:\n一、復臺端107年4月17日申請書。\n二、查農業用地作農業使用認定及核發證明辦法第4條第1款規定:「農業用地符合下列情形,且無第五條所定情形者,認定為作農業使用:一、"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

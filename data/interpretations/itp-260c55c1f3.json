@@ -1,0 +1,59 @@
+{
+ "id": "itp-260c55c1f3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842686號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○擬向他人承購其原持有農業用地，被政府逕為劃定公告為水利用地，是否得以原農業用地面積申請興建農舍案，復如說明，請 查照。",
+ "content": "一、復貴署98年6月1日營署綜字第0982910228號函。\n二、有關原持有農業用地如已符合農業用地興建農舍相關規定，因政府公共建設所需被劃定公告為水利用地，致不符合最小面積限制，如該被劃定公告為水利用地未辦理徵收補償作業者，而所有權人確實有興建農舍需要，為保障所有權人既有權利前提下，得以逕為劃定河川區前之農業用地面積，個案受理興建農舍，惟經劃定公告為水利用地面積不得併同計算建築面積，已於本會98年1月8日農授水保字第0970171904號函復在案(如附件)。\n三、本案申請人新承購之農地，於購買前已被政府劃定公告為水利用地，並無需保障既有權利之虞，該承受人仍應以農業用地興建農舍辦法相關規定申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842686號|有關○○○擬向他人承購其原持有農業用地被政府逕為劃定公告為水"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8a948a7f001f2bee1ff821b106da063b5baaf194daf7382f8b171ff5dac5141d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "府劃定公告為水利用地,並無需保障既有權利之虞,該承受人仍應以農業用地興建農舍辦法相關規定申請興建農舍。"
+  }
+ ]
+}

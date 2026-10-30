@@ -1,0 +1,64 @@
+{
+ "id": "itp-7643e65562",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041814319號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍爭議淺見」事宜",
+ "content": "一、農舍係提供農民於該農地上興建輔助及便利其農事生產工作，兼具居住之構造物，而依農業發展條例第3條，農民係指直接從事農業生產之自然人。爰本次修法擬規範農舍申請人及承受人(因繼承移傳之承受人不受限制)應為農民健康保險被保險人或全民健康保險第三類被保險人，或檢附農業生產相關佐證資料由直轄市、縣(市)主管機關會同專家、學者會勘後認定者，僅係明確相關認定基準，以落實農業發展條例立法原意，非以農保或全民健保第三類為唯一資格，且未興建農舍之農業用地之移轉亦不受限制，並不會影響真正從事農業生產農民之權益。\n二、本會刻正研修農業用地興建農舍辦法，您的建議將併予研參，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041814319號|農舍爭議淺見事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ec43001dd2fbe5deeb1b6c68529cda2aa13ef03a656d4cfff777a21f94bfc299",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "該農地上興建輔助及便利其農事生產工作,兼具居住之構造物,而依農業發展條例第3條,農民係指直接從事農業生產之自然人。爰本次修法擬規範農舍申請人及承受人(因繼承移"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "制,並不會影響真正從事農業生產農民之權益。\n二、本會刻正研修農業用地興建農舍辦法,您的建議將併予研參,感謝您的來信。"
+  }
+ ]
+}

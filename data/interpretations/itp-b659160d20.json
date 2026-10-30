@@ -1,0 +1,52 @@
+{
+ "id": "itp-b659160d20",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843936號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍補辦建築執照，其農舍坐落農業用地經法院辦理假扣押登記，得否核發農民資格證明疑義案，復請查照。",
+ "content": "一、復 貴府97年7月30日屏府農務字第0970151007號函。\n二、查強制執行法第11條規定，供強制執行之財產權，其取得、設定、喪失或變更，依法應登記者，為強制執行時，執行法院應即通知該管登記機關登記其事由。又依第51條規定，實施查封後，債務人就查封物所為移轉、設定負擔或「其他有礙執行效果之行為」，對於債權人不生效力。爰以，不動產之查封，在於禁止債務人就查封物作移轉、設定負擔或其他有礙執行效果之行為。\n三、查封及假扣押，均屬強制執行法之強制執行，本案申請補辦農舍建築執照之農業用地，已受屏東地方法院辦理假扣押在案，核發農民資格證明是否屬有礙執行效果之行為，應依個案認定。如有礙執行，為避免已受假扣押之標的，處於變動狀態，建議不宜核發農民資格證明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843936號|有關農舍補辦建築執照其農舍坐落農業用地經法院辦理假扣押登記得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a7a1a33a9d99096c70a2b2d277872394ea29d81929310754b0c7d9379e1eef77",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

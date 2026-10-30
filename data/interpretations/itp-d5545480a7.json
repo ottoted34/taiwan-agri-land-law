@@ -1,0 +1,53 @@
+{
+ "id": "itp-d5545480a7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070226626號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端針對本會98年9月9日農企字第0980154022號函內容所提疑義一案，復如說明，請查照。",
+ "content": "一、依據內政部營建署107年6月28日營署建管字第1070046130號書函辦理。\n二、查本會98年9月9日農企字第0980154022號函說明二略以:「．．．農舍及其坐落用地併同移轉，共有人間移轉之農舍及其坐落用地，仍應符合建管法令規定，有一定比率之管制．．．」，上述建管法令規定係指「實施區域計畫地區建築管理辦法」第5條規定，「一定比率之管制」係指該條文規定之「建築面積不得超過其耕地面積百分之十」。\n三、另有關已興建完成之農舍與其坐落用地併同移轉，其共有人間之管制比率疑義，本會前以107年5月14日農水保字第1070712055號函副知臺端在案，亦即農地與農舍移轉時不應有所有權人不同或持分不一致之情形。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070226626號|有關臺端針對本會98年9月9日農企字第0980154022號"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5bac910309b0eae5b3af0d5e61d723ec96f84f8e6e813df40f0e954b9ed4c82f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

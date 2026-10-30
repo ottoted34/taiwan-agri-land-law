@@ -1,0 +1,38 @@
+{
+ "id": "tech-bd8b04b05619",
+ "source_key": "datamoa:D97:6606cfb0d3ace91d",
+ "title": "技術專刊 18",
+ "series": "技術專刊",
+ "issue": "18",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2341",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "18",
+  "出刊年月": "200806",
+  "期刊名稱": "番荔枝安全生產體系",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2341"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "4f394cd180a06a4e0e9de42d1ffc1323a8f151aace669ab42ab256773f849932",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

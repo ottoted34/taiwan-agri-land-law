@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5478",
    "serial": null,
-   "fetched_at": "2026-10-30T10:02:40+08:00",
+   "fetched_at": "2026-10-30T11:29:52+08:00",
    "source_key": "rmis:5478"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第1041040968號|車輛運迴轉空間面積仍須符合容許辦法第7條第1項規定之設置總面"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "04年9月9日農企字第1040727101號函釋略以,除符合申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第7條第1項但書規定情形外,農業設施興建總面積不得逾坐落農業"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

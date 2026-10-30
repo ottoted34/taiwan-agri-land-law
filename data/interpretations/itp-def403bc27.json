@@ -1,0 +1,61 @@
+{
+ "id": "itp-def403bc27",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920161439號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關函請釋示貴轄湖口鄉○○○申請該鄉○○○地號農業用地作農業使用證明書核發疑義案，復請查照。",
+ "content": "一、復 貴府92年10月14日府農務字第0920108604號函。\n二、查本會91年4月17日農企字第0910010047號函釋有關農業發展條例及相關配套法案於89年1月26日公布施行前，以多筆農地合併計算基地面積興建農舍，但配合申請興建農舍之農業用地業已移轉他人，則該農舍及其坐落之農地併同移轉時，應核發農業用地作農業使用證明書或耕地符合土地使用管制規定證明書案，係以該農舍及其坐落基地移轉時之情況，是否仍符合申請興建農舍時「建築面積不得超過其耕地面積百分之十」之要件，為審核基準。\n三、綜上，本案土地雖經共有物分割為單獨所有，該農舍與其農業用地之比例仍符合前開「建築面積不得超過其耕地面積百分之十」之規定，應得核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920161439號|有關函請釋示貴轄湖口鄉○○○申請該鄉○○○地號農業用地作農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "861641587fa6a2a306ffa7d4d4c5cafd17a8df883ec705a57f6aec2ec3e68abb",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "查本會91年4月17日農企字第0910010047號函釋有關農業發展條例及相關配套法案於89年1月26日公布施行前,以多筆農地合併計算基地面積興建農舍,"
+  }
+ ]
+}

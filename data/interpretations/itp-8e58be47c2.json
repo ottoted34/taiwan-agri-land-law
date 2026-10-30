@@ -1,0 +1,62 @@
+{
+ "id": "itp-8e58be47c2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080717208號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端建議修訂農業用地興建農舍辦法一案，復如說明，請查照。",
+ "content": "一、復臺端108年6月13日請願書。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地上興建農舍係為許可之行為，應有積極農業經營生產之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、依據農業用地興建農舍辦法(以下簡稱本辦法)申請興建農舍時，除申請人之農民身分認定以外，亦須就該筆農業用地是否確供農業使用，及農舍興建不影響農業生產環境及農村發展等事項進行認定，爰申請人應擬具經營計畫書及提供該筆農業用地自申請日往前起算至少二年之農業生產經營實績，以確認申請人確有實際從事農業事實，並確保該農舍為特許農民於農業用地上從事積極性、經濟性農業生產活動所需而興建，併予敘明。\n四、另，依據本辦法第15條規定，申請興建農舍之該筆農業用地應維持作農業使用，倘經直轄市、縣(市)政府或其他主管機關檢查農舍與其農業用地未依規定使用者，則由建築機關及區域計畫、都市計畫或國家公園主管機關依相關規定處理，並通知土地所有權人限期改正，屆期不改正者，得廢止其許可，併予敘明。\n五、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，倘有任何疑義，宜請洽所在地直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080717208號|有關臺端建議修訂農業用地興建農舍辦法一案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "adfd49f407a0819e72d835c41ddd751811b6f2e48fb767b8f919dbe4327ccf5f",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關臺端建議修訂農業用地興建農舍辦法一案,復如說明,請查照。\n一、復臺端108年6月13日請願書。\n二、查「農舍」係"
+  }
+ ]
+}

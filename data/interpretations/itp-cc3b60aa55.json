@@ -1,0 +1,66 @@
+{
+ "id": "itp-cc3b60aa55",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920114246號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋有關被徵收土地申請自有農地變更興建，不適用「政府興辦之公共建設及公益性設施」規定",
+ "content": "主旨：有關民眾自有土地因被道路擴寬工程徵收部分土地後，原土地所有權人以自有農業用地申請變更編定為建築用地，是否適用農業發展條例第十二條第四項第一款所稱「政府興辦之公共建設及公益性設施」，得免繳交農業用地變更回饋金乙案，復請查照。\n說明：\n一、復貴府九十二年三月六日府農務字第○九二○○四四八一三號函。\n二、有關因重大建設計畫需要，原有建築用地經徵收被拆除地上合法住宅使用之建築物者，依現行非都市土地使用管制規則第三十八條、第三十九條之規定，得予符合一定要件下，申請自有土地變更編定為建築用地，參照其法規意旨，係以申請建築用地興建自有住宅為主體，而農業發展條例第十二條第四項第一款所稱之「政府興辦之公共建設及公益性設施」，係以政府辦理公共建設及公益性設施為主體，兩者興辦性質與主體均未有相同，應無該條款之適用。惟該變更土地如位於公告之偏遠離島地區，仍有該條第四項第三款之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920114246號|釋有關被徵收土地申請自有農地變更興建不適用政府興辦之公共建設"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8b5222d11c8b4ad508657511fad18e8188d77d0746fdfffc20b147aa6df43224",
+ "topics": [
+  "partial_use",
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "原土地所有權人以自有農業用地申請變更編定為建築用地,是否適用農業發展條例第十二條第四項第一款所稱「政府興辦之公共建設及公益性設施」,得免繳交農業用地變更回饋金乙"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "38",
+   "kind": "extracted",
+   "snippet": ",原有建築用地經徵收被拆除地上合法住宅使用之建築物者,依現行非都市土地使用管制規則第三十八條、第三十九條之規定,得予符合一定要件下,申請自有土地變更編定為建築用地,參照其法"
+  }
+ ]
+}

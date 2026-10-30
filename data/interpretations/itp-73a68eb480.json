@@ -1,0 +1,62 @@
+{
+ "id": "itp-73a68eb480",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090204920號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局建議放寬農舍申請基地面積及農業資材室面積事宜，復如說明，請查照。",
+ "content": "一、復貴局109年2月7日新北農牧字第1090158401號函。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、次查農業發展條例89年修正後取得之農業用地申請興建農舍，自始規範農業用地面積不得小於0.25公頃之主要考量，係以政府從事農地重劃時規劃標準農地坵塊面積，復按臺灣農家經濟調查報告及農業所得資料等計算耕耘機作業效率結果，0.25公頃亦為一較理想之農業經營面積，故以一定規模之農業經營面積，始得申請興建農舍，可保有農業環境之完整性，\n係為維持優良農業生產環境之必要措施，爰申請興建農舍之該筆農業用地面積不得小於0.25公頃之規定仍應予維持。\n\n四、有關貴局建議放寬申請農業資材室面積一節，查本會前於107年6月26日以農授糧字第1070225404號函復貴局在案(諒達)。故擬興建農業資材室之農業用地面積規定，仍請依上揭規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090204920號|有關貴局建議放寬農舍申請基地面積及農業資材室面積事宜復如說明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d93e066a62dfcfcb00c879d200861ecb62c4c96703a344968c10a0b1dbf8f67c",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之事實,並非擁有農業用地即可興建農舍,先予敘明。\n\n三、次查農業發展條例89年修正後取得之農業用地申請興建農舍,自始規範農業用地面積不得小於0.25公頃"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-c71e6b28c3",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0981842340號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○等29人申請於桃園縣平鎮市○○○地號土地，以集村方式興建農舍，函請集村興建獎勵補助案，請依說明三辦理，請查照。",
+ "content": "一、復 貴府98年3月18日府農管字第0980099776號函。 二、○○○等29人申請以集村方式興建農舍，依「集村興建農舍獎勵及協助辦法」暨「集村興建農舍與公共設施申請補助程序及標準作業要點」規定，得申請農舍及公共設施補助，29戶總計得補助新台幣725萬元，其中農舍580萬元(20萬元/戶），公共設施145萬元（最高5萬元/戶）。 三、本計畫經費預算科目為「獎補助費」，請 貴府依「中央對直轄市及縣（市）政府補助辦法」規定納入預算，並請掣收據併同蓋妥章印之「集村興建農舍獎勵補助申請名冊」一份送局，以憑撥款。 四、隨文檢還集村興建農舍獎勵補助申請表及集村興建農舍計畫書，請依上開規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0981842340號|○○○等29人申請於桃園縣平鎮市○○○地號土地以集村方式興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b03531095e0aa3e379c2a1675db9ab9241f70c1f00a46fc5a86268e0c6a4a52f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "9776號函。 二、○○○等29人申請以集村方式興建農舍,依「集村興建農舍獎勵及協助辦法」暨「集村興建農舍與公共設施申請補助程序及標準作業要點」規定,得申請農舍及公共設施"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5441",
    "serial": null,
-   "fetched_at": "2026-10-30T10:02:41+08:00",
+   "fetched_at": "2026-10-30T11:29:54+08:00",
    "source_key": "rmis:5441"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第1041013028號|申請農業設施容許使用審查辦法農糧署解釋函"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "申請農業設施容許使用審查辦法-農糧署解釋函\n主旨:貴府函為○○○申請農業用地作菇類栽培場併附屬設置綠能設施容"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

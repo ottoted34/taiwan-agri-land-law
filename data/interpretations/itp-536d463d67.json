@@ -1,0 +1,52 @@
+{
+ "id": "itp-536d463d67",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991874552號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地申請興建農舍，配用農地位於山坡地範圍之執行疑義，復請查照。",
+ "content": "1.復貴府98年12月29日府農務字第0980311195號函。\n2.本會水土保持局查定作業系統係提供輔助參考之資料，執行時仍需視當地實測地形，依水土保持持法及相關法令規定繪製坡度分析坵塊圖予以判定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991874552號|有關農業用地申請興建農舍配用農地位於山坡地範圍之執行疑義復請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "588573e3256d4d1718e3271a9feed191a65e9266d093d9aa81d6a02e46591f0c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

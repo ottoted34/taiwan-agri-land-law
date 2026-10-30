@@ -1,0 +1,61 @@
+{
+ "id": "itp-c76e2f7058",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090258382號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "道路橫貫土地之申請興建農舍資格疑義",
+ "content": "主旨：有關貴府函詢道路橫貫土地之申請興建農舍資格疑義案，復如說明，請查照。\n說明：\n一、復貴府109年12月30日屏府農企字第10960308000號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、次查農業用地興建農舍辦法第9條第2項第6款規定，同一筆農業用地僅能申請一棟農舍，同條第2項第3款規定，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，扣除農舍用地面積後，供農業生產使用部分之農業經營用地面積應為「完整」區塊，且其面積不得低於該農業用地面積90%，以避免農業生產空間破碎零散。至農舍用地應臨接道路之「道路」認定，仍請依本會107年7月26日農企字第1070012917號及108年5月6日農企字第1080206692號函辦理。\n四、基於農舍審查係屬直轄市、縣(市)政府之權責，請貴府參照前開原則依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090258382號|道路橫貫土地之申請興建農舍資格疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d7f9acbdeb1000954172f8be32a451605f3c1d615b89be3dc37faf2581449cc1",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、次查農業用地興建農舍辦法第9條第2項第6款規定,同一筆農業用地僅能申請一棟農舍,同條第2項第3款規定,申請興建"
+  }
+ ]
+}

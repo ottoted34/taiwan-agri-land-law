@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5093",
    "serial": null,
-   "fetched_at": "2026-10-30T10:15:33+08:00",
+   "fetched_at": "2026-10-30T11:42:46+08:00",
    "source_key": "rmis:5093"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1000155937號|釋示農業用地變更案件緊鄰水利用地留設隔離綠帶或設施之疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -61,10 +67,12 @@
    "snippet": "0年8月26日府農務字第1000154111號函。\n二、依據「農業主管機關同意農業用地變更使用審查作業要點」第11點規定,申請變更農業用地作與農業生產性質不相容之目的事業使用者,應配置適當"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "隔離綠帶或設施。查水利用地如係作為農業生產灌溉排水用途者,按農業發展條例第3條第10款暨其施行細則第2條規定,應屬農業用地範疇,故申請變更農業用地案件如有毗鄰"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

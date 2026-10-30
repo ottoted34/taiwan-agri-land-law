@@ -1,0 +1,59 @@
+{
+ "id": "itp-547b053906",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050721868號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢臺北市士林區申請興建農舍一案，復如說明，請查照。",
+ "content": "一、復台端105年7月20日致本會及本會水土保持局2書函。\n二、農業用地上准許興建農舍，目的係提供有心經營農業者於該農地上興建具有居住兼具放置農機具需求之建築物，為實際從事農業生產所需而興建，並非持有農地者即能興建。合先敘明。\n三、本會104年10月21日農水保字第1041866479號函係補充說明農業用地興建農舍辦法(以下簡稱本辦法)第2條經營計畫書格式及第3-1條所需檢附之農業生產相關佐證資料等內容，以供作為地方政府審查農舍案件之參考依據。\n四、有關個案之審查係屬直轄市、縣(市)政府權責，爰台端如有個案申請之疑義，請逕向所在地地方政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050721868號|有關台端函詢臺北市士林區申請興建農舍一案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0c9066a6b360606aa68c332ab568f4db42a90ff84ded58bab793f296ec78bd3a",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "4年10月21日農水保字第1041866479號函係補充說明農業用地興建農舍辦法(以下簡稱本辦法)第2條經營計畫書格式及第3-1條所需檢附之農業生產相關佐證資料"
+  }
+ ]
+}

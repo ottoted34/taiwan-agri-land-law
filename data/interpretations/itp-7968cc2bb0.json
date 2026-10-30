@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5941",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:17+08:00",
+   "fetched_at": "2026-10-30T11:17:30+08:00",
    "source_key": "rmis:5941"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1120217484號|釋農業用地申請設置露營場是否需依農業主管機關同意農業用地變更"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -47,6 +53,14 @@
    "article": null,
    "kind": "extracted",
    "snippet": "釋農業用地申請設置露營場是否需依農業主管機關同意農業用地變更使用審查作業要點規定辦理審查之疑義案\n主旨:有關貴局函詢農業用地申請設置露營場是否需依農業主管機"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地變更使用審查作業要點」(以下簡稱變更要點)第16點規定,依非都市土地使用管制規則規定,作非農業使用性質之容許使用或臨時使用案件,徵詢農業主管機關審查同意時,得免"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

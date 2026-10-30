@@ -1,0 +1,58 @@
+{
+ "id": "itp-ee22404c61",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950106106號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關桃園縣復興鄉○○○地號等2筆山坡地保育區農牧用地如何申請興建農舍或農機倉庫案，請查照。",
+ "content": "一、依據內政部95年1月26日內授中辦地字第0950724516號函移來 台端95年1月23日陳情書辦理。\n二、關於山坡地保育農牧用地申請興建農舍，應依照建築技術規則建築設計施工編第262條規定辦理，另農業用地申請興建農舍之農民資格認定，悉依「農業用地興建農舍辦法」第3條第1項規定辦理; 至於申請農機倉庫設施乙節，請逕洽縣（市）主管機關。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950106106號|台端函詢有關桃園縣復興鄉○○○地號等2筆山坡地保育區農牧用地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0d639ce559ba4c9dac57f10d10eb8bdd3440e803810e4e59af82cb29785e4ae8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "262條規定辦理,另農業用地申請興建農舍之農民資格認定,悉依「農業用地興建農舍辦法」第3條第1項規定辦理; 至於申請農機倉庫設施乙節,請逕洽縣(市)主管機關。"
+  }
+ ]
+}

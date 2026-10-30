@@ -1,0 +1,58 @@
+{
+ "id": "itp-0e478acaab",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1060722405號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴事務所來函建議土地登記謄本其他登記事項，建請變更記載案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下貴事務所106年8月10日(106)榮聲字第35號函辦理。\n二、有關本案所涉農業發展條例第16條規定一事，行政院農業委員會103年11月27日農授水保字第1030237929號函致內政部表達意見有案，檢附該函供參。\n三、另有關土地登記謄本其他登記事項以及涉及農業用地興建農舍法第12條，已申請興建農舍之農業用地，未經解除套繪管制不得辦理分割等相關事項，因屬內政部權管，如有相關疑義請逕向該部洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1060722405號|有關貴事務所來函建議土地登記謄本其他登記事項建請變更記載案復"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "003a38feea7dcd1f0685eff99eefd5e6844937469dea85df55a91a12379d1c32",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "8月10日(106)榮聲字第35號函辦理。\n二、有關本案所涉農業發展條例第16條規定一事,行政院農業委員會103年11月27日農授水保字第1030237929號"
+  }
+ ]
+}

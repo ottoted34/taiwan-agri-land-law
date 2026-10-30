@@ -1,0 +1,59 @@
+{
+ "id": "itp-9290a35578",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100204297號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "集村農舍之配合耕地被徵收後，得否以地換地補足疑義",
+ "content": "一、復貴處 110年1月29日北區字第 1108010656號函。\n二、經查以集村方式興建農舍，應符合農業用地興建農舍辦法 (以下簡稱本辦法 )第 11條規定，且就貴處所詢事項，本會並以109年9月21日農企字第 1090238179號函及 110年2月1日農企字第 110202054號函 (諒達 )回復處理原則在案。基於農舍辦法相關規定，考量原所有權人之權益保障等事宜，倘有農業經營事實且符合本辦法之條件，得洽新竹縣政府提供協處，以完善拆遷計畫。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100204297號|集村農舍之配合耕地被徵收後得否以地換地補足疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d3bc04de62ce408832a0cedbfc46908b47ac8e7b45de946c585b82c6a655e275",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "108010656號函。\n二、經查以集村方式興建農舍,應符合農業用地興建農舍辦法 (以下簡稱本辦法 )第 11條規定,且就貴處所詢事項,本會並以109年9月21"
+  }
+ ]
+}

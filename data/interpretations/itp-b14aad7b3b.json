@@ -1,0 +1,52 @@
+{
+ "id": "itp-b14aad7b3b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970166606號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端陳情有關本會97年10月21日農授水保字第0971843132號函釋，無端使民眾喪失法律保障之權益，且違反大法官解釋釋字第287號函案，復請查照。",
+ "content": "1.依據監察院97年11月18日（97）院台業貳字第0970708571號函辦理，兼復台端97年9月12日陳訴理由補充書。 2.台端申請於花蓮縣壽豐鄉○○○地號土地興建農舍遭否准，經多次陳情未見相關單位妥適處理乙節，本會97年10月16日農授水保字第0970157020號函復有案，不另贅述。 3.查大法官釋字第287號解釋意旨略以：「行政主管機關就行政法規所為之釋示，係闡明法規之原意，固應自法規生效之日起有其適用。惟在後之釋示如與在前之釋示不一致時，在前之釋示並非當然錯誤，於後釋示發布前，依前釋示所為之行政處分已確定者，除前釋示確有違法之情形外，為維持法律秩序之安定，應不受後釋示之影響。…」，由於本案並無新的函示頒布，僅通知各縣（市）政府受理相關案件後，暫不予處分，並無涉於任何已「確定」之案件，亦無台端所指「『暫不處分』是暫停受理所有相關案件」之情事。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970166606號|台端陳情有關本會97年10月21日農授水保字第0971843"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bae3d60fa1f8ca89eacc16b507d2dd5b464024c97f656c1050f5344c162ac8e3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

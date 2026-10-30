@@ -1,0 +1,60 @@
+{
+ "id": "itp-1cf948d7f3",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960158403號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢以集村方式興建農舍，應有道路通達之道路究應申請農路或私設通路之疑義案，復請查照。",
+ "content": "一、依據內政部營建署96年10月17日營署綜字第09600535942號函辦理，並復貴府96年9月7日府農管字第0960294474號函辦理。\n二、查93年3月5日修正後之非都市土地使用管制規則第6條附表一規定，農牧用地容許使用項目-私設通路，「限於以『集村方式興建農舍』者及甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。」有關內政部營建署93年5月4日營署綜字第0930022761號書函（附件1）說明二之內容，案經該署96年10月17日營署綜字第09600535942號函（附件2）說明略以：「集村興建農舍坐落之建築基地得以私設通路連接建築線據以申請建築，該通路…應修正為依現行前開規則規定農牧用地申請『私設通路』容許使用項目辦理。」爰以，以集村方式興建農舍，通達之道路應以「私設通路」辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0960158403號|有關貴府函詢以集村方式興建農舍應有道路通達之道路究應申請農路"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5b5ff54d64749a28527eda26a8c45c5cc64845e2efbba112e32cfe867abff7f4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "0960294474號函辦理。\n二、查93年3月5日修正後之非都市土地使用管制規則第6條附表一規定,農牧用地容許使用項目-私設通路,「限於以『集村方式興建農舍』者及甲種"
+  }
+ ]
+}

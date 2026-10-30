@@ -1,0 +1,39 @@
+{
+ "id": "tech-37c652fe6d67",
+ "source_key": "datamoa:809:7e1a386c2d468d59",
+ "title": "研究彙報",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "羅國偉\n李窓明\n張志展",
+ "date": "2012-12",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "72",
+  "出版日期": "101年12月",
+  "內容": "草苺新品種桃園4號之育成",
+  "作者": "羅國偉\n李窓明\n張志展",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/72-1.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T11:57:45+08:00"
+  }
+ ],
+ "content_hash": "d3e9a5267c4979f60e1fae76f983ab543968dd0e08bb8cb3f21955ae975097bf",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

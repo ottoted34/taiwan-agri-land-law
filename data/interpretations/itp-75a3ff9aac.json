@@ -1,0 +1,66 @@
+{
+ "id": "itp-75a3ff9aac",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930157989號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關函請釋示「申請興建農舍之申請人資格條件審查表」內「四、申請人是否無自用農舍者」之認定依據疑義案，復請查照。",
+ "content": "一、復 貴府93年12月2日北府農牧字第0930785538號函。\n二、在放寬農地移轉及分割限制後，如同意農地所有權人任意在農地上零亂興建農舍，將使農業生產環境遭受嚴重破壞，因此，農業發展條例89年修正時，對農業用地興建農舍係採從嚴規定，明定「無自用農舍者」始得申請興建農舍，並於旨揭審查表之審查項目中明列，以落實執行。\n三、又「按建物使用執照上登記為住宅使用之房舍，．．．並不得視為農舍；惟本案領有使用執照之房舍，如有變更使用之需要，且符合．．．及農業發展條例有關申請興建農舍之規定，自得依建築法第73條執行要點規定變更建築物為使用執照所載用途為農舍。」內政部營建署90年4月25日90營署都字第018568號函復貴府在案。\n四、至旨揭審查表備註「（一）實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定該房屋為農舍。」之目的，係採前開從嚴規範之意旨，如申請人業有合法房屋可供居住，即不宜核准其另再興建自用農舍，宜依前開內政部營建署函釋規定辦理。為免造成誤解，前開審查表備註（一）文字，本會將另案修正。\n五、綜上所述，本案仍請依內政部營建署前開函釋規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930157989號|有關函請釋示申請興建農舍之申請人資格條件審查表內四申請人是否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a64e8171c5c37dabe50a40ccba30e24a96a995299c06284bb5a0f35fbf54f427",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "意在農地上零亂興建農舍,將使農業生產環境遭受嚴重破壞,因此,農業發展條例89年修正時,對農業用地興建農舍係採從嚴規定,明定「無自用農舍者」始得申請興建農"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "73",
+   "kind": "extracted",
+   "snippet": "要,且符合...及農業發展條例有關申請興建農舍之規定,自得依建築法第73條執行要點規定變更建築物為使用執照所載用途為農舍。」內政部營建署90年4月25日9"
+  }
+ ]
+}

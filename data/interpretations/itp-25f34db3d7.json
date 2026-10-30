@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5221",
    "serial": null,
-   "fetched_at": "2026-10-30T09:58:28+08:00",
+   "fetched_at": "2026-10-30T11:25:40+08:00",
    "source_key": "rmis:5221"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1070214505號|釋都市計畫農業區整筆均作農路水路應依都市計畫法規定且須審核合"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "f57624c73f5586e0ebb3fa58ca2de91ecf47a54aea42bea2d7c1c5461b37074a",
  "topics": [
@@ -45,22 +61,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋都市計畫農業區整筆均作農路、水路應依都市計畫法規定且須審核合理性必要性\n主旨:有關貴縣西螺鎮公所函詢農業用地整筆均為作農路及農"
+  },
+  {
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "請不課徵土地增值稅及遺產稅、贈與稅等賦稅減免優惠。本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。農業用地上施設有與農業經營不可分離之農路或農田灌溉、排水設施,應依"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "7",
    "kind": "extracted",
    "snippet": "過60%,休閒農業設施之建蔽率不得超過20%。...」又依據「申請農業用地作農業設施容許使用審查辦法」第7條第2項第2款規定,依都市計畫法申請農業產銷必要設施,不受第1項「不得超過坐落該農"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

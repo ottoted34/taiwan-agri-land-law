@@ -1,0 +1,64 @@
+{
+ "id": "itp-5d130565b8",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0991875147號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "核釋「農業用地興建農舍辦法」第3條第1項第2款所定土地取得應滿二年，其共有農業用地於「農業發展條例」八十九年一月二十八日修正施行後取得，且於九十八年七月二十三日以後分割者，依民法第八百二十四條之一規定，其土地取得時點應以土地完成分割登記日起算。",
+ "content": "",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0991875147號|核釋農業用地興建農舍辦法第3條第1項第2款所定土地取得應滿二"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "20f16eae824c7228b1b3950c42c5b6a294980daafef8d8e2dde805e61194817d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "核釋「農業用地興建農舍辦法」第3條第1項第2款所定土地取得應滿二年,其共有農業用地於「農業發展條例」八十九年一月二"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法」第3條第1項第2款所定土地取得應滿二年,其共有農業用地於「農業發展條例」八十九年一月二十八日修正施行後取得,且於九十八年七月二十三日以後分割者,依民法第"
+  }
+ ]
+}

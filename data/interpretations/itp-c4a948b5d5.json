@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5951",
    "serial": null,
-   "fetched_at": "2026-10-30T09:51:38+08:00",
+   "fetched_at": "2026-10-30T11:18:51+08:00",
    "source_key": "rmis:5951"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1100257317號|有關貴府函詢存在違規使用情形之共有農業用地申請農業設施容許使"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "共有人之共有部分倘有未經申請之農業設施,則應輔導其他共有人依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)之規定提出申請,以符合土地使用管制。又該整筆農業用地倘有違反"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

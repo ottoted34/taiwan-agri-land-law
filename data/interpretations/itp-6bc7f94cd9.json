@@ -1,0 +1,105 @@
+{
+ "id": "itp-6bc7f94cd9",
+ "doc_class": "interpretation",
+ "docno": "農企字第890156715號",
+ "date": "2000-11-03",
+ "date_text": "89/11/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋國家公園範圍內農業用地變更使用繳交回饋金案",
+ "content": "一、查「農業用地變更回饋金撥繳及分配利用辦法」係報奉行政院八十九年八月一日台八十九農字第二二八九六號函同意，由本會據以發布。有關該辦法草案於行政院協商會議之修正文字，依據行政院八十九年五月二十四日台八十九農字第一四七九四號函附研商會議紀錄（該函同時函送貴署，諒達），即已記載現行辦法中所敘之文字，未如貴署來函說明所稱與上開會議紀錄不符之情事，合先敘明。\n二、另依據區域計畫法施行細則第十二條第二項規定，依國家公園法劃定之國家公園土地，依國家公園計畫管制之；是以國家公園範圍內之農業用地，其變更使用涉及回饋金之收取作業乙節，當配合國家公園法規定之審核程序與規定辦理。經同意變更為非農業使用者，應請貴署所屬國家公園管理處依前開辦法第五條規定，於同意變更之同時，要求申請人將所應繳納之回饋金，至各行庫繳納至中央農業主管機關所設置之農業發展基金（「行政院農業委員會農業發展基金」，其專戶為中央銀行國庫局第二六六六八七帳戶）。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5216",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:02+08:00",
+   "source_key": "rmis:5216"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890156715號|釋國家公園範圍內農業用地變更使用繳交回饋金案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0070031",
+    "law_name": "區域計畫法施行細則",
+    "article": "12",
+    "amended_on": "2001-05-04",
+    "history": "中華民國九十年五月四日內政部（90）台內營字第 9083494 號令修正發布第 2、10～15 條條文；並增訂第 16-1～16-4 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0070031",
+    "law_name": "區域計畫法施行細則",
+    "article": "12",
+    "amended_on": "2013-10-23",
+    "history": "中華民國一百零二年十月二十三日內政部台內營字第 1020320943 號令修正發布全文 25 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "dd0721b6429ce29a61745642841bb3a2e1d920b488d46a5038e734e084434e51",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋國家公園範圍內農業用地變更使用繳交回饋金案\n一、查「農業用地變更回饋金撥繳及分配利用辦法」係報奉行政院八十九年八月一日台八十九農字第二二八九六號函同意,由本會據以發布。有"
+  },
+  {
+   "law_id": "D0070031",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "來函說明所稱與上開會議紀錄不符之情事,合先敘明。\n二、另依據區域計畫法施行細則第十二條第二項規定,依國家公園法劃定之國家公園土地,依國家公園計畫管制之;是以國家公園範"
+  }
+ ]
+}

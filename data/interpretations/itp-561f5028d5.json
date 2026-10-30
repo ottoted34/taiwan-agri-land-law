@@ -1,0 +1,58 @@
+{
+ "id": "itp-561f5028d5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041811014號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "家父贈予農地，想興建農舍，有無需遷入當地戶籍滿兩年之限制。",
+ "content": "89年1月28日農業發展條例修正施行以後，無論係買賣、贈予或繼承取得農地，申請興建農舍者，其戶籍所在地與農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041811014號|家父贈予農地想興建農舍有無需遷入當地戶籍滿兩年之限制"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ab41b858c1716ed5884f2bc6fe96bd1fd5843122d92ada82fbbbc4d43e6b404d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建農舍,有無需遷入當地戶籍滿兩年之限制。\n89年1月28日農業發展條例修正施行以後,無論係買賣、贈予或繼承取得農地,申請興建農舍者,其戶籍所在地與農業"
+  }
+ ]
+}

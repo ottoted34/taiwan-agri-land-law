@@ -1,0 +1,58 @@
+{
+ "id": "itp-112173e07f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041817892號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍法請陳主委堅持下去，為臺灣後代留下生機。",
+ "content": "農業用地興建農舍辦法業於9月6日修正生效，僅明確規範農民資格並未逾越母法。本會將努力和委員溝通，爭取支持，希望農地農用政策能具體實施，您的支持是本會堅持及前進的動力，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041817892號|農舍法請陳主委堅持下去為臺灣後代留下生機"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a3f12d13a0772ea5dc3be5c8b21b9657f02d522d47beec92f527c033fc05f5b2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍法請陳主委堅持下去,為臺灣後代留下生機。\n農業用地興建農舍辦法業於9月6日修正生效,僅明確規範農民資格並未逾越母法。本會將努力和委員溝通,爭取"
+  }
+ ]
+}

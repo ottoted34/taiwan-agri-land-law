@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5035",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:11+08:00",
+   "fetched_at": "2026-10-30T11:38:13+08:00",
    "source_key": "rmis:5035"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1020237859號|臺北都會大眾捷運系統萬大中和樹林線第一期工程變更都市計畫作業"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2005",
+    "law_id": "M0020017",
     "law_name": "農業主管機關受理申請許可案件及核發證明文件收費標準",
     "article": "3",
     "amended_on": "2020-07-03",
-    "history": "中華民國109年07月03日農企字第1090012848A號令修正發布第3條、第4條文",
+    "history": "中華民國一百零九年七月三日行政院農業委員會農企字第 1090012848A號令修正發布第 3、4 條條文",
     "relation_kind": "extracted"
    }
   ]
@@ -56,7 +62,19 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "22971260號函。\n二、查農業用地變更使用之審查,係依循區域計畫法與都市計畫法等土地變更程序辦理,農業主管機關則依據農業發展條例第10條規定,對農"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "60號函。\n二、查農業用地變更使用之審查,係依循區域計畫法與都市計畫法等土地變更程序辦理,農業主管機關則依據農業發展條例第10條規定,對農業用地變更使"
+  },
+  {
+   "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
    "snippet": "區域計畫法與都市計畫法等土地變更程序辦理,農業主管機關則依據農業發展條例第10條規定,對農業用地變更使用應不影響農業生產環境之完整等事項提供審查意見,本會並訂有"
@@ -68,10 +86,12 @@
    "snippet": "使用應不影響農業生產環境之完整等事項提供審查意見,本會並訂有「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱變更作業要點)作為農業主管機關審查之依據。\n三、依據變更作業要點第12"
   },
   {
-   "law_id": "RMIS-2005",
+   "law_id": "M0020017",
    "article": "3",
    "kind": "extracted",
    "snippet": "綠帶或設施。\n五、另本案是否應收取農業用地變更審查費一節,查農業主管機關受理申請許可案件及核發證明文件收費標準第3條第2款規定,依農業發展條例第10條規定審查同意農業用地變更使用案件,應收取費用,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

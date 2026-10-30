@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5116",
    "serial": null,
-   "fetched_at": "2026-10-30T10:13:26+08:00",
+   "fetched_at": "2026-10-30T11:40:38+08:00",
    "source_key": "rmis:5116"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020710875號|公司法人持有農地得否申請核發農業用地作農業使用證明書疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -50,16 +56,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "37",
    "kind": "extracted",
    "snippet": "查照。\n說明:\n一、復 台端102年4月2日申請書。\n二、查農業發展條例第37條第1項及第2項分別明定:「作農業使用之農業用地移轉與自然人時,得申請不課徵土地增"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

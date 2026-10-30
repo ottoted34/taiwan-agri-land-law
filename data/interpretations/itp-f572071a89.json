@@ -1,0 +1,58 @@
+{
+ "id": "itp-f572071a89",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990173469號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問農舍如何補辦申請手續，復請查照。",
+ "content": "1.復台端99年10月29日來函。\n2.「農業用地興建農舍辦法」第3條第1項第3款規定：「申請興建農舍之該宗農業用地...。」，此所稱「該宗」農業用地，係指土地登記之單一筆農業用地而言。台端如欲補辦農舍申請手續，仍須符合現行相關規定，即宜先合併3筆土地為1筆，以符相關規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990173469號|有關台端詢問農舍如何補辦申請手續復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6fb6f1af3fde0ee0286bce194434d3a72d83d46660f08261c246dd1125dafec4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "請手續,復請查照。\n1.復台端99年10月29日來函。\n2.「農業用地興建農舍辦法」第3條第1項第3款規定:「申請興建農舍之該宗農業用地...。」,此所稱「該宗」農業用地"
+  }
+ ]
+}

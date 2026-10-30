@@ -1,0 +1,70 @@
+{
+ "id": "itp-6db9c9b99a",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0960104236號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○於台北市文山區○○○地號土地搭建違建案，復請查照。",
+ "content": "1.復 貴府96年1月12日府授建三字第09630041400號及96年1月18日府授建三字第09630213200號函。\n2.依「農業發展條例」及「農業用地興建農舍辦法」規定申請興建農舍，其條件依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依「農業用地興建農舍辦法」第2條規定申請興建農舍，不受申請興建農舍需有最低面積、土地取得應滿一定期間……等規定限制，以保障原擁有農業用地之農民權益;在「農業發展條例」上開修正公布生效日後取得之農業用地，申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理，合先敘明。\n3.本案○○○92年間贈與取得之土地面積未達0.25公頃，不符合申請興建農舍資格，縱使日後與相毗鄰因繼承取得土地辦理合併，申請人資格條件仍應符合「農業用地興建農舍辦法」第3條第1項規定。\n4.本案違建物是否屬程序違建，涉及建築管理業務，屬內政部職掌。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0960104236號|○○○於台北市文山區○○○地號土地搭建違建案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "46211f46c3f799be7ddc6f03229e70aea8807d28505287c678f3f379a51dc16a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年1月18日府授建三字第09630213200號函。\n2.依「農業發展條例」及「農業用地興建農舍辦法」規定申請興建農舍,其條件依農業用地取得日期之不同而有所"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "8日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地,得依「農業用地興建農舍辦法」第2條規定申請興建農舍,不受申請興建農舍需有最低面積、土地取得應滿一定期間......"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "條例」上開修正公布生效日後取得之農業用地,申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理,合先敘明。\n3.本案○○○92年間贈與取得之土地面積未達0.25公"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-64301ed852",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050244707號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢○○○擬於南投縣埔里鎮○○○地號申請興建農舍農民資格審查疑義一案，復如說明，請查照。",
+ "content": "一、奉行政院農業委員會交下貴府105年11月14日府農務字第1050235901號函辦理。\n二、有關經營計畫書格式項目二：既有農業經營現況及規模之認定，貴府得依轄內農業生產環境條件、區域特色、自治規定及個案情形予以審查，並得視情況酌參行政院農業委員會104年10月21日農水保字第1041866479號函說明三臚列有關本辦法第3之1條之農業生產佐證資料項目請申請人提出，並依事實予以採認。其中(七)其他從事農業生產事實之證明文件，得就各不同狀況由縣府依所轄之狀況予以訂定相關審查基準或原則。\n三、有關農舍之個案審查屬直轄市、縣（市）政府之權責，仍請貴府依上開原則本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1050244707號|有關貴府函詢○○○擬於南投縣埔里鎮○○○地號申請興建農舍農民"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9f7e034dab1c9bdb7d74840dbac669b770ff48a2f1d5d7802918f40cb544d425",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

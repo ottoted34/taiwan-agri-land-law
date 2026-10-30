@@ -1,0 +1,52 @@
+{
+ "id": "itp-4b392ad5f5",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061810630號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢農業設施作容許使用之「農路」是否可作為興建農舍通行道路疑義案，復如說明，請查照。",
+ "content": "一、復貴府106年9月11日府農農字第1060176290號函。\n二、本案涉及興建農舍經營計畫書格式「農舍用地應矩形配置於農地之地界線側及臨接道路」之道路定義疑義，本局刻正審慎研議中，俟獲具體結論後另行函復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061810630號|有關貴府函詢農業設施作容許使用之農路是否可作為興建農舍通行道"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b5f957bdc724334e30cdf1baa81259c188a2d2fd150a6865c02169a949ec4e7c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-81c49b28ac",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080218805號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "申請農業用地作農業設施容許使用審查辦法第30條綠能設施坐落之土地倘毗連集中，其隔離緩衝空間得以綠能設施實際坐落土地範圍共同劃設",
+ "content": "主旨：有關依「申請農業用地作農業設施容許使用審查辦法」第30條申請免與農業經營使用相結合之綠能設施審查疑義案，復如說明，請查照。\n說明：\n一、復貴府108年5月6日屏府農企字第10816379400號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第30條規定申請之綠能設施，如為相鄰數筆農地，綠能設施應以該相鄰數筆農地整體規劃配置，其設施總面積應合併計算，且不得超過申請設施所坐落之農業用地土地總面積70%。又，為避免影響鄰地之農業使用與生產環境，其與毗鄰農業用地應留設1.5公尺以上之隔離緩衝空間，至綠能設施坐落之土地倘具毗連集中於提出申設時，上開隔離緩衝空間之配置，自得以綠能設施實際坐落土地範圍共同劃設。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080218805號|申請農業用地作農業設施容許使用審查辦法第30條綠能設施坐落之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "132d66c70d1b919d2964068c07fb0c079da7c0198c059ff2d1b3aec24d06bccd",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "申請農業用地作農業設施容許使用審查辦法第30條綠能設施坐落之土地倘毗連集中,其隔離緩衝空間得以綠能設施實際坐落土地範圍共同劃設"
+  }
+ ]
+}

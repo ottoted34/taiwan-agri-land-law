@@ -1,0 +1,67 @@
+{
+ "id": "itp-41951f5b4d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0940155516號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢依「非都市土地使用管制規則」規定劃定為河川區並編定為農牧用地，得否申請興建農舍案，復請查照。",
+ "content": "一、依據內政部營建署94年10月12日營署綜字第0942918132號函辦理，復 台端94年9月28日申請函。\n二、依「非都市土地使用管制規則」規定劃定為河川區並編定為農牧用地，擬申請興建農舍乙節，查使用地屬河川區者，其容許使用項目之使用應經河川管理機關之同意。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0940155516號|台端函詢依非都市土地使用管制規則規定劃定為河川區並編定為農牧"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-f6073e8e58",
+    "by_docno": "農授水保字第0991874935號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "2.本會94年10月18日農授水保字第0940155516號書函及94年11月4日農授水保字第0941825009號函與上開規則不符,應停止適用"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3deec7171620a610d894ea6d5b01410067d8d3e829ff1d9bb64ba6d268987ecc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台端函詢依「非都市土地使用管制規則」規定劃定為河川區並編定為農牧用地,得否申請興建農舍案,復請查照。\n一、依據內政部"
+  }
+ ]
+}

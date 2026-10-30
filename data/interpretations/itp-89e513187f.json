@@ -1,0 +1,64 @@
+{
+ "id": "itp-89e513187f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981807086號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端與葉君96年間取得共有農業用地，98年間辦理分割為3筆，分割後面積與共有前之土地持分面積誤差在1平方公尺以內，其申請興建農舍取得時點計算基準疑義案，復請查照。",
+ "content": "一、復 台端98年4月1日申請書。\n二、農業發展條例修正施行後取得之共有農地，經分割為單筆土地，其所有權及面積未更動者，取得之時點計算得由分割前原登記日期起算，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理本會96年8月16日農水保字第0961848801號書函參照。\n三、另依案附劉君分割後面積計6637平方公尺，其分割符合上開條例第16條規定再辦理分割者，屬權屬不變動之分割，其土地取得時點之時點計算基準以原取得時點為計算基準（參照本會97年11月26日農授水保字第0971844308號函）。\n四、有關辦理共有物分割後，若經查明純屬土地測量與分割作業之容許誤差者，其申請興建農舍，得以分割後之面積及原土地取得時點為計算基準。\n本案係屬個案，請洽縣（市）政府主管機關本於權責依事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981807086號|台端與葉君96年間取得共有農業用地98年間辦理分割為3筆分割"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bafe392f194ab594aef5f25b2bad310c6a3988b9074bac3507146f48343e510b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "疑義案,復請查照。\n一、復 台端98年4月1日申請書。\n二、農業發展條例修正施行後取得之共有農地,經分割為單筆土地,其所有權及面積未更動者,取得之時點計"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "者,取得之時點計算得由分割前原登記日期起算,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理本會96年8月16日農水保字第0961848801號書函參照。\n三、"
+  }
+ ]
+}

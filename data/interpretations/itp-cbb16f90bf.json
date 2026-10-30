@@ -1,0 +1,80 @@
+{
+ "id": "itp-cbb16f90bf",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940141062號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴會就農業設施之申辦釋疑案。",
+ "content": "主旨：有關貴會就農業設施之申辦釋疑乙案，復如說明，請查照。\n說明：\n一、復貴會94年8月2日(94)投羊協字第014號函。\n二、依「農業用地容許作農業設施使用審查辦法」第3條規定，農業設施之種類包括農作產銷、林業、水產養殖運銷、畜牧及休閒農業設施，而為避免造成上開5大種類農業設施彼此之經營計畫書關係不明確或不一致，故上開辦法第10條、第12條、第15條、第17條及第19條，分別明定其經營計畫書應敘明之事項或應依休閒農業輔導管理辦法規定提出申請，並無申辦得以兼具各項用途及功能之農業設施。由於來函並未說明個案事實及具體案情，故如仍有法令適用等疑義，爰請依非都市土地使用管制規則及上開辦法等相關規定，洽請土地所在之直轄市、縣(市)政府協助瞭解。\n三、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故農業用地申請設置農業等設施，均需與農業生產或農業使用相結合，如設施申請目的係屬非農業使用，農業主管機關應依上開辦法第8條規定不予同意辦理。因此，貴會另詢於農地上搭設簡易遮蔭遮雨設施，應非屬農業使用之必要性設施。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940141062號|有關貴會就農業設施之申辦釋疑案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "25624afa1faf497a46551d88d3c1cf7cbfb89f05fac8f51b37ccafe6ea081deb",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "、復貴會94年8月2日(94)投羊協字第014號函。\n二、依「農業用地容許作農業設施使用審查辦法」第3條規定,農業設施之種類包括農作產銷、林業、水產養殖運銷、畜牧及休閒農業設施,而為避"
+  },
+  {
+   "law_id": "M0090014",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、第17條及第19條,分別明定其經營計畫書應敘明之事項或應依休閒農業輔導管理辦法規定提出申請,並無申辦得以兼具各項用途及功能之農業設施。由於來函並未說明個案事實"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "函並未說明個案事實及具體案情,故如仍有法令適用等疑義,爰請依非都市土地使用管制規則及上開辦法等相關規定,洽請土地所在之直轄市、縣(市)政府協助瞭解。\n三、依農業發"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "關規定,洽請土地所在之直轄市、縣(市)政府協助瞭解。\n三、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  }
+ ]
+}

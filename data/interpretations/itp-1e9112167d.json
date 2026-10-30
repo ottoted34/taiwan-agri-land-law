@@ -1,0 +1,58 @@
+{
+ "id": "itp-1e9112167d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030701800號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地扣除既成道路面積後，不足申請興建農舍最低面積之限制，能否申請興建農舍一案，復請查照。",
+ "content": "一、復台端103年1月10日聲請函。\n二、農業用地因現有道路通過，但尚未分割，該筆土地扣除道路面積後，未達0.25公頃，得由縣市主管機關依個案事實審認受理興建農舍之申請，提出申請之農業用地，仍應依「農業用地興建農舍辦法」第12條規定註記列管，且道路用地不得提供農舍興建計算農舍用地面積佔農業用地面積之比例。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1030701800號|有關農業用地扣除既成道路面積後不足申請興建農舍最低面積之限制"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b71cb15c327c2c1a9335b707d83defbabf08921df3c9accbbbca26c240b43338",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "依個案事實審認受理興建農舍之申請,提出申請之農業用地,仍應依「農業用地興建農舍辦法」第12條規定註記列管,且道路用地不得提供農舍興建計算農舍用地面積佔農業用地面積之比例。"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "id": "itp-0afd6f07aa",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950174186號",
+ "date": "2007-01-04",
+ "date_text": "96/1/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋非都市土地農業用地申請變更遊憩用地時，其部分用地依法規定應變更編定為國土保安用地者，是否得免繳交農業用地變更回饋金之疑義案。",
+ "content": "主旨：有關　貴公司函詢非都市土地農業用地申請變更遊憩用地時，其部分用地依法規定應變更編定為國土保安用地者，是否得免繳交農業用地變更回饋金之疑義案，復請　查照。\n說明：\n一、復　貴公司95年12月28日○○字第○○○○○號函。\n二、依農業用地變更回饋金撥繳及分配利用辦法第2條第2款規定，因開發遊樂區申請變更編定為非都市土地遊憩用地者，以變更編定面積40%與獲准變更編定當期公告土地現值乘積12%為計算基準。爰以，非都市土地農業用地申請變更遊憩用地，應依上開規定核算農業用地變更回饋金；另變更為遊憩用地者，應無再同時變更為國土保安用地之情事，先予敘明。\n三、按農業發展條例施行細則第2條第2款規定，國土保安用地係屬農業用地範圍，開發遊樂區範圍涉及農業用地變更為國土保安用地，倘其依法審核仍作農業使用時，而無涉農業用地變更作非農業使用者，應無「農業用地變更回饋金撥繳及分配利用辦法」之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5140",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:29+08:00",
+   "source_key": "rmis:5140"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950174186號|釋非都市土地農業用地申請變更遊憩用地時其部分用地依法規定應變"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "2",
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "0b3bab9757876aa793fbe5a38236f46d677e82865fbdfdf7a3da6c690988df22",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "復 貴公司95年12月28日○○字第○○○○○號函。\n二、依農業用地變更回饋金撥繳及分配利用辦法第2條第2款規定,因開發遊樂區申請變更編定為非都市土地遊憩用地者,以變更編定面積40%"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "地者,應無再同時變更為國土保安用地之情事,先予敘明。\n三、按農業發展條例施行細則第2條第2款規定,國土保安用地係屬農業用地範圍,開發遊樂區範圍涉及農業用地變更為國土保"
+  }
+ ]
+}

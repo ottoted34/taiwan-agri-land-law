@@ -18,17 +18,114 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5348",
    "serial": null,
-   "fetched_at": "2026-10-30T10:10:31+08:00",
+   "fetched_at": "2026-10-30T11:37:33+08:00",
    "source_key": "rmis:5348"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020240577號|農舍供他人作營利事業登記得否核發農用證明疑義釋示"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2014-12-31",
+    "history": "中華民國一百零三年十二月三十一日內政部內授中辦地字第 1031303711 號令修正發布第 2、3、9、17、30-1～30-3、43、49-1、52-1、56 條條文及第 6 條條文之附表一、第 27 條條文之附表三；增訂第 30-4、31-1、31-2 條條文；並刪除第 44-2 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2015-12-31",
+    "history": "中華民國一百零四年十二月三十一日內政部內授中辦地字第 1041311398 號令修正發布第 6、35 條條文及第 27 條附表三；並增訂第 6-2、6-3 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2016-11-28",
+    "history": "中華民國一百零五年十一月二十八日內政部內授中辦地字第 1051308935 號令修正發布第 6-3、9、11、13、16、21、22～23-1、26、31-1、31-2、35、37、49-1、56 條條文及第 6 條附表一、第 6-1 條附表五、第 17 條附表二、二之一、第 28 條附表四；並增訂第 16-1、21-",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2018-03-19",
+    "history": "中華民國一百零七年三月十九日內政部內授中辦地字第 1071301740號令修正發布第 6、26、29、30、30-1 條條文；增訂第 30-5 條條文；並刪除第 56 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2018-08-14",
+    "history": "中華民國一百零七年八月十四日內政部內授中辦地字第 1071304838 號令修正發布第 6 條附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2019-02-14",
+    "history": "中華民國一百零八年二月十四日內政部內授中辦地字第 1080260590 號令修正發布第 35、52-1 條條文及第 6 條附表一；並增訂第 46-1 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2021-07-15",
+    "history": "中華民國一百十年七月十五日內政部台內地字第 1100263579 號令修正發布第 9、30、52-1 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2022-07-20",
+    "history": "中華民國一百十一年七月二十日內政部台內地字第 1110264095 號令修正發布第 40 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2024-03-29",
+    "history": "中華民國一百十三年三月二十九日內政部台內國字第 1130802987 號令修正發布第 6 條條文之附表一；並增訂第 30-7、30-8 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "43aadde20afa81491c981a6a6a81104fc66cec86ccc6b9708c1394995145b520",
  "topics": [
@@ -42,22 +139,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "2年11月22日府農務字第1020220543號函。\n二、依農業發展條例第18條規定,強調「無自用農舍」而需興建者,得依相關規定申請辦 理,爰農舍應以「自用」為"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "建者,得依相關規定申請辦 理,爰農舍應以「自用」為原則。復依非都市土地使用管制規則第6條附表一規定,農舍為農牧用地之容許使用項目之一,其許可使用細目包括農產品之零售、農"
+  },
+  {
+   "law_id": "M0020015",
    "article": "5",
    "kind": "extracted",
    "snippet": "記之疑義,仍請依前開原則,視個案實情審認核處,如有未符者,依農業用地作農業使用認定及核發證明辦法第5條第1款規定,農舍未依核定用途使用者,不得認定為作農業使用。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

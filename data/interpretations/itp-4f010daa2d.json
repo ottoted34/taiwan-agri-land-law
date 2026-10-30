@@ -1,0 +1,64 @@
+{
+ "id": "itp-4f010daa2d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990168888號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關本會釋復屏東縣政府函詢集村農舍興建於山坡地保育區農牧用地疑義，貴處認恐誤導集村興建農舍之審查乙案，復請查照。",
+ "content": "1.復貴處99年10月11日審教處四字第0990002824號函。\n2.本案屏東縣政府99年7月29日屏府農務字第0990182500號函，提供恆春鎮集村農舍案19筆土地謄本均為山坡地保育區農牧用地，故依農業發展條例施行細則第2條規定，屬農業用地範圍，依法得申請興建農舍，本會亦於99年8月6日農授水保字第0990152267號函（如附件）知該府，其申請集村興建農舍仍須符合相關土地使用管制規則及建築法等相關規定，尚無誤導僅依土地謄本為審核依據之情事。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990168888號|有關本會釋復屏東縣政府函詢集村農舍興建於山坡地保育區農牧用地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0f78933024c01b71568221bf3e7f00139aed111c34de554018eafa386dce2add",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "恆春鎮集村農舍案19筆土地謄本均為山坡地保育區農牧用地,故依農業發展條例施行細則第2條規定,屬農業用地範圍,依法得申請興建農舍,本會亦於99年8月6日農授水保字第09"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "件)知該府,其申請集村興建農舍仍須符合相關土地使用管制規則及建築法等相關規定,尚無誤導僅依土地謄本為審核依據之情事。"
+  }
+ ]
+}

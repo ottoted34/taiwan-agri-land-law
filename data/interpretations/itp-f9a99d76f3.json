@@ -1,0 +1,52 @@
+{
+ "id": "itp-f9a99d76f3",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920120764號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於土地所有權人之農地因政府辦理土地重劃規劃之農、水路致使無法合併為一宗，其於申請興建農舍時可否視為一宗案，復如說明，請查照。",
+ "content": "一、復貴署92年4月8日營署綜字第0920018438號函。\n二、旨揭農地因有農水路之明顯區隔，故雖同一所有權人，仍不宜視為同一宗土地申請興建農舍。\n三、依地籍測量實施規則第224條規定：「土地因申請複丈者，應以同一地段、地界相連、使用分區及使用性質均相同之土地為限。所有權人不同或設定有他項權利者，應檢附全體所有權人之協議書或他項權利人之同意書。地政事務所於複丈完竣後，核發土地複丈成果圖。」本案土地申請合併，自應依上開規定辦理。\n四、至於農地重劃之目的，係將一定區域內不合經濟利用之農地加以重新規劃整理，建立標準坵塊，並配置農水路，使每一坵塊均能臨路、臨灌排水路，以改善農場結構，擴大農場經營規模，便利機械耕作，達到提高經營效率之目的。本案陳情人指稱，其農地因政府辦理土地重劃規劃之農、水路致使無法合併為一宗一節，可能有誤，因農地重劃之目的，係將畸零細碎之土地予以調整合併分配，使耕地坵形方整，便利機械耕作及管理，俾利境界明確，權利分明，似不太可能有陳情人所提情事，此部份建請由縣政府查明後再議。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920120764號|關於土地所有權人之農地因政府辦理土地重劃規劃之農水路致使無法"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c0b3e785c3b994ee0f787d3c469a3628f3f6d3820e53c4dba4317afa2aeb4231",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

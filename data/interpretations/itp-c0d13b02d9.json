@@ -1,0 +1,58 @@
+{
+ "id": "itp-c0d13b02d9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991820898號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴府函詢農業用地興建農舍無自用農舍疑義，復請 查照。",
+ "content": "1.復 貴府99年7月28日屏府農務字第0990178377號函。\n2.查「申請興建農舍之申請人資格條件審查表」備註「（一）實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定該房屋為農舍。」合先敘明。\n3.至本案車城鄉○○○地號是否有都市計畫法台灣省施行細則第30條規定之適用，係屬內政部營建署權責，建請貴府逕向主管機關查詢，以利釐清。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991820898號|有關貴府函詢農業用地興建農舍無自用農舍疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "87e6d852e4dc2559d93bea60eed47cc10a011a640826acd0e3a21002210aa794",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "該房屋為農舍。」合先敘明。\n3.至本案車城鄉○○○地號是否有都市計畫法台灣省施行細則第30條規定之適用,係屬內政部營建署權責,建請貴府逕向主管機關查詢"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-e25a1ff034",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851156號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴國會辦公室關切金門國家公園計畫與金門特定區計畫農業用地合併計算以興建農舍案，復請查照。",
+ "content": "復 貴國會辦公室95年3月31日傳真。\n本案內政部業於95年3月13日邀集金門縣政府、地政司、營建署、法規會、金門國家公園管理處及本會研商，結論略以：「有關位於不同計畫分區的農地可否合併計算面積以興建農舍乙案，依農委會現行政策與法令函釋，現階段仍不得合併計算；惟經本次會議金門縣政府及金門國家公園管理處說明金門地區之特性後，請農委會再考量本案之特殊性，請本部營建署正式函請農委會再作確認。」;惟上開結論中有關「依農委會現行政策與法令函釋，現階段仍不得合併計算」乙節，因對於不相毗鄰之土地是否可建築使用，依土地登記規則及建築管理辦法等內政法規皆無合併之規定(因會增加各級土地與建物合併移轉之困擾);且於該次會議中，內政部法規會亦表示「農業用地興建農舍辦法」係屬規範興建農舍之特別法，其法令適用應依據該規定申請。\n本案容俟營建署國家公園組就金門地區習慣與特性，就操作方式與農地管理機制提出可行措施後再與相關單位協調。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851156號|貴國會辦公室關切金門國家公園計畫與金門特定區計畫農業用地合併"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "21626b3c9abcd787e9db29ff3dc15b1bfdc3bd37ee6fefbb1a789b9a5f0df664",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地與建物合併移轉之困擾);且於該次會議中,內政部法規會亦表示「農業用地興建農舍辦法」係屬規範興建農舍之特別法,其法令適用應依據該規定申請。\n本案容俟營建署國家公園組"
+  }
+ ]
+}

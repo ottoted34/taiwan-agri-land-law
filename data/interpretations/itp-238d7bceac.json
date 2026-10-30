@@ -1,0 +1,70 @@
+{
+ "id": "itp-238d7bceac",
+ "doc_class": "interpretation",
+ "docno": "農糧字第890143222號",
+ "date": "2000-08-25",
+ "date_text": "89/8/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋土地使用分區為公園用地、住宅區等及其設施園藝場所無使用執照，是否可核發農業動力用電證明案",
+ "content": "查本案土地既屬都市計畫範圍內土地，宜先查明該用地場所之使用是否符合都市計畫法土地使用分區管制規則等相關法令規定。又該設施園藝場所無使用執照，應查明是否為違法使用，如屬違法設施，應不予農業動力用電優惠，以彰公允。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4830",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:12+08:00",
+   "source_key": "rmis:4830"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農糧字第890143222號|釋土地使用分區為公園用地住宅區等及其設施園藝場所無使用執照是"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": null,
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b13c3c1f772bf1efdf485fd7b77a150f686be3befb3cd7d80789bbe118fe5d62",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地既屬都市計畫範圍內土地,宜先查明該用地場所之使用是否符合都市計畫法土地使用分區管制規則等相關法令規定。又該設施園藝場所無使用執照,應查明是否為違法"
+  }
+ ]
+}

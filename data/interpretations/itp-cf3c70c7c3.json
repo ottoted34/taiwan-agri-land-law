@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4019",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:29+08:00",
+   "fetched_at": "2026-10-30T11:27:42+08:00",
    "source_key": "rmis:4019"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050208515號|有關貴局函為申請興建農舍辦理農業用地作農業使用證明書疑義案復"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "局105年3月8日桃農管字第1050005998號函。\n二、農業用地興建農舍辦法(以下簡稱本辦法)業於104年9月4日修正發布施行,其中第2條第2項規定:「前項"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "04年9月4日本辦法修正前向貴轄建管單位申請興建農舍,因不符農業用地作農業使用認定及核發證明辦法規定遭駁回,續於本辦法修正後再次提出申請,衍生法令適用之疑義,按中央法規標準法第"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

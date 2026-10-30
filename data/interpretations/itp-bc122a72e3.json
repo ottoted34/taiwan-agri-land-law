@@ -1,0 +1,99 @@
+{
+ "id": "itp-bc122a72e3",
+ "doc_class": "interpretation",
+ "docno": "農企字第900139831號",
+ "date": "2001-08-09",
+ "date_text": "90/8/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "039 釋農業用地作農業使用證明書經核發後，再申請補（加）發事宜案",
+ "content": "查「農業用地作農業使用認定及核發證明辦法」第18條第2項明定「依第16條第1項及第2項核發之證明書以1份為原則，申請者為同一申請案件要求核發多份證明書時，其超過部份應另收取證明書費，每一份以新台幣100元計算。」是以該補（加）發證明書規費之計算，應以該條之規定收取之。又同辦法第19條「申請人取得農業用地作農業使用證明書後，未於6個月內辦理第3條規定之事項者，該證明書自動失其效力。」因此，補（加）發證明書之核發日期應與原核發日期相同，則其申請補（加）發之時間似無須另行規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4818",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:03+08:00",
+   "source_key": "rmis:4818"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900139831號|釋農業用地作農業使用證明書經核發後再申請補加發事宜案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "18",
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "18",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "0d5940c6407b21db473688e3faa8308351c0144cad2d3c74c077c906b65157b5",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農業用地作農業使用證明書經核發後,再申請補(加)發事宜案\n查「農業用地作農業使用認定及核發證明辦法」第18條第2項明定「依第16條第1項及第2項核發之證明書以1份為原則,申請者為同一申請案"
+  }
+ ]
+}

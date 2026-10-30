@@ -1,0 +1,60 @@
+{
+ "id": "itp-50fd5abae1",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061803978號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢執行興建農舍申請人資格審查疑義案，復如說明，請查照。",
+ "content": "一、復貴府106年4月17日府農務字第1060075232號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之建築物，以便利其農事工作。故審核其興建資格時，除應考量該農業使用之內涵、當地農業經營發展外，應審酌該農業生產經營，其興建農舍之必要性及合理性，依農業用地興建農舍辦法等相關規定，視個案實務予以審認。\n三、另行政院農業委員會104年10月21日農水保字第1041866479號函送興建農舍經營計畫書格式，說明二已敘明「有關興建農舍經營計畫書格式業經本會邀集相關單位研商訂定，並提供審查參考原則供貴府參考，貴府得依轄內農業生產環境條件、區域特色、自治規定及個案情形予以審查。......一併檢送申請興建農舍之申請人資格條件審查表供參，貴府得自行調整業務分工及依相關自治法規增訂審查項目。」，有關興建農舍經營計畫書之審查，仍請依該函原則辦理。\n四、貴府所詢個案，請本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061803978號|有關貴府函詢執行興建農舍申請人資格審查疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "850cb7b53b477aebcb6477b75b50d8c8715bcc3b02c0727bc92e8d82cf7ec7b1",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "發展外,應審酌該農業生產經營,其興建農舍之必要性及合理性,依農業用地興建農舍辦法等相關規定,視個案實務予以審認。\n三、另行政院農業委員會104年10月21日農水"
+  }
+ ]
+}

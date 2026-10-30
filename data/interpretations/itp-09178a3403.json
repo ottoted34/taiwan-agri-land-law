@@ -1,0 +1,59 @@
+{
+ "id": "itp-09178a3403",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070726834號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣民眾○○○函詢土地取得應滿2年認定疑義一案，請惠予協處逕復，請查照。",
+ "content": "一、依據○○○107年9月27日未具文號函辦理(影附如後)。\n二、按本會101年6月29日農水保字第1011865000號令核釋「有關『農業發展條例』第18條所稱取得農業用地，應以土地登記簿所有權部認定之，其土地取得時點除民法第七百五十九條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。爰申請興建農舍農業用地其取得時點認定應依上開號令辦理。\n三、本案○○○所有之新竹縣湖口鄉○○○、○○○等2筆地號農牧用地合併，惟其土地登記謄本之土地登記日期，似維持土地合併前之土地所有權部登記日期，爰請貴府惠予釐清確認後逕復陳情人。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070726834號|有關貴縣民眾○○○函詢土地取得應滿2年認定疑義一案請惠予協處"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "96afbca216acce04145005a9f420b5c3d6c3744135bb5d19d6d1f48918d6c7a8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "01年6月29日農水保字第1011865000號令核釋「有關『農業發展條例』第18條所稱取得農業用地,應以土地登記簿所有權部認定之,其土地取得時點除民法第七百五十九"
+  }
+ ]
+}

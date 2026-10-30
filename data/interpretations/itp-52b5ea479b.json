@@ -1,0 +1,52 @@
+{
+ "id": "itp-52b5ea479b",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0952908674號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "屏東縣政府函為鄉鎮公所核發無自用農舍證明執行疑義乙案，本署意見如說明，請卓參。",
+ "content": "一、依據奉交下屏東縣政府95年5月3日屏府農務字第0950070999號函辦理。\n二、有關無自用農舍證明之查核，查貴會90年7月4日（90）農輔字第900050675號函檢附之「申請興建農舍之申請人資格條件審查表」審查項目第4項已定有明文。至尚未取得容許使用之農業設施或未取得合法證明文件之建築物是否為農舍，似宜由地方主管機關就個案事實認定並依有關法令規定處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第0952908674號|屏東縣政府函為鄉鎮公所核發無自用農舍證明執行疑義乙案本署意見"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a1705d109866204775926d2c5ffc99c08f2e376098eef821e0b64228f34c5d27",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

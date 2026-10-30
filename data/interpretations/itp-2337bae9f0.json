@@ -1,0 +1,55 @@
+{
+ "id": "itp-2337bae9f0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090715401號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○所詢申請興建農舍之土地取得時點疑義案，涉及個案實務審查認定事宜，爰請惠予協處逕復，請查照。",
+ "content": "一、依據○○○ 109年5月29日宜農民函字第 109005029號函辦理(影附如後)。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關土地取得時點之認定，本會前以 101年6月29日農水保字第1011865000號令及 102年10月25日農水保字第 1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。準此，涉及土地取得時點，仍應依上開號令原則予以審酌核處。\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，惠請貴府就個案實情提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090715401號|有關○○○所詢申請興建農舍之土地取得時點疑義案涉及個案實務審"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "63348ddaef8a92642d6db45cb43ddfc404a7e39af1d20cd1ffb35d8e6a7a15e8",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -18,17 +18,96 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3223",
    "serial": null,
-   "fetched_at": "2026-10-30T09:59:53+08:00",
+   "fetched_at": "2026-10-30T11:27:06+08:00",
    "source_key": "rmis:3223"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1050715872號|有關貴府再次函詢貴轄恆春鎮○○○地號及○○○地號等2筆土地申"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2016-11-28",
+    "history": "中華民國一百零五年十一月二十八日內政部內授中辦地字第 1051308935 號令修正發布第 6-3、9、11、13、16、21、22～23-1、26、31-1、31-2、35、37、49-1、56 條條文及第 6 條附表一、第 6-1 條附表五、第 17 條附表二、二之一、第 28 條附表四；並增訂第 16-1、21-",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2018-03-19",
+    "history": "中華民國一百零七年三月十九日內政部內授中辦地字第 1071301740號令修正發布第 6、26、29、30、30-1 條條文；增訂第 30-5 條條文；並刪除第 56 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2018-08-14",
+    "history": "中華民國一百零七年八月十四日內政部內授中辦地字第 1071304838 號令修正發布第 6 條附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2019-02-14",
+    "history": "中華民國一百零八年二月十四日內政部內授中辦地字第 1080260590 號令修正發布第 35、52-1 條條文及第 6 條附表一；並增訂第 46-1 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2021-07-15",
+    "history": "中華民國一百十年七月十五日內政部台內地字第 1100263579 號令修正發布第 9、30、52-1 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2022-07-20",
+    "history": "中華民國一百十一年七月二十日內政部台內地字第 1110264095 號令修正發布第 40 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2024-03-29",
+    "history": "中華民國一百十三年三月二十九日內政部台內國字第 1130802987 號令修正發布第 6 條條文之附表一；並增訂第 30-7、30-8 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "5b1804c16732592f36b8b03d68355c13d1a6d84f73e260bd1bd6eac86662fc5d",
  "topics": [
@@ -42,10 +121,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "5年5月24日農企字第1050213017號函釋(諒達),依非都市土地使用管制規則第6條附表1規定,農牧用地得容許做林業使用,其許可使用細目限於「造林、苗圃」,復依農舍"
+  },
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "仍請依上開原則處理,併予敘明。\n四、至山坡地開墾整地一節,依水土保持法第12條第1項,水土保持義務人於山坡地或森林區內從事該項各款之開發利用行為,應先擬具水土"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

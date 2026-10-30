@@ -1,0 +1,50 @@
+{
+ "id": "itp-4f343d88cf",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000102050號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局函詢土地經信託（自益信託）後，其土地取得時點是否有本會99年11月17日農授水保字第0990175859號函之適用，復請查照。",
+ "content": "一、 復貴局100年1月5日南市農務字第0990374492號函。\n二、按土地登記規則第128條第1項規定：「信託財產依第125條辦理信託登記後，於信託關係消滅時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」，準此，由委託人依信託法規定將財產權（農地）移轉受託人管理，須辦理信託登記;信託關係消滅，亦應申請塗銷信託登記觀之，信託關係成立後，信託財產（農地）經由登記，即發生所有權移轉之法律效果，不因自益信託或他益信託而有所不同。\n三、有關土地經信託後，其土地時點認定疑義，本會業以旨揭函復在案，請貴府本權責依規辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000102050號|有關貴局函詢土地經信託自益信託後其土地取得時點是否有本會99"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2f3dfed96dbc1752fcea03216752927ac8f538bddeea090fe70f8aca31f4d11a",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

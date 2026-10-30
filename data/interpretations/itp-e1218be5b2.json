@@ -1,0 +1,64 @@
+{
+ "id": "itp-e1218be5b2",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第039149號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "無",
+ "content": "一、台端90年6月17日大函敬悉。\n二、依「農業用地興建農舍辦法」第8條第8款規定：「集村興建農舍應整體規劃，於法定空地設置公共設施：其應設置之公共設施如附表。」是以上開辦法附表所示公共設施係利用法定空地整體規劃設置，以合理使用為原則，其各設施間未規定比例限制。\n三、依「農業用地興建農舍辦法」第8條第1款規定：「20戶以上之農民為起造人，共同在一宗或數宗相毗連之農業用地整體規劃興建農舍。各起造人持有之農業用地、應位於同一鄉（鎮、市、區）或毗鄰之鄉（鎮、市、區）。但離島地區，得以10戶以上之農民為起造人。」是以起造人應皆為農民且為該農業用地所有權人，應無與營造公司有土地買賣過戶情節。\n四、依「農業用地興建農舍辦法」第8條規定興建農舍之起造人為該農業用地所有權人，變更之起造人需符合上開辦法及「農業發展條例」相關規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第039149號|無"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3d023bce2e4d3bfcf09d59354d86a02000a7aa59d3c5084f75937a4b315df9f6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "無\n一、台端90年6月17日大函敬悉。\n二、依「農業用地興建農舍辦法」第8條第8款規定:「集村興建農舍應整體規劃,於法定空地設置公共設施:其應設置之公共設施"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍之起造人為該農業用地所有權人,變更之起造人需符合上開辦法及「農業發展條例」相關規定。"
+  }
+ ]
+}

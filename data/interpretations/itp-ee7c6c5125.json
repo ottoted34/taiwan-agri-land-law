@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5391",
    "serial": null,
-   "fetched_at": "2026-10-30T10:16:10+08:00",
+   "fetched_at": "2026-10-30T11:43:23+08:00",
    "source_key": "rmis:5391"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0990179287號|民眾以非都市土地林業用地申請變更編定為農牧用地農政單位審認疑"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -37,6 +43,15 @@
     "amended_on": "2013-08-06",
     "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
     "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0070031",
+    "law_name": "區域計畫法施行細則",
+    "article": "15",
+    "amended_on": "2013-10-23",
+    "history": "中華民國一百零二年十月二十三日內政部台內營字第 1020320943 號令修正發布全文 25 條；並自發布日施行",
+    "relation_kind": "extracted"
    }
   ]
  },
@@ -55,10 +70,18 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070031",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "復 貴府○○年○○月○○日府農務字第○○○○○號函。\n二、查區域計畫法施行細則第15條規定,經編定林業用地者係供營林或其設施使用。復查森林法第6條第2項規定,經編為林"
+  },
+  {
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "就申請目的、用地現況及未來使用計畫等提出說明,以審認是否合於「農業發展條例」所定農業使用之法意,並據以回應地政機關針對案涉用地是否合適農牧使用,本會認為尚無"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

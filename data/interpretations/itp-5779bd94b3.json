@@ -1,0 +1,62 @@
+{
+ "id": "itp-5779bd94b3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851925號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "檢送95年8月16日研商「農舍興建分割移轉及合併計算面積興建農舍農地變更編定等相關疑義」會議紀錄，請查照。",
+ "content": "無",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851925號|檢送95年8月16日研商農舍興建分割移轉及合併計算面積興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-93df99c10f",
+    "by_docno": "內授中辦地字第0960051600號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "」、為建物所有權第一次登記法令補充規定第23點所明定,又行政院農業委員會95年8月29日農授水保字第0951851925號函釋在有農業用地興建或參加集村興建之農舍,應滿5始得移轉,其起算日以使用執照核發之日期為基準意旨,本案原農舍如連同增建部分一併移轉,該增建部分滿5年之起算基準,自應以增建之使用執照核發日為準"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5c77e92a965115c2ce7f91873c1110c9fefeb938949b414005ee332f6ebabaa3",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

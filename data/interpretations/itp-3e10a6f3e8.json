@@ -1,0 +1,58 @@
+{
+ "id": "itp-3e10a6f3e8",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0910142176號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端請釋有關「農業用地興建農舍辦法」第六條及第八條疑義案，復如說明，請查照。",
+ "content": "一、復台端91年7月22日書函。\n二、現行「農業用地興建農舍辦法」第六條係規範興建農舍應注意事項，該農舍並無區分是否以個別方式或集村方式興建，故有關同辦法第八條規定以集村方式興建農舍未有規定部分，仍適用於第六條之規定。\n三、至於有關建築基地之容積率及建蔽率，申請興建農舍之法定空地疑義部分，允宜由內政部營建署依權責釋示。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0910142176號|台端請釋有關農業用地興建農舍辦法第六條及第八條疑義案復如說明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8e4038d70f2f688a6ab0b5cc314132bffa101a494dcbe24ff7112cb5bced1ec6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "台端請釋有關「農業用地興建農舍辦法」第六條及第八條疑義案,復如說明,請查照。\n一、復台端91年7月22日書函。\n二、現行「"
+  }
+ ]
+}

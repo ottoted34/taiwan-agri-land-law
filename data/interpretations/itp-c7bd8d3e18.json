@@ -1,0 +1,71 @@
+{
+ "id": "itp-c7bd8d3e18",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070717177號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴院受理106年度訴字第292號返還價金事件相關疑義1案，復如說明，請查照。",
+ "content": "一、復貴院107年6月20日宜院麗民利106訴292字第016828號函。\n二、查農業發展條例第18條第4項規定略以：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人···」，又依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定略以：「申請人為該農業用地之所有權人，且該農業用地應確供農業使用及屬未經申請興建農舍者···」，復依本辦法第8條第2項規定略以：「申請興建農舍變更起造人時，除為繼承且在施工者外，應依第2條第1項規定辦理···」爰申請興建農舍之申請人應為該筆農業用地之所有權人，倘於審查申請興建農舍案件程序中，發生土地所有權移轉而導致申請人變更時，自應依本辦法規定重新申請興建農舍。\n三、至原駁回申請之行政處分違法，嗣後申請人續行農舍興建案件一節，其案件審查及行政處分之作成，仍宜回歸行政程序法及本辦法之規定，就個案審認處理之。\n四、另本辦法第16條規定涉及建造執照核發事宜係由內政部權管主政，倘有該條規定之相關疑義，宜請洽該部詢問。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070717177號|有關貴院受理106年度訴字第292號返還價金事件相關疑義1案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e6124bfbf7d71970bb698298bf61fc467088d022960bf50f369e7a022f04b70c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "20日宜院麗民利106訴292字第016828號函。\n二、查農業發展條例第18條第4項規定略以:「第1項及前項農舍起造人應為該農舍坐落土地之所有權人···」,又"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "項及前項農舍起造人應為該農舍坐落土地之所有權人···」,又依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定略以:「申請人為該農業用地之所有權人,且"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "人續行農舍興建案件一節,其案件審查及行政處分之作成,仍宜回歸行政程序法及本辦法之規定,就個案審認處理之。\n四、另本辦法第16條規定涉及建造執照核發事宜"
+  }
+ ]
+}

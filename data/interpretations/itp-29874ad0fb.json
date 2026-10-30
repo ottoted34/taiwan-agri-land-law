@@ -1,0 +1,89 @@
+{
+ "id": "itp-29874ad0fb",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950147018號",
+ "date": "2006-08-22",
+ "date_text": "95/8/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋為辦理都市計畫農業區、保護區內土地申請農業用地容許作農業設施使用審查書表格式之疑義案。",
+ "content": "主旨：有關 貴府為辦理都市計畫農業區、保護區內土地申請農業用地容許作農業設施使用審查書表格式之疑義案，復請 查照。\n說明：\n一、復 貴府95年8月14日屏府農務字第○○○○○號函。\n二、按95年7月21日內政部台內中營字第0950804204號令修正發布之「都市計畫法台灣省施行細則」第29條規定，「農業區為保持農業生產而劃定，除保持農業生產外，僅得申請興建農舍、農業產銷必要設施或休閒農場及其相關設施。…第1項所定農業產銷必要設施、休閒農場及其相關設施之項目由農業主管機關認定，並依目的事業主管機關所定相關法令規定辦理，且不得擅自變更使用。 」故都市計畫農業區、保護區內土地申請農業產銷必要設施，應依本會所定之「農業用地容許作農業設施使用審查辦法」之規定辦理，並應符合都市計畫法台灣省施行細則授權訂定之相關審查作業要點規定，合先敘明。\n三、查本會並依上開辦法第26條規定，訂有執行本辦法所需之審查簽辦單書表格式，有關農業設施容許使用之審核，應請依該審查簽辦單審核。另鑒於農業用地容許作農業設施使用之審查可能涉及其他相關法令，故該審查簽辦單中第16項，審查（查證）項目-其他欄項，可供 貴府視審查案件涉及之法令規定增列相關審查（查證）項目以簽會有關單位。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5315",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:05+08:00",
+   "source_key": "rmis:5315"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950147018號|釋為辦理都市計畫農業區保護區內土地申請農業用地容許作農業設施"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "9a48f55e4ad290cd8818517e6851e4b32ae5e53b6bdd3f4d976a03899254d487",
+ "topics": [
+  "land_change",
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月21日內政部台內中營字第0950804204號令修正發布之「都市計畫法台灣省施行細則」第29條規定,「農業區為保持農業生產而劃定,除保持農業生產外,僅"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "計畫農業區、保護區內土地申請農業產銷必要設施,應依本會所定之「農業用地容許作農業設施使用審查辦法」之規定辦理,並應符合都市計畫法台灣省施行細則授權訂定之相關審查作業要點規定,合先"
+  }
+ ]
+}

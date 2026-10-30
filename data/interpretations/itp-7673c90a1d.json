@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6066",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:01+08:00",
+   "fetched_at": "2026-10-30T11:14:13+08:00",
    "source_key": "rmis:6066"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1152627603號|有關民眾再次陳情於貴市下營區○○地號土地之農業設施禽舍及堆肥"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -38,16 +44,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2009",
+   "law_id": "M0020002",
    "article": "2-1",
    "kind": "extracted",
    "snippet": "案。依上開3函說明,農業用地因從事農業耕種而有填土需要者,依農業發展條例施行細則第2條之1規定,其填土土質應為適合種植農作物之土壤,以利農作物種植;至於農業用地興建農業設"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "物種植;至於農業用地興建農業設施,該農業設施之建築基礎應符合建築法相關規定。是以,於農業用地填土耕作與設置農業設施,二者所需回填之物質、目的、用途"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

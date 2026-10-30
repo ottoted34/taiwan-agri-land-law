@@ -1,0 +1,52 @@
+{
+ "id": "itp-d64ddf2a04",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0930074104號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於參加集村興建農舍坐落之基地及配合耕地是否受坡度30%限制乙節，依行政院農業委員會92年8月21日農授水保字第0921847142號函釋：「集村興建農舍係將農舍興建之權利移轉至他宗農業用地上集合興建，原無興建農舍權利之土地，自不得參與集村興建農舍。各起造人得併同提供山坡地與平地之農業用地申請集村興建農舍，但平均坡度超過30%以上之山坡地範圍內之農業用地，依照建築技術規則建築設計施工編第262條規定意旨，不得申請興建農舍。」，復請查照。",
+ "content": "依據行政院農業委員會93年11月17日農授水保字第0931826432號函轉貴府93年11月12日府農務字第0930296696號函辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0930074104號|關於參加集村興建農舍坐落之基地及配合耕地是否受坡度30%限制"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8d47e37f120710683cb5ff0f46ff51eaccbc1d5bfdbc37db52dc16bee4bf8f05",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

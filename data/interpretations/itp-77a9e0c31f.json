@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3507",
    "serial": null,
-   "fetched_at": "2026-10-30T10:03:22+08:00",
+   "fetched_at": "2026-10-30T11:30:34+08:00",
    "source_key": "rmis:3507"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1042911718號|有關興建農舍之農業用地即將遭徵收闢建道路農地所有權人得否申請"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -50,16 +56,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "04年4月8日府經建字第1040052090號函。\n二、依據農業用地興建農舍辦法(以下簡稱本辦法)第8條規定,起造人申請興建農舍應具備相關主管機關依本辦法第2條"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "123",
+   "kind": "extracted",
+   "snippet": "8日函示,「本案申請興建農舍之農業用地遭徵收,致面積減少,依行政程序法第123條第4款規定意旨,應衡酌若不廢止已核定之行政處分是否對公益將有危害,若經評估對公益"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "59",
+   "kind": "extracted",
+   "snippet": "徵收導致農業用地面積減少,是否繼續興建至領得使用執照1節,按建築法第59條規定:「直轄市、縣(市)(局)主管建築機關因都市計畫或區域計畫之變更,對已領有執"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

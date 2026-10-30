@@ -1,0 +1,76 @@
+{
+ "id": "itp-cca9952d28",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920161439號",
+ "date": "2003-10-22",
+ "date_text": "92年10月22日農企字第0920161439號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "053 釋農業發展條例及相關配套法案於89年1月26日修正施行前，以多筆農地合併興建農舍，配合耕地已移轉他人，該農舍及其坐落之農地併同移轉案",
+ "content": "一、查本會91年4月17日農企字第0910010047號函釋有關農業發展條例及相關配套法案於89年1月26日公佈施行前，以多筆農地合併計算基地面積興建農舍，但配合申請興建農舍之農業用地業已移轉他人，則該農舍及其坐落之農地併同移轉時，應核發農業用地作農業使用證明書或耕地符合土地使用管制規定證明書案，係以該農舍及其坐落基地移轉時之情況，是否仍符合申請興建農舍時「建築面積不得超過其耕地面積10%」之要件，為審核基準。\n二、綜上，本案土地雖經共有物分割為單獨所有，該農舍與其農業用地之比例仍符合前開「建築面積不得超過其耕地面積10%」之規定，應得核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920161439號|釋農業發展條例及相關配套法案於89年1月26日修正施行前以多"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "0264d3d2b2ddfb12aa4030f0fc9b647685575e2f02532082a51ec7b423097e53",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "053 釋農業發展條例及相關配套法案於89年1月26日修正施行前,以多筆農地合併興建農舍,配合耕地已移"
+  }
+ ]
+}

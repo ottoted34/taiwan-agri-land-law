@@ -1,0 +1,65 @@
+{
+ "id": "itp-8cede42dd8",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950133502號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關一般農業區農牧用地變更為同區甲種建築用地，是否得免繳交農業用地變更回饋金之疑義案。",
+ "content": "主旨：有關 貴府函詢○○○等人申請將內埔鄉2筆一般農業區農牧用地變更為同區甲種建築用地，是否得免繳交農業用地變更回饋金之疑義案，復請 查照。\n說明：\n一、復 貴府95年6月16日屏府農務字第0950117631號函。\n二、依農業發展條例第12條第1項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，本會並訂有「農業用地變更回饋金撥繳及分配利用辦法」，就農業用地應繳交回饋金之情況標準與作業方式予以規範，除符合本條例同條第4項規定得免繳交回饋金者，原則上均應依規定繳交，先予敘明。\n三、按申請用地變更編定其地籍資料係依地政單位提供之土地登記謄本標示所載之坐落鄉(鎮、市、區)及地段為準，與是否屬瑪家鄉公所行政區內之原住民保留地並無關聯。本案申請農業用地變更土地既經敘明坐落於內埔鄉，依本會91年4月10日農企字第0910010044號公告得免繳交農業用地變更回饋金之偏遠與離島地區範圍，內埔鄉非為公告之偏遠與離島地區範圍，本案應請依上開辦法之規定繳交回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950133502號|有關一般農業區農牧用地變更為同區甲種建築用地是否得免繳交農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "950a802ae14b8664542cc2ea82d34163879cb12fe78f63da91055661dee87130",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "5年6月16日屏府農務字第0950117631號函。\n二、依農業發展條例第12條第1項規定,屬農業用地之變更,應視其事業性質,繳交回饋金,本會並訂有「農業用地變"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定,屬農業用地之變更,應視其事業性質,繳交回饋金,本會並訂有「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交回饋金之情況標準與作業方式予以規範,除符合本條例同條第4項規定"
+  }
+ ]
+}

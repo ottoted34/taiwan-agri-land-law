@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5433",
    "serial": null,
-   "fetched_at": "2026-10-30T10:18:36+08:00",
+   "fetched_at": "2026-10-30T11:45:50+08:00",
    "source_key": "rmis:5433"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0970161440號|公有土地申請農業用地作農業使用證明書無需檢附租賃契約及讓售同"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -49,22 +55,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "用證明書係證明農業用地確作農業使用,俾供農業用地之所有權人依農業發展條例之規定,申請賦稅減免優惠,且農業用地作農業使用認定及核發證明辦法並未針對訂有租賃"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "農業用地之所有權人依農業發展條例之規定,申請賦稅減免優惠,且農業用地作農業使用認定及核發證明辦法並未針對訂有租賃契約之農業用地應通知承租人之相關規範,故有關農業用地所有權人申請"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,54 @@
+{
+ "id": "itp-3318dc19ac",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061831080號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地申請興建農舍時，因已有核准農業設施，致農舍用地無法臨界臨路，得否改以集中配置為審查原則核准配置案，復如說明，請查照。",
+ "content": "一、復貴府106年7月20日府農務字第1060098459號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，與一般家居住宅性質不同，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍，合先敘明。\n三、有關申請興建農舍前已核准農業設施容許使用之配置一事，行政院農業委員會前以105年12月27日農水保字第1051813381號函各縣市政府有案。\n四、基於農舍性質與農業設施有別，農舍可涵蓋農業設施之功能，倘二者須同時配置考量，自應優先適用農舍之配置規定，如提出農舍申請前業核准農業設施容許使用，建議應由申請人依前開農舍配置規定，據以調整符合規定辦理之。\n五、農舍之個案審查係屬直轄市、縣(市)政府權責，請貴府本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061831080號|有關農業用地申請興建農舍時因已有核准農業設施致農舍用地無法臨"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0b85cbfa417ac8105ca55cbdcc9cbf0053d7b4595872683422cc69745cdc27b5",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

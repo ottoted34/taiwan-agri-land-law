@@ -1,0 +1,64 @@
+{
+ "id": "itp-889215800e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941848403號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○等2人陳情農業發展條例修正生效日後取得坐落嘉義縣民雄鄉○○○號土地，因政府興辦事業辦理徵收，致面積小於0.25公頃而無法興建農舍，請協助如何申請興建農舍案，請卓處。",
+ "content": "一、 依據○○○等2人94年3月14日陳情書辦理。 二、「農業發展條例」修正生效日後取得之農業用地依法被徵收，並無「農業用地興建農舍辦法」第3條第3項第4項之適用，貴部93年8月2日台內營字第0930009288號函有案，惟如何申請興建農舍乙節，請卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941848403號|○○○等2人陳情農業發展條例修正生效日後取得坐落嘉義縣民雄鄉"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ac6306bd8ca65cf2217b760bf7fca308f47cd5029df7595d19ffe26fc49ce3d4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○○○等2人陳情農業發展條例修正生效日後取得坐落嘉義縣民雄鄉○○○號土地,因政府興辦事業辦理徵收,致面積小於"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "、「農業發展條例」修正生效日後取得之農業用地依法被徵收,並無「農業用地興建農舍辦法」第3條第3項第4項之適用,貴部93年8月2日台內營字第0930009288號函有案,惟"
+  }
+ ]
+}

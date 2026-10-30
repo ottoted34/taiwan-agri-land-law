@@ -1,0 +1,67 @@
+{
+ "id": "itp-e1bf1991cb",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070245020號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴署詢問農舍辦理建物保存登記疑義案，復如說明，請查照。",
+ "content": "一、復貴署107 年10 月26 日營署建管字第1070076063 號函。\n二、申請自用農舍既以同一戶自用為限，自屬無分棟建築之疑義，貴部已於81年8月17日台(81)內營字第8104300號函明釋有案，且門牌編列與建築物分戶並無必然關聯，先予敘明。\n三、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同，且應以「自用」為原則，併予敘明。\n四、次查農業發展條例第18條第4項規定略以：「．．．農舍應與其坐落用地併同移轉或併同設定抵押權」，其立法意旨亦在避免衍生農舍及其坐落用地之管理或產權複雜化等問題，導致不利農業永續經營，故仍應考量農舍興建面積與維持農業使用面積之比例及其完整性，以符合農業發展條例及農業用地興建農舍辦法等相關法令規定，故貴部於81年上開函釋所揭原則，仍宜予維持。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070245020號|有關貴署詢問農舍辦理建物保存登記疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4136edaf2726499f87897c9bda2b80fb3582c63df626fc58f346babd86120afb",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "家居住宅性質不同,且應以「自用」為原則,併予敘明。\n四、次查農業發展條例第18條第4項規定略以:「...農舍應與其坐落用地併同移轉或併同設定抵押權」,其立法意旨"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "面積與維持農業使用面積之比例及其完整性,以符合農業發展條例及農業用地興建農舍辦法等相關法令規定,故貴部於81年上開函釋所揭原則,仍宜予維持。"
+  }
+ ]
+}

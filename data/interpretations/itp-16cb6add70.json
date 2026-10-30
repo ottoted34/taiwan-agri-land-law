@@ -1,0 +1,109 @@
+{
+ "id": "itp-16cb6add70",
+ "doc_class": "interpretation",
+ "docno": "農企字第890120475號",
+ "date": "2000-04-27",
+ "date_text": "89/4/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋台糖公虎尾總廠附設蔗渣堆肥場申請使用電力比照畜殖場模式適用「農業動力用電範圍及標準」應依該條文第幾條款相關規定核發證明書案",
+ "content": "查現行「農業動力用電範圍及標準」第二條第一項第五款畜牧用電，係規定飼養家畜、家禽或集乳站機械之用電，並經該管直轄市或縣（市）主管機關核發證明文件者。並無明定畜殖場可適用本標準，然台糖公司虎尾總廠八十九年二月十六日虎農字第八九二○一號函說明三，提及「該總廠之畜殖場屬農業用途，已列入農業用電」，故　貴府應查明其畜殖場列入農業用電之依據，則本案即可比照辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5065",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:21+08:00",
+   "source_key": "rmis:5065"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第890120475號|釋台糖公虎尾總廠附設蔗渣堆肥場申請使用電力比照畜殖場模式適用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": null,
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": "2",
+    "amended_on": "2000-06-28",
+    "history": "中華民國89年06月28日行政院令修正發布第 1、2 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": "2",
+    "amended_on": "2000-11-22",
+    "history": "中華民國89年11月22日行政院令修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": "2",
+    "amended_on": "2002-06-12",
+    "history": "中華民國91年06月12日行政院院臺農字第 0910027683 號令修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": "2",
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "fde71d6616cf79febc572869c66c4d402a95a741c3cd2d72005276fe6fca48aa",
+ "topics": [
+  "farm_use_cert",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "RMIS-2007",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "電範圍及標準」應依該條文第幾條款相關規定核發證明書案\n查現行「農業動力用電範圍及標準」第二條第一項第五款畜牧用電,係規定飼養家畜、家禽或集乳站機械之用電,並經該管直轄市或縣"
+  }
+ ]
+}

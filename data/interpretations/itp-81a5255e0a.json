@@ -1,0 +1,68 @@
+{
+ "id": "itp-81a5255e0a",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第0931070367號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋申請農業用地容許作農業設施使用，其基地內有墳墓設施，是否有「農業用地容許作農業設施使用審查辦法」第八條第九條「違法法令規定」之適用疑義",
+ "content": "一、依「非都市土地使用管制規則」第六條附表一「各種使用地容許使用項目及許可使用細目表」五、規定，農牧用地不得作為墳墓設施使用。但屬非都市土地使用分區及用地編定前已存在之墳墓設施，依上開管制規則第八條第一項規定可得為從來使用，故無違反「區域計畫法」問題。至於非都市土地使用編定後所興建之墳墓，明顯已違反非都市土地使用管制規則規定。\n二、有關農業用地上建有墳墓設施有無違反規定純屬實物問題，應請直轄市、縣（市）政府就各按實際使用情形，依法認定之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第0931070367號|釋申請農業用地容許作農業設施使用其基地內有墳墓設施是否有農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "647145b587a914680ffd0003326f11184919a2fd4bfbcd86ac55c921d11ce094",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "釋申請農業用地容許作農業設施使用,其基地內有墳墓設施,是否有「農業用地容許作農業設施使用審查辦法」第八條第九條「違法法令規定」之適用疑義\n一、依「非都市土地使用管制規則」第六條附表一「"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "使用審查辦法」第八條第九條「違法法令規定」之適用疑義\n一、依「非都市土地使用管制規則」第六條附表一「各種使用地容許使用項目及許可使用細目表」五、規定,農牧用地不得作為墳墓設"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "設施,依上開管制規則第八條第一項規定可得為從來使用,故無違反「區域計畫法」問題。至於非都市土地使用編定後所興建之墳墓,明顯已違反非都市土地使用管制規則規定"
+  }
+ ]
+}

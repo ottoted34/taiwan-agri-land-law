@@ -1,0 +1,52 @@
+{
+ "id": "itp-d3620bda99",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040201170號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為台端函詢基隆市政府有關農地興建農舍面積最低不得少於0.25公頃疑義案，復請查照。",
+ "content": "一、依據基隆市政府104年1月12日基府產農貳字第1040200750號函轉台端申請書辦理。\n二、查旨案行政院農業委員會103年12月25日農授水保字第1031830528號函復台端有案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1040201170號|為台端函詢基隆市政府有關農地興建農舍面積最低不得少於025公"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f84960eec531c827eaebe37d62a3332c77efce3ee4cd0bb5561db52527c4a9fd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

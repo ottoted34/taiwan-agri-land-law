@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5545",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:00+08:00",
+   "fetched_at": "2026-10-30T11:38:03+08:00",
    "source_key": "rmis:5545"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020232976號|農業用地上之農業設施可否作為農藥販售業主之營業場址並於該農業"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,22 +43,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "成立之農業合作社(場)、依植物品種及種苗法成立之種苗業者、依農業發展條例承受耕地之農企業法人等等,為出售其農產品,涉及商業登記事宜者,仍應依商業登記法第"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "000111602號函(如附件)解釋在案,合先敘明。\n三、依「申請農業用地作農業設施容許使用審查辦法」規定,農業設施係與農業經營有關,並應依其經營計畫使用,故農業設施得否辦理相關商業"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4648",
    "serial": null,
-   "fetched_at": "2026-10-30T09:54:59+08:00",
+   "fetched_at": "2026-10-30T11:22:12+08:00",
    "source_key": "rmis:4648"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080235541號|有關已興建資材室或管理室之農業用地申請興建農舍配置疑義復如說"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -44,22 +50,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "8年8月19日府農林二字第1082518305號函。\n二、依農業發展條例第3條第12款本文規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "9",
    "kind": "extracted",
    "snippet": "用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、復依農業用地興建農舍辦法第9條第2項第3款規定,供農業生產使用部分之農業經營用地應為完整區塊,且其面積不得低於"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

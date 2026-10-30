@@ -1,0 +1,52 @@
+{
+ "id": "itp-21f18c4ab6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061800049號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關監察院糾正案指出開發商以買地送屋等網路不實廣告銷售農地、農舍或農業設施，稽查及處理情形一節，請貴府依權責續予查處，請查照。",
+ "content": "一、依據本會水土保持局案陳貴府105年12月30日府農農字第1050267957號函辦理。\n二、來函所附案件請持續列管追蹤至改善完成；另附件所列案件已登錄本會水土保持局山坡地檢舉通報單，將另案函送貴府查處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061800049號|有關監察院糾正案指出開發商以買地送屋等網路不實廣告銷售農地農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "89975bcb640d4f8adb76d583605b94899ae4002dc1cabec8372f2a7401463c1c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

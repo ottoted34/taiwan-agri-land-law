@@ -1,0 +1,65 @@
+{
+ "id": "itp-af4ce3dc87",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0970135899號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "保護區土地依法取得都市計畫發布前已為農業使用證明，得否依農業用地興建農舍辦法規定申請集村興建農舍及作為配合農業用地案，復請查照。",
+ "content": "1.復 貴署97年6月30日營署綜字第0972911021號函。\n2.依都市計畫法台灣省施行細則第27條第1項第14款規定，都市計畫發布前，原有作農業使用者，在不妨礙保護區劃定目的下，得比照農業區之有關規定及條件，申請建築農舍及農業產銷必要設施。故保護區土地符合上開規定依法取得都市計畫發布前已作農業使用證明文件，得申請興建個別農舍無疑。\n3.將保護區作為配合農業用地，以集村方式申請興建農舍，依農業用地興建農舍辦法第8條第1項第2款規定，各起造人持有之農業用地與集村興建農舍坐落之農業用地，其法令規定適用之基層建築面積之計算標準應相同，且同屬都市土地或非都市土地;惟本案東北角海岸風景特定區土地得否提供作為集村農舍之配合農業用地宜洽該特定區主管機關。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0970135899號|保護區土地依法取得都市計畫發布前已為農業使用證明得否依農業用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "585ceb7a1f9bd6a3b165cce7dec25dddca36f230f15cc7abad85e96a6f1abd85",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "97年6月30日營署綜字第0972911021號函。\n2.依都市計畫法台灣省施行細則第27條第1項第14款規定,都市計畫發布前,原有作農業使用者,在不"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "。\n3.將保護區作為配合農業用地,以集村方式申請興建農舍,依農業用地興建農舍辦法第8條第1項第2款規定,各起造人持有之農業用地與集村興建農舍坐落之農業用地,其法令規定"
+  }
+ ]
+}

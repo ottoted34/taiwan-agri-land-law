@@ -1,0 +1,58 @@
+{
+ "id": "itp-49d37e9ecd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960118902號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「無自用農舍證明」核發法源依據及應由建築主管機關或是農政主管機關主政案，復請查照。",
+ "content": "1.復貴 府96年4月3日屏府農務字第0960065478號及96年4月9日屏府農務字第0960067635號函。\n2.實施區域計畫地區建築管理辦法第6條第1項第2款規定，「無自用農舍證明」係申請建造農舍時為應檢附文件之一，至其如何審查及核發機關，請依據本會90年7月4日（90）農輔字第900050675號函送研商之「農業用地興建農舍辦法」第3條規定執行事宜會議決議（一）、（四）辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960118902號|有關無自用農舍證明核發法源依據及應由建築主管機關或是農政主管"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6467009a6baf394255cbeaa08efbf1c500c6e740bb95e4359937873334a007a0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "90年7月4日(90)農輔字第900050675號函送研商之「農業用地興建農舍辦法」第3條規定執行事宜會議決議(一)、(四)辦理。"
+  }
+ ]
+}

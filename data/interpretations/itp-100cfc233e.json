@@ -1,0 +1,59 @@
+{
+ "id": "itp-100cfc233e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000146935號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端等人赴行政院陳情限制農舍興建一案，復請 查照。",
+ "content": "一、依據行政院秘書處100年7月21日院臺農字第1000100512號函交下台端等致 行政院院長陳情書辦理。\n二、本案經本會邀請內政部及各縣市政府於100年8月3日召開會商會議，獲致決議如下：\n(一)農地保護是全球趨勢，且農地具有生產、生態等多功能價值，我國對於農地使用非常重視，因此對於優良農地應予以高強度保護，貫徹農地農用政策。\n(二)農舍准許興建之目的，係為實際從事農業經營之農民提供放置農機具兼具居住的處所，並應以從事農業經營為前提，在辦法中將對於農民興建農舍權利予以保障。\n(三)以往因「農業用地興建農舍辦法」中發現有許多不完備之處，導致農舍執行現況有所偏差，本次在不損及真正從事農業經營農民權益之前提下，修正農業用地興建農舍辦法，以追求農業與農村之永續發展。\n(四)目前修法尚屬草擬階段，後續將在保護農業生產環境並維護真正從事農業經營之農民權益前提下，務求修正內容更符合所需。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000146935號|有關台端等人赴行政院陳情限制農舍興建一案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a69489ae34cd5a720f5be9cc2f3416cc2bea4555218c89dd776f54b8905e8a50",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "前提,在辦法中將對於農民興建農舍權利予以保障。\n(三)以往因「農業用地興建農舍辦法」中發現有許多不完備之處,導致農舍執行現況有所偏差,本次在不損及真正從事農業經營農"
+  }
+ ]
+}

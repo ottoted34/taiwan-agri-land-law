@@ -1,0 +1,38 @@
+{
+ "id": "tech-f52f49d5281f",
+ "source_key": "datamoa:D97:a3b46993c2ecb6aa",
+ "title": "技術專刊 46",
+ "series": "技術專刊",
+ "issue": "46",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=4890",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "46",
+  "出刊年月": "201112",
+  "期刊名稱": "樂活農業體驗趣",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=4890"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "264f4e9d213f29220facb3acfdb2a802a4dc199457e7613086db5331720e3f41",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

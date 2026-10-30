@@ -1,0 +1,44 @@
+{
+ "id": "tech-8a4510c63458",
+ "source_key": "datamoa:740:8c2ae3aa82abb6e8",
+ "title": "臺南場近期農機研發成果彙編",
+ "series": "技術專刊",
+ "issue": "技術專刊114-3(NO.181)",
+ "agency_id": "tndais",
+ "authors": "楊清富、王志瑋、鍾瑞永",
+ "date": "2025-07",
+ "url": "https://book.tndais.gov.tw/Brochure/tech181.pdf",
+ "isbn": "978-626-7651-57-5",
+ "gpn": "1011400802",
+ "pages": "17頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊114-3(NO.181)",
+  "題目": "臺南場近期農機研發成果彙編",
+  "作者": "楊清富、王志瑋、鍾瑞永",
+  "出版日期年月": "11407",
+  "頁數": "17頁",
+  "政府出版品編號GPN": "1011400802",
+  "ISBN": "978-626-7651-57-5",
+  "連結位址1PDF": "https://book.tndais.gov.tw/Brochure/tech181.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "d185a6ac792f97bed56cdc0dfdfb5e93c1390a38817b5b3acbea166552a6b4f4",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "machinery"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-ca650daaf7",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1051859757號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴部105年8月5日預告修正「民宿管理辦法」，本會意見如說明，請查照。",
+ "content": "一、依據貴部105年8月5日交路（一）字第10582002851號公告辦理。\n二、依農業發展條例第18條規定，無自用農舍而需興建者，得申請興建農舍，爰農舍本應以自用為原則，故以農舍申請作民宿使用者，其經營者應為農舍及其坐落土地之所有權人。然旨揭辦法修正草案第10條第2款規定民宿應由建築物實際使用人自行經營，惟實際使用人並非等同所有權人，而可能有違農舍應以自用為原則之立法意旨。具體建議旨揭辦法修正草案第10條第2款予以修正為：「由建築物實際使用人自行經營。其建築物為農舍者，應由農舍及其坐落用地之所有權人自行經營。…」，以明農舍作為民宿經營者之申請條件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1051859757號|有關貴部105年8月5日預告修正民宿管理辦法本會意見如說明請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5dbba726ceddc2e278f6aebf01e2de194b216fb4c194036ac3ae635008b642a8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "5日交路(一)字第10582002851號公告辦理。\n二、依農業發展條例第18條規定,無自用農舍而需興建者,得申請興建農舍,爰農舍本應以自用為原則,故以農舍申請"
+  }
+ ]
+}

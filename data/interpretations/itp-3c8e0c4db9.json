@@ -1,0 +1,76 @@
+{
+ "id": "itp-3c8e0c4db9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031815696號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業企業機構可否在購買之農地興建農舍或農業設施。",
+ "content": "一、按農業發展條例第3條第3款：「農民:指直接從事農業生產之自然人。」，次依農業發展條例第18條規定農舍興建須為無自用農舍之農民，且農舍起造人應為該農舍坐落土地之所有權人，故規範之對象係為自然人。因此農業企業機構並非所稱之自然人，自不得申請興建農舍，至於農業設施則無此限制。\n二、台端可先查詢農業發展條例、農業用地興建農舍辦法以及申請農業用地作農業設施容許使用審查辦法等相關規定，並逕洽所在地直轄市、縣(市)政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031815696號|農業企業機構可否在購買之農地興建農舍或農業設施"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e497957616688dad1cdbb039b8bdec2ec09d12b04277c0f7b8d32c5e475f87a2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "農業企業機構可否在購買之農地興建農舍或農業設施。\n一、按農業發展條例第3條第3款:「農民:指直接從事農業生產之自然人。」,次依農業發展條例第18條規定農舍"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "例第3條第3款:「農民:指直接從事農業生產之自然人。」,次依農業發展條例第18條規定農舍興建須為無自用農舍之農民,且農舍起造人應為該農舍坐落土地之所有權人,故規"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍,至於農業設施則無此限制。\n二、台端可先查詢農業發展條例、農業用地興建農舍辦法以及申請農業用地作農業設施容許使用審查辦法等相關規定,並逕洽所在地直轄市、縣(市"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "制。\n二、台端可先查詢農業發展條例、農業用地興建農舍辦法以及申請農業用地作農業設施容許使用審查辦法等相關規定,並逕洽所在地直轄市、縣(市)政府辦理。"
+  }
+ ]
+}

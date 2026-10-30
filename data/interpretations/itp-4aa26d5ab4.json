@@ -1,0 +1,58 @@
+{
+ "id": "itp-4aa26d5ab4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1051827674號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "法規釋疑。",
+ "content": "一、有關興建集村農舍相關規定，請臺端參閱農業用地興建農舍辦法第2、5、6、7條與第11條規定，前開辦法規定，可於全國法規資料(http://law.moj.gov.tw/Index.aspx)查詢。\n二、另，集村農舍得否做為民宿一節，查集村農舍經內政部營建署認定屬集合住宅，次查民宿管理辦法第10條規定民宿不得設於集合住宅，惟集村農舍是否屬民宿管理辦法所稱之集合住宅，請臺端逕洽該法主管機關交通部觀光局。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1051827674號|法規釋疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "49b59a42ddfda35b9e62a11eaa05b1e2a77ce17a7064a8a083d04dcebc7c0ce5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法規釋疑。\n一、有關興建集村農舍相關規定,請臺端參閱農業用地興建農舍辦法第2、5、6、7條與第11條規定,前開辦法規定,可於全國法規資料(http://"
+  }
+ ]
+}

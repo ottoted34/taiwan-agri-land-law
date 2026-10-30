@@ -1,0 +1,52 @@
+{
+ "id": "itp-39b2345735",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970122367號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "非都市土地已申請農業產銷必要設施，得否再申請興建農舍案，復請查照。",
+ "content": "1.復 貴署97年4月25日營署綜字第0972907192號函。\n2.農業設施與農舍分屬不同法規予以規範，對於二項設施之設置，均需與農業生產或農業經營所需為前題。故針對農業用地已興建農業設施，得否再申請興建農舍乙節，考量農業用地係農業經營為目的，為維護農業生產環境，避免過多之設施影響該筆農地經營及確保毗鄰農地之生產環境，對於已申請農業設施之農業用地若擬再申請興建農舍者，應以農業生產之必要性為原則，且設施間之設置條件、功能與用途不得重疊，並符合各該法令規定辦理。\n3.上開本會意見及本會93年12月3日農企字第0930156485號函一份，請卓參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970122367號|非都市土地已申請農業產銷必要設施得否再申請興建農舍案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "594ac6bb31447c80ef2841a18c286faf9cb529e430943c3e14a279a2d3ef806c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

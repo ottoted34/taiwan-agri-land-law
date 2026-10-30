@@ -1,0 +1,58 @@
+{
+ "id": "itp-aa0a9aa70a",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0981842793號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺灣南投地方法院函詢○○○各持有2分之1所有權之魚池鄉○○○○○、○○○○○建號等2棟農舍，得否分別拍賣案，本會意見如說明，請查照。",
+ "content": "一、依據 貴部98年6月16日內授中辦地字第0980045717號函辦理。\n二、興建中農舍或興建完成之農舍，經法院拍賣者，其投標人資格應符合無自用農舍，前經本會96年2月13日農水保字第0961848111號函知各法院有案，故由同一人同時取得二棟以上之農舍，與本會農地管理政策並不相符，合先說明。\n三、為避免農舍與農地所有權人分屬不同人時，衍生農舍與農地管理等問題，本案臺灣南投地方法院將○○○各持分二分之一所有權之二棟農舍，分甲乙兩標分別拍賣應符合農業發展條例第18條第4項農舍應與其坐落用地併同移轉規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0981842793號|有關臺灣南投地方法院函詢○○○各持有2分之1所有權之魚池鄉○"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ef47bdb35b8351dc80ac0d39db12ce55f305a164e66dfb8240f64deab8109e52",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "○○各持分二分之一所有權之二棟農舍,分甲乙兩標分別拍賣應符合農業發展條例第18條第4項農舍應與其坐落用地併同移轉規定。"
+  }
+ ]
+}

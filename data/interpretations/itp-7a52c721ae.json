@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6067",
    "serial": null,
-   "fetched_at": "2026-10-30T09:46:46+08:00",
+   "fetched_at": "2026-10-30T11:13:58+08:00",
    "source_key": "rmis:6067"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1152606166號|有關貴府函詢農業用地申請農業設施涉及基地填土管理權責及審查方"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -38,22 +44,30 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2009",
+   "law_id": "M0020002",
    "article": "2-1",
    "kind": "extracted",
    "snippet": "用,倘農地確為農業使用目的而有改良需求者,其填土土質,應符合農業發展條例施行細則第2條之1規定,貴府定有彰化縣辦理農業用地申請改良作業要點據以執行。\n二、至取得容許使用之"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "申請改良作業要點據以執行。\n二、至取得容許使用之農業設施,依農業發展條例第8條之1第2項規定,應依法申請建築執照,故農業設施之建築基礎有回填固化材料以穩固設施者,"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業設施之建築基礎有回填固化材料以穩固設施者,該回填材料應符合建築法相關規定,且僅得於設施建築範圍內為之,與前開為從事農業耕種進行農地土壤改良有別。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,59 @@
+{
+ "id": "itp-bd95a49252",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080256886號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關南投縣名間鄉公所函詢農舍基地調整案，復如說明，請查照。",
+ "content": "一、復貴部108年12月25日內授營建管字第1080823225號函。\n\n二、查本會針對農業用地興建農舍辦法(以下簡稱本辦法)第12條第3項第3款規定，以102年11月26日農水保字第1020229253號函略以：「．．．其立法目的在於規範已領有農舍使用執照之農業用地扣除超出規定比例之農業用地面積後，應不小於0.25公頃，以避免原申請興建農舍之農業用地再不當細分，影響農業用地使用管制及農業生產效率．．．」，爰應考量\n解除套繪管制後之農舍用地面積與農業經營用地面積比例及是否影響農業生產環境及農村發展，即依上開規定辦理解除套繪管制，既未涉及變更農舍建築物本體及農舍附屬設施範圍，則無涉原經營計畫書之變更，先予敘明。\n\n三、經查本案於106年經核准農舍申請興建資格，107年取得使用執照，復於108年申請基地調整致須異動農舍用地面積與農業經營用地面積，甚至影響原農舍興建資格申請要件，爰該個案異動之理由為何，似有釐明之必要。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080256886號|有關南投縣名間鄉公所函詢農舍基地調整案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4a73e0b45451163ffa584ba1ff9b1f18207c1b84801b8466e044e4ce220d743b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "日內授營建管字第1080823225號函。\n\n二、查本會針對農業用地興建農舍辦法(以下簡稱本辦法)第12條第3項第3款規定,以102年11月26日農水保字第10"
+  }
+ ]
+}

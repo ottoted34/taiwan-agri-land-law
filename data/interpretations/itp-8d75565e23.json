@@ -1,0 +1,58 @@
+{
+ "id": "itp-8d75565e23",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990120011號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端已興建農舍，可否提供另一筆土地作為他人集村興建農舍建築坐落基地疑義案，復請查照。",
+ "content": "一、復 台端99年3月23日申請函。\n二、關於集村興建農舍之起造人資格，查農業發展條例第18條第4項已明定「農舍起造人應為農舍坐落土地之土地所有權人」，是以，本案擬興建農舍非坐落於自已農地不符本法規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990120011號|有關台端已興建農舍可否提供另一筆土地作為他人集村興建農舍建築"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a0ec889ff099f0538218078ac0f7f77c2b9968a4514457f93d827a604e6c30a2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "9年3月23日申請函。\n二、關於集村興建農舍之起造人資格,查農業發展條例第18條第4項已明定「農舍起造人應為農舍坐落土地之土地所有權人」,是以,本案擬興建農舍非"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "itp-ad7b9737eb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990140409號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴府函詢森林區之農牧用地（新化鎮○○○地號）是否得興建農舍1案，復如說明，請 查照。",
+ "content": "1.復 貴府99年6月10日府農務字第0990132563號函。\n2.查「農業發展條例施行細則」第2條已明定農業用地之法律依據及範圍，故森林區內編定之農牧用地屬農業用地範圍，得當依「農業用地興建農舍辦法」等相關法令規定申請興建農舍事宜，惟該辦法第4條略以：「申請興建農舍之土地有下列情形之一者，不得依本辦法申請興建農舍…三、其他違反土地使用管制規定者」，合先敘明。\n3.爰有關旨揭土地涉及非都市土地使用管制規則及臺灣南部區域計畫法（第一次通盤檢）之「限制發展地區」等規定，請 洽詢中央目的事業主管機關—內政部營建署。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990140409號|有關貴府函詢森林區之農牧用地新化鎮○○○地號是否得興建農舍1"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f99205847ec475ccbc82555b720375b97c8b5a7eeca6fffca5a9fae64952fc1d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "99年6月10日府農務字第0990132563號函。\n2.查「農業發展條例施行細則」第2條已明定農業用地之法律依據及範圍,故森林區內編定之農牧用地屬農業用地範圍,得當依「"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "律依據及範圍,故森林區內編定之農牧用地屬農業用地範圍,得當依「農業用地興建農舍辦法」等相關法令規定申請興建農舍事宜,惟該辦法第4條略以:「申請興建農舍之土地有下列情"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "違反土地使用管制規定者」,合先敘明。\n3.爰有關旨揭土地涉及非都市土地使用管制規則及臺灣南部區域計畫法(第一次通盤檢)之「限制發展地區」等規定,請 洽詢中央目的事"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "明。\n3.爰有關旨揭土地涉及非都市土地使用管制規則及臺灣南部區域計畫法(第一次通盤檢)之「限制發展地區」等規定,請 洽詢中央目的事業主管機關—內政部營"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "itp-a8fa97c5de",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960162242號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例89年1月28日修正生效後取得之農業用地，依法被徵收致面積未達0.25公頃，是否可以徵收後剩餘面積申請興建農舍案，復請查照。",
+ "content": "1.復 貴府96年11月2日府農務字第0960221777號函。\n2.因公共設施需要徵收土地，致面積小於0.25公頃，不符「農業用地興建農舍辦法」第3條第1項之規定，查政府已依土地徵收條例第3章徵收補償規定，給予原地主徵收補償金(地價、建築改良物、農作改良物、土地改良物等)，基於公平原則及內政部93年8月2日台內營字第0930009288號函示：「農業發展條例89年1月28日修正生效後取得之農業用地，依法被徵收，並無農業用地興建農舍辦法第3條第3項、第4項之適用」意旨，申請興建農舍時，仍應依上開辦法相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960162242號|農業發展條例89年1月28日修正生效後取得之農業用地依法被徵"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-4ce5f3b09a",
+    "by_docno": "農授水保字第0990122132號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "2.依本會96年11月8日農授水保字第0960162242號函規定:「因公共設施需要徵收土地,致面積小於0.25公頃,不符合農業用地興建農舍辦法第3條第1項規定,查政府已依土地徵收條例第3章徵收補償規定,給予原地主徵收補償金,基於公平原則及內政部93年8月2日台內營字第0930009288號函釋:『農業發展條例89年1月28日修正生效後取得之農業用地,依法被徵收,並無農業用地興建農舍辦法第3條第3"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fce7220f20021a542b83614c1d83cdedefd6cef4f19bda406a0d5164eb106b50",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例89年1月28日修正生效後取得之農業用地,依法被徵收致面積未達0.25公頃,是否"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "。\n2.因公共設施需要徵收土地,致面積小於0.25公頃,不符「農業用地興建農舍辦法」第3條第1項之規定,查政府已依土地徵收條例第3章徵收補償規定,給予原地主徵收補償金(地"
+  }
+ ]
+}

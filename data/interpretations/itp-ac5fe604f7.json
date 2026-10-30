@@ -1,0 +1,70 @@
+{
+ "id": "itp-ac5fe604f7",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第0931005270號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "山坡地範圍內農業用地申請作農業設施容許使用，如依水土保持法應擬具水土保持計畫者，須辦理事宜。",
+ "content": "一、現行「農業用地容許作農業設施使用審查辦法」第二十一條規定，於山坡地範圍內申請農業用地作農業設施使用，如依水土保持法規定應擬具水土保持計畫者，於申請雜項執照或有實際開挖行為前，應擬具水土保持計畫送請主管機關審查核可。為避免農業設施容許使用遺漏水土保持計畫之審查，故凡位於上開範圍內作農業設施使用，當事人應另擬具水土保持計畫送主管機關核可後始得開挖整地。\n二、依前項規定，爾後縣（市）政府受理農業用地申請作農業設施容許使用之審議，倘申請人未先將水土保持計畫送主管機關核可或併同事業計畫同時審查者，應於核發農業用地容許作農業設施使用同意書前，加會水土保持單位表示意見，始得核發。\n三、又縣（市）政府已依本辦法第二十五條規定，將權限委由所轄鄉（鎮市區）公所，應由所轄（鎮市區）公所於完成審查後，將全案資料送請該管直轄市、縣（市）政府水土保持單位表示意見後，再行核發。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第0931005270號|山坡地範圍內農業用地申請作農業設施容許使用如依水土保持法應擬"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fbaadf510cd87cfb232bdec349ea23ec80174b44263502120d4af61e47942844",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "山坡地範圍內農業用地申請作農業設施容許使用,如依水土保持法應擬具水土保持計畫者,須辦理事宜。\n一、現行「農業用地容許作農業設施使用審查辦法"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": ",如依水土保持法應擬具水土保持計畫者,須辦理事宜。\n一、現行「農業用地容許作農業設施使用審查辦法」第二十一條規定,於山坡地範圍內申請農業用地作農業設施使用,如依水土保持法規定應擬具水土保持"
+  }
+ ]
+}

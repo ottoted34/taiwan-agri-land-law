@@ -1,0 +1,52 @@
+{
+ "id": "itp-83122edf3a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981831805號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問共有農業用地分割申請農舍資格疑義案，復請查照。",
+ "content": "1.復台端98年12月14日申請書。\n2.依據本會96年3月14日農授水保自第0961848173號函（附件1）共有農業用地申請興建農舍處理原則，樣態二處理原則第1點：「共有人最後取得持分面積低於修法前取得持分面積者，按樣態一處理原則辦理，並以最後取得之持分面積計算可興建農舍面積。」；又依樣態二處理原則第2點：「共有人最後取得持分面積維持原來修法前取得之持分面積或大於修法前取得之持分面積者，得適用修法前建管法令興建農舍，惟以原來修法前取得之持分面機計算可興建農舍面積。」。\n3.另有關土地合併分割交換調整，其屬權屬不變動之分割或合併案件，其取得農地計算基準之認定，已於97年11月26日農授水保字第0971844308號函說明在案（附件2）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981831805號|有關台端詢問共有農業用地分割申請農舍資格疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bb538268d9bc6a1003eadc25e17fdb59a79dbdefa19d64efd5fbafb283b52004",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

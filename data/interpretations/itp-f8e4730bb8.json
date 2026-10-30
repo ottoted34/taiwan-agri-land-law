@@ -1,0 +1,52 @@
+{
+ "id": "itp-f8e4730bb8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981830808號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端陳情不符合興建農舍之申請人資格條件審查案，復請查照。",
+ "content": "1.復台端98年12月3日陳情書。 2.土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準。 3.台端於97年8月17日與共有人辦理土地合併、分割及共有土地所有權分割，陳情人取得其中○○○地號面積3390平方公尺，其面積已變動，增加90平方公尺，故應以土地登記機關最後完成合併分割登記之時點為基準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981830808號|有關台端陳情不符合興建農舍之申請人資格條件審查案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "985fb7e1681584ed826dba0c7790f857014bbac47fba6c0558058dcc57b88092",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

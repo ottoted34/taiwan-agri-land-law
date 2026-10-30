@@ -1,0 +1,60 @@
+{
+ "id": "itp-7a9e8c565b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1060729361號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於農業用地興建農舍辦法第3條之1規定，相關證明文件審查疑義案，復如說明，請查照。",
+ "content": "一、奉行政院農業委員會交下貴府農業局106年10月16日中市農地字1060036184 號函暨106 年10 月17 日中市農地字第1060036488號函辦理。\n二、按「農舍」係為提供有心經營農業者於該農地上興建具有放置農機具兼其居住之需求，以便利其農事工作，而與農業經營不可分離之建築物，因此申請人係於農業用地上先有農業經營行為後始有興建農舍之需求，該農業用地應以積極利用為目的，先予敘明。\n三、依據農業用地興建農舍辦法第3條之1規定申請人應檢附農業生產相關佐證資料，有關申請人所檢具之相關證明文件，請參照行政院農業委員會104年10月21日農水保字第1041866479號函說明三辦理。\n四、另申請人若依本辦法第3條之1規定，檢附農業生產相關佐證資料以茲證明為農民者，其所提出之佐證資料如繳售公糧登記、領取農業天然災害救助或領取調整耕作制度活化農地計畫轉(契)作補貼等，均須與農舍申請人一致。惟考量有關繳交公糧者，多以戶為單位，係符合臺灣一般傳統農戶經營之概念，建議於審查時，得以戶口名簿、配合現地訪談鄰近耕作戶、居民或糧商及農會等人員，以證明或確認該申請人是否有農業經營事實，而非僅以書面資料判斷決定該申請案件之核駁，應配合現地查證及抽檢所提文件是否屬實。\n五、惟所詢事項係屬個案事實之審認，為直轄市、縣(市)政府之權責，請貴府衡酌，本權責並就個案事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1060729361號|關於農業用地興建農舍辦法第3條之1規定相關證明文件審查疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3ca21aba24f79537428ab3ba2ca93bd89aa772f6c1b24fb55b4417f2fe7e7b80",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "關於農業用地興建農舍辦法第3條之1規定,相關證明文件審查疑義案,復如說明,請查照。\n一、奉行政院農業委員會交下貴府"
+  }
+ ]
+}

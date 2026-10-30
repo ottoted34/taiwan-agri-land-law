@@ -1,0 +1,58 @@
+{
+ "id": "itp-378f5f0313",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931801943號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函請釋示新竹縣政府召開農業用地集村興建農舍資格條件審查會議紀錄五、臨時動議，有關集村興建農舍相關疑義案，復請查照。",
+ "content": "一、復台端93年1月28日申請函。\n二、依據本會91年9月20日農輔字第0910149848號函，對「農業用地興建農舍辦法」第3條農民資格疑義已有明確釋示，且上開辦法並未規定擁有自用住宅及持有有價證券之農民不得參加集村興建農舍。\n三、另，依本會92年9月4日農授水保字第0921847197號函及92年8月7日召開研商「農業用地興建農舍辦法」有關集村興建農舍執行疑義十四之研商結論意旨，特定農業區農牧用地及經辦竣重劃之農牧用地均可參加集村興建農舍。\n四、又上開執行疑義一及六之研商結論，山坡地與平地可併同申請集村興建農舍，但平均坡度超過30%以上之山坡地範圍內之農業用地，不得申請興建農舍，且各起造人提供之配合耕地不需屬同一宗農業用地。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931801943號|台端函請釋示新竹縣政府召開農業用地集村興建農舍資格條件審查會"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "24a2d2b52d9591293523a37e581e56fe4f63e4615369cd81f725774419fc93bb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "依據本會91年9月20日農輔字第0910149848號函,對「農業用地興建農舍辦法」第3條農民資格疑義已有明確釋示,且上開辦法並未規定擁有自用住宅及持有有價證券之農民不得"
+  }
+ ]
+}

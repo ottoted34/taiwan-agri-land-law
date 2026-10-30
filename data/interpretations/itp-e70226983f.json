@@ -1,0 +1,66 @@
+{
+ "id": "itp-e70226983f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990152626號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問農地違規整地設置擋土牆，可否申辦農舍併案補辦水土保持計畫核發農地農業使用證明乙案，復請查照。",
+ "content": "1.復台端99年8月2日信函。\n2.於山坡地範圍內未經申請而擅自開發之違規行為，除依水土保持法第33條處以罰鍰外，應要求水土保持義務人依水土保持技術規範實施必要之水土保持處理與維護；此外，如已開發完成，達到使用目的者，宜輔導水土保持義務人依正常程序提送水土保持計畫或簡易水土保持申報書，以維護程序及實體之完整，並落實水土保持法之立法精神，如未能提出申請者，建請依水土保持法第23條第2項規定，採積極之強制作為（強制拆除或清除其工作物），以避免藉由投機行為而達到「違規使用」之目的。此本會97年4月9日農授水保字第0971850525號函釋在案，先予述明。\n3.農業用地申請興建農舍與山坡地範圍內違規行為輔導提送水土保持計畫，係屬二事。台端於農地違規整地設置擋土牆，業經台北縣政府依法罰鍰經二年，是否得補辦水土保持計畫及核發農地農業使用證明部份，宜由該府本於職權研復。\n4.本案據訴已經臺北縣政府駁回台端申請，然未見該府駁回之理由，本會尚難了解疑義所在，宜由該府依法妥處。倘台端不服該府處分時，得依訴願法提出救濟。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990152626號|有關台端詢問農地違規整地設置擋土牆可否申辦農舍併案補辦水土保"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2ed373fb88c34b2b0878a882aeb7db2923381cf71fa9d4117fb6b9507f0fc8c2",
+ "topics": [
+  "farm_use_cert",
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110001",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "信函。\n2.於山坡地範圍內未經申請而擅自開發之違規行為,除依水土保持法第33條處以罰鍰外,應要求水土保持義務人依水土保持技術規範實施必要之水土保持處理與維護;"
+  },
+  {
+   "law_id": "M0110001",
+   "article": "23",
+   "kind": "extracted",
+   "snippet": "之完整,並落實水土保持法之立法精神,如未能提出申請者,建請依水土保持法第23條第2項規定,採積極之強制作為(強制拆除或清除其工作物),以避免藉由投機行為而達到"
+  }
+ ]
+}

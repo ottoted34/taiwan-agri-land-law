@@ -1,0 +1,60 @@
+{
+ "id": "itp-47bd9bc16e",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1070712055號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關民眾陳情協調內政部於100年8月23日內授中辦地字第1000725328號令中增列「農舍與農業用地於繼承，贈予直系親屬時，繼承人或受贈人間持有農舍與農業用地之比例，得不相同」案，復如說明，請查照。",
+ "content": "一、依據內政部107年4月26日台內地字第1071303064號函辦理。\n二、查本案本會前以107年4月24日農授水保字第1070990376號函復貴辦公室有案，先予敘明。\n三、農業用地准許興建「農舍」之制度，按其立法意旨，其係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之建築物，以便利其農事工作，與一般家居住宅性質不同，爰農舍與農業用地於繼承或贈予直系親屬時，該農舍與農業用地仍應依規定使用，始符合立法意旨。\n四、查農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；…」，故農舍應與其坐落用地併同移轉為基本前提，又前揭規定之立法意旨係在避免農舍與其坐落用地分屬不同所有權人，引發利用及產權紛爭問題，故農地與農舍移轉時不應有所有權人不同或持分不一致之情形，該原則應予維持。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1070712055號|有關民眾陳情協調內政部於100年8月23日內授中辦地字第10"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f49fc1b5098cec485b743b380a782e51bc954a5982d32eedc3c9aa273774e6bc",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "時,該農舍與農業用地仍應依規定使用,始符合立法意旨。\n四、查農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

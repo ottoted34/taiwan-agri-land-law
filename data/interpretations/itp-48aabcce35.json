@@ -1,0 +1,59 @@
+{
+ "id": "itp-48aabcce35",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843117號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關都市計畫農業區農舍得否租借非所有權人做農藥販賣，並據以申請農藥販賣業執照及華利事業登記案，復請查照。",
+ "content": "一、復 貴辦公室97年1月23日台內中營字第0970010626號函。\n二、按農舍係與農業經營有關，附帶始提供非都市土地容許使用項目之許可使用細目行為，包括農家住宅、農舍附屬設施、農產品之買賣、農作物生產資材及日用品買賣、民宿等，又依農業發展條例第18條規定意旨，農舍起造人應為土地所有權人及農舍應以自用為原則，故農舍似不宜單純租借非所有權人做農藥販賣行為依上述農舍性質及農業發展條例立法意旨當觀之，其管制標準應不因土地為非都市土地或都市計畫農業區土地而所不同。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843117號|有關都市計畫農業區農舍得否租借非所有權人做農藥販賣並據以申請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e97b73da3270b07cf0f7b3b8eec4a47caad232f6885424a73367b862711cc174",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "設施、農產品之買賣、農作物生產資材及日用品買賣、民宿等,又依農業發展條例第18條規定意旨,農舍起造人應為土地所有權人及農舍應以自用為原則,故農舍似不宜單純租借非"
+  }
+ ]
+}

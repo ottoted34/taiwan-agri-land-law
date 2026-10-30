@@ -1,0 +1,60 @@
+{
+ "id": "itp-650d07bdda",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061801299號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農地提出農舍申請前業核准農業設施容許使用，導致十分之一農舍範圍無法矩形配置於臨路及鄰地界線之樣態案，復如說明，請查照。",
+ "content": "一、依貴府106年2月6日屏府農企字第10583855400號函辦理。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍。\n三、次依據農業用地興建農舍辦法第9條第1項第3款規定:「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積之百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」併予敘明。\n四、基於農舍性質與農業設施有別，農舍可涵蓋農業設施之功能，又部份農業設施設置之必要性及申請基準條件尚待檢討，倘二者須同時配置考量，自應優先適用農舍之配置規定，如提出農舍申請前業核准農業設施容許使用，建議應由申請人依前開農舍配置規定，據以調整符合規定辦理之。\n五、申請農舍之個案審查係屬地方政府權責，本案仍請貴府就個案事實審酌核處。\n六、另貴府建議農舍用地與農業設施座落位置之審查明定於相關法令規定，將納入後續修法研處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061801299號|有關農地提出農舍申請前業核准農業設施容許使用導致十分之一農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "649bf5b25ff1ad8e754f1e214a1048a4eed059e35b6d09aa011892e162c908af",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "舍係為特許之行為,並非擁有農業用地即可興建農舍。\n三、次依據農業用地興建農舍辦法第9條第1項第3款規定:「申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地面積"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "itp-3af8e5ba6d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070716546號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為○○○等26人申請重新辦理集村興建農舍坐落用地(貴市善化區○○○地號)專案分割案，復請查照。",
+ "content": "一、復貴府107年6月13日府農工字第1070674196號函。\n二、查貴府來文所述，旨揭集村農舍於基地開挖時部分地號土地發現古蹟遺址，為配合貴府文化局原地保留，依文化資產保護法規定須辦理相關變更設計程序，因案涉旨揭地號部分土地擬重新分割調整，爰重新申請集村農舍專案分割。\n三、經檢視本次所檢附之各戶專案分割示意圖與原先所檢附之各戶專案分割示意圖，其土地總面積未有異動，爰依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定，重行同意旨揭土地分割為35筆土地，並同時廢止本會107年2月26日農授水保字第1070705298號函原同意旨揭地號分割之處分。\n四、檢還土地登記謄本1冊、各戶專案分割示意圖3份。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070716546號|為○○○等26人申請重新辦理集村興建農舍坐落用地貴市善化區○"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "33edecf986d1929f0213ebd1e8566c99d8c4659faef92d87d024b53cee503192",
+ "topics": [
+  "partial_use",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "原先所檢附之各戶專案分割示意圖,其土地總面積未有異動,爰依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定,重行同意旨揭土地分割為35筆土"
+  }
+ ]
+}

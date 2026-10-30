@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5014",
    "serial": null,
-   "fetched_at": "2026-10-30T10:10:43+08:00",
+   "fetched_at": "2026-10-30T11:37:45+08:00",
    "source_key": "rmis:5014"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020737360號|農業設施興建高度之法令疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "8",
    "kind": "extracted",
    "snippet": "12月1日申請書。\n二、有關本會102年10月9日修正發布之「申請農業用地作農業設施容許使用審查辦法」第8條規定:「農業設施興建高度及樓層應依本辦法規定辦理;未規定高度之農業設施,其高度不"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

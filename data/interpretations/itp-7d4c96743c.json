@@ -1,0 +1,70 @@
+{
+ "id": "itp-7d4c96743c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950149261號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關農業發展條例修正施行前取得之農地，申請興建農舍時申請人之戶籍所在地及其農業用地是否須在同一縣（市）內疑義案，復請查照。",
+ "content": "一、復 台端95年8月29日申請書。\n二、依農業發展條例第18條第3項明定：「本條例89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。……。」;台端66年5月28日取得之農業用地，且無自用農舍而需興建，得依「農業用地興建農舍辦法」第2條規定申請興建農舍，不受本辦法所定申請興建農舍相關規定之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950149261號|台端函詢有關農業發展條例修正施行前取得之農地申請興建農舍時申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2093124cadce99d296c48aaecf497af76ca9fcb6db42763c081fbabbb45fbc72",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復 台端95年8月29日申請書。\n二、依農業發展條例第18條第3項明定:「本條例89年1月4日修正施行前取得農業用地,且無自用農舍而需興建者"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。......。」;台端66年5月28日取得之農業用地,且無"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "端66年5月28日取得之農業用地,且無自用農舍而需興建,得依「農業用地興建農舍辦法」第2條規定申請興建農舍,不受本辦法所定申請興建農舍相關規定之限制。"
+  }
+ ]
+}

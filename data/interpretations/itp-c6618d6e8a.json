@@ -1,0 +1,52 @@
+{
+ "id": "itp-c6618d6e8a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990102095號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○陳情台北縣三芝鄉○○○地號土地申請興建農舍疑義案，請查照。",
+ "content": "一、依據 貴府99年1月8日北農牧字第0990006762號函辦理。\n二、有關土地取得時點之認定，屬內政部地政單位權責，本案仍請依本會98年9月10日農授水保字第0980155972號函意旨，請土地所在地登記機關認定土地取得時點，倘有疑義請報其上級主管機關研處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990102095號|有關○○○陳情台北縣三芝鄉○○○地號土地申請興建農舍疑義案請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9b627ae428f0976e8104df2d63b8cece91bfd054e92f621b1059fe2c7a3ba16a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

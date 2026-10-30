@@ -1,0 +1,58 @@
+{
+ "id": "itp-ec1a4867c7",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1001851526號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○陳情「新北市石門區○○○地號土地申請興建農舍」案，復請 查照。",
+ "content": "一、復 貴辦公室100年6月16日轉○○○100年6月16日陳情書。 二、 查民法於98年1月23日修正第824條之1，爰行政院農業委員會99年6月28日農水保字第0991875147號令核釋「共有農業用地於『農業發展條例』89年1月28日修正施行後取得，且於98年7月23日以後分割者，依民法第824條之1規定，其土地取得時點應以土地完成分割登記日起算」，倘共有農業用地取得及分割時點符合上開令期間者申請興建農舍，自當依該號令以完成分割登記日起算。因土地取得時點之認定係屬縣市政府權責，宜請○○○檢具土地登記謄本、異動索引等相關資料向新北市政府洽辦。 三、有關旨案是否適用行政院農業委員會「共有農業用地申請興建農舍處理原則」，本局100年6月3日水保農字第1000132562號函復新北市政府並於100年6月9日水保農字第1001851418號函副知○○○有案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1001851526號|有關○○○陳情新北市石門區○○○地號土地申請興建農舍案復請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "eafc80d2f43e263d21d0d6a880b67d48d9888433110559a0a591c0bf13a5095b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "28日農水保字第0991875147號令核釋「共有農業用地於『農業發展條例』89年1月28日修正施行後取得,且於98年7月23日以後分割者,依民法第824條"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-771b55d43e",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第0931233378號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋水產養殖運銷設施許可使用細目可否同時配置於同一建構物或需分別獨立興建案",
+ "content": "查農業用地容許作農業設施使用審查辦法第十六條第一項第一款各目，業已明定水產養殖設施許可使用項目及面積，其中第十目一般室內養殖設施特別規定，室內養殖槽面積應佔該室內面積百分之八十以上，且與建以一層為限，以明確規範該建構物之使用用途。至同一建構物是否得以隔間方式，則尚無禁止規定。另申請人尚有室外養殖池者，其室內養殖設施以外之水產養殖設施許可使用細目，得另依第一至第八目規定辦理，且以獨立興建為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授漁字第0931233378號|釋水產養殖運銷設施許可使用細目可否同時配置於同一建構物或需分"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7c1d80d9164a2b095cb1f147ca291746c2436557971618fa4eeb8aeb084e07ca",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "施許可使用細目可否同時配置於同一建構物或需分別獨立興建案\n查農業用地容許作農業設施使用審查辦法第十六條第一項第一款各目,業已明定水產養殖設施許可使用項目及面積,其中第十目一般室內養殖"
+  }
+ ]
+}

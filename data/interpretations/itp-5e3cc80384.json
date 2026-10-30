@@ -1,0 +1,58 @@
+{
+ "id": "itp-5e3cc80384",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950141439號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關申請興建農舍之申請人，與他人共有土地上（非申請興建農舍座落基地）倘有無保存登記之房舍，然房屋稅籍證明所載之納稅義務人非申請人，得否認定為無自用農舍疑義案，復請查照。",
+ "content": "一、復 貴府95年7月21日屏府農務字第0950143864號函。\n二、依「農業用地興建農舍辦法」第3條第1項，申請人是否無自用農舍之資格條件審查，應依據本會90年7月4日（90）農輔字第900050675號函示，由申請人檢具下列證明文件：\n(一)稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。\n(二)申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。(三)申請人切結無自用農舍文件等文件，俾供審查。\n三、本案仍請 貴府依上開說明二無自用農舍應檢具之證明文件作為審認依據。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950141439號|貴府函詢有關申請興建農舍之申請人與他人共有土地上非申請興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "956b9e8c7094cfa1f3b9dad4ed6e20e3ccaad37d92dd605e971098683ac9d635",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "5年7月21日屏府農務字第0950143864號函。\n二、依「農業用地興建農舍辦法」第3條第1項,申請人是否無自用農舍之資格條件審查,應依據本會90年7月4日(90)農輔"
+  }
+ ]
+}

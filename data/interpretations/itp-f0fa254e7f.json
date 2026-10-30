@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3977",
    "serial": null,
-   "fetched_at": "2026-10-30T10:01:44+08:00",
+   "fetched_at": "2026-10-30T11:28:57+08:00",
    "source_key": "rmis:3977"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署建管字第1040071737號|有關已興建農舍之耕地申請依農業發展條例第16條第1項第1款前"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,22 +47,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "16",
    "kind": "extracted",
    "snippet": "有關已興建農舍之耕地申請依農業發展條例第16條第1項第1款前段規定辦理分割合併,後原管制耕地面積增加,涉及套繪管制事宜,復請查"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "12",
    "kind": "extracted",
    "snippet": "04年11月2日內地司字第1040072382號書函。\n二、農業用地興建農舍辦法第12條第2項規定:「已申請興建農舍之農業用地,直轄市、縣(市)主管建築機關應於地籍套繪"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

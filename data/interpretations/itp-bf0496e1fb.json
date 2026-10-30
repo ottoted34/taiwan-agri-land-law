@@ -1,0 +1,65 @@
+{
+ "id": "itp-bf0496e1fb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061831393號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「請釋有關農業用地興建農舍辦法之農舍申請人資格」一案",
+ "content": "一、有關於農業用地興建農舍辦法104年9月4日修正生效前已取得農舍申請人資格核准公文者，依據行政程序法第110條第3項規定，行政處分未經撤銷、廢止，或未因其他事由而失效者，其效力繼續存在。\n二、本案如於審查建造執照時，發生是否須重新取得申請興建農舍申請人資格之疑義，請先洽詢直轄市、縣市政府等相關單位確認須重新取得之緣由。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061831393號|請釋有關農業用地興建農舍辦法之農舍申請人資格一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f52d5bc9a114a5c23cef384990d44a99989169a6a29d93504e65ec8f742a9661",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「請釋有關農業用地興建農舍辦法之農舍申請人資格」一案\n一、有關於農業用地興建農舍辦法104年9月4日修正生效前"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "110",
+   "kind": "extracted",
+   "snippet": "04年9月4日修正生效前已取得農舍申請人資格核准公文者,依據行政程序法第110條第3項規定,行政處分未經撤銷、廢止,或未因其他事由而失效者,其效力繼續存在。\n二"
+  }
+ ]
+}

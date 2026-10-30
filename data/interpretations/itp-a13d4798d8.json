@@ -1,0 +1,58 @@
+{
+ "id": "itp-a13d4798d8",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0951851383號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍，申請興建之農業用地面積有增減時，對起造人資格之審查，復請查照。",
+ "content": "一、復 貴府95年5月9日屏府農務字第0950089736號函。\n二、本會92年8月21日農授水保字第0921847142號函送之「農業用地興建農舍辦法」，有關集村興建農舍執行疑義之研商結論後提出申請之案件，如擬變更起造人，其全部共同起造人之農民資格條件，應以重新方式辦理，本會94年1月21日農授水保字第0941848241號函釋有案。\n三、貴府所詢疑義，似屬於審理中之案件，而對於審理中案件配合耕地之面積與地號有所變動後，將相對影響後續農舍建築之權利，而須再行審認之，為利於集村興建農舍案件對於配合耕地與農舍面積之對應符合一致性及完整性原則，對於該類案件採重新審查原則為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0951851383號|有關集村興建農舍申請興建之農業用地面積有增減時對起造人資格之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9227f859f5d5ce8ba0d3b78ed2f1cd0d32fe817def142816590256c85d1dd301",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "本會92年8月21日農授水保字第0921847142號函送之「農業用地興建農舍辦法」,有關集村興建農舍執行疑義之研商結論後提出申請之案件,如擬變更起造人,其全部共同"
+  }
+ ]
+}

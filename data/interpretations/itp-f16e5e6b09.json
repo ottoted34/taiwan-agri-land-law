@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6031",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:25+08:00",
+   "fetched_at": "2026-10-30T11:16:37+08:00",
    "source_key": "rmis:6031"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1132608012號|有關苗栗縣政府文化觀光局函詢受理露營相關設施容許使用審查疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,6 +45,20 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "函詢受理露營相關設施容許使用審查疑義案,復請查照。\n一、依據「非都市土地使用管制規則」第11條第4項規定略以,同一或不同申請人向目的事業主管機關提出二個以上興辦事業計畫申請之"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請露營場全區面積應小於1公頃,倘全區面積達1公頃以上者,應循區域計畫法等程序辦理使用地或使用分區變更,有關苗栗縣政府函詢露營場申請案,提出申請土地相鄰"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

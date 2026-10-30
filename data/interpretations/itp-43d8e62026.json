@@ -1,0 +1,78 @@
+{
+ "id": "itp-43d8e62026",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950140191號",
+ "date": "2006-07-21",
+ "date_text": "95/7/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請農業用地變更之農業用地變更回饋金繳交案。",
+ "content": "主旨：有關　貴會函為屏東縣內埔鄉○○○○等人申請農業用地變更之農業用地變更回饋金繳交案，復請　查照。\n說明：\n一、復　貴會95年7月18日原民地字第0950020159號函。\n二、依農業發展條例第12條第1項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，本會並訂有「農業用地變更回饋金撥繳及分配利用辦法」，就農業用地應繳交回饋金之情況標準與作業方式予以規範，除符合本條例同條第4項規定，用地之變更為：1、政府興辦之公共建設及公益性設施；2、政府興辦之農村建設及農民福利設施；3、興辦之建設、設施位於經濟部公告為嚴重地層下陷地區，或中央主管機關所定偏遠、離島地區之情形者，得免繳交回饋金外，原則上均應依規定繳交，先予敘明。\n三、查本會前於95年6月22日農企字第0950133502號函答復屏東縣政府略以：「按用地變更編定其地籍資料係依地政單位提供之土地登記謄本標示所載之座落鄉(鎮、市、區)及地段為準，與是否屬瑪家鄉公所行政區內之原住民保留地並無關聯。本案申請農業用地變更之土地既經敘明座落於內埔鄉隘寮段，依本會91年4月10日農企字第0910010044號公告得免繳交農業用地變更回饋金之偏遠與離島地區範圍，內埔鄉非為公告之偏遠與離島地區範圍，應依上開辦法之規定繳交回饋金。」在案，爰此本案仍應依農業發展條例及農業用地變更回饋金撥繳及分配利用辦法相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5155",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:23+08:00",
+   "source_key": "rmis:5155"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950140191號|有關申請農業用地變更之農業用地變更回饋金繳交案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "185ac984ab97488cb266006335d8d6bee94ef3c42e9754a2bfb4e02a7b390675",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "95年7月18日原民地字第0950020159號函。\n二、依農業發展條例第12條第1項規定,屬農業用地之變更,應視其事業性質,繳交回饋金,本會並訂有「農業用地變"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定,屬農業用地之變更,應視其事業性質,繳交回饋金,本會並訂有「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交回饋金之情況標準與作業方式予以規範,除符合本條例同條第4項規定"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "itp-60db9abf25",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0930027189號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關於農業發展條例修正施行後取得之農業用地，申請自用農舍補照乙案，復請查照。",
+ "content": "一、復台端93年4月5日申請書。\n二、查農業用地申請興建農舍，對於農民資格審查包括申請者年齡、戶籍地、土地取得時間、農業用地確供農業使用等項目之審查，為配合前揭審查項目中有關「農業用地確供農業使用」之審查，行政院農業委員會於「農業用地作農業使用認定及核發證明辦法」第3條第4款明定「依本條例第18條規定申請興建自用農舍者」得申請農業用地作農業使用證明書，以證明該申請興建農舍之農業用地確作農業使用。\n三、為解決「未經申請核准即已先行建築」之程序違規問題，有關「農業發展條例89年修正施行『後』取得之農業用地，未經申請許可即已先行動工之農舍」者，經行政院農業委員會於93年2月9日以農企字第0930105880號函同意核發「加註記僅供申請補辦農舍建築執照使用」之「農業用地作農業使用證明書」，以利後續申請作業。但該農舍仍應符合「農業用地興建農舍辦法」申請興建農舍相關規定。若仍有疑義，其涉及事實認定部分，請檢具具體資料逕向當地主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0930027189號|有關於農業發展條例修正施行後取得之農業用地申請自用農舍補照乙"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4222f2832192c2f2f8cbab8114acea04712c1b78ebbb9417ab0b6f920e1e324a",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關於農業發展條例修正施行後取得之農業用地,申請自用農舍補照乙案,復請查照。\n一、復台端93年4月"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "項目中有關「農業用地確供農業使用」之審查,行政院農業委員會於「農業用地作農業使用認定及核發證明辦法」第3條第4款明定「依本條例第18條規定申請興建自用農舍者」得申請農業用地作農業使用證明"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業用地作農業使用證明書」,以利後續申請作業。但該農舍仍應符合「農業用地興建農舍辦法」申請興建農舍相關規定。若仍有疑義,其涉及事實認定部分,請檢具具體資料逕向當地主管"
+  }
+ ]
+}

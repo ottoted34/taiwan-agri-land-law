@@ -1,0 +1,58 @@
+{
+ "id": "itp-0877ce54b9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1931848815號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農地所有人死亡，在未辦理繼承前可否由其全體繼承人出具同意書，同意其中一名繼承人申請無自用農舍證明疑義案，復請查照。",
+ "content": "一、依據內政部九十三年七月二十二日內授營綜字第○九三○○八五四四○號函辦理，兼復貴府九十三年七月十二日府建管字第○九三○一三四五九七號函。 二、依民法第七五九條規定，登記前已取得不動產物權者，非經登記，不得處分其物權；此外，依據「農業用地興建農舍辦法」規定，農業用地興建農舍之申請人係以該農業用地之所有權人為限，故本案宜仍需完成所有權登記後始得為之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1931848815號|有關農地所有人死亡在未辦理繼承前可否由其全體繼承人出具同意書"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8ae51949ad8e0d420ccc6a0b888c328d482e1d954bca946a8059b3a071b3a1d4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "記前已取得不動產物權者,非經登記,不得處分其物權;此外,依據「農業用地興建農舍辦法」規定,農業用地興建農舍之申請人係以該農業用地之所有權人為限,故本案宜仍需完成所有"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "itp-e81ba43472",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1060702088號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢○○○擬於貴縣國姓鄉○○○地號申請興建農舍農民資格一案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下貴府106年1月12日府農務字第1060013968號函辦理。\n二、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」，農舍係屬農地上與農業經營不可分離之建築物，故審核時除應考量該農業使用之內涵、當地農業經營發展外，應審酌該農業生產經營，其興建農舍之必要性及合理性，依農業用地興建農舍辦法等相關規定，視個案實務予以審認。\n三、審查時倘有直接交易出售、自行販售等難以取得相關單據，或難以分辨其單據之真實與合理性之狀況時，得以戶口名簿、配合現地訪談鄰近耕作戶、居民或糧商及農會等人員，以證明或確認該申請人是否有農業經營事實，而非僅以書面資料判斷決定該申請案件之核駁，應配合現地查證及抽檢所提文件是否屬實。\n四、有關農業用地興建農舍之個案審查係屬各直轄市、縣(市)政府主管機關權責，建議得由貴府邀請相關單位組成審查小組依事實審認，另相關審查實務及標準得參考其他縣市政府作法規範之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1060702088號|有關貴府函詢○○○擬於貴縣國姓鄉○○○地號申請興建農舍農民資"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "54919e205f8b4bd25d1efae441e1a3060b9b0624ace3726b65025248947d575a",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "年1月12日府農務字第1060013968號函辦理。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "發展外,應審酌該農業生產經營,其興建農舍之必要性及合理性,依農業用地興建農舍辦法等相關規定,視個案實務予以審認。\n三、審查時倘有直接交易出售、自行販售等難以取得"
+  }
+ ]
+}

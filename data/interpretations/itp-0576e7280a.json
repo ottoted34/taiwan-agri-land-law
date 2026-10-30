@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5392",
    "serial": null,
-   "fetched_at": "2026-10-30T10:16:02+08:00",
+   "fetched_at": "2026-10-30T11:43:15+08:00",
    "source_key": "rmis:5392"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1000130229號|○○修道院申請農地變更部分土地隔離設施寬度不足15公尺一案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -61,5 +67,7 @@
    "kind": "extracted",
    "snippet": "5月11日高市鳳山農務字第1001010932號函。\n二、查「農業主管機關同意農業用地變更使用審查作業要點」有關隔離綠帶或隔離設施規範意旨,係為保護周遭農業生產環境避免因鄰地變更使用而遭受"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

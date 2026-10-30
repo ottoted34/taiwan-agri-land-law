@@ -1,0 +1,52 @@
+{
+ "id": "itp-7569779377",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040730594號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣○○○申請農舍建照執照，經審查現有道路占用農地面積，其農業生產使用部分之農業經營用地應如何計算之疑義案，復請查照。",
+ "content": "一、復貴府104年9月25日府農保字第1040183492號函。\n二、申請興建農舍之農業用地其面積在0.25公頃以上，如因現有道路或公共溝渠通過，該道路及公共溝渠部分之面積不得提供計算農舍興建面積之比例，亦即以扣除通行之用農路及供農田排水之公共溝渠後之實際農作面積，作為農舍興建之計算依據。惟本案所涉個案審查事宜，仍由縣市主管機關依事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040730594號|有關貴縣○○○申請農舍建照執照經審查現有道路占用農地面積其農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "eca2a097dd758dd32506863cfca81772f5843efd1e94cfadbbf852f22f15ad74",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

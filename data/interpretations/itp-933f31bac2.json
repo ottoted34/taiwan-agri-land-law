@@ -1,0 +1,123 @@
+{
+ "id": "itp-933f31bac2",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960106394號",
+ "date": "2007-02-02",
+ "date_text": "96/2/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋都市計畫農業區土地申請集村興建農舍，其聯外道路部分，可否依農業用地容許作農業設施使用審查辦法申請農路使用之疑義案。",
+ "content": "主旨：有關　貴府函詢都市計畫農業區土地申請集村興建農舍，其聯外道路部分，可否依農業用地容許作農業設施使用審查辦法申請農路使用之疑義案，復請　查照。\n說明：\n一、復　貴府96年1月26日府農管字第○○○○○號函。\n二、依農業用地容許作農業設施使用審查辦法第11條第20款規定，其他農作產銷設施係依生產需要核定。爰以，農路應基於農業經營所需，視農業生產之必要性核定。次查農業用地興建農舍辦法第8條第6款及第7款規定，農舍坐落之該宗或數宗相毗連之農業用地，應有道路通達，其面前道路寬度10戶至未滿30戶者為6公尺，30戶以上為8公尺；建築基地與計畫道路境界線之距離，不得小於8公尺。綜上，都市計畫農業區申請集村興建農舍之建築基地，其聯外道路應符合上開農業用地興建農舍辦法之規定，不宜依農業用地容許作農業設施使用審查辦法申請農路使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5293",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:21+08:00",
+   "source_key": "rmis:5293"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0960106394號|釋都市計畫農業區土地申請集村興建農舍其聯外道路部分可否依農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2013-07-01",
+    "history": "中華民國一百零二年七月一日內政部台內營字第 1020805247 號令、行政院農業委員會農水保字第 1021865656 號令會銜修正發布全文 17 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "12576813b386fde57226284c30dd7e6fb0f35857206bbb34c2818544f8cbae14",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "、復 貴府96年1月26日府農管字第○○○○○號函。\n二、依農業用地容許作農業設施使用審查辦法第11條第20款規定,其他農作產銷設施係依生產需要核定。爰以,農路應基於農業經營所需,視"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "。爰以,農路應基於農業經營所需,視農業生產之必要性核定。次查農業用地興建農舍辦法第8條第6款及第7款規定,農舍坐落之該宗或數宗相毗連之農業用地,應有道路通達,其面前道"
+  }
+ ]
+}

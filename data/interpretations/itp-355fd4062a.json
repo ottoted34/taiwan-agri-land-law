@@ -1,0 +1,59 @@
+{
+ "id": "itp-355fd4062a",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070233504號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農地取得時間點認定」一案。",
+ "content": "一、按農業用地興建農舍辦法第2條第1項第2款規定：「申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。」，又申請興建農舍之該筆農業用地取得時點，本會前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部登記日期認定之。查本會業以107年6月14日農企字第1070223538號函及107年8月9日農企字第1070232396號函復有案。\n二、至您所述同一所有權人兩筆相毗鄰之農業用地合併，實際是否造成所有權部登記日期異動，因涉土地登記業務，應請敘明個案事實，洽內政部地政司或土地所在地之地政事務所協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070233504號|農地取得時間點認定一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "68860919048763c4b86067dd2965ee0a99b69da280b4e8fa07cd4550a55f6a1a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "「農地取得時間點認定」一案。\n一、按農業用地興建農舍辦法第2條第1項第2款規定:「申請人之戶籍所在地及其農業用地,須在同一直轄市、縣(市)內,"
+  }
+ ]
+}

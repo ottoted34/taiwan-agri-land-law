@@ -1,0 +1,58 @@
+{
+ "id": "itp-4337db8f17",
+ "doc_class": "interpretation",
+ "docno": "台內營字第0980801682號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關貴函為都市計畫區段徵收作業准否准依農業用地興建農舍法第3條規定辦理乙節，請查照。",
+ "content": "一、依據本部營建署案陳行政院農業委員會98年2月20日農授水保字第0981842162號函轉貴府98年2月13日府農管字第0980047530號函辦理。\n二、查「農業用地興建農舍辦法」第3條第3項與第4項規定「本條例中華民國八十九年一月二十八日修正生效前取得之農業用地，有下列情形之一者，得準用前條規定申請興建農舍一、依法被徵收。二、依法為得徵收之土地，經土地所有權人自願以協議價購方式讓售與需地機關。前項土地所有權人申請興建農舍，以自公告徵收或完成讓售移轉登記之日起一年內，於同一直轄市、縣市內重新購置農業用地者為限，其申請面積並不得超過原被徵收或讓售土地之面積。」參酌立法說明，係「為保障政府興辦公共事業徵收後，其土地所有權人興建農舍之權益」。\n三、考量都市計畫區段徵收與上開「為政府興辦公共事業徵收」之意旨不符，且非都市土地經辦理都市計畫區段徵收後，所分回土地已提高發展價值與利益或相關補償金已達權益之保障，爰不宜比照辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:台內營字第0980801682號|關貴函為都市計畫區段徵收作業准否准依農業用地興建農舍法第3條"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4154b509a7063e686edec90a47f3fb596d89978e382e072bab011eaa36ac55ae",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "年2月13日府農管字第0980047530號函辦理。\n二、查「農業用地興建農舍辦法」第3條第3項與第4項規定「本條例中華民國八十九年一月二十八日修正生效前取得之農業用地,"
+  }
+ ]
+}

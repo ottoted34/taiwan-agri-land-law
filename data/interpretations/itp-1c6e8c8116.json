@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5471",
    "serial": null,
-   "fetched_at": "2026-10-30T10:15:41+08:00",
+   "fetched_at": "2026-10-30T11:42:54+08:00",
    "source_key": "rmis:5471"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1000156494號|受理農業用地作農業使用證明書申請案件時農業用地上有未經申請之"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,20 +37,20 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "4",
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -60,22 +66,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "建築物者,免申請容許使用」之處理原則,查已於92年2日7日於農業發展條例修正時,增訂第8條之1規定,於第1項明定:「農業用地上申請以竹木、稻草、塑膠材料"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "4",
    "kind": "extracted",
    "snippet": "固定基礎之臨時性與農業生產有關之設施,免申請建築執照。」並於「申請農業用地作農業設施容許使用審查辦法」第4條規定:「依本條例第8條之1第1項規定搭建無固定基礎之臨時性與農業生產有關之設施,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

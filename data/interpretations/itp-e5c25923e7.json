@@ -1,0 +1,68 @@
+{
+ "id": "itp-e5c25923e7",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930159038號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋農業用地基地面積僅289平方公尺申請容許設置「集貨及包裝處理場」設施使用等執行疑義案",
+ "content": "一、依農業發展條例第三條第十二款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故農業用地申請施設農業設施，均需與農業生產或農業使用相關，而貴府亦應本於職權就當地農業經營發展、農業設施與農業生產經營之必要性及「農業用地容許作農業設施使用審查辦法」等相關規定，視個案實務及事實予以審認，合先敘明。\n二、查農業用地依上開審查辦法第十一條第十款規定設置集貨及包裝處理場之條件，限供「自產農產品」使用，所稱自產，應不限於申請興建農業設施之該筆土地，而可及於其他包括契作之農業用地，且每處最小興建面積一六五平方公尺；最大興建面積為一、○六○平方公尺。因此，本案農業設施是否合理部分，可就申請人有無其他農業用地所生產之農產品或實際產量，且該農產品有無供集貨及包裝使用之必要性等情事，併貴府原已審認之「該地號位於縱貫公路旁，基地面積僅二八九平方公尺（約八十七坪）顯然太小」等事實，綜合判斷後予以准駁。\n三、另取得容許作農業設施使用之農業用地，如該設施未依經營計畫內容使用者，即應依農業用地容許作農業設施使用審查辦法第二十三條規定核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930159038號|釋農業用地基地面積僅289平方公尺申請容許設置集貨及包裝處理"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "166e269daddc73cf76426c6dcc41a9f6cae8e83b9c80bb2e85ad6a13278e517d",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "申請容許設置「集貨及包裝處理場」設施使用等執行疑義案\n一、依農業發展條例第三條第十二款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "23",
+   "kind": "extracted",
+   "snippet": "業設施使用之農業用地,如該設施未依經營計畫內容使用者,即應依農業用地容許作農業設施使用審查辦法第二十三條規定核處。"
+  }
+ ]
+}

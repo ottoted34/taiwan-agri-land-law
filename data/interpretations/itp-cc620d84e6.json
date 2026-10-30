@@ -1,0 +1,69 @@
+{
+ "id": "itp-cc620d84e6",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930150946號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋嘉義市農會申請承受「耕地」許可作業之相關疑義。",
+ "content": "一、依農業發展條例第三條第十一款規定「耕地：指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地。」如農會承受之農業用地非屬耕地範圍，自不受本條例第三十三條私法人不得承受耕地之限制，故須申請許可始能辦理移轉登記為農民團體、農業企業機構及農業試驗研究機構所有之土地，限於「耕地」，至於耕地以外之其他農業用地，法令並無明定須經申請許可承受，亦即農會得逕依一般買賣等方式辦理承受「非耕地之農業用地」事宜，毋須繕寫經營利用計畫書經主管機關審查同意。\n二、農會承受農業用地後出租，依農業發展條例第二十條至第二十二條規定，八十九年一月二十八日本條例修正公佈施行後所訂立之農業用地租賃契約，其契約之權利義務關係、租期、租金及支付方式，由出租人與承租人約定之，\n不適用耕地三七五減租條例之規定。\n三、另有關涉及農業發展第三十一條，第三十四條至第三十六條部份，應符合本條例規定外，如承受之農業用地涉及農會法、農業金融法規定者，仍應另依等法規規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0930150946號|釋嘉義市農會申請承受耕地許可作業之相關疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "82728183bd6ea4321380a0fd74a02617b7c3b91e41ccfc51d90c3386ae3a7daf",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2011",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "釋嘉義市農會申請承受「耕地」許可作業之相關疑義。\n一、依農業發展條例第三條第十一款規定「耕地:指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "相關疑義。\n一、依農業發展條例第三條第十一款規定「耕地:指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地。」如農會承受之農業"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "20",
+   "kind": "extracted",
+   "snippet": "用計畫書經主管機關審查同意。\n二、農會承受農業用地後出租,依農業發展條例第二十條至第二十二條規定,八十九年一月二十八日本條例修正公佈施行後所訂立之農業用地租賃契"
+  }
+ ]
+}

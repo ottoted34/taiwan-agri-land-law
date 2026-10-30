@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6051",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:13+08:00",
+   "fetched_at": "2026-10-30T11:16:25+08:00",
    "source_key": "rmis:6051"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1132609613號|有關貴公司函詢申請農業用地變更為特定目的事業用地儲能設備是否"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -50,5 +56,7 @@
    "kind": "extracted",
    "snippet": "司函詢申請農業用地變更為特定目的事業用地(儲能設備)是否符合「農業主管機關同意農業用地變更使用審查作業要點」相關規定疑義案,復如說明,請查照。\n一、有關儲能設備之設置原則,依經濟部能源署前"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

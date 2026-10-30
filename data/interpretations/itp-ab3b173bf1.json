@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5963",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:58+08:00",
+   "fetched_at": "2026-10-30T11:15:10+08:00",
    "source_key": "rmis:5963"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1142614773號|為貴縣義竹鄉公所函詢有關於農業用地上存有墳墓其農作產銷設施容"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,30 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "農作產銷設施容許使用之審查疑義案,復如說明,請查照。\n一、查申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第6條第1項第9款規定,農業用地有違反其他土地使用管制相關法令規"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "6日農糧企字0931070367號函說明審認原則,略以:「依非都市土地使用管制規則(下稱管制規則)第6條附表1規定,農牧用地不得作為墳墓設施使用;但屬非都市土地使"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "設施,依上開管制規則第8條第1項規定可得為從來使用,故無違反區域計畫法問題。至於非都市土地使用編定後所興建之墳墓,明顯已違反非都市土地使用管制規則規定"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

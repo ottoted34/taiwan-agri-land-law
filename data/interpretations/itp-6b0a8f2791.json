@@ -1,0 +1,64 @@
+{
+ "id": "itp-6b0a8f2791",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061828805號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍相關問題」一案",
+ "content": "一、有關您所詢問農舍屋頂得否申請用電一節，查因本會主管興建農舍資格審查事宜，所訂定農業用地興建農舍辦法係為興建農舍資格審查之規範。您所詢問事項係為農舍建築管理之事項，如有建築法令及相關規範之疑義，建請向內政部或該管建築主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061828805號|農舍相關問題一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7cc897243f8ec5246490035e09f796c04b32841db9d0aa70229ab03ba2cfbf1f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "頂得否申請用電一節,查因本會主管興建農舍資格審查事宜,所訂定農業用地興建農舍辦法係為興建農舍資格審查之規範。您所詢問事項係為農舍建築管理之事項,如有建築法令及相"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍資格審查之規範。您所詢問事項係為農舍建築管理之事項,如有建築法令及相關規範之疑義,建請向內政部或該管建築主管機關洽詢。"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-aec9d1240b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990106981號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「農地所有權人經信託登記為他人後申領自用農舍建造執照、又經『塗銷信託登記』後，申領使用執照，是否仍符合農業發展條例第18條規定」疑義案，請查照。",
+ "content": "1.依據高雄縣政府99年1月25日府建管字第0990026182號函辦理。\n2.有關本案本會已於98年12月9日農授水保字第0980173914號函復貴部營建署在案，且依該府來函說明二，本案起造人施昇良於98年4月13日完成信託登記於洪明吉，故施昇良於98年6月4日申請農舍建造執照時已非土地所有權人，與農業發展條例第18條第4項：「...農舍起造人應為該農舍坐落土地之所有權人...」規定不符。\n3.另本案事涉信託登記塗銷、申領建築執照、使用執照等土地登記與建築管理業務，係屬貴管，轉請主政逕復高雄縣政府。\n4.檢附高雄縣政府來函影本1份供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990106981號|有關農地所有權人經信託登記為他人後申領自用農舍建造執照又經塗"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f24829ab170b0a1d596febd11d434d015186b0b42ff007e77fea441c17987b8e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "舍建造執照、又經『塗銷信託登記』後,申領使用執照,是否仍符合農業發展條例第18條規定」疑義案,請查照。\n1.依據高雄縣政府99年1月25日府建管字第099002"
+  }
+ ]
+}

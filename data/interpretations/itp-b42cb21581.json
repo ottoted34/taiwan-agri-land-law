@@ -1,0 +1,72 @@
+{
+ "id": "itp-b42cb21581",
+ "doc_class": "interpretation",
+ "docno": "林政字第891622926號",
+ "date": "2000-11-22",
+ "date_text": "89/11/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "071 釋林業用地及都市計畫保護區林地目土地如何認定作農業使用案",
+ "content": "有關林業用地地上所植林木樹種符合本局所規定之樹種，且經完成造林(除地除外)、造林木已達3年生以上、成活率在70%以上者，不論是否兼植一般農作物或果樹，本局認為符合農業發展條例第3條第1項第12款所稱森林之使用，前經本局89年4月20日林政字第891607467號函報 鈞會在案。至於都市計畫保護區「林」地目土地種植油茶，可否核發農業用地作農業使用證明疑義，亦經本局以89年10月5日89林政字第891619491號函(詳影本)報 鈞會在案，茲再補充說明如未完成造林，但天然生林木覆蓋良好，可視同完成造林。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4982",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:57+08:00",
+   "source_key": "rmis:4982"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:林政字第891622926號|釋林業用地及都市計畫保護區林地目土地如何認定作農業使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-ee21ca7523",
+    "by_docno": "農企字第0910110875號",
+    "by_date": "2002-03-07",
+    "kind": "amend",
+    "phrase": "」另依據本會林務局89年11月22日89林政字第891622926號函釋略以:「有關林業用地地上所植林木樹種符合本局所規定之樹種,且經完成造林(除地除外)、造林木已達3年生以上、成活率在百分之70以上者,不論是否兼植一般農作物或果樹,本局認為符合農業發展條例第3條第1項第12款所稱之森林之使用,‧‧‧‧茲再補充說明如未完成造林,但天然林木覆蓋良好,可視同完成造林"
+   }
+  ]
+ },
+ "content_hash": "3c90d7228a930a8bdf65299ee1fdbf71332c910f00ccd065590e6d1b780567c7",
+ "topics": [
+  "farm_use_cert",
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "率在70%以上者,不論是否兼植一般農作物或果樹,本局認為符合農業發展條例第3條第1項第12款所稱森林之使用,前經本局89年4月20日林政字第891607467"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-58060047fb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951807903號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端提供○○○等20人於宜蘭縣羅東鎮○○○地號土地，申請以集村方式興建農舍，函請同意辦理專案分割案，復請查照。",
+ "content": "一、 復 台端95年4月15日申請書。\n二、依據農業發展條例第16條第1項第7款，暨其施行細則第11條第1項第6款規定，本會同意旨揭土地之專案分割，且該土地屬於耕地上興建農舍者，同意分割為20筆土地，分割與分割後之各筆土地面積，請逕洽主管機關依相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951807903號|台端提供○○○等20人於宜蘭縣羅東鎮○○○地號土地申請以集村"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "48db543b34750b92d2b30eb8638ecda1eca8062e950d967f184714231ea8048e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "復請查照。\n一、 復 台端95年4月15日申請書。\n二、依據農業發展條例第16條第1項第7款,暨其施行細則第11條第1項第6款規定,本會同意旨揭土地之專案分割,"
+  }
+ ]
+}

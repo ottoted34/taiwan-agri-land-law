@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6037",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:35+08:00",
+   "fetched_at": "2026-10-30T11:15:48+08:00",
    "source_key": "rmis:6037"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1130256991號|有關貴府函詢特定工廠出入口需經國有農牧用地通行得否規劃為私設"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "673fdd2dbd238c951ef81eec895333684700de26ba658c255ffca5a05573dc83",
  "topics": [
@@ -42,6 +58,20 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "有農牧用地通行,得否規劃為私設通路疑義案,復請查照。\n一、依「非都市土地使用管制規則」第6條附表1規定,農牧用地容許作私設通路,其附帶條件限於以集村方式興建農舍或甲種、乙種"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "經考量其通行連接之土地既有通行事實及防災安全需求,且係為符合建築法及建築技術規則相關規定,得將該通路土地納入用地計畫一併申請並變更編定為交通用地。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

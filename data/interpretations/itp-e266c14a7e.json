@@ -1,0 +1,61 @@
+{
+ "id": "itp-e266c14a7e",
+ "doc_class": "interpretation",
+ "docno": "水保農字1030990317號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關民眾○○○陳情申請興建農舍，其土地取得時點疑義案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴辦公室103年5月1日傳真民眾陳請書。\n二、依民法824條之1規定：「共有人共有物分割之效力發生時起，取得分得部分之所有權。」，是以共有農業用地分割為單獨所有者，其土取得時點均採移轉主義，即應自分割效力發生時生效，而不溯及於共有關係發生時，因此，除農業發展條例第18條第3項後段：「本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」明文規定外，其餘非屬農業發展條例修正施行前取得之共有耕地者，經共有物分割，其所有權之取得，均須依民法824條之1規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字1030990317號|有關民眾○○○陳情申請興建農舍其土地取得時點疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ae741cce3a5a720820a321ba53f196bbd55c2202f15df54fd7b8a5adf22c7c45",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "docno_unparsed",
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "即應自分割效力發生時生效,而不溯及於共有關係發生時,因此,除農業發展條例第18條第3項後段:「本條例中華民國89年1月4日修正施行前共有耕地,而於本條例中華民國"
+  }
+ ]
+}

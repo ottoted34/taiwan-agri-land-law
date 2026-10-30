@@ -1,0 +1,64 @@
+{
+ "id": "itp-1468ee25d9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931827293號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "新聯成地政服務中心陳為農業發展條例修正前取得農業用地興建有尚未完工之合法農舍拍賣時，拍定人如何申請起造人變更疑義案，本會意見，復如說明，請查照。",
+ "content": "一、復貴署93年11月19日營署建管字第0930071583號函。\n二、依照農業發展條例第18條第1項規定：「本條例中華民國89年1月4日修正施行後取得農業用地之農民，無自用農舍而需興建者，經直轄市或縣(市)主管機關核定，於不影響農業生產環境及農村發展，得申請以集村方式或在自有農業用地興建農舍。」，依上述規定申請興建農舍之申請人條件於農業用地興建農舍辦法第3條已有明定。前開規定對農舍興建人之資格條件並未排除拍賣取得者。\n三、本案係為於農業發展條例89年修正施行後取得農地，且其農舍係於施工中拍賣移轉，其拍定人既為農舍起造人，即為農舍興建者，依前項說明，仍需符合農業用地興建農舍辦法第3條申請人之資格條件規定，始符合法制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931827293號|新聯成地政服務中心陳為農業發展條例修正前取得農業用地興建有尚"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7fa6e2891eaabda4db27563886c4281959d5cbd83695fc95f346cb0781f0fca8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "11月19日營署建管字第0930071583號函。\n二、依照農業發展條例第18條第1項規定:「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自用農"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "有農業用地興建農舍。」,依上述規定申請興建農舍之申請人條件於農業用地興建農舍辦法第3條已有明定。前開規定對農舍興建人之資格條件並未排除拍賣取得者。\n三、本案係為於農業"
+  }
+ ]
+}

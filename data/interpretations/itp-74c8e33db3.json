@@ -1,0 +1,58 @@
+{
+ "id": "itp-74c8e33db3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960131205號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "耕地上有一既成道路，該耕地可否申請興建農舍案，復請查照。",
+ "content": "1.復 台端96年6月5日請釋書。\n2.農業用地興建農舍辦法第3條第1項第3款，申請興建農舍之該宗農業用地面積不得小於0.25公頃；此所稱「該宗」農業用地，係指土地登記之單1筆地號農業用地而言；若有毗連2筆地號以上農業用地者，應先辦理合併為單筆地號農業用地，且其面積在0.25公頃以上者，始得申請。\n3.台端所有農地為「道路」分隔為2筆土地，自不得合併計算面積申請興建農舍;惟其中1筆土地面積達0.25公頃，申請人資格條件符合「農業用地興建農舍」第3條第1項規定者，得申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960131205號|耕地上有一既成道路該耕地可否申請興建農舍案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b8c0cc9566a7e9815a4f9887115dd386e5acf17b3e41b469959aee73c5b4009f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "農舍案,復請查照。\n1.復 台端96年6月5日請釋書。\n2.農業用地興建農舍辦法第3條第1項第3款,申請興建農舍之該宗農業用地面積不得小於0.25公頃;此所稱「該宗」"
+  }
+ ]
+}

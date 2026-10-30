@@ -1,0 +1,68 @@
+{
+ "id": "itp-ed23044f06",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970010742號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地上已興建之自用農舍，農民申請變更作農業設施之處理原則，請 查照。",
+ "content": "一、有關農業用地上已興建之自用農舍，農民因該自用農舍已無居住之需求，且其建築物僅供農場農業生產經營管理之用，應得依農業用地容許做農業設施使用審查辦理之規定，以該建築物申請農業用地容許作農業設施使用，並由受理審查之直轄市、縣市政府或其委任委辦之鄉鎮市區公所視農業設施及農業經營之必要性、合理性，本於職權核處。\n二、鑒於自用農舍倘合於相關規定容許作為農業設施使用，並依建築法相關規定變更作為農業設施後，該建築物自非屬自用農舍，又查內政部95年11月14日內授中辦地字第0950726315號函，對於已申請興建農舍之農業用地，合於建築法規管理等相關規定，得變更作為農業設施，應於核可後，函請地政機關辦理相關土地塗銷註記，解除列管。爰以，自用農舍經變更為農業設施後，應得免再由地政機關套繪、註記列管土地登記資料。\n三、綜上，本會95年12月25日農企字第0950171591號函自即日起停止適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0970010742號|有關農業用地上已興建之自用農舍農民申請變更作農業設施之處理原"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-740d1ef7a4",
+    "by_docno": "農授糧字第1030711090號",
+    "by_date": "2014-04-24",
+    "kind": "amend",
+    "phrase": "二、有關申請人擬將原有農舍變更為農業設施並增建作為菇類栽培場使用一節,查類案本會業以97年5月27日農企字第0970010742號函釋(正本諒達)在案,請貴府依上開函釋規定辦理"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1d843f63fe4beac3ac67a58ac663a1a18727c5be017d35be1bf13b1708c7c920",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "。\n二、鑒於自用農舍倘合於相關規定容許作為農業設施使用,並依建築法相關規定變更作為農業設施後,該建築物自非屬自用農舍,又查內政部95年11月14日"
+  }
+ ]
+}

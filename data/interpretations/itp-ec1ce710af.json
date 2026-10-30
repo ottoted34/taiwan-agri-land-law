@@ -1,0 +1,50 @@
+{
+ "id": "itp-ec1ce710af",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990173470號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府詢問土地合併分割後其土地取得時點案，復請查照。",
+ "content": "1.復貴府99年10月28日府農務字第0990265762號函。\n2.依本會97年8月4日農授水保字第0971843810號函，土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準。\n3.有關農業用地經辦理分割合併交換調整後其取得時點之個案認定，為縣市政府權責，倘貴府認本案之權屬或面積已變動，則有上開函之適用，請就申請人檢附之土地登記謄本、異動索引等相關資料予以審認。\n4.檢還來函附件全卷。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990173470號|有關貴府詢問土地合併分割後其土地取得時點案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "790f03c836ab111d8eb9103e610fb70210100033fa954bb759005a7826bbd74a",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

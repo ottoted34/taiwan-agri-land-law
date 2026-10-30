@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5596",
    "serial": null,
-   "fetched_at": "2026-10-30T09:54:29+08:00",
+   "fetched_at": "2026-10-30T11:21:42+08:00",
    "source_key": "rmis:5596"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080013640號|非都市土地農業用地變更作太陽光電設施使用達送區域計畫擬定機關"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -51,5 +57,7 @@
    "kind": "extracted",
    "snippet": "0點規定,設置不得小於10公尺之緩衝綠帶,先予敘明。\n二、查農業主管機關同意農業用地變更使用審查作業要點第10點第5款規定:「十、各不同使用分區於毗鄰農業用地之區位應配置之隔離綠帶或設"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,52 @@
+{
+ "id": "itp-9d66b5f20d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000151294號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函為申請興建農舍之農地取得時點認定疑義乙案，請 查照。",
+ "content": "1.復台端100年8月9日申請書。\n2.土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準，本會97年8月4日農授水保字第0971843810號函釋有案。\n3.本案個案認定係屬直轄市、縣市政府權責，請洽地方政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000151294號|有關台端函為申請興建農舍之農地取得時點認定疑義乙案請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bde5f077fd136a333d50e54a0c04257108397610651235549c776471ab9083db",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

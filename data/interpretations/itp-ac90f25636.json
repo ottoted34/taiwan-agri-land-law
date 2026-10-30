@@ -1,0 +1,64 @@
+{
+ "id": "itp-ac90f25636",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0910116825號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正前取得之農地，經辦理農地重劃，於農業發展條例修正後土地分配方公告確定，又依農地重劃條例第23條第3項暨同條例第37條第2項規定，以主張優先購買權承購區內零星集中土地，並與原受分配土地辦理合併，導致申請興建農舍依農業用地取得日期不同，有適法差異疑義案，復如說明，請查照。",
+ "content": "一、復貴府91年3月25日府農務字第0910025379號函。\n二、查「農業發展條例」第18條第3項規定：「本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制規則及建築法令規定，申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」本案參與農地重劃後重新分配之土地，雖於「農業發展條例」修正施行後始公告確定，仍可依該條例第18條第3項規定申請興建農舍。惟為顧及法之衡平性，其興建農舍之土地面積，以未逾重劃後分配及新取得之農業用地面積為限。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0910116825號|有關農業發展條例修正前取得之農地經辦理農地重劃於農業發展條例"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d1318d9bb04b672934cbe0e6f5952367dcc6b4fb1e765507c79529a0683468e0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "91年3月25日府農務字第0910025379號函。\n二、查「農業發展條例」第18條第3項規定:「本條例中華民國89年1月4日修正施行前取得農業用地,且無自用農舍而"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地,且無自用農舍而需興建者,得依相關土地使用管制規則及建築法令規定,申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地,而於本條例"
+  }
+ ]
+}

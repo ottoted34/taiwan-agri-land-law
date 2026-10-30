@@ -1,0 +1,61 @@
+{
+ "id": "itp-474dc69a82",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第0931003390號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍可否納入無安全顧慮之農業設施，免申請建築執照範圍疑義。",
+ "content": "說明：\n一、略。\n二、查有關「農業發展條例」第八條之一第二項後段規定，於九十二年一月十三日修正施行前，已興建有固定基礎之農業設施，面積在二百五十平方公尺以下而無安全顧慮者，得免申請建築執照。上開「無安全顧慮」之農業設施其適用對象，經本會於九十二年十二月十五日農中字第○九二一○七○七○八號令係指：\n（一）供農作物、菇蕈、林木栽培或培養、育種、育苗使用之設施。\n（二）供禽畜飼養或撫育、孵育使用之設施。\n（三）供肥料、飼料、農機具、農產品或農業資材之存放場所。\n（四）供水產養殖或繁殖生產使用之抽水機房、循環水設施及電力設施。\n（五）農業事業廢棄物回收、處理、貯存設施。\n（六）其他經建築師、土木技師或結構技師簽證之農業設施。\n\n基本上，上述之設施係專供農業生產所使用，且非屬供人類居住或公眾活動之場所，故予列入免申請建築執照之農業設施範圍。而「農舍」之用途，依「非都市土地容許使用執行要點」附件一「農舍」之容許使用細目，包括：\n１.農家住宅。\n２.農舍附屬設施。\n３.農產品之買賣。\n４.農作物生產資材及日用品買賣等。\n準此，農舍既專供農民居住及活動場所等使用，基於考量人民生命及財產安全上問題，實不宜納入免申請建築執照範圍，恣意擴張解釋。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第0931003390號|農舍可否納入無安全顧慮之農業設施免申請建築執照範圍疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5b28454d84ff133818aeb260ead15ab4d02f58b1cfd5e955f8d318d66a411e07",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "設施,免申請建築執照範圍疑義。\n說明:\n一、略。\n二、查有關「農業發展條例」第八條之一第二項後段規定,於九十二年一月十三日修正施行前,已興建有固定基礎之農業設施,面積"
+  }
+ ]
+}

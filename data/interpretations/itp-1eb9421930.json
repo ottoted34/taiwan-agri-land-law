@@ -1,0 +1,70 @@
+{
+ "id": "itp-1eb9421930",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000131673號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢農地重劃致變成不毗鄰之二塊農地是否可申請興建農舍疑義案，復請 查照。",
+ "content": "1.復台端100年5月18日陳情書。\n2.依本會98年12月10日農授水保字第0980174093號函釋，於農業發展條例修法前取得之農業用地，按內政部98年11月19日內授中辦地字第0980726003號函釋「農地重劃條例第27條規定『農地重劃後分配於原土地所有權人之土地，自分配確定之日起，視為其原有土地。』」即重劃後之農地其土地取得時點仍視為修法前取得，得依相關土地使用管制及建築法令規定申請興建農舍。\n3.另於農業發展條例修法後取得之農業用地，依「農業用地興建農舍辦法」第3條第1項第3款規定申請興建農舍之農地面積不得小於0.25公頃，且無論修法前或修法後取得之農地，其申請興建農舍均須以單一筆地號農業用地申辦，本會93年4月19日農授水保字第0931806098號函釋在案。\n4.台端申請農地興建農舍應符前開說明之規定，因個案審認係屬縣市政府權責，請檢具相關資料逕洽縣市政府，以資便捷。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000131673號|有關台端函詢農地重劃致變成不毗鄰之二塊農地是否可申請興建農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "99bc44338f720c4df1dec29b72111c10281949692512c819c9e796d76878d641",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "98年12月10日農授水保字第0980174093號函釋,於農業發展條例修法前取得之農業用地,按內政部98年11月19日內授中辦地字第098072600"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之農地其土地取得時點仍視為修法前取得,得依相關土地使用管制及建築法令規定申請興建農舍。\n3.另於農業發展條例修法後取得之農業用地,依「農業用地興建"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "申請興建農舍。\n3.另於農業發展條例修法後取得之農業用地,依「農業用地興建農舍辦法」第3條第1項第3款規定申請興建農舍之農地面積不得小於0.25公頃,且無論修法前或修法後"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4026",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:47+08:00",
+   "fetched_at": "2026-10-30T11:28:00+08:00",
    "source_key": "rmis:4026"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051800305號|有關貴府函為於山坡地保育區農牧用地已設置休間農場後是否可再興"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,20 +37,20 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2002",
+    "law_id": "M0090014",
     "law_name": "休閒農業輔導管理辦法",
     "article": "19",
     "amended_on": "2018-05-18",
-    "history": "中華民國107年05月18日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條",
+    "history": "中華民國一百零七年五月十八日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條；並自發布日施行",
     "relation_kind": "extracted"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2002",
+    "law_id": "M0090014",
     "law_name": "休閒農業輔導管理辦法",
     "article": "19",
     "amended_on": "2020-07-10",
-    "history": "中華民國109年07月10日行政院農業委員會農輔字第 1090023080A 號令修正發布第 10、14、19、20、24、25、27、29、43、44 條條文，並增訂第 39-1 條條文",
+    "history": "中華民國一百零九年七月十日行政院農業委員會農輔字第 1090023080A 號令修正發布第 10、14、19、20、24、25、27、29、30、34、43、44 條條文；增訂第 39-1 條條文",
     "relation_kind": "extracted"
    }
   ]
@@ -60,16 +66,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2002",
+   "law_id": "M0090014",
    "article": "19",
    "kind": "extracted",
    "snippet": "40250875號函辦理。\n二、依上開行政院農業委員會函釋,休閒農業輔導管理辦法第19條第11項規定略以:「休閒農場內非農業用地面積、農舍及農業用地內各項設施之面積合計"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

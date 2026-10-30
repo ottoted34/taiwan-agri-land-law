@@ -1,0 +1,73 @@
+{
+ "id": "itp-d7ecca2b88",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920161007號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋再釋非都市土地申請設置「土石芳資源堆置場」繳交回饋金規定",
+ "content": "主旨：有關非都市土地農業用地申請設置「土石方資源堆置場」，繳交農業用地變更回饋金相關事宜乙案，復請查照。\n說明：\n一、復貴府九十二年十月九日北府農務字第○九二○六二二五一○號函。\n二、農業用地變更使用回饋金之繳交，依據農業發展條例第十二條規定意旨，係以農業用地變更為非農業使用為認定基準。申請土石方資源堆置場使用，「農業用地作農業使用認定及核發證明辦法」第九條業已明定：「農業用地依法申請供採取土石或作為營建工程廢棄土方堆置場，其使用期間或使用期滿仍未回復作為農業使用者，不得認定為農業使用。」，申請該類使用，應依農業發展條例第十二條及「農業用地變更回饋金撥繳及分配利用辦法」相關規定辦理。至有關涉及可建築使用面積，係以申請變更案核定時之土地使用計畫配置圖為計算標準，並由核准興辦事業計畫之主管機關核計之。目的事業主管機關未能核定或未提供核定可建築使用面積者，由農業主管機關以變更使用後之用地之建蔽率乘以變更面積之乘積計算之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920161007號|釋再釋非都市土地申請設置土石芳資源堆置場繳交回饋金規定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1a7e0f4e15801730a640f218cec5a2f0cae4d6d14d2fd67e04df48d6431b7f50",
+ "topics": [
+  "farm_use_cert",
+  "landfill",
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "○六二二五一○號函。\n二、農業用地變更使用回饋金之繳交,依據農業發展條例第十二條規定意旨,係以農業用地變更為非農業使用為認定基準。申請土石方資源堆置場使用,「農"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "業用地變更為非農業使用為認定基準。申請土石方資源堆置場使用,「農業用地作農業使用認定及核發證明辦法」第九條業已明定:「農業用地依法申請供採取土石或作為營建工程廢棄土方堆置場,其使用期間或"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "認定為農業使用。」,申請該類使用,應依農業發展條例第十二條及「農業用地變更回饋金撥繳及分配利用辦法」相關規定辦理。至有關涉及可建築使用面積,係以申請變更案核定時之土地使用計畫配置圖"
+  }
+ ]
+}

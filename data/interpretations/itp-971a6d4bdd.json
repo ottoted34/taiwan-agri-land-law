@@ -1,0 +1,58 @@
+{
+ "id": "itp-971a6d4bdd",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1001810296號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端要求都市計畫農業區及都市計畫外特定農業區農牧用地二筆土地面積合併計算申請興建農舍案，復請 查照。",
+ "content": "一、復台端100年4月25日申請書。\n二、依據農業用地興建農舍辦法第3條第1項第3款規定：「申請興建農舍之該宗農業用地不得小於0.25公頃...。」；此所稱「該宗」農業用地，係指土地單一筆地號農業用地而言，農委會93年4月19日農授水保字第0931806098號函釋有案如附件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:水保農字第1001810296號|有關台端要求都市計畫農業區及都市計畫外特定農業區農牧用地二筆"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7ff4546e249fad30a9d87d44abb5894f2254462688837d30e73c8bae50b1bde0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "復請 查照。\n一、復台端100年4月25日申請書。\n二、依據農業用地興建農舍辦法第3條第1項第3款規定:「申請興建農舍之該宗農業用地不得小於0.25公頃...。」;此"
+  }
+ ]
+}

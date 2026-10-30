@@ -1,0 +1,58 @@
+{
+ "id": "itp-f2dd223cef",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0930052587號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於台端函請釋示農業發展條例修正後取得之農地，原有之土地已作為興建農舍之配合耕地使用，若建蔽率尚有剩餘可否辦理分割乙案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會93年8月6日農授水保字第0930135400號函辦理。\n二、有關農業發展條例修正後取得之農地，原有之土地已作為興建農舍之配合耕地使用，若建蔽率尚有剩餘可否辦理分割乙案，查農業發展條例修正後取得之農地分割，應符合「農業發展條例」第16條之規定，另行政院農業委員會90年2月1日（90）農輔字第900050102號函及91年1月2日農輔字第900168479號書函亦有明示，請參考。\n三、隨文檢附前揭函影本各乙份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0930052587號|關於台端函請釋示農業發展條例修正後取得之農地原有之土地已作為"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4d382032d9e60fa64fc675d7cb501be5ad798d2dcbf8c12d59f07755ae2b0ec7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "可否辦理分割乙案,查農業發展條例修正後取得之農地分割,應符合「農業發展條例」第16條之規定,另行政院農業委員會90年2月1日(90)農輔字第900050102號函及"
+  }
+ ]
+}

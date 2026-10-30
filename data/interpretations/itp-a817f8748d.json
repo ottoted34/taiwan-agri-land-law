@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6096",
    "serial": null,
-   "fetched_at": "2026-10-30T09:46:44+08:00",
+   "fetched_at": "2026-10-30T11:13:57+08:00",
    "source_key": "rmis:6096"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1152656275號|有關貴府受理○○○申請特定工廠變更為特定目的事業用地案涉及農"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,30 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0110001",
+   "article": "1",
+   "kind": "extracted",
+   "snippet": "更使用設置隔離綠帶或設施疑義案,詳如說明,請查照。\n一、依據水土保持法第1條、第8條及第12條意旨,水土保持計畫係配合目的事業開發行為所採行之水土保持處理與"
+  },
+  {
+   "law_id": "M0020022",
    "article": "3",
    "kind": "extracted",
    "snippet": "釐清特定工廠納管之範圍是否與水土保持計畫面積相當。\n二、另查「申請農業用地作農業設施容許使用審查辦法」第3條規定之農業設施種類,並無包括水土保持設施。復查農業發展條例第3條第12款明定「農"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "查辦法」第3條規定之農業設施種類,並無包括水土保持設施。復查農業發展條例第3條第12款明定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、『保育』及設"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

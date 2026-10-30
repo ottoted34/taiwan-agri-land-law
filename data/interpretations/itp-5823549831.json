@@ -1,0 +1,75 @@
+{
+ "id": "itp-5823549831",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940163764號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關放寬埔里地區農機具室之審核以配合日本人居住埔里意願案。",
+ "content": "主旨：有關貴服務處函送○○○建議放寬埔里地區農機具室之審核以配合日本人居住埔里意願一案，復請查照。\n說明：\n一、復貴服務處94年11月16日耘生投字第941041號函。\n二、查農機具室係屬農業使用設施之一種，而非供人居住使用之場所，依農業發展條例第3條第12款規定，「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者」，即農業設施係農地上與農業經營不可分離之設施，其使用應以農業經營為主體。另依農業發展條例第8條之1及農業用地容許作農業設施使用審查辦法第11條第8款規定，農機具室限供停放農機具使用，建造以1層樓為限，其係以提供農業經營需要之停放農機具場所，而非供居住使用，與一般建築物或農舍之功能有所差別。\n三、另貴服務處所附○○○關切觀光旅遊發展及民宿管理事宜，係屬交通部觀光局主政業務，併案轉請該局參處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940163764號|有關放寬埔里地區農機具室之審核以配合日本人居住埔里意願案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "43aa686bb8a47a0859a890caeab248cdad248c287a48b3368585c5b4f658d419",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "查農機具室係屬農業使用設施之一種,而非供人居住使用之場所,依農業發展條例第3條第12款規定,「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "地上與農業經營不可分離之設施,其使用應以農業經營為主體。另依農業發展條例第8條之1及農業用地容許作農業設施使用審查辦法第11條第8款規定,農機具室限供停放農機具使"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "設施,其使用應以農業經營為主體。另依農業發展條例第8條之1及農業用地容許作農業設施使用審查辦法第11條第8款規定,農機具室限供停放農機具使用,建造以1層樓為限,其係以提供農業經營需要"
+  }
+ ]
+}

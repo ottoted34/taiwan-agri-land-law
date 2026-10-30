@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6068",
    "serial": null,
-   "fetched_at": "2026-10-30T09:46:43+08:00",
+   "fetched_at": "2026-10-30T11:13:55+08:00",
    "source_key": "rmis:6068"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1152607658號|有關貴府函詢民眾於貴縣番路鄉○○地號土地之農作產銷設施未依計"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,22 +43,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "22",
    "kind": "extracted",
    "snippet": "之處分疑義案,復請查照。\n一、依92年12月15日訂定發布之農業用地容許作農業設施使用審查辦法第22條規定,依本辦法取得同意容許使用之農業設施,如依建築相關法令規定需申請建築執照者,"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "33",
    "kind": "extracted",
    "snippet": "貴府廢止,則仍具其效力,尚無逾期即失其效力之情形。\n二、復依申請農業用地作農業設施容許使用審查辦法第33條第1項及第2項規定,依本辦法取得農業用地作農業設施容許使用者,應依原核定之計畫內"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,81 @@
+{
+ "id": "itp-a2adc0de42",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930141642號",
+ "date": "2004-09-06",
+ "date_text": "93年9月6日農企字第0930141642號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "053 釋農業發展條例及相關配套法案於89年1月26日修正施行前，以多筆農地合併興建農舍，配合耕地已移轉他人，該農舍及其坐落之農地併同移轉案",
+ "content": "一、查農業用地作農業使用認定及核發證明辦法第6條「農業設施或農舍有下列情形之一者，不得認定為作農業使用……。三、本條例民國89年1月26日修正公布施行前，以多筆農業用地合併計算基地面積申請興建農舍，其原合併計算之農業用地部分或全部業已移轉他人，致不符合原申請興建農舍之要件者。」之規定，係將本會前於91年多次召開會議研商，並就研商結論於91年4月7日以農企字第0910010047號函釋之規定，提升為該辦法之條文，以為執行依據，合先敘明。\n二、有關農舍坐落之農業用地或其他合併計算基地面積之農業用地，如因繼承或贈與民法第1138條所定繼承人，且繼續持有，得認定該合併計算基地面積之農業用地未移轉他人。倘該筆農舍坐落之農業用地無違規使用情事，得依前開函釋規定，核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930141642號|釋農業發展條例及相關配套法案於89年1月26日修正施行前以多"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "6",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a97c83fc8551925830a09ffbfcd85fe826fa85c6583312d467e4a4ab7285c0df",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "053 釋農業發展條例及相關配套法案於89年1月26日修正施行前,以多筆農地合併興建農舍,配合耕地已移"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": ",配合耕地已移轉他人,該農舍及其坐落之農地併同移轉案\n一、查農業用地作農業使用認定及核發證明辦法第6條「農業設施或農舍有下列情形之一者,不得認定為作農業使用......。三、本條例民"
+  }
+ ]
+}

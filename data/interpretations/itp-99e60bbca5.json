@@ -1,0 +1,70 @@
+{
+ "id": "itp-99e60bbca5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970156088號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關申請興建農舍之法令規定及共有農業用地申請興建農舍案，復請查照。",
+ "content": "1.復 台端97年10月1日陳情書。\n2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依「農業用地興建農舍辦法」第2條規定申請興建農舍，均不受申請興建農舍需有最低面積、土地取得應滿一定期間……等等規定限制，以保障原擁有農業用地之農民權益;至修正公布生效日後取得之農地申請興建農舍，應受上開辦法第3條有關面積應達0.25公頃、土地取得及戶籍登記均應滿2年、……等等之限制。\n3.以共有土地持分部分申請興建農舍者，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內，農舍仍以整筆土地註記，日後共有土地辦理分割，未興建農舍之土地可要求取消註記，或由共有人同意共同申請興建1棟（戶）農舍。另耕地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定，併此說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970156088號|有關申請興建農舍之法令規定及共有農業用地申請興建農舍案復請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f85e35b4512ebba241aa86a6a1cd21f412e42bb3dc6f78d074cd5942e9053968",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "8日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地,得依「農業用地興建農舍辦法」第2條規定申請興建農舍,均不受申請興建農舍需有最低面積、土地取得應滿一定期間....."
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "或由共有人同意共同申請興建1棟(戶)農舍。另耕地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定,併此說明。"
+  },
+  {
+   "law_id": "RMIS-3010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建1棟(戶)農舍。另耕地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定,併此說明。"
+  }
+ ]
+}

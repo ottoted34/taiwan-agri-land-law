@@ -1,0 +1,58 @@
+{
+ "id": "itp-cceba9d5bd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849034號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○等20人於南投縣南投市○○○地號土地，以集村方式興建之農舍，申請辦理專案分割案，請查照。",
+ "content": "一、復 貴府96年9月20日府農務字第09601772910號函。 二、依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定，同意旨揭土地分割為22筆土地，分割及分割後之各筆土地面積，請逕洽主管單位依相關規則辦理。 三、至辦理專案分割注意事項，請依本會92年3月7日農企字第0920111558號函辦理(如附件)。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849034號|○○○等20人於南投縣南投市○○○地號土地以集村方式興建之農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "307e498345a2a72ce5f75ca428c8cc0a8e43234044bfc231291b5b237119d522",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "年9月20日府農務字第09601772910號函。 二、依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定,同意旨揭土地分割為22筆土地,"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5036",
    "serial": null,
-   "fetched_at": "2026-10-30T10:10:00+08:00",
+   "fetched_at": "2026-10-30T11:37:03+08:00",
    "source_key": "rmis:5036"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1020245430號|農業主管機關同意農業用地變更使用審查作業要點隔離綠帶或設施之"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -49,6 +55,14 @@
    "article": null,
    "kind": "extracted",
    "snippet": "「農業主管機關同意農業用地變更使用審查作業要點」隔離綠帶或設施之配置規定疑義案。\n主旨:有關貴公司函詢「農業主管機關同意農業用地"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "離效果審認之。\n四、綜上,貴公司購置農業用地設置鐵塔,倘欲循非都市土地使用管制規則規定,申請作非農業使用性質之容許使用,請於申請書件中具體說明不影響農業生產環境之"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

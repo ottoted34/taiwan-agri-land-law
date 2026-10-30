@@ -1,0 +1,64 @@
+{
+ "id": "itp-f2c474ba95",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000138840號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問集村農舍外配農地其全部坵塊平均坡度是否均不得超過30％疑義案，復請 查照。",
+ "content": "一、復台端100年6月17日戴一字第10006171號函。\n二、查農業發展條例第18條規範意旨，係於不影響農業生產環境及農村發展下，得有條件准許無自用農舍之農民以集村方式或在自有農地上興建農舍。本會於92年8月7日召開之「研商『農業用地興建農舍辦法』有關集村興建農舍執行疑義案第2次會議」中討論，並獲致決議略以：「．．．各起造人得併同提供山坡地與平地之農業用地申請集村興建農舍，但平均坡度超過30％以上之山坡地範圍內之農業用地，依照建築技術規則建築設計施工編第262條規定意旨，不得申請興建農舍。」，此外，位於山坡地供農業生產之農業用地，並依編定之使用地類別使用及管制。\n三、至於建築技術規則建築設計施工編第262條規定係屬內政部營建署權責，請向該署洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000138840號|有關台端詢問集村農舍外配農地其全部坵塊平均坡度是否均不得超過"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e2b8dbd67a16172210cc03fe587412314152a8eed05c5f7160626b1d74be9cd0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "台端100年6月17日戴一字第10006171號函。\n二、查農業發展條例第18條規範意旨,係於不影響農業生產環境及農村發展下,得有條件准許無自用農舍之農民以集村"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "方式或在自有農地上興建農舍。本會於92年8月7日召開之「研商『農業用地興建農舍辦法』有關集村興建農舍執行疑義案第2次會議」中討論,並獲致決議略以:「...各起造人得"
+  }
+ ]
+}

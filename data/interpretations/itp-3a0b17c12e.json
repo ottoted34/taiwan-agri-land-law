@@ -1,0 +1,66 @@
+{
+ "id": "itp-3a0b17c12e",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041810859號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於修改農舍興建辦法一案。",
+ "content": "一、農業用地上准許興建農舍之制度，係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作，與一般家居住宅性質不同。再者，農舍之興建與使用應與農業經營不可分離，並非僅做純住宅使用。\n二、為避免農舍興建後淪為一般住宅或豪宅在不動產市場交易，本會本次修正農業用地興建農舍辦法，研議增訂農舍承受人亦應須有農業生產事實，始得移轉，以符合農業發展條例應「不影響農業生產環境與農村發展」之立法目的。\n三、至於農業用地興建農舍辦法目前尚在研議中，台端所建議及考慮事項本會將會納入考量，將不影響真正務農者的權益，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041810859號|關於修改農舍興建辦法一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2c122e589a16fa19c008e59118993a6695a94bdafce49f1aeb0430f7203ba439",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "免農舍興建後淪為一般住宅或豪宅在不動產市場交易,本會本次修正農業用地興建農舍辦法,研議增訂農舍承受人亦應須有農業生產事實,始得移轉,以符合農業發展條例應「不影響"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法,研議增訂農舍承受人亦應須有農業生產事實,始得移轉,以符合農業發展條例應「不影響農業生產環境與農村發展」之立法目的。\n三、至於農業用地興建農舍辦法目前"
+  }
+ ]
+}

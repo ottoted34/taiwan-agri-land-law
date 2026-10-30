@@ -1,0 +1,52 @@
+{
+ "id": "itp-ad8c853312",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000140585號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函為集村興建農舍申請案取得農舍所有權疑義案，復請 查照。",
+ "content": "1.復台端100年6月24日建字第100062401號函。\n2.本會於96年3月6日邀集內政部營建署、地政司及相關縣市政府研商「農舍承受人資格、無自用農舍查核、共有農地申請農舍等案處理原則」，並以96年3月14日農授水保字第0961848173號函知各縣市政府及相關機關，該函說明二：「農舍與其座落用地併同辦理移轉時，其承受人資格應符合無自用農舍條件；辦理移轉時，承受人應檢具一稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。二申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。三申請人切結無自用農舍文件等3項文件供地政單位審查。」，爰一人僅得取得一戶農舍為限。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000140585號|有關台端函為集村興建農舍申請案取得農舍所有權疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fd6734ee512685cf693c434852dcc86709170c60bb323f42812e22fd9c68b0db",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

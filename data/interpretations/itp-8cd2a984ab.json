@@ -1,0 +1,64 @@
+{
+ "id": "itp-8cd2a984ab",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040219853號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為台端陳情有關本會侵害農舍所有權人財產權，違反法律信賴保護原則案，復請查照。",
+ "content": "一、復行政院104年5月26日院臺農移字第1040028152號移文單交下台端104年5月20日致行政院陳情書暨104年5月19日致本會陳情書。\n二、按目前農業用地興建農舍辦法未規範農舍申請人及承受人須為農民之資格條件，使農舍、農地成為非實際從事農業生產者興建、買賣炒作之商品，造成優良農地減損並引發農地價格不正常上漲，進一步導致有意從事農業之青年農民不易取得農地或擴大耕作規模，嚴重威脅我國農業生產環境。\n三、又農舍係提供農民於該農地上興建輔助及便利其農事生產工作，兼具居住之構造物，依農業發展條例第3條，農民係指直接從事農業生產之自然人。爰本次研修農業用地興建農舍辦法修法擬規範農舍申請人及承受人(因繼承移轉之承受人不受限制)應為農民健康保險被保險人或全民健康保險第三類被保險人，或檢附農業生產相關佐證資料由直轄市、縣(市)主管機關會同專家、學者會勘後認定者，僅係明確相關認定基準，以落實農業發展條例立法原意，且並非以農保或全民健保第三類為唯一資格，並不會影響真正從事農業生產農民之權益。\n四、台端相關建議，本會已錄案研參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040219853號|為台端陳情有關本會侵害農舍所有權人財產權違反法律信賴保護原則"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "713ae96c896665c92d563864116e81f05794730fcec67d51dcc81df5ca00e3e2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "致行政院陳情書暨104年5月19日致本會陳情書。\n二、按目前農業用地興建農舍辦法未規範農舍申請人及承受人須為農民之資格條件,使農舍、農地成為非實際從事農業生產者"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "於該農地上興建輔助及便利其農事生產工作,兼具居住之構造物,依農業發展條例第3條,農民係指直接從事農業生產之自然人。爰本次研修農業用地興建農舍辦法修法擬規範農舍"
+  }
+ ]
+}

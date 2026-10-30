@@ -1,0 +1,75 @@
+{
+ "id": "itp-39644b716c",
+ "doc_class": "interpretation",
+ "docno": "水保農字1021828567號",
+ "date": "2013-12-02",
+ "date_text": "102/12/2",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業發展條例修正施行前取得共有農業用地，於修正施行後分割為單獨所有，其土地取得時點，查行政農業委員會102年2月26日農授水保字第1021804217號函及102年10月25日農水保字第1020215007號函釋有案(副本諒達)，請查照辦理。",
+ "content": "一、復貴府102年11月27日府農農字第1020242035號函。\n二、有關農舍之個案審查係屬直轄市、縣(市)政府權責，茲檢還原卷，請貴府依前開函釋規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3511",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:37:53+08:00",
+   "source_key": "rmis:3511"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字1021828567號|有關農業發展條例修正施行前取得共有農業用地於修正施行後分割為"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8a05b2c175c39b7416f2d106cd6f93455cd369528beacb252c83a78a371110a8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "docno_unparsed",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正施行前取得共有農業用地,於修正施行後分割為單獨所有,其土地取得時點,查行政農"
+  }
+ ]
+}

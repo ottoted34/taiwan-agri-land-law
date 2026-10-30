@@ -1,0 +1,58 @@
+{
+ "id": "itp-3714ba8493",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1030708545號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函為合法農舍申請增建，其申請人資格審查疑義案，復請查照。",
+ "content": "一、復行政院農業委員會交下台端103年3月18日申請書。\n二、依102年7月1日修正之「農業用地興建農舍辦法」第9條第1項第6款\n規定略以：「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，...。」，爰農舍辦理分期興建者，除原申請人外，均須依前開辦法規定，重新審查其農民資格條件。\n三、至有關申請興建農舍之資格審查，行政院農業委員會業於102年9月30日農授水保字第1021866061號函送資格條件審查表，爰各直轄市、縣(市)政府須依該審查表辦理審查。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1030708545號|有關台端函為合法農舍申請增建其申請人資格審查疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a00a8fe6452e6142bfd0c316e70734b72927947b86464f7299e17b7ca0995abb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "台端103年3月18日申請書。\n二、依102年7月1日修正之「農業用地興建農舍辦法」第9條第1項第6款\n規定略以:「同一筆農業用地僅能申請興建一棟農舍,採分期興建方式辦理"
+  }
+ ]
+}

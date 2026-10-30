@@ -1,0 +1,61 @@
+{
+ "id": "itp-df9da5753c",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070228869號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端詢問非都市農地上農舍申請作民宿使用後，得否附設餐廳對外營業或僅供入住旅客使用等疑義一案，復如說明，請查照。",
+ "content": "一、依據交通部觀光局107年7月12日觀宿字第1070913691號函轉臺端107年7月6日致該局局長信箱電子郵件辦理。\n二、基於農舍係與農業經營不可分離，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之建築物，且應以自用為原則，倘已興建農舍依非都市土地使用管制規則及民宿管理辦法等相關規定，經目的事業主管機關核准經營民宿者，其應以家庭副業方式經營。\n三、另依民宿管理辦法第2條規定，民宿具有自用之性質，且農舍作民宿使用係屬非都市土地使用管制規則許可使用細目之一，而未變更其為農舍之本質，爰農舍之使用仍應以其目的及性質為原則，倘民宿附設餐廳供非民宿住宿之旅客使用，或有對外營業之性質，則該餐廳即違反農舍使用之目的。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070228869號|有關臺端詢問非都市農地上農舍申請作民宿使用後得否附設餐廳對外"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d19b355b05faa5803bd3c600e0e88bd663c5d88902077a151bd634e456f27d11",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農機具兼具居住需求之建築物,且應以自用為原則,倘已興建農舍依非都市土地使用管制規則及民宿管理辦法等相關規定,經目的事業主管機關核准經營民宿者,其應以家庭副業方式經"
+  }
+ ]
+}

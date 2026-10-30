@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3251",
    "serial": null,
-   "fetched_at": "2026-10-30T09:59:32+08:00",
+   "fetched_at": "2026-10-30T11:26:45+08:00",
    "source_key": "rmis:3251"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1051808602號|有關農業發展條例修法後取得之農業用地且已興建農舍因公共工程建"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,22 +47,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "有關農業發展條例修法後取得之農業用地且已興建農舍,因公共工程建設被徵收或協議價購部分土地及農舍建"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。...」,現行農業用地興建農舍辦法(以下簡稱本辦法)第4條"
+  },
+  {
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "相關土地使用管制及建築法令規定,申請興建農舍。...」,現行農業用地興建農舍辦法(以下簡稱本辦法)第4條規定,係為保障本條例修法前取得之農業用地興建農舍之權益,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

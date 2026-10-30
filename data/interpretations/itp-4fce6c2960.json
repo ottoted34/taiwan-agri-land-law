@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5040",
    "serial": null,
-   "fetched_at": "2026-10-30T10:12:18+08:00",
+   "fetched_at": "2026-10-30T11:39:21+08:00",
    "source_key": "rmis:5040"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020729737號|都市計畫農業區依都市計畫法等相關規定辦理分區變更是否應繳交農"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,12 +37,21 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0070001",
+    "law_name": "都市計畫法",
+    "article": "27-1",
+    "amended_on": "2021-05-26",
+    "history": "中華民國一百十年五月二十六日總統華總一義字第 11000047771 號令修正公布第 4、6、10、11、13、14、18～21、24、25、27、27-1、29、30、41、52～55、57～62、63、64、67、71、73、78、79、82、86 條條文",
+    "relation_kind": "extracted"
    }
   ]
  },
@@ -49,22 +64,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "102年9月18日誠字第1020918001號函。\n二、依據農業發展條例第12條規定,農業用地變更為非農業使用時,應視其事業性質,繳交回饋金;至各目的事業相關法"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "D0070001",
+   "article": "27-1",
+   "kind": "extracted",
+   "snippet": "ttp://talis.coa.v.tw/ALRIS/),依都市計畫法第27條之1規定,主管機關於審議規範或處理原則中訂定相關回饋機制者,應依農業發展條例第12條"
+  },
+  {
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "分區變更案件,倘已核算須提供或捐贈之一定金額或代金者,不另依「農業用地變更回饋金撥繳及分配利用辦法」規定之標準計算回饋金,惟依前述應將已核算須提供或捐贈一定金額或代金二分之一,依上"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

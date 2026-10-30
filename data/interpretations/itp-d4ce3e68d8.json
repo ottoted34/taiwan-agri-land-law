@@ -1,0 +1,87 @@
+{
+ "id": "itp-d4ce3e68d8",
+ "doc_class": "interpretation",
+ "docno": "農企字第890010348號",
+ "date": "2000-10-06",
+ "date_text": "89/10/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋關於「農業用地變更回饋金撥繳及分配利用辦法」八十九年八月十一日發布施行前已提申請且由政府受理審查中之農業用地變更案件， 其所涉及之農業用地變更回饋金收取標準與範圍，應仍依據本辦法施行前之相關法令規定辦理。",
+ "content": "查農業發展條例自八十九年一月二十六日公告修正施行，該條例第十二條規定農業用地變更使用應依其變更事業性質繳交回饋金，惟規範農業用地變更回饋金繳交等執行規定之「農業用地變更回饋金撥繳及分配利用辦法」至八十九年八月十一日方發布施行。爰就該辦法發布施行前已提申請且受理審查中之農業用地變更案件，所涉及之回饋金收取標準與範圍，作上述之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5217",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:05+08:00",
+   "source_key": "rmis:5217"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890010348號|釋關於農業用地變更回饋金撥繳及分配利用辦法八十九年八月十一日"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4243bc9f61cba39ec006ce4d315118f784f89300532217bdd923a5016c354b8e",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋關於「農業用地變更回饋金撥繳及分配利用辦法」八十九年八月十一日發布施行前已提申請且由政府受理審查中之農業用地變更案件, 其所"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "收取標準與範圍,應仍依據本辦法施行前之相關法令規定辦理。\n查農業發展條例自八十九年一月二十六日公告修正施行,該條例第十二條規定農業用地變更使用應依其變更"
+  }
+ ]
+}

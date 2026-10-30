@@ -1,0 +1,66 @@
+{
+ "id": "itp-93ad5e35e3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070013685號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴市民眾○○○申請興建農舍農民資格認定疑義案，復如說明，請查照。",
+ "content": "一、復貴府107年9月27日府農管字第1070240034號函。\n二、查農業用地興建農舍辦法規定，對符合興建農舍農民資格之核定雖無有效期限之規定，惟查行政程序法第123條規定：「授予利益之合法行政處分，有下列各款情形之一者，得由原處分機關依職權為全部或一部之廢止：．．．四、行政處分所依據之法規或事實事後發生變更，致不廢止該處分對公益將有危害者。．．．」，爰貴府倘對旨案執行有疑慮，得依上開規定就該案現況與貴府農業局於105年5月30日以桃農管字第1050013333號函所依據之事實審認比較，如「確有農業經營」、「未有違規使用」等據以審定之事實發生變更，得就該行政處分為適法之處理，建議上開規定之執行程序可洽詢貴府法制單位提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070013685號|有關貴市民眾○○○申請興建農舍農民資格認定疑義案復如說明請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "75d84cb72909b683c1c5098cbffa2f28b9f05b58efb898e26663642981092a4f",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "07年9月27日府農管字第1070240034號函。\n二、查農業用地興建農舍辦法規定,對符合興建農舍農民資格之核定雖無有效期限之規定,惟查行政程序法第123條規"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "123",
+   "kind": "extracted",
+   "snippet": "法規定,對符合興建農舍農民資格之核定雖無有效期限之規定,惟查行政程序法第123條規定:「授予利益之合法行政處分,有下列各款情形之一者,得由原處分機關依職權為全部"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5465",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:15+08:00",
+   "fetched_at": "2026-10-30T11:44:28+08:00",
    "source_key": "rmis:5465"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0990108325號|利用毗連非都市土地擴展工業計畫涉及未登錄地之隔離綠帶或設施審"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -60,5 +66,7 @@
    "kind": "extracted",
    "snippet": "\n一、復貴局○年○月○日北農牧字第○○○○○號函。\n二、依據「農業主管機關同意農業用地變更使用審查作業要點」第11點第1項規定,申請變更農業用地作與農業生產性質不相容之目的事業使用者,應配"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

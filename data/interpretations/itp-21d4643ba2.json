@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5265",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:14+08:00",
+   "fetched_at": "2026-10-30T11:36:27+08:00",
    "source_key": "rmis:5265"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030203095號|水利用地申請核發農業用地作農業使用證明書疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "之認定基準,始得核發農業用地作農業使用證明書,水利用地原則依農業發展條例第3條第10款規定作與農業經營不可分離之農田灌溉、排水使用,始符合作農業使用之認定。惟"
+  },
+  {
+   "law_id": "M0110006",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "明,本案現況既為原始林木,可認屬土地編定前存在之農業使用,依山坡地保育利用條例第16條規定,山坡地供農業使用者,應實施土地可利用限度分類,並由中央或直轄市主管機關完成"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

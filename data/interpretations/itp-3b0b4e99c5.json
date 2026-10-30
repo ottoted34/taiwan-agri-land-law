@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5946",
    "serial": null,
-   "fetched_at": "2026-10-30T09:57:11+08:00",
+   "fetched_at": "2026-10-30T11:24:24+08:00",
    "source_key": "rmis:5946"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080214956號|有關貴局函詢取得農業設施容許使用之圍牆是否須申請建築執照案復"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070109",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "40800132號函請各直轄市、縣(市)政府配合辦理有案,又建築法第7條規定,本法所稱雜項工作物,為營業爐竈、水塔、...、圍牆、...。同法第28條第"
+  },
+  {
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "所詢圍牆是否須申請建築執照,應洽詢貴府建築主管機關。\n二、至農業發展條例第8條之1第2項但書所定,農業設施面積在45平方公尺以下,且屬1層樓之建築者,免申請建築執"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

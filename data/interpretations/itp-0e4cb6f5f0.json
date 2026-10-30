@@ -1,0 +1,59 @@
+{
+ "id": "itp-0e4cb6f5f0",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920125641號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於○○○函詢為起造人於申請農舍建造執照期間意外死亡，其繼承人得否不受農業發展條例相關規定之限制，而重新或繼續申請農舍建築執照案，復如說明，請查照。",
+ "content": "一、復貴署92年4月30日營署建管字第0920019635號函。\n二、查我國民法就繼承之規範，採當然繼承主義，即被繼承人一死亡，不待繼承人之意思表示，立即發生財產繼承之效力。由當然繼承主義，又發生概括繼承之效力，即被繼承人之一切權利義務，如未依民法第1174條規定拋棄繼承或不屬於其專屬性（如職務保證）者，均由其繼承人繼承，合先敘明。\n三、案內所稱領得農舍建造執照之法律性質究係權利，抑或專屬權利，得否為繼承之標的，應予釐清。至本案起造人於申請農舍建照期間意外死亡，其權利尚未具體形成，似可認可。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920125641號|關於○○○函詢為起造人於申請農舍建造執照期間意外死亡其繼承人"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e66b37d22bd08da3b8108cf2f6325de3a8fd1bdc133495570988b24915e29b87",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "函詢為起造人於申請農舍建造執照期間意外死亡,其繼承人得否不受農業發展條例相關規定之限制,而重新或繼續申請農舍建築執照案,復如說明,請查照。\n一、復貴署9"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "itp-5fc226a1f7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100211823號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍稽查案件執行疑義",
+ "content": "主旨：有關臺南市政府辦理仁德區○○○地號土地農舍及其農業用地稽查一案，詳如說明，請查照。\n說明：\n一、依據臺南市政府都市發展局110年3月26日南市都管字第1100379282號函辦理。\n二、查都市計畫法臺南市施行細則涉及農業區之土地分區使用管制係明訂於第27條至第30條，其中第27條規定：「農業區為保持農業生產而劃定，除保持農業生產外，僅得申請興建農舍、農業產銷必要設施、休閒農業設施、自然保育設施或農村再生相關公共設施。但第28條至第30條所規定者，不在此限。．．．」，又第28條至第30條各項非農業設施，明訂應經臺南市政府審查核准，先予敘明。\n三、經查本案稽查及處理情形，旨揭地號違規態樣除農舍違法增建以外，亦未經申請即全面鋪設水泥地、搭建鋼構鐵皮車棚及鐵皮資材室等，整筆土地作與農業經營無關之設施(詳如附件)，並經臺南市農舍稽查小組認定該農舍及其坐落用地未依規定作農業使用在案。惟臺南市政府都市發展局首揭號函，說明旨案係農舍增建案件，無涉違反都市計畫規定，實屬未妥，爰請貴部積極督導該府，釐清該等與農業經營無關之設施係符合前揭施行細則第27條至第30條所列何項使用，並提出該府審查核准文件，以利後續列管作業。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100211823號|農舍稽查案件執行疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "24e0b60983e8f6a3fa954475b23a09e129f3ea4d06292c08798c75dcbc34ae2b",
+ "topics": [
+  "paving",
+  "material_room",
+  "facility_use",
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "3月26日南市都管字第1100379282號函辦理。\n二、查都市計畫法臺南市施行細則涉及農業區之土地分區使用管制係明訂於第27條至第30條,其中第27"
+  }
+ ]
+}

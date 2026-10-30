@@ -1,0 +1,50 @@
+{
+ "id": "itp-f8cffd77f3",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0930102310號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關因繼承取得農業用地之認定時點暨本會92年12月12日農輔字第0920169670號函釋疑義案，復如說明，請查照。",
+ "content": "一、依據○○○93年1月8日陳情書辦理。 二、查民法第758條規定「不動產物權，依法律行為而取得設定、喪失及變更者，非經登記不生效力。」；土地取得係因繼承或分割繼承者，依民法第1147條規定「繼承，因被繼承人死亡而開始。」；又民法第759條規定「因繼承、強制執行、公用徵收或法院之判決，於登記前已取得不動產物權者，非經登記，不得處分其物權。」此外，最高法院40年臺上字第1001號判例「因繼承而取得不動產物權，係依法律行為以外之事由所生不動產物權之變動，不受民法第758條所定須經登記始生效力之限制。」，故因繼承、分割繼承而取得農業用地者，不待登記即已生效，並應以「被繼承人死亡日期」為認定時點之基準，本會92年12月12日農輔字第0920169670號函與上開意旨不符部份不再適用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0930102310號|有關因繼承取得農業用地之認定時點暨本會92年12月12日農輔"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8d2b0c71d4ed4f4d232aac977538edf25f9575ae690cdc561aa89bef5bb8dc16",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

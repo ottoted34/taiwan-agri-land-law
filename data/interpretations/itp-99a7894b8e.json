@@ -1,0 +1,60 @@
+{
+ "id": "itp-99a7894b8e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960127235號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "都市計畫農業區土地業已申請農業產銷必要設施，得否再申請興建農舍案，復請查照。",
+ "content": "1.復 貴署96年5月16日營授辦城字第0960024381號函。\n2.按農舍性質，係便利農業經營並附帶提供居住用途，故農舍亦可具有放置農業資材等功能，依都市計畫法臺灣省施行細則第29條第4項規定：「已申請興建農舍之農地，再行申請建築農業產銷必要設施（畜牧廢棄物處理場除外）時，建蔽率（含農舍）不得超過百分之六十。」，依其規定，不論農舍先建或後建，其與其它農業產銷設施併計後之總建蔽率應不得超過該筆農地面積之百分之六十，較符公平原則及管理目的。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960127235號|都市計畫農業區土地業已申請農業產銷必要設施得否再申請興建農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5b6d06c7c70eb80558aa6a24cbbf4961f9db1db878e6a03d019eb3f86adf762e",
+ "topics": [
+  "material_room",
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "經營並附帶提供居住用途,故農舍亦可具有放置農業資材等功能,依都市計畫法臺灣省施行細則第29條第4項規定:「已申請興建農舍之農地,再行申請建築農業產銷必"
+  }
+ ]
+}

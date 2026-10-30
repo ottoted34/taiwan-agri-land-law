@@ -1,0 +1,70 @@
+{
+ "id": "itp-1dbaa8193f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991874938號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍及公共設施補助款核發處理原則，請查照。",
+ "content": "一、集村農舍及公共設施完成，經直轄市、縣市政府派員補助款核發單位會同建管單位實地勘查，其農舍坐落基地及供農業使用之農業用地應符合區域計畫法、都市計畫法及建築法相關規定，且供農業使用，查驗符合規定之農戶依程序核發；不符相關規定者不予發給補助款，應改正符合規定始得核發。至於申請案涉及違反建築法或土地使用管制等規定者，應由權責單位依該管法令處理。\n二、本會98年12月23日農水保字第0981843755號通函各縣市政府，於99年度起不再受理集村興建農舍斜屋頂及公共設施之補助案件，惟98年度已受理之補助申請案件，應符合上開原則始得核發補助款。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991874938號|有關集村興建農舍及公共設施補助款核發處理原則請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5eb26a113a7507836a582bf51aa7724e15cbb04b3b884fe2873f50e5709cbd8a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "建管單位實地勘查,其農舍坐落基地及供農業使用之農業用地應符合區域計畫法、都市計畫法及建築法相關規定,且供農業使用,查驗符合規定之農戶依程序核發;不符相"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "勘查,其農舍坐落基地及供農業使用之農業用地應符合區域計畫法、都市計畫法及建築法相關規定,且供農業使用,查驗符合規定之農戶依程序核發;不符相關規定者不予"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "坐落基地及供農業使用之農業用地應符合區域計畫法、都市計畫法及建築法相關規定,且供農業使用,查驗符合規定之農戶依程序核發;不符相關規定者不予發給補助"
+  }
+ ]
+}

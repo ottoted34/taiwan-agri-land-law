@@ -1,0 +1,58 @@
+{
+ "id": "itp-753b6202a1",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061835766號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍登記」一案",
+ "content": "一、依農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。」其立法意旨乃在避免農舍與其坐落用地分屬不同所有權人，產生徒有農舍卻無供農業經營用地之不合理現象，合先敘明。\n二、查本會104年5月13日農水保字第1030244431號函說明三：「至於農業發展條例89年修正施行前已興建完成之農舍，鑑於時空背景及所依據之法令不同，農舍與農地常有分屬不同人之情形，爰為避免農舍或農地所有權人無法處分其財產，如農舍與農地已分屬不同人時，得不受農業發展條例第18條第4項農舍應與其坐落用地併同移轉之限制，惟若農舍及提供興建農舍之農業用地仍同屬一人，則於未來移轉時，仍應受農業發展條例第18條第4項所規範。」且內政部106年11月8日台內地字第1060077343號書函說明二略以：「故有關本條例89年修正施行前已興建完成之農舍，農舍與其坐落農地是否分屬同一人，其有無受本條例第18條第4項農舍與其坐落農地併同移轉限制，請依上開本部104年6月23日函及農委會104年5月13日函辦理」。\n三、另您所詢地政登記業務係屬內政部及直轄市、縣(市)政府之權責，宜請敘明個案具體事實並檢附相關證明文件，向該部或土地所轄之直轄市、縣(市)政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061835766號|農舍登記一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bb5faa2827c62f25c7d84780750c93a6a563fb3a8ab2137044301fb5dea88b6a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "「農舍登記」一案\n一、依農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

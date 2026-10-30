@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5102",
    "serial": null,
-   "fetched_at": "2026-10-30T10:15:11+08:00",
+   "fetched_at": "2026-10-30T11:42:24+08:00",
    "source_key": "rmis:5102"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1000176146號|已興建農舍有案之都市計畫農業區土地經分割後再行申請農業設施容"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -49,16 +55,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年11月28日屏府農企字第1000297803號函。\n二、依都市計畫法臺灣省施行細則第29條第2項規定:「都市計畫農業區內之農業用地,其已申請建築者("
+  },
+  {
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "複申請興建農舍,至其餘農業用地擬申請興建農業設施,貴府則應依「申請農業用地作農業設施容許使用審查辦法」之規定,視農業生產經營之必要性及合理性,依個案生產之實務需要及事實,本於職權予以"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

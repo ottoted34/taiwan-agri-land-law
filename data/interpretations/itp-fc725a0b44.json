@@ -1,0 +1,60 @@
+{
+ "id": "itp-fc725a0b44",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090247147號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍違規使用案",
+ "content": "一、依據臺中市政府 109年10月23日府授都測字第 1090252368號函辦理。\n二、本會前於 109年7月6日以農企字第 1090012753號函說明，農舍及其農業用地未能自用或出租供他人使用，即已違反農舍興建之立法目的及土地使用管制規定。依臺中市政府前揭號函敘明，旨案農舍及其農業用地尚非土地所有權人使用及經營該農業用地，請貴部督導臺中市政府依土地使用管制規定妥處。又旨案農地上似存在農舍以外之違章建築及水泥鋪面，是否有建築相關法令及土地使用管制規定之競合，亦併請貴部協助該府釐明。\n三、副本抄送臺中市政府農業局，依農業用地興建農舍辦法第 9條第 2項第 3款規定略以：「申請興建農舍之農業用地，．．．供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積之 90%。．．．」，故請釐清旨案農業用地是否有 90%供農業生產之事實，並建議納入本年度農舍稽查案件予以列管。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090247147號|農舍違規使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d8a6caf1ae8f576a6dcc15905fb06a2dc2048aab5f0400f2583b9537ee99a2b4",
+ "topics": [
+  "paving",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": ",亦併請貴部協助該府釐明。\n三、副本抄送臺中市政府農業局,依農業用地興建農舍辦法第 9條第 2項第 3款規定略以:「申請興建農舍之農業用地,...供農業生產使用部分之農"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-9278f1a0bd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000151481號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函為公同共有人是否得檢具分割協議書，以個人名義分別於2筆土地申請自用農舍乙案，復請 查照。",
+ "content": "1.復貴府100年8月10日府農管字第1000320239號函。\n2.本會前以99年6月28日農水保字第0991875147號令，核釋「農業用地興建農舍辦法」第3條第1項第2款所定土地取得應滿二年，其共有農業用地於「農業發展條例」89年1月28日修正施行後取得，且於98年7月23日以後分割者，依民法第824條之1規定，其土地取得時點應以土地完成分割登記日起算，先予敘明。\n3.另依本會96年7月19日農水保字第0961848714號函，其說明三略以：「...公同共有，公同共有人之權利及於公同共有物全部，並非按其應有部分之範圍行使權利，因其應有部分係隱藏，對於各別公同共有物而言，並無應有部分，故公同共有物之處分及權利之行使，除依其公同關係所由規定之法律或契約之規定外，應得全體公同共有人之同意（民法第827條、第828條參照），...。」是以該2筆土地若未辦理分割且存在公同共有關係者，其申請興建農舍應依前述規定辦理。\n4.請貴府依前開釋令及個案事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000151481號|有關貴府函為公同共有人是否得檢具分割協議書以個人名義分別於2"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7d2ae843602c61c89002eedb6e211c9f652ce890035f2645d3bde5c963f2a26a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "前以99年6月28日農水保字第0991875147號令,核釋「農業用地興建農舍辦法」第3條第1項第2款所定土地取得應滿二年,其共有農業用地於「農業發展條例」89年1月28"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法」第3條第1項第2款所定土地取得應滿二年,其共有農業用地於「農業發展條例」89年1月28日修正施行後取得,且於98年7月23日以後分割者,依民法第824條"
+  }
+ ]
+}

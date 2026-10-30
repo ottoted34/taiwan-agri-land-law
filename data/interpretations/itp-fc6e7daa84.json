@@ -1,0 +1,90 @@
+{
+ "id": "itp-fc6e7daa84",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950171591號",
+ "date": "2006-12-25",
+ "date_text": "95/12/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋原領有使用執照之自用農舍，是否可申請變更作為農業資材室一案",
+ "content": "主旨：有關　貴府函詢原領有使用執照之自用農舍，是否可申請變更作為農業資材室一案，復請　查照。\n說明：\n一、依據內政部95年11月14日內授中辦地字第○○○○○號函暨內政部營建署95年12月18日營署建管字第○○○○○號函辦理，並復 貴府95年10月14日府農務字第○○○○○號函。\n二、按農業用地申請興建農舍之用途，在供農民居住、農場經營管理及貯放農產品之場所，並須符合建築法、實施區域計畫地區建築管理辦法、農業用地興建農舍辦法及非都市土地使用管制等相關法律規範。一般而言，由於其用途在供農民居住，故其建築結構、設計圖樣等與農業設施之興建方式與使用功能有別，且農舍似無需辦理變更，即得作為農民居住、農場經營管理及貯放農產品或非都市土地容許使用執行要點所定農舍各許可使用細目使用，先予敘明。\n三、惟本案依　貴府所述自用農舍現已無居住之事實，倘僅供農場生產經營管理之用，且尚符合農業用地容許作農業設施使用審查辦法規定之農業資材室申請要件及農業經營之必要性、合理性，應得依法規規定申請農業用地容許作農業資材室使用。又依農業發展條例第18條第4項規定，已申請興建農舍之農業用地不得重複申請，經套繪、註記之農業用地仍不得重複申請興建農舍，原已經地政主管機關套繪、註記列管之土地登記資料，仍應予以維持。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5294",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:35+08:00",
+   "source_key": "rmis:5294"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950171591號|釋原領有使用執照之自用農舍是否可申請變更作為農業資材室一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-ed23044f06",
+    "by_docno": "農企字第0970010742號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "三、綜上,本會95年12月25日農企字第0950171591號函自即日起停止適用"
+   }
+  ]
+ },
+ "content_hash": "de261f60340c7bbb31c35a2c302d7e6c61a69413a024c8deff262a97f94d2c65",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用途,在供農民居住、農場經營管理及貯放農產品之場所,並須符合建築法、實施區域計畫地區建築管理辦法、農業用地興建農舍辦法及非都市土地使用管制等相關法"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農產品之場所,並須符合建築法、實施區域計畫地區建築管理辦法、農業用地興建農舍辦法及非都市土地使用管制等相關法律規範。一般而言,由於其用途在供農民居住,故其建築結"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用農舍現已無居住之事實,倘僅供農場生產經營管理之用,且尚符合農業用地容許作農業設施使用審查辦法規定之農業資材室申請要件及農業經營之必要性、合理性,應得依法規規定申請農業用地容"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "合理性,應得依法規規定申請農業用地容許作農業資材室使用。又依農業發展條例第18條第4項規定,已申請興建農舍之農業用地不得重複申請,經套繪、註記之農業用地仍不得重"
+  }
+ ]
+}

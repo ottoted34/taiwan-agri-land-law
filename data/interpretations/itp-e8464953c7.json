@@ -1,0 +1,59 @@
+{
+ "id": "itp-e8464953c7",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920156320號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端所詢有關搭建農舍面積86.25平方公尺，申請補照如何取得「農業用地作農業使用證明」案，復如說明，請查照。",
+ "content": "一、依據內政部營建署92年9月22日營署綜字第0920056453號函辦理，並復台端92年8月14日陳情書。\n二、請先釐清所興建之建築物究係農舍或農業設施，二者不宜混為一談。如係農舍，因農舍補照涉及建管相關法令，請逕洽主管機關內政部（營建署）；如係農業設施（即內政部營建署前揭函所稱涉及農業發展條例第8條之1之農業設施），請依本會訂頒之「申請非都市土地農牧用地作農業設施容許使用審查作業要點」規定，申請容許使用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920156320號|台端所詢有關搭建農舍面積8625平方公尺申請補照如何取得農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "05f697aedd22e919857bcf57a892d5c7a8bea38649a7d016577f439437b4562e",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "內政部(營建署);如係農業設施(即內政部營建署前揭函所稱涉及農業發展條例第8條之1之農業設施),請依本會訂頒之「申請非都市土地農牧用地作農業設施容許使用審查作業要"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5440",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:04+08:00",
+   "fetched_at": "2026-10-30T11:27:17+08:00",
    "source_key": "rmis:5440"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第1050216567號|農糧產品加工室年糕應與農業生產使用相連結"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "05年5月3日中市農地字第1050015184號函。\n二、按申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第12條定有申請農作產銷設施容許使用,其經營計畫應敘明事項。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

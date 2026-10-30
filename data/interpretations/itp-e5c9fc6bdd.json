@@ -1,0 +1,82 @@
+{
+ "id": "itp-e5c9fc6bdd",
+ "doc_class": "interpretation",
+ "docno": "營署中城字第0930072654號",
+ "date": "2004-12-01",
+ "date_text": "內政部營建署九十三年十二月一日營署中城字第0930072654號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋都市計畫農業區土地申請設置農業設施，其建蔽率是否須依都市計畫法臺灣省施行細則第二十九條第二項規定辦理案",
+ "content": "查都市計畫法臺灣省施行細則第二十九條規定略以：「農業區為保持農業生產而劃定，除保持農業生產外，僅得申請建築農舍，．．．。但經縣（市）政府審查核准之農業產銷必要設施、．．．，不在此限」。又上開細則條文第二項規定略以：「前項但書所定農業產銷必要設施，不得擅自變更使用，其種類由中央目的事業主管機關定之；其建蔽率除屠宰場及畜牧廢棄物處理場外，不得超過百分之六十，．．．。」準此，本案申請於都市計畫農業區設置農業設施，除應依行政院農業委員會訂頒之「農業用地容許作農業設施使用審查辦法」規定辦理外；其建蔽率亦需符合上開細則條文之規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署中城字第0930072654號|釋都市計畫農業區土地申請設置農業設施其建蔽率是否須依都市計畫"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "90c5b8a01a655133468cc6f6e5f425bf4405ac4fab19ac290d8349bb82b885ba",
+ "topics": [
+  "land_change",
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋都市計畫農業區土地申請設置農業設施,其建蔽率是否須依都市計畫法臺灣省施行細則第二十九條第二項規定辦理案\n查都市計畫法臺灣省施行細則第二十九條規"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請於都市計畫農業區設置農業設施,除應依行政院農業委員會訂頒之「農業用地容許作農業設施使用審查辦法」規定辦理外;其建蔽率亦需符合上開細則條文之規定。"
+  }
+ ]
+}

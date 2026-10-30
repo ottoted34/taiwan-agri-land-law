@@ -1,0 +1,64 @@
+{
+ "id": "itp-736d2833a5",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0971844473號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關本會96年3月14日農授水保字第0961848173號函釋，農舍與其坐落用地併同辦理移轉時，其承受人資格應符合無自用農舍條件疑義案，復請查照。",
+ "content": "1.復 貴部97年11月19日內授中辦地字第0970052816號函。\n2.「農業用地興建農舍辦法」第3條第1項第3款規定「申請興建農舍之該宗農業用地……」，所稱「該宗」農業用地，係指土地登記之單一筆農業用地而言，其立法意旨明確，一筆土地僅得申請興建1棟農舍為限，共有農業用地亦得由共有人共同申請興建1棟農舍（參照本會96年6月22日農授水保字0960133172號函）。\n3.本案89年1月28日農業發展條例修正施行前取得之共有耕地，於94年申請興建三棟農舍，若該三棟農舍依相關規定合併為一棟者，其移轉得依上開條例第18條第4項規定辦理，惟其承受人資格應符合無自用農舍條件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0971844473號|有關本會96年3月14日農授水保字第0961848173號函"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "88e8571c1834b46d1e96e2d167860dca637e0e03a47222607ee2bb5c167d7e79",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "年11月19日內授中辦地字第0970052816號函。\n2.「農業用地興建農舍辦法」第3條第1項第3款規定「申請興建農舍之該宗農業用地......」,所稱「該宗」農業用地"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "水保字0960133172號函)。\n3.本案89年1月28日農業發展條例修正施行前取得之共有耕地,於94年申請興建三棟農舍,若該三棟農舍依相關規定合併為"
+  }
+ ]
+}

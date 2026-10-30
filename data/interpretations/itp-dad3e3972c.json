@@ -1,0 +1,58 @@
+{
+ "id": "itp-dad3e3972c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1071825848號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為○○○等26人申請辦理集村興建農舍坐落用地(臺南市善化區○○○地號)專案分割案，復請查照。",
+ "content": "一、復本會水土保持局案陳貴局107年1月22日南市農工字第1070122078號函。\n二、依據農業用地興建農舍辦法第11條第1項第9款規定：「興建集村農舍應配合農業經營整體規劃，符合自用原則，於農舍用地設置公共設施；其應設置之公共設施如附表。」，查該附表10棟以上未滿30棟者，應設置之公共設施項目為每戶至少1個停車位、基地內通路、社區公共停車場及公園綠地等，合先敘明。\n三、經查本案卷附各戶專案分割示意圖，編號B1b公共設施用地涵蓋社區停車場(一)及A12用戶車位，該筆用地兼具公共設施用途及私人停車位，是否需將其分割？又本案基地內通路是否單獨分割為一筆地號？\n四、另本案卷附集村興建農舍土地分割協議書，仍須請申請人填具簽章欄，並請確認專案分割後土地擬分割之總筆數，請貴府就上開疑義先予釐清後再向本會申請專案分割。\n五、隨文檢還申請書及其附件1份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1071825848號|為○○○等26人申請辦理集村興建農舍坐落用地臺南市善化區○○"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4a2efef03f2244be00cfd82f90414eb9ed8a2ebe899de300555296a5c9c88960",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "年1月22日南市農工字第1070122078號函。\n二、依據農業用地興建農舍辦法第11條第1項第9款規定:「興建集村農舍應配合農業經營整體規劃,符合自用原則,於農舍用地"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "itp-04d647792e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041810615號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "從事農務工作與農地蓋農舍。",
+ "content": "一、農業用地上准許興建農舍之制度，係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之構造物，以便利其從事農事工作，與一般家居住宅性質不同。再者，農舍之興建與使用應與農業經營不可分離，並非僅做純住宅使用。因此，農舍係為農民所需而興建，屬農地上特許之設施，先予敘明。\n二、本次農業用地興建農舍辦法修正，以農民健康保險被保險人或全民健康保險第三類被保險人作為審認條件，係因其資格均已有從事農業工作之認定標準且完成審查，爰得認定為申請興建農舍之農民，另外針對不具農民健康保險或全民健康保險第三類資格者，則可檢附農業生產相關佐證資料由直轄市、縣(市) 主管機關會同專家、學者會勘後認定之。至於台端所提持續從事務農工作稽查之建議、本會將會納入參考。\n三、另外，農舍興建後是否維持作農業使用，本會已請直轄市、縣(市) 政府加強後續稽查管理，經檢查未依規定使用者，通知限期改正，屆期不改正者，得廢止其許可，感謝您的來信建議。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041810615號|從事農務工作與農地蓋農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1de8c18d1c22d164bb1bcdec6e92a8ca6ad5c27fd5f21a095ef2a2a9fafa9c05",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "係為農民所需而興建,屬農地上特許之設施,先予敘明。\n二、本次農業用地興建農舍辦法修正,以農民健康保險被保險人或全民健康保險第三類被保險人作為審認條件,係因其資格"
+  }
+ ]
+}

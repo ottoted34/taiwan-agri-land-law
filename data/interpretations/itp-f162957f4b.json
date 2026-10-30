@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3309",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:20+08:00",
+   "fetched_at": "2026-10-30T11:38:22+08:00",
    "source_key": "rmis:3309"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1020237439號|有關貴署函現有農舍擬變更原提供該筆興建農舍配合耕地適法性疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -49,22 +55,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "2年10月31日營署建管字第1020069847號函。\n二、農業用地興建農舍辦法業於102年7月1日修正發布,該辦法第12條針對已申請興建農舍領有使用執照之農業"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "產生相關土地管理與權利義務劃分之疑義,不可不慎。\n三、至如屬農業發展條例89年修正前依「臺灣省申請自用農舍補充注意事項」規定,以10公里範圍內之耕地合併"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

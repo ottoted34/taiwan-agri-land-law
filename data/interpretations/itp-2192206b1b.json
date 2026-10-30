@@ -1,0 +1,62 @@
+{
+ "id": "itp-2192206b1b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070222897號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局106年11月14日修正發布民宿管理辦法，民宿業者欲申請變更客房數為6間以上者，就審查所涉及建築法令疑義一案，本會意見如說明，請查照。",
+ "content": "一、復貴局107年7月9日觀宿字第1070913277號函暨內政部107年6月5日內授營建管字第1070809566號函辦理。\n二、農舍係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之建築物，以便利其農事工作，與一般家居住宅性質不同，且農舍應以自用為原則。復依發展觀光條例第2條第9款規定，民宿係指利用自用住宅空閒房間，結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動，以家庭副業方式經營，提供旅客鄉野生活之住宿處所。綜上，自用農舍如作為民宿者，應以家庭副業方式經營，其農業經營用地亦應維持農業生產使用。\n三、至農舍申請作民宿使用，仍應符合民宿管理辦法第4條客房數與總樓地板面積規定限制。有關農舍是否因申請民宿之客房數而調整建築物使用類組一節，查建築物使用類組及變更使用辦法第2條所定「H-1」組係屬供公眾使用之建築物；基於農舍應以自用為原則，且與農業經營不可分離之意旨，又已興建農舍作為民宿者，係以家庭副業方式經營農舍，並非供公眾使用之建築物，爰考量農舍之性質及目的，農舍申請客房數6間以上之民宿，仍應以「H-2」組管理之，不宜修正為「H-1」組。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070222897號|有關貴局106年11月14日修正發布民宿管理辦法民宿業者欲申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4a995b0ae1c74770777b287d3d57373c1990f6656c19a5559273c2d5610748b4",
+ "topics": [
+  "machinery_room",
+  "land_change",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "管理辦法,民宿業者欲申請變更客房數為6間以上者,就審查所涉及建築法令疑義一案,本會意見如說明,請查照。\n一、復貴局107年7月9日觀宿字第1070"
+  }
+ ]
+}

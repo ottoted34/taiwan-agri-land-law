@@ -1,0 +1,70 @@
+{
+ "id": "itp-5c2f0829fa",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961822991號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行後繼承取得之共有農地，其申請興建農舍疑義案，復請查照。",
+ "content": "1.復 台端96年11月19日致本會水土保持局申請書。\n2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。\n3.台端於94年6月22日因繼承取得之共有農地，其申請興建農舍應請依「農業用地興建農舍辦法」第3條相關規定辦理;另檢送本會96年3月14日農授水保字第0961848173號函送縣（市）政府有關共有農業用地申請興建農舍處理原則參考（如附件）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961822991號|農業發展條例修正施行後繼承取得之共有農地其申請興建農舍疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d8ea6d4a2b714c57caf4c5ce14629b832f1118429047aba4e445a7f3b263112d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正施行後繼承取得之共有農地,其申請興建農舍疑義案,復請查照。\n1.復 台端96"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地,得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地,申請興建農舍"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "業發展條例」修正公布生效日後取得之農業用地,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。\n3.台端於94年6月22日因繼承取得之共有農地,其申請興建農舍應"
+  }
+ ]
+}

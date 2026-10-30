@@ -1,0 +1,50 @@
+{
+ "id": "itp-24f440044c",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0991876402號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關所有權人依公職人員財產申報法辦理強制信託登記疑義案，請查照。",
+ "content": "1.查貴部95年10月14日內授中辦地字第0950052080號函（如附件），全文內容略以：「...稱信託者，謂委託人將財產權移轉或為其他處分，使受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係，信託法第1條定有明文，故委託人將財產權移轉或為其他處分，為信託關係成立之要件。本件有關耕地所有權人欲將耕地信託與他人者，仍應踐行耕地所有權移轉之程序，始可成立信託關係，縱權利移轉之原因登記為『信託』，仍無礙該信託登記屬所有權移轉登記之本質。...」，合先敘明。\n2.有關土地因公職人員財產申報法而辦理強制信託，係為避免公職人員以財產圖不法利益，其所為之土地登記與一般信託之移轉登記，有無實質意義差異？上開函「無礙該信託登記屬所有權移轉登記之本質」係指為何？又土地於信託期間所有權人是否有處分及使用之權利？請惠示卓見還辦。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0991876402號|有關所有權人依公職人員財產申報法辦理強制信託登記疑義案請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "90f76c6ef4b99dfc6f1c80384643ca5b8ab19f5d8f985ee5c8bb79bd074871cb",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5361",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:50+08:00",
+   "fetched_at": "2026-10-30T11:45:03+08:00",
    "source_key": "rmis:5361"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0980150838號|有關依非都市土地使用管制規則第33條規定審查變更編定為丁種建"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,29 +37,29 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": "6",
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "extracted"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": "2",
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -67,28 +73,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0060013",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "有關依「非都市土地使用管制規則」第33條規定審查變更編定為丁種建築用地案件,其回饋金繳交之適用疑義案。\n主旨:有關 貴府"
+  },
+  {
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "地於劃定或變更為非農業使用時,應視其事業性質,繳交回饋金,為農業發展條例第12條所明定,本會並據以訂定「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": "6",
    "kind": "extracted",
    "snippet": "的事業主管法令規定辦理。另並應依農業發展條例第12條第2項及「農業用地變更回饋金撥繳及分配利用辦法」第6條之規定,將其應收繳金錢之二分之一繳交至農業發展基金,以供農業發展及農民福利之用。"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": "2",
    "kind": "extracted",
    "snippet": "非都市土地擴展工業,申請變更編定為丁種建築用地之案件,則應依「農業用地變更回饋金撥繳及分配利用辦法」第2條第5款規定,繳交農業用地變更回饋金。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

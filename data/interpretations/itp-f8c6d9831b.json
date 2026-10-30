@@ -1,0 +1,58 @@
+{
+ "id": "itp-f8c6d9831b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842252號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "依「農業用地興建農舍辦法」興建農舍後，其保留農業生產使用之農地經參與「農村社區土地重劃」，其農舍之合法性案，復請查照。",
+ "content": "一、復 台端98年2月23日自劃字第0980223001號函。\n二、依「農業用地興建農舍辦法」第6條第3款規定，申請興建農舍之該宗農業用地，扣除興建農舍土地面積後，供農業生產使用部分應為完整區塊，且其面積不得低於該宗農業用地面積百分之九十，合先敘明。\n三、依上開辦法興建農舍後，其保留百分之九十供農業生產使用之農業用地，如再參與「農村社區土地重劃」後發還可建築用地，應依農村社區土地重劃條例等相關規定辦理。\n四、台端來函所述其先前申請之農舍，未參與農村社區土地重劃，該農舍之合法性認定乙節，請依該農舍原是否合法申請有案，並依法取得使用執照，作為認定依據。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842252號|依農業用地興建農舍辦法興建農舍後其保留農業生產使用之農地經參"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b497ceab18953437f79241bf8af969959e4915f96528ad48ea5f252383cf9a93",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "端98年2月23日自劃字第0980223001號函。\n二、依「農業用地興建農舍辦法」第6條第3款規定,申請興建農舍之該宗農業用地,扣除興建農舍土地面積後,供農業生產使用部"
+  }
+ ]
+}

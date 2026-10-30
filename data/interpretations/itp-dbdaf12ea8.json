@@ -1,0 +1,74 @@
+{
+ "id": "itp-dbdaf12ea8",
+ "doc_class": "interpretation",
+ "docno": "農牧字第0930161996號",
+ "date": "2005-01-03",
+ "date_text": "94年1月3日農牧字第0930161996號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "037 釋「○○畜牧場」已取得畜牧場登記證書，其相鄰土地之飼養作為因土地共有另申請畜禽飼養登記，是否牴觸「畜牧法」第4條第2項「飼養同一種類之家畜或家禽，使用共同之水表、電表、排水口或同一圍籬（牆）內者，應合併計算其飼養規模」之規定案",
+ "content": "一、有關旨揭相鄰飼養作為如經貴府審酌其經營型態符合「畜牧法」43條第2項規定條件且獨立成場者，得另以獨立之飼養場名義，依據「畜禽飼養登記管理辦法」規定辦理畜禽飼養登記，先予敘明。（本會93年11月12日農牧字第0930123154號函副本諒達）\n二、該相鄰飼養場經辦理畜禽飼養登記後，依「畜牧法」第4條第2項規定意旨，自與原「建宏畜牧場」有所區隔，原則上應有單獨自用之水表、電表及排水口等設施，惟環境保護等相關法規另有特別規定者，應從其規定辦理。\n\n注意事項：\n依畜牧法第4條規定飼養家畜、家禽達中央主管機關公告指定之飼養規模以上者，應申請畜牧場登記。故申請畜牧設施如達應辦畜牧場登記之飼養規模以上者，畜牧設施之審查除應符合農業用地容許作農業設施使用審查辦法規定外，並同時符合依畜牧法第5條規定之畜牧設施使用之土地面積不超過畜牧場土地總面積百分之八十，且有應設置畜禽廢污處理設備並應符合有關法令規定之標準及畜牧場主要設施設置標準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農牧字第0930161996號|釋○○畜牧場已取得畜牧場登記證書其相鄰土地之飼養作為因土地共"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5e89fcf3d5a4d877004760004746bcaf0e9a4b71560359316a75196cec39df67",
+ "topics": [
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "施如達應辦畜牧場登記之飼養規模以上者,畜牧設施之審查除應符合農業用地容許作農業設施使用審查辦法規定外,並同時符合依畜牧法第5條規定之畜牧設施使用之土地面積不超過畜牧場土地總面"
+  }
+ ]
+}

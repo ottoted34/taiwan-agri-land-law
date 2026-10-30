@@ -1,0 +1,58 @@
+{
+ "id": "itp-8fde7662d3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931806098號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於農業用地興建農舍辦法第3條第1項第3款，申請興建農舍之「該宗農業用地」面積不得小於0.25公頃；此「該宗」係指同一所有權人之一筆或數筆相毗連農業用地疑義案，復請查照。",
+ "content": "一、復貴府93年3月19日基府建農參字第0930028996號函。\n二、所稱「該宗」農業用地，係指土地登記之單一筆地號農業用地而言；若有毗連二筆地號以上農業用地者，應先辦理合併為單一筆地號農業用地，且其面積在0.25公頃以上者，始得申請，以利農業用地管理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931806098號|關於農業用地興建農舍辦法第3條第1項第3款申請興建農舍之該宗"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cd3f5855a4b82a78bb87338ab8716fe6cf54d3ed5356237bb343fe38de4f9219",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "關於農業用地興建農舍辦法第3條第1項第3款,申請興建農舍之「該宗農業用地」面積不得小於0.25公頃;此「該宗」"
+  }
+ ]
+}

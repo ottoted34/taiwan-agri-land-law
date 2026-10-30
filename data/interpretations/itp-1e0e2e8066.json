@@ -18,17 +18,87 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5480",
    "serial": null,
-   "fetched_at": "2026-10-30T09:58:46+08:00",
+   "fetched_at": "2026-10-30T11:25:58+08:00",
    "source_key": "rmis:5480"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1060235300號|釋農業用地申請設置風力發電點狀使用之農業用地變更回饋金繳交之"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2018-03-19",
+    "history": "中華民國一百零七年三月十九日內政部內授中辦地字第 1071301740號令修正發布第 6、26、29、30、30-1 條條文；增訂第 30-5 條條文；並刪除第 56 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2018-08-14",
+    "history": "中華民國一百零七年八月十四日內政部內授中辦地字第 1071304838 號令修正發布第 6 條附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2019-02-14",
+    "history": "中華民國一百零八年二月十四日內政部內授中辦地字第 1080260590 號令修正發布第 35、52-1 條條文及第 6 條附表一；並增訂第 46-1 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2021-07-15",
+    "history": "中華民國一百十年七月十五日內政部台內地字第 1100263579 號令修正發布第 9、30、52-1 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2022-07-20",
+    "history": "中華民國一百十一年七月二十日內政部台內地字第 1110264095 號令修正發布第 40 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2024-03-29",
+    "history": "中華民國一百十三年三月二十九日內政部台內國字第 1130802987 號令修正發布第 6 條條文之附表一；並增訂第 30-7、30-8 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "913f7b5377f96ee554b56aab439becf0bfa2a7d1287e4e113ee97ccab83aeec2",
  "topics": [
@@ -39,22 +109,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "06年9月6日府農管字第1060213483號函。\n二、依據農業發展條例(以下簡稱本條例)第12條第1項規定,農業用地變更使用,應視其事業性質,繳交回饋"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "其事業性質,繳交回饋金,專供農業發展及農民福利之用。有關依據「非都市土地使用管制規則」第6條附表1規定,申請「再生能源相關設施」之容許使用,作風力發電設施之點狀使用,因係屬"
+  },
+  {
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "使用,因係屬將農業用地變更作非農業使用性質之容許使用,故依據「農業用地變更回饋金撥繳及分配利用辦法」(以下簡稱農變回饋金辦法)第2條第1項第4款規定,應繳交回饋金。合先敘明。\n三、"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

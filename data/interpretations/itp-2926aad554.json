@@ -1,0 +1,64 @@
+{
+ "id": "itp-2926aad554",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848952號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函請釋示農業發展條例修正施行前取得屏東縣南州鄉○○○地號土地，其申請興建農舍及可否申請無自用農舍證明疑義案，復請查照。",
+ "content": "1.復 台端96年8月28日申請書。\n2.農業發展條例修正施行前取得之農地，得依該條例第18條第3項規定：「本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」及本會93年8月5日農授水保字第0931848736號函釋辦理（如附件）。\n3.另無自用農舍證明之核發，申請人需檢具(一)稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。(二)申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。(三)申請人切結無自用農舍等文件，俾供審查申請人是否無自用農舍;另「實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定房屋為農舍」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848952號|台端函請釋示農業發展條例修正施行前取得屏東縣南州鄉○○○地號"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fdebd3b08b6f5c9a83370ac35a2eab12ff89a17fa8dd276570971a460eff6002",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台端函請釋示農業發展條例修正施行前取得屏東縣南州鄉○○○地號土地,其申請興建農舍及可否申請無自用農舍證明"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地,而於本條例"
+  }
+ ]
+}

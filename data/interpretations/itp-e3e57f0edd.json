@@ -1,0 +1,71 @@
+{
+ "id": "itp-e3e57f0edd",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0930158861號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關專案輔導之休閒農場內現有設施、建築物等座落於30%以上之坡地，申請用地變更編定、建築執照等之處理原則案，復如說明，請查照。",
+ "content": "一、復貴府93年12月3日府農輔字第0930149608號函。\n二、依休閒農業輔導管理辦法規定，休閒農場除有超大面積開發涉及需送內政部區域計畫委員會審議案件外，原則上可不送區委會辦理審查，即休閒農場位於山坡地範圍者，其審查之主要依據為休閒農業輔導管理辦法及相關之審查行政規定，與非都市土地開發審議作業規範相關規定，尚無直接關係。\n三、有關貴府來函說明三所稱專案輔導休閒農場現有設施、建築物等現況地形之認定、適用法規及處理原則，其涉及水土保持之疑義一節，請依行為當時之法高（水土保持法或山坡地保育利用條例）作為適用及處理之依據。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0930158861號|有關專案輔導之休閒農場內現有設施建築物等座落於30%以上之坡"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "810f3c5fa50ddff9e1ea96939b3b22b3e8680ef47a2d589edb58afd33772de26",
+ "topics": [
+  "land_change",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0090014",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "93年12月3日府農輔字第0930149608號函。\n二、依休閒農業輔導管理辦法規定,休閒農場除有超大面積開發涉及需送內政部區域計畫委員會審議案件外,原則上可不"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "規及處理原則,其涉及水土保持之疑義一節,請依行為當時之法高(水土保持法或山坡地保育利用條例)作為適用及處理之依據。"
+  },
+  {
+   "law_id": "M0110006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",其涉及水土保持之疑義一節,請依行為當時之法高(水土保持法或山坡地保育利用條例)作為適用及處理之依據。"
+  }
+ ]
+}

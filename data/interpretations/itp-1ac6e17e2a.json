@@ -1,0 +1,60 @@
+{
+ "id": "itp-1ac6e17e2a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931848753號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「專案輔導畜牧事業設施使用之興辦事業」，所申請變更編定地號之基地上已存有合法農舍，是否可一起合併變更編定為特定目的事業用地，抑或進行土地分割後才能辦理案，復請查照。",
+ "content": "一、復貴府93年6月24日府農畜字第0930510731號函。\n二、本會93年4月9日農授水保字第0931848493號函，係對20戶以上申請集村興建，農舍興建完成後，可否申請辦理用地變更所作之釋示，合先敘明。\n三、農業用地為興辦事業而欲變更為特定目的事業用地者，依據非都市土地使用管制規則規定申請人需擬具興辦事業計畫，且用地變更後需依核准計畫內容使用，準此，對已存有合法農舍之農業用地為興辦事業而需變更用地者，宜整體考量農業用地之配置是否符合事業計畫之需求與內容，不宜僅將農舍用地部分分割為單宗土地，避免維持農業生產面積不足造成農舍管制與稅賦減免疑義。\n四、另因農舍係為協助農業經營而設置，若無農業經營用地則應無農舍存在之必要；故對於已存有合法農舍之農業用地，實有變更使用需求，且該房舍有存在之必要者，於執行面宜先請該管縣（市）政府註銷農舍之使用執照或其他相關註記，將農舍視為一般房舍處理，以符合土地使用管制及整體利用土地資源之原則。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931848753號|有關專案輔導畜牧事業設施使用之興辦事業所申請變更編定地號之基"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8da12be76cde98e965b36494dec200d6564c0c4e3cbbb5997217545fb25e5d2a",
+ "topics": [
+  "land_change",
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "。\n三、農業用地為興辦事業而欲變更為特定目的事業用地者,依據非都市土地使用管制規則規定申請人需擬具興辦事業計畫,且用地變更後需依核准計畫內容使用,準此,對已存有合"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": "itp-bfb02aebda",
+ "doc_class": "interpretation",
+ "docno": "無",
+ "date": "2001-11-01",
+ "date_text": "90/11/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋駕駛訓練班是否適用農業用地變更回饋金撥繳及分配利用辦法第四條第四款規定繳交回饋金問題",
+ "content": "主旨：有關函詢駕駛訓練班是否適用農業用地變更回饋金撥繳及分配利用辦法第四條第四款規定繳交回饋金乙案，復請　查照。\n說明：依據農業發展條例第十二條規定，農業用地變更使用應依其變更使用之事業性質，繳交回饋金，本會依據該法之訂定宗旨，頒訂「農業用地變更回饋金撥繳及分配利用辦法」，以為執行之依據。有關駕駛訓練班申請農業用地變更使用，涉及繳交回饋金之標準乙節，以核准該訓練班之目的事業主管機關係屬交通部，其是否非屬汽車運輸業之相關附屬設施，應請該部予以認定。如經認定非屬汽車運輸業附屬設施，可依上開辦法第四條第四款規定標準，繳交回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5201",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:42+08:00",
+   "source_key": "rmis:5201"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:無|釋駕駛訓練班是否適用農業用地變更回饋金撥繳及分配利用辦法第四"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "4",
+    "amended_on": "2002-06-28",
+    "history": "中華民國九十一年六月二十八日行政院農業委員會農企字第 0910010082 號令修正發布第 2、4 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "4",
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "4",
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "12",
+    "amended_on": "2002-01-30",
+    "history": "中華民國九十一年一月三十日總統（91）華總一義字第 09100019010號令修正公布第 12、18、25、71 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f36a1a81e118d4747b6236ab9e11cf8fed73724b9f00198ecabaf302c4a7816c",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "docno_unparsed",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "釋駕駛訓練班是否適用農業用地變更回饋金撥繳及分配利用辦法第四條第四款規定繳交回饋金問題\n主旨:有關函詢駕駛訓練班是否適用農業用地變更回饋金撥繳"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "辦法第四條第四款規定繳交回饋金乙案,復請 查照。\n說明:依據農業發展條例第十二條規定,農業用地變更使用應依其變更使用之事業性質,繳交回饋金,本會依據該法之訂定宗"
+  }
+ ]
+}

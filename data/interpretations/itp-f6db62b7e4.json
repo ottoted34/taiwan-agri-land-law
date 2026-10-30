@@ -1,0 +1,52 @@
+{
+ "id": "itp-f6db62b7e4",
+ "doc_class": "interpretation",
+ "docno": "農水字第0980030414號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關依法興建農舍產生之廢污水審核案，為維護農業生產環境及避免農舍排放廢污水影響農業灌溉用水品質，惠請貴署協助轉知直轄市、縣市政府受理審核案件，應徵詢當地農田水利會確認是否排入所屬灌排系統及查核排入水質是否符合灌溉用水水質標準，請 查照。",
+ "content": "一、依據貴署98年2月11日營署綜字第0982901735號函續辨。\n二、旨揭興建農舍產生之廢污水審核案，前經本會以98年2月1日農水字第0980030368號函請各農田水利會配合辦理個案之實質審查作業時，應卻實審核是否符合灌溉用水水質標準，並加強辦理後續灌溉水質管理維護工作，以維護農業生產環境。\n三、本會復於98年3月31日邀集農田水利會研商討論前述審核作業配合事項，農田水利會建議直轄市及各縣市政府受理審核案件時，應徵詢當地農田水利會確認是否排入所屬灌排系統及查核排入水質是否符合灌溉用水水質標準，以資周延。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水字第0980030414號|有關依法興建農舍產生之廢污水審核案為維護農業生產環境及避免農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "02a47376ffa1818553fadf7893cfead48bc9ef2b9df45b99c3eb54d92ce0219b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

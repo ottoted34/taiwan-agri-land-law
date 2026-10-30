@@ -1,0 +1,73 @@
+{
+ "id": "itp-ec24ade1b9",
+ "doc_class": "interpretation",
+ "docno": "農授水保第1030724423號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端多次陳情已興建農舍之農業用地辦理分割解除套繪管制事宜，復請查照。",
+ "content": "一、復台端103年8月1日陳情書。\n二、已興建農舍之耕地，如符合農業發展條例第16條規定，得辦理分割，為仍須受同條例第18條第4項規定限制，內政部102年12月6日台內地字第1020360708號函釋有案，本會102年11月26日農水保字第1020229253號函僅係機關間之意見表示，\n先予敘明。\n三、有關農業發展條例第18條第3項係針對89年1月28日修正施行前取得農業用地申請興建農舍所定之規定，至於已興建農舍之農業用地申請解除套繪管制者，則須依農業用地興建農舍辦法第12條規定辦理，且內政部營建署102年10月7日營建署建管字第1020060633號函說明二，略以：「農業用地興建農舍辦法第12條第3項規定：...係針對已興建農舍之農業用地所為之管制事項，是不論取得農業用地時點在本條例修正前、後，申請興建農舍時點在本辦法修正前、後，均應依本辦法第12條規定檢討辦理。」函釋有案，爰二者係屬不同階段之行政規範，並無相違。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保第1030724423號|有關台端多次陳情已興建農舍之農業用地辦理分割解除套繪管制事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ada82bc946fc37dd29817828c4b1d0e6a44cc3f31066c65d50d2092f9f62d464",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "docno_unparsed",
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "復台端103年8月1日陳情書。\n二、已興建農舍之耕地,如符合農業發展條例第16條規定,得辦理分割,為仍須受同條例第18條第4項規定限制,內政部102年12月6日"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "229253號函僅係機關間之意見表示,\n先予敘明。\n三、有關農業發展條例第18條第3項係針對89年1月28日修正施行前取得農業用地申請興建農舍所定之規定,至於已"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "定之規定,至於已興建農舍之農業用地申請解除套繪管制者,則須依農業用地興建農舍辦法第12條規定辦理,且內政部營建署102年10月7日營建署建管字第1020060633號函"
+  }
+ ]
+}

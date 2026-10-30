@@ -1,0 +1,56 @@
+{
+ "id": "itp-cab68e027f",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1010109187號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○等6人於貴轄板橋區○○○地號土地申請雜項執照一案，復請 查照。",
+ "content": "一、依據行政院農業委員會交下 貴局101年5月9日北農牧字第1011732555號函辦理。\n二、查內政部營建署89年12月12日89營署建管字第47774號函說明略以：「（1）修法前已興建之農舍圍牆，於法定基層建築面積範圍內，應准予補辦雜項執照後，或依其使用執照上登載已提出圍牆竣工圖，據以辦理查核發給農業用地作農業使用證明。（2）農業用地周邊，原則上不得興建與農業經營無關之圍牆，惟因基於農業經營管理之特殊需要，有須於農業用地周邊興建圍牆，各縣市政府應將其視同農業、畜牧及養殖設施之一部分併同容許使用申請案辦理。」函示有案。\n三、有關本案仍請貴府依上開號函原則，視圍牆設置目的與農業經營管理之需要，審認核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1010109187號|有關○○○等6人於貴轄板橋區○○○地號土地申請雜項執照一案復"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "10296fd79178b55319be0eff0c56189e3c06f986dae2d13bb181115faae64dbd",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

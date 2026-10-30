@@ -1,0 +1,60 @@
+{
+ "id": "itp-d752f6c022",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030724424號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○函詢農業用地農業用地上有興建中之農舍，未取具使用執照前如何申請農業用地作農業使用證明書案，案關個案實務執行事宜，請貴府協處逕復。",
+ "content": "一、依據○○○103年8月8日信函辦理(詳如附件影本)。\n二、有關依法申請核准興建中之農舍，因尚未竣工無法取得使用執照，於辦理所有權移轉時，如該農舍係依建築執照興建，且尚未超過建築執照所核准興建之面積及高度，仍得認定該建築執照係符合農業用地作農業使用認定及核發證明辦法第4條第3款所定之合法證明文件，並據以申請農業用地作農業使用證明書(相關案例請詳見本會農地法規檢索系統http://talis.coa, gov, tw/ALRIS/)。\n三、本案依○○○所敘屬申請興建農舍程序中，故未取具使用執照，則涉及農業用地作農業使用證明書核發事宜，惠請貴府依前開原則妥處逕復。又本案既屬農舍未完成興建之態樣，建議可於農舍竣工後辦理勘查，以確認作農業使用之情形。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1030724424號|有關○○○函詢農業用地農業用地上有興建中之農舍未取具使用執照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6fae35c1f22061b7abbcdd92626005bee2f38a8a181e59ab58accdea1fcfe1a7",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "超過建築執照所核准興建之面積及高度,仍得認定該建築執照係符合農業用地作農業使用認定及核發證明辦法第4條第3款所定之合法證明文件,並據以申請農業用地作農業使用證明書(相關案例請詳見本會"
+  }
+ ]
+}

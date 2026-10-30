@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5396",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:06+08:00",
+   "fetched_at": "2026-10-30T11:44:20+08:00",
    "source_key": "rmis:5396"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0990114518號|太麻里地區農會依本會農糧署農糧產業重建計畫之補助於都市計畫農"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -49,22 +55,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "99年3月3日府農務字第0993007495號函。\n二、依據農業發展條例第12條規定:「第10條第1項用地之變更,應視其事業性質,繳交回饋金」,查同條例第10條"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "月3日農企字第0980172541號函說明略以:「...應依農業用地變更回饋金撥繳及分配利用辦法規定第3條之規定,繳交回饋金」有案。本案雖為本會農糧署補助太麻里地區農會興辦之補"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

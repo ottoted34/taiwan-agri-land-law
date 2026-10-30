@@ -1,0 +1,58 @@
+{
+ "id": "itp-92300ab52c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041813231號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「興建農舍有關放流水排放溝渠之規定解釋」相關事宜",
+ "content": "一、依農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準，並排入排水溝渠。放流水流經屬灌排系統或私有水體者，並應符合下列規定:(一)排入灌排系統者，應經該管理機關(構)同意及水利主管機關核准。(二)排入私有水體者，應經所有人同意。」，揆其立法目的係為避免農舍放流水影響農業生產環境，有違「安全農業」之政策目標，爰依水汙染防治法第7條第1項規定。建築物污水處理設施，排放污水於地面水體者，應符合放流水標準。而農舍放流水雖經預鑄式建築物污水處理設施處理，但仍須檢測水質，以確認符合放流水及灌溉用水標準。\n二、農舍放流水若排入農田水利會事業區域內灌溉、排水系統，依「農田水利會灌溉排水管理要點」規定，需由使用人填具申請書，並檢附放流量、水質分析、流入口位置及設計圖等相關資料，向農田水利會申請搭排，其塔排水質須符合放流水及灌溉用水標準。有關放流水若排入區域性排水系統或其它自然水體，應洽該水體管理機關及水利主管機關是否訂有管理規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041813231號|興建農舍有關放流水排放溝渠之規定解釋相關事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9b9f6565c115db45b0c65f03bd69bf217a5ebe0d5be61f4ea99a6e8aa3b3fe1e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "「興建農舍有關放流水排放溝渠之規定解釋」相關事宜\n一、依農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準,並排入排水溝渠。放流水流經屬灌"
+  }
+ ]
+}

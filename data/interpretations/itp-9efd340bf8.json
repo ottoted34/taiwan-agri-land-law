@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6040",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:28+08:00",
+   "fetched_at": "2026-10-30T11:15:40+08:00",
    "source_key": "rmis:6040"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1140207694號|有關貴府函詢已核予特定工廠登記之○○○座落於吉安鄉○○○地號"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -44,10 +50,12 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "否申請變更編定為特定目的事業用地疑義案,復請查照。\n一、有關「農業發展條例」89年修正施行前後之農舍興建條件及建築管理規範不同,且修法前已興建農舍之坐落用地"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

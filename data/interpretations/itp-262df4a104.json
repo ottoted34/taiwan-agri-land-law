@@ -1,0 +1,72 @@
+{
+ "id": "itp-262df4a104",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061833030號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍是否適用農業發展條例第8條之1第2項規定疑義」一案",
+ "content": "一、經查您所詢農業發展條例第8條之1第2項規定，係指涉農業用地上興建有固定基礎之農業設施，又農業設施係為農業經營使用，其須依申請農業用地作農業設施容許使用審查辦法提出申請，且依容許辦法第33條第1項規定，不得作為住宅使用，先予敘明。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之建築物，以便利其農事工作，其係依據農業用地興建農舍辦法申請之，併予敘明。\n三、農業設施與農舍有別，其申請分別依據「申請農業用地作農業設施容許使用辦法」與「農業用地興建農舍辦法」辦理，其目的及使用性質並不相同，亦繫屬不同之法令規定。\n四、有關您所提合法建物及地號登載相關疑義，事涉建管及地政單位權責，應請就近向所在地地方政府(建築管理及地政事務所)洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061833030號|農舍是否適用農業發展條例第8條之1第2項規定疑義一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5fcfcc21f300f43bf1686f88407b679524e51c22aead635be9b5b88a8641339d",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "「農舍是否適用農業發展條例第8條之1第2項規定疑義」一案\n一、經查您所詢農業發展條例第8條之1第2項規定,係指涉農業"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建有固定基礎之農業設施,又農業設施係為農業經營使用,其須依申請農業用地作農業設施容許使用審查辦法提出申請,且依容許辦法第33條第1項規定,不得作為住宅使用,先予敘明。\n二、「農"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有放置農機具兼具居住需求之建築物,以便利其農事工作,其係依據農業用地興建農舍辦法申請之,併予敘明。\n三、農業設施與農舍有別,其申請分別依據「申請農業用地作農業設"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": "itp-e59b528880",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940131757號",
+ "date": "2005-06-22",
+ "date_text": "94年6月22日農企字第0940131757號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "054 釋農業主管機關受理申請許可案件及核發證明文件收費標準第4 條第1款申請農業設施容許使用收費疑義案。",
+ "content": "一、查農業發展條例第8條之1第2項明定「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。」換言之，符合該規定之每一農業設施均應依法申請容許使用；惟基於簡政便民之考量，民眾得就擬申請設置之農業設施之種類細目及數量，於一申請書表上全數填列，而無須分案申請，但其審核亦係依各該農業設施之種類細目及數量是否符合農業經營之必要，予以審定之。因此，旨揭收費標準第4條第1款規定「申請農業設施之容許使用者，每件收取新台幣200元。」所稱「每件」應係指每一應申請容許使用之農業設施而言，換言之，該款規定應依申請農業設施容許使用之種類細目及數量為計算基準，收取規費。\n二、至苗栗縣政府建議修正該款規定，比照同條第4款申請核發農業用地作農業使用證明書之收費標準收取規費乙節，留供本會修正該收費標準時參考。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940131757號|釋農業主管機關受理申請許可案件及核發證明文件收費標準第4條第"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020017",
+    "law_name": "農業主管機關受理申請許可案件及核發證明文件收費標準",
+    "article": "4",
+    "amended_on": "2012-06-28",
+    "history": "中華民國一百零一年六月二十八日行政院農業委員會農企字第 1010011145 號令修正發布第 3、4 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020017",
+    "law_name": "農業主管機關受理申請許可案件及核發證明文件收費標準",
+    "article": "4",
+    "amended_on": "2020-07-03",
+    "history": "中華民國一百零九年七月三日行政院農業委員會農企字第 1090012848A號令修正發布第 3、4 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "1205ce5e02a1f7d6a9d36b38a3b65103362a69c6fe457b65fb54ccf7150eb46b",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020017",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "054 釋農業主管機關受理申請許可案件及核發證明文件收費標準第4 條第1款申請農業設施容許使用收費疑義案。\n一、查農業發展條例第8條之1第2項明定「"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "費標準第4 條第1款申請農業設施容許使用收費疑義案。\n一、查農業發展條例第8條之1第2項明定「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並依"
+  }
+ ]
+}

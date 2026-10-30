@@ -1,0 +1,64 @@
+{
+ "id": "itp-d729cc805f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000115206號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「二筆相毗鄰單獨所有土地依法被徵收，得否合併其面積依農業用地興建農舍辦法第3條第3項、第4項規定申請興建農舍」案，謹提供本會意見如說明，請 查照。",
+ "content": "1.復 貴署100年3月14日營署綜字第1000012736號函。\n2.農業發展條例89年1月28日修正施行前或後取得之農地興建農舍，僅得於一筆土地上提出，無法合計多筆共有農地之持分，另於其他土地興建農舍並計算可建築之面積，此本會98年6月3日農授水保字第0981842750號函提供意見在案，先予敘明，多筆單獨所有農地亦同。\n3.審諸農業用地興建農舍辦法第3條第3項係保障原可依法申請興建農舍之土地所有權人權利，所重者在於強調申請人既有權利之保護，不因權利客體係共有或單獨所有土地而不同。旨案土地所有權人既未於徵收前辦理土地合併，重新購置農業用地依旨揭辦法第3條第3項、第4項申請興建農舍，建議得自徵收前二筆土地選擇一筆作為申請面積。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000115206號|有關二筆相毗鄰單獨所有土地依法被徵收得否合併其面積依農業用地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0b72f0666b4e85dce2b5efdfd2465b98a71dae0300151425550a788a23924360",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "有關「二筆相毗鄰單獨所有土地依法被徵收,得否合併其面積依農業用地興建農舍辦法第3條第3項、第4項規定申請興建農舍」案,謹提供本會意見如說明,請 查照。\n1.復 貴"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "100年3月14日營署綜字第1000012736號函。\n2.農業發展條例89年1月28日修正施行前或後取得之農地興建農舍,僅得於一筆土地上提出,無法合計"
+  }
+ ]
+}

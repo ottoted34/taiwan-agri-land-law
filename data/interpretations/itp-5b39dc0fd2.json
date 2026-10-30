@@ -1,0 +1,82 @@
+{
+ "id": "itp-5b39dc0fd2",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第0931001956號",
+ "date": "2004-03-02",
+ "date_text": "93年3月2日農授糧字第0931001956號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "002 釋農業發展條例第8條之1第1項規定免申請建築執照之農業設施案",
+ "content": "一、查農業發展條例第8條之1第1項規定：農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。上開條文所稱「無固定基礎」之農業設施，係指依上開材料所興建之農業設施，且無建築法第4條所稱之承載建築物（包括屋頂、樓地板、承重牆壁、樑柱）之重量，而設計之版基礎，樁基礎或墩基礎等基礎構造而言。準此，在實務認定上，屬無固定基礎農業設施宜符合下列規定之要件：\n（1）以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建者。\n（2）非利用前項材料、材質所搭建且具有頂蓋（屋頂）、樑柱、圍牆及舖設水泥地板等建築結構者，不宜認定屬無固定基礎之農業設施。但為?固前項材料所搭建之農業設施而架設之水泥桿（柱），不在此限。\n二、又前開條例第8條之1第1項後段規定：直轄市、縣（市）政府得斟酌地方農業經營需要，訂定農業用地上搭建無固定基礎之臨時性與農業生產有關設施之審查規範。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第0931001956號|釋農業發展條例第8條之1第1項規定免申請建築執照之農業設施案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "338cf45173dccdc1ccba0afcd8aff292d1b8114b27f8116c74f7493b7b9a1614",
+ "topics": [
+  "paving",
+  "container"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "002 釋農業發展條例第8條之1第1項規定免申請建築執照之農業設施案\n一、查農業發展條例第8條之1第1項規定:農"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "無固定基礎」之農業設施,係指依上開材料所興建之農業設施,且無建築法第4條所稱之承載建築物(包括屋頂、樓地板、承重牆壁、樑柱)之重量,而設計之版基礎,樁基"
+  }
+ ]
+}

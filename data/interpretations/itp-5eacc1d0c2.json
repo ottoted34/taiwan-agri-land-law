@@ -1,0 +1,53 @@
+{
+ "id": "itp-5eacc1d0c2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842951號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○所有臺南縣下營鄉○○○號土地上有3棟農舍，得否拍賣給同一人辦理移轉過戶案，復請查照。",
+ "content": "一、復 貴處98年6月17日南院龍97執湘字第76865號函。\n二、查本會98年5月26日農授水保字第0981842711號函，對於單一筆農地上興建二棟或二棟以上建物，其拍賣時係採所有建物與農地合併或建物分案拍賣疑義案，說明三略以：「…… 法院拍賣興建中農舍或興建完成之農舍，其投標人資格應符合無自用農舍條件，本會96年2月13日農水保字第0961848111號已通函各法院有案，故同一人因拍賣而同時取得二棟以上之農舍，與本會農地管理政策並不相符（如附件）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842951號|有關○○○所有臺南縣下營鄉○○○號土地上有3棟農舍得否拍賣給"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "46f547f56bbce10e409322b9b10c3e849b6499b6f39b8fe5d8af6335419d8426",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

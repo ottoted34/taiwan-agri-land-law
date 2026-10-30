@@ -1,0 +1,79 @@
+{
+ "id": "itp-8b1465ed8b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070233026號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「礦業用地如何解除套繪」一案。",
+ "content": "一、所稱「農業用地」依據農業發展條例施行細則第2條規定：「本條例第3條第10款所稱依法供該款第一目至第三目使用之農業用地，其法律依據及範圍如下：一、本條例第3條第11款所稱之耕地。二、依區域計畫法劃定為各種使用分區內所編定之林業用地、養殖用地、水利用地、生態保護用地、國土保安用地及供農路使用之土地，或上開分區內暫未依法編定用地別之土地。三、依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區、森林區以外之分區內所編定之農牧用地。四、依都市計畫法劃定為農業區、保護區內之土地。五、依國家公園法劃定為國家公園區內按各分區別及使用性質，經國家公園管理機關會同有關機關認定合於前三款規定之土地。」，倘土地使用地編定類別變更為礦業用地已非屬農業用地範疇，則符合農業用地興建農舍辦法第12條第3項解除套繪之情形。\n二、至於土地如何辦理解除套繪管制一節，因涉農舍與農地管理及個案事實認定，係屬直轄市、縣(市)政府之權責，仍請敘明具體事實及實際情形，向農舍坐落所在地之直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070233026號|礦業用地如何解除套繪一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "244c879da0d2c36a2918c997bb4cfcefb25249dcf8298558239c3ce6427462cc",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "「礦業用地如何解除套繪」一案。\n一、所稱「農業用地」依據農業發展條例施行細則第2條規定:「本條例第3條第10款所稱依法供該款第一目至第三目使用之農業用地,其法律依"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "律依據及範圍如下:一、本條例第3條第11款所稱之耕地。二、依區域計畫法劃定為各種使用分區內所編定之林業用地、養殖用地、水利用地、生態保護用地、國土保安"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "區、山坡地保育區、森林區以外之分區內所編定之農牧用地。四、依都市計畫法劃定為農業區、保護區內之土地。五、依國家公園法劃定為國家公園區內按各分區別及使用"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "倘土地使用地編定類別變更為礦業用地已非屬農業用地範疇,則符合農業用地興建農舍辦法第12條第3項解除套繪之情形。\n二、至於土地如何辦理解除套繪管制一節,因涉農舍與農地管理"
+  }
+ ]
+}

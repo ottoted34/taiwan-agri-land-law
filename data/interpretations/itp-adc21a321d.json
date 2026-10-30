@@ -1,0 +1,52 @@
+{
+ "id": "itp-adc21a321d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960107349號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為應急難救助通訊需要，並維護民眾通訊權益，建議酌情放寬農舍及林地有關限制，以協助必要之行動基地臺建設案，復請查照。",
+ "content": "一、依據本會林務局96年2月1日林政字第0961601580號函辦理，復 貴會96年1月11日通傳營字第0960500560號函。\n二、有關民間行動電話業者申請在林務局轄區設置中繼站乙節，前經該局以88年10月21日林政字第27169號函訂有處理方式。另電信業者設置基地台使用該局已出租之林地時，須請承租人出具同意書，並承諾放棄基地台設置面積之承租權後，由業者依前揭函示辦理林地租用事宜。\n三、至酌情放寬農舍設置電訊基地台乙節，本會意見如93年4月19日農授水保字第0931848517號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960107349號|為應急難救助通訊需要並維護民眾通訊權益建議酌情放寬農舍及林地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d5f61c50ab71621d4c872160b4d7b3ff2366dfb2e9866aed5aac4b59bcd643b3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

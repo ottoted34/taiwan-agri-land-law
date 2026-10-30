@@ -1,0 +1,64 @@
+{
+ "id": "itp-3586d53818",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931820553號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於農業發展條例施行前繼承取得之共有農地，其申請興建農舍之申請人如未達法定年齡之相關疑義案，復請查照。",
+ "content": "一、依據內政部營建署93年9月6日營署建管字第0930054875號函辦理兼復貴府93年8月11日09302203791號函。\n二、現行「農業發展條例」旨在貫徹「放寬農地農有、落實農地農用」之政策目標，有關農民申請以集村方式或在自有農地興建農舍之資格條件，自應依「農業發展條例」及相關法令規定辦理。又「土地法」修正時，已刪除農地承受人之身份限制，合先敘明。\n三、按農舍起造人應為該農舍坐落土地之所有權人，為「農業發展條例」第18八條第四項所明定。又建築法第12條第1項規定，建築物之起造人，為建造該建築物之申請人，其為未成年或禁治產者，由其法定代理人代為申請；本法規定之義務與責任，亦由法定代理人負之。本案申請興建農舍之起造人，若為未成年自應依上開規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931820553號|關於農業發展條例施行前繼承取得之共有農地其申請興建農舍之申請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "56d66ec5468864fe4202e36c157605196ddcecdee668bb47e1e2639c9d4b9ce0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "關於農業發展條例施行前繼承取得之共有農地,其申請興建農舍之申請人如未達法定年齡之相關疑義案,復請"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "土地之所有權人,為「農業發展條例」第18八條第四項所明定。又建築法第12條第1項規定,建築物之起造人,為建造該建築物之申請人,其為未成年或禁治產者,由其法"
+  }
+ ]
+}

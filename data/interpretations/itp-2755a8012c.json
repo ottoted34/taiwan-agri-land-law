@@ -1,0 +1,70 @@
+{
+ "id": "itp-2755a8012c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000145977號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴署函為都市計畫內風景區土地是否屬農業發展條例第18條所稱之「農業用地」乙案，復請 查照。",
+ "content": "1.復貴署100年7月19日營署綜字第1002912259號函。\n2.查農業發展條例第3條第1項第10款：「農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地…」，旨揭都市計畫風景區並非都市計畫農業區或保護區，自不屬農業發展條例第18條所稱之農業用地。\n3.至得否興建農舍乙節，查貴署96年9月20日營署綜字第0960048784號函，說明二略以：「...本案土地為都市計畫風景區，非屬都市計畫農業區或保護區，依規定都市計畫風景區內不得興建集村農舍。檢送本部94年7月20日召開「研商都市計畫農業區及保護區以外之使用分區興建農舍，是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄影本乙份供參。」有案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000145977號|有關貴署函為都市計畫內風景區土地是否屬農業發展條例第18條所"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ae26181c1704698e67153544819d962a324e7beb31f33c8858c74ec85657d56b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關貴署函為都市計畫內風景區土地是否屬農業發展條例第18條所稱之「農業用地」乙案,復請 查照。\n1.復貴署100年7月19日營署綜字第10"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "00年7月19日營署綜字第1002912259號函。\n2.查農業發展條例第3條第1項第10款:「農業用地:指非都市土地或都市土地農業區、保護區範圍內,依法供下"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業區及保護區以外之使用分區興建農舍,是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄影本乙份供參。」有案。"
+  }
+ ]
+}

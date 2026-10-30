@@ -1,0 +1,70 @@
+{
+ "id": "itp-577f3f19dc",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940134384號",
+ "date": "2005-07-05",
+ "date_text": "94年7月5日農企字第0940134384號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "020 釋與農業經營不可分離供農路使用之土地案",
+ "content": "查交通用地並非屬農業用地之範圍，惟因農業發展條例第3條第10款所稱農業用地包括「與農業經營不可分離之農路」，基於該「農路」於非都市土地多編定為交通用地，故本會90年2月2日（90）農企字第900102896號函（諒達）係就經編定為交通用地且作農路使用之土地，得有農業發展條例第37條及第38條適用之函釋。因此，交通用地如非作「與農業經營不可分離之農路」使用，則無該函之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940134384號|釋與農業經營不可分離供農路使用之土地案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-f76464260d",
+    "by_docno": "農企字第1110013125號",
+    "by_date": "2022-07-26",
+    "kind": "cease",
+    "phrase": "是以,作農路使用之土地倘已依法編定為交通用地,屬政府闢設供公眾通行使用,具公共設施性質,該土地所有權移轉時之相關稅賦減免,得逕依土地稅法相關規定申請證明辦理,已無須依農業用地作農業使用認定及核發證明辦法第2條規定認定為供農路使用之土地,而核發農用證明作為稅賦減免之必要,爰本會90年2月2日(90)農企字第900102896號函、94年7月5日農企字第0940134384號函、97年5月2日農企字第"
+   }
+  ]
+ },
+ "content_hash": "e7e7e03e1605b26e93736d502b8dc3a0f1a4eae04f71e31c69a1d708cbdf42a7",
+ "topics": [
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "分離供農路使用之土地案\n查交通用地並非屬農業用地之範圍,惟因農業發展條例第3條第10款所稱農業用地包括「與農業經營不可分離之農路」,基於該「農路」於非都市土地"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "96號函(諒達)係就經編定為交通用地且作農路使用之土地,得有農業發展條例第37條及第38條適用之函釋。因此,交通用地如非作「與農業經營不可分離之農路」使用,則無"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "itp-7cf7da8a47",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1001850240號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○等20人陳情「宜蘭縣羅東鎮○○○地號集村興建農舍案」，請 查照。",
+ "content": "一、依據 貴辦公室100年2月10日傳真轉來○○○等20人陳情書辦理。 二、 有關○○○等人陳情案，本局業以100年1月17日水保農字第0990187228號函復宜蘭縣政府在案（詳如附件），敬先陳明。 三、查行政院農業委員會99年10月15日令雖限制集村興建農舍坐落之農業用地不得位於特定農業區，然集村興建農舍仍得於特定農業區以外之其他分區申請，或選擇於特定農業區興建個別農舍。旨揭陳情人若確有興建農舍供放置農機具兼具住宅以便經營農業之需求，仍得循前述方式辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1001850240號|有關○○○等20人陳情宜蘭縣羅東鎮○○○地號集村興建農舍案請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4d51bb9a5d70e0809b67d33232a0a87970f30ff5195313af9ffd975bfe7abd8e",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

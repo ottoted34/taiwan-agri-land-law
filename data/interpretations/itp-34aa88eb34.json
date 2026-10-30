@@ -1,0 +1,68 @@
+{
+ "id": "itp-34aa88eb34",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060226055號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關您所詢問區域計畫法風景區劃定疑義一案，復請查照。",
+ "content": "一、依據您106年6月14日本會首長信箱留言暨內政部106年7月6日內授營綜字第1060809822號回函辦理。\n二、依內政部上開號函說明二，依據區域計畫法施行細則第11條第1項第7款規定略以:「風景區：為維護自然景觀，改善國民康樂遊憩環境，依有關法規，會同有關機關劃定者。」；此外，106年5月16日公告實施之「修正全國區域計畫」，載明風景區之劃定目的係「為維護自然景觀，改善國民康樂遊憩環境，依發展觀光條例等有關法令規定，會商有關機關劃定者。」是以，區域計畫法施行細則所稱「有關法規」係指「發展觀光條例」，其主管機關在中央為交通部，在直轄市、縣(市)為直轄市、縣(市)政府。\n三、另現行非都市土地使用係按區域計畫法及非都市土地使用管制規則規定辦理，爰風景區農牧用地之土地使用仍應依區域計畫法及非都市土地使用管制規則規定管制。\n四、區域計畫之主管機關在中央為內政部，在直轄市、縣(市)為直轄市、縣(市)政府，倘您有非都市土地管制相關法規疑義，建請向該主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060226055號|有關您所詢問區域計畫法風景區劃定疑義一案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cb16d2e1c60fef815ce4cff6f7fc9317da1ebea93c76173c7411d40272c7abbf",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關您所詢問區域計畫法風景區劃定疑義一案,復請查照。\n一、依據您106年6月14日本會首長信箱留言暨內"
+  },
+  {
+   "law_id": "D0070031",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "0809822號回函辦理。\n二、依內政部上開號函說明二,依據區域計畫法施行細則第11條第1項第7款規定略以:「風景區:為維護自然景觀,改善國民康樂遊憩環境,依有關法規"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "市、縣(市)政府。\n三、另現行非都市土地使用係按區域計畫法及非都市土地使用管制規則規定辦理,爰風景區農牧用地之土地使用仍應依區域計畫法及非都市土地使用管制規則規定"
+  }
+ ]
+}

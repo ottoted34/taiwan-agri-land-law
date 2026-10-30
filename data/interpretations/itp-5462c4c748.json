@@ -1,0 +1,55 @@
+{
+ "id": "itp-5462c4c748",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090734333號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍用地臨界臨路規定疑義",
+ "content": "一、復貴府 109年12月8日府農務字第 1090440255號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性」所指之「道路」，本會前於107年7月26日農企字第 1070012917號、 108年1月16日農企字第 1070253990號、 108年5月6日農企字第 1080206692號函 (諒達 )說明在案，該道路係以「政府施設或養護且供公眾通行，並經直轄市、縣 (市 )政府認定」並採認「成立公用地役關係之既成道路」在案，併予敘明。\n四、前述「道路」係以現況事實認定，貴府於個案審查時，應就道路存在事實及是否符合上開道路性質認定之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090734333號|農舍用地臨界臨路規定疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "63b497b4c9a9ceb68ef25347bd2307e58b52dca29c57a96ecc3c09d4d8eb5c2b",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

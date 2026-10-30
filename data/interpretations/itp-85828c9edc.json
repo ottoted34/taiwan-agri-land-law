@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4383",
    "serial": null,
-   "fetched_at": "2026-10-30T10:10:52+08:00",
+   "fetched_at": "2026-10-30T11:37:54+08:00",
    "source_key": "rmis:4383"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:台內營字第1020812072號|有關農業用地興建農舍辦法以下簡稱本辦法第六條第十一條及第十六"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -49,22 +55,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "有關農業用地興建農舍辦法(以下簡稱本辦法)第六條、第十一條及第十六條規定之執行原則,其規定如下,並自即日"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "建造執照」之適用對象及起算時點:\n(一)本辦法第六條規定係依農業發展條例第十八條第一項及第三項等農舍應供自用之立法意旨所定之「許可條件」,應依本辦法一百零二年七"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第五條第二項規定,係基於保護優良農地、區域計畫限制發展地區及都市計畫法劃定保護區為國土保安、水土保持、維護天然資源與保護環境及生態功能之目的,因興建集"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "規定辦理並取得建築執照之案件,如有申請變更設計之情形,應回歸建築法相關規定辦理。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

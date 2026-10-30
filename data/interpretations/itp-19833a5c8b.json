@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5313",
    "serial": null,
-   "fetched_at": "2026-10-30T10:06:43+08:00",
+   "fetched_at": "2026-10-30T11:33:55+08:00",
    "source_key": "rmis:5313"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030226996號|嚴重地層下陷地區農地作為涵養水源國土保安之濕地使用得否認定為"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,16 +48,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "之認定基準,始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

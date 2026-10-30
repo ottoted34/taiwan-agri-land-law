@@ -1,0 +1,70 @@
+{
+ "id": "itp-babe892073",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960152612號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所函詢兩筆農業用地中間貫穿國有土地，價購取得後申請興建農舍案，復請查照。",
+ "content": "1.依據內政部營建署96年9月19日營署綜字第0960051337號函辦理，復 貴事務所96年9月11日中建師（傳）字第96036號函。\n2.「土地法」第43條規定，依本法所為之登記，有絕對效力;故「土地取得」之認定時點，應以土地登記機關登記之時點為基準，合先敘明。\n3.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地，申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理。\n4.本案96年8月間價購貫穿兩筆農業用地中間國有土地合併為1筆，其取得計算基準應以土地登記時點(96年8月)起算。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960152612號|貴事務所函詢兩筆農業用地中間貫穿國有土地價購取得後申請興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9af1a625258473940eefe43b726908b9034fadd4ea8d044ada5aa5c8d3545122",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定時點,應以土地登記機關登記之時點為基準,合先敘明。\n3.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍,係依農業用地取得日期之不同而有所"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地,得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地,申請興建農舍"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "發展條例」修正公布生效日後取得之農業用地,申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理。\n4.本案96年8月間價購貫穿兩筆農業用地中間國有土地合併為1筆,"
+  }
+ ]
+}

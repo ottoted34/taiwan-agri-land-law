@@ -1,0 +1,64 @@
+{
+ "id": "itp-0fd20caa81",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0960042486號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端陳情農業發展條例修正生效前取得之2筆農業用地，經依法徵收後，得否依「農業用地興建農舍辦法」第3條第4項規定，「自公告徵收之日起一年內」新購2筆農業用地皆可興建農舍乙案，復請查照。",
+ "content": "一、依據行政院農業委員會96年7月30日農授水保字第0960140146號函轉台端96年7月9日申請書辦理，並復台端96年8月2日申請書。\n二、依首揭辦法第3條第4項規定：「前項土地所有權人申請興建農舍，以自公告徵收或完成讓售移轉登記之日起一年內，於同一直轄市、縣（市）內重新購置農業用地者為限，其申請面積並不得超過原被徵收或讓售土地之面積。」，僅規定重新購置農業用地申請興建農舍之面積，並未限制土地筆數。\n三、至新購2筆農業用地，得否保有興建農舍權益乙節，請依前開行政院農業委員會96年7月30日函說明二後段略以：「依農業發展條例第18條立法意旨，土地所有權人應在『無自用農舍而需興建』前提下始得申請興建一棟農舍，不得於其他農地上再行申請興建」辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0960042486號|台端陳情農業發展條例修正生效前取得之2筆農業用地經依法徵收後"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ce11cf2cc43cf5e85d9d40e8affe5d2bb4fef18bc4bfba2ccca52791a1b88031",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "業發展條例修正生效前取得之2筆農業用地,經依法徵收後,得否依「農業用地興建農舍辦法」第3條第4項規定,「自公告徵收之日起一年內」新購2筆農業用地皆可興建農舍乙案,復請查照"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "依前開行政院農業委員會96年7月30日函說明二後段略以:「依農業發展條例第18條立法意旨,土地所有權人應在『無自用農舍而需興建』前提下始得申請興建一棟農舍,不得"
+  }
+ ]
+}

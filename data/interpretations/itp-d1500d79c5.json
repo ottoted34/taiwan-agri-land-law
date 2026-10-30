@@ -1,0 +1,64 @@
+{
+ "id": "itp-d1500d79c5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1021827509號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「山坡地保育區林業用地申請興建農舍及變更為農牧用地規定」事宜。",
+ "content": "一、查內政部主管之非都市土地使用管制規則第6條附表一，林業用地得容許林業使用及其設施，至於農舍部分，本(102)年7月1日修正公布之「農業用地興建農舍辦法」第5條第1項第2款，已將林業用地列為不得申請興建農舍區位。\n二、另您所詢山坡地保育區林業用地是否可申請變更為農牧用地部分，其係屬內政部權責，建請洽內政部。至於查定為宜林地之土地，倘土地所有權人或公有土地合法使用人有異議時，應檢具申請書、土地登記謄本、地籍圖謄本、公有土地租賃契約證明及土地管理機關同意書一份，向土地所在地縣(市)政府、本會水土保持局所屬分局申請複查，縣(市)政府收件後，應即函轉本會水土保持局所屬分局辦理，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1021827509號|山坡地保育區林業用地申請興建農舍及變更為農牧用地規定事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1cbe0cc5f86856d5bee2a6f9c6fcbde2eade7fafd0a520b6f061d9688db37de4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "申請興建農舍及變更為農牧用地規定」事宜。\n一、查內政部主管之非都市土地使用管制規則第6條附表一,林業用地得容許林業使用及其設施,至於農舍部分,本(102)年7月1日修正"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "使用及其設施,至於農舍部分,本(102)年7月1日修正公布之「農業用地興建農舍辦法」第5條第1項第2款,已將林業用地列為不得申請興建農舍區位。\n二、另您所詢山坡地保育區林"
+  }
+ ]
+}

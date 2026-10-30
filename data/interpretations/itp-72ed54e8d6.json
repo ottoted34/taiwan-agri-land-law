@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3930",
    "serial": null,
-   "fetched_at": "2026-10-30T10:01:07+08:00",
+   "fetched_at": "2026-10-30T11:28:20+08:00",
    "source_key": "rmis:3930"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:台內營字第1040445799號|有關本部102年12月16日台內營字第1020812243號"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "amended_by_later",
@@ -48,16 +54,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "建管字第1040810932號函釋個別農舍用地面積之計算,自農業用地興建農舍辦法102年7月3日生效之日起適用1案,請查照。\n一、依據行政院農業委員會104年1"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

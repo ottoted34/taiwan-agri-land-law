@@ -1,0 +1,57 @@
+{
+ "id": "itp-31e04f771f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940121156號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關申請人申請退還以繳交之農業用地變更回饋金相關事宜案。",
+ "content": "主旨：有關申請人申請退還以繳交之農業用地變更回饋金相關事宜1案，復 請查照。\n說明：\n一、復 貴府94年4月26日府農地第0940102879號函。\n二、有關回饋金之收繳標準及繳交時機等，本會「農業用地變更回饋金撥繳及分配利用辦法」業有相關明確之規範，就申請各目的事業使用，經繳交回饋金，且已辦理用地變更或依據核准使用項目使用者，即已辦理程序終結者，原則上應無申請退還回饋金空間。至就辦理程序中就申請內容，如申請面積等有所更正，經目的事業主管單位敘明屬同一審理中之申請案件者，依其變更內容申請退還者，則應請依據個案性質，就其法規適用，予以審核辦理，合先敘明。\n三、已由各縣市政府代為辦理回饋金收繳之回饋金申請案件，如有申請人申請退還已繳交之農業用地變更回饋金者，應請依據個案性質及上開原則核處。如經核准退還之案件，如有涉及已上繳本會農業發展基金部分，可依程序繳附相關資料，向本會申請回撥。惟為避免退還回饋金行政作業之困擾，就農業用地變更回饋金繳交案件，應請慎予核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940121156號|有關申請人申請退還以繳交之農業用地變更回饋金相關事宜案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "877ec213e85e67e0077f5d170ca04c813b96618e4bb37e5e63af6e179f250758",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "02879號函。\n二、有關回饋金之收繳標準及繳交時機等,本會「農業用地變更回饋金撥繳及分配利用辦法」業有相關明確之規範,就申請各目的事業使用,經繳交回饋金,且已辦理用地變更或依據核"
+  }
+ ]
+}

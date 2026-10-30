@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3929",
    "serial": null,
-   "fetched_at": "2026-10-30T10:01:01+08:00",
+   "fetched_at": "2026-10-30T11:28:13+08:00",
    "source_key": "rmis:3929"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1040251013號|有關貴市新店區○○○地號農舍屋頂申請設置興建太陽光電發電系統"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "店區○○○地號農舍屋頂申請設置興建太陽光電發電系統,是否符合農業用地興建農舍辦法相關規定案,復請查照。\n一、復行政院農業委員會交下貴局104年12月24日新北農"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

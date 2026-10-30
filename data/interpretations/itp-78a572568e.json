@@ -1,0 +1,59 @@
+{
+ "id": "itp-78a572568e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981843346號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關內政部函詢信託財產為農舍，其受託人是否須符合無自用農舍之疑義案，復請查照。",
+ "content": "一、復貴部98年9月23日內授中辦地字第0980049545號函。\n二、依據本會96年3月14日農授水保字第0961848173號函，農舍與其坐落用地併同辦理移轉時，其承受人資格應符合無自用農舍條件，故信託財產之受託人應無自用農舍，以符農業發展條例立法精神。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981843346號|有關內政部函詢信託財產為農舍其受託人是否須符合無自用農舍之疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6b1d2005a007f0ff6956defe2333b9a5e71f7ce707b355511f7abea1d51ae253",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "格應符合無自用農舍條件,故信託財產之受託人應無自用農舍,以符農業發展條例立法精神。"
+  }
+ ]
+}

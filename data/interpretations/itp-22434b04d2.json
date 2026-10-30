@@ -1,0 +1,58 @@
+{
+ "id": "itp-22434b04d2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950168347號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴公所函詢所有農地上未種植農作物（閒置）是否符合核發無自用農舍證明條件案，復請查照。",
+ "content": "一、依據內政部營建署95年11月30日營署建管字第0950168347號函移文辦理，復 貴公所95年10月31日公所社字第0950015059號函。\n二、「農業用地興建農舍辦法」第3條第1項各款申請人資格條件之審查，申請人應依據本會91年9月20日農輔字第0910149848函釋，檢具申請興建農舍之申請人資格條件審查表所列之證明文件。而依據該審查表，申請人需檢具(一)稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。(二)申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。(三)申請人切結無自用農舍文件等文件，以俾審查申請人是否無自用農舍之規定。且依該審查表備註欄「實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定房屋為農舍」。\n三、據此，農地上未種植農作物（閒置）與核發無自用農舍證明無關;至申請無自用農舍證明之受理單位，應以申請興建農舍所在地之主管機關為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950168347號|貴公所函詢所有農地上未種植農作物閒置是否符合核發無自用農舍證"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f91cf39ae4dd9062e9f5d239cf52b49e1540cca7868bee063d433a98c0eecbe1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "95年10月31日公所社字第0950015059號函。\n二、「農業用地興建農舍辦法」第3條第1項各款申請人資格條件之審查,申請人應依據本會91年9月20日農輔字第0910"
+  }
+ ]
+}

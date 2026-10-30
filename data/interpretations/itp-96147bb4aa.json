@@ -1,0 +1,52 @@
+{
+ "id": "itp-96147bb4aa",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848044號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "非耕地上興建之合法農舍，得否將農舍併同座落基地移轉予私法人案，復請查照。",
+ "content": "一、復 貴服務中心95年12月19日新字第00205號函。\n二、有關農舍及座落基地得否移轉予私法人乙節，本會前以95年12月27日以農企字第0950172203號函復 貴服務中心有案（正本諒達），意旨為農舍坐落農業用地及農舍建物之併同移轉對象，仍應為無自用農舍之現耕農或農民身份，故與農業用地是否為耕地或非耕地無關。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848044號|非耕地上興建之合法農舍得否將農舍併同座落基地移轉予私法人案復"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9190d23586b189fd38d79565190873b56244173b97b0b462d2b35823922f0d82",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

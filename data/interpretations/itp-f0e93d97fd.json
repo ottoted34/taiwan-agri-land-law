@@ -1,0 +1,56 @@
+{
+ "id": "itp-f0e93d97fd",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961848889號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正後取得繼承共有農地，嗣依同條例第16條規定分割為單獨所有後再辦理分割合併，其權利主體顯已更動，其「土地取得」之認定時點，應以土地登記機關最後完成登記之時點為基準，請查照。",
+ "content": "兼復臺中市政府96年7月25日府經農字第0960165479號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961848889號|農業發展條例修正後取得繼承共有農地嗣依同條例第16條規定分割"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "685ff8d5b0a92b981aa581abe63a5305d85ad9729ed263fac861468f36e5f43e",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正後取得繼承共有農地,嗣依同條例第16條規定分割為單獨所有後再辦理分割合併,其"
+  }
+ ]
+}

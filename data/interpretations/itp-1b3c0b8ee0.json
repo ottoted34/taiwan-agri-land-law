@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5524",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:34+08:00",
+   "fetched_at": "2026-10-30T11:36:47+08:00",
    "source_key": "rmis:5524"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第1020244490號|大雅區公所函詢申請農業資材室乾燥處理設施及農機具室等3種設施"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "年12月23日中市農地字第1020040567號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)尚無限制各項設施不得合併興建於同一棟建築物之規範,惟申請合併"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

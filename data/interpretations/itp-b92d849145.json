@@ -1,0 +1,55 @@
+{
+ "id": "itp-b92d849145",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070728506號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍是否得以申請客房數為6間以上民宿之疑義案，復如說明，請查照。",
+ "content": "一、復貴府107年10月12日府觀產字第1070192623號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同，且農舍應以自用為原則。復依發展觀光條例第2條第9款規定，民宿係指利用自用住宅空閒房間，結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動，以家庭副業方式經營，提供旅客鄉野生活之住宿處所。綜上，自用農舍如作為民宿者，應以家庭副業方式經營，其農業經營用地亦應維持農業生產使用，合先敘明。\n三、針對農舍申請作民宿使用，本會前以107年7月23日農企字第1070222897號函復交通部觀光局並副知內政部在案，至貴府所詢以農舍申請客房數6間以上民宿究屬「H1」或「H2」類組一節，仍請洽內政部確認為宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070728506號|有關農舍是否得以申請客房數為6間以上民宿之疑義案復如說明請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d3680fa517c71bbd962d7e8b43efb034075df8a054f886297db9bfa30accda86",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

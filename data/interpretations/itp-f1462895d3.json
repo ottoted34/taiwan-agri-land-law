@@ -1,0 +1,64 @@
+{
+ "id": "itp-f1462895d3",
+ "doc_class": "interpretation",
+ "docno": "台內地字第1050448569號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問已興建農舍之土地管制及合併分割疑義，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局105年12月19日水保農字第1051837585號函轉台端105年12月14日致該局首長民意信箱留言內容辦理。\n二、查「土地因合併申請複丈者，應以同一地段、地界相連、使用性質相同之土地為限。」、「……、第二百二十四條及前條所稱之使用性質，於都市土地指使用分區，於非都市土地指使用分區及編定之使用地類別。」及「已申請興建農舍之農業用地，直轄市、縣（市）主管建築機關應於地籍套繪圖上，將已興建及未興建農舍之農業用地分別著色標示，未經解除套繪管制不得辦理分割。」分別為地籍測量實施規則第224條第1項、第225條之1及農業用地興建農舍辦法第12條第2項所明定。是以本案辦理土地合併分割應符合上開相關規定，又倘該土地屬耕地，則另有農業發展條例第16條規定之適用。由於台端詢問事項涉及個案實務執行與事實認定，建請敘明土地地段地號，逕洽土地所在地登記機關或建築管理機關，以資便捷。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:台內地字第1050448569號|有關台端詢問已興建農舍之土地管制及合併分割疑義請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "098446be924b78cdb8b5657d3997d16e35cd99ac6a85123d44f586fc2209fc64",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "。」分別為地籍測量實施規則第224條第1項、第225條之1及農業用地興建農舍辦法第12條第2項所明定。是以本案辦理土地合併分割應符合上開相關規定,又倘該土地屬耕地,則另"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "辦理土地合併分割應符合上開相關規定,又倘該土地屬耕地,則另有農業發展條例第16條規定之適用。由於台端詢問事項涉及個案實務執行與事實認定,建請敘明土地地段地號,逕"
+  }
+ ]
+}

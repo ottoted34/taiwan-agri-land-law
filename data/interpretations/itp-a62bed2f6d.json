@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5094",
    "serial": null,
-   "fetched_at": "2026-10-30T10:15:31+08:00",
+   "fetched_at": "2026-10-30T11:42:44+08:00",
    "source_key": "rmis:5094"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1000155357號|函詢變更基隆市七堵暖暖地區主要計畫部分保護區為產業專用區道路"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,12 +37,21 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0070001",
+    "law_name": "都市計畫法",
+    "article": "27-1",
+    "amended_on": "2021-05-26",
+    "history": "中華民國一百十年五月二十六日總統華總一義字第 11000047771 號令修正公布第 4、6、10、11、13、14、18～21、24、25、27、27-1、29、30、41、52～55、57～62、63、64、67、71、73、78、79、82、86 條條文",
+    "relation_kind": "extracted"
    }
   ]
  },
@@ -50,34 +65,42 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "8月26日基府產農貳字第1000173017號函。\n二、有關「農業發展條例」第3條第10款所稱依法供該款第1目至第3目使用之農業用地,其法律依據及範圍,查於「農業"
   },
   {
-   "law_id": "RMIS-2009",
+   "law_id": "M0020002",
    "article": "2",
    "kind": "extracted",
    "snippet": "法供該款第1目至第3目使用之農業用地,其法律依據及範圍,查於「農業發展條例施行細則」第2條業已明定。準此,旨揭案件範圍內土地,如係依「都市計畫法」劃定為保護區內之土地,即"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "地於劃定或變更為非農業使用時,應視其事業性質,繳交回饋金,為「農業發展條例」第12條所明定,本會據以訂定「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交回"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": ",繳交回饋金,為「農業發展條例」第12條所明定,本會據以訂定「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交回饋金之情況標準與作業方式予以規範;惟同條例同條文第2項規定,"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "27-1",
+   "kind": "extracted",
+   "snippet": "年1月22日農企字第0960103065號函說明略以:「參考『都市計畫法』第27條之1規定,申請變更案件如涉及都市計畫分區變更,經依上開規定於審議規範或處理原則中訂定"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

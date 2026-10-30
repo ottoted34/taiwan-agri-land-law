@@ -1,0 +1,67 @@
+{
+ "id": "itp-6b90297eaf",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070229072號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「申請農舍」相關事宜一案。",
+ "content": "一、依據農業用地興建農舍辦法第2條第1項第3款規定「申請興建農舍之該筆農業用地面積不得小於0.25公頃···」，爰倘屬農業發展條例89年1月4日修正施行後取得農業用地，且無自用農舍須興建者，申請興建農舍應符合上開之規定。\n二、 查農業發展條例第3條第1項第12款已明定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。···」，爰景觀造景工程非屬農業使用之範圍，自無申請農業用地作農業設施容許使用或申請興建農舍之必要性。\n三、有關農業用地興建農舍申請案件之審查係屬直轄市、縣(市)政府之權責，如有相關疑問，仍請逕向所在地縣(市)政府洽詢。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070229072號|申請農舍相關事宜一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "07aaa4e969e51a01e2637fb7437570e3afaad0d81225aa3cf9d567ca08fd538e",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "「申請農舍」相關事宜一案。\n一、依據農業用地興建農舍辦法第2條第1項第3款規定「申請興建農舍之該筆農業用地面積不得小於0.25公頃···」,爰"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "無自用農舍須興建者,申請興建農舍應符合上開之規定。\n二、 查農業發展條例第3條第1項第12款已明定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育"
+  }
+ ]
+}

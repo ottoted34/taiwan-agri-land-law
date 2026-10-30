@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5264",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:35+08:00",
+   "fetched_at": "2026-10-30T11:36:48+08:00",
    "source_key": "rmis:5264"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030200649號|辦理農業用地暨農業發展條例第38條之1土地作農業使用證明案件"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "38-1",
    "kind": "extracted",
    "snippet": "辦理農業用地暨農業發展條例第38條之1土地作農業使用證明案件疑義案。\n主旨:有關貴局函詢辦理農業用地暨農業發展條例第3"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "6",
    "kind": "extracted",
    "snippet": "具有公用地役關係之道路,宜先依上開解釋審認之。\n三、次查有關「農業用地作農業使用認定及核發證明辦法」第6條第3款規定之執行要件,本會前於102年11月7日以農企字第1020234526號"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

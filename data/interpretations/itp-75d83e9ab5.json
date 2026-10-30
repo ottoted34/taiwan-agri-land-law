@@ -1,0 +1,77 @@
+{
+ "id": "itp-75d83e9ab5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041812947號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「取締非法農舍落實農地農用」相關事宜",
+ "content": "本會推動修正農業用地興建農舍辦法，係為確保農舍興建之申請人確為實際從事農業生產者，至農舍興建後仍應維持農業使用，前開辦法第15條規定，申請興建農舍之該農業用地應維持作農業使用，直轄市、縣(市)主管機關應加強興建農舍之農業用地稽查及取締，經檢查未依規定使用者，應依區域計畫、都市計畫法等相關規定處理，並限期改正，屆期不改正者，得廢止其許可。為落實農地農用，本會與內政部將加強督導地方政府落實稽查與裁處，徹底執行前開辦法與都市計畫法、區域計畫法、建築法等相關規定，未來並將公告地方政府辦理情形，由全民監督。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041812947號|取締非法農舍落實農地農用相關事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8b5e252f92b31f08c50d9fa412734b486c479b2b49334d340c4f8ff86f6576af",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「取締非法農舍落實農地農用」相關事宜\n本會推動修正農業用地興建農舍辦法,係為確保農舍興建之申請人確為實際從事農業生產者,至農舍興建後仍應維持農業使用,"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍之農業用地稽查及取締,經檢查未依規定使用者,應依區域計畫、都市計畫法等相關規定處理,並限期改正,屆期不改正者,得廢止其許可。為落實農地農用,本會與內"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "強督導地方政府落實稽查與裁處,徹底執行前開辦法與都市計畫法、區域計畫法、建築法等相關規定,未來並將公告地方政府辦理情形,由全民監督。"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "府落實稽查與裁處,徹底執行前開辦法與都市計畫法、區域計畫法、建築法等相關規定,未來並將公告地方政府辦理情形,由全民監督。"
+  }
+ ]
+}

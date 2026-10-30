@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5228",
    "serial": null,
-   "fetched_at": "2026-10-30T10:20:15+08:00",
+   "fetched_at": "2026-10-30T11:47:29+08:00",
    "source_key": "rmis:5228"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0960142785號|釋非都市土地特定農業區農牧用地已存在違規廠房農業主管機關可否"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -40,20 +46,20 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "8",
     "amended_on": "2009-03-16",
-    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
     "relation_kind": "extracted"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "8",
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -71,16 +77,36 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070030",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "一、復 貴府96年8月1日府農務字第○○○○○號函。\n二、依區域計畫法第15條第1項規定,「非都市土地使用管制規則」由中央主管機關內政部定之,作為非都市土地分"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "務字第○○○○○號函。\n二、依區域計畫法第15條第1項規定,「非都市土地使用管制規則」由中央主管機關內政部定之,作為非都市土地分區編定、限制使用並予管制之依據。復依上"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有案,詳如附件,合先敘明。\n三、按「農業用地違反區域計畫法或都市計畫法土地使用管制規定者,應依區域計畫法或都市計畫法規定處理。」為農業發展條例第69條"
+  },
+  {
+   "law_id": "M0020001",
    "article": "69",
    "kind": "extracted",
    "snippet": "土地使用管制規定者,應依區域計畫法或都市計畫法規定處理。」為農業發展條例第69條第1項所明定,農業用地如有違規使用情形者,核屬違反都市或非都市土地使用管制規定,"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "8",
    "kind": "extracted",
    "snippet": "情形者,核屬違反都市或非都市土地使用管制規定,參酌本會訂頒之農業用地容許作農業設施使用審查辦法第8條第9款規定,如申請之農業用地有違反相關法令之情形者,農業主管機關自應不予同意容許"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

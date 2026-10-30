@@ -1,0 +1,62 @@
+{
+ "id": "itp-3c10173517",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100012249號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "已有農舍，嗣因贈與取得另一農舍與其坐落用地疑義案",
+ "content": "一、依據本會農糧署 109年12月17日召開農業設施設置屋頂型太陽能光電推動說明會反映台端之意見辦理。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同。爰農業發展條例第 18條規定：「本條例中華民國 89年1月4日修正施行後取得農業用地之農民，無自用農舍而需興建者，經直轄市或縣 (市 )主管機關核定，於不影響農業生產環境及農村發展，得申請以集村方式或在自有農業用地興建農舍。．．．」，其立法意旨為農舍應以自用為原則。\n三、綜上，農舍之承受人，無論贈與、買賣或拍賣，均需符合無自用農舍條件，且所承受之農舍應符合自用之原則，並就該筆農業用地從事積極農用，始符合上開規定之立法意旨。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100012249號|已有農舍嗣因贈與取得另一農舍與其坐落用地疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "03e396e016c00cd700d964fbc5c6c6d35fd360d87e99c362d46edf7778ae28f9",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "green_energy",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "地上作為放置農機具兼具居住之需求,與一般家居住宅性質不同。爰農業發展條例第 18條規定:「本條例中華民國 89年1月4日修正施行後取得農業用地之農民,無自用農舍而"
+  }
+ ]
+}

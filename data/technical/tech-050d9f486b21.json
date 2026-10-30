@@ -1,0 +1,37 @@
+{
+ "id": "tech-050d9f486b21",
+ "source_key": "datamoa:B83:76f5ae087d3e4b67",
+ "title": "農情月刊 221",
+ "series": "農情月刊",
+ "issue": "221",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": "2018-05",
+ "url": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/221.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B83",
+  "title": "臺東區農業改良場農情月刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83"
+ },
+ "raw": {
+  "期別": "221",
+  "出刊時間": "201805",
+  "檔案連結": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/221.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83",
+   "fetched_at": "2026-10-30T11:58:04+08:00"
+  }
+ ],
+ "content_hash": "daa8544830f0c663701f6cf3b828298f890795b25c16192593fc4a10f613c856",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

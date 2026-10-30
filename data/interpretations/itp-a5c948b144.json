@@ -1,0 +1,58 @@
+{
+ "id": "itp-a5c948b144",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0930068499號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於「農業用地興建農舍辦法」第3條疑義案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會93年10月25日農授水保字第0931824466號函辦理。\n二、關於「農業用地興建農舍辦法」第3條第4項所稱「自公告徵收日起一年內」，係指地方政府公告徵收該農地之公告文於發文當天黏貼於公告揭示處之日起一年內。\n三、關於「農業用地興建農舍辦法」第3條第4項所稱「其申請面積不得超過原被徵收土地之面積」，係指新購農地面積不受限制，但準用本辦法第2條規定申請興建農舍之申請面積不得超過原被徵收土地之面積。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0930068499號|關於農業用地興建農舍辦法第3條疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "22b38d24a106b0af609612e48852ac14d68ee8eca2f1398006da1f8503b9315b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "關於「農業用地興建農舍辦法」第3條疑義案,復如說明,請查照。\n一、依據行政院農業委員會93年10月25日農授水保字"
+  }
+ ]
+}

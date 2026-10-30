@@ -1,0 +1,71 @@
+{
+ "id": "itp-02c0bd3a8d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990131328號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農地所有權人經信託登記為他人後申領自用農舍建造執照，又經塗銷信託登記後，申領使用執照，是否符合農業發展條例第18條規定乙案，請查照。",
+ "content": "一、復貴府99年5月7日府建管字第0990097734號函。\n二、有關本案本會已於98年12月9日農授水保字第0980173914號函、99年2月11日農授水保字第0990106981號函及99年4月13日農授水保字第0990120369號函分別回復，本案起造人○○○於98年4月13日完成信託登記於○○○，故○○○於98年6月4日申請農舍建造執照時已非土地所有權人，與農業發展條例第18條第4項：「...農舍起造人應為該農舍坐落土地之所有權人...」規定不符。\n三、另依「農業用地興建農舍辦法」第10條規定，起造人提出申請興建農舍之資料不實者，直轄市、縣 市 主管機關得撤銷其核定，主管建築機關得撤銷其建築許可。經撤銷建築許可案件，其建築物依相關土地使用管制及建築法規定處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990131328號|有關農地所有權人經信託登記為他人後申領自用農舍建造執照又經塗"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e411246d9279b7ed78ba0958359b0529211c1e14c31e8303d122d83892f994e2",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "自用農舍建造執照,又經塗銷信託登記後,申領使用執照,是否符合農業發展條例第18條規定乙案,請查照。\n一、復貴府99年5月7日府建管字第0990097734號函。"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "造人應為該農舍坐落土地之所有權人...」規定不符。\n三、另依「農業用地興建農舍辦法」第10條規定,起造人提出申請興建農舍之資料不實者,直轄市、縣 市 主管機關得撤銷其核定,"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "其建築許可。經撤銷建築許可案件,其建築物依相關土地使用管制及建築法規定處理。"
+  }
+ ]
+}

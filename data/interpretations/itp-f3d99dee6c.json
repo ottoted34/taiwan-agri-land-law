@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6085",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:10+08:00",
+   "fetched_at": "2026-10-30T11:14:22+08:00",
    "source_key": "rmis:6085"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1150705113號|貴公司函詢都市計畫農業區申請擴廠案復如說明請查照"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -49,5 +55,7 @@
    "kind": "extracted",
    "snippet": "司函詢都市計畫農業區申請擴廠案,復如說明,請查照。\n一、依據農業主管機關同意農業用地變更使用審查作業要點(以下簡稱變更要點)第5點第1款規定:「農業用地變更使用,應避免影響農業生產環境"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

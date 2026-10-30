@@ -1,0 +1,75 @@
+{
+ "id": "itp-f584904567",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950121667號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢非都市土地特定農業區農牧用地申請農業設施-農路容許使用之疑義案，復請查照。",
+ "content": "一、復 貴府95年4月19日府農務字第0950049273號函。\n二、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」農業設施及農舍均屬農地上與農業經營不可分離之建築物，故均應考量農業使用之內涵、當地農業經營發展、農業生產經營之必要性及合理性，依農業用地容許作農業設施使用審查辦法及農業用地興建農舍辦法等相關規定，視個案實務予以審認，合先敘明。\n三、申請農路使用，倘確為農作物搬運、運輸車輛通行或迴轉上需要，且與農業生產經營或農業使用不可分離者，應依農業用地容許作農業設施使用審查辦法第11條第20款其他農作產銷設施-農路之規定辦理，並審酌其經營計畫內容，由貴府目的事業主管單位會同地政、工務（建設）等單位視實際需要，本於權責核處。至農路與農舍主體以長廊銜接，其供農業生產使用部分之土地可否視為完整區塊方面，宜以申請範圍之土地利用，能符合農業經營之需要做考量。至於農舍之填土面積是否需平均分布於建物周圍以符合填土目的，其涉及填土之方式，應注意配合實施必要之水土保持處理與維護。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950121667號|有關貴府函詢非都市土地特定農業區農牧用地申請農業設施農路容許"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7c556746cb76d8ae26d3b35fc08c70aef886acad7ea025ef26679aa9e999d77b",
+ "topics": [
+  "landfill",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "95年4月19日府農務字第0950049273號函。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "經營之必要性及合理性,依農業用地容許作農業設施使用審查辦法及農業用地興建農舍辦法等相關規定,視個案實務予以審認,合先敘明。\n三、申請農路使用,倘確為農作物搬運、"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "通行或迴轉上需要,且與農業生產經營或農業使用不可分離者,應依農業用地容許作農業設施使用審查辦法第11條第20款其他農作產銷設施-農路之規定辦理,並審酌其經營計畫內容,由貴府目的事業主"
+  }
+ ]
+}

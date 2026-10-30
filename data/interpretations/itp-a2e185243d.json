@@ -1,0 +1,58 @@
+{
+ "id": "itp-a2e185243d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961804858號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍疑義案，復請查照。",
+ "content": "一、復 貴府96年3月13日府農輔字第0960034763號致本會水土保持局函。\n二、依「非都市土地使用管制」第6條附表一規定，農牧用地上以集村方式興建農舍者及甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者，得容許設置私有通路;該私有通路屬私有者，得以出具同意書方式辦理，內政部77年8月18日台內營字第622851號函釋有案。又該部營建署91年11月14日營署綜字第0910067445號函說明三略以：「……所稱『道路』應包括計畫道路、現有巷道及農路」，故私有道路視為「農業用地興建農舍辦法」第8條第6款所稱之道路，惟其寬度仍應符合10戶至未滿30戶者為6公尺，30戶以上為8公尺之規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961804858號|有關集村興建農舍疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7919cdda232f1bf4c76cf767197928f8467c1df6b2926b3afd9d6fa587e60b9b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "所稱『道路』應包括計畫道路、現有巷道及農路」,故私有道路視為「農業用地興建農舍辦法」第8條第6款所稱之道路,惟其寬度仍應符合10戶至未滿30戶者為6公尺,30戶以上為8公"
+  }
+ ]
+}

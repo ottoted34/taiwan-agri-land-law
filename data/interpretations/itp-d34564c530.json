@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4754",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:14+08:00",
+   "fetched_at": "2026-10-30T11:20:27+08:00",
    "source_key": "rmis:4754"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090722179號|申請興建農舍疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,16 +47,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "擁有農業用地即可興建農舍,先予敘明。\n三、申請興建農舍除需依農業用地興建農舍辦法(以下簡稱本辦法)第 3條之 1規定,認定具農民身分以外,亦須依本辦法第 2條第"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

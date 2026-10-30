@@ -1,0 +1,66 @@
+{
+ "id": "itp-5865a2c355",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1030701333號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為貴公司詢問申請興建農舍相闞面積計算疑義，復請查照。",
+ "content": "一、復行政院農業委員會交下貴公司103年1月8日信函。\n二、按農業發展條例規定農業用地上有條件允許興建農舍，係為提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，而與農業經營不可分離之建築物，其性質與一般住宅有別。貴公司因業務需求欲分割農地申請興建農舍、規劃社區及私設通路等，已偏離農業用地應作為農業生產使用之政策原則，亦有違前開規定意旨。\n三、有關農業用地興建農舍之規定，貴公司可利用本局全球資訊網/水保法規/水保法規資料庫(http://www.swcb.gov.tw/) 查詢下載農業用地興建農舍辦法瞭解農舍興建資格條件，倘就條文規定有所疑義，亦可就近詢問所在直轄市、縣(市) 政府農業主管機關。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1030701333號|為貴公司詢問申請興建農舍相闞面積計算疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e8557d7684047c93a084f7b96bb3290c91b0dae7bc018b3ee05fd905cb2fd765",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、復行政院農業委員會交下貴公司103年1月8日信函。\n二、按農業發展條例規定農業用地上有條件允許興建農舍,係為提供有心經營農業者於該農地上興建具有放置農"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "(http://www.swcb.gov.tw/) 查詢下載農業用地興建農舍辦法瞭解農舍興建資格條件,倘就條文規定有所疑義,亦可就近詢問所在直轄市、縣(市) 政"
+  }
+ ]
+}

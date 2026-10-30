@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3549",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:40+08:00",
+   "fetched_at": "2026-10-30T11:35:53+08:00",
    "source_key": "rmis:3549"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031803322號|有關貴府函為興建農舍之申請人資格條件審查其檢附農業用地作農業"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,11 +46,20 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "2",
     "amended_on": "2015-09-04",
-    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "history": "中華民國一百零四年九月四日內政部台內營字第 1040813558 號令、行政院農業委員會農水保字第 1041816006 號令會銜修正發布第 2 條條文；並增訂第 3-1 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
     "relation_kind": "extracted"
    }
   ]
@@ -59,16 +74,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": "03年2月12日府農農字第1030029839號函。\n二、依「農業用地興建農舍辦法」第2條第1項第5款規定:「申請人為該農業用地之所有權人,且該農業用地應確供農業使用,並"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

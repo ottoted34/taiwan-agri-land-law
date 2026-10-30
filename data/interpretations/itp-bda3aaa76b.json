@@ -1,0 +1,69 @@
+{
+ "id": "itp-bda3aaa76b",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920169670號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○申請於貴市安南區○○○地號建自用農舍，其土地登記謄本登記日期為91年2月27日分割繼承，但繼承發生日期為90年4月18日，是否依登記日期或發生日期為基準疑義案，復如說明，請查照。",
+ "content": "一、復貴府92年11月18日南市建農字第09241057340號函。\n二、土地若因繼承而移轉者，雖對於繼承標的物之權利自繼承發生日起即生效力，但民法第759條規定：「因繼承．．．於登記前已取得不動產物權者，非經登記，不得處分其物權。」亦即不動產經登記後始明確界定繼承人所繼承之權利範圍，亦始得處分其物權；準此，本案對於修法後因繼承所取得之農業用地擬申請興建農舍，其土地取得應滿兩年之時間點認定，應自土地登記日期起算。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920169670號|有關○○○申請於貴市安南區○○○地號建自用農舍其土地登記謄本"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-59cdaf000b",
+    "by_docno": "農授水保字第0991874933號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "2.本會92年12月12日農輔字第0920169670號函及95年4月4日農授水保字第0950117146號函與上開意旨不符,應停止適用"
+   },
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-f8cffd77f3",
+    "by_docno": "農輔字第0930102310號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "」,故因繼承、分割繼承而取得農業用地者,不待登記即已生效,並應以「被繼承人死亡日期」為認定時點之基準,本會92年12月12日農輔字第0920169670號函與上開意旨不符部份不再適用"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2f73d36cd907e96d2034cd4232cf00b595814ec05a67286d4e1c5a7da910cd41",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

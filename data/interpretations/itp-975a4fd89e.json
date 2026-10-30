@@ -1,0 +1,59 @@
+{
+ "id": "itp-975a4fd89e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041810849號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "自己的地蓋農舍。",
+ "content": "一、農舍係提供農民於該農地上興建輔助及便利其農事生產工作，兼具居住之構造物，與一般住宅性質有別，其興建與使用均應與農業經營不可分離。因此農舍申請人應為實際從事農業生產且為輔助農事所需，如僅為興建住宅或民宿而申請興建農舍，與農業發展條例立法意旨不符。\n二、至已興建之農舍是否得作為民宿使用，則應依民宿管理辦法規定向觀光主管機關申請。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041810849號|自己的地蓋農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3a91d2c03d2134b573a0af6aa20bed0c88eb1ab7f2691a7acc8d1d2f923f2456",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "生產且為輔助農事所需,如僅為興建住宅或民宿而申請興建農舍,與農業發展條例立法意旨不符。\n二、至已興建之農舍是否得作為民宿使用,則應依民宿管理辦法規定向觀"
+  }
+ ]
+}

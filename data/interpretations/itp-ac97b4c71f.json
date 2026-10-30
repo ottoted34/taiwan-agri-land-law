@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5077",
    "serial": null,
-   "fetched_at": "2026-10-30T10:18:33+08:00",
+   "fetched_at": "2026-10-30T11:45:46+08:00",
    "source_key": "rmis:5077"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0970163382號|釋促進民間參與興建高雄縣○○地區五星級度假旅館案是否應繳納農"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -47,22 +53,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "、復 貴府97年11月6日府農務字第○○○○○號函。\n二、依農業發展條例第12條第1項規定,屬農業用地之變更,應視其事業性質,繳交回饋金,以供農業發展及農民福利"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "共建設及公益性設施之要件。爰此,應請申請人○○股份有限公司依農業用地變更回饋金撥繳及分配利用辦法之規定,繳交農業用地變更回饋金。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

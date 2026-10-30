@@ -1,0 +1,70 @@
+{
+ "id": "itp-6dcdbc3be0",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0970043771號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "經法院拍賣或其他途徑「繼受」取得農舍後，欲申請該農舍增建、改建、修建，其申請人應檢具之資格文件乙案，復請查照。",
+ "content": "一、依據行政院農業委員會97年7月23日農授水保字第0970140126號函轉貴處97年7月21日營陽建字第0976001508號函辦理。\n二、農業發展條例第18條第4項規定，農舍起造人應為該農舍坐落土地之所有權人。另據行政院農業委員會90年1月4日九0 農輔字第890167386號函示略以：「農業發展條例第18條規定係指無自用農舍而需申請興建者之規範，非屬現有農舍增建規定」，是有關現有農舍申請增建乙節，請依都市計畫法省市施行細則或實施區域計畫地區建築管理辦法及建築法等有關規定辦理，本署90年5月15日九十營署建管字第027648號函如附件已有明示。本案法院拍賣或其他途徑「繼受」取得農舍後，欲申請該農舍增建、改建、修建乙節，請依前開有關法令規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第0970043771號|經法院拍賣或其他途徑繼受取得農舍後欲申請該農舍增建改建修建其"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "69ed4bf8b3e7852f8c1b70059bec94cecb3d9e17e62d1fda0d014cdf65c688be",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "7年7月21日營陽建字第0976001508號函辦理。\n二、農業發展條例第18條第4項規定,農舍起造人應為該農舍坐落土地之所有權人。另據行政院農業委員會90年1"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "範,非屬現有農舍增建規定」,是有關現有農舍申請增建乙節,請依都市計畫法省市施行細則或實施區域計畫地區建築管理辦法及建築法等有關規定辦理,本署90年5月"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",請依都市計畫法省市施行細則或實施區域計畫地區建築管理辦法及建築法等有關規定辦理,本署90年5月15日九十營署建管字第027648號函如附件已有明"
+  }
+ ]
+}

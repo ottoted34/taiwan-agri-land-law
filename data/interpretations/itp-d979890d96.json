@@ -1,0 +1,71 @@
+{
+ "id": "itp-d979890d96",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021810760號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關多筆土地申請畜牧設施容許使用問題，復請查照。",
+ "content": "一、復台端102年5月10日信函。\n二、依農業發展條例第8條之1第2項規定，農業用地上興建有固定基礎之農業設施，應依「申請農業用地作農業設施容許使用審查辦法」申請農業設施之容許使用，揆諸前開辦法，未限制畜牧設施不得以多筆土地合併計算興建面積。又多筆土地因其中一筆有農舍坐落是否必須合併為一筆土地始得申請畜牧設施，查「農業用地興建農舍辦法」亦無相關規定或限制，先予敘明。\n三、另依畜牧法第5條第2款規定：「畜牧設施使用之土地面積不超過畜牧場土地總面積百分之八十。」爰倘多筆土地合併申請畜牧設施容許使用，既有農舍使用面積應計入總畜牧設施項下，與其他畜牧設施併入後之使用面積不得超過畜牧場土地總面積之百分之八十，而該農舍仍應為取得使用執照之建物始得為之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1021810760號|有關多筆土地申請畜牧設施容許使用問題復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "59cbaa584f48f72863e8704b67d95478fcf4fbf0addadbb879de9b9fe02c4a92",
+ "topics": [
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "問題,復請查照。\n一、復台端102年5月10日信函。\n二、依農業發展條例第8條之1第2項規定,農業用地上興建有固定基礎之農業設施,應依「申請農業用地作農業設施容許"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "8條之1第2項規定,農業用地上興建有固定基礎之農業設施,應依「申請農業用地作農業設施容許使用審查辦法」申請農業設施之容許使用,揆諸前開辦法,未限制畜牧設施不得以多筆土地合併計算興建面"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "其中一筆有農舍坐落是否必須合併為一筆土地始得申請畜牧設施,查「農業用地興建農舍辦法」亦無相關規定或限制,先予敘明。\n三、另依畜牧法第5條第2款規定:「畜牧設施使用之"
+  }
+ ]
+}

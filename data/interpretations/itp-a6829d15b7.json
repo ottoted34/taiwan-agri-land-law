@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5945",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:32+08:00",
+   "fetched_at": "2026-10-30T11:44:45+08:00",
    "source_key": "rmis:5945"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0980167116號|有關依非都市土地開發審議規範申請整體開發之基地經依非都市土地"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -52,16 +58,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關依非都市土地開發審議規範申請整體開發之基地,經依非都市土地使用管制規則規定變更編定之國土保安用地者,於土地移轉時,應不予核發農業用地作農業使用證明書案"
+  },
+  {
+   "law_id": "M0110006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "」之農業用地係指本會基於國土保安及水土保持之需要,依森林法、山坡地保育利用條例以及製定非都市土地使用分區圖及編定各種使用地作業須知等相關規定,將保安林及加強保"
+  },
+  {
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "區等之開發具有不可分離關係,而與平均地權條例第3條第3款(同農業發展條例第3條第10款)所定「保育使用」之農業用地有別。\n四、綜上,依上開審議規範審議通過之高"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

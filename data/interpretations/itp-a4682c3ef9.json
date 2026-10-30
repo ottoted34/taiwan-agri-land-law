@@ -1,0 +1,67 @@
+{
+ "id": "itp-a4682c3ef9",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050218615號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關山坡保育地區之農業用地申請農舍，其農舍經營計畫書敘及以「檳榔」為農產品種類，其興建農舍需求目的合理性疑義一案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下雲林縣政府105年5月17日府農務二字第1052510642號函辦理。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」，農舍係屬農地上與農業經營不可分離之建築物，故審核時除應考量該農業使用之內涵、當地農業經營發展外，應審酌該農業生產經營，其興建農舍之必要性及合理性，依農業用地興建農舍辦法等相關規定，視個案實務予以審認。貴府所詢個案，請本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1050218615號|有關山坡保育地區之農業用地申請農舍其農舍經營計畫書敘及以檳榔"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8adceefddfa9c3f0f5a47155933fe51a2061985b6581b0368982fd84b91b551d",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "5月17日府農務二字第1052510642號函辦理。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "發展外,應審酌該農業生產經營,其興建農舍之必要性及合理性,依農業用地興建農舍辦法等相關規定,視個案實務予以審認。貴府所詢個案,請本權責卓處。"
+  }
+ ]
+}

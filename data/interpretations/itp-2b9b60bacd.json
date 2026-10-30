@@ -1,0 +1,64 @@
+{
+ "id": "itp-2b9b60bacd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981843020號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地申請興建農舍因非自然能力發生之增加土地面積疑義案，請查照。",
+ "content": "1.依據本會水土保持局案陳 貴事務所98年7月30日長建師字第001號函辦理。 2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)後取得(包括繼承、贈與、買賣、拍賣等)之農業用地，應依「農業用地興建農舍辦法」第3條第1項相關規定辦理，合先說明。 3.本案93年間取得之台中縣清水鎮○○○、○○○、○○○地號等3筆農業用地，經辦理合併後面積增加102平方公尺，其取得時點之認定，請檢附土地登記謄本、異動索引等有關資料洽土地所在地登記機關認定，以資便捷，倘有涉法令執行疑義，再請依程序報請主管機關核示。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981843020號|有關農業用地申請興建農舍因非自然能力發生之增加土地面積疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e031e17c16b7a4c652533b1d54237a74baebb0e0cc9b30805d8ad028966086a7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": " 貴事務所98年7月30日長建師字第001號函辦理。 2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍,係依農業用地取得日期之不同而有所"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "8日)後取得(包括繼承、贈與、買賣、拍賣等)之農業用地,應依「農業用地興建農舍辦法」第3條第1項相關規定辦理,合先說明。 3.本案93年間取得之台中縣清水鎮○○○、○○○"
+  }
+ ]
+}

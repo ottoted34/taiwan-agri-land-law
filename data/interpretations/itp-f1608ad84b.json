@@ -1,0 +1,70 @@
+{
+ "id": "itp-f1608ad84b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970150555號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關已有農舍之申請人，得否再依「農業用地興建農舍辦法」頒行前核准之使用執照，申辦另一農舍之所有權第一次登記（即保存登記）案，本會意見如說明，復請查照。",
+ "content": "1.復 貴部97年9月5日內授中辦地字第0970048837號函。\n2.依農業發展條例第18條及農業用地興建農舍辦法之規定，申請興建農舍之申請人應為農民，且須符合無自用農舍等條件，且以一棟自用農舍為限，始符合立法意旨，合先說明。\n3.查本案就農業發展條例第18條與農業用地興建農舍辦法第3條所定「申請興建農舍之申請人應為無自用農舍之農民」之立法意旨觀諸，似有未合。惟查本案如其另1棟農舍確屬農業用地興建農舍辦法施行前已核准使用執照者，貴部擬基於法律不溯及既往與信賴保護原則，個案同意其申辦建物（農舍）保存登記，本會無意見，惟涉及農舍造冊列管及登記簿註記事宜，請依據「農業用地興建農舍辦法」第9條規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970150555號|有關已有農舍之申請人得否再依農業用地興建農舍辦法頒行前核准之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "891d31103a6927d656593aa6a72084ec8fdc772ab790673f2357cb7281620dd0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "7年9月5日內授中辦地字第0970048837號函。\n2.依農業發展條例第18條及農業用地興建農舍辦法之規定,申請興建農舍之申請人應為農民,且須符合無自用農舍等"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "符合立法意旨,合先說明。\n3.查本案就農業發展條例第18條與農業用地興建農舍辦法第3條所定「申請興建農舍之申請人應為無自用農舍之農民」之立法意旨觀諸,似有未合。惟查本"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "登記,本會無意見,惟涉及農舍造冊列管及登記簿註記事宜,請依據「農業用地興建農舍辦法」第9條規定辦理。"
+  }
+ ]
+}

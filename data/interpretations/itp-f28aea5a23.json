@@ -1,0 +1,58 @@
+{
+ "id": "itp-f28aea5a23",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050241586號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關宜蘭縣礁溪○○○地號非都市土地特定農業區農牧用地興建農舍一案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下行政院105年10月25日院臺建移字第1050094808 號函暨您105年10月12日函副本辦理。\n二、查農業用地興建農舍辦法第8條第3項：「農舍用地面積為法定基層建築面積，且為農舍與農舍附屬設施之水平投影面積用地總和；農業經營用地面積為申請興建農舍之農業用地扣除農舍用地之面積。」，同辦法第9條第2項第3款規定：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，合先敘明。\n三、基於上開規定，已興建農舍之農業用地，扣除農舍用地面積後，供農業生產使用之農業經營用地應積極作農業使用，其面積不得低於該農業用地面積90％，如已興建農舍之農業用地未符合規定，地方政府得依法辦理相關行政作為及裁處事宜。\n四、另查旨揭案件，宜蘭縣政府已於105年11月2日辦理現場實地會勘，並請○○○您到場導勘並說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050241586號|有關宜蘭縣礁溪○○○地號非都市土地特定農業區農牧用地興建農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "122c4473c332ed434747f1e0fc06ca113be53e9c22476784dee4160666cffcce",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "94808 號函暨您105年10月12日函副本辦理。\n二、查農業用地興建農舍辦法第8條第3項:「農舍用地面積為法定基層建築面積,且為農舍與農舍附屬設施之水平投影面積用"
+  }
+ ]
+}

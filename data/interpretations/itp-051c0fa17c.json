@@ -1,0 +1,70 @@
+{
+ "id": "itp-051c0fa17c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930156485號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關位於非都市土地之農業用地上已興建農舍者，得否於該農地上再行申請興建農業設施乙案，復如說明，請查照。",
+ "content": "一、依內政部93年11月23日內授中辦地字第0930726160號函辦理，兼復貴府93年10月18日府農企字第0930273217號函。\n二、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」因此，農業用地申請興建農舍或農業設施，均需與農業生產或農業使用相關。而本案經詢內政部並以首揭號函（如附）表示略以：「．．．『農舍』為與農業經營不可分離之設施物，其基地仍屬農業用地。本案．．．倘該設施與農舍興建、管理有關法令規定並無牴觸，並符合『農業用地容許作農業設施使用審查辦法』規定屬農業生產經營所需者，原則上與農牧用地係供農牧生產及其設施使用之性質及管制旨意尚無相違，惟目的事業主管機關應確實依原核定計畫之容許使用項目管制使用。」是以，有關農業用地上已興建農舍者，其再申請施設農業設施，應就農業設施與農業生產經營之必要性及其功能、用途是否與農舍重疊等情形，依據「農業用地容許作農業設施使用審查辦法」等相關規定，視個案實務及事實由縣（市）政府本於職權審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930156485號|有關位於非都市土地之農業用地上已興建農舍者得否於該農地上再行"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a0aba3875c35a35d1ebecaf3d5b5d47f050a63118b2e4c2a11cb52d41918dc54",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "3年10月18日府農企字第0930273217號函。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "案...倘該設施與農舍興建、管理有關法令規定並無牴觸,並符合『農業用地容許作農業設施使用審查辦法』規定屬農業生產經營所需者,原則上與農牧用地係供農牧生產及其設施使用之性質及管制旨"
+  }
+ ]
+}

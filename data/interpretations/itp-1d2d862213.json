@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5479",
    "serial": null,
-   "fetched_at": "2026-10-30T09:58:53+08:00",
+   "fetched_at": "2026-10-30T11:26:06+08:00",
    "source_key": "rmis:5479"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1060219470號|釋特定農業區農業用地變更回饋金加成20%應訂定要點公開周知據"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": "6",
    "kind": "extracted",
    "snippet": "加成20%應訂定要點公開周知據以執行\n主旨:有關貴府再次函詢「農業用地變更回饋金撥繳及分配利用辦法」第6條規定,得否調增20%繳交比率之計算疑義案,復請查照。\n說明:\n一、復貴府106年"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

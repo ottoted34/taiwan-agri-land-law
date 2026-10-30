@@ -1,0 +1,68 @@
+{
+ "id": "itp-36637b3d39",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070241967號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「廢止興建農舍經營計畫書格式」一案。",
+ "content": "一、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n二、依據農業發展條例(以下簡稱本條例)第18條規定，興建農舍應不影響農業生產環境及農村發展，其農業用地應確供農業使用。且本條例第18條第5項授權內政部會同中央主管機關訂定興建農舍之農民資格、申請程序、條件、興建方式及其他應遵行事項之辦法，爰內政部會同本會訂定農業用地興建農舍辦法(以下簡稱本辦法)。查本辦法第2條第2項規定:「前項第5款規定確供農業使用與不影響農業生產環境及農村發展之認定，由申請人檢附依中央主管機關訂定之經營計畫書格式，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣（市）主管機關審查。」，爰本會依該條規定訂定經營計畫書格式，供直轄市、縣(市)政府據以審認確供農業使用與不影響農業生產環境及農村發展等事項，避免農地破碎化，以維持90%農業經營用地面積之完整性。\n三、為符合本條例之立法意旨，前開經營計畫書格式經本會104年10月21日農水保字第1041866479號函發布，其中並載明農舍應「臨界、臨路」興建之規定，且依監察院調查報告意見(四)亦指該規定具有達到杜絕農舍炒作及避免興建農舍影響農業生產環境之目的，尚非就其法效之質疑，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070241967號|廢止興建農舍經營計畫書格式一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "24774b0698ab5c5a307215fab83f86a4dbe26d3279062dae81afa1ce1729df1e",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n二、依據農業發展條例(以下簡稱本條例)第18條規定,興建農舍應不影響農業生產環境及農村發展,其農業用"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、條件、興建方式及其他應遵行事項之辦法,爰內政部會同本會訂定農業用地興建農舍辦法(以下簡稱本辦法)。查本辦法第2條第2項規定:「前項第5款規定確供農業使用與不影"
+  }
+ ]
+}

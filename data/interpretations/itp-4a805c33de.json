@@ -1,0 +1,71 @@
+{
+ "id": "itp-4a805c33de",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920108240號",
+ "date": "2003-02-17",
+ "date_text": "92年2月17日農企字第0920108240號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "053 釋農業發展條例及相關配套法案於89年1月26日修正施行前，以多筆農地合併興建農舍，配合耕地已移轉他人，該農舍及其坐落之農地併同移轉案",
+ "content": "一、查所稱作為配合計算興建農舍基地面積之耕地，應係指民國89年1月26日農業發展條例修正公布施行前，允許多筆耕地合併計算基地面積，而申請興建農舍於其中一筆耕地者而言，先予敘明。\n二、又農業發展條例第37條及第38條有關作農業使用之農業用地得有賦稅減免優惠之規定，應係指該筆擬辦理所有權移轉登記之土地而言；又同條例第18條第4項所稱已申請興建農舍之農業用地不得重複申請，應包括配合計算基地面積之耕地，併予敘明。\n三、綜此，旨揭配合計算興建農舍基地面積之耕地，如符合農業使用認定基準，應依規定核發農業用地作農業使用證明書，惟尚應依農業用地興建農舍辦法第9條之規定辦理標示、列管及註記，始符法制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920108240號|釋農業發展條例及相關配套法案於89年1月26日修正施行前以多"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-68e0235fde",
+    "by_docno": "農企字第1120012752號",
+    "by_date": "2023-06-08",
+    "kind": "cease",
+    "phrase": "五、本會91年4月17日農企字第0910010047號函、92年2月17日農企字第0920108240號函、93年5月12日農企字第0930122644號函、96年5月9日農企字第0960124685號函、98年11月25日農企字第0980173390號函,以及與前開意旨未符之相關函釋,自即日停止適用"
+   }
+  ]
+ },
+ "content_hash": "0cd139477fa450ecd60663d9f8a89e4569fdac3d58a8ee2d80196ebdff4c9070",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "面積,而申請興建農舍於其中一筆耕地者而言,先予敘明。\n二、又農業發展條例第37條及第38條有關作農業使用之農業用地得有賦稅減免優惠之規定,應係指該筆擬辦理所有權"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "使用認定基準,應依規定核發農業用地作農業使用證明書,惟尚應依農業用地興建農舍辦法第9條之規定辦理標示、列管及註記,始符法制。"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-2eea1ab116",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842864號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴府函詢○○○申請貴轄草屯鎮○○○地號等1筆土地興建農舍案，復如說明，請查照。",
+ "content": "一、復 貴府98年6月8日府建管字第09800943290號函。 二、共有農業用地興建農舍，悉依本會96年3月14日農授水保字第0961848173號函送之「共有農業用地申請興建農舍之處理原則」辦理（正本諒達），合先說明。 三、農業發展條例修正施行前取得共有農業用地，修正施行後又取得部分共有農業用地並辦分割為單筆土地，其申請興建農舍之條件與權利規模已變更，申請興建農舍應依「農業用地興建農舍辦法」第3條第1項相關規定辦理。 四、本案○○○所有草屯鎮○○○地號等1筆土地申請興建農舍，係屬個案，請本於權責按上述原則依事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842864號|有關貴府函詢○○○申請貴轄草屯鎮○○○地號等1筆土地興建農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "86f8e998b77b28af19f72dd8cfac9d90e2a272a4c6a7f1e42839d195340cf16f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地申請興建農舍之處理原則」辦理(正本諒達),合先說明。 三、農業發展條例修正施行前取得共有農業用地,修正施行後又取得部分共有農業用地並辦分割為單筆土地,"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "土地,其申請興建農舍之條件與權利規模已變更,申請興建農舍應依「農業用地興建農舍辦法」第3條第1項相關規定辦理。 四、本案○○○所有草屯鎮○○○地號等1筆土地申請興建農舍,"
+  }
+ ]
+}

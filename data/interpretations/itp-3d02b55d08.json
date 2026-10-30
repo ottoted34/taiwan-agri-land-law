@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5958",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:14+08:00",
+   "fetched_at": "2026-10-30T11:15:27+08:00",
    "source_key": "rmis:5958"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1140715553號|有關貴所函詢承租國有土地分管範圍擬補辦農業設施集貨場容許使用"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "6",
    "kind": "extracted",
    "snippet": "又整筆農業用地有違反其他土地使用管制相關法令規定之情形,應依申請農業用地作農業設施容許使用審查辦法第6條第1項第9款規定予以核處。查貴所案附之財政部國有財產署北區分署113年8月9日函"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

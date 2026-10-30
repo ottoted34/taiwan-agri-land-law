@@ -1,0 +1,65 @@
+{
+ "id": "itp-178c4a7b77",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931848789號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端擬在已核發經營許可證之休閒農場內，申請興建農舍以作為民宿使用，是否須依「農業用地興建農舍辦法」規定申請案，復請查照。",
+ "content": "一、復 台端93年7月6日函。\n二、休閒農場之經營，應依「休閒農業輔導管理辦法」規定申請籌設及依規定設置相關設施；即休閒農場範圍內土地利用，應依核定之興辦事業計畫書內容辦理。\n三、在休閒農場範圍內申請興建農舍辦理民宿使用，涉及休閒農場經營計畫書之變更，依上開辦法第21條規定，應依據程序申請核准。且休閒農場設施使用與農舍興建、一般農業設施申請法令不同，其涉及設施使用事宜，應依「休閒農業輔導管理辦法」第15條、第20條及第21條相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931848789號|台端擬在已核發經營許可證之休閒農場內申請興建農舍以作為民宿使"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7f3cd2cd76e298de5c563f4c71fa663c6b6ad65ad40bcf78695a429bdd40f9f7",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "經營許可證之休閒農場內,申請興建農舍以作為民宿使用,是否須依「農業用地興建農舍辦法」規定申請案,復請查照。\n一、復 台端93年7月6日函。\n二、休閒農場之經營,應依"
+  },
+  {
+   "law_id": "M0090014",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "農舍興建、一般農業設施申請法令不同,其涉及設施使用事宜,應依「休閒農業輔導管理辦法」第15條、第20條及第21條相關規定辦理。"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-eb7afe8556",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0971843233號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關共同農地上申請人就其土地持分部分申請興建農舍，倘其他土地持分人持分部分已受債權銀行查封，則申請人出具之其他共有人同意書及分管契約是否有效案，復請查照。",
+ "content": "一、復 貴府97年2月25日府農務字第0970041818號函。\n二、強制執行法第11條規定，供強制執行之財產權，其取得、設定、喪失或變吏，依法應登記者，為強制執行時，執行法院應即通知該管登記機關登記其事由。又依同法第51條規定，實施查封後，債務人就查封物所為移轉、設定負擔或其他有礙執行效果之行為，對於債權人不生效力。爰以，不動產之查封，在於禁止債務人就查封物作移轉、設定負擔或其他有礙執行效果之行為。\n三、本案因其他持分人持分之部分農地已受債權銀行申請法院查封在案，其分管契約是否有礙執行，應依個案認定。如有礙執行，為避免已受查封之標的，處於變動狀態，建議不宜同意申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0971843233號|有關共同農地上申請人就其土地持分部分申請興建農舍倘其他土地持"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "72583eccf95a8208160895848be06815432b86cf28556bb5d383006cb7895bb5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

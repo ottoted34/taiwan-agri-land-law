@@ -1,0 +1,58 @@
+{
+ "id": "itp-ce6d7ce353",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960127758號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "政府辦理拓寬公共工程設施需要徵收土地，致農地不足0.25公頃無法申請興建農舍，是否得以徵收前農地面積申請興建農舍或另有替代方案處理案，請查照。",
+ "content": "1.復 貴府96年5月15日府工養字第0960066927號函。\n2.政府辦理公共設施需要徵收土地，已依土地徵收條例第3章徵收補償規定，給予原地主徵收補償金（地價、建築改良物、農作改良物、土地改良物等），基於公平原則，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理，不得以徵收前農地面積申請興建農舍，且目前並無替代方案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960127758號|政府辦理拓寬公共工程設施需要徵收土地致農地不足025公頃無法"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "38638808570faaf7366425743e51a0e0765a7c9238cc94d20e6974e471ccbe0a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "、農作改良物、土地改良物等),基於公平原則,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理,不得以徵收前農地面積申請興建農舍,且目前並無替代方案。"
+  }
+ ]
+}

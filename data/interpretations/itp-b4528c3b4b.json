@@ -1,0 +1,76 @@
+{
+ "id": "itp-b4528c3b4b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980175388號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○股份有限公司函詢有關原非屬農業區之土地，經都市計畫法擬定或變更為農業區，申請興建農舍是否應依「農業用地興建農舍辦法」第3條規定辦理疑義案，復請查照。",
+ "content": "1.復 貴府98年11月27日北農牧字第0981008268號函。\n2.「農業發展條例施行細則」第2條已明定農業用地之法律依據及範圍，依都市計畫法劃定為農業區、保護區內之土地，均屬農業用地範圍，合先說明。\n3.原非屬農業區之都市土地，經都市計畫法擬定或變更為農業區，按「農業發展條例」第18條規定，仍應依「農業用地興建農舍辦法」相關規定申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980175388號|○○股份有限公司函詢有關原非屬農業區之土地經都市計畫法擬定或"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b492fa4825432521913769cfaaff3c5abc63ba40970de3fbd3631978e461ca8d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○○股份有限公司函詢有關原非屬農業區之土地,經都市計畫法擬定或變更為農業區,申請興建農舍是否應依「農業用地興建農舍辦法」第3條規定辦理疑"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "之土地,經都市計畫法擬定或變更為農業區,申請興建農舍是否應依「農業用地興建農舍辦法」第3條規定辦理疑義案,復請查照。\n1.復 貴府98年11月27日北農牧字第098100"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "98年11月27日北農牧字第0981008268號函。\n2.「農業發展條例施行細則」第2條已明定農業用地之法律依據及範圍,依都市計畫法劃定為農業區、保護區內之土地,均屬農"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ".原非屬農業區之都市土地,經都市計畫法擬定或變更為農業區,按「農業發展條例」第18條規定,仍應依「農業用地興建農舍辦法」相關規定申請興建農舍。"
+  }
+ ]
+}

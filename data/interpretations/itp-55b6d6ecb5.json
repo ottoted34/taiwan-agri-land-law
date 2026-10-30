@@ -1,0 +1,93 @@
+{
+ "id": "itp-55b6d6ecb5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951843564號",
+ "date": "2006-07-12",
+ "date_text": "95年7月12日農授水保字第0951843564號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "035釋山坡地土石採取所形成之低窪地不予同意規劃供養殖使用",
+ "content": "本案涉及「水土保持計畫」部分，仍應依本會95年6月1日農授水保字第0951843363號函辦理，亦即採取土石最終採掘面之最低點，不得低於該最低點毗鄰之土地；涉及「採取土石」部分，依「非都市土地農牧用地容許採取土石審查作業要點」第2點第1項規定，土石採取案件申請容許使用，以無須回填之坡地土石為原則；涉及「供養殖使用」部分，依「農業用地容許作農業設施使用審查辦法」第8條第8款規定，申請水產養殖設施之養殖用地，如屬採取土石後遺留有坑洞者，不予同意。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951843564號|釋山坡地土石採取所形成之低窪地不予同意規劃供養殖使用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ef1038b372c31f8f2b95dc1b294dce703de8865fc9fbc205702c9bf29894b066",
+ "topics": [
+  "landfill",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "使用,以無須回填之坡地土石為原則;涉及「供養殖使用」部分,依「農業用地容許作農業設施使用審查辦法」第8條第8款規定,申請水產養殖設施之養殖用地,如屬採取土石後遺留有坑洞者,不予同意。"
+  }
+ ]
+}

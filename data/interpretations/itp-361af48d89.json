@@ -1,0 +1,59 @@
+{
+ "id": "itp-361af48d89",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990147083號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴府函詢集村農舍興建於山坡地保育區農牧用地疑義案，復如說明，請 查照。",
+ "content": "1.復 貴府99年7月8日屏府農務字第09990166421號函。\n2.依據來函說明四所述略以：「經查本案19筆土地皆為山坡地保育區之農牧用地，並非暫未編定用地…」，惟來函附件無提供相關資料佐證其皆為「農牧用地」（其亦應顯示編定時間或歷程），倘旨揭集村農舍範圍內之土地登記謄本無註明使用地類別，則需遵循本會水土保持局95年9月5日農水保字第0951851946號函說明三略以：「…暫未編定用地宜先辦理土地可利用限度查定事宜…」，依來函附件確有15筆土地未顯示「土地可利用限度類別」，倘該集村農舍範圍內之土地未註明使用地類別或土地可利用限度類別及坡度比等資料， 貴府憑何項內容或規定認其範圍可申請興建集村農舍？惠請 查明，以利續辦。\n3.依據「農業用地興建農舍辦法」第3條及第10條規定，申請興建農舍之核定與撤銷（其核定）權力係為直轄市、縣（市）主管機關，惠請 貴府依循前揭規定憑辦。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990147083號|有關貴府函詢集村農舍興建於山坡地保育區農牧用地疑義案復如說明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a13ba94706c73ae654f1f7e5452bb192b0817bf4e67100539fcee0e358d6111a",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "認其範圍可申請興建集村農舍?惠請 查明,以利續辦。\n3.依據「農業用地興建農舍辦法」第3條及第10條規定,申請興建農舍之核定與撤銷(其核定)權力係為直轄市、縣(市)主管機"
+  }
+ ]
+}

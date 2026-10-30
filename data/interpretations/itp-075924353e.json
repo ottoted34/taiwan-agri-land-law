@@ -1,0 +1,58 @@
+{
+ "id": "itp-075924353e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990179601號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴府函詢都市計畫保護區集村興建農舍疑義案，復請 查照。",
+ "content": "1.復 貴府99年11月24日府農管字第0990467594號函。\n2.查本會農授水保字第0981842702號函釋：「...供農業生產之農業用地分散於農舍建築基地之前及中間，似有違應為完整區塊，可供農業生產使用意涵。」係就嘉義市政府卷附之地籍套繪圖所為之個案解釋，個案之建築配置均有所不同，不宜比附援引。有關集村興建農舍個案審查，依據「農業用地興建農舍辦法」第3條第2項：「直轄市、縣 (市) 政府為辦理前項申請興建農舍之核定作業，得由農業單位邀集環境保護、建築管理、地政、都市計畫等單位組成審查小組。」係屬貴府權責，個案認定上須依同辦法第8條規定及原則辦理。\n3.至本案位於都市計畫保護區內乙節，按都市計畫保護區係為國土保安、水土保持、維護天然資源與保護環境及生態功能而劃定，如做為集村興建農舍者，是否有違劃設目的，宜洽詢都市計畫主管機關意見。\n4.另檢附集村興建農舍基層建築面積之計算標準乙份供貴府檢算面積比例是否正確。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990179601號|有關貴府函詢都市計畫保護區集村興建農舍疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "aaf70dc62614d166adb05adb5f567ef8a21d8b76423ff0443db49edab1135a7e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "配置均有所不同,不宜比附援引。有關集村興建農舍個案審查,依據「農業用地興建農舍辦法」第3條第2項:「直轄市、縣 (市) 政府為辦理前項申請興建農舍之核定作業,得由農業單位"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5449",
    "serial": null,
-   "fetched_at": "2026-10-30T10:03:58+08:00",
+   "fetched_at": "2026-10-30T11:31:10+08:00",
    "source_key": "rmis:5449"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第1040221643號|申請農業設施容許使用審查辦法農糧署解釋函"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,29 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "13",
     "amended_on": "2017-06-28",
-    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "history": "中華民國一百零六年六月二十八日行政院農業委員會農企字第 1060012754A 號令修正發布第 6、23、27～30、32、33 條條文及第 13 條條文之附表一、第 16 條條文之附表二、第 21 條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2022-10-26",
+    "history": "中華民國一百十一年十月二十六日行政院農業委員會農企字第 1110013671 號令修正發布第 13 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
     "relation_kind": "extracted"
    }
   ]
@@ -47,16 +71,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "13",
    "kind": "extracted",
    "snippet": "查辦法-農糧署解釋函\n主旨:有關貴府函詢油條之製作,是否屬於申請農業用地作農業設施容許使用審查辦法第13條第1項第3款所定農產運銷加工設施範疇案,復請查照。\n說明:\n一、復貴府104年6"
+  },
+  {
+   "law_id": "D0070031",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "4年6月6日屏府農企字第10417917600號函。\n二、查區域計畫法施行細則第15條第1項第5款規定,農牧用地係供農牧生產及其設施使用。次查申請農業用地作農業設施容"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3756",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:39+08:00",
+   "fetched_at": "2026-10-30T11:38:42+08:00",
    "source_key": "rmis:3756"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1021824409號|有關宜蘭縣政府所詢農業用地興建農舍辦法102年7月3日修正生"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -50,22 +56,42 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "有關宜蘭縣政府所詢農業用地興建農舍辦法102年7月3日修正生效後相關執行疑義一案,復請查照。\n一、復貴署102年10月"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "A0030055",
+   "article": "34",
+   "kind": "extracted",
+   "snippet": "2年10月16日營署綜字第1020065579號函。\n二、按行政程序法第34條規定:「行政程序之開始,由行政機關依職權定之。但依本法或其他法規之規定有開始行政"
+  },
+  {
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "閱覽,確認其內容無誤後由其簽名或蓋章。」,先予敘明。\n三、查農業發展條例第18條第3項規定略以:「本條例中華民國89年1月4日修正施行前取得農業用地,‧‧‧,得"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月4日修正施行前取得農業用地,‧‧‧,得依相關土地使用管制及建築法令規定,申請興建農舍。」,又農業用地興建農舍辦法修正前第2條規定略以:「依本條例"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",並符合第3條第1項第4款及第5款規定,其申請興建農舍,得依都市計畫法省(市)施行細則‧‧‧及其他相關法令規定辦理,‧‧‧。」準此,申請興建農舍應以當"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

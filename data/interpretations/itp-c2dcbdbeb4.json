@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5641",
    "serial": null,
-   "fetched_at": "2026-10-30T09:52:46+08:00",
+   "fetched_at": "2026-10-30T11:19:58+08:00",
    "source_key": "rmis:5641"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1090724262號|本會公告之不利農業經營農業用地申請免與農業經營使用相結合之綠"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "09年8月25日府農村字第1090188206號函。\n二、按非都市土地使用管制規則(以下簡稱管制規則)第6條附表1規定,農牧用地得經目的事業主管機關、使用地主管機"
+  },
+  {
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "屬非農業使用性質,且整筆農業用地不得認定為作農業使用,惟考量申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第30條所定之綠能設施係免與農業經營使用相結合者,故屬容許辦"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

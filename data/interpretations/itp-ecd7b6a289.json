@@ -1,0 +1,59 @@
+{
+ "id": "itp-ecd7b6a289",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951852309號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢農業用地上正興建農舍，尚未取得使用執照，起造人得否檢附建築執照申請農業使用證明，辦理買賣移轉登記，及集村興建農舍變更起造人疑義案，復請查照。",
+ "content": "一、復 台端95年9月20日申請書。\n二、查農業用地容許興建農舍係為協助實際從事農業經營農民，解決所需之居住問題，故僅申請興建農舍尚未完工即擬辦理農業用地及農舍所有權之買賣移轉，似已偏離農舍興建之政策目的。且農業用地是否作農業使用之審核事項，該農業用地倘有申請興建農舍，應檢具農舍之使用執照，並現場會勘無違規使用情事者，始符合作農業使用之認定。因此，已申請興建農舍之農業用地，辦理土地買賣移轉者，申請農業用地作農業使用證明書時，仍應檢附該農舍之使用執照，以供審查。\n三、以集村方式申請興建農舍，在未取得使用執照前擬變更起造人，其全部起造人之農民資格條件，應以重新方式辦理。另已依「農業用地興建農舍辦法」相關規定申請以集村方式興建農舍，經建築主管機關核發建造執照，且已動工興建之集村興建農舍坐落建築基地，如因變更起造人而申請核發農業使用證明書部分，得就興建面積是否符合建築配置圖所載面積為審查核發依據。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951852309號|台端函詢農業用地上正興建農舍尚未取得使用執照起造人得否檢附建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6c2abf5677b13c22311424dbdd565d75ba3515b9e4f3fe31a8f75f53b5cc8d11",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "起造人,其全部起造人之農民資格條件,應以重新方式辦理。另已依「農業用地興建農舍辦法」相關規定申請以集村方式興建農舍,經建築主管機關核發建造執照,且已動工興建之集村興"
+  }
+ ]
+}

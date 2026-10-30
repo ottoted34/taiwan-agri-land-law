@@ -1,0 +1,76 @@
+{
+ "id": "itp-7c035ec8e2",
+ "doc_class": "interpretation",
+ "docno": "農企字第890143024號",
+ "date": "2000-08-31",
+ "date_text": "89/8/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "010 釋經政府公告徵收禁止移轉之土地，得申請核發農業用地作農業使用證明案",
+ "content": "查農業用地作農業使用證明僅係查明該申請農業用地係作農業使用，俾供辦理申請興建自用農舍、耕地移轉登記以及申請稅賦減免之用，土地所有權人或權利關係人如有必要，自得依規定申請，並無限制申請之規定，且是否得以移轉或免稅，非農業單位所能考量。故本案申請人如擬申請，仍應受理，惟宜將該證明之用途告知，以利當事人自行判斷。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4881",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:09+08:00",
+   "source_key": "rmis:4881"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890143024號|釋經政府公告徵收禁止移轉之土地得申請核發農業用地作農業使用證"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5d19468d94d24cfc7001ebf184fbc15e65d97f68a885cefb00c9d86afb4c17ac",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

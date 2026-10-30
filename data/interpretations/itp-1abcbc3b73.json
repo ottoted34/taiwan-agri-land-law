@@ -1,0 +1,59 @@
+{
+ "id": "itp-1abcbc3b73",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930132447號",
+ "date": "2004-07-12",
+ "date_text": "93年7月12日農企字第0930132447號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "查「不動產物權，依法律行為而取得、設定、喪失及變更者，非經登記，不生效力。」、「因繼承、強制執行、公用徵收或法院之判決，於登記前已取得不動產物權者，非經登記不得處分其物權。」分別為民法第758條及第759條所明定。有關共有農業用地部分共有人之應有持份部分移轉與第三人，自應依法辦理不動產物權變更登記，始生效力。至前土地共有人間所訂定之分管契約書對於受讓人縱使具有拘束力，但當事人既已變更，該分管契約書自應隨同辦理當事人變更，始符名實。準此，共有農業用地之共有人申請農業用地作農業使用證明書，如需檢附分管契約書時，仍應以土地登記簿所載之共有人所簽署之分管契約書為準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930132447號|釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "bee312a86b76897ba7ee39c684b38d07ead1584ab4707d8c5e2a5fc546582516",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

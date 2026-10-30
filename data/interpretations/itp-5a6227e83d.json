@@ -1,0 +1,66 @@
+{
+ "id": "itp-5a6227e83d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061830181號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「特定農業區農地開發問題」一案",
+ "content": "一、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍，先予敘明。\n二、以農業發展條例89年修正後取得之農業用地申請興建農舍，農地面積不得小於0.25公頃之面積標準，係以往政府從事農地重劃時規劃標準農地坵塊之主要考量，且從臺灣農家經濟調查報告及農業所得資料等計算耕耘機作業效率結果，0.25公頃亦為一較理想之農業經營面積，故對新加入農業生產者，要求擁有必要之農業經營面積，始可申請興建農舍，俾減少農業環境之破壞，係維持優良農業生產環境之必要措施。\n三、農業發展條例89年修正施行後，買賣農地及農舍不限制須有農民身分，雖允許無自用農舍之農民得於自有農業用地上興建農舍，惟農舍起造人仍應實際從事農業生產。\n四、如有申請興建農舍需求，請依「農業用地興建農舍辦法」規定，檢具相關書件，送所在地直轄市、縣（市）主管機關申請辦理。惟農舍之個案審查係屬直轄市、縣(市)政府權責，如有疑義，請就近向所在地地方政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061830181號|特定農業區農地開發問題一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4dce51af017a52ffbb926c907c9e2c5623af0582fbd684a7a500a8ac0bbc28ae",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "特許之行為,並非擁有農業用地即可興建農舍,先予敘明。\n二、以農業發展條例89年修正後取得之農業用地申請興建農舍,農地面積不得小於0.25公頃之面積標準,"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "起造人仍應實際從事農業生產。\n四、如有申請興建農舍需求,請依「農業用地興建農舍辦法」規定,檢具相關書件,送所在地直轄市、縣(市)主管機關申請辦理。惟農舍之個案審查係"
+  }
+ ]
+}

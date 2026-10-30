@@ -1,0 +1,73 @@
+{
+ "id": "itp-8c3428b28f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080220198號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢農業用地上既存農舍擬以檢附既有農舍拆除執照，視同無自用農舍證明之疑義案，復如說明，請查照。",
+ "content": "一、復貴府108年5月14日府農務字第1080077891號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、復查農業發展條例第18條及農業用地興建農舍辦法(以下簡稱本辦法)第2條、第3條規定，興建農舍申請人應為無自用農舍者，其立法意旨係為避免同一人擁有多棟農舍之情事，併予敘明。\n四、依建築法第9條規定，將原建築物全部拆除而重行建築者，係屬新建，故農舍興建完成後申請拆除重建，其申請人資格應符合本辦法第2條、第3條及第3條之1相關規定，申請人於農舍拆除程序完成前，其名下仍有農舍，提出申請興建農舍，與現行規定不符。\n五、至有關貴府來函所述申請興建農舍之該筆農業用地已有農舍，是否得檢附既有農舍拆除執照以視同無自用農舍一節，農舍申請人雖檢附農舍拆除執照，惟申請人後續是否踐行農舍拆除程序仍屬未定，卻可能造成一人擁有多棟農舍之情形，進而衍生農舍管理及查核困擾，故不應以既有農舍拆除執照視同申請人已無自用農舍，請貴府依上揭原則辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1080220198號|有關貴府函詢農業用地上既存農舍擬以檢附既有農舍拆除執照視同無"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d7cbbeb50e05bbf026172cceab4c5d80944d50bc0778aa46c4e9ebb87c7ca932",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n三、復查農業發展條例第18條及農業用地興建農舍辦法(以下簡稱本辦法)第2條、第3條規定,興建農舍申請人應為無"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用地即可興建農舍,先予敘明。\n三、復查農業發展條例第18條及農業用地興建農舍辦法(以下簡稱本辦法)第2條、第3條規定,興建農舍申請人應為無自用農舍者,其立法意旨"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "立法意旨係為避免同一人擁有多棟農舍之情事,併予敘明。\n四、依建築法第9條規定,將原建築物全部拆除而重行建築者,係屬新建,故農舍興建完成後申請拆除重建,其"
+  }
+ ]
+}

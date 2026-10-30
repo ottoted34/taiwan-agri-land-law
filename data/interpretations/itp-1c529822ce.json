@@ -1,0 +1,58 @@
+{
+ "id": "itp-1c529822ce",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1060217619號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府建議申請興建農舍須檢附農舍放流水搭排許可相關規定執行，復如說明，請查照。",
+ "content": "一、依據貴府農業局106年5月9日新北農牧字第1060881951號函辦理。\n二、依據本會106年1月26日第一次修訂之農業灌溉水質保護方案，規劃於第三階段(暫訂110年起)針對重金屬高汙染潛勢圳路灌排兼用渠道之生活用水(包含農舍)搭排戶進行搭排管制，先予敘明。\n三、有關貴府農業局就農舍放流水於符合水質標準下，可否於基地內自行處理之建議，本會將納入未來修法時參考。目前有關放流水搭排仍應依據農業用地興建農舍辦法第9條規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1060217619號|有關貴府建議申請興建農舍須檢附農舍放流水搭排許可相關規定執行"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9e26b55bbb4f9274e47be26b2ff323207b5bf4613b7b46dc2f809170d0211f8c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "之建議,本會將納入未來修法時參考。目前有關放流水搭排仍應依據農業用地興建農舍辦法第9條規定辦理。"
+  }
+ ]
+}

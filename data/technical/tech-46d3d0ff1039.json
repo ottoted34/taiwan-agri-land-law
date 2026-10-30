@@ -1,0 +1,39 @@
+{
+ "id": "tech-46d3d0ff1039",
+ "source_key": "datamoa:809:597fdffc40b9d27b",
+ "title": "研究彙報",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "楊雅淨 \n傅仰人",
+ "date": "2015-12",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "78",
+  "出版日期": "104年12月",
+  "內容": "長壽花品種桃園3號-紅妃及桃園4號-橘兒之育成",
+  "作者": "楊雅淨 \n傅仰人 ",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19305&file_name=T45xzL1IH5CyEzRMcfMVM7JIJWGSlashWgXLzKMkUgWGEqualWGEqualMk7Wte8Au9kWGPlusKsVkFitsSdV8lCnyrs2yUEWlPZ5OdROKRB35hH"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T11:57:45+08:00"
+  }
+ ],
+ "content_hash": "a2382a1e580274b5ef94a15aa93c7aeacd5e3ee86e3458c939be69eb8867fb63",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

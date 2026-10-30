@@ -1,0 +1,66 @@
+{
+ "id": "itp-38765408db",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031816374號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "新竹縣竹東都市計保護區可以建農舍嗎?",
+ "content": "一、有關申請興建農舍，須依農業發展條例及農業用地興建農舍辦法相關規定辦理，至於台端所提都市計畫保護區得否申請興建農舍，其須為都市計畫發布實施前，原有依法實際供農作、養殖、畜牧生產且未停止其使用者，始得申請。\n二、至於您所詢問之問題涉及個案認定，仍須由地方政府審認，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031816374號|新竹縣竹東都市計保護區可以建農舍嗎?"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5770a673eafc6c2c353ac3843d6c2585fcb38d08df7500919af85d6d56620dfb",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "縣竹東都市計保護區可以建農舍嗎?\n一、有關申請興建農舍,須依農業發展條例及農業用地興建農舍辦法相關規定辦理,至於台端所提都市計畫保護區得否申請興建農舍,"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "護區可以建農舍嗎?\n一、有關申請興建農舍,須依農業發展條例及農業用地興建農舍辦法相關規定辦理,至於台端所提都市計畫保護區得否申請興建農舍,其須為都市計畫發布實施"
+  }
+ ]
+}

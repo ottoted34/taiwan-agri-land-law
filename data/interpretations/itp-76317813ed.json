@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3848",
    "serial": null,
-   "fetched_at": "2026-10-30T10:07:56+08:00",
+   "fetched_at": "2026-10-30T11:35:09+08:00",
    "source_key": "rmis:3848"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1030026019號|有關貴府所詢農業用地興建農舍辦法第4條徵收土地為都市計畫範圍"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "4",
     "amended_on": "2015-09-04",
@@ -58,22 +64,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "4",
    "kind": "extracted",
    "snippet": "有關貴府所詢農業用地興建農舍辦法第4條徵收土地為都市計畫範圍之審查疑義,復請 查照。\n一、復貴府103年4月23日府農"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "協議價購方式讓售與需地機關。...」係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興辦公共事業,爰訂有相關依"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

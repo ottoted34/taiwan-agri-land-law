@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6017",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:19+08:00",
+   "fetched_at": "2026-10-30T11:15:31+08:00",
    "source_key": "rmis:6017"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1142607916號|有關貴局函詢已興建農舍之農業用地部分申請變更使用預為分割面積"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,13 +45,13 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "農業用地之剩餘農業經營面積仍維持90%以上者,得予同意;惟屬農業發展條例89年1月28日修正生效後取得之農業用地興建農舍,該筆農業用地面積仍應達0.25"
@@ -55,6 +61,14 @@
    "article": null,
    "kind": "extracted",
    "snippet": "用地面積仍應達0.25公頃以上,方同意變更使用。\n二、又依據「農業主管機關同意農業用地變更使用審查作業要點」(下稱農變要點)第5點規定,農業用地變更使用,應避免影響農業生產環境之完整,如有"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地違反土地使用管制相關法令之情事,則應請地政主管機關依區域計畫法相關規定辦理,如仍未改善,該違規狀態持續存在,則建議仍應持續列管查處為妥。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

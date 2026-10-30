@@ -1,0 +1,58 @@
+{
+ "id": "itp-a126d803dc",
+ "doc_class": "interpretation",
+ "docno": "府農務字第1040120735號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "檢送農業用地興建農舍辦法部份條文修正座談會議紀錄1份，請查照。",
+ "content": "旨揭座談會反應事項，敬請行政院農業委員會於研修條文時納入評估，以維護農民權益及有效管理農地。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:府農務字第1040120735號|檢送農業用地興建農舍辦法部份條文修正座談會議紀錄1份請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e2f6a9ce7b3762c96eb572af697d7e9bdcd5b9b57720894abbb179bd646aa91f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "檢送農業用地興建農舍辦法部份條文修正座談會議紀錄1份,請查照。\n旨揭座談會反應事項,敬請行政院農業委員會"
+  }
+ ]
+}

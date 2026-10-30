@@ -1,0 +1,97 @@
+{
+ "id": "itp-c3ecaacd1c",
+ "doc_class": "interpretation",
+ "docno": "農企字第900116518號",
+ "date": "2001-04-03",
+ "date_text": "90/4/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋都市計畫範圍內農業用地變更使用回饋金之計算方式（一）",
+ "content": "一、依據農業發展條例第十二條規定意旨，農業用地之變更，應視其事業性質，繳交回饋金，本會依據上開規定，訂頒「農業用地變更回饋金撥繳及分配利用辦法」，就農業用地變更使用時，應繳交回饋金之情況標準予以規範。因各種變更情況不同，適用之回饋標準亦不一致。民眾申請農業用地變更使用，除有免繳交回饋金者外，應依其變更使用情況繳交，而非自行選擇辦理。\n二、至所稱可建築使用面積，係以申請變更案核定時之土地使用計畫配置圖為計算標準，並由核准興辦事業計畫之主管機關核計之。目的事業主管機關未能核定或未提供核定可建築使用面積者，由農業主管機關以變更使用後之用地之建蔽率乘以變更面積之乘積計算之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5208",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:35+08:00",
+   "source_key": "rmis:5208"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900116518號|釋都市計畫範圍內農業用地變更使用回饋金之計算方式一"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "12",
+    "amended_on": "2002-01-30",
+    "history": "中華民國九十一年一月三十日總統（91）華總一義字第 09100019010號令修正公布第 12、18、25、71 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "1f07182c8ddfedfd38859f86f661b73f21841761f4e42324adedb3240dd46ab9",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "市計畫範圍內農業用地變更使用回饋金之計算方式(一)\n一、依據農業發展條例第十二條規定意旨,農業用地之變更,應視其事業性質,繳交回饋金,本會依據上開規定,訂頒「農"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地之變更,應視其事業性質,繳交回饋金,本會依據上開規定,訂頒「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地變更使用時,應繳交回饋金之情況標準予以規範。因各種變更情況不同,適用"
+  }
+ ]
+}

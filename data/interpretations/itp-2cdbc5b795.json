@@ -1,0 +1,72 @@
+{
+ "id": "itp-2cdbc5b795",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950131969號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關行水區內未登錄地，是否得逕為認定非屬農業用地範疇，得免繳農業用地變更使用回饋金之疑義案。",
+ "content": "主旨：有關 貴府函詢行水區內未登錄地，是否得逕為認定非屬農業用地範疇，得免繳農業用地變更使用回饋金之疑義案，復請 查照。\n說明：\n一、復 貴府95年6月9日北府農牧字第0950409067號函。\n二、依農業發展條例第10條及第12條規定，農業用地於劃定或變更為非農業使用時，應視其事業性質，繳交回饋金，本會並據以訂定「農業用地變更回饋金撥繳及分配利用辦法」，就農業用地應繳交回饋金之情況標準與作業方式予以規範。按農業發展條例施行細則第2條對於農業用地之法律依據及範圍已有明定，本案未登錄地屬未依法劃定使用分區及編定用地別之土地，宜請 貴府地政單位確認土地使用管制或辦理土地編定及地號登錄等有關事宜，如有涉及農業用地範疇且變更為非農業使用者，則依上開辦法規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950131969號|有關行水區內未登錄地是否得逕為認定非屬農業用地範疇得免繳農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "49bbca522106bf9c790fc041323779240f2c8a383c183e53acd44bdeffad518e",
+ "topics": [
+  "facility_use",
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "95年6月9日北府農牧字第0950409067號函。\n二、依農業發展條例第10條及第12條規定,農業用地於劃定或變更為非農業使用時,應視其事業性質,繳交回饋金,"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "更為非農業使用時,應視其事業性質,繳交回饋金,本會並據以訂定「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交回饋金之情況標準與作業方式予以規範。按農業發展條例施行細則第2"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "法」,就農業用地應繳交回饋金之情況標準與作業方式予以規範。按農業發展條例施行細則第2條對於農業用地之法律依據及範圍已有明定,本案未登錄地屬未依法劃定使用分區及編定用地"
+  }
+ ]
+}

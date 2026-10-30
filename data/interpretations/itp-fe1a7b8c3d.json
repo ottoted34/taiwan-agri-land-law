@@ -1,0 +1,52 @@
+{
+ "id": "itp-fe1a7b8c3d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842097號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍與坐落用地併同移轉時，承受人無法檢具房屋財產歸戶查詢清單所列房屋使用執照影本之替代方式案，請查照。",
+ "content": "一、依據 貴部98年1月17日內授中辦地字第0980723620號函辦理。\n二、「無自用農舍」之審查，需由申請人檢具(一)稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單(二)申請人房屋財產歸戶查詢清單之所有房屋使用執照影本(三)申請人切結無自用農舍文件等3項文件，由農業單位會同建管單位審查。另「實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定該房屋為農舍」，合先說明。\n三、依貴部來函說明二（一）申請人之房屋財產歸戶查詢清單所列房屋已辦理建物所有權第一次登記者，無論其為實施建築管理前或後興建之建物，地政機關得逕依地籍資料查知該房屋之主要用途為非農舍者，當事人無須再行檢附使用執照影本，本會無意見。惟說明二（二）申請人之房屋財產清單所列房屋未辦理建物所有權第一次登記，且屬實施建築管理前興建者，以房屋所在農政單位開立之「無自用農舍證明書」代替辦理……乙節，建議仍宜由地政機關依地籍資料查知該房屋之主要用途是否為非農舍。如地政機關仍無法查知，仍宜維持「實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定該房屋為農舍」之認定原則，不宜以房屋所在農政單位開立之「無自用農舍證明書」替代辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842097號|農舍與坐落用地併同移轉時承受人無法檢具房屋財產歸戶查詢清單所"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4d0a45e60c97817c36fb7a0b05e4c208600f251d6e40cfe87fdce19d156fd3c6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

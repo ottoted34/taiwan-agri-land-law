@@ -1,0 +1,59 @@
+{
+ "id": "itp-ea0ccd640e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031866032號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端申請於新北市樹林區○○○地號土地興建農舍之資格條件疑義案，經本會會商相關單位後釋復如說明，請查照。",
+ "content": "一、依據立法委員陳○○國會辦公室103年8月1日龜山德字第1030801001號函辦理。\n二、按行政院農業委員會102年10月25日農水保字第1021866046號令略以：「‧‧‧有關農業發展條例第18條所稱取得農業用地，應以土地登記簿所有權部認定之，除下列情形外，其取得時點以登記日期為基準：一、依民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，以原因發生日期為基準」，爰有關申請興建農舍之農業用地取得時點認定原則應依前開號令辦理。旨案依台端陳訴係於農業發展條例修正施行後以買賣方式交換持分後再辦理共有耕地分割，則依上開號令規定，已屬89年1月28日後取得之農業用地，尚不符農業發展條例第18條第3項後段規定，此本會水土保持局103年6月20日水保農字第1030219505號函復新北市政府農業局在案，有關申請興建農舍之個案事實審認，仍請洽新北市政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031866032號|有關台端申請於新北市樹林區○○○地號土地興建農舍之資格條件疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "67888fa9e63d293c2f3f17f773c3f38c8ca9aa63f44b2044c6d016e712c684f4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "月25日農水保字第1021866046號令略以:「‧‧‧有關農業發展條例第18條所稱取得農業用地,應以土地登記簿所有權部認定之,除下列情形外,其取得時點以登記日"
+  }
+ ]
+}

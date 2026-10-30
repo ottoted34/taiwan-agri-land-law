@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5611",
    "serial": null,
-   "fetched_at": "2026-10-30T09:57:32+08:00",
+   "fetched_at": "2026-10-30T11:24:45+08:00",
    "source_key": "rmis:5611"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080206279號|都市計畫農業區內之土地設置再生能源發電設備需否依容許辦法之規"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,22 +45,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "關貴局函詢都市計畫農業區內之土地設置再生能源發電設備,需否依「申請農業用地作農業設施容許使用審查辦法」之規定辦理綠能設施申請一案,復如說明,請查照。\n說明:\n一、復貴局108年2月1"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "縣(市)主管機關提出申請。\n三、至非依容許辦法申請,而係依據「都市計畫法臺灣省施行細則」(以下簡稱施行細則)第29條之1規定,於都市計畫農業區申請再生能"
+  },
+  {
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "性質,除申請程序及條件等應依施行細則等相關規定辦理外,尚應依「農業發展條例」第12條規定繳交回饋金。\n四、綜上,本案宜請貴局釐清申請人係依據上開容許辦法抑或施行細則"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

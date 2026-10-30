@@ -1,0 +1,58 @@
+{
+ "id": "itp-0ec3f28262",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990151095號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函請釋示農舍販售農藥是否符合農舍允許使用範圍案，復如說明，請 查照。",
+ "content": "1.復 貴府99年7月27日府農務字第0990234856號函。\n2.有關農舍可否販售農藥，係屬依法興建農舍後之使用行為，謹請 貴府依現行土地使用管制相關規定及內政部函釋辦理審核。\n3.另查本會水土保持局99年3月31日水保農字第0991874971號函說明二，係依農業發展條例第18條之規定意旨，揆諸農舍興建立法精神，強調「無自用農舍」而需興建者，而依社會通適認定農舍「出租」或「經營餐飲」行為已違反所謂「自用」原則，惟尚不宜逕予擴大認定所有農舍營利行為皆屬違規使用，爰本案仍請 貴府依相關法令規定及個案事實本諸權責審認核處為妥。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990151095號|貴府函請釋示農舍販售農藥是否符合農舍允許使用範圍案復如說明請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "69b65cc0713e10ce3e94e78c16c5a7e93bf191857d4b88262cdb055fd40ec7ec",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "9年3月31日水保農字第0991874971號函說明二,係依農業發展條例第18條之規定意旨,揆諸農舍興建立法精神,強調「無自用農舍」而需興建者,而依社會通適認定"
+  }
+ ]
+}

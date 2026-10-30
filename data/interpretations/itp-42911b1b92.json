@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4008",
    "serial": null,
-   "fetched_at": "2026-10-30T10:02:59+08:00",
+   "fetched_at": "2026-10-30T11:30:12+08:00",
    "source_key": "rmis:4008"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1042913397號|有關貴府函詢農業用地興建農舍辦法第15條所稱廢止許可疑義1案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,11 +46,20 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "15",
     "amended_on": "2015-09-04",
     "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0070001",
+    "law_name": "都市計畫法",
+    "article": "79",
+    "amended_on": "2021-05-26",
+    "history": "中華民國一百十年五月二十六日總統華總一義字第 11000047771 號令修正公布第 4、6、10、11、13、14、18～21、24、25、27、27-1、29、30、41、52～55、57～62、63、64、67、71、73、78、79、82、86 條條文",
     "relation_kind": "extracted"
    }
   ]
@@ -60,16 +75,42 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "15",
    "kind": "extracted",
    "snippet": "有關貴府函詢農業用地興建農舍辦法第15條所稱廢止許可疑義1案,請查照。\n一、依據行政院農業委員會水土保持局104年7月2"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",得廢止其許可。」有關農業主管單位依上開辦法廢止農民資格後,建築法並無規定應廢止該農舍使用執照之規定。至於非授予利益及授予利益之合法行政處分之廢止"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "照之規定。至於非授予利益及授予利益之合法行政處分之廢止情形,行政程序法已有明文規定,本案得否依行政程序廢止使用執照,應由貴府審酌個案事宜,依行政程序法"
+  },
+  {
+   "law_id": "D0070030",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "資格後,該農舍是否拆除部分,其違反土地使用管制規定部分,得依區域計畫法第21條處以罰鍰並限期令其變更使用、停止使用或拆除其地上物恢復原狀,或依都市計畫法第79"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "79",
+   "kind": "extracted",
+   "snippet": "罰鍰並限期令其變更使用、停止使用或拆除其地上物恢復原狀,或依都市計畫法第79條規定處以罰鍰並勒令拆除、改建、停止使用或恢復原狀。如仍未遵從者,得按次處罰並停止"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

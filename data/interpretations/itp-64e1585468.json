@@ -1,0 +1,52 @@
+{
+ "id": "itp-64e1585468",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981843430號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府執行集村興建農舍及公共設施獎勵補助作業時，發現應從事農業生產之農業用地（90%）有違規情事，是否仍應核發獎勵補助款疑義案，前經本會98年9月23日農授水保字第0981822636號函及98年10月16日農授水保字第0981843209號函提供意見在案，復請查照。",
+ "content": "復 貴府98年10月20日南市建農字第09801138540號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981843430號|有關貴府執行集村興建農舍及公共設施獎勵補助作業時發現應從事農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "459e5d874350bea95d783765bfa3823a3f85280552d2909fb0b9ff86f67fdd98",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "itp-2feb0bd2b0",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848490號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍座落基地因政府辦理重劃，變更為「鄉村區乙種建築用地」，其配合耕地可否逕為解除套繪管理案，復請查照。",
+ "content": "1.復 貴署96年5月7日營署建管字第0960020732號函。\n2.依據非都市土地使用管制規則第6條附表一，乙種建築用地並未容許作農舍使用，故為符合土地管制之法制，農舍坐落土地變更為非農業用地者，其農舍用途亦宜配合變更，合先說明。\n3.已領有使用執照之農舍變更為住宅，若符合土地使用管制，其原配合耕地自得依規定辦理解除套繪，貴部94年12月30日營署建管字第0940067768號函已有明示，準此，本案建議應俟農舍變更為非農舍使用後，其配合耕地始得一併解除註記列管。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848490號|農舍座落基地因政府辦理重劃變更為鄉村區乙種建築用地其配合耕地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "88555d3b666f2fcf9cebf4149a13c910e2a465cb61d539e89d7a04c2aa0f885e",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "6年5月7日營署建管字第0960020732號函。\n2.依據非都市土地使用管制規則第6條附表一,乙種建築用地並未容許作農舍使用,故為符合土地管制之法制,農舍坐落土地變更"
+  }
+ ]
+}

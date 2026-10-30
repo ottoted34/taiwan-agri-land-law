@@ -1,0 +1,79 @@
+{
+ "id": "itp-6f3d059303",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940169721號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農牧用地上可否興建大型鐵捲門式門戶暨圍牆案。",
+ "content": "主旨：有關 貴中心函詢農牧用地上可否興建大型鐵捲門式門戶暨圍牆案，復請查照。\n說明：\n一、依據內政部營建署94年12月16日營屬建管字第0940067556號函移文資料辦理，並復 貴中心94年12月8日94勞福推建字第09400001208號函。\n二、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」故農業用地申請容許作農業設施使用或農舍使用，應考量農業使用之內涵、當地農業經營發展、設施與農業生產經營之必要性及合理性，視個案實務及事實予以審認，然農業用地容許作農業設施使用審查辦法之規定，並無大型鐵捲門式門戶暨圍牆等單獨農業設施之容許使用項目。至於非都市土地使用管制規則第6條第3項附表一規範，農牧用地容許使用項目之中，農舍容許使用項目下，有農舍附屬設施之許可使用細目，查並無容許興建大型鐵捲門戶與圍牆等許可使用細目。本案函詢之大型鐵捲門式門戶暨圍牆，如屬農舍附屬設施，應依農業用地興建農舍辦法規定申請，且農舍興建圍牆面積以不超過法定基層建築面積為限。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940169721號|有關農牧用地上可否興建大型鐵捲門式門戶暨圍牆案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a953fd9973b8ba4f0ecbd2141880025674f933691180adcbce1783d5afaf34ab",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "2月8日94勞福推建字第09400001208號函。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "與農業生產經營之必要性及合理性,視個案實務及事實予以審認,然農業用地容許作農業設施使用審查辦法之規定,並無大型鐵捲門式門戶暨圍牆等單獨農業設施之容許使用項目。至於非都市土地使"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "並無大型鐵捲門式門戶暨圍牆等單獨農業設施之容許使用項目。至於非都市土地使用管制規則第6條第3項附表一規範,農牧用地容許使用項目之中,農舍容許使用項目下,有農舍附屬設施之"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "目。本案函詢之大型鐵捲門式門戶暨圍牆,如屬農舍附屬設施,應依農業用地興建農舍辦法規定申請,且農舍興建圍牆面積以不超過法定基層建築面積為限。"
+  }
+ ]
+}

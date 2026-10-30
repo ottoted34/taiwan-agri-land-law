@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6052",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:10+08:00",
+   "fetched_at": "2026-10-30T11:16:22+08:00",
    "source_key": "rmis:6052"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1132629879號|有關貴公司函詢升壓站或開關站是否非屬於農業主管機關同意農業用"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "3cf9bc7ac678fb64e5b75fb9f4e03549b1e1e9658fb592a41247caf41dd56ca9",
  "topics": [
@@ -49,6 +65,14 @@
    "article": null,
    "kind": "extracted",
    "snippet": "有關貴公司函詢升壓站或開關站,是否非屬於「農業主管機關同意農業用地變更使用審查作業要點」中所指太陽光電設施,得不受變更使用面積未達2公頃限制之疑義案,復請查照。\n一、依"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "於太陽光電案場外,經能源主管機關審認非屬太陽光電設施者,得依「非都市土地使用管制規則」第6條附表1之「公用事業設施」或循用地變更辦理,並得不受農變要點第7點之1規定之限制。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

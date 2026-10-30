@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5655",
    "serial": null,
-   "fetched_at": "2026-10-30T09:52:16+08:00",
+   "fetched_at": "2026-10-30T11:19:28+08:00",
    "source_key": "rmis:5655"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100704570號|農舍用地臨界臨路及最大建築面積疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "f3710c4b22ce67d7161f1ba5636516a0380e3df92e2b9bc32dd730f3c4c2e6a7",
  "topics": [
@@ -41,22 +57,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "即可興建農舍,先予敘明。\n三、有關農舍坐落用地之配置,應符合農業發展條例 (以下簡稱本條例 )第 18條規定,不影響農業生產環境及農村發展之立法意旨,又"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": " 18條規定,不影響農業生產環境及農村發展之立法意旨,又依據農業用地興建農舍辦法第 2條第 2項規定,本會依該條規定訂定經營計畫書格式,供直轄市、縣 (市 )政府據以審"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "85",
+   "kind": "extracted",
+   "snippet": ",並應視其農業用地所在區位之土地使用管制與建築規定,不得超過都市計畫法第 85條授權訂定之施行細則與自治法規、實施區域計畫地區建築管理辦法、建築法、國家公園法及"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "授權訂定之施行細則與自治法規、實施區域計畫地區建築管理辦法、建築法、國家公園法及其他關法令規定之最大基層建築面積 (或所稱之建築面積 )。」有案,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

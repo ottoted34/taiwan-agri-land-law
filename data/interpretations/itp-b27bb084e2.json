@@ -1,0 +1,71 @@
+{
+ "id": "itp-b27bb084e2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980156156號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府執行核發○○○等26人集村興建農舍及公共設施獎勵補助款疑義案，復請查照。",
+ "content": "一、復 貴府98年9月8日南市建農字第09841050220號函。\n二、貴府已核准取得建造及使用執照之集村興建農舍個案，如經 貴府認定已違規使用，請本於權責依法核處。至有關建築執照之廢止，建築法尚無規定，應依行政程序法有關規定辦理。(內政部營建署96年3月2日營署綜字第0961848043號函)。\n三、依「集村興建農舍獎勵及協助辦法」、「集村興建農舍與公共設施申請補助程序及標準作業要點」等規定補助集村興建農舍及公共設施，其後續事宜，請參照本會96年3月15日農授水保字第0961848257號函辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980156156號|有關貴府執行核發○○○等26人集村興建農舍及公共設施獎勵補助"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "be35848e9a1c53d454e67038f103b26f73fd19a3c2da2c992896eea1418bcd27",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "府認定已違規使用,請本於權責依法核處。至有關建築執照之廢止,建築法尚無規定,應依行政程序法有關規定辦理。(內政部營建署96年3月2日營署綜字第09"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "本於權責依法核處。至有關建築執照之廢止,建築法尚無規定,應依行政程序法有關規定辦理。(內政部營建署96年3月2日營署綜字第0961848043號函)。"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "96年3月2日營署綜字第0961848043號函)。\n三、依「集村興建農舍獎勵及協助辦法」、「集村興建農舍與公共設施申請補助程序及標準作業要點」等規定補助集村興建農舍及公"
+  }
+ ]
+}

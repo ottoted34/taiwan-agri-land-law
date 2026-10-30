@@ -1,0 +1,38 @@
+{
+ "id": "tech-f074d2b40cb4",
+ "source_key": "datamoa:D97:a0f1b33b2f4af79b",
+ "title": "技術專刊 61",
+ "series": "技術專刊",
+ "issue": "61",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=7030",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "61",
+  "出刊年月": "201512",
+  "期刊名稱": "紅龍果有機栽培管理技術",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=7030"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "a555605cff69c3414a576e2ff1cc8cf4fd09d03f0f75f860ab491495b5a379e8",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

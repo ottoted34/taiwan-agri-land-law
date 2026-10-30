@@ -1,0 +1,53 @@
+{
+ "id": "itp-6ec6aecba9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961810896號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為申請興建農舍所需水土保持工程而納入之部分土地（不納入建築面積範圍），得不受限須取得2年以上之限制，並授權由地方主管機關實核案，復請查照。",
+ "content": "1.復 台端96年6月8日陳情書。 2.本案芎林鄉○○○地號土地（面積0.4182公頃），係由同段同小段○○○地號（0.3841公頃）與○○○地號（面積0.0341公頃）二筆土地合併而成，其土地取得應滿2年之時間點認定，應自購入原○○○地號土地登記簿謄本內登記日期（95年4月27日）起算。另本會96年5月30日農授水保字第0961809968號函復新竹縣政府並副知 台端有案（諒達）。 3.隨文檢還附件全件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961810896號|為申請興建農舍所需水土保持工程而納入之部分土地不納入建築面積"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "03b0efb9acc896d486a02d30cbbc1e32bb80dc015f0d16ecfdbe97b9f1bb8597",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

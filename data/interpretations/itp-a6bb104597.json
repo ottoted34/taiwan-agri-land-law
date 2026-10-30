@@ -1,0 +1,58 @@
+{
+ "id": "itp-a6bb104597",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1071825088號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問農舍協議繼承分割等疑義，復如說明，請查照。",
+ "content": "一、復台端106年12月28日未具文號陳情書。\n二、農業發展條例（以下簡稱本條例）於89年1月26日修正公布，農地政策由「農地農有、農地農用」，調整為「放寬農地農有、落實農地農用」之政策目標，並為確保農舍之興建不影響農業生產環境及農村發展，於本條例第18條第4項規定農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。惟本條例89年修正施行前已興建完成之農舍，鑑於時空背景及所依據之法令不同，農舍與農地常有分屬不同人之情形，爰為避免農舍或農地所有權人無法處分其財產，行政院農業委員會104年5月13日農水保字第1030244431號函已敘明，如農舍與農地已分屬不同人時，得不受本條例第18條第4項農舍應與其坐落用地併同移轉之限制，惟若農舍及提供興建農舍之農業用地仍同屬一人，則於未來移轉時，仍應受本條例第18條第4項所規範。\n三、有關分割移轉及解除套繪實務，係屬內政部權責。副本抄送內政部，並檢附○○○陳情書1份，並請主政回復相關問題。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1071825088號|有關台端詢問農舍協議繼承分割等疑義復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "11470eb504cc227f14c84fae02161ea3d72f1fa4af5424d99ca305adff93965e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "查照。\n一、復台端106年12月28日未具文號陳情書。\n二、農業發展條例(以下簡稱本條例)於89年1月26日修正公布,農地政策由「農地農有、農地農用」,"
+  }
+ ]
+}

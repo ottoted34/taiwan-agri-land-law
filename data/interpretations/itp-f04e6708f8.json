@@ -1,0 +1,64 @@
+{
+ "id": "itp-f04e6708f8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950102693號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關農業發展條例修正施行前取得之農地，於修正施行後完成贈與，經調解回復所有權，其申請興建農舍疑義案，復請查照。",
+ "content": "一、復 貴府95年1月10日府農務字第0950000055號函。\n二、依「農業發展條例」及「農業用地興建農舍辦法」等法令規定，申請興建農舍之條件，係依農業用地取得日期之不同而有所差異，本案所涉農地係在「農業發展條例」修正公布生效日(89年1月28日)後始取得所有權，依農業發展條例第18條第1項及第5項規定，自應受「農業用地興建農舍辦法」第3條有關申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿2年、申請興建農舍之該宗農業用地面積不得小於0.25公頃…等規定之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950102693號|貴府函詢有關農業發展條例修正施行前取得之農地於修正施行後完成"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4667342e9149683323a31ce5a1c5ded055a6c9d3a0cf838113f5c7dd194cc384",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "展條例」修正公布生效日(89年1月28日)後始取得所有權,依農業發展條例第18條第1項及第5項規定,自應受「農業用地興建農舍辦法」第3條有關申請人之戶籍所在地及"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "取得所有權,依農業發展條例第18條第1項及第5項規定,自應受「農業用地興建農舍辦法」第3條有關申請人之戶籍所在地及其農業用地,須在同一直轄市、縣(市)內,且其土地取得及戶"
+  }
+ ]
+}

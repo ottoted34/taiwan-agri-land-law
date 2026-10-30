@@ -1,0 +1,70 @@
+{
+ "id": "itp-192dd0405b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950125567號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢關於農業發展條例修正施行前3筆農業用地，於該條例修正施行後辦理合併，其申請興建農舍疑義案，復請查照。",
+ "content": "一、復 台端未列日期申請書。\n二、有關農業發展條例修正施行前取得之農業用地，並於該條例修正施行後與鄰地分割交換合併，如其權利主體未更動，且分割交換合併調整後之面積並未改變，可視為原權利內容之持續;如其權利主體已更動，申請興建農舍自應依「農業用地興建農舍辦法」第3條等規定辦理，合先敘明。\n三、台端等3人於農業發展條例89年1月4日修正施前分別取得之農業用地，得依「農業用地興建農舍辦法」第2條規定申請興建農舍，如於本條例修正施行後辦理合併為共同持有持分之農地，其共有之一申請興建農舍，應取得其他共有人之同意，其他共有人不得就其應有部分申請建築，或由共有人共同申請興建1戶農舍，其申請人資格條件，仍應符上開辦法第3條規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950125567號|台端函詢關於農業發展條例修正施行前3筆農業用地於該條例修正施"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "020fd7ce178adf618a343554485ab7b73d9c31773c659a77e080eae8176ae75e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台端函詢關於農業發展條例修正施行前3筆農業用地,於該條例修正施行後辦理合併,其申請興建農舍疑義案,復請查"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "視為原權利內容之持續;如其權利主體已更動,申請興建農舍自應依「農業用地興建農舍辦法」第3條等規定辦理,合先敘明。\n三、台端等3人於農業發展條例89年1月4日修正施前分別取"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "於農業發展條例89年1月4日修正施前分別取得之農業用地,得依「農業用地興建農舍辦法」第2條規定申請興建農舍,如於本條例修正施行後辦理合併為共同持有持分之農地,其共有之一申"
+  }
+ ]
+}

@@ -1,17 +1,18 @@
 {
- "checked_at": "2026-10-30T10:32:30+08:00",
+ "checked_at": "2026-10-30T12:03:30+08:00",
  "results": [
   {
    "source_id": "moj-law-api",
    "url": "https://law.moj.gov.tw/api/ch/law/json",
-   "checked_at": "2026-10-30T10:26:59+08:00",
-   "reachable": false,
-   "error": "ConnectionError"
+   "checked_at": "2026-10-30T11:58:05+08:00",
+   "robots_allowed": true,
+   "http_status": 200,
+   "reachable": true
   },
   {
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsList.aspx",
-   "checked_at": "2026-10-30T10:27:00+08:00",
+   "checked_at": "2026-10-30T11:58:13+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -19,7 +20,7 @@
   {
    "source_id": "rmis-laws",
    "url": "https://rmis.ardswc.gov.tw/Web/Directory.aspx",
-   "checked_at": "2026-10-30T10:27:01+08:00",
+   "checked_at": "2026-10-30T11:58:13+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -27,7 +28,7 @@
   {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
-   "checked_at": "2026-10-30T10:27:02+08:00",
+   "checked_at": "2026-10-30T11:58:14+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -35,7 +36,7 @@
   {
    "source_id": "datamoa-publications",
    "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
-   "checked_at": "2026-10-30T10:27:03+08:00",
+   "checked_at": "2026-10-30T11:58:14+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -43,14 +44,14 @@
   {
    "source_id": "moa-law-system",
    "url": "https://law.moa.gov.tw/index.aspx",
-   "checked_at": "2026-10-30T10:27:26+08:00",
+   "checked_at": "2026-10-30T11:58:36+08:00",
    "reachable": false,
    "error": "ConnectTimeout"
   },
   {
    "source_id": "datagov-54370",
    "url": "https://data.gov.tw/dataset/54370",
-   "checked_at": "2026-10-30T10:27:52+08:00",
+   "checked_at": "2026-10-30T11:59:02+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -58,84 +59,84 @@
   {
    "source_id": "afa-site",
    "url": "https://www.afa.gov.tw/cht/index.php?code=list&ids=353",
-   "checked_at": "2026-10-30T10:27:53+08:00",
+   "checked_at": "2026-10-30T11:59:04+08:00",
    "robots_allowed": false,
    "reachable": null
   },
   {
    "source_id": "tari-site",
    "url": "https://www.tari.gov.tw/",
-   "checked_at": "2026-10-30T10:27:55+08:00",
+   "checked_at": "2026-10-30T11:59:06+08:00",
    "reachable": false,
    "error": "ConnectTimeout"
   },
   {
    "source_id": "tydares-site",
    "url": "https://www.tydares.gov.tw/",
-   "checked_at": "2026-10-30T10:28:20+08:00",
+   "checked_at": "2026-10-30T11:59:31+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "mdares-site",
    "url": "https://www.mdares.gov.tw/",
-   "checked_at": "2026-10-30T10:28:46+08:00",
+   "checked_at": "2026-10-30T11:59:57+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "tcdares-site",
    "url": "https://www.tcdares.gov.tw/",
-   "checked_at": "2026-10-30T10:29:11+08:00",
+   "checked_at": "2026-10-30T12:00:22+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "tndais-site",
    "url": "https://www.tndais.gov.tw/",
-   "checked_at": "2026-10-30T10:29:38+08:00",
+   "checked_at": "2026-10-30T12:00:47+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "kdais-site",
    "url": "https://www.kdais.gov.tw/",
-   "checked_at": "2026-10-30T10:30:03+08:00",
+   "checked_at": "2026-10-30T12:01:13+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "hdares-site",
    "url": "https://www.hdares.gov.tw/",
-   "checked_at": "2026-10-30T10:30:29+08:00",
+   "checked_at": "2026-10-30T12:01:38+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "ttdares-site",
    "url": "https://www.ttdares.gov.tw/",
-   "checked_at": "2026-10-30T10:30:54+08:00",
+   "checked_at": "2026-10-30T12:02:04+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "tbrs-site",
    "url": "https://www.tbrs.gov.tw/",
-   "checked_at": "2026-10-30T10:31:22+08:00",
+   "checked_at": "2026-10-30T12:02:29+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "tss-site",
    "url": "https://www.tss.gov.tw/",
-   "checked_at": "2026-10-30T10:31:47+08:00",
+   "checked_at": "2026-10-30T12:02:55+08:00",
    "reachable": false,
    "error": "ConnectionError"
   },
   {
    "source_id": "kmweb",
    "url": "https://kmweb.moa.gov.tw/",
-   "checked_at": "2026-10-30T10:32:13+08:00",
+   "checked_at": "2026-10-30T12:03:20+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -143,7 +144,7 @@
   {
    "source_id": "moa-site",
    "url": "https://www.moa.gov.tw/ws.php?id=2514350",
-   "checked_at": "2026-10-30T10:32:15+08:00",
+   "checked_at": "2026-10-30T12:03:23+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -151,7 +152,7 @@
   {
    "source_id": "ia-site",
    "url": "https://www.ia.gov.tw/",
-   "checked_at": "2026-10-30T10:32:24+08:00",
+   "checked_at": "2026-10-30T12:03:25+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -159,7 +160,7 @@
   {
    "source_id": "forest-site",
    "url": "https://www.forest.gov.tw/",
-   "checked_at": "2026-10-30T10:32:26+08:00",
+   "checked_at": "2026-10-30T12:03:26+08:00",
    "robots_allowed": true,
    "http_status": 200,
    "reachable": true
@@ -167,7 +168,7 @@
   {
    "source_id": "local-taichung",
    "url": "https://lawsearch.taichung.gov.tw/",
-   "checked_at": "2026-10-30T10:32:28+08:00",
+   "checked_at": "2026-10-30T12:03:29+08:00",
    "robots_allowed": true,
    "http_status": 404,
    "reachable": false

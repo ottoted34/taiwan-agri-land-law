@@ -1,0 +1,64 @@
+{
+ "id": "itp-5e69d8748f",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1030716878號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問墾丁國家公園保護利用管制原則第29點第11款規定是否已違反農業發展條例及農舍興建立法精神一案，復請查照。",
+ "content": "一、復行政院農業委員會交下台端103年5月28日信函。\n二、按農業用地興建農舍辦法第9條第1項第3款規定略以：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，係指興建農舍之農業用地，其農舍用地面積不得超過農地面積10%，其餘面積則為應供農業生產之農業經營用地，亦即農舍用地面積與農業經營用地面積之比例至少應為1：9。\n三、又旨揭原則第29點第11款規定：「已申請建築者(包括10%農舍及90%農地)，國家公園管理處應於國家公園計畫及地籍圖上著色標示之，嗣後不論該90%農地是否分割，均不得再申請建築。」，揆諸其意旨，應為維持已興建農舍之農業用地留有足夠比例之農業經營用地，爰與農業發展條例或農業用地興建農舍辦法之立法意旨尚無扞格。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1030716878號|有關台端詢問墾丁國家公園保護利用管制原則第29點第11款規定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e1a53dbcfec6424b50cac62eb185487a37ccf48cbba7ade05c7665f0403ca32d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "問墾丁國家公園保護利用管制原則第29點第11款規定是否已違反農業發展條例及農舍興建立法精神一案,復請查照。\n一、復行政院農業委員會交下台端103年5月2"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "、復行政院農業委員會交下台端103年5月28日信函。\n二、按農業用地興建農舍辦法第9條第1項第3款規定略以:「申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地"
+  }
+ ]
+}

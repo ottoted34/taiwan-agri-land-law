@@ -1,0 +1,59 @@
+{
+ "id": "itp-7c71e40aaf",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041814955號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍興建之管理」相關事宜",
+ "content": "一、台端所詢事項，本會於104年8月10日農授水保字第1041814682號已回復有案。\n二、農業用地上未依相關規定申請興建之構造物，係屬違規建物，已違反都市計畫、區域計畫法等土地使用管制規定，由地方政府依相關規定裁罰及拆除。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041814955號|農舍興建之管理相關事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7c9393323b0093b3fcdfba7aaa0b09e68daa2561555491c42fb2f72b8017e6b8",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "未依相關規定申請興建之構造物,係屬違規建物,已違反都市計畫、區域計畫法等土地使用管制規定,由地方政府依相關規定裁罰及拆除。"
+  }
+ ]
+}

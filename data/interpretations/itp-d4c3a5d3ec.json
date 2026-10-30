@@ -1,0 +1,66 @@
+{
+ "id": "itp-d4c3a5d3ec",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842711號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關單一筆農地上興建二棟或二棟以上建物，其拍賣時係採所有建物與農地合併或建物分案拍賣疑義案，復請查照。",
+ "content": "一、復 貴區域中心98年5月6日合金中債管字第0980001196號函。\n二、89年1月26日修正公布「農業發展條例」，主要在落實「放寬農地農有落實農地農用」之政策目標，因此在農舍興建規定上，於該條例修正施行後取得農業用地而申請興建農舍者，應予必要限制，以為配套措施，而於該條例第18條第5項授權內政部會同本會，對於在「農業發展條例」修正公布生效日後取得農業用地，無自用農舍而需興建者，訂定「農業用地興建農舍辦法」俾據以辦理;其立法意旨明確規範申請人條件，應為「無自用農舍者」。故經法院拍賣之興建中農舍或興建完成之農舍，其投標人資格亦應符合無自用農舍條件，合先敘明。\n三、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有居住兼放農機具之需求，以便利其農事工作，與一般家居為主之住宅性質不同，故被視為農地容許使用之一種，亦享有免繳地價稅等之優惠，且為農地管理需要及符合上述規定，土地所有權人僅得興建一棟農舍，法院拍賣興建中農舍或興建完成之農舍，其投標人資格應符合無自用農舍，本會96年2月13日農水保字第0961848111號已通函各法院有案，故同一人同時取得二棟以上之農舍，與本會農地管理政策並不相符。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842711號|有關單一筆農地上興建二棟或二棟以上建物其拍賣時係採所有建物與"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2df8c56fa2851511ace2d95b19aa6920cb69b676015a5c82e21450c1fe8ff5d6",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "字第0980001196號函。\n二、89年1月26日修正公布「農業發展條例」,主要在落實「放寬農地農有落實農地農用」之政策目標,因此在農舍興建規定上,於該條"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "例」修正公布生效日後取得農業用地,無自用農舍而需興建者,訂定「農業用地興建農舍辦法」俾據以辦理;其立法意旨明確規範申請人條件,應為「無自用農舍者」。故經法院拍賣之興"
+  }
+ ]
+}

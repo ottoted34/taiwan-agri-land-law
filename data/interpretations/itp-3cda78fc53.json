@@ -1,0 +1,59 @@
+{
+ "id": "itp-3cda78fc53",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080709308號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴處所詢農業發展條例第18條適用疑義案，復如說明，請查照。",
+ "content": "\"一、復貴處108年3月26日基院華106司執讓字第26006號函。\n二、查農業發展條例第18條第4項規定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。」，其立法意旨乃在避免農舍與其坐落用地分屬不同所有權人，產生徒有農舍卻無供農業經營用地之不合理現象，及避免土地所有權移轉時滋生困擾，影響土地使用之效能，先予敘明。\n三、又前開規定農舍應與其坐落用地併同移轉或併同設定抵押權，應指整筆農業用地而言，對於共有土地雖可由其中一位共有人徵得其他共有人同意而興建農舍，惟在農舍管理方面，仍需整筆註記，未來移轉亦應遵循前開條文之原則，併予敘明。\n四、申請人倘以共有農業用地申請興建農舍，亦即其他共有人出具同意書供一人申請興建農舍，將來農舍則應與其坐落用地併同移轉或併同設定抵押權。另，上開所謂坐落用地係指農舍所坐落之該筆農業用地及其配合耕地。\n五、貴處所詢問共有之農業用地是否需與農舍所有人所有之農舍併同移轉，請貴處依前開原則審酌核處。\"",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1080709308號|有關貴處所詢農業發展條例第18條適用疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5bd8a84f7d1bc12fa2bd513e7af5399ed57c769e6be35f5c0da5106b6a087118",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關貴處所詢農業發展條例第18條適用疑義案,復如說明,請查照。\n\"一、復貴處108年3月26日基院華106司執讓"
+  }
+ ]
+}

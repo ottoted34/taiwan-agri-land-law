@@ -1,0 +1,52 @@
+{
+ "id": "itp-6a5b17af4d",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0991876263號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣恆春鎮○○○號集村興建農舍疑義案，請查照。",
+ "content": "1.依據審計部教育農林審計處99年11月30日審教處四字第0990003221號函辦理。 2.有關貴縣恆春鎮○○○號集村興建農舍案，查其配置圖規劃耕地、道路保留地，係作何用途？耕地保留地是否仍維持農業使用？是否為單一地號？所有權人為何？及各起造人所有之農業用地與集村興建農舍坐落之農業用地面積比例是否符合規定？請敘明並於99年12月31日前函復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0991876263號|有關貴縣恆春鎮○○○號集村興建農舍疑義案請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "15294d6e82398e4082d8294b6606f1cb678bafed448acf3521e5ccbd1ef2e395",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

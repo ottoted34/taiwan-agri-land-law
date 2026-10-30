@@ -1,0 +1,52 @@
+{
+ "id": "itp-7842395f88",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000124952號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○興建農舍申請案，事涉農地取得時點認定，本會前以100年4月7日農授水保字第1000117810號函復貴局認定原則在案，至個案之審認，請本於權責核處，請查照。",
+ "content": "復貴局100年4月20日北農牧字第1000390850號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000124952號|有關○○○興建農舍申請案事涉農地取得時點認定本會前以100年"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0f10c90a0e350129ac34bbd146abc6265a8e03cfbad90d62d69a32f4a9ae361e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

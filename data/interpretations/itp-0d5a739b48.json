@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4650",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:23+08:00",
+   "fetched_at": "2026-10-30T11:22:36+08:00",
    "source_key": "rmis:4650"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080237121號|有關貴縣民眾○○○持有農地上有違規物涉及無自用農舍審查疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,22 +47,42 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "許可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項規定略以:「依本條例第18條第1項規定申請興建農舍"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "其資格應符合前條第1項第4款及第5款規定...」,爰此,無論農業發展條例89年1月4日修正施行前或後取得農業用地申請興建農舍者,申請人須符合無自用農舍條"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之建物,涉及違反土地使用使用或建築管理情事,請貴府本於權責依區域計畫法、都市計畫法或建築法等相關規定辦理。"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "違反土地使用使用或建築管理情事,請貴府本於權責依區域計畫法、都市計畫法或建築法等相關規定辦理。"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "使用或建築管理情事,請貴府本於權責依區域計畫法、都市計畫法或建築法等相關規定辦理。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

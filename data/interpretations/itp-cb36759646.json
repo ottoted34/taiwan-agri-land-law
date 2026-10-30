@@ -1,0 +1,73 @@
+{
+ "id": "itp-cb36759646",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第0940006860號",
+ "date": "2005-06-17",
+ "date_text": "內政部94年6月17日內授營建管字第0940006860號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "005農業設施面積在45平方公尺以下，且屬1層樓之建築者，免申請建築執照之實務認定",
+ "content": "貴會函為農業發展條例第8條之1第2項但書所規範，農業設施面積在45平方公尺或250平方公尺以下免申請建築執照之執行疑義案，仍請參酌本部90年9月14日台90內營字第9012691號函辦理。\n\n＊注意事項：\n農業設施面積在45平方公尺或250平方公尺以下無安全顧慮免申請建築執照者，如設置1處以上，其總樓地板面積應合併檢討",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第0940006860號|農業設施面積在45平方公尺以下且屬1層樓之建築者免申請建築執"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "baeb86423838c67852632579ac52d4b1787c5a58357e0732e4f7a47d121c3f66",
+ "topics": [],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "以下,且屬1層樓之建築者,免申請建築執照之實務認定\n貴會函為農業發展條例第8條之1第2項但書所規範,農業設施面積在45平方公尺或250平方公尺以下免申請建築執照之"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "itp-f882c2b401",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100723894號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關申請興建農舍因有偽造建照致與原核准圖說不符得否重新核發興建資格疑義",
+ "content": "主旨：有關貴府函詢原依法申請興建農舍資格之建物，因承包商偽造建造執照以致建物位置與原核准圖說不符，得否重新核發農舍興建資格一案，復如說明，請查照。\n說明：\n一、復貴府110年10月8日府農務字第1100165961號函。\n二、依農業用地興建農舍辦法規定，申請興建農舍應由直轄市、縣(市)政府核定農舍興建資格後，續由建築主管機關核發建造執照後始得興建，先予敘明。\n三、查本案係於建築執照許可階段發生涉及民、刑事訴訟爭議，致有影響前階段已核定農舍興建資格之虞，按貴府來函所述案情，原核定之興建農舍資格得否因申請人屬善意且無過失而得存續，以及就現況事實據以妥處等情，倘援引行政程序法等法律規定，或其他救濟途徑得予認定，基於農舍之個案審查係屬直轄市、縣(市)政府之權責，爰請貴府綜合研析可行方式本權責予以處理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100723894號|有關申請興建農舍因有偽造建照致與原核准圖說不符得否重新核發興"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "90cadb2ae564611145a55df59529c260aff27acfa8b60328672605347a56908e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "10年10月8日府農務字第1100165961號函。\n二、依農業用地興建農舍辦法規定,申請興建農舍應由直轄市、縣(市)政府核定農舍興建資格後,續由建築主管機關核"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "人屬善意且無過失而得存續,以及就現況事實據以妥處等情,倘援引行政程序法等法律規定,或其他救濟途徑得予認定,基於農舍之個案審查係屬直轄市、縣(市)政府之"
+  }
+ ]
+}

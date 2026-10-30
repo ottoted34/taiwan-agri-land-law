@@ -1,0 +1,81 @@
+{
+ "id": "itp-2b43cfc22c",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0920028672號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於農業發展條例修正施行後繼承取得之農業用地上之農舍，可否申請拆除重建案，復請查照。",
+ "content": "一、依據行政院農業委員會92年5月14日農輔字第0920127721號函辦理。\n二、關於農業發展條例修正施行後繼承取得之農業用地上之農舍，申請拆除後重建，仍應符合「農業用地興建農舍辦法」第3條第3款「申請興建農舍之該宗農業用地面積不得小於0.25公頃．．」有關規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0920028672號|關於農業發展條例修正施行後繼承取得之農業用地上之農舍可否申請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-243e4d7e27",
+    "by_docno": "農輔字第0920173770號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "二、依建築法規定,建築物之拆除重建係屬新建;而內政部營建署業以92年5月26日營署綜字第0920028672號書函釋,農業發展條例修正後繼承取得之農地及其農舍申請拆除重建,需符合農業用地最小面積0.25公頃之規定,故對於拆除重建之申請人,仍應依相關規定辦理資格審查"
+   },
+   {
+    "type": "amend_signal",
+    "by_id": "itp-94275c419d",
+    "by_docno": "水保農字第1001812396號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "二、關於農業發展條例修正施行後取得之農舍擬申請「拆除重建」,此係建築管理範疇,依據內政部營建署92年5月26日營署綜字第0920028672號函釋,本案仍須依「農業用地興建農舍辦法」第3條第1項第3款規定辦理,即申請興建農舍之該宗農業用地面積不得小於0.25公頃"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7a96d6fa9fe94d0992df6a7358033d24b671400dae4c4a871b6735db79e00450",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "關於農業發展條例修正施行後繼承取得之農業用地上之農舍,可否申請拆除重建案,復請查照。\n一、依據行"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "正施行後繼承取得之農業用地上之農舍,申請拆除後重建,仍應符合「農業用地興建農舍辦法」第3條第3款「申請興建農舍之該宗農業用地面積不得小於0.25公頃..」有關規定。"
+  }
+ ]
+}

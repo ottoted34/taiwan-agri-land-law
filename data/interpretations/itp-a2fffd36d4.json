@@ -1,0 +1,64 @@
+{
+ "id": "itp-a2fffd36d4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041812880號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "宜蘭縣興建農舍申請人資格及農舍建築審查辦法，逾越母法意旨，依法係屬無效。",
+ "content": "一、按農業用地興建農舍辦法第2條(以下簡稱本辦法)規定，農舍申請人應為農民，且其資格應符合各項條件，次按農業發展條例第3條及第18條規定，農民係指直接從事農業生產之自然人，且農舍應在不影響農業生產環境及農村發展前提下始得興建，先予教明。\n二、因此，農舍興建資格審查除查核申請人是否符合本辦法第2條規定之各款條件外，更須審認申請人是否確實於該農業用地上從事農業生產，該農業用地是否確實供作農業使用，此則依個案事實由直轄市、縣(市)政府審認。\n三、而宜蘭縣政府「宜蘭縣農舍申請人資格及農舍建築審查辦法」係為執行農業用地興建農舍辦法第2條規定之審查而訂，就審認申請人是否確實為於該農業用地上從事農業生產之農民，訂定相關佐證文件以提供該府審查小組審核個案事實之參據，本會原則尊重及支持。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041812880號|宜蘭縣興建農舍申請人資格及農舍建築審查辦法逾越母法意旨依法係"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c6eb2e340373445789c7da9304402800d0bb08bfc554f45cc54c93364c4edc66",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "資格及農舍建築審查辦法,逾越母法意旨,依法係屬無效。\n一、按農業用地興建農舍辦法第2條(以下簡稱本辦法)規定,農舍申請人應為農民,且其資格應符合各項條件,次按農業發展"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "辦法)規定,農舍申請人應為農民,且其資格應符合各項條件,次按農業發展條例第3條及第18條規定,農民係指直接從事農業生產之自然人,且農舍應在不影響農業生產環境及"
+  }
+ ]
+}

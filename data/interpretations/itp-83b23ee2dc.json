@@ -1,0 +1,100 @@
+{
+ "id": "itp-83b23ee2dc",
+ "doc_class": "interpretation",
+ "docno": "農企字第900119348號",
+ "date": "2001-04-27",
+ "date_text": "90/4/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "030 釋不可抗力之事由，得核發農業用地作農業使用證明書案",
+ "content": "一、依據「農業用地作農業使用認定及核發證明辦法」第7條但書「但有下列各款情形之一者，不得認定為農業使用：一、……三、未依規定休耕、休養、停養或無不可抗力之理由而閒置不用者。」換言之，如係配合政策，依規定申請休耕、休養、停養或因不可抗力之理由而閒置不用，且能提出證明文件者，應不屬閒置不用之範圍，而得依規定核發農業用地作農業使用證明書。\n二、查農地重劃係土地所有權人為改善農業生產環境，配合政府投資建設之重大農業改良設施，其施工期間需配合農、水路施工及地籍整理等作業，土地所有權人自無法於該農業用地上作農業經營利用，且亦非其能力所能管控，應符合不可抗力之因素，得核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5539",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:24+08:00",
+   "source_key": "rmis:5539"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900119348號|釋不可抗力之事由得核發農業用地作農業使用證明書案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "7",
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "7",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "6b48bb71d3026faa6c985049c1b697112d1cc4651415ce56d8e47af0aee81643",
+ "topics": [
+  "farm_use_cert",
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "釋不可抗力之事由,得核發農業用地作農業使用證明書案\n一、依據「農業用地作農業使用認定及核發證明辦法」第7條但書「但有下列各款情形之一者,不得認定為農業使用:一、......三、未依規定休"
+  }
+ ]
+}

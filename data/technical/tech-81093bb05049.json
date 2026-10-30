@@ -1,0 +1,38 @@
+{
+ "id": "tech-81093bb05049",
+ "source_key": "datamoa:D97:9284bfddd89a06e6",
+ "title": "技術專刊 30",
+ "series": "技術專刊",
+ "issue": "30",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2353",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "30",
+  "出刊年月": "200809",
+  "期刊名稱": "洛神葵花去籽機改良試驗",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2353"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "be2577540cf23888892f7511f3da94847d907e87601e6a19921c02ffcb738f7d",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

@@ -1,0 +1,66 @@
+{
+ "id": "itp-677318ef9d",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061812176號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴市善化區○○○地號興建農舍資格審查相關法規適用時點疑義案，復如說明，請查照。",
+ "content": "一、復貴府106年10月17日府農工字第1061035864號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，並於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍，合先敘明。\n三、有關申請興建農舍資格之審查，自應以機關受理日期為時點，並依據當時之農業用地興建農舍辦法規定辦理。另申請興建農舍申請人應為農業用地之所有權人，查農業發展條例第18條第4項規定「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；···」及農業用地興建農舍辦法第2條第1項第5款「申請人為該農業用地之所有權人，···」已有明定，併予敘明。\n四、惟農舍個案審查係直轄市、縣(市)政府權責，請貴府就個案事實本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061812176號|有關貴市善化區○○○地號興建農舍資格審查相關法規適用時點疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f669ec9918044a49e95e478eadb345eb8bbeaa7275f2ea0b0264d3c63b1cd353",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "辦法規定辦理。另申請興建農舍申請人應為農業用地之所有權人,查農業發展條例第18條第4項規定「第一項及前項農舍起造人應為該農舍坐落土地之所有權人;···」及農業用"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "一項及前項農舍起造人應為該農舍坐落土地之所有權人;···」及農業用地興建農舍辦法第2條第1項第5款「申請人為該農業用地之所有權人,···」已有明定,併予敘明。\n四、惟"
+  }
+ ]
+}

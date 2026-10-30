@@ -1,0 +1,92 @@
+{
+ "id": "itp-f87f63bdfe",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920138812號",
+ "date": "2003-07-11",
+ "date_text": "92年7月11日農企字第0920138812號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "062 釋農牧用地整筆土地上建有祖墳案",
+ "content": "一、查農業用地必須符合農業使用認定基準，始得核發農業用地作農業使用證明書，為農業用地作農業使用認定及核發證明辦法第16條第1項所明定。至同辦法第10條之規定係考量土地使用編定前，公墓用地編定不足，國人有於自有農業用地一隅埋葬先人之習俗，故如能檢具證明文件，且不影響其餘農業用地作農業使用之情況者，仍得認定該農業用地作農業使用。\n二、綜前所述，家族性之墳墓如其所埋葬之人非屬土地使用編定前即已往生或修繕供家族多人合葬之用，顯已不符合前開辦法第10條之意旨及規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920138812號|釋農牧用地整筆土地上建有祖墳案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "16",
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "16",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "803fa4cc5c3b5080c57f7ea2efa929e6865a2faee0ad93b431914597f4fbc2b9",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "須符合農業使用認定基準,始得核發農業用地作農業使用證明書,為農業用地作農業使用認定及核發證明辦法第16條第1項所明定。至同辦法第10條之規定係考量土地使用編定前,公墓用地編定不足,國人"
+  }
+ ]
+}

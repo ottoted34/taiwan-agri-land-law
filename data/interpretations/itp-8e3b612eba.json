@@ -1,0 +1,59 @@
+{
+ "id": "itp-8e3b612eba",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第0920085706號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正施行前已取得之農業用地申請農舍補照，是否須取得農業用地作農業使用證明乙案，請查照。",
+ "content": "一、依據本部營建署案陳地政司92年3月4日台內地（十）字第0920002989號函轉立法委員劉○○服務處92年2月19日苗鴻請（栗）字第920094號函轉○○○92年2月18日陳情書辦理。 二、按行政院農業委員會91年8月30日農輔字第0910122575號函釋：「有關『農業發展條例』修正施行前已取得農業用地，仍應辦理農業用地作農業使用證明始得申辦農舍興建」。惟有關農業發展條例修正施行前已取得之農業用地，依本部營建署92年2月7日營署建管字第0920004646號函示申請農舍補照，如該農舍屬農業發展條例修正施行前，業經違章建築查報並認定未構成拆除要件得予補照者，方得無須檢附「農業用地作農業使用證明書」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第0920085706號|有關農業發展條例修正施行前已取得之農業用地申請農舍補照是否須"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ef98fb51c6f628807ec83c1d8e80fa4825873d0912431c66f6de4fad0a54770f",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正施行前已取得之農業用地申請農舍補照,是否須取得農業用地作農業使用證明乙案,請"
+  }
+ ]
+}

@@ -18,27 +18,17 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5247",
    "serial": null,
-   "fetched_at": "2026-10-30T10:19:03+08:00",
+   "fetched_at": "2026-10-30T11:46:17+08:00",
    "source_key": "rmis:5247"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "possibly_affected",
+  "status": "no_known_cessation",
   "confirmed": false,
-  "basis": [
-   {
-    "type": "law_amendment",
-    "law_id": "RMIS-2012",
-    "law_name": "農業用地作農業使用認定及核發證明辦法",
-    "article": null,
-    "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
-    "relation_kind": "official"
-   }
-  ]
+  "basis": []
  },
  "content_hash": "b8b871a867ab25b6e873079f126e3d6dbd9448bd0e82d0e97bc758aa3622bc36",
  "topics": [
@@ -48,12 +38,7 @@
   "historical_agency",
   "docno_shared"
  ],
- "relations": [
-  {
-   "law_id": "RMIS-2012",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
-  }
- ]
+ "relations": [],
+ "year_hint": null,
+ "flags_in": []
 }

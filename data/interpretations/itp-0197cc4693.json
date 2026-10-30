@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4694",
    "serial": null,
-   "fetched_at": "2026-10-30T09:54:05+08:00",
+   "fetched_at": "2026-10-30T11:21:18+08:00",
    "source_key": "rmis:4694"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090200673號|農業用地上未經申請興建之建築物得否申請為農舍之疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,22 +48,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",農業用地上未經申請而先行興建之建築物,不得認定為農舍,倘依建築法規定認屬為違章建築,且其性質屬為供居住使用之住宅者,本會106年2月8日農水保字"
+  },
+  {
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "土地使用管制規定,農業用地容許使用項目並無容許興建住宅,又依農業用地興建農舍辦法(以下簡稱本辦法)申請興建農舍時,除審認申請人之農民身分外,亦須就該筆農業用地是"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "未經申請且供居住使用之住宅,除已實質違反土地使用之管制規定及農業發展條例第3條第12款農業用地作農業使用之認定,亦不符合本辦法第5條第1項規定,即違反土地使用"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

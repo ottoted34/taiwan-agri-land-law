@@ -1,0 +1,52 @@
+{
+ "id": "itp-e7d2cff1b7",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061805885號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍用地坐落農業用地之配置疑義案，復如說明，請查照。",
+ "content": "一、復貴府106年5月31日府農管字第1060127054號函。\n二、有關農舍坐落農業用地之配置，行政院農業委員會104年10月21日農水保字第1041866479號函送之興建農舍經營計畫書格式於審查參考原則及注意事項第4點第2款列有原則「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」，合先敘明。\n三、惟農舍之個案審查係屬地方政府權責，貴府得參考各縣市農舍審查相關規範，並就轄內個案事實予以審酌核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061805885號|有關農舍用地坐落農業用地之配置疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2a7a4ff5b5b16fc2c46288c733de46ee133d91c7c3e96b9f7e4afc1fbf2f566b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

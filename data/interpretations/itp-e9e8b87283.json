@@ -1,0 +1,70 @@
+{
+ "id": "itp-e9e8b87283",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080991264號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端陳為嘉義縣水上鄉○○○地號農地涉違反都市土地使用管制案，復如說明，請查照。",
+ "content": "一、依據立法委員○○○國會辦公室108年11月11日108年俋國字第1080156號函轉臺端陳情案辦理。\n\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、查農業發展條例第3條第12款所定「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」係以農業生產面及資源保育面界定農業使用之定義，而非庭園景觀造景之型態呈現。因此，農業用地如係種植花卉、盆栽、草皮等之生產，以供應市場之需求，仍屬農業使用之範圍。惟如僅作庭園景觀栽植，零\n星點綴栽植花木造景，並不符合前開農業使用之定義，併予敘明。\n\n四、復查農業用地興建農舍辦法第15條規定：「依本辦法申請興建農舍之該農業用地應維持作農業使用．．．經檢查農業用地與農舍未依規定使用者，由原核定機關通知主管建築機關及區域計畫、都市計畫或國家公園主管機關依相關規定處理，並通知其限期改正，屆期不改正者，得廢止其許可。．．．」，基於農舍之稽查係屬直轄市、縣(市)政府之權責，倘有任何疑義，宜請洽所在地縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080991264號|有關臺端陳為嘉義縣水上鄉○○○地號農地涉違反都市土地使用管制"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b3a36a62009f1272699c4b7d6ce0fceff06de0ca2ad2f6af9f3730408cffcab4",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n\n三、查農業發展條例第3條第12款所定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "花木造景,並不符合前開農業使用之定義,併予敘明。\n\n四、復查農業用地興建農舍辦法第15條規定:「依本辦法申請興建農舍之該農業用地應維持作農業使用...經檢查農業用地與農"
+  }
+ ]
+}

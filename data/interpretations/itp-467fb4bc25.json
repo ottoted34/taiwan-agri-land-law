@@ -1,0 +1,58 @@
+{
+ "id": "itp-467fb4bc25",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000128381號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢農舍申請疑義案，復請 查照。",
+ "content": "1.復台端100年5月3日申請書。\n2.依「農業用地興建農舍辦法」第3條第1項規定，農舍申請人應為農民，且符合無自用農舍及為該農地所有權人等資格者，得申請興建農舍，台端如欲申請興建農舍，須符合前揭條件。\n3.有關申請興建農舍資格認定係為縣市政府權責，因您所詢係屬個案認定，建議請檢附相關資料逕洽縣市政府，以資便捷。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000128381號|有關台端函詢農舍申請疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4c9d163520b2267e6d8013cbd2ac83f6c86c87eb2515ddb585549d84d9fde7d7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "案,復請 查照。\n1.復台端100年5月3日申請書。\n2.依「農業用地興建農舍辦法」第3條第1項規定,農舍申請人應為農民,且符合無自用農舍及為該農地所有權人等資格者,得申"
+  }
+ ]
+}

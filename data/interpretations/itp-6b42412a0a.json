@@ -1,0 +1,50 @@
+{
+ "id": "itp-6b42412a0a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1011813761號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函為土地經買賣登記予他人，後經市公所調解委員會調解其買賣契約無效，於土地登記簿謄本上以「調解回復所有權」登記為原土地所有權人所有，其土地取得時點認定疑義案，復請查照。",
+ "content": "1.依據內政部101年6月4日內授中辦地字第1016035093號函辦理（檢附影本乙份供參），並復貴府101年5月15日府工建字第1010119898號函。\n2.內政部前開函說明二略以：「...，『調解回復所有權』係指因法律行為不成立或當然、視為自始無效，經調解回復所有權所為之登記，亦即將原自始不存在之所有權權利變更登記塗銷，並回復原有權利狀態之登記，非屬所有權之移轉登記，...故採『調解回復所有權』為登記原因所為之塗銷登記者，應回復該所有權人原取得所有權登記之狀態，其取得時點應按原取得時點加以審認，而非以該調解回復所有權之登記日期為準，...」，爰貴府所詢土地登記謄本上以「調解回復所有權」原因登記為原土地所有權人所有，該土地所有權人取得農業用地之時間 ，應以原取得土地時點為準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1011813761號|有關貴府函為土地經買賣登記予他人後經市公所調解委員會調解其買"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9536dcaf8420e19966b9d11f44b5af323d0fcd2def1ca2bedf70e7331cc57ae2",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

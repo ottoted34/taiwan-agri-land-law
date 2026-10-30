@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5135",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:37+08:00",
+   "fetched_at": "2026-10-30T11:22:49+08:00",
    "source_key": "rmis:5135"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080232427號|農業發展條例第38條之1土地不適用申請農業用地作農業設施容許"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,28 +46,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "38-1",
    "kind": "extracted",
    "snippet": "農業發展條例第38條之1土地不適用申請農業用地作農業設施容許使用審查辦法申請農業設施\n主旨:有關農業發展"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "農業發展條例第38條之1土地不適用申請農業用地作農業設施容許使用審查辦法申請農業設施\n主旨:有關農業發展條例第38條之1土地申請農業設施容許使用案如說明"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)係針對農發條例第8條之1第2項所定農業用地上興建有固定基礎之農業設施,並依據同條第3項授權訂定,就農業設"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "40",
+   "kind": "extracted",
+   "snippet": "之合法使用及設施,未能符合變更後之土地使用分區管制規定者,依都市計畫法第40條及同法臺灣省施行細則第31條規定,得繼續為原來之使用,惟除准修繕外,不得增建或改"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,65 @@
+{
+ "id": "itp-7a7c15a75e",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第1050811097號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關新北市淡水區○○○地號土地分割限制疑義一案，詳如說明，請查照。",
+ "content": "一、依據本部營建署案陳貴所105年7月28日(105)明燕字第105070號函辦理。\n二、按農業用地興建農舍辦法第12條第3項及第4項規定:「已申請興建農舍領有使用執照之農業用地經套繪管制，除符合下列情形之一者外，不得解除:......三、農舍用地面積與農業用地面積比例符合法令規定，經依變更使用執照程序申請解除套繪管制後，該農業用地面積仍達零點二五公頃以上。」、「前項第三款農舍坐落該筆農業用地面積大於零點二五公頃，且二者面積比例符合法令規定，其餘超出規定比例部分之農業用地得免經其他土地所有權人之同意，逕依變更使用執照程序解除套繪管制。」故農舍坐落之農業用地面積及比例如符合上開規定，其餘超出規定比例部分之農業用地，自得辦理解除套繪管制，免經其他土地所有權人同意。\n三、另外，有關興建農舍之耕地如符合農業發展條例第16條規定，得否先分割或經由法院裁判分割後，始辦理解除套繪等事宜，涉農業發展條例規定，請逕向行政院農業委員會洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第1050811097號|有關新北市淡水區○○○地號土地分割限制疑義一案詳如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d1dc0639204a8530919417bfbcbbf40f213f0dbd3177e909667dc3f252811e62",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "年7月28日(105)明燕字第105070號函辦理。\n二、按農業用地興建農舍辦法第12條第3項及第4項規定:「已申請興建農舍領有使用執照之農業用地經套繪管制,除符合下列"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "經其他土地所有權人同意。\n三、另外,有關興建農舍之耕地如符合農業發展條例第16條規定,得否先分割或經由法院裁判分割後,始辦理解除套繪等事宜,涉農業發展條例規定,"
+  }
+ ]
+}

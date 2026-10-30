@@ -1,0 +1,72 @@
+{
+ "id": "itp-2ff20a05e6",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第093105383號",
+ "date": "2004-03-25",
+ "date_text": "93年3月25日農糧企字第093105383號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "004 釋農業業發展條例規定免申請建築執照之農業設施建築時點認定疑義",
+ "content": "依「違章建築處理辦法」第3條第2項規定：「直轄市、縣 (市) 主管建築機關應視實際需要置違章建築查報人員在轄區執行違章建築查報事項。鄉(鎮、市、區) 公所得指定人員辦理違章建築之查報工作。」有關農業發展條例第8條之1第2項規定免申請建築執照之農業設施有關建築點之認定，可否由村里長出具證明一節，經查「地方制度法」並無規定村里長可執行建築管理事務，故仍請依上開規定辦理。至於無安全顧慮農業設施之適用對象，行政院農業委員會已於92年12月15日農授中字第092107078號令公告在案，有關蘆竹鄉公所建議「無安全顧慮」可否由農民切結一節，由於考量上開設施涉建築管理、人民生命及財產安全等問題，實有時不宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第093105383號|釋農業業發展條例規定免申請建築執照之農業設施建築時點認定疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "caf7cce7f639c891121e435810d472900a948130cad2edfc2d9adc005e635f59",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "(鎮、市、區) 公所得指定人員辦理違章建築之查報工作。」有關農業發展條例第8條之1第2項規定免申請建築執照之農業設施有關建築點之認定,可否由村里長出具證明一節,經"
+  }
+ ]
+}

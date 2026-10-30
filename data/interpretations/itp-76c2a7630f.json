@@ -1,0 +1,58 @@
+{
+ "id": "itp-76c2a7630f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970132532號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關單一地號於農業發展條例修正施行後方取得全部，其取得時點之認定疑義案，復請查照。",
+ "content": "1.復 貴府府農地字第0970143439號函。\n2.本件所稱84年取得4/5土地所有權後，於94年再取得1/5土地所有權，成為該地號農地之單一所有權人，因其權利主體已更動，其「土地取得」之認定時點，應以土地登記機關完成94年取得所有權登記之時點為基準。\n3.至如以農業發展條例修正施行前(84年)取得4/5之土地，申請興建農舍，得依本會96年3月14日農授水保字第0961848173號函示之「共有農業用地申請興建農舍之處理原則」態樣一處理原則2辦理（正本諒達）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970132532號|有關單一地號於農業發展條例修正施行後方取得全部其取得時點之認"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7850b3aca3a210d1947247a202032995c05784af696bd5df34013093e3cdeea7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關單一地號於農業發展條例修正施行後方取得全部,其取得時點之認定疑義案,復請查照。\n1.復 貴府府農地字第"
+  }
+ ]
+}

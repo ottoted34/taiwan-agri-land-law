@@ -1,0 +1,58 @@
+{
+ "id": "itp-be2e113597",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941801590號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關非都市土地被使用分區界線(一般農業區及風景區)逕為分割之二筆相鄰農地，是否符合農業發展條例所稱一宗土地，申請興建農舍案，本會意見如說明，復請查照",
+ "content": "一、復 貴署94年1月17日營署建管字第0940000272號函。\n二、依農業發展條例第十八條規定之意旨，於自有農業用地興建農舍者，係以土地所有權人單獨所有之一宗農業用地，為計算興建農舍面積之標準。此所謂「一宗」農業用地，係指土地登記之單一筆地號農業用地而言。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941801590號|有關非都市土地被使用分區界線一般農業區及風景區逕為分割之二筆"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "97101b29c430a09e2440cdb4fe497dead5ffd2984e205abb83adbf14a2199352",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "4年1月17日營署建管字第0940000272號函。\n二、依農業發展條例第十八條規定之意旨,於自有農業用地興建農舍者,係以土地所有權人單獨所有之一宗農業用地,為"
+  }
+ ]
+}

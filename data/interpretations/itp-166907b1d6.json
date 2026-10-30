@@ -1,0 +1,63 @@
+{
+ "id": "itp-166907b1d6",
+ "doc_class": "interpretation",
+ "docno": "農企字第0931021339號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋農業用地容許作菇類栽培場、菇包製包場或廢菇包處理場之農業設施使用審查疑義案",
+ "content": "一、依「農業用地容許作農業設施使用審查辦法」第十一條規定，其有關菇類栽培場、菇包製包場或廢菇包處理場之農作產銷設施審查條件，係依生產需要核定，對於上述設施間並無比例之限制。惟直轄市或縣（市）政府本於職權而就當地農業經營發展需要、農業用地之區位及面積是否未零散且屬經營所需或實際審查需要等情形，另有相關審查准駁或規範者，亦應符合法制規定。\n二、另本會農糧署就本案表示意見略以：屏東地區氣溫較高，如無環（溫）控設施，並不適菇類栽培，本案應請申請人說明栽培之菇蕈種類、菌種來源、環（溫）控設施結構及廢棄太空包處理方式等，俾瞭解其栽培模式，以上併此敘明提供貴府審查參考。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0931021339號|釋農業用地容許作菇類栽培場菇包製包場或廢菇包處理場之農業設施"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dc4351730e14fcc46e1bf86c3785d73216d706ad471b7f583fa565f448490bc2",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "場、菇包製包場或廢菇包處理場之農業設施使用審查疑義案\n一、依「農業用地容許作農業設施使用審查辦法」第十一條規定,其有關菇類栽培場、菇包製包場或廢菇包處理場之農作產銷設施審查條件,係依生產"
+  }
+ ]
+}

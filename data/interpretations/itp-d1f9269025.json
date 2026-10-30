@@ -1,0 +1,58 @@
+{
+ "id": "itp-d1f9269025",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1050055153號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地申請興建農舍，農舍用地面積及農業經營用地面積計算疑義1案，請依說明辦理，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局105年8月4日水保農字第1051832487號函、105年8月30日水保農字第1051810498號函辦理，並復陽明山國家公園管理處105年7月18日營陽環字第1051002543號函。\n二、農業用地範圍內如有河川、道(通)路或設施，農舍用地及農業經營用地面積之計算原則如下:\n(一)申請興建農舍之農業用地，其所規劃或已設置之道(通)路與設施物，得否計入農業經營用地面積內，原則以該道(通)路與設施物是否確供農業使用或容許作農業設施使用，依其申請目的採個案事實審認。\n(二)農業用地如因現有道路(該道路係無償提供公眾使用者)、公共溝渠或河川通過，或建築線指定致退讓部分屬公眾通行使用者，得先扣除上開使用面積後，再予計算農舍與農業經營用地面積。\n(三)無上開情形者，自應依農業用地興建農舍辦法第8條第3項規定計入農舍附屬設施，並應依同辦法第9條第2項第3款規定納入農舍用地計算。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1050055153號|有關農業用地申請興建農舍農舍用地面積及農業經營用地面積計算疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e12e358a12f4491274c7bde12347b6477864cb64807a11916285197b662c845b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "再予計算農舍與農業經營用地面積。\n(三)無上開情形者,自應依農業用地興建農舍辦法第8條第3項規定計入農舍附屬設施,並應依同辦法第9條第2項第3款規定納入農舍用地計算。"
+  }
+ ]
+}

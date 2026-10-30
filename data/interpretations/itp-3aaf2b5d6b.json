@@ -1,0 +1,66 @@
+{
+ "id": "itp-3aaf2b5d6b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990126162號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農地申請興建自用農舍其起造座落基地位置，面臨道路退縮及預設通路併入起造面積等相關疑義，復請查照。",
+ "content": "1.復貴府99年4月15日府農務字第0990084926號函。\n2.依據本會94年3月29日農企字第0940114321號函略以：「查『非都市土地使用管制規則』第6條第3項附表1規定，農牧用地之容許使用項目及許可使用細目業已分別規範『農業設施--農路』及『私設通路』之適用條件，又依『農業發展條例』第3條第12款規定：『農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。』故農業用地申請施設農業設施，均需與農業生產經營或農業使用相關，如設施申請目的係非農業使用，例如以農路專供建築用地上之社區居民通行使用，農業主管機關應不同意以農業設施容許使用方式辦理。」。\n3.另有關農業用地興建農舍面臨道路是否退縮及預設通路併入起造面積疑義，事涉土地使用及建築管理業務，請逕向內政部洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990126162號|有關農地申請興建自用農舍其起造座落基地位置面臨道路退縮及預設"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "63f8a249faa6ee8f22a4056844927ac30180afa34680d351b999368a0abcb3a9",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "會94年3月29日農企字第0940114321號函略以:「查『非都市土地使用管制規則』第6條第3項附表1規定,農牧用地之容許使用項目及許可使用細目業已分別規範『農業設施--"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "已分別規範『農業設施--農路』及『私設通路』之適用條件,又依『農業發展條例』第3條第12款規定:『農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  }
+ ]
+}

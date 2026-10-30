@@ -1,0 +1,58 @@
+{
+ "id": "itp-ecd4b395a2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848487號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "一般管制區道路用地經改劃為一般管制區農業用地，其申請興建農舍時點認定疑義案，復請查照。",
+ "content": "1.復 貴處96年5月2日營墾企字第0962901128號函。 2.查恒春鎮○○○地號土地，93年前劃定為一般管制區道路用地，即認定不屬於農業用地，自無興建農舍之權利，故93年間改劃為同區農業用地，並經認定屬農業用地範圍後，其得據以申請建農舍之權利，亦應從93年開始，其申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理，亦無合併土地計算農舍興建面積之情形。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848487號|一般管制區道路用地經改劃為一般管制區農業用地其申請興建農舍時"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "72b9c0b943e2566414332c786337c41b1d51a1cec7908d75a8c0ac0eefdb1bac",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "據以申請建農舍之權利,亦應從93年開始,其申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理,亦無合併土地計算農舍興建面積之情形。"
+  }
+ ]
+}

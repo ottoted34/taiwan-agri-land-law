@@ -1,0 +1,90 @@
+{
+ "id": "itp-ca4b1b1aa1",
+ "doc_class": "interpretation",
+ "docno": "農企字第890127877號",
+ "date": "2000-06-07",
+ "date_text": "89/6/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "001 釋申請人資格案",
+ "content": "一、查農業發展條例及相關配套法案之修定，對農地管理之重大變革即在於由「農地農有農用」政策調整為「放寬農地農有，落實農地農用」，即採管地不管人之政策，換言之，只要是我國國民，即可依法買賣承受耕地，而無原自耕能力證明書核發所規範職業、居所地點與耕地距離之限制。\n二、本案申請人既經僑務委員會核發我國國籍之身分證明文件，自可享國人之同等待遇，得依規定申請農業用地作農業使用證明。（華僑身分之申請人97-005）",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4873",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:17+08:00",
+   "source_key": "rmis:4873"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890127877號|釋申請人資格案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2000-07-26",
+    "history": "中華民國八十九年七月二十六日行政院農業委員會（89）農企字第 890010180 號令、內政部臺（89）內中地字第 8979945 號令、財政部臺財稅字第 0890048779 號令會銜訂定發布全文 21 條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "380ec7225a9dea238a068cac75da7885de73149bb95dc9d6e2fea8a0d1308d24",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "001 釋申請人資格案\n一、查農業發展條例及相關配套法案之修定,對農地管理之重大變革即在於由「農地農有農用」政策調整為「放"
+  }
+ ]
+}

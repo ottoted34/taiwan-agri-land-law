@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5902",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:44+08:00",
+   "fetched_at": "2026-10-30T11:17:57+08:00",
    "source_key": "rmis:5902"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1110013135號|已興建農舍90%農業經營用地之使用原則"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "1年6月16日觀宿字第1110600817號函辦理。\n二、依農業發展條例(以下簡稱農發條例)第18條規定及農業用地上准許興建農舍之政策目的,主要係為協助"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

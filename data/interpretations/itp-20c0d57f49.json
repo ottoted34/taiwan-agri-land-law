@@ -1,0 +1,59 @@
+{
+ "id": "itp-20c0d57f49",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050701977號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "臺端請釋位於山坡地保育區農牧用地設置休閒農場後，可否再依農業用地興建農舍辦法興建農舍一案，復請查照。",
+ "content": "一、復臺端105年1月13日申請釋示書。\n二、有關臺端所詢問題，前經桃園市政府函詢本會，本會水土保持局業以105年1月14日水保農字第1051800305號函復該府有案，請臺端逕洽桃園市政府查詢，並請該府就個案情形審理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050701977號|臺端請釋位於山坡地保育區農牧用地設置休閒農場後可否再依農業用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "94c3c8d8534cbeed1bd3cb7e984f4dba78d51df9cceb171dfc5dc81ee30f5563",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "臺端請釋位於山坡地保育區農牧用地設置休閒農場後,可否再依農業用地興建農舍辦法興建農舍一案,復請查照。\n一、復臺端105年1月13日申請釋示書。\n二、有關臺端"
+  }
+ ]
+}

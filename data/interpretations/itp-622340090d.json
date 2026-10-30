@@ -1,0 +1,72 @@
+{
+ "id": "itp-622340090d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960107183號",
+ "date": "2007-02-07",
+ "date_text": "96/2/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋市公所為設置納骨塔，辦理農業用地變更使用，是否得適用農業發展條例第12條第4項第1款規定，認定為政府興辦之公共建設及公益性設施，得免繳交農業用地變更回饋金案。",
+ "content": "主旨：有關　貴府函詢○○市公所為設置納骨塔，辦理農業用地變更使用，是否得適用農業發展條例第12條第4項第1款規定，認定為政府興辦之公共建設及公益性設施，得免繳交農業用地變更回饋金案，復請　查照。\n說明：\n一、復　貴府96年2月2日府農企字第○○○○○號函。\n二、依農業發展條例第12條第1項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，以供農業發展及農民福利之用，除有符合第4項之例外規定者，原則上均應依規定繳交。又本條例第12條第4項第1款所稱之「政府興辦之公共建設及公益性設施」，應符合屬「政府興辦」及「公共建設及公益性設施」2要件，方能適用之，先予敘明。\n三、查殯葬管理條例第1條及第11條規定，「為促進殯葬設施符合環保並永續經營；殯葬服務業創新升級，提供優質服務；殯葬行為切合現代需求，兼顧個人尊嚴及『公眾利益』，以提升國民生活品質，特制定本條例。」「依本條例規定設置或擴充之公立殯葬設施用地屬私有者，經協議價購不成，得依法徵收之。」爰以，公立殯葬設施應得審認為「公共建設及公益性設施」。本案竹北市公所設置之納骨塔，如經查明為市公所辦理之公立殯葬設施，應有農業發展條例第12條第4項第1款規定之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5128",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:20+08:00",
+   "source_key": "rmis:5128"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0960107183號|釋市公所為設置納骨塔辦理農業用地變更使用是否得適用農業發展條"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "0fd327b5759c57b316b2ced0dc0e659ae6398088417fff8ad98d00209ba7c10b",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "釋市公所為設置納骨塔,辦理農業用地變更使用,是否得適用農業發展條例第12條第4項第1款規定,認定為政府興辦之公共建設及公益性設施,得免繳交農業用地變更回饋"
+  }
+ ]
+}

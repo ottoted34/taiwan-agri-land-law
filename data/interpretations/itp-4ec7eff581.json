@@ -1,0 +1,58 @@
+{
+ "id": "itp-4ec7eff581",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1051833375號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "編定前農牧用地就有合法建物申請改建是否得再申請興建農舍資格。",
+ "content": "依農業用地興建農舍辦法第9條第2項第6款規定：「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，且農舍建築面積應超過45平方公尺。但經直轄市、縣(市)農業單位或其他主管機關同意者，不在此限。」，有關農舍之個案審查係屬直轄市、縣(市)政府之權責，本案是否屬分期興建之範疇，建議台端逕向所在地主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1051833375號|編定前農牧用地就有合法建物申請改建是否得再申請興建農舍資格"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "013a69c098bb73e8bdfaebec4146228ee26b513d5aff3c16e3717abe6b869f18",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "前農牧用地就有合法建物申請改建是否得再申請興建農舍資格。\n依農業用地興建農舍辦法第9條第2項第6款規定:「同一筆農業用地僅能申請興建一棟農舍,採分期興建方式辦理者,申"
+  }
+ ]
+}

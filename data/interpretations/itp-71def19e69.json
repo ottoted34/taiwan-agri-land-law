@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5716",
    "serial": null,
-   "fetched_at": "2026-10-30T09:51:46+08:00",
+   "fetched_at": "2026-10-30T11:18:58+08:00",
    "source_key": "rmis:5716"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100013499號|有關興建農舍之申請人資格條件涉及配合政府停灌措施之農業經營實"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "c15224cda99c7faffaee3e8f3ccac3cd94a5a9edf2500aae5c252faad1f438d9",
  "topics": [
@@ -41,16 +57,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": "極農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、農業用地興建農舍辦法第2條第2項規定:「前項第五款規定確供農業使用與不影響農業生產環境及農村發展之認定,由"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

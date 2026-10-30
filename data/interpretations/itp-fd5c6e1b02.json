@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5187",
    "serial": null,
-   "fetched_at": "2026-10-30T10:02:49+08:00",
+   "fetched_at": "2026-10-30T11:30:01+08:00",
    "source_key": "rmis:5187"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1040230609號|農業設施容許使用有關合理性必要性審認疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,22 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "104年8月6日府農保字第1040149863號函。\n二、查農業發展條例第8條之1第2項、第3項規定:「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "其他應遵行事項之辦法,由中央主管機關會商有關機關定之。」,爰「申請農業用地作農業設施容許使用審查辦法」(以簡稱容許辦法)之訂定係依法律明確之授權。又容許辦法第6條第1項第2款規定:「"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

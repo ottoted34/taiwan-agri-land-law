@@ -1,0 +1,79 @@
+{
+ "id": "itp-8ba78498ff",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0922906214號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於集村興建農舍之起造人疑義乙節，復請查照。",
+ "content": "一、復台端92年4月3日函。\n二、關於集村興建農舍之起造人，查「農業發展條例」第18條已明定「農舍起造人應為該農舍坐落土地之所有權人」且係「無自用農舍而需興建者」；次查起造人申請建造執照或雜項執照時，應備具申請書、土地權利證明文件、工程圖樣及說明書。「建築法」第30條定有明文。集村農舍起造人固各自持有農業用地，並依「農業用地興建農舍辦法」第8條第1款規定共同在一宗或數宗相毗連之農業用地整體規劃興建農舍，是集村農舍各起造人於尚未辦理該農舍坐落用地之權利移轉登記前，尚非均為該坐落用地之所有權人。如於審核農民資格或集村計畫時，未檢附相關之土地供共同起造人建築使用之同意文件，其於他人土地申請建築，自應依「建築法」前開規定取得土地權利證明文件申請建築。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0922906214號|關於集村興建農舍之起造人疑義乙節復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-084c27cce2",
+    "by_docno": "農授水保字第0970134808號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": " 2.台南市集村興建農舍案,係依 貴署92年5月5日營署綜字第0922906214號函釋,由○○○提供都市計農業區土地(台南市安南區○○○、○○○地號)供其他25位起造人興建集村農舍,查未涉本會92年3月7日農企字第0920111558號函有關位耕地辦理集村興建農舍之專案分割事宜,得依本會96年8月2日農水保字第0961848812號函辦理變更起造人(如附件)"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b18043f4411c09439b2cceadeb643cdf377f7da8fcb24a54d08ad82a76b1974e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "、復台端92年4月3日函。\n二、關於集村興建農舍之起造人,查「農業發展條例」第18條已明定「農舍起造人應為該農舍坐落土地之所有權人」且係「無自用農舍而需興建者」;次"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "項執照時,應備具申請書、土地權利證明文件、工程圖樣及說明書。「建築法」第30條定有明文。集村農舍起造人固各自持有農業用地,並依「農業用地興建農舍辦法」第8條第"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "法」第30條定有明文。集村農舍起造人固各自持有農業用地,並依「農業用地興建農舍辦法」第8條第1款規定共同在一宗或數宗相毗連之農業用地整體規劃興建農舍,是集村農舍各起造人於"
+  }
+ ]
+}

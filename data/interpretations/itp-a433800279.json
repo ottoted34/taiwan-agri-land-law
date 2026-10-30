@@ -1,0 +1,64 @@
+{
+ "id": "itp-a433800279",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961848801號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正後取得之共有農地，經分割為單筆土地，其所有權及面積未更動者，取得之時點計算得由分割前原登記日期起算，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理，復請查照。",
+ "content": "復 台端96年6月28日申請書。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961848801號|農業發展條例修正後取得之共有農地經分割為單筆土地其所有權及面"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5a36cec14e7fb3e2751001230824e59cbb11b76a670193afc0c41c98da44a56d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正後取得之共有農地,經分割為單筆土地,其所有權及面積未更動者,取得之時點計算得"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "者,取得之時點計算得由分割前原登記日期起算,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理,復請查照。\n復 台端96年6月28日申請書。"
+  }
+ ]
+}

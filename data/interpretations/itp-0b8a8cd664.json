@@ -1,0 +1,64 @@
+{
+ "id": "itp-0b8a8cd664",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851420號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關2筆農業用地是否須合併為1筆土地始得申請興建農舍疑義案，復請查照。",
+ "content": "一、復 台端95年5月15日陳情書。\n二、農業發展條例89年修正後，農舍興建僅限以單一筆地號之農業用地提出申請，不再採合併多筆土地興建之政策，又農業用地興建農舍辦法第3條第1項第3款：「申請興建農舍之該宗農業用地面積不得小於0.25公頃……。」，此所稱「該宗」農業用地，係指土地登記之單一筆地號農業用地而言；若有毗連2筆地號以上農業用地者，應先辦理合併為單一筆地號農業用地，且其面積在0.25公頃以上者，始得申請，以利農業用地管理。\n三、林業用地與農牧用地不得辦理合併，係「地籍測量實施規則」第224條：「土地因合併申請複丈者，應以同一地段、地界相連、使用分區及使用性質均相同之土地為限。……。」所規範，非屬本會政策執行及業務主管事項。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851420號|台端函詢有關2筆農業用地是否須合併為1筆土地始得申請興建農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c4919ec8fb5daea64d13db6e34d6ee99c57585ad27d3eb04f3a0845c7d576d6f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "義案,復請查照。\n一、復 台端95年5月15日陳情書。\n二、農業發展條例89年修正後,農舍興建僅限以單一筆地號之農業用地提出申請,不再採合併多筆土地興建"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "一筆地號之農業用地提出申請,不再採合併多筆土地興建之政策,又農業用地興建農舍辦法第3條第1項第3款:「申請興建農舍之該宗農業用地面積不得小於0.25公頃......。"
+  }
+ ]
+}

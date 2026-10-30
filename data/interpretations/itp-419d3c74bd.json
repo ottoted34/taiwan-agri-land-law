@@ -1,0 +1,52 @@
+{
+ "id": "itp-419d3c74bd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848010號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農地信託登記申請興建農舍疑義案，復請查照。",
+ "content": "一、復 貴府95年12月12日府農務字第0950369319號函。 二、按土地登記規則第93條規定：「土地總登記後，土地所有權移轉、分割、合併、增減或消滅時，應為變更登記。」;同規則第128條規定：「信託財產依第125條辦理信託登記後，於信託關係消減時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」，準此，由委託人依信託法規定將財產權（農地）移轉予受託人管理，須辦理權利變更登記;信託關係消滅，亦應申請塗銷信託登記觀之，信託關係成立後，信託財產（農地）經由變更登記，即發生所有權移轉之法律效果。至信託法第35條規定：「受託人除有左列各款情形之一外，不得將信託財產轉為自有財產，或於該信託財產上設定或取得權利……」係信託法就信託財產之特殊所為之規定，然並不改變因信託關係而生所有權移轉之事實。 三、本案○○○93年4月29日購入○○市○○○地號系爭土地，嗣於同年5月26日信託系爭土地予○○○，依前揭規定，委託人○○○已將系爭地號土地所有權移轉予受託人○○○，且辦畢農地信託登記，應認所有權已移轉。至○○○於95年1月5日解除信託並於同年1月6日完成登記，依土地法第43條規定：「依本法所為之登記，有絕對效力」，故該筆土地擬申請興建農舍，其土地取得滿2年之計算，應以95年1月6日為起算點應無疑慮。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848010號|農地信託登記申請興建農舍疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "47b0c70ea00a7c08f2a89818f8dd5cf48bb7da7207a0dac2e3b98e6f45f58baf",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

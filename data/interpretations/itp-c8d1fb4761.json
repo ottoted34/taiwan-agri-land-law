@@ -1,0 +1,58 @@
+{
+ "id": "itp-c8d1fb4761",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1030737534號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍基地內排放水是否可以在基地內之排水溝案，復請查照。",
+ "content": "一、復貴公司103年12月11日閩建字第1031202號函。\n二、依農業用地興建農舍辦法第9條第1項第5款規定：「農舍之放流水應符合放流水標準，並排入排水溝渠。放流水流經屬灌排系統或私有水體者，並應符合下列規定：(一)排入灌排系統者，應經該管理機關(構)同意及水利主管機關核准。(二)排入私有水體者，應經所有人同意。」，先予敘明。\n三、上揭規定係為避免農舍放流水影響農業生產與環境衛生，爰農舍放流水應於符合相關標準及條件下排入排水溝渠，不得任其排放於基地內，尚不宜有放寬或限制免排放範圍之規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1030737534號|有關農舍基地內排放水是否可以在基地內之排水溝案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d4681f5eced520cbc56e360ac3fafcd620dffe233bc99f531744824fbcf0b97b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "公司103年12月11日閩建字第1031202號函。\n二、依農業用地興建農舍辦法第9條第1項第5款規定:「農舍之放流水應符合放流水標準,並排入排水溝渠。放流水流經屬灌"
+  }
+ ]
+}

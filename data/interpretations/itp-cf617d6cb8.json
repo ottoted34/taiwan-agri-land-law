@@ -1,0 +1,65 @@
+{
+ "id": "itp-cf617d6cb8",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070223538號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關您電郵致本會首長信箱反映「有關農地取得時間的認定」案。",
+ "content": "一、依農業用地興建農舍辦法第2條第1項第2款規定「申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。」，另依據同項第3款規定「申請興建農舍之該筆農業用地面積不得小於0.25公頃…」，係指單一筆地號而言，並不得以多筆相毗鄰土地面積合併計算。\n二、有關土地取得時點之認定，本會前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。爰此，倘屬農業發展條例89年1月4日修正施行後取得農業用地，且無自用農舍須興建者，申請興建農舍應符合上開之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070223538號|有關您電郵致本會首長信箱反映有關農地取得時間的認定案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d5123462c05970b39f5f5d3d5d9a323f2ea711e5a30b8094b9bc3dfa510c2f2a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "電郵致本會首長信箱反映「有關農地取得時間的認定」案。\n一、依農業用地興建農舍辦法第2條第1項第2款規定「申請人之戶籍所在地及其農業用地,須在同一直轄市、縣(市)內,且"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",係以原因發生日期認定外,其餘則以登記日期為基準。爰此,倘屬農業發展條例89年1月4日修正施行後取得農業用地,且無自用農舍須興建者,申請興建農舍應符合上"
+  }
+ ]
+}

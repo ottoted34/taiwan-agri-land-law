@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3827",
    "serial": null,
-   "fetched_at": "2026-10-30T10:06:58+08:00",
+   "fetched_at": "2026-10-30T11:34:10+08:00",
    "source_key": "rmis:3827"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1030054464號|關於貴府函詢都市計畫農業區土地被徵收申請興建農舍疑義1案復請"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -49,22 +55,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "03年6月19日府農務字第1030097291號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第4條規定之立法意旨係為保障89年1月28日農業發展條例修正生"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "以下簡稱本辦法)第4條規定之立法意旨係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興辦公共事業,先予敘明。\n"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

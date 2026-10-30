@@ -1,0 +1,64 @@
+{
+ "id": "itp-0443f40bfe",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991874936號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關共有農業用地申請興建農舍資格審查疑義，復請查照。",
+ "content": "1.復貴局99年3月31日北農牧字第0990282003號函。\n2.依據本會97年2月5日農授水保字第0971843110號函說明二：「以共有土地持分部份申請興建農舍者，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在分管土地範圍內，農舍仍以整筆土地註記，日後共有土地辦理分割，未納入興建農舍計算之土地可要求取消註記，惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定，...。」另依該函說明三：「...，共有人亦得共同申請興建1戶(棟)農舍，...。」。若僅部分共有人共同申請，而取得其它共有人之同意書，應無上開函釋之適用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991874936號|有關共有農業用地申請興建農舍資格審查疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "698e2581a89df5c694ce77a2f60ce9565f1a122f1d97d0d817eb6a33ec80101c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "入興建農舍計算之土地可要求取消註記,惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定,...。」另依該函說明三:「...,共有人亦得共同申"
+  },
+  {
+   "law_id": "RMIS-3010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "要求取消註記,惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定,...。」另依該函說明三:「...,共有人亦得共同申請興建1戶(棟)農"
+  }
+ ]
+}

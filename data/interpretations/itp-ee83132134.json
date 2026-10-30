@@ -1,0 +1,64 @@
+{
+ "id": "itp-ee83132134",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990156784號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關共有農地依土地登記規則第155條之1辦理共有物使用管理登記後，於申辦建造執照時，得否免檢附共有人之土地同意書或分管協議書乙案，復如說明，請 查照。",
+ "content": "1.依據內政部營建署99年8月20日營署建管字第0990056166號函轉苗栗縣政府99年8月12日府商建字第0990147844號函辦理。\n2.依本會96年3月9日農授水保字第0961848205號函意旨，以共有農地持分部份申請興建農舍者，除其他共有人同意書外，應檢附分管契約，惟該分管契約係屬私契約，目的為確認農舍興建在分管土地範圍內，農舍仍以整筆土地登記，日後共有土地辦理分割，未納入興建農舍計算之土地可要求取消註記，惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定。\n3.依前揭函釋，本會仍建議宜檢附其他共有人同意書及分管契約，以供審認農舍興建在分管土地範圍內。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990156784號|有關共有農地依土地登記規則第155條之1辦理共有物使用管理登"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "aa9f37a0c32f6e19ad9b11db513eaaf687849af12d29d00e7ef872767b7cc17c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "入興建農舍計算之土地可要求取消註記,惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定。\n3.依前揭函釋,本會仍建議宜檢附其他共有人同意書及"
+  },
+  {
+   "law_id": "RMIS-3010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "要求取消註記,惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定。\n3.依前揭函釋,本會仍建議宜檢附其他共有人同意書及分管契約,以供審認"
+  }
+ ]
+}

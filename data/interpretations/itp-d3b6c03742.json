@@ -1,0 +1,99 @@
+{
+ "id": "itp-d3b6c03742",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第0930112142號",
+ "date": "2004-03-15",
+ "date_text": "93年3月15日農糧企字第0930112142號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "046 釋免申請建築執照之農業設施執行疑義，暨農業用地容許作農業設施使用同意文件之有效期限",
+ "content": "一、農業發展條例第8條之1第2項規定免申請建築執照之農業設施有關建築時點之認定，依本會93年2月23日農授糧字第0931002492號函說明三略以：「．．得以建築主管機關違章查報之資料，或房屋稅籍證明、或航照圖等資料認定之。」本案申請人以檢附臺灣電力公司供電及中華電信公司申裝電話之證明文件得否認定一節，查申請人持有供電或申裝電話證明雖得以認定有建築設施，惟仍請貴府就該項設施是否與供電或申裝電話位置相符合予以個案審認外，並應符合本會92年12月15日農授中字第0921070708號令規定「無安全顧慮」之認定條件。\n二、又請示農業用地作農業使用證明書之核發，申請人應檢附之附件究以農業用地容許作農業設施使用同意書或同意函為要件一節，查上開農業設施容許使用同意書或同意文件，均為農業經營需要而訂定，除申請人未依核定計畫使用外，其效力不因法規之變更或土地所有權人之異動而有不同。至於「農業用地容許作農業設施使用審查辦法」第22條規定之農業用地容許作農業設施使用同意書之有效期限，係指申請建築執照之期間而言。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第0930112142號|釋免申請建築執照之農業設施執行疑義暨農業用地容許作農業設施使"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "22",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "22",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4e2f3ec8c6d2bc30a4e47ac7fd6cd4a93a11aa02ee1fb6be1d2811f97b495783",
+ "topics": [
+  "farm_use_cert",
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "行疑義,暨農業用地容許作農業設施使用同意文件之有效期限\n一、農業發展條例第8條之1第2項規定免申請建築執照之農業設施有關建築時點之認定,依本會93年2月23日農授"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "22",
+   "kind": "extracted",
+   "snippet": "用外,其效力不因法規之變更或土地所有權人之異動而有不同。至於「農業用地容許作農業設施使用審查辦法」第22條規定之農業用地容許作農業設施使用同意書之有效期限,係指申請建築執照之期間而言。"
+  }
+ ]
+}

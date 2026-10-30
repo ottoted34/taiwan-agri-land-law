@@ -1,0 +1,58 @@
+{
+ "id": "itp-fb57cdf71b",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961848387號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所函詢農業發展條例修正施行前取得農業用地，於該條例修正施行後辦理分割交換合併，合併後面積減少72平方公尺，可否依農業發展條例修正施行前之規定申請興建農舍案，復請查照。",
+ "content": "一、復貴事務所96年3月27日申請函。 二、農業發展條例修正施行前取得農業用地，於該條例修正施行後與鄰地分割交換合併，如其權利主體未更動，且分割交換合併調整後之面積並未改變，得依農業發展條例修正施行前規定申請興建農舍。 三、○○○73年間取得之農業用地，於95年間辦理交換合併，其面積已更動且不符上述原則，其申請興建農舍應依農業發展條例修正施行後之規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961848387號|貴事務所函詢農業發展條例修正施行前取得農業用地於該條例修正施"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0bd0ad533f04c32d0d4c8b2dd66e5efa32d36e05b9585740468dde74dea965c5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴事務所函詢農業發展條例修正施行前取得農業用地,於該條例修正施行後辦理分割交換合併,合併後面積減少72平"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "itp-44bf05520f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1040221677號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用地經核發農業用地作農業使用證明書，於證明書有效期間內，如有違規使用情形是否應廢止已核發之證明書，其適用廢止之法令疑義案。",
+ "content": "主旨：有關貴局函詢農業用地經核發農業用地作農業使用證明書，於證明書有效期間內，如有違規使用情形是否應廢止已核發之證明書，其適用廢止之法令疑義案，復如說明，請查照。\n說明：\n一、復貴局104年6月8日新北農牧字第1041030082號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書(以下簡稱農用證明)，俾供持憑辦理不課徵土地增值稅、免徵遺產稅、贈與稅或申請興建自用農舍之用途。至農業用地經核發農用證明，且於該證明有效期間內，如有違規使用情事經查明屬實者，本會前於89年8月29日以(89)農企字第890142997號函說明在案，原核發機關得廢止已核發之農用證明，合先敘明。\n三、復依行政程序法第123條第4款規定：「授予利益之合法行政處分，有下列各款情形之一者，得由原處分機關依職權為全部或一部之廢止：．．．四、行政處分所依據之法規或事實事後發生變更，致不廢止該處分對公益將有危害者。」因農用證明係供作為賦稅優惠等用途使用，爰倘有違規使用之情事，自不得再享有上開優惠或興建農舍之權利。是以，倘有上開本會89年8月29日以(89)農企字第890142997號函釋所述情形者，仍請貴局依本會89年8月29日函說明及行政程序法第123條第4款規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1040221677號|農業用地經核發農業用地作農業使用證明書於證明書有效期間內如有"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9bce89d950b48e395f41903624d1e11af4dd076b013470afa3b2e5ad3943e042",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "123",
+   "kind": "extracted",
+   "snippet": "在案,原核發機關得廢止已核發之農用證明,合先敘明。\n三、復依行政程序法第123條第4款規定:「授予利益之合法行政處分,有下列各款情形之一者,得由原處分機關依職權"
+  }
+ ]
+}

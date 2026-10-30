@@ -1,0 +1,70 @@
+{
+ "id": "itp-454662cb8d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950140440號",
+ "date": "2006-07-21",
+ "date_text": "95/7/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關財團法人中央廣播電臺申請農業用地變更為特定目的事業用地，該事業是否屬符合農業發展條例第12條第4項第1款所稱「政府興辦之公共建設及公益性設施」得免繳交回饋金案。",
+ "content": "主旨：有關財團法人中央廣播電臺申請農業用地變更為特定目的事業用地，該事業是否屬符合農業發展條例第12條第4項第1款所稱「政府興辦之公共建設及公益性設施」得免繳交回饋金案，復請　查照。\n說明：\n一、復　貴府95年7月19日府農務字第0950137663號函。\n二、依農業發展條例第12條第1項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，以供農業發展及農民福利之用，除有符合第4項之例外規定者，原則上均應依規定繳交。至第4項第1款所稱之「政府興辦之公共建設及公益性設施」，業已限定應屬「政府」興辦之各項公共建設及公益性設施者，方能適用之。本案財團法人中央廣播電臺擬適用該規定，免予繳交回饋金一節，鑒於目前廣電媒體事業已自由化、商業化，財團法人中央廣播電臺之經營型態，是否屬政府興辦之認定，又其辦理之事項是否屬公共建設或公益性設施之項目，請由該財團法人報請目的事業主管機關鑒核，再轉本會俾據辦理，以符法制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5154",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:21+08:00",
+   "source_key": "rmis:5154"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950140440號|有關財團法人中央廣播電臺申請農業用地變更為特定目的事業用地該"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7914792f2f6cf58a614c6c01da4747cd743e7dcf25c3f1e2d843b48aff05224b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "廣播電臺申請農業用地變更為特定目的事業用地,該事業是否屬符合農業發展條例第12條第4項第1款所稱「政府興辦之公共建設及公益性設施」得免繳交回饋金案。\n主旨:有關"
+  }
+ ]
+}

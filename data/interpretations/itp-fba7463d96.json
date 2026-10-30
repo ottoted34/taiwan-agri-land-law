@@ -1,0 +1,52 @@
+{
+ "id": "itp-fba7463d96",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1001867030號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關96年至100年間集村及個別農舍申請案起造人申請當時名下所有房屋，惠請提供資料，作為後續政策評估之參據，請 查照。",
+ "content": "旨揭資料提供，個別農舍之抽樣調查數，以不少於20件為原則，至於集村農舍之抽樣調查數，考量新竹縣及宜蘭縣歷年申請案件數眾多，請前述二縣政府抽查5案，其他縣市政府則以1案為原則，若縣內無集村農舍案則免填。\n檢附抽樣調查統計表二式各1份，敬請貴府依附件格式填寫，並請於100年10月7日前免備文逕傳真至本會水土保持局彙整(本會水土保持局傳真號碼：049-2394298或049-2394296，請註明○○○收。)",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1001867030號|有關96年至100年間集村及個別農舍申請案起造人申請當時名下"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0c7cf663377d5248d3be24bcab45d3052c2b46ee991b450fbf8c59eac608500c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3260",
    "serial": null,
-   "fetched_at": "2026-10-30T09:59:17+08:00",
+   "fetched_at": "2026-10-30T11:26:30+08:00",
    "source_key": "rmis:3260"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051814188號|有關貴府函詢執行興建農舍申請人資格審查疑義案復如說明請查照"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定義,參照建築技術規則建築設計施工編有關道路之定義,包括指依都市計畫法或其他法律公布之道路、現有巷道及農路,不包括私設通路及類似道路。再者,倘農地上農"
+  },
+  {
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "議題第一次會議」案由二決議事項六,「農舍之農民資格核定後,雖農業用地興建農舍辦法未訂定期限,惟各縣市政府經衡酌是類申請案件後續程序所需期限,得依行政程序法第93"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "93",
+   "kind": "extracted",
+   "snippet": "定期限,惟各縣市政府經衡酌是類申請案件後續程序所需期限,得依行政程序法第93條規定,另訂行政處分之附款」,請貴府參照該項決議卓處。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

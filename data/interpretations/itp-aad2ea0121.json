@@ -1,0 +1,52 @@
+{
+ "id": "itp-aad2ea0121",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920168792號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於台端建議調降農舍及農地貸款利率案，復請查照。",
+ "content": "一、依據行政院秘書處92年11月18日院臺農字第0920061652號函轉台端10月20日致總統呈辦理。\n二、為輔導農民從事農業經營，歷年來本會經辦理多項專案農業貸款。其中，有關農舍及農地之貸款，有農業發展基金「輔導修建農宅專案貸款」及擴大家庭農場經營規模協助農民購買耕地貸款（如附），貸款利率目前分別為年息二、125%及2%，台端如符合上述貸款資格，可向設有信用部之農（漁）會、中國農民銀行、臺灣土地銀行或合作金庫銀行申請貸款。\n三、至於一般農貸，本會已於92年11月26日函請各（縣）市政府瞭解農（漁）會放款利率偏高因素，並輔導轄下放款利率偏高農（漁）會合理調降放款利率。\n四、本會已另函請中國農民銀行指派農貸輔導員瞭解台端所稱農貸利率偏高情形，並協助處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920168792號|關於台端建議調降農舍及農地貸款利率案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6ee61ba2f0e2ff1e8c89b58e617d9dd6e469959ddfba10b72a26d11a7e6d416e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

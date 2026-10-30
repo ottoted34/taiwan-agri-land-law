@@ -1,0 +1,52 @@
+{
+ "id": "itp-42fb3e4351",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0950016166號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於苗栗縣政府函詢有關不同地段而毗鄰之農地，得否將該毗鄰土地視為同一宗基地，准其申請興建農舍案，查係涉貴會94年1月21日農授水保字第0941801590號函釋略以：「…一宗農業用地，係指土地登記之單一筆地號。」屬貴會權責，仍請卓辦，請查照。",
+ "content": "一、復貴會95年3月27日農授水保字第0950115315號函。\n二、查「地籍測量實施規則」第225條規定：「土地界址調整應以同一地段、地界相連、使用分區及使用性質均相同之土地為限。」本案不同地段而毗鄰之農地即不得合併為單一筆地號，併予敘明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0950016166號|關於苗栗縣政府函詢有關不同地段而毗鄰之農地得否將該毗鄰土地視"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0a5f32420a6bb86e4e189afeefb3e8bb8780186ab6d245c1635984fe82e5a0bb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

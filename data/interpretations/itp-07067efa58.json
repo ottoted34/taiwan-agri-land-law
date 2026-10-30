@@ -1,0 +1,58 @@
+{
+ "id": "itp-07067efa58",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061809864號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○有限公司函詢申請農業用地興建農舍申請人資格資料證明一案，復如說明，請查照。",
+ "content": "一、復貴府106年8月24日府農管字第1060202219號函。\n二、依據農業用地興建農舍辦法第9條第2項第3款規定「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積之百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，先予敘明。\n三、另農地上農舍為連接現有道路所需之農路，倘經認定僅作為農舍通行之用，而非生產所需者，應將此作為農舍通行用途之設施，歸納為「農舍附屬設施」，於申請興建農舍時一併提出，其面積應併入興建農舍土地面積10％檢討，併予敘明。\n四、有關來函所詢農舍基地連接至聯外道路之通路最低寬度、農舍是否須設置停車空間，以及是否需檢附通路之高程斷面圖及高層斷面圖列式等問題，請貴府依上開原則及自治法規相關規定，就申請興建農舍個案事實本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061809864號|有關○○有限公司函詢申請農業用地興建農舍申請人資格資料證明一"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "526c51f15e11d57385153958c1c511e1193c73bae87cbbd8184e24b20f337e35",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "6年8月24日府農管字第1060202219號函。\n二、依據農業用地興建農舍辦法第9條第2項第3款規定「申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地面積之"
+  }
+ ]
+}

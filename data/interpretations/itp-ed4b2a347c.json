@@ -1,0 +1,64 @@
+{
+ "id": "itp-ed4b2a347c",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0970003273號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於申請興建農舍基地內所闢設之「私設通道」面積，應否於申請面積中扣除，並據以計算可建築面積及樓地板面積等疑義乙案，復請查照。",
+ "content": "一、復台端97年1月14日申請書。\n二、農業用地興建農舍辦法第3條第1項第3款及第6條第1項第3款分別規定：「申請興建農舍之該宗農業用地面積不得小於0.25公頃。但參加集村興建農舍及於離島地區興建農舍者，不在此限。」、「申請興建農舍之該宗農業用地，扣除興建農舍土地面積後，供農業生產使用部分應為完整區塊，且其面積不得低於該宗農業用地面積90%。」，故申請興建農舍之農業用地面積應依前開規定檢討。\n三、又依93年3月5日修正後之非都市土地使用管制規則第6條附表一規定，農牧用地容許使用項目及其許可使用細目之「私設通路」，其附帶條件為「限於以集村方式興建農舍者…，因未面臨建築線，無道路可出入需要者。」，查前開台端申請書請釋內容似為申請個別興建農舍，非屬集村興建農舍，故該申請基地應無前開容許作私設通路之適用，亦無應否於申請面積中扣除私設通道面積之問題。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0970003273號|關於申請興建農舍基地內所闢設之私設通道面積應否於申請面積中扣"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0491dcaa585a55d12a97823b9c43198763a97710338e899c3a91b8b9f6c639cf",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "義乙案,復請查照。\n一、復台端97年1月14日申請書。\n二、農業用地興建農舍辦法第3條第1項第3款及第6條第1項第3款分別規定:「申請興建農舍之該宗農業用地面積不得小"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "業用地面積應依前開規定檢討。\n三、又依93年3月5日修正後之非都市土地使用管制規則第6條附表一規定,農牧用地容許使用項目及其許可使用細目之「私設通路」,其附帶條件為「限"
+  }
+ ]
+}

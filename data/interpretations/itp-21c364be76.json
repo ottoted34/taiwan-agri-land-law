@@ -1,0 +1,78 @@
+{
+ "id": "itp-21c364be76",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960107321號",
+ "date": "2007-03-23",
+ "date_text": "96/3/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋非屬用地變更編定之農業用地申請作為非農業使用案件，涉及農業用地變更回饋金及山坡地開發利用回饋金之收取疑義案。",
+ "content": "主旨：有關　貴府函詢非屬用地變更編定之農業用地申請作為非農業使用案件，涉及農業用地變更回饋金及山坡地開發利用回饋金之收取疑義案，復請　查照。\n說明：\n一、復　貴府96年2月2日府農務字第○○○○○號函。\n二、有關農業用地變更作為非農業使用案件，涉及「農業用地變更回饋金撥繳及分配利用辦法」及「山坡地開發利用回饋金繳交辦法」之繳交作業事宜與收取山坡地開發利用回饋金案件如何辦理回饋金撥繳作業，前經本會95年11月10日農企字第0950158636號函(如附)說明在案，至農業用地依容許使用方式變更為非農業使用，雖未涉及用地變更編定(如：容許作非農業使用、臨時使用)，但均已涉及農業用地變更為非農業使用，仍請依農業發展條例第10條及第12條規定辦理。\n三、至　貴府所詢已依「山坡地開發利用回饋金繳交辦法」繳交至林務局之案件，其撥交作業，涉關山坡地開發利用回饋金之收取作業，已另案請該局主政答復。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5126",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:12+08:00",
+   "source_key": "rmis:5126"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0960107321號|釋非屬用地變更編定之農業用地申請作為非農業使用案件涉及農業用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6916a6116f1702708974ea27b85081818f5fd0246e840372dfe820d773621d0b",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○○○○號函。\n二、有關農業用地變更作為非農業使用案件,涉及「農業用地變更回饋金撥繳及分配利用辦法」及「山坡地開發利用回饋金繳交辦法」之繳交作業事宜與收取山坡地開發利用回饋金案件如"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "使用、臨時使用),但均已涉及農業用地變更為非農業使用,仍請依農業發展條例第10條及第12條規定辦理。\n三、至 貴府所詢已依「山坡地開發利用回饋金繳交辦法」繳交至"
+  }
+ ]
+}

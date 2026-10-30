@@ -1,0 +1,58 @@
+{
+ "id": "itp-85c026d512",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849187號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴署函詢有關高雄縣民眾○○○申請自用農舍增編門牌變更戶數乙案，復如說明，請 查照。",
+ "content": "一、復 貴署96年10月11日營署建管字第0960051282號函。 二、按農業發展條例明定農舍應由無自用農舍之農民者始得興建，又一筆農地地號僅得興建一戶(棟)農舍，故依卷附高雄縣政府函，本案民眾於民國89年何以同意申請興建三幢三棟一戶之農舍，宜先查明。 三、又本會96年9月27日農授水保字第0961849031號亦引述貴部函示，明定申請自用農舍以同一戶自用為限，並無分棟建築，準此，本案農舍如准予辦理增編門牌變更戶數並維持同一所有權人所有，似未符合規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849187號|貴署函詢有關高雄縣民眾○○○申請自用農舍增編門牌變更戶數乙案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5fc64eec78dfd0b7e88a3254bf0815d8a436c62cff635f454705dad87b871af9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年10月11日營署建管字第0960051282號函。 二、按農業發展條例明定農舍應由無自用農舍之農民者始得興建,又一筆農地地號僅得興建一戶(棟)農舍,故"
+  }
+ ]
+}

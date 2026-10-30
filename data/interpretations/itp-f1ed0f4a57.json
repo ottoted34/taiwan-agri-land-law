@@ -1,0 +1,80 @@
+{
+ "id": "itp-f1ed0f4a57",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950110067號",
+ "date": "2006-03-06",
+ "date_text": "95年3月6日農企字第0950110067號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "006 釋免申請建築執照之無固定基礎農業設施得否核發接水、接電證明書等疑義案",
+ "content": "依現行農業發展條例第8條之1第1項規定，農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。另依本會90年10月9日（90）農企字第9000010368號函附會議紀錄決議略以：「依農業發展條例第8條第3項所搭建無固定基礎之臨時性與農業生產有關之建築物(設施)，不論其屬於都市土地或非都市土地，得免申請容許使用或認定，而直轄市、各縣市政府，若有特殊需要必須核發容許使用或認定之證明文件，得受理容許使用或認定之申請」。本案免申請建築執照之無固定基礎農業設施，如有特殊需要必須核發相關證明文件，請 貴府參考上開會議決議核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950110067號|釋免申請建築執照之無固定基礎農業設施得否核發接水接電證明書等"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "3f86026813614322c9f9cb7efda74b3e430fc2d26630420d543e0252994d5dd5",
+ "topics": [
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "之無固定基礎農業設施得否核發接水、接電證明書等疑義案\n依現行農業發展條例第8條之1第1項規定,農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "0)農企字第9000010368號函附會議紀錄決議略以:「依農業發展條例第8條第3項所搭建無固定基礎之臨時性與農業生產有關之建築物(設施),不論其屬於都市土地"
+  }
+ ]
+}

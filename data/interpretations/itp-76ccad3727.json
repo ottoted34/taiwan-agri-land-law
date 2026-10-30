@@ -1,0 +1,58 @@
+{
+ "id": "itp-76ccad3727",
+ "doc_class": "interpretation",
+ "docno": "中市農地字第1040025641號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問申請興建農舍疑義案，詳如說明，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局交下104年7月28日水保農字第1040723009號函辦理。\n二、依據行政院農業委員會103年12月15日農授水保字第1031289690號函示略以：「土地取得時點除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準…本條例修正施行前之共有耕地，於修正施行後分割為單獨所有者，雖其土地所有權部登記日期已變動為辦理共有物分割之日期，仍得適用本條例第18條第3項規定申請興建農舍。然上述例外規定僅就完全符合該項條文規定條件者適用之，如於共有耕地辦理分割為單獨所有後，續又進行其他土地處分者，自應回歸本會前述說明二原則辦理審認。」，合先敘明。\n三、爰台端之所有土地取得時間如屬上開函示之情形者，則自依上開函示意見辦理；惟如確欲申請興建農舍資格，應請台端提供相關資料過局審查。\n四、隨文檢附行政院農業委員會103年12月15日農授水保字第1031289690號函、農業用地興建農舍辦法及興建自用農舍申請人資格條件審查應附文件各1份供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:中市農地字第1040025641號|有關台端詢問申請興建農舍疑義案詳如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dbe2a1d9aa52cb39c73ea682e991b36e42f701d60dcb620d72d25ab896ce447d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "會103年12月15日農授水保字第1031289690號函、農業用地興建農舍辦法及興建自用農舍申請人資格條件審查應附文件各1份供參。"
+  }
+ ]
+}

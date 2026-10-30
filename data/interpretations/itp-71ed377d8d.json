@@ -18,17 +18,42 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4667",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:38+08:00",
+   "fetched_at": "2026-10-30T11:22:51+08:00",
    "source_key": "rmis:4667"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080232407號|有關興建農舍申請人資格審查農舍配置需臨路臨邊界疑義案復如說明"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2022-10-26",
+    "history": "中華民國一百十一年十月二十六日行政院農業委員會農企字第 1110013671 號令修正發布第 13 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "8981412aa9ad88951fb35d638ddea844e01b0a2a205c1b4c362a6d721358dd7f",
  "topics": [
@@ -40,28 +65,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "年7月29日府農農字第1080145335號函。\n\n二、依據農業發展條例(以下簡稱本條例)第18條規定,興建農舍應不影響農業生產環境及農村發展,其農業用"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "舍應不影響農業生產環境及農村發展,其農業用地應確供農業使用。農業用地興建農舍辦法(以下簡稱本辦法)第2條第2項規定:「前項第5款規定確供農業使用與不影響農業生產"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "13",
    "kind": "extracted",
    "snippet": "已編定為水利用地等情形,得視為臨接道路之審認原則。\n\n四、依申請農業用地作農業設施容許使用審查辦法第13條附表一之「農路」申請基準及條件規定:「應依生產需要核定」,爰農業用地申請農路之容"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請時之法規。\n\n六、至農業用地上存在未經申請興建之建築物,依建築法規定認屬為違章建築,當依該法及其法令處理;又本會106年2月8日農水保字第105"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

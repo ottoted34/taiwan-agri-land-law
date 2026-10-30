@@ -1,0 +1,58 @@
+{
+ "id": "itp-9e9f1daf24",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971844336號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行前土地佔2/3與修正施行後土地佔1/3之共有農業用地，其修法前取得之共有人得否由共有人名義共同申請農舍1棟疑義案，復請查照。",
+ "content": "一、復 貴府97年10月31日府農務字第0970144487號函。\n二、本案修法前取得之2/3共有農業用地得由該2/3共有人共同依修法前規定申請興建1棟農舍，似無檢附分管契約問題，惟仍應取得其他共有人(1/3農地所有權人)之同意書及分管契約。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971844336號|農業發展條例修正施行前土地佔2/3與修正施行後土地佔1/3之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "801ecf694722b87f73027786acc2cbec4370b50b75d8368f032aa3d0521af3e3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正施行前土地佔2/3與修正施行後土地佔1/3之共有農業用地,其修法前取得之共有"
+  }
+ ]
+}

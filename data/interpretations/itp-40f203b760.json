@@ -1,0 +1,64 @@
+{
+ "id": "itp-40f203b760",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041803986號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「共有農業用地申請分割為單獨所有後，辦理興建農舍釋疑」事宜",
+ "content": "一、按本會102年10月25日農水保字第1021866046號令規定，略以:「...，有關『農業發展條例』第18條所稱取得農業用地，應以土地登記簿所有權部認定之，除下列情形外，其取得時點以登記日期為基準:一、依民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，以原因發生日期為基準...。」，爰申請興建農舍農業用地其取得時點認定應依前開號令辦理。惟若屬農業發展條例89年1月28日修正施行前取得之共有耕地於修正施行後分割為單獨所有，得依本條例第18條第3項規定申請興建農舍。\n二、台端土地若屬農業發展條例89年1月28日修正施行後取得之農業用地，則經共有物分割後，申請興建農舍農業用地之取得時點認定應依上開號令辦理；另個案認定係屬直轄市、縣(市)政府權責，請逕洽縣市政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041803986號|共有農業用地申請分割為單獨所有後辦理興建農舍釋疑事宜"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041803986號|共有農業用地申請分割為單獨所有後辦理興建農舍釋疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "25724724f61db4a9c2039862c08a35381640aa12cfeb76e262a268e330cead1b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農水保字第1021866046號令規定,略以:「...,有關『農業發展條例』第18條所稱取得農業用地,應以土地登記簿所有權部認定之,除下列情形外,其取得時點以登記日"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-61bf0f1423",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981800647號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行後取得之農業用地擬與鄰地辦理分割交換，其土地權屬及面積不變動，得否依原所有權之登記日期申請興建農舍案，復請查照。",
+ "content": "一、復 貴府98年1月6日府農保字第0970207113號函。\n二、有關農業用地申請興建農舍，如申請土地經辦理合併分割交換調整後，其土地取得之時點計算基準認定基準，本會97年11月26日農授水保字第0971844308號函釋諒達本案○○○與○○○所有相鄰2筆土地辦理交換調整後時點認定係屬個案，其時點計算基準請依上開函本於權責依事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981800647號|農業發展條例修正施行後取得之農業用地擬與鄰地辦理分割交換其土"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e8b0247b5d6b38faf4c5c8a4362409a4da4ef7641e28d368417b896a6aa888e5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正施行後取得之農業用地擬與鄰地辦理分割交換,其土地權屬及面積不變動,得否依原所"
+  }
+ ]
+}

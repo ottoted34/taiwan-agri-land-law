@@ -1,0 +1,59 @@
+{
+ "id": "itp-400e834549",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960154394號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修法前取得之共有農地，於修法後因分割取得大於修法前之面積，可否以修法前之持分面積申請興建農舍案，復請查照。",
+ "content": "一、復 貴府96年9月29日府農務字第0960194817號函。 二、共有人最後取得持分面積維持原來修法前取得之持分面積或大於修法前取得之持分面積者，得適用修法前建管法令興建農舍，惟以修法前取得之原持分面積計算可興建農舍面積，本會96年3月14日農授水保字第0961848172號函送共有農業用地申請興建農舍之處理原則有案（正本諒達）。 三、農業發展條例修法前取得之共有農地，於修法後再取得部分面積並分割為單獨所有，其申請興建農舍依上述原則，得以修法前取得之原持分面積計算可興建農舍面積。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960154394號|農業發展條例修法前取得之共有農地於修法後因分割取得大於修法前"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bd0972a26a2a725f09895c2e97ffe5f352a33c5683cace2e6cb9b9cf774ad543",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修法前取得之共有農地,於修法後因分割取得大於修法前之面積,可否以修法前之持分面積"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "id": "itp-9e749b3917",
+ "doc_class": "interpretation",
+ "docno": "農企字第0910120824號",
+ "date": "2002-05-02",
+ "date_text": "91年5月2日農企字第0910120824號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "052 釋法院拍賣之農業用地申請農業用地作農業使用證明書，現場會勘時得由相關權利人或申請人指界案",
+ "content": "一、查農業用地作農業使用認定及核發證明辦法第15條第2項「直轄市或縣（市）政府或……辦理實地會勘時，應通知土地所有權人或代理人到場指界及說明，如界址無法確定，應告知申請人向地政機關申請鑑界。」其目的係為確定現勘土地即為申請土地無誤，且如界址範圍尚有疑義時，仍可由地政機關之鑑界，予以釐清，以確保當事人權益。其於一般農業用地之買賣、繼承或贈與時，課以土地所有權人或其代理人指界之責，於實務執行上尚無爭議。惟法院拍賣案件因係債權之強制執行，如因土地所有權人無法現場指界，即駁回農業用地作農業使用證明書之申請案件，恐有剝奪權利人或義務人應有權益之虞。\n二、是以，法院拍賣之農業用地申請農業用地作農業使用證明書時，亦得由相關權利人或申請人現場指界，如界址無法確定或有所疑義時，應請申請人向地政機關申請鑑界。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0910120824號|釋法院拍賣之農業用地申請農業用地作農業使用證明書現場會勘時得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "15",
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "15",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d706edecfb689bcc30cc33c2c5f0129dc79a5fe388f6a5c26bd2d3d83e028e86",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "業使用證明書,現場會勘時得由相關權利人或申請人指界案\n一、查農業用地作農業使用認定及核發證明辦法第15條第2項「直轄市或縣(市)政府或......辦理實地會勘時,應通知土地所有權人或代"
+  }
+ ]
+}

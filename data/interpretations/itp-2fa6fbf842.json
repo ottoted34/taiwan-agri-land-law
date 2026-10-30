@@ -1,0 +1,53 @@
+{
+ "id": "itp-2fa6fbf842",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040220491號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○於淡水區○○○地號興建農舍涉放流水排放疑義案，本會意見如說明，復請查照。",
+ "content": "一、復貴署104年5月29日營署綜字第1040032041號函。\n二、有關農舍放流水疑義，本會前以103年4月28日農授水保字第1030209563號函提供意見予內政部參考，其說明四就放流水若排入自然水體或區域性排水系統是否應經該水體管理機關同意一節，應視該水體管理機關是否訂有管理規定函釋有案，先予敘明。\n三、又查經濟部及本會98年3月30日會銜公告之河川與野溪之界點，係依「水庫集水區治理權責分工暨有關事項處理原則」所為之「治理」權責之分工或移轉，並於101年3月30日會銜廢止前開公告。經濟部於101年4月13日自行公告河川界點後，其上游區域之管理事宜，依該部水利署101年5月16日召開「中央管及跨省市河川界點以上之管理機制」會議決議四「..有關未登錄地之管理權責問題，現階段仍請依行政院秘書處98年10月14日院臺農字第0980064629號函附農委會等相關單位之研商結論『由各縣市政府為其土地管理機關』辦理」(本會水土保持局103年6月3日水保農字第1031811442號書函參照，副本諒達)。\n四、本案依新北市政府工務局及水利局函，該放流水係排放至毗鄰未登錄地之野溪，揆諸上開說明意旨，應得依貴署首揭函說明三，由新北市政府視個案事實逕予審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040220491號|有關○○○於淡水區○○○地號興建農舍涉放流水排放疑義案本會意"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5fe25ac4ef07e277704646ccda7f964f3561aa1385efae4cf3cd0450c8584340",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

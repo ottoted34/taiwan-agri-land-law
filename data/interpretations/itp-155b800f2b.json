@@ -1,0 +1,58 @@
+{
+ "id": "itp-155b800f2b",
+ "doc_class": "interpretation",
+ "docno": "台內中地字第0910020004號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於○○○申請農舍建物所有權第一次登記疑義乙案，復請查照。",
+ "content": "一、復貴府九十一年十二月十二日府地籍字第0910140356號函。\n二、依行政院農業委員會九十一年二月二十二日農輔字第0910108952號函略以：「農業發展條例第十八條規定『農舍應與其坐落用地併同移轉。』，係屬該條例修正前後農地之一貫政策，旨為避免造成農舍與基地分離所衍生之紛爭，其相關規定在『農業發展條例』修正前，已散見於貴管地政法令暨解釋函。」在案。另「..農舍起造人為基地所有人，於農舍未辦理建物所有權第一次登記前，已將農舍單獨讓與者，農舍買受人申請建物所有權第一次登記時，已違反上開農舍與基地一併移轉之規定，應不予受理。..」為本部八十三年一月二十七日台(83)內地字第8373440號函釋在案。本件參依上開規定農舍於尚未完成建物所有權第一次登記前，已將農舍移轉與第三人，因違反農業發展條例之規定，其申辦建物所有權第一次登記，應不予受理。至本件土地既已依規定編定為「農牧用地」，因農舍起造人非基地之所有權人，該管建築機關係依據何項法令規定核發農舍使用執照？宜由該管機關妥為處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:台內中地字第0910020004號|關於○○○申請農舍建物所有權第一次登記疑義乙案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f8a4804cea78e14c43bd1411f8d3b7920a6f08a0ca9d8b14dcbfda6ac41d76c9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "會九十一年二月二十二日農輔字第0910108952號函略以:「農業發展條例第十八條規定『農舍應與其坐落用地併同移轉。』,係屬該條例修正前後農地之一貫政策,旨為避免"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-e8670a9996",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1050701728號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴處函為查明林口區農舍拍賣有無限制案，復請查照。",
+ "content": "一、復貴處105年1月12日新北院霞104司執日字第118012號函。\n二、依農業發展條例(以下簡稱本條例)第18條第1項、第3項及第4項規定意旨，農舍承受人應為無自用農舍，且農舍應與其坐落用地併同移轉，經法院拍賣之農舍亦同，先予敘明。\n三、查投標人資格應符合無自用農舍之條件，本會96年2月13日農水保字第0961848111號函(附件一)各法院有案，又依本會96年9月4日農授水保字第0961848953號函(附件二)，同ー人因拍賣而同時取得2棟以上之農舍，與本會農地管理政策不符。\n四、次查為執行本條例第18條第4項農舍應與其坐落用地併同移轉之規定，內政部93年11月2日內授中辦地字第0930015211號函(附件三)、100年8月23日內授中辦地字第1000725328號令(附件四)暨104年6月23日台內地字第10404176173號函(附件五)釋在案，併請參辦。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1050701728號|有關貴處函為查明林口區農舍拍賣有無限制案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e066603f8ab51c5d19eed94d882def6a949883da15e0f8612ac08c4e179b09d8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "1月12日新北院霞104司執日字第118012號函。\n二、依農業發展條例(以下簡稱本條例)第18條第1項、第3項及第4項規定意旨,農舍承受人應為無自用農"
+  }
+ ]
+}

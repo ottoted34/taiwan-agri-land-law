@@ -1,0 +1,64 @@
+{
+ "id": "itp-abc130f8c9",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0920015265號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端詢問有關原農地所有權於農業發展條例修正後已贈與他人，之後又依調解回復所有權，取回農地，是否得依農業發展條例修正前之法令申請興建農舍乙案，復請查照。",
+ "content": "一、復台端92年3月19日函。\n二、查依行政院農業委員會90年11月28日90農輔字第900162022號函說明二，略以：「查民法第758條規定：『不動產物權，依法律行為而取得、設定、喪失、及變更者，非經登記，不生效力。』故若取得農業用地並完成登記日期於農業發展條例修正公布生效日（89年11月28日）後，自應依農業用地興建農舍辦法相關規定辦理申請興建農舍。」是以本案原農地所有權若於農業發展條例修正後回復所有權登記，則請參照行政院農業委員會上開90年11月28日函釋辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0920015265號|台端詢問有關原農地所有權於農業發展條例修正後已贈與他人之後又"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d931cf20221bb4b40a0315590b620d01b086d123d36e2c76ca9a74515f9615a1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台端詢問有關原農地所有權於農業發展條例修正後已贈與他人,之後又依調解回復所有權,取回農地,是否得依農業發展條例修正前之"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "於農業發展條例修正公布生效日(89年11月28日)後,自應依農業用地興建農舍辦法相關規定辦理申請興建農舍。」是以本案原農地所有權若於農業發展條例修正後回復所有權"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "itp-c8431f49ce",
+ "doc_class": "interpretation",
+ "docno": "農輔字第900167184號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關宜蘭縣政府函為89年1月28日農業發展條例修正施行後取得之農地及一併移轉之農舍，擬申請農舍增建，是否仍應依據90年4月26日發布之「農業用地興建農舍辦法」辦理一案，復如說明，請查照。",
+ "content": "一、復 貴署90年12月5日90營署綜字第071930號函。\n二、查「建築法」第9條第2款規定：「增建：原建築物增加其面積或高度者。但以過廊與原建築物連接者，應視為新建。」：又「都市計畫法臺灣省施行細則」第29條第2款規定：「農舍之高度不得超過4層或14公尺，建築面積不得超過申請人所有耕地或農場及已有建築用地合計總面積10%，．．．」。本案若於原已供興建農舍之建築基地（總面積10%）辦理現有農舍增建，即不受「農業用地興建農舍辦法」第3條有關農業用地面積與取得農業用地時間限制。\n三、本案新購農地在原有農舍是否辦理增建或新建，涉及前揭建築法規之認定，且依農業發展條例第18條規定，於該條例修正施行（89年1月28日）後取得之農業用地，無自用農舍而需興建者，依「農業用地興建農舍辦法」規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第900167184號|有關宜蘭縣政府函為89年1月28日農業發展條例修正施行後取得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "16db60078cf5e9c4703afc09823efc4bf4bcd35f31cb546142df6c27dfbcce27",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "貴署90年12月5日90營署綜字第071930號函。\n二、查「建築法」第9條第2款規定:「增建:原建築物增加其面積或高度者。但以過廊與原建築物連接者,應視為"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "其面積或高度者。但以過廊與原建築物連接者,應視為新建。」:又「都市計畫法臺灣省施行細則」第29條第2款規定:「農舍之高度不得超過4層或14公尺,建築面積"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "供興建農舍之建築基地(總面積10%)辦理現有農舍增建,即不受「農業用地興建農舍辦法」第3條有關農業用地面積與取得農業用地時間限制。\n三、本案新購農地在原有農舍是否辦理增建"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "地在原有農舍是否辦理增建或新建,涉及前揭建築法規之認定,且依農業發展條例第18條規定,於該條例修正施行(89年1月28日)後取得之農業用地,無自用農舍而需興建者"
+  }
+ ]
+}

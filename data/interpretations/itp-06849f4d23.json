@@ -1,0 +1,66 @@
+{
+ "id": "itp-06849f4d23",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920160737號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋都市計畫申請變更休閒農場設置繳交回饋金問題",
+ "content": "主旨：有關都市計畫內農業用地申請休閒農場設置，未涉及變更土地編定，其回饋金之繳納事宜，請查照。\n說明：\n一、復貴府九十二年十月九日府農務字第○九二○二七二六三○號函。\n二、依據農業發展條例第十二條規定，農業用地之變更，應視其事業性質，繳交回饋金。至農業用地之變更，依同條例第十條規定，係以變更為非農業使用為認定基準，故有關都市計畫範圍內農業用地變更作為非農業使用（含未變更地目者），應依據行政院核定之「農業用地變更回饋金撥繳及分配利用辦法」第三條規定辦理，就其變更或核准可建築使用面積時之面積與當期公告土地現值，核算應繳納金額。至其所應繳納之回饋金，依該辦法第五條規定，應於直轄市或縣（市）政府同意變更時繳納。\n三、參照非都市土地因作為休閒農場使用，就涉及土地變更使用為遊客休憩區者，依規定變更編定為特定目的事業用地，應繳交一定之回饋金，都市計畫設置相同設施，允宜採一致性之收取原則，以符農業發展條例第十二條之訂定意旨。本案應請依據上開說明辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920160737號|釋都市計畫申請變更休閒農場設置繳交回饋金問題"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9bb88c7b23af0ab1f0d76740490b69b5e7109c9dff186c8c6c22c020282603cb",
+ "topics": [
+  "land_change",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "十二年十月九日府農務字第○九二○二七二六三○號函。\n二、依據農業發展條例第十二條規定,農業用地之變更,應視其事業性質,繳交回饋金。至農業用地之變更,依同條例第十"
+  },
+  {
+   "law_id": "M0020018",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "用地變更作為非農業使用(含未變更地目者),應依據行政院核定之「農業用地變更回饋金撥繳及分配利用辦法」第三條規定辦理,就其變更或核准可建築使用面積時之面積與當期公告土地現值,核算應繳納金額"
+  }
+ ]
+}

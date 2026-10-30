@@ -1,0 +1,93 @@
+{
+ "id": "itp-f682db56fd",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940130438號",
+ "date": "2005-06-14",
+ "date_text": "94年6月14日農企字第0940130438號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋水土保持相關使用",
+ "content": "一、查農業用地作農業使用認定及核發證明辦法第5條明定「農業用地有下列情形，且無第6條及第7條之情形者，認定為作農業使用：一、農業用地實際作農作、森林、養殖、畜牧、『保育』使用者；....。二、農業用地上興建有農舍或施設有農業設施，並檢附合法證明文件者。」所稱保育係指為維護國土保安、水土保持等需要而設置之設施。又農業發展條例第8條之1第2項明定「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。」\n二、綜上，本案有關簡易水土保持計畫應經核准，且應依原核定計畫使用，故宜俟其依核准之簡易水土保持計畫施設完竣後，再依前開規定審核。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940130438號|釋水土保持相關使用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2007-11-21",
+    "history": "中華民國九十六年十一月二十一日行政院農業委員會農企字第 0960014 174 號令修正發布第 5 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "607b2abf735e7bae88f88a9bbea16c248d0531d1addc64ab464184e7bc653431",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "釋水土保持相關使用\n一、查農業用地作農業使用認定及核發證明辦法第5條明定「農業用地有下列情形,且無第6條及第7條之情形者,認定為作農業使用:一、農業"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "」所稱保育係指為維護國土保安、水土保持等需要而設置之設施。又農業發展條例第8條之1第2項明定「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並依"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-308e5eb3a2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951850887號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢關於集村興建農舍起造人持有耕地分別座落該農舍興建基地，及配合之耕地可否合併計算其自有耕地疑義案，復請查照。",
+ "content": "一、復貴府95年2月13日府農務字第0950040134號函。\n二、依「農業用地興建農舍辦法」第6條第3款規定：「申請興建農舍之該宗農業用地，扣除興建農舍土地面積後，供農業生產使用部分應為完整區塊，且其面積不得低於該宗農業用地面積90%……。」，有關申請集村興建農舍之該宗農業用地，與上開意旨相同，係包括農舍建築座落基地之農業用地及供農業生產使用之農業用地，即「各起造人所有各宗農業用地供農業使用面積」與「各起造人集中興建農舍座落農業用地之面積（含法定空地面積）」兩者之比率應不得低於9比1，亦即各起造人集中興建農舍座落農業用地之面積不得超過各起造人所有農業用地面積總和之10%，且不需屬同一宗農業用地。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951850887號|貴府函詢關於集村興建農舍起造人持有耕地分別座落該農舍興建基地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4663c251100a377145cb2eb98735aff734761b0fa9c704132efa2d11d04d194b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "95年2月13日府農務字第0950040134號函。\n二、依「農業用地興建農舍辦法」第6條第3款規定:「申請興建農舍之該宗農業用地,扣除興建農舍土地面積後,供農業生產使用"
+  }
+ ]
+}

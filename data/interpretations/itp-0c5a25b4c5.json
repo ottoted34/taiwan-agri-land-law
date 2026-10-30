@@ -1,0 +1,64 @@
+{
+ "id": "itp-0c5a25b4c5",
+ "doc_class": "interpretation",
+ "docno": "營暑綜字第0960048784號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於集村興建農舍坐落之農業用地同屬都市土地，各起造人農業用地位都市計畫風景區內之法令規定及國家公園內可否申請集村興建農舍疑義案，復請查照。",
+ "content": "一、復大會96年8月29日農授水保字第0961816749號函。 二、有關集村興建農舍坐落之農業用地土地，經電洽○○○表示，係詢問臺中市大坑風景區內土地得否興建集村農舍之事宜。查農業發展條例第3條「十、農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地…」，本案土地為都市計畫風景區，非屬都市計畫農業區或保護區，依規定都市計畫風景區內不得興建集村農舍。檢送本部94年7月20日召開「研商都市計畫農業區及保護區以外之使用分區興建農舍，是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄影本乙份供參。 三、又國家公園範圍內農舍之興建係依各國家公園保護利用管制原則及其他相關法規辦理，目前除金門國家公園容許興建20戶以下集村農舍外，其餘均未容許興建集村農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營暑綜字第0960048784號|關於集村興建農舍坐落之農業用地同屬都市土地各起造人農業用地位"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3fd6cc9a8c4f40a2182b5f7ed5f67c7496d4a0e7bc1c03a95d4fb4a9bfb29825",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "表示,係詢問臺中市大坑風景區內土地得否興建集村農舍之事宜。查農業發展條例第3條「十、農業用地:指非都市土地或都市土地農業區、保護區範圍內,依法供下列使用之土地"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業區及保護區以外之使用分區興建農舍,是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄影本乙份供參。 三、又國家公園範圍內農舍之興建係依各國"
+  }
+ ]
+}

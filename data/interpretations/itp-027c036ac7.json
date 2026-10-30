@@ -1,0 +1,65 @@
+{
+ "id": "itp-027c036ac7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0930123595號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於 貴公所向陳總統建議修正農業發展條例第18條第4項規定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人；…」，增列原住民保留地除外規定，以利承租人亦能興建農舍案，復如說明，請查照。",
+ "content": "一、依據行政院921震災災後重建推動委員會93年5月7日重建社字社區第0930006326號函辦理。\n二、農業用地上准許興建「農舍」之制度，係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其農事工作。為避免農舍與農業用地產權不一致造成農業經營與管理問題，農業發展條例第18條第4項始規定，不論修法前或修法後取得之農業用地，農舍之起造人應為該農舍坐落土地之所有權人，且農舍應與其坐落用地併同移轉或併同設定抵押權，先予敘明。\n三、對於非原住民是否得申請興建農舍，端視申請人是否為該土地之所有權人，即非原住民若取得原住民保留地土地所有權者，若符合農業用地興建農舍辦法相關規定者，亦得申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0930123595號|關於貴公所向陳總統建議修正農業發展條例第18條第4項規定第1"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2161b978990133912af0f76b0e4bc7afdc9047fde2fdbbec8ce4c89a65b3e940",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "關於 貴公所向陳總統建議修正農業發展條例第18條第4項規定:「第1項及前項農舍起造人應為該農舍坐落土地之所有權人;...」,增列"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之所有權人,即非原住民若取得原住民保留地土地所有權者,若符合農業用地興建農舍辦法相關規定者,亦得申請興建農舍。"
+  }
+ ]
+}

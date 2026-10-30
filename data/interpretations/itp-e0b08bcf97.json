@@ -1,0 +1,70 @@
+{
+ "id": "itp-e0b08bcf97",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0971843110號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正施行後取得之共有農業用地申請興建農舍之申請人之資格審核等疑義案，復請查照。",
+ "content": "一、復 貴府97年1月14日府農務字第0970006359號函。\n二、以共有土地持分部分申請興建農舍者，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內，農舍仍以整筆土地註記，日後共有土地辦理分割，未納入興建農舍計算之土地可要求取消註記，惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定，本會96年3月14日農授水保字第0961848173號示有案正本諒達；本會91年10月2日農輔字第0910151735號函釋不再適用。\n三、另依「農業用地興建農舍辦法」第3條第1項第3款規定：「申請興建農舍之該宗農業用地……。」，此所稱「該宗」農業用地，係指土地登記之單一筆農業用地而言，其立法意旨明確，一筆土地僅得申請興建l戶棟農舍為限；共有農地除依上開處理原則申請興建農舍外，共有人亦得共同申請興建l戶棟農舍，其申請人資格條件應符合上開辦法第3條第1項規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0971843110號|有關農業發展條例修正施行後取得之共有農業用地申請興建農舍之申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e3eb57140909efe43c6ab91e672e549e64732dac194dc6b789ba38bdf3f826fb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "入興建農舍計算之土地可要求取消註記,惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定,本會96年3月14日農授水保字第0961848173"
+  },
+  {
+   "law_id": "RMIS-3010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "要求取消註記,惟該共有土地之分割應符合農業發展條例第16條及耕地分割執行要點相關規定,本會96年3月14日農授水保字第0961848173號示有案正本諒達;"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "月2日農輔字第0910151735號函釋不再適用。\n三、另依「農業用地興建農舍辦法」第3條第1項第3款規定:「申請興建農舍之該宗農業用地......。」,此所稱「該宗」農"
+  }
+ ]
+}

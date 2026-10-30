@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4697",
    "serial": null,
-   "fetched_at": "2026-10-30T09:54:13+08:00",
+   "fetched_at": "2026-10-30T11:21:25+08:00",
    "source_key": "rmis:4697"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090201896號|檢送內政部109年1月13日營署綜字第1080097935號"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "9",
    "kind": "extracted",
    "snippet": "0097935號函(如附件),針對既有農舍申請拆除重建是否屬農業用地興建農舍辦法第9條第2項第6款所稱「分期興建」之規定\n依據內政部109年1月13日營署綜字第108"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

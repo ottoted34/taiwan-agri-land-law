@@ -1,0 +1,58 @@
+{
+ "id": "itp-0d9fcd6804",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041821139號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍興建。",
+ "content": "一、農舍係供直接從事農業生產之農民為輔助農業生產經營所需而興建，依農業用地興建農舍辦法第2條與第3條規定，農舍申請人應為農民，且農民之認定由直轄市、縣（市）主管機關審認。\n\n二、爰農業用地所有權人卻無農業生產事實與需求者，並不符上開農舍申請人之規定。惟興建農舍申請個案應由直轄市、縣（市）個案事實本權責卓處，請台端逕洽所轄地方政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041821139號|農舍興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "471af6e40ed1d2faca683cdab40bcdb8be28eb4a3460c85f809090394ae8f615",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "舍係供直接從事農業生產之農民為輔助農業生產經營所需而興建,依農業用地興建農舍辦法第2條與第3條規定,農舍申請人應為農民,且農民之認定由直轄市、縣(市)主管機關審認。\n"
+  }
+ ]
+}

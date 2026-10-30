@@ -1,0 +1,61 @@
+{
+ "id": "itp-7e79328271",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0991820020號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢未成年子女是否得申請興建農舍及農舍興建面積疑義案，復請查照。",
+ "content": "一、復台端99年7月20日申請書。\n二、依據內政部營建署90年2月20日九十營署建管字第002084號函（附件一）說明二，略以「...農地所有權人係未成年人，其申請興建農舍，得由其法定代理人代為申請。」，爰本案得由法定代理人代為提出申請。\n三、查本會94年6月9日農授水保字第0941811830號函（附件二）說明二，有關共同持有持分之農地所有權人，其共有人之一申請興建農舍，應取得其他共有人同意書申請興建一戶農舍，其他共有人不得再就其應有部分申請建築；至共有人之一就共有土地申請建築應否依持分比率計算建築面積及總樓地板面積，係屬私權行為，宜由共有人合意為之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0991820020號|有關台端函詢未成年子女是否得申請興建農舍及農舍興建面積疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-3df39e22a4",
+    "by_docno": "農水保字第1011865007號",
+    "by_date": "2012-02-20",
+    "kind": "cease",
+    "phrase": "本會95年11月17日農授水保字第0950164806號書函、95年9月14日農授水保字第0950151371號書函、95年6月7日農授水保字第0950130747號書函、95年4月18日農水保字第0950117959號函、95年3月1日農授水保字第0951850892號函、95年1月16日農授水保字第0951850793號函、94年11月1日農授水保字第0941849656號書函、94年9月8日"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7987cc359ff77e42cf550aec0d66d462da4981aa94a796973885af48e134f35f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

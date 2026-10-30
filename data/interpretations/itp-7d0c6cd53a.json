@@ -1,0 +1,64 @@
+{
+ "id": "itp-7d0c6cd53a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849244號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍及公共設施補助款核發處理原則，請依說明二、三辦理，請查照。",
+ "content": "一、依據本會96年10月18日召開研商「集村興建農舍及公共設施補助款核發處理原則」會議紀錄辦理。\n二、集村農舍及公共設施完成，經直轄市、縣(市)政府派員（補助款核發單位會同建管單位）實地勘查查驗符合規定之農戶依程序核發;惟不符合集村農舍規劃書圖之個別農戶，不予發給補助款，至改正符合規劃書圖經查驗後再予核發;涉及違反建築法或土地使用管制等規定者，應由權責單位依該管法令處理。\n三、符合「集村興建農舍獎勵及協助辦法」暨「集村興建農舍與公共設施申請補助程序及標準作業要點」規定者，申請時應由全體農民一次集中申請，惟為避免個別戶行為影響其他起造人之權益，得於領取補助款時個別受理及核發。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849244號|有關集村興建農舍及公共設施補助款核發處理原則請依說明二三辦理"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fe4bf27dd7e32e21474e4381a84f2956b72ba7a9152a6c5fd0ea134039787bfd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "不予發給補助款,至改正符合規劃書圖經查驗後再予核發;涉及違反建築法或土地使用管制等規定者,應由權責單位依該管法令處理。\n三、符合「集村興建農舍獎勵"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地使用管制等規定者,應由權責單位依該管法令處理。\n三、符合「集村興建農舍獎勵及協助辦法」暨「集村興建農舍與公共設施申請補助程序及標準作業要點」規定者,申請時應由全體農民"
+  }
+ ]
+}

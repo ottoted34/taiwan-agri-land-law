@@ -1,0 +1,70 @@
+{
+ "id": "itp-431aebd3cb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941811829號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於台端於89年7月7日取得之農地面積0.2498公頃，申請興建農舍疑義案，復請查照。",
+ "content": "一、復 台端94年5月25日申請函。\n二、依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依據土地使用管制及建築法令規定申請興建農舍，均不受申請興建農舍需有最低面積、土地取得應滿一定期間……等等規定限制，以保障原擁有農業用地之農民權益。在該條例修正公布生效日後取得之農業用地，自應依「農業用地興建農舍辦法」規定辦理。另「土地法」第43條規定，依本法所為之登記，有絕對效力。故「土地取得」之認定時點，應以土地登記機關登記之時點為基準，合先敘明。\n三、台端於89年7月7日取得之農業用地，申請興建農舍自得受上開辦法第3條規定，需有最低面積、土地取得應滿一定期間……等等規定限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941811829號|關於台端於89年7月7日取得之農地面積02498公頃申請興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0fa32eda80e78fc50715dd9ca8d84c82379102f19f0696f4f4dead285da23592",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復 台端94年5月25日申請函。\n二、依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍,係依農業用地取得日期之不同而有所"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、復 台端94年5月25日申請函。\n二、依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍,係依農業用地取得日期之不同而有所差異,在「農業發展條例」修"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "括繼承、贈與、買賣、拍賣等)之農業用地,得依據土地使用管制及建築法令規定申請興建農舍,均不受申請興建農舍需有最低面積、土地取得應滿一定期間...."
+  }
+ ]
+}

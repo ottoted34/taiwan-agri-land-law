@@ -1,0 +1,76 @@
+{
+ "id": "itp-1a27c8d54a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851675號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關農業發展條例修正施行前取得之農業用地，其申請興建農舍之農民資格條件審查疑義案，復請查照。",
+ "content": "一、復 貴府95年6月19日府農務字第09501047280號函。\n二、農業發展條例第18條第3項規定：「本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍……」。又農業用地興建農舍辦法第2條：「依本條例第18條第3項規定申請興建農舍之申請人應為農民，並符合第3條第1項第4款及第5款規定，其申請興建農舍，得依都市計畫法省（市）施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築法、國家公園法及其他相關法令規定辦理，不受本辦法所定申請興建農舍相關規定之限制。」合先敘明。\n三、於農業發展條例修正施行前取得農業用地之農民，其申請興建農舍者，其農民資格條件之審查，依據前開規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851675號|貴府函詢有關農業發展條例修正施行前取得之農業用地其申請興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e83bdd50c5b6e5e19e2636228ef14639a3ddea678c202acb1366f64bb59bf9f4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "95年6月19日府農務字第09501047280號函。\n二、農業發展條例第18條第3項規定:「本條例中華民國89年1月4日修正施行前取得農業用地,且無自用農舍而"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍......」。又農業用地興建農舍辦法第2條:「依本條例第1"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "關土地使用管制及建築法令規定,申請興建農舍......」。又農業用地興建農舍辦法第2條:「依本條例第18條第3項規定申請興建農舍之申請人應為農民,並符合第3條第1項第"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",並符合第3條第1項第4款及第5款規定,其申請興建農舍,得依都市計畫法省(市)施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築"
+  }
+ ]
+}

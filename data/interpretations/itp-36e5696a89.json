@@ -1,0 +1,58 @@
+{
+ "id": "itp-36e5696a89",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991817527號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關0.25公頃之農業用地，部分供他人通行使用，是否符合申請興建農舍之要件，復請查照。",
+ "content": "1.復內政部營建署99年6月28日營署綜字第0992912314號函轉台端99年6月15日致內政部營建署署長信箱電子郵件。\n2.以共有土地持分部分申請興建農舍者，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內。另共有農地除依上開處理原則申請興建農舍外，共有人亦得共同申請興建1戶（棟）農舍。參照本會97年2月5日農授水保字第0971843110號函。\n3.農業用地因現有道路通過，但尚未分割，該筆土地扣除道路面積後，未達0.25公頃，得由縣市主管機關依個案事實審認受理興建農舍之申請，提出申請之農業用地，仍應依「農業用地興建農舍辦法」第9條規定註記列管，且道路用地應不得提供農舍興建計算建築面積佔農業用地面積之比例，本會97年6月5日農水保字第0971835907號函釋有案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991817527號|有關025公頃之農業用地部分供他人通行使用是否符合申請興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0f1515c3e4d75682dd25b0d11bc6ef722b7732d5ede7151ab3ac852c916345c8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "依個案事實審認受理興建農舍之申請,提出申請之農業用地,仍應依「農業用地興建農舍辦法」第9條規定註記列管,且道路用地應不得提供農舍興建計算建築面積佔農業用地面積之比例,本會"
+  }
+ ]
+}

@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3240",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:56+08:00",
+   "fetched_at": "2026-10-30T11:28:09+08:00",
    "source_key": "rmis:3240"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051800276號|有關農業設施未依原核定之計畫內容使用於違規情節未排除前應不得"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "ade5c9a4afda4adefb09199316bee23c0c28dc9a70e15d9a0c0afd8d561cadf3",
  "topics": [
@@ -40,16 +56,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": "二、查上開號函說明五略以:「...104年9月4日修正發布之『農業用地興建農舍辦法』第2條明定,興建農舍須提送經營計畫,以確保該農業用地確供農業使用,並不得影響農業生產環"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

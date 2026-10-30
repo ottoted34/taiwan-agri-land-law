@@ -1,0 +1,58 @@
+{
+ "id": "itp-cdbed48c73",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041803858號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農地登記時間，辦理興建農舍釋疑",
+ "content": "一、查行政院農業委員會102年10月25日農水保字第1021866046號令：「有關『農業發展條例』第十八條所稱取得農業用地，應以土地登記簿所有權部認定之，除下列情形外，其取得時點以登記日期為基準：一、依民法第七百五十九條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，以原因發生日期為基準。二、依農地重劃條例第二十七條規定：『農地重劃後分配於原土地所有權人之土地，自分配確定之日起，視為其原有土地。』，爰重劃後分配之土地，應以原有土地取得時點為基準。三、依公職人員財產申報法規定辦理強制信託之農業用地，於塗銷信託登記回復為委託人所有後，應以該農業用地辦理信託登記前之取得時點為基準。」，爰申請興建農舍農業用地其取得時點認定應依前開號令辦理。惟若屬農業發展條例89年1月28日修正施行前取得之共有耕地於修正施行後分割為單獨所有，得依本條例第18條第3項規定申請興建農舍。\n二、台端於本條例修正施行後再取得部分持分，則依上開號令規定，應屬89年1月28日後取得之農業用地，為個案認定係屬直轄市、縣(市)政府權責，請逕洽縣市政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041803858號|農地登記時間辦理興建農舍釋疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c3bf6b003d7f9cb142af97b7f9e9a2986e554ebd8749fd5c8cd4d7a9efc773b8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "02年10月25日農水保字第1021866046號令:「有關『農業發展條例』第十八條所稱取得農業用地,應以土地登記簿所有權部認定之,除下列情形外,其取得時點以登記日"
+  }
+ ]
+}

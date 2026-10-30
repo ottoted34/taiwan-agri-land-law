@@ -1,0 +1,65 @@
+{
+ "id": "itp-6f0cf976ac",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090257147號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農地依法被徵收，倘重新購置或取得農業用地並提出農舍申請之相關疑義",
+ "content": "一、依據本會桃園區農業改良場 109年12月24日農桃改良字第1092713563號函辦理。\n二、依農業發展條例第 18條規定，申請興建農舍需為自用，且於不影響農業生產環境及農村發展，始得同意興建，故農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍。又依據上開規定，內政部會同本會訂有「農業用地興建農舍辦法」 (以下簡稱農舍辦法 )以為執行依據，先予敘明。\n三、查農舍辦法第 4條針對依法徵收之農業用地得否申請興建農舍已有明文予以相關保障之規定，復查該條立法考量亦將桃園航空城相關計畫之推行予以納入。基於桃園航空城計畫係屬國家重大建設，貴府刻依土地徵收條例等規定辦理徵收補償、土地分配、拆遷安置等相關作業事宜，爰本案所涉為上開作業之一致性處理原則，請惠予妥處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090257147號|農地依法被徵收倘重新購置或取得農業用地並提出農舍申請之相關疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "32b044c3226894b88518d37f505ac9c49d8a154257ddba4d025250e81240a452",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "2月24日農桃改良字第1092713563號函辦理。\n二、依農業發展條例第 18條規定,申請興建農舍需為自用,且於不影響農業生產環境及農村發展,始得同意興建,故農"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "法」 (以下簡稱農舍辦法 )以為執行依據,先予敘明。\n三、查農舍辦法第 4條針對依法徵收之農業用地得否申請興建農舍已有明文予以相關保障之規定,復查該條立法考"
+  }
+ ]
+}

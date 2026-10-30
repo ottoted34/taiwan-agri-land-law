@@ -1,0 +1,58 @@
+{
+ "id": "itp-14816de0d1",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1070204716A號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關民眾○○○致行政院賴院長函為陳74年興建之農舍協議繼承分割移轉疑義，敬請貴部主政回復，請查照。",
+ "content": "一、依據行政院107年1月30日院臺農移字第1070081909號移文單暨民眾○○○107年1月22日致本會主任委員陳情書辦理。\n二、有關陳情書就農業發展條例89年修正施行前已興建完成之農舍是否應與其坐落用地併同移轉之疑義，本會業以另函答復。惟陳情書內容尚涉有關繼承分割移轉疑義，如興建完成於74年之農舍，建築面積為115.57平方公尺，惟隨同移轉顯不符面積比例；又經陳情人詢問新北市政府工務局及淡水區公所工務課，上述基地未受法定空地及套繪管制等情，因屬貴部權管，移請貴部主政答復。\n三、隨文檢附上開行政院移文單及○○○陳情書影本1份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1070204716A號|有關民眾○○○致行政院賴院長函為陳74年興建之農舍協議繼承分"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f194a21fb6620f7b2ac83ef5f87874c68f4b154cc141b958580a0a7c29d00037",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "07年1月22日致本會主任委員陳情書辦理。\n二、有關陳情書就農業發展條例89年修正施行前已興建完成之農舍是否應與其坐落用地併同移轉之疑義,本會業以另函答"
+  }
+ ]
+}

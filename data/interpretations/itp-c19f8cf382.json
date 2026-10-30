@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3316",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:17+08:00",
+   "fetched_at": "2026-10-30T11:38:19+08:00",
    "source_key": "rmis:3316"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1022922917號|有關貴府辦理新竹市茄苳接西濱聯絡道路新闢工程用地取得作業土地"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,16 +46,25 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "2",
     "amended_on": "2015-09-04",
-    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "history": "中華民國一百零四年九月四日內政部台內營字第 1040813558 號令、行政院農業委員會農水保字第 1041816006 號令會銜修正發布第 2 條條文；並增訂第 3-1 條條文",
     "relation_kind": "extracted"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "4",
     "amended_on": "2015-09-04",
@@ -67,28 +82,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "並不得超過原被徵收或讓售土地之面積。...」,該規定係為保障農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興辦公共事業,其立法目的並"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": "後」取得者,依行政院農業委員會首揭函(副本諒達)說明二略以:「農業用地興建農舍辦法第2條第1項第3款規定,申請興建農舍之該筆農業用地面積不得小於0.25公頃,且該辦法內"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "4",
    "kind": "extracted",
    "snippet": "分,按同辦法第3條規定辦理。\n(三)至貴府來函說明四:「有關『農業用地興建農舍辦法』第4條規定內所述,該辦法於92年1月3日修正施行後至102年7月1日修正施行前,依法被"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

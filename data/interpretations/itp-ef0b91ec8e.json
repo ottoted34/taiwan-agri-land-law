@@ -1,0 +1,58 @@
+{
+ "id": "itp-ef0b91ec8e",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1040050894號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端所詢農業用地興建農舍辦法有關農舍放流水排入私有水體者，得否以設定不動產役權權利之土地登記謄本替代該排入私有水體者所有權人之同意書，請查照。",
+ "content": "一、依據臺端104年7月29日申請書辦理。\n二、查農業用地興建農舍辦法第9條第2項第5款規定：「農舍之放流水應符合放流水標準，並排入排水溝渠。放流水流經屬灌排系統或私有水體者，並應符合下列規定：…（二）排入私有水體者，應經所有人同意。」係為確保農舍放流水無擅自排放之情形，故接受放流水排入之私有水體所定著之私有土地，如經辦理不動產役權設定登記，其土地登記簿謄本所載內容足以證明該私有土地係供興建農舍土地放流水排放使用。此經法定程序辦理之登記事項，自得視為申請人已取得該私有水體所有人同意之文件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1040050894號|有關臺端所詢農業用地興建農舍辦法有關農舍放流水排入私有水體者"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1d7951ddaaef09dba81338353a7fc4e0e4f58ff6bd8c17b78b342c79fe2f6918",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "請查照。\n一、依據臺端104年7月29日申請書辦理。\n二、查農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準,並排入排水溝渠。放流水流經屬灌"
+  }
+ ]
+}

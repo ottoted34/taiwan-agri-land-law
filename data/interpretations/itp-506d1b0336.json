@@ -1,0 +1,58 @@
+{
+ "id": "itp-506d1b0336",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848424號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍變更起造人之處理原則，請依說明事項辦理，請查照。",
+ "content": "一、取得集村興建農舍資格之申請案，如擬變更起造人，其全部共同起造人之農民資格條件，應以重新方式辦理。\n二、若起造人之一死亡時，實屬不可抗力之事實，與人為買賣移轉第3人之變更起造人不同，其繼承人願意以原規模繼續辦理相關事宜者，得以變更起造人方式辦理，免再重新申請。\n三、至繼承人無意繼承興建權利，其尚未取得建造執照時，得以提出修正計畫方式，扣除興建戶數及提供興建農舍面積，免再重新審理農民資格；其已取得建造執照或已施工者，修正計畫中除扣除興建戶數及提供興建農舍面積外，應辦理變更起造人及變更設計，已興建中農舍應予拆除，且扣除之建築基地應恢復農業使用。上開案件仍應符合「農業用地興建農舍辦法」第8條第1款規定，如水土保持計畫申請中或尚未完工者，應辦理水土保持計畫變更。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848424號|有關集村興建農舍變更起造人之處理原則請依說明事項辦理請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "13bde8c56db281cb48114a1ad44efc86184d19c5268c920ab1ae698742522c8c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "舍應予拆除,且扣除之建築基地應恢復農業使用。上開案件仍應符合「農業用地興建農舍辦法」第8條第1款規定,如水土保持計畫申請中或尚未完工者,應辦理水土保持計畫變更。"
+  }
+ ]
+}

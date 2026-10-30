@@ -1,0 +1,68 @@
+{
+ "id": "itp-ca0570b5dc",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第0950049625號",
+ "date": "2006-08-17",
+ "date_text": "95/8/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "036 釋農業用地部分作道路、堤防、高壓電塔等使用，得就作農業使用部分審核發給農業用地作農業使用證明書案",
+ "content": "一、查「所有人，於法令限制之範圍內，得自由使用、收益、處分其所有物，並排除他人之干涉。」為民法第七百六十五條所明定，土地之所有權人及承買人自得於法令限制之範圍內，本於自由意識及雙方合意之行為出售或承買該土地之全部或一部分，此非行政機關所得干預， 謹先此敘明。\n二、另有關農業用地上因有道路、提防、高壓電塔等設施，未依法辦理徵收或用地變更者，仍應依法完成相關徵收或用地變更事宜，惟於未辦理完竣前，業經主管機關核發部分農業用地作農業使用證明書者，應由地政機關依地籍測量實施規則等有關規定，就合於農業用地作農業使用部分之耕地辦理分割，並就分割後之耕地申辦所有權移轉登記。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4801",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:11+08:00",
+   "source_key": "rmis:4801"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授中辦地字第0950049625號|釋農業用地部分作道路堤防高壓電塔等使用得就作農業使用部分審核"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "064f9b32a0df1a2db72735c22d2e8821296b14417bf45cc568279cf682fb12b8",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

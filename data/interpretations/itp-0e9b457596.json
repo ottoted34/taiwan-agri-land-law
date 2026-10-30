@@ -1,0 +1,64 @@
+{
+ "id": "itp-0e9b457596",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041819244號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用地興建農舍辦法，104年9月4日之實務申請程序。",
+ "content": "一、依104年9月4日修正之農業用地興建農舍辦法(以下簡稱本辦法)規定，申請興建農舍應為農民，有關農民之認定，依本辦法第3條之1規定，由農民於申請興建農舍時，檢附農業生產相關佐證資料，經直轄市、縣(市)主管機關會同專家、學者會勘後認定之。但屬農民健康保險被保險人或全民健康保險第三類被保險人者，不在此限。\n二、至於經營計畫書部分，則無論係農業發展條例89年修正施行前或修正施行後取得農地申請興建農舍，抑或上述任何條件所認定之農民，均須檢附經營計畫書，以供審認確供農業使用與不影響農業生產環境及農村發展。另經營計畫書須提出兩年內農業經營實績，係依辦法第2條規定，申請人其土地取得應滿2年，此規定之意旨並非指購買土地後等待2年即得申請興建農舍，而係須有從事農業生產經營之事實，並進而有興建農舍之需始得申請，故而要求申請人應敘述並提出佐證。\n三、臺端所提之相關建議，本會將納入政策分析參考，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041819244號|農業用地興建農舍辦法104年9月4日之實務申請程序"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "36b6c9bd46250f5abdf60a15c9a35ab86ab820170df6d713ed8c0914d4b6c832",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地興建農舍辦法,104年9月4日之實務申請程序。\n一、依104年9月4日修正之農業用地興建農舍"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "三類被保險人者,不在此限。\n二、至於經營計畫書部分,則無論係農業發展條例89年修正施行前或修正施行後取得農地申請興建農舍,抑或上述任何條件所認定之農民,"
+  }
+ ]
+}

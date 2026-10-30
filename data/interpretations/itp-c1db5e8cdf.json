@@ -18,17 +18,31 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2802",
    "serial": null,
-   "fetched_at": "2026-10-30T10:13:42+08:00",
+   "fetched_at": "2026-10-30T11:40:56+08:00",
    "source_key": "rmis:2802"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1021804217號|有關貴府函為農業發展條例修正施行前取得之共有農業用地於修正施"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "amended_by_later",
   "confirmed": false,
   "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-39644b716c",
+    "by_docno": "水保農字1021828567號",
+    "by_date": "2013-12-02",
+    "kind": "amend",
+    "phrase": "有關農業發展條例修正施行前取得共有農業用地,於修正施行後分割為單獨所有,其土地取得時點,查行政農業委員會102年2月26日農授水保字第1021804217號函及102年10月25日農水保字第1020215007號函釋有案(副本諒達),請查照辦理"
+   },
    {
     "type": "amend_signal",
     "by_id": "itp-64e83d7131",
@@ -44,6 +58,14 @@
     "by_date": "2015-08-10",
     "kind": "amend",
     "phrase": "三、有關非屬農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,其土地取得時點認定,查行政院農業委員會前於102年2月26日農授水保字第1021804217號函釋有案(副本諒達),請參照辦理"
+   },
+   {
+    "type": "amend_signal",
+    "by_id": "itp-f71352b37b",
+    "by_docno": "水保農字第1021827293號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "二、有關非屬農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,其土地取得時點認定,查行政院農業委員會前於102年2月26日農授水保字第1021804217號函釋有案(副本諒達),請參照辦理"
    }
   ]
  },
@@ -56,16 +78,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "01年6月29日農水保字第1011865000號令,核釋有關「農業發展條例」第18條所稱取得農業用地,應以土地登記簿所有權部認定之,其土地取得時點除民法第759條規"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

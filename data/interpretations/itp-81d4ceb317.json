@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5910",
    "serial": null,
-   "fetched_at": "2026-10-30T09:51:17+08:00",
+   "fetched_at": "2026-10-30T11:18:30+08:00",
    "source_key": "rmis:5910"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1110205777號|為營造西伯利亞白鶴友善棲息環境擬推動農業環境營造生態補貼計畫"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "f5b800d6a16c579ad401e7533eff6cf29dd9dc26cba4a5804a3f69c448b0cb98",
  "topics": [
@@ -39,22 +55,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "3-1",
    "kind": "extracted",
    "snippet": "鶴友善棲息環境,擬推動友善農業環境營造生態補貼計畫,得否認屬農業用地興建農舍辦法第3條之1所稱農業生產相關佐證資料疑義案,本會意見如說明,請查照。\n說明:\n一、復貴府11"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": ",並非擁有農業用地即可興建農舍,先予敘明。\n三、有關旨案涉及農業用地興建農舍辦法第2條、第3條及第3條之1之執行疑義,本會前於106年7月28日以農水保字第10618"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

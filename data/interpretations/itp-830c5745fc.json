@@ -1,0 +1,58 @@
+{
+ "id": "itp-830c5745fc",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843561號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於台端申請書為農業發展條例第18條適用疑義案，復如說明，請查照。",
+ "content": "1.復 台端97年5月28日申請書。\n2.農業用地於農業發展條例89年修正施行前已興建農舍，若該農業用地與農舍分屬不同所有權人，為避免該類所有權人無法處分其產權，在該農舍或農地移轉時得不受農業發展條例第18條第4項之限制，內政部93年11月2日內授中辦地字第0930015211號函業已函釋在案，惟上開函釋強調需先踐行土地法104條之程序，併予敘明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843561號|關於台端申請書為農業發展條例第18條適用疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "56f34e2cea5ed510b54cb6da119c31efe924ff316c36bbc53c4abec51623556a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "關於台端申請書為農業發展條例第18條適用疑義案,復如說明,請查照。\n1.復 台端97年5月28日申請書。\n2.農業用"
+  }
+ ]
+}

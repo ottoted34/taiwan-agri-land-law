@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5223",
    "serial": null,
-   "fetched_at": "2026-10-30T10:19:50+08:00",
+   "fetched_at": "2026-10-30T11:47:03+08:00",
    "source_key": "rmis:5223"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0960158892號|釋○○有限公司申請特定農業區農牧用地變更作廢棄物回收設施使用"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -60,5 +66,7 @@
    "kind": "extracted",
    "snippet": "復 貴府96年10月18日府農企字第○○○○○號函。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」第11點及第12點規定,隔離綠帶或隔離設施之規劃配置,應分別以各該申請變更編定之"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

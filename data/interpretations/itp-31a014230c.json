@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5952",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:20+08:00",
+   "fetched_at": "2026-10-30T11:17:33+08:00",
    "source_key": "rmis:5952"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1120213573號|有關貴院函詢南投縣埔里鎮○○○地號農業用地確認通行權訴訟相關"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -44,22 +50,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "值稅或免徵遺產稅、贈與稅、田賦等賦稅減免優惠。所稱農業使用於農業發展條例第3條第12款本文業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "、畜牧、保育及設置相關之農業設施或農舍等使用者。」本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。是以,農業用地上倘為農業經營需要,施設有固定基礎之農業設施,例如舖"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用之範疇,自不得據以核發農用證明。\n二、至於「私設通路」雖屬非都市土地使用管制規則(以下簡稱管制規則)所定農牧用地容許使用項目之一,惟其係作為集村農舍或各類建築用"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,53 @@
+{
+ "id": "itp-6db0277225",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940165779號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺灣電力股份有限公司為興建電力設施需要申請農業用地變更使用，應繳交農業用地變更使用回饋金案。",
+ "content": "主旨：有關 貴府建議○○股份有限公司為興建電力設施需要申請農業用地變更使用，應繳交農業用地變更使用回饋金案，復請 查照。\n說明：\n一、依據經濟部94年11月29日經營字第09402619350號函辦理（如附件1），並復 貴府94年10月14日屏府農務字第0940197422號函。\n二、本會89年11月16日（89）農企字第890158009號函略以：○○股份有限公司為興建電源開發及電力設施需要，辦理農業用地變更使用案件，應屬廣義之政府機關或視同政府機關辦理之公共建設(如附件2)。\n三、本案經本會函詢經濟部就○○股份有限公司興建設施性質提供意見，案經該部函復略以：「查○○公司尚未民營化，目前仍為本部所屬國營事業，肩負執行國家電力建設，電力設施用地之取得受政府採購法之規範，且有『土地徵收條例』第3條『國家因公益需要』得徵收私有土地之適用，.....○○公司係國營事業機關，其興辦事業使用土地，在性質上應屬廣義之『政府機關』或視同『政府機關』。復參照『促進民間參與公共建設法』第3條第1項第8款規定，電業設施係供公眾使用或促進公共利益之建設，○○公司為興辦各項電業設施，應屬公共建設，殆無疑義」。\n四、依據經濟部上揭意見，○○公司依法申請農業用地辦理變更使用者，得免繳交農業用地變更回饋金，於現階段仍予維持。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940165779號|有關臺灣電力股份有限公司為興建電力設施需要申請農業用地變更使"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b1b3e327815166fa20afa9dd1e0effd41f13518ed0e8cdc5584c8478c3b9a70d",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  }
+ ]
+}

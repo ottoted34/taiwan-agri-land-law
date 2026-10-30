@@ -1,0 +1,58 @@
+{
+ "id": "itp-85edd1e1a7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849088號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正公布生效日前（89年1月28日）取得數筆相鄰之農業用地，面積未達0.25公頃，應不受先辦理合併為一宗地號，仍可將數筆農業用地面積合併計算興建農舍面積案，請查照。",
+ "content": "一、依據 台端96年9月30日申請書辦理。 二、有關農業發展條例89年1月4日修正施行前（後）取得之農業用地興建農舍之法規適用及一宗土地如何認定乙節，本會95年10月4日農水保字第0951851940號函釋有案（如附件）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849088號|農業發展條例修正公布生效日前89年1月28日取得數筆相鄰之農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2f25191a9c5ec41bd90040e91a8d1fc06dc3b5e8f60a39f4124c9adb97590638",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正公布生效日前(89年1月28日)取得數筆相鄰之農業用地,面積未達0.25公頃"
+  }
+ ]
+}

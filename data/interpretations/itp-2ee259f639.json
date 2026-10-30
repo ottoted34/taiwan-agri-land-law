@@ -1,0 +1,58 @@
+{
+ "id": "itp-2ee259f639",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050220908號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢農舍用地得否規劃於曬場範圍後之執行疑義案，復請查照。",
+ "content": "一、復貴府105年6月2日府農務二字第1052511979號函。\n二、為落實農業發展條例第18條興建農舍應不影響農業生產環境及農村發展之立法目的，本會水土保持局104年10月21日農水保字第1041866479號函興建農舍經營計畫書格式及其審查參考原則及注意事項，其中針對農舍整體配置，明定農舍用地應矩形配置於農地之地界線側及臨接道路，以避免影響農業經營用地之完整性。爰其考量既為減少農舍興建對農業生產環境之破壞，且已就屬特殊地形得有例外適用，則上開農舍配置原則自不宜因個案情形予以調整。\n三、基於農舍性質與農業設施有別，農舍可涵蓋農業設施之功能，又部份農業設施之必要性及其申請基準條件待檢討，故倘二者須同時配置考量，自應優先適用農舍之配置規定，爰本案建議應由申請人依前開農舍配置規定，據以調整辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050220908號|有關貴府函詢農舍用地得否規劃於曬場範圍後之執行疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "67855c27b2beb47e87fc60d7085ceb27e0593dc1893ca3485f5e6628dab39e7f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "年6月2日府農務二字第1052511979號函。\n二、為落實農業發展條例第18條興建農舍應不影響農業生產環境及農村發展之立法目的,本會水土保持局104年10月2"
+  }
+ ]
+}

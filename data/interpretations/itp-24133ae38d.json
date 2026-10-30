@@ -18,17 +18,42 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5936",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:23+08:00",
+   "fetched_at": "2026-10-30T11:17:36+08:00",
    "source_key": "rmis:5936"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授漁字第1110253346號|釋申請農業用地作農業設施容許使用審查辦法第21條附表四水產養"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "21",
+    "amended_on": "2023-02-20",
+    "history": "中華民國一百十二年二月二十日行政院農業委員會農企字第 1120012217 號令修正發布第 21 條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "21",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "b3746af6e541f5de8df4ae5eaa49bf078a299031ff74f8e805b9ed2306858e38",
  "topics": [
@@ -38,16 +63,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "21",
    "kind": "extracted",
    "snippet": "釋申請農業用地作農業設施容許使用審查辦法第21條附表四水產養殖設施申請基準或條件之修正規定於審查與實務執行疑義案\n主旨:有關就本"
+  },
+  {
+   "law_id": "D0070031",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "月17日南市農漁字第1111485996號函辦理。\n二、依據區域計畫法施行細則第11條及第13條相關規定之立法原則,特定農業區農牧用地係以農牧生產為主,對於貴府來函提"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

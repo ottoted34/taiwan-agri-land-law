@@ -1,0 +1,65 @@
+{
+ "id": "itp-7ddcd2e553",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061833918號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「原農業區農舍之農地已變更為非農業用地，是否不適用農業發展條例及農業用地興建農舍辦法規定」一案",
+ "content": "一、農業發展條例及其授權訂定之農業用地興建農舍辦法所規範者，係以農業用地上所興建之農舍為對象，倘已申請興建農舍之農業用地已變更為非農業用地，自不屬農業發展條例及農業用地興建農舍辦法之農業用地範疇。\n二、按農業用地興建農舍辦法第12條第3項規定：「已申請興建農舍領有使用執照之農業用地經套繪管制，除符合下列情形之一者外，不得解除：一、農舍坐落之農業用地已變更為非農業用地。……」，倘已申請興建農舍之農業用地已變更為非農業用地，其得依相關規定申請解除套繪管制，並變更農舍使用執照之用途別。\n三、倘您另有解除套繪管制及使用執照用途別變更之疑義，因事涉建管單位權責，請向內政部或所在地地方政府(建管單位)洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061833918號|原農業區農舍之農地已變更為非農業用地是否不適用農業發展條例及"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e4f7c9340a514b533d06a0f5a7851f3b034148ed66006382af0529399764319d",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「原農業區農舍之農地已變更為非農業用地,是否不適用農業發展條例及農業用地興建農舍辦法規定」一案\n一、農業發展條例及其授權訂定之農業用地興建農舍"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "屬農業發展條例及農業用地興建農舍辦法之農業用地範疇。\n二、按農業用地興建農舍辦法第12條第3項規定:「已申請興建農舍領有使用執照之農業用地經套繪管制,除符合下列情形之一"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "itp-d021c3f337",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070721600號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢民眾○○○於貴轄草屯鎮○○○地號領有草屯鎮公所核發(104)草鎮工(造)字第○○○○○號建造執照，因分割合併土地並辦理變更設計，是否需重新申請農民資格疑義案，復如說明，請查照。",
+ "content": "一、復貴府107年8月3日府農務字第1070163625號函。\n二、興建農舍資格審查應就該筆農業用地整體農業使用與生產、經營情形，審認是否符合興建農舍以輔助農業生產之意旨，依據貴府來函所稱○○○於103年12月11日已獲貴府函復具有興建農舍申請人資格，並領有草屯鎮公所核發建造執照，惟今農舍坐落之該筆農業用地分割合併原因未明，倘其所依循之審查許可條件已有變動，其農民資格自應依現行規定重新審認。\n三、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，上開農民資格審認及建造執照變更設計事項，請貴府本權責卓處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070721600號|有關貴府函詢民眾○○○於貴轄草屯鎮○○○地號領有草屯鎮公所核"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c92e698e7302b66de1085bbbc78ff0119fcbe4b06f0d1d7edee0a67f750084c5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

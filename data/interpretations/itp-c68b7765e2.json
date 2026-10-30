@@ -1,0 +1,91 @@
+{
+ "id": "itp-c68b7765e2",
+ "doc_class": "interpretation",
+ "docno": "林政字第891623230號",
+ "date": "2000-12-07",
+ "date_text": "89/12/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "072 釋山坡地保育區林業用地，因面積較大故部分造林樹種棍植其他作物（如龍眼、橄欖、荔枝、梅樹、柑橘、柳丁等果樹）且多年來並未破壞水土保持及生態環境，准予核發農業用地作農業使用證明書案",
+ "content": "有關林業用地地上所植林木樹種符合本局所規定之樹種，且經完成造林（除地除外）、造林木已達3年生以上、成活率在70%以上者，不論是否兼植植一般農作物或果樹，本局認為符合農業發展條第3條第1項第12款所稱森林之使用。又本局已將龍眼、橄欖列為造林樹種，但限以林業方式經營。另荔枝、梅樹與生產木材為主樹種單列或均勻混植每公頃600株以上亦視同完成造林（詳如附造林樹種及伐期表），是以林業用地部分種植造林樹混植其他果樹作物，其多年來並未破壞水土保持及生態環境者，仍應在符合上揭原則下，始得認為符合農業發展條例第3條第1項第12款所稱森林使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4983",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:54+08:00",
+   "source_key": "rmis:4983"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:林政字第891623230號|釋山坡地保育區林業用地因面積較大故部分造林樹種棍植其他作物如"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "3",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "fa251c0cf9d88a648b1bfaffeb1208fb116e49cf8743160ed04a5192e9c5ed4f",
+ "topics": [
+  "farm_use_cert",
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "破壞水土保持及生態環境者,仍應在符合上揭原則下,始得認為符合農業發展條例第3條第1項第12款所稱森林使用。"
+  }
+ ]
+}

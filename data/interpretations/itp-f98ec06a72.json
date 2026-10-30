@@ -1,0 +1,64 @@
+{
+ "id": "itp-f98ec06a72",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961800186號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍座落基地因政府辦理重劃，變更為「鄉村區乙種建築用地」，該基地是否仍屬於農業發展條例所稱之農業用地，復請查照。",
+ "content": "一、 復 台端96年1月3日陳情書。\n二、「農業發展條例施行細則」第2條已明定農業用地之法律依據及範圍，經查鄉村區乙種建築用地，非屬農業發展條例所稱之農業用地。\n三、隨文檢送農地解除套繪相關解釋函5件供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961800186號|農舍座落基地因政府辦理重劃變更為鄉村區乙種建築用地該基地是否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "64fb43201bdd2906633cb39c1a3e124fe7efe339f4d703f29399219845dd2464",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "政府辦理重劃,變更為「鄉村區乙種建築用地」,該基地是否仍屬於農業發展條例所稱之農業用地,復請查照。\n一、 復 台端96年1月3日陳情書。\n二、「農業發展"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "用地,復請查照。\n一、 復 台端96年1月3日陳情書。\n二、「農業發展條例施行細則」第2條已明定農業用地之法律依據及範圍,經查鄉村區乙種建築用地,非屬農業發展條例所稱之農"
+  }
+ ]
+}

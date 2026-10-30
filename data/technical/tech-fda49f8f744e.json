@@ -1,0 +1,38 @@
+{
+ "id": "tech-fda49f8f744e",
+ "source_key": "datamoa:D97:5afc7bfb9de80785",
+ "title": "技術專刊 26",
+ "series": "技術專刊",
+ "issue": "26",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2349",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "26",
+  "出刊年月": "200809",
+  "期刊名稱": "樹豆之栽培管理與利用",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2349"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "d0c360d280ae60e571a6fcdaae6099a78b42d908f26ea780cd7ce0ccedbbdf9a",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

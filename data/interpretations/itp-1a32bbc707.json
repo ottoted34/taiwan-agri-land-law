@@ -1,0 +1,68 @@
+{
+ "id": "itp-1a32bbc707",
+ "doc_class": "interpretation",
+ "docno": "基府產農貳字第1030211196號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端(○○○等20人)申請本市七堵區○○○地號農業用地集村興建農舍資格條件1案，經本府審查結果，符合相關規定，並請確實依法辦理，請查照。",
+ "content": "一、復台端等20人102年4月15日申請書。\n二、依據農業用地興建農舍辦法第13條規定，起造人提出申請興建農舍之資料不實者，直轄市、縣(市)主管機關應撤銷其核定，並由主管建築機關撤銷其建築許可。\n三、農舍係農業經營不可分離之構造物，申請農業用地集村興建農舍之農業用地(建築基地之空地及配合耕地)應確實持續作農業使用。\n四、有關污水處理場之設置，需確無污染農地之虞，倘有污染周遭農地之情事，應由社區管理委員會全權負責。\n五、公共設施應確實依規劃用途使用，切勿擅自變更使用。\n六、本案應依建築法及建築技術規則等相關規定辦理建照申請。\n七、施工時請勿影響灌排水系統。\n八、本項核定有效期限自發文日起六個月為限。\n九、檢附集村興建農舍起造人共同協議書及名冊、農業用地清冊、農業用地作農業使用證明書、無自用農舍切結書、農業用地申請興建農舍使用權同意書、及工程建造圖各1份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:基府產農貳字第1030211196號|台端○○○等20人申請本市七堵區○○○地號農業用地集村興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "be51fe236101c6aaad6fc0543452e74c473dacf94796c7627db1ff797cd2ff1f",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "land_change",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "照。\n一、復台端等20人102年4月15日申請書。\n二、依據農業用地興建農舍辦法第13條規定,起造人提出申請興建農舍之資料不實者,直轄市、縣(市)主管機關應撤銷其核定,"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "共設施應確實依規劃用途使用,切勿擅自變更使用。\n六、本案應依建築法及建築技術規則等相關規定辦理建照申請。\n七、施工時請勿影響灌排水系統。\n八、本項"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-d4fc1643fd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990122655號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正前繼承之土地，修法後完成繼承登記，其土地取得時點計算疑義，復請查照。",
+ "content": "1.復台端99年4月1日陳情書。\n2.依據本會96年5月3日農水保字第0960120830號函說明二：「『繼承，因被繼承人死亡而開始』，為民法第1147條所明定，又查因繼承而取得不動產物權，係依法律行為以外之事由所生不動產物之變動，不受民法758條所定須經登記始生效力之限制，故因繼承、分割繼承而取得農業用地者，不待登記即已生效，並應以『被繼承人死亡日期』，為認定時點之基準；...」。\n3.另依農業發展條例第18條第3項規定：「本條例中華民國八十九年一月四日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。本條例中華民國八十九年一月四日修正施行前共有耕地，而於本條例中華民國八十九年一月四日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990122655號|有關農業發展條例修正前繼承之土地修法後完成繼承登記其土地取得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "989c4ef4c6b023aa008da0ad3a4b148c770d139444bc6d7f5240e5031ef12efe",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "『被繼承人死亡日期』,為認定時點之基準;...」。\n3.另依農業發展條例第18條第3項規定:「本條例中華民國八十九年一月四日修正施行前取得農業用地,且無自用農舍"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。本條例中華民國八十九年一月四日修正施行前共有耕地,而於本條"
+  }
+ ]
+}

@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6053",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:04+08:00",
+   "fetched_at": "2026-10-30T11:16:16+08:00",
    "source_key": "rmis:6053"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農授農保字第1130230440號|有關農業用地變更作儲能設施備之審查原則及適用規定請依說明事項"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "25e05c91f717c5b397e7f75c19cd3e026a9ed3773720df54d183075945efb17e",
  "topics": [
@@ -49,6 +65,14 @@
    "article": null,
    "kind": "extracted",
    "snippet": ")之審查原則及適用規定,請依說明事項辦理,請查照。\n一、依據「農業主管機關同意農業用地變更使用審查作業要點」(下稱農變要點)第7點之1規定,非都市土地農牧用地、林業用地、養殖用地及都市計畫"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "非屬太陽光電設施者:1、其使用面積未超過660平方公尺,應屬非都市土地使用管制規則第6條附表1規定農牧用地容許設置之「公共事業設施」,得依規定申請容許使用。2、其使用面"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

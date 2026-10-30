@@ -1,0 +1,52 @@
+{
+ "id": "itp-48df51b01d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000121319號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函為農業用地申請農舍建造執照所檢附之土地分管契約書，是否須經法院公證乙案，請 查照。",
+ "content": "一、依據內政部營建署100年4月8日營署建管字第1000018166號函卷附貴府100年3月25日府工建字第1000038653號函辦理。\n二、本會96年3月9日農授水保字第0961848205號函檢送96年3月6日研商「農舍承受人資格、無自用農舍查核、共有農地申請農舍等案處理原則」會議紀錄，其中共有農業用地申請興建農舍樣態一處理原則第2點：「以共有土地持分部分申請興建農舍者，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內，農舍仍以整筆土地註記，日後共有土地辦理分割，未興建農舍之土地可要求取消註記。」至前述共有人同意書及分管契約是否須經法院公證，目前並無限制規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000121319號|有關貴府函為農業用地申請農舍建造執照所檢附之土地分管契約書是"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "21ccdc75d3a22399dfb7fb0a8b397a8e2526f535e16268e4ffd603f18c41b1c5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

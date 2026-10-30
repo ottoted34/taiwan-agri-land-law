@@ -1,0 +1,111 @@
+{
+ "id": "itp-69d4ba2be9",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920178732號",
+ "date": "2004-01-07",
+ "date_text": "93年1月7日農企字第0920178732號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "062 釋農牧用地整筆土地上建有祖墳案",
+ "content": "一、查農業用地符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。有關農業使用之定義及認定基準，分別於農業發展條例第3條第12款及農業用地作農業使用認定及核發證明辦法業有明文規定。\n二、依農業用地作農業使用認定及核發證明辦法第8條之規定「農業用地『部分面積』有下列情形之一，且不影響供農業使用者，得認定為作農業使用：一、於土地使用編定前已存在有墳墓，經檢具證明文件者。二、……」旨揭土地如符合前開規定自得核發農業用地作農業使用證明書；惟如不符合前開規定，但係土地使用編定前即已存在之墳墓，得依非都市土地使用管制規則第8條「得為從來之使用」之規定及農業用地作農業使用認定及核發證明辦法第12條第2項之規定，向縣（市）政府申請核發「耕地符合土地使用管制規定證明書」，以辦理耕地所有權移轉登記。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920178732號|釋農牧用地整筆土地上建有祖墳案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "12",
+    "amended_on": "2007-03-20",
+    "history": "中華民國九十六年三月二十日行政院農業委員會農企字第 0960010482號令修正發布第 1、3、9、12、14 條條文；並刪除第 4 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "12",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "11058e9b9c4607789adde52bccad6b14d98ad5e6e14c4971f25e439d765a8d99",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "業用地作農業使用證明書。有關農業使用之定義及認定基準,分別於農業發展條例第3條第12款及農業用地作農業使用認定及核發證明辦法業有明文規定。\n二、依農業用地作農"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "及農業用地作農業使用認定及核發證明辦法業有明文規定。\n二、依農業用地作農業使用認定及核發證明辦法第8條之規定「農業用地『部分面積』有下列情形之一,且不影響供農業使用者,得認定為作農業"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": ";惟如不符合前開規定,但係土地使用編定前即已存在之墳墓,得依非都市土地使用管制規則第8條「得為從來之使用」之規定及農業用地作農業使用認定及核發證明辦法第12條第2項之規"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": ",得依非都市土地使用管制規則第8條「得為從來之使用」之規定及農業用地作農業使用認定及核發證明辦法第12條第2項之規定,向縣(市)政府申請核發「耕地符合土地使用管制規定證明書」,以辦理耕"
+  }
+ ]
+}

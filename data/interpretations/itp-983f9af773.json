@@ -1,0 +1,58 @@
+{
+ "id": "itp-983f9af773",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971844124號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "提供集村興建農舍之農業用地面積計算及建築坐落基地每戶最大基層建築面積案，請查照辦理。",
+ "content": "1.20戶以上之起造人於同一鄉（鎮、市、區）或毗鄰之鄉（鎮、市、區）以單獨完全所有之農業用地集中申請集村興建農舍，其「各起造人所有各宗農業用地供農業使用面積」與「各起造人集中興建農舍座落農業用地之面積（含法定空地面積）」兩者之比率應不得低於9比1，亦即各起造人集中興建農舍座落農業用地之面積不得超過各起造人所有農業用地面積總和10%，且每戶最大基層建築面積仍不得超過330平方公尺（包括60%建築基地及40%之法定空地）（參照92年8月7日「農業用地興建農舍辦法」有關集村興建農舍法令執行疑義及研商結論6及12）。\n2.另依內政部營建署91年11月14日營署綜字第0910067445號函附集村興建農舍範例（如附），業指出申請興建農舍之建築基地，主要包括60%之農舍基層建築基地及40%公共設施用地，並無預留其他用地。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971844124號|提供集村興建農舍之農業用地面積計算及建築坐落基地每戶最大基層"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5fd783525df61191893497dfe0c4e4e1ac7e393fafb1e4eba271159064417c93",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "(包括60%建築基地及40%之法定空地)(參照92年8月7日「農業用地興建農舍辦法」有關集村興建農舍法令執行疑義及研商結論6及12)。\n2.另依內政部營建署91年1"
+  }
+ ]
+}

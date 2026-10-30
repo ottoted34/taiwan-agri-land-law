@@ -1,0 +1,105 @@
+{
+ "id": "itp-421e18564a",
+ "doc_class": "interpretation",
+ "docno": "農企字第890010356號",
+ "date": "2000-10-13",
+ "date_text": "89/10/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "012 釋環保單位參與審核之機制案",
+ "content": "一、查農業發展條例第3條第1項第12款有關農業使用之定義係「指農業用地符合區域計畫法或都市計畫法土地使用分區管制之相關法令規定，並實際供農作、森林、養殖、畜牧及設置相關之農業設施或農舍使用而未閒置不用者。」換言之，「未閒置不用」亦為滿足農業使用之要件之一。惟查台灣地區過去曾發生數起公害污染案件，如桃園大潭村之鎘污染，致造成鄰近農田無法從事農業生產而閒置不用。如因此而認定其未符合作農業使用之認定基準，而剝奪其移轉時得依法享有之賦稅減免優惠，似有不公。因此而有旨揭條文以及為執行該辦法所訂審查表註明「因公害污染或不可抗力致農業用地無法利用不以閒置不用論。」之規定。\n二、為執行前開規定，有關農業用地作農業使用證明審查表環保單位之審查事項，如轄區內土地有經環保單位列管有案或公告之公害污染案件，且其污染範圍明確者，得由環保單位於審查表註記；惟若轄區內並無前開污染情事，則該審查事項無須審查。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5492",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:03+08:00",
+   "source_key": "rmis:5492"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890010356號|釋環保單位參與審核之機制案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "3",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "bb94db79bfddaa5adfff131d8fb00e7486c4e44e2c5f88d219f1e06a84085601",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "012 釋環保單位參與審核之機制案\n一、查農業發展條例第3條第1項第12款有關農業使用之定義係「指農業用地符合區域計畫法或都市計畫法土地使用"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "條例第3條第1項第12款有關農業使用之定義係「指農業用地符合區域計畫法或都市計畫法土地使用分區管制之相關法令規定,並實際供農作、森林、養殖、畜牧及設置"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "1項第12款有關農業使用之定義係「指農業用地符合區域計畫法或都市計畫法土地使用分區管制之相關法令規定,並實際供農作、森林、養殖、畜牧及設置相關之農業設"
+  }
+ ]
+}

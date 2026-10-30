@@ -1,0 +1,111 @@
+{
+ "id": "itp-2bf4b526d5",
+ "doc_class": "interpretation",
+ "docno": "農企字第900114189號",
+ "date": "2001-03-23",
+ "date_text": "90/3/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋非都市土地農牧用地容許作非農業使用設施者，收取農業用地變更審查規費及回饋金案",
+ "content": "查農業發展條例第十二條規定，農業用地變更為非農業使用時，應視其性質依規定繳交回饋金。本會並據以公告「農業用地變更回饋金撥繳及分配利用辦法」乙種，以為執行之依據。至有關農業用地變更為非農業使用之界定事宜，本會前頒訂之「農業主管機關同意農業用地變更使用審查作業要點」第二點已作明確之規範，是否收取農業用地變更審查規費或回饋金，請參照上開二種法規規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5212",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:41+08:00",
+   "source_key": "rmis:5212"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900114189號|釋非都市土地農牧用地容許作非農業使用設施者收取農業用地變更審"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "12",
+    "amended_on": "2002-01-30",
+    "history": "中華民國九十一年一月三十日總統（91）華總一義字第 09100019010號令修正公布第 12、18、25、71 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a5d6c5b40cd228753767bf96be27e69b0f605a5128848b42cfb99ad42d9c7cb4",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "許作非農業使用設施者,收取農業用地變更審查規費及回饋金案\n查農業發展條例第十二條規定,農業用地變更為非農業使用時,應視其性質依規定繳交回饋金。本會並據以公告「農"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "更為非農業使用時,應視其性質依規定繳交回饋金。本會並據以公告「農業用地變更回饋金撥繳及分配利用辦法」乙種,以為執行之依據。至有關農業用地變更為非農業使用之界定事宜,本會前頒訂之「農"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "依據。至有關農業用地變更為非農業使用之界定事宜,本會前頒訂之「農業主管機關同意農業用地變更使用審查作業要點」第二點已作明確之規範,是否收取農業用地變更審查規費或回饋金,請參照上開二種法規規"
+  }
+ ]
+}

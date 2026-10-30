@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5490",
    "serial": null,
-   "fetched_at": "2026-10-30T09:58:17+08:00",
+   "fetched_at": "2026-10-30T11:25:30+08:00",
    "source_key": "rmis:5490"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1070223368號|釋縣市政府建議本會107年5月23日釋示農業設施如曬場集貨運"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "07年6月7日府農務字第1070084600號函。\n二、依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第6條規定,申請農業用地作農業設施容許使用,有經營計畫內容顯"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

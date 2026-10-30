@@ -1,0 +1,38 @@
+{
+ "id": "tech-1894d3943f40",
+ "source_key": "datamoa:D97:358d91a11c8cd003",
+ "title": "技術專刊 58",
+ "series": "技術專刊",
+ "issue": "58",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=6567",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "58",
+  "出刊年月": "201412",
+  "期刊名稱": "原住民族農耕文化巡禮-小米篇",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=6567"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "917faccd4e415c9a850f72fbfd45f2eb93af047bd22f2f5fd8e1417491589baa",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

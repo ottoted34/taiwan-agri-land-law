@@ -1,0 +1,64 @@
+{
+ "id": "itp-da0187d3f4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931848427號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用地興建農舍辦法第3條第1項第2款有關土地取得疑義案，復請查照。",
+ "content": "一、復台端93年3月16日申請書。\n二、依農業發展條例第18條第1項、第3項、第5項明定，在該條例修正公布生效日（89年1月28日）後取得之農業用地申請興建農舍，應符合農業用地興建農舍辦法第3條第1項第2款規定，申請人之戶籍所在地及其農業用地，須在同一直轄市、縣（市）內，且其土地取得及戶籍登記均應滿2年者，始得申請興建個別農舍。\n三、另土地法第43條規定，依該法所為之登記，有絕對效力。故土地取得之認定時點，應以土地登記機關登記之時點為基準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931848427號|農業用地興建農舍辦法第3條第1項第2款有關土地取得疑義案復請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3d8f381ea3d2848e69edc2964402e2b75dcfa71369d06386f10d49058515215d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "農業用地興建農舍辦法第3條第1項第2款有關土地取得疑義案,復請查照。\n一、復台端93年3月16日申請書。\n"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "義案,復請查照。\n一、復台端93年3月16日申請書。\n二、依農業發展條例第18條第1項、第3項、第5項明定,在該條例修正公布生效日(89年1月28日)後取得之農"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "itp-120148617d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950130654號",
+ "date": "2006-06-08",
+ "date_text": "95年6月8日農企字第0950130654號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "047 釋依農業用地容許作農業設使用審查辦法核發之容許使用同意書，如該農業設施未涉及建築行為且未能於6個月內設置，是否需要辦理申請展延事宜。",
+ "content": "依農業用地容許作農業設使用審查辦法第22條規定「依本辦法取得同意容許使用之農業設施，如依建築相關法令規定需申請建築執照者，應於6個月內向建築主管機關提出申請，逾期得敘明理由向原申請機關申請展延，以一次6個月為限。」係指依建築相關法令規定需申請建築執照者，應於6個月內向建築主管機關提出申請，針對未涉及建築相關法令規定且不需申請建築執照之農業設施，並無規範。本案申請人因資金不足提出申請展延，是否同意展延，貴府應得考量個案實務情形，本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950130654號|釋依農業用地容許作農業設使用審查辦法核發之容許使用同意書如該"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "14d04ac1d877634ac2dd1f01bf9353b7d15d5c46aa7b0f933d619257275a8a93",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-b54dd678f1",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031808447號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "老農請准予核發興建農舍同意書。",
+ "content": "一、農業用地上准許興建農舍，係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作，與一般家居住宅性質不同。再者，農舍之興建與使用 應與農業經營不可分離，並非僅做純住宅使用，先予敘明。\n二、依農業用地興建農舍辦法第9條第2項第6款規定：「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，且農舍建築面積應超過45平方公尺，但經直轄市、縣(市)農業單位或其他主管機關同意者，不在此限。」，因此，若申請人興建低於45平方公尺之農舍者，須經直轄市、縣(市)農業單位或其他主管機關同意。\n三、有關興建農舍之審查，係屬地方政府權責，如有個案審查問題，請洽所在地直轄市、縣(市)政府查詢，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031808447號|老農請准予核發興建農舍同意書"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bbd373ba8cc0982430cc9937198750c9929927c0a3257021eb4a3cee4f7f37a9",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "應與農業經營不可分離,並非僅做純住宅使用,先予敘明。\n二、依農業用地興建農舍辦法第9條第2項第6款規定:「同一筆農業用地僅能申請興建一棟農舍,採分期興建方式辦理者,申"
+  }
+ ]
+}

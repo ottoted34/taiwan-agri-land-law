@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4918",
    "serial": null,
-   "fetched_at": "2026-10-30T10:13:14+08:00",
+   "fetched_at": "2026-10-30T11:40:27+08:00",
    "source_key": "rmis:4918"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020218024號|農業用地作農業設施農路之容許使用審查疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -52,22 +58,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "02年6月3日府農農字第1020108945號函。\n二、依據農業發展條例第8條之1第1項規定:「農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "固定基礎之農業設施,應先申請農業設施之容許使用...」。另依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第4條規定「依本條例第8條之1第1項規定搭建無固定基礎之臨時"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "者,則除貴府另有規定者外,依法得免申請容許使用。\n三、另依據「都市計畫法臺灣省施行細則」第29條第3項規定:「第1項所定農業產銷必要設施、休閒農業設施及"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

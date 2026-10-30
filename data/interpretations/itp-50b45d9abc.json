@@ -1,0 +1,64 @@
+{
+ "id": "itp-50b45d9abc",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041806870號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農業用地興建農舍辦法第2條第1項第3款疑義」事宜。",
+ "content": "一、復內政部營建署移交103年3月20日內政部營建署署長信箱(案號1040320005)辦理。\n二、依據農業用地興建農舍辦法第2條第1項第3款規定:「申請興建農舍之該筆農業用地面積不得小於0.25公頃...。」:此所稱「該筆」農業用地，係指土地單一筆地號農業用地而言，先予敘明。\n三、按行政院農業委員會102年10月25日農水保字第1021866046號令規定，略以:「...，有關『農業發展條例』第18條所稱取得農業用地，應以土地登記簿所有權部認定之，除下列情形外，其取得時點以登記日期為基準:...。二、依農地重劃條例第27條規定:『農地重劃後分配於原土地所有權人之土地，自分配確定之日起，視為其原有土地。』，爰重劃後分配之土地，應以原有土地取得時點為基準...。」，爰申請興建農舍農業用地其取得時點認定應依前開號令辦理。惟若屬農業發展條例89年1月28日修正施行前取得之農業用地，該土地申請興建農舍不受0.25公頃面積之限制，得依本條例第18條第3項規定申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041806870號|農業用地興建農舍辦法第2條第1項第3款疑義事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ef3de541fdd2589c7b8fcedeefcc5d85282699200a39ddca71a2d47c51832a7d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "「農業用地興建農舍辦法第2條第1項第3款疑義」事宜。\n一、復內政部營建署移交103年3月20日內政部營建署署"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農水保字第1021866046號令規定,略以:「...,有關『農業發展條例』第18條所稱取得農業用地,應以土地登記簿所有權部認定之,除下列情形外,其取得時點以登記日"
+  }
+ ]
+}

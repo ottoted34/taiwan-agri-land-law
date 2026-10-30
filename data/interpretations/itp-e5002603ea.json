@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5606",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:28+08:00",
+   "fetched_at": "2026-10-30T11:20:40+08:00",
    "source_key": "rmis:5606"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1090716705號|復○○○計畫國土保安用地之變更審查事宜及回饋金仍應繳交"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,13 +46,13 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
    "snippet": "其中涉及原計畫範圍內國土保安用地變更為其他使用地時,是否需依「農業發展條例」第10條及第12條規定辦理之疑義案,復請查照。\n說明:\n一、復貴公司109年6月10日太"
@@ -58,16 +64,24 @@
    "snippet": "09091號函。\n二、依據農業發展條例第10條規定,本會訂定「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱農變要點),據以辦理農業用地變更使用審查作業。按農變要點第2點規定略以"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",有所列情形之一者,應徵得農業主管機關同意:「...(二)依區域計畫法編定為非都市土地農牧用地、養殖用地、水利用地、林業用地、生態保護用地、『國土保安"
+  },
+  {
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "畫範圍內之用地變更程序規定事宜,建請洽詢內政部。\n三、又依據農業發展條例第12條規定,本會於105年5月25日修正發布「農業用地變更回饋金撥繳及分配利用辦法」("
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "據農業發展條例第12條規定,本會於105年5月25日修正發布「農業用地變更回饋金撥繳及分配利用辦法」(以下簡稱本辦法);按本辦法第2條第1項第1款規定,農業用地於劃定或變更為非農業"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,44 @@
+{
+ "id": "tech-c93b4bac9e62",
+ "source_key": "datamoa:740:8891d9717b546da4",
+ "title": "西印度櫻桃栽培管理",
+ "series": "技術專刊",
+ "issue": "技術專刊88-8(NO.94)",
+ "agency_id": "tndais",
+ "authors": "謝桑煙、王裕權、洪川智",
+ "date": "1999-06",
+ "url": "http://book.tndais.gov.tw/Brochure/tech94.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "18頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊88-8(NO.94)",
+  "題目": "西印度櫻桃栽培管理",
+  "作者": "謝桑煙、王裕權、洪川智",
+  "出版日期年月": "08806",
+  "頁數": "18頁",
+  "定價": "40",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech94.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech94.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "5a390e3604be661429645b4801a6cc87f28c206361aeb916701a27b93ceb6aa0",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "mgmt"
+ ]
+}

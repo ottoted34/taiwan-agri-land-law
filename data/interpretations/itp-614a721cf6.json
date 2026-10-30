@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5042",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:24+08:00",
+   "fetched_at": "2026-10-30T11:38:27+08:00",
    "source_key": "rmis:5042"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020013125號|農地違規使用認定與農業用地作農業使用認定及核發證明辦法執行疑"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,28 +46,48 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "農地違規使用認定與農業用地作農業使用認定及核發證明辦法執行疑義案。\n主旨:有關農地違規使用認定與農業用地作農業使用認定及核發證明辦法執"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "。\n說明:\n一、查農業用地應以農業使用為原則,故其使用倘違反區域計畫法、非都市土地使用管制規則或都市計畫法等相關土地使用管制規定者,依農業發展條例第6"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "一、查農業用地應以農業使用為原則,故其使用倘違反區域計畫法、非都市土地使用管制規則或都市計畫法等相關土地使用管制規定者,依農業發展條例第69條規定,應依區域計畫法"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用為原則,故其使用倘違反區域計畫法、非都市土地使用管制規則或都市計畫法等相關土地使用管制規定者,依農業發展條例第69條規定,應依區域計畫法或都市計畫法"
+  },
+  {
+   "law_id": "M0020001",
    "article": "69",
    "kind": "extracted",
    "snippet": "都市土地使用管制規則或都市計畫法等相關土地使用管制規定者,依農業發展條例第69條規定,應依區域計畫法或都市計畫法規定處理。\n二、至「農業用地作農業使用認定及核發"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "39",
    "kind": "extracted",
    "snippet": "。\n二、至「農業用地作農業使用認定及核發證明辦法」,係本會依農業發展條例第39條授權訂定,俾農業主管機關審認發給農業用地作農業使用證明書(以下簡稱農用證明),供"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

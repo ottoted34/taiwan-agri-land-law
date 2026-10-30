@@ -1,0 +1,100 @@
+{
+ "id": "itp-5148e6eaec",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950171531號",
+ "date": "2006-12-25",
+ "date_text": "95/12/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「農業用地興建農舍辦法」第3條第1項第3款規定，申請興建農舍之該宗農業用地面積不得小於0.25公頃，有關「該宗」之定義，復請查照。",
+ "content": "一、復 貴府95年12月15日府農務字第09502384780號函。\n二、旨揭所稱『該宗』農業用地，係指土地登記之單一筆地號農業用地而言，本會95年8月16日邀集內政部、內政部營建署及有關縣政府研商「農舍興建分割移轉及合併計算面積興建農舍農地變更編定等相關疑義案」會議決議有案（如附件）。\n三、依據土地使用分區管制原則，編定為農業用地者，即應作農業使用之用途，而農業用地上允許興建農舍，亦係以農業經營為主要目的，始附帶提供居住功能，其與建築用地編定目的在提供建築使用或以住宅為主之性質不同，又依據地籍測量實施規則、土地登記規則等地政法令規定，一宗土地即指一筆地號，應無疑義。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2568",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:36+08:00",
+   "source_key": "rmis:2568"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950171531號|農業用地興建農舍辦法第3條第1項第3款規定申請興建農舍之該宗"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國一百零二年七月一日內政部台內營字第 1020805247 號令、行政院農業委員會農水保字第 1021865656 號令會銜修正發布全文 17 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國一百零二年七月一日內政部台內營字第 1020805247 號令、行政院農業委員會農水保字第 1021865656 號令會銜修正發布全文 17 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "bb22097685adeb8df58203baf68c21ec8f4019a4cf8d161187aae83afb947e00",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "「農業用地興建農舍辦法」第3條第1項第3款規定,申請興建農舍之該宗農業用地面積不得小於0.25公頃,有關「該宗"
+  }
+ ]
+}

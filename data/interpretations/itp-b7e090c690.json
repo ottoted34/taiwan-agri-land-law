@@ -1,0 +1,58 @@
+{
+ "id": "itp-b7e090c690",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990164532號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢集村農舍之配合農地位屬預定辦理之「變更金門特定區計畫」整體開發範圍中，其申請資格疑義，復請查照。",
+ "content": "1.復貴府99年9月23日府建農字第0990065349號函。\n2.都市計畫整體開發範圍尚未生效前，土地使用分區如仍為農業區者，建議依現行法令規定，予以審查。另已興建完成之集村農舍，其配合耕地事後因配合政策辦理區段徵收，致其不符農業用地興建農舍辦法相關規定，考量其非自願性，係因配合政策執行，為保障所有權人之權益，該農舍仍得繼續存在。\n3.依貴府函說明一：「本案部分農地屬之區段徵收範圍，正辦理變更程序，已辦理公告預覽但尚未公告實施，亦尚未經都市計畫委員會審核通過...」，本案目前僅辦理公開展覽階段，尚未經都市計畫委員會審核通過，該計畫是否已生效，而對區域內土地產生使用限制效力，建請先洽都市計畫主管機關（內政部營建署）予以釐清。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990164532號|有關貴府函詢集村農舍之配合農地位屬預定辦理之變更金門特定區計"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3d109a7d321ea33fc51193f0c8eafc0b408598b4ce26f22de290fb519b6ba51a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "成之集村農舍,其配合耕地事後因配合政策辦理區段徵收,致其不符農業用地興建農舍辦法相關規定,考量其非自願性,係因配合政策執行,為保障所有權人之權益,該農舍仍得繼續"
+  }
+ ]
+}

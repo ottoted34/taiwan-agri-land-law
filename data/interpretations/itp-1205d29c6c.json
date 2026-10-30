@@ -1,0 +1,58 @@
+{
+ "id": "itp-1205d29c6c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960159055號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台南市○○○等26名申請人申請興建集村農舍，得否依建築法第30條之規定，由土地所有權人出具土地使用權同意書申請建築案，涉關 貴管業務權責移請逕復，請 查照。",
+ "content": "依據○○○96年10月18日請示函辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960159055號|有關台南市○○○等26名申請人申請興建集村農舍得否依建築法第"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cf107062b470e1d2d0fcd64cff74c4c34983d391166f6603758f546d01a18025",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "有關台南市○○○等26名申請人申請興建集村農舍,得否依建築法第30條之規定,由土地所有權人出具土地使用權同意書申請建築案,涉關 貴管業務權責移請逕復"
+  }
+ ]
+}

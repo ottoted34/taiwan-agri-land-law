@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5933",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:59+08:00",
+   "fetched_at": "2026-10-30T11:18:12+08:00",
    "source_key": "rmis:5933"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1110222872號|釋農業用地進行整地行為涉開挖或填土定義有無涉及土石採取法規定"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,22 +43,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2009",
+   "law_id": "M0020002",
    "article": null,
    "kind": "extracted",
    "snippet": "農業用地倘確為農業使用目的而有農地改良需要者,其填土土質,依農業發展條例施行細則(以下簡稱本細則)第2條之1規定,應為適合種植農作物之土壤,不得為砂、石、磚、瓦"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "6",
    "kind": "extracted",
    "snippet": "運或外賣等行為,以避免牴觸貴管土石採取法之規定;復查本會主管「申請農業用地作農業設施容許使用審查辦法」第6條第1項第8款明定,申請農業用地作農業設施容許使用,有申請場址產生之土資源需要外運"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

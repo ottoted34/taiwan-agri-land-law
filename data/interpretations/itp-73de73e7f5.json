@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5413",
    "serial": null,
-   "fetched_at": "2026-10-30T10:01:20+08:00",
+   "fetched_at": "2026-10-30T11:28:33+08:00",
    "source_key": "rmis:5413"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1040244882號|農業用地作農業使用認定及核發證明辦法第8條第3款執行疑義釋示"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,28 +46,48 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "8",
    "kind": "extracted",
    "snippet": "農業用地作農業使用認定及核發證明辦法第8條第3款執行疑義釋示。\n主旨:有關貴局函詢農業用地作農業使用認定及核發證明辦法第8"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "6",
    "kind": "extracted",
    "snippet": "發證明辦法(以下簡稱農用證明辦法)第8條第3款之規定,係配合農用證明辦法第6條第6款得認定為作農業使用之情形,倘有因他共有人無法尋覓、死亡或不願切結違規使用等"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "A0030055",
+   "article": "104",
+   "kind": "extracted",
+   "snippet": "辦理。又為保障其他共有人權益,依該款辦理者,受理機關並應踐行行政程序法第104條至第106條給予相對人陳述意見之機會及同法第1章第6節調查事實及證據之程序,合先"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "78",
+   "kind": "extracted",
+   "snippet": "定。\n(二)又有關共有人無法尋覓,得否以公示送達辦理一節,查行政程序法第78條至第82條已有明定公示送達之情形及程序,又依法務部90年11月5日(90)法律字"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "43",
+   "kind": "extracted",
+   "snippet": "有其他共有人提出反對意見,顯示該分管內容仍有疑義,爰貴局經依行政程序法第43條所定採證法則,即斟酌全部陳述與調查事實及證據之結果,依論理及經驗法則判斷事實真偽"
+  },
+  {
+   "law_id": "M0020015",
    "article": "12",
    "kind": "extracted",
    "snippet": ",倘認為不足作為前開規定之證明文件者,尚非無據,建議可視情依農用證明辦法第12條限期補正規定,給予申請人容有再協調或另取得其他適法文件之權宜作法。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

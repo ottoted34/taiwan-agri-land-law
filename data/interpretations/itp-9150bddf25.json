@@ -1,0 +1,64 @@
+{
+ "id": "itp-9150bddf25",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849346號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「農業用地興建農舍辦法」第6條規定執行疑義案，復請查照。",
+ "content": "一、復貴府96年11月7日府農管字第0960371534號致本會水土保持局函。\n二、農田水利會灌區內排注廢污水管理事項，目前係依「農田水利會灌溉排水管理要點」第21點及第22點、「水利法」第63條之3與「臺灣省灌溉事業管理規則」第27條及第28條等相關規定辦理。\n三、水利會所屬之灌排系統，未經水利會之同意，不得擅自排放廢（污）水;灌溉專用渠道則絕對禁止排放廢「污」水。\n四、依農業發展條例申請興建農舍者，其放流水之排放，均應依上開規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849346號|有關農業用地興建農舍辦法第6條規定執行疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8443dd405de00133612652b7e84a2e2fe06f4786e8777a66b8997e8a0129c6e3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "有關「農業用地興建農舍辦法」第6條規定執行疑義案,復請查照。\n一、復貴府96年11月7日府農管字第09603715"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "放廢(污)水;灌溉專用渠道則絕對禁止排放廢「污」水。\n四、依農業發展條例申請興建農舍者,其放流水之排放,均應依上開規定辦理。"
+  }
+ ]
+}

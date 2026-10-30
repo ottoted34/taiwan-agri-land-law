@@ -1,0 +1,59 @@
+{
+ "id": "itp-a540cf69f0",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981801163號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修法前持有農地辦理分割後變成2筆土地，先後分別興建農舍並辦理移轉，得否核發農業用地作農業使用證明書案，復請查照。",
+ "content": "一、復 貴府98年1月12日府農務字第09702164390號函。\n二、修正施行前取得之農業用地完成農舍興建後即辦理移轉，並再申請興建另一棟農舍，如經查明係進行土地投機炒作而非真正為經營農業需要興建，查與農業發展條例立法意旨相違背，得不受理申請，本會97年9月9日農授水保字第0970150106號函諒達;至有關核發農業用地作農業使用證明書乙節，本會98年1月21日農企字第0980102715號函副本諒達。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981801163號|有關農業發展條例修法前持有農地辦理分割後變成2筆土地先後分別"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "454b5f803fa8bb956fd5ca63b422b8c87955f2bc3234bffd31e924ba17b7380c",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修法前持有農地辦理分割後變成2筆土地,先後分別興建農舍並辦理移轉,得否核發農業用"
+  }
+ ]
+}

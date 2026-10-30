@@ -1,0 +1,64 @@
+{
+ "id": "itp-39ddbbf330",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第1030611408號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為「農業用地興建農舍辦法」對於申請興建農舍之農業用地面積，規定不得少於0.25公頃，涉逾越法律授權等情1案，請 查照。",
+ "content": "一、依據監察院103年11月13日院台業三字第1030705900號函所附臺端103年11月4日陳訴書辦理。\n二、有關農業用地興建農舍辦法第2條第1項第3款前段，申請興建農舍之該筆農業用地面積不得小於0.25公頃之規定，是否為農業發展條例第18條第5項規定授權範圍疑義1案，因涉農業發展條例相關規定，前經本部營建署書函請行政院農業委員會水土保持局本於農業發展條例主管機關權責卓處逕復，經該局103年10月3日水保農字第1030233213號書函復臺端，並經本部營建署103年11月5日營署建管字第1032919830號函、103年10月16日營署建管字第1032918406號函復臺端在案。本案因涉農業發展條例及行政院農業委員會水土保持局相關函示規定，且監察院前揭號函已另請行政院農業委員會妥處逕復臺端，仍請依該局意見辦理，如有疑義，請逕向該局洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第1030611408號|為農業用地興建農舍辦法對於申請興建農舍之農業用地面積規定不得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e1ecec6309a97b53c907c90c90effacd15152ad5d6710069801ccf8032fdbc7c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "5900號函所附臺端103年11月4日陳訴書辦理。\n二、有關農業用地興建農舍辦法第2條第1項第3款前段,申請興建農舍之該筆農業用地面積不得小於0.25公頃之規定,是否"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "興建農舍之該筆農業用地面積不得小於0.25公頃之規定,是否為農業發展條例第18條第5項規定授權範圍疑義1案,因涉農業發展條例相關規定,前經本部營建署書函請行政院"
+  }
+ ]
+}

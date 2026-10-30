@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4003",
    "serial": null,
-   "fetched_at": "2026-10-30T10:01:25+08:00",
+   "fetched_at": "2026-10-30T11:28:37+08:00",
    "source_key": "rmis:4003"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041890807號|有關提供興建農舍地號之土地所有權人申請其所有土地解除套繪一案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "04年12月1日營署建管字第1040075476號函。\n二、農業發展條例及其授權訂定之農業用地興建農舍辦法所規範者,係以農業用地上所興建之農舍為對象,至"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "第1040075476號函。\n二、農業發展條例及其授權訂定之農業用地興建農舍辦法所規範者,係以農業用地上所興建之農舍為對象,至農業用地已變更為非農業用地者,自得"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,64 @@
+{
+ "id": "itp-f4f0eec7f1",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0930079332號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "新聯成地政服務中心陳為農業發展條例修正前取得農業用地興建有尚未完工之合法農舍拍賣時，拍定人如何申請起造人變更疑義乙案，請查照。",
+ "content": "一、依據行政院農業委員會93年12月14日農授水保字第0931827293號函辦理。\n二、按建築工程已申報開工，並已構築建築物結構體（如基礎或梁柱結構）者：倘土地與地上建物併同拍賣且原起造人即為所有權人，其所有權（包括土地及未完工建物）既因拍賣而喪失，就該土地已無任何權利可供行使，縱建造行為未完工，原起造人亦無請求繼續建造之權利，拍定人得主張其所有權而為使用收益處分，如建造執照未逾期失其效力，則拍定人得單憑法院權利移轉證明書（包括土地及未完工建物）辦理變更起造人，為本部93年7月28日台內營字第0930085435號函所明釋。至於本案於農業發展條例89年1月4日修正施行後取得農業用地及施工中農舍之法院不動產權利移轉證書之拍定人，依上開規定申請變更起造人，涉及農業發展條例第18條第1項及農業用地興建農舍辦法第3條之規定乙節，檢附行政院農業委員會93年12月14日農授水保字第0931827293號函（如附件）請參辦。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第0930079332號|新聯成地政服務中心陳為農業發展條例修正前取得農業用地興建有尚"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f5a638970fe1536965b24aa4762985736d9bc6ee4b4128406913206922cdacb7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "院不動產權利移轉證書之拍定人,依上開規定申請變更起造人,涉及農業發展條例第18條第1項及農業用地興建農舍辦法第3條之規定乙節,檢附行政院農業委員會93年12月1"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": ",依上開規定申請變更起造人,涉及農業發展條例第18條第1項及農業用地興建農舍辦法第3條之規定乙節,檢附行政院農業委員會93年12月14日農授水保字第093182729"
+  }
+ ]
+}

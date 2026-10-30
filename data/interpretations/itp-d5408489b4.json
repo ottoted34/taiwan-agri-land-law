@@ -1,0 +1,59 @@
+{
+ "id": "itp-d5408489b4",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090205185號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴鄉公所函詢農舍基地調整案，復如說明，請查照。",
+ "content": "一、依據內政部營建署109年2月10日營署建管字第1090004694號函辦理。\n\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第12條已明定未經解除套繪管制不得辦理分割及解除套繪管制應符合相關要件。倘因依法解除套繪管制致與原核准許可興建農舍之內容不一致，基於行政一體，得於辦竣解除套繪管制後副知該農舍之原核定機關，俾利執行後續之農舍管理與稽查取締事宜。\n\n三、副本抄送南投縣政府，為利執行本辦法第15條農舍及農業用地之稽查與管理，宜配合解除套繪管制作業更新已建檔列管之農舍相關資料。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090205185號|有關貴鄉公所函詢農舍基地調整案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0068aa3471aecbaea1cad96e75289ca46d37e1878bb577413b9e580e702e0a1d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月10日營署建管字第1090004694號函辦理。\n\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第12條已明定未經解除套繪管制不得辦理分割及解除套繪管制應符合"
+  }
+ ]
+}

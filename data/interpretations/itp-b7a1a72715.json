@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5980",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:53+08:00",
+   "fetched_at": "2026-10-30T11:16:06+08:00",
    "source_key": "rmis:5980"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授農保字第1130238958號|有關貴府觀光局受理非山坡地範圍之農業用地設置露營場新增聯絡通"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,22 +43,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "其農業用地變更回饋金繳交疑義案,復如說明,請查照。\n一、依據「農業發展條例」第12條第1項規定,農業用地變更為非農業使用時,應視其事業性質,繳交回饋金。有關非山坡地"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "農地設置露營相關設施,因屬農業用地變更作非農業使用性質,應依「農業用地變更回饋金撥繳及分配利用辦法」(下稱農變回饋金辦法)規定,繳交農業用地變更回饋金。又查交通部觀光署公告之「露營"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

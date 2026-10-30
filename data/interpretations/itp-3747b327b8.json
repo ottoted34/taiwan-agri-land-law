@@ -1,0 +1,60 @@
+{
+ "id": "itp-3747b327b8",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950151954號",
+ "date": "2006-09-15",
+ "date_text": "95/9/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例第16條第1項第3款及第4款所定共有耕地判決分割時，其分割後之宗數因實際需要，得否超過共有人人數之規定疑義案。",
+ "content": "主旨：台端函詢農業發展條例第16條第1項第3款及第4款所定共有耕地判決分割時，其分割後之宗數因實際需要，得否超過共有人人數之規定疑義案，復如說明，請　查照。\n說明：\n一、復台端95年9月9日致本會申請書函。\n二、查農業發展條例第16條第2項已明定，本條例中華民國89年1月4日修正施行後繼承之耕地或修正施行前之共有耕地，辦理分割為單獨所有者，應先取得共有人之協議或法院確定判決，其分割後之宗數，不得超過共有人人數。其立法意旨係為避免耕地遭共有人任意分割，產生土地細碎情形而影響農業之合理經營。因該項規定係屬法律位階之規定，故法院確定判決，亦應遵循上開原則處理。檢附內政部92年6月19日台內地字第092008963號函供參。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4838",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:59+08:00",
+   "source_key": "rmis:4838"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950151954號|有關農業發展條例第16條第1項第3款及第4款所定共有耕地判決"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "273c3c2bbcdf75b593188d415f956ef9457fa7df6d84116b85e0332c619264cc",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "有關農業發展條例第16條第1項第3款及第4款所定共有耕地判決分割時,其分割後之宗數因實際需要,得否超過共"
+  }
+ ]
+}

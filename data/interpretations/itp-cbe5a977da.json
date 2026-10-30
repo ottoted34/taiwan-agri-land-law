@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5931",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:19+08:00",
+   "fetched_at": "2026-10-30T11:17:31+08:00",
    "source_key": "rmis:5931"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1120215560號|釋非都市土地農業用地變更作特定工廠之回饋金繳交事宜"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "8",
+    "amended_on": "2023-12-04",
+    "history": "中華民國一百十二年十二月四日農業部農農保字第 1121860316 號令修正發布第 8 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "4c5129732d8d90ba6dcd187820747134e6bb9cd48a4a35d10e95f42eb199caff",
  "topics": [
@@ -38,22 +54,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "54",
    "kind": "extracted",
    "snippet": "條第2項明定,直轄市、縣(市)主管機關收繳之回饋金,應撥交予農業發展條例第54條第1項規定設置之農業發展基金。\n三、是以,有關非都市土地農業用地變更作「特定工廠"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": "8",
    "kind": "extracted",
    "snippet": "、縣市政府(經濟發展)主管機關收繳之回饋金撥交作業,仍應依據「農業用地變更回饋金撥繳及分配利用辦法」第8條及第9條規定,由直轄市或縣(市)政府農業主管機關代收該回饋金,後續再按季撥交其中"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

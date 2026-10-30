@@ -1,0 +1,65 @@
+{
+ "id": "itp-5ff29a2b82",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041807865號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「建請農業主管機關重視農地興建農舍問題」相關事宜",
+ "content": "農業用地准許興建「農舍」之制度，按其立法意旨，係與農業經營不可分離之設施，與一般家居住宅性質不同。然現今許多型態已違原先之立法意旨，造成農地破碎、農舍商品化之亂象。自99年起，內政部及行政院農業委員會即針對農舍興建者之資格審查、興建區位、農舍最小面積限制、許可條件、放流水標準、後續稽查管理等進行農業用地興建農舍辦法修法作業，歷經13次討論，完成第一階段修法，於102年7月1日修正發布，目前行政院農業委員會正廣汲各界意見，積極研擬修法，以期農舍興建能回歸農業發展條例之立法意旨，落實維護農業生產環境。感謝您的建議!您提供的意見我們會納未來修法之參考。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041807865號|建請農業主管機關重視農地興建農舍問題相關事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "595bdf3baac571cc576a85c65c97020ad9ca7afac0652246ddfd5642a0348525",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、農舍最小面積限制、許可條件、放流水標準、後續稽查管理等進行農業用地興建農舍辦法修法作業,歷經13次討論,完成第一階段修法,於102年7月1日修正發布,目前行政"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "院農業委員會正廣汲各界意見,積極研擬修法,以期農舍興建能回歸農業發展條例之立法意旨,落實維護農業生產環境。感謝您的建議!您提供的意見我們會納未來修法之參"
+  }
+ ]
+}

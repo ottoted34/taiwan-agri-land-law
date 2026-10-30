@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5243",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:32+08:00",
+   "fetched_at": "2026-10-30T11:35:45+08:00",
    "source_key": "rmis:5243"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1030707669號|毗鄰農業用地所留設之隔離設施疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -50,5 +56,7 @@
    "kind": "extracted",
    "snippet": "所103年3月11日曄建字第103031101號函。\n二、依農業主管機關同意農業用地變更使用審查作業要點(以下簡稱變更作業要點)第9點規定略以:「變更農業用地作與農業生產性質不相容之目"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

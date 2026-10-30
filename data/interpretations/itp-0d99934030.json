@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5620",
    "serial": null,
-   "fetched_at": "2026-10-30T09:52:38+08:00",
+   "fetched_at": "2026-10-30T11:19:51+08:00",
    "source_key": "rmis:5620"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090013313號|通函各縣市農變要點修正前後有關太陽光電設施案件之審查原則"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -52,5 +58,7 @@
    "kind": "extracted",
    "snippet": "依本會109年7月28日修正發布,並自109年8月1日生效之「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱農變要點)第7點之1規定,非都市土地農牧用地、林業用地、養殖用地及都市"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

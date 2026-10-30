@@ -1,0 +1,59 @@
+{
+ "id": "itp-2257d375f7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031869695號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "資材室與農舍是否法令上等同疑義。",
+ "content": "一、有關農業用地興建農舍辦法第2條第1項第4款無自用農舍之認定與相關切結書格式，請依本會102年9月30日農授水保字第1021866061號辦理，台端可至本會水土保持局「農村再生暨農舍解釋函查詢系統http://rlaw.swcb.gov.tw/」查詢前開號函內容。\n二、另有關除申請興建農舍土地外之其他農業用地上有他人所有或佔用之建物，倘經直轄市、縣(市)主管機關查明或確能證明其非屬申請人所有，仍得由直轄市、縣(市)主管機關依個案事實認定符合無自用農舍規定，請洽農業用地所在直轄市、縣 (市)政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031869695號|資材室與農舍是否法令上等同疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "160d3db053f3f504d61283b070298e67247f85995c00adcb794d2b1ce98e900c",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "資材室與農舍是否法令上等同疑義。\n一、有關農業用地興建農舍辦法第2條第1項第4款無自用農舍之認定與相關切結書格式,請依本會102年9月30日農授水保"
+  }
+ ]
+}

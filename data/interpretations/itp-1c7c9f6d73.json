@@ -1,0 +1,52 @@
+{
+ "id": "itp-1c7c9f6d73",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990106645號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○於瑞芳鎮○○○地號土地與○○○於三芝鄉○○○地號土地申請興建農舍疑義二案，復請查照。",
+ "content": "1.復貴府99年1月26日北農牧字第0990077769號函。 2.有關○○○於瑞芳鎮○○○地號土地一案，本會已於99年1月19日農授水保字第0990102096號函覆貴局，請本於權責依規辦理。 3.查本會96年3月14日農授水保字第0961848173號函附件「共有農業用地申請興建農舍處理原則」，其均為修法前之共有關係，○○○係於91年與他人土地合併，始為共有關係，故不適用上開原則，建請仍依本會99年1月20日農授水保字第0990102095號函辦理。 4.至請地政單位配合註記土地登記，事涉土地使用及建築管理，請洽內政部辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990106645號|有關○○○於瑞芳鎮○○○地號土地與○○○於三芝鄉○○○地號土"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5265cf02c90305ed276620bf87b14c8395e4d14e1685b755e7358ddf344b5941",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5562",
    "serial": null,
-   "fetched_at": "2026-10-30T10:14:35+08:00",
+   "fetched_at": "2026-10-30T11:41:48+08:00",
    "source_key": "rmis:5562"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1010109853號|○○○申請農業發展條例第38條之1土地作農業使用證明書疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -50,34 +56,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "38-1",
    "kind": "extracted",
    "snippet": "○○○申請農業發展條例第38條之1土地作農業使用證明書疑義案。\n主旨:有關○○○申請農業發展條例第38條之1土地作"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "號函(諒達),就農業使用之認定,應依該土地「使用現況」,參照農業用地作農業使用認定及核發證明辦法暨本會相關函釋,就個案實情予以審認,如符合作農業使用,自得據以核發「農業發展條例"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "37",
    "kind": "extracted",
    "snippet": "農業使用且未違反水利法規及都市計畫書管制規定者,准予繼續適用農業發展條例第37條及第38條賦稅優惠之規定,並應依農業用地作農業使用認定及核發證明辦法申請作農業使"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "定及核發證明辦法申請作農業使用證明書。」併予敘明。\n四、另依農業發展條例第3條第12款有關農業使用之定義,其包含依規定辦理休耕、休養、停養或有不可抗力等事由,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

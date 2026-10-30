@@ -1,0 +1,59 @@
+{
+ "id": "itp-a250be53d3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070013787號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣民眾○○○詢問農舍及其坐落用地併同移轉等疑義，請惠予協處逕復，請查照。",
+ "content": "一、依據○○○107年12月3日陳情書函(影附如後)。\n二、查農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；．．．」，農舍應與其坐落用地併同移轉為基本前提，又前揭規定之立法意旨係在避免農舍與其坐落用地分屬不同所有權人，引發經營利用及產權紛爭問題。因上開條例並無限制農舍及其坐落用地不得為共有，惟農地所有權人將其農舍及其坐落用地全部或一部移轉時，不應有所有權人不同或持分不一致之情形，且農舍與其坐落用地併同辦理移轉時，其承受人資格應符合無自用農舍條件，合先敘明。\n三、基於農舍之個案審認係屬直轄市、縣(市)政府之權責，請貴府就個案事實釐清確認後逕復陳情人。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070013787號|有關貴縣民眾○○○詢問農舍及其坐落用地併同移轉等疑義請惠予協"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "272b54c8212909e952d9fa2ae94907da61936feb87ad9ddce4f1f857563b6b5c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "、依據○○○107年12月3日陳情書函(影附如後)。\n二、查農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

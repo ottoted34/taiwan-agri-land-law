@@ -1,0 +1,58 @@
+{
+ "id": "itp-2fc3a5d5f0",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051832566號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關新北市淡水區○○○地號土地分割疑義，復如說明，請查照。",
+ "content": "一、復貴所105年7月28日（105）明燕字第105069號函。\n二、查農業發展條例於92年2月7日修正第3條第11款耕地之定義，將「國家公園區內，依國家公園法劃定之分區別及使用性質，經該法主管機關會同有關機關認定屬田、旱地目之土地」改列為「耕地以外之農業用地」，而本案土地屬國家公園區，非屬上開條例規定之耕地範圍，自難謂適用該條例第16條之分割規定。至於該筆土地有無其他分割之限制，建議宜洽地政單位釐明。\n三、旨揭土地已有農舍，該案如涉及解除套繪管制等事宜，仍應受農業用地興建辦法第12條規定之限制。\n四、副本抄送內政部營建署、地政司、陽明山國家公園管理處，上開說明如尚有補充事項，請逕復該所並副知本局。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051832566號|有關新北市淡水區○○○地號土地分割疑義復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "43486a15fd116fad428dcb1d80479553803082d2cb261c11d2314941f93f863f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "05年7月28日(105)明燕字第105069號函。\n二、查農業發展條例於92年2月7日修正第3條第11款耕地之定義,將「國家公園區內,依國家公園法劃定"
+  }
+ ]
+}

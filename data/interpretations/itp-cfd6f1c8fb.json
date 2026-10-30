@@ -1,0 +1,58 @@
+{
+ "id": "itp-cfd6f1c8fb",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0960132692號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍施工期間，未取得農舍使用執照前，變更起造人之處理原則如說明，復請查照。",
+ "content": "一、復 貴國會辦公室96年6月12日育國字第9606007號函。\n二、集村興建農舍施工期間，未取得農舍使用執照前，變更起造人之處理原則：\n（一）起造人死亡時，其繼承人願意以原規模繼續辦理相關事宜者，得以變更起造人方式辦理，免再重新申請。\n（二）繼承人無意繼承興建權利，其尚未取得建造執照時，得以提出修正計畫方式，扣除興建戶數及提供興建農舍面積，免再重新審理農民資格；其已取得建造執照或已施工者，修正計畫中除扣除興建戶數及提供興建農舍面積外，應辦理變更起造人及變更設計，已興建中農舍應予拆除，且扣除之建築基地應恢復農業使用。上開案件仍應符合「農業用地興建農舍辦法」第8條第1款規定，如水土保持計畫申請中或尚未完工者，應辦理水土保持計畫變更。\n（三）集村興建農舍之戶數與農舍面積並無改變者，得審查變更起造人之興建資格條件：「一、年滿二十歲或未滿二十歲已結婚者。二、申請人之農業用地，須在同一直轄市、縣（市）內。三、申請人無自用農舍。四、申請人為該農業用地之所有權人，且該農業用地應確供農業使用，並屬未經申請興建農舍之農業用地。」，其建築執照已核准部分，維持原核准條件審查，\n（四）集村興建農舍之戶數與農舍面積已有所不同者，則應以重新方式辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0960132692號|有關集村興建農舍施工期間未取得農舍使用執照前變更起造人之處理"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e69c274283dbe5f8a3533d8a9ba4b14974e2cab8a981fae39a3060c555a5ec0d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "舍應予拆除,且扣除之建築基地應恢復農業使用。上開案件仍應符合「農業用地興建農舍辦法」第8條第1款規定,如水土保持計畫申請中或尚未完工者,應辦理水土保持計畫變更。\n(三)集"
+  }
+ ]
+}

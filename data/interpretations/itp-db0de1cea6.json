@@ -1,0 +1,59 @@
+{
+ "id": "itp-db0de1cea6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030732194號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關土地計畫興建農舍，以原申請之園內道連接現有道路，其園內道使用面積及因車輛進出而拓寬園內道之面積，是否免歸納為農舍附屬設施檢討案，復請查照。",
+ "content": "一、復台端103年10月23日(103)農路字第1031023B號函。\n二、查農業用地興建農舍辦法第8條第3項規定略以：「農舍用地面積為法定基層建築面積，且為農舍與農舍附屬設施之水平投影面積用地總和」，又第9條第1項第3款規定略以：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，先予敘明。\n三、次查本案既為計畫興建農舍而生拓寬原有農路及新增連接道之需，其連接道與拓寬部分均供農舍使用，即應歸屬為農舍附屬設施，併入農舍用地面積檢討。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1030732194號|有關土地計畫興建農舍以原申請之園內道連接現有道路其園內道使用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "03d442ec15a8764426b1e4d18b5c07362152817772039a87bf4b70737636f1c1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "10月23日(103)農路字第1031023B號函。\n二、查農業用地興建農舍辦法第8條第3項規定略以:「農舍用地面積為法定基層建築面積,且為農舍與農舍附屬設施之水平投"
+  }
+ ]
+}

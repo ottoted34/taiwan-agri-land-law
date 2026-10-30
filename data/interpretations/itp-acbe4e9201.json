@@ -1,0 +1,65 @@
+{
+ "id": "itp-acbe4e9201",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990163999號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局函詢農業用地已同意變更作非農業使用，後續辦理變更編定時，已註明「已經建農舍」，則該用地得否續行辦理變更編定及合法農舍座落基地是否進行修正或變更，復請查照。",
+ "content": "1.復貴局99年9月20日北農牧字第0990904524號函。\n2.查本會95年8月4日農企字第0950141469號函意旨，同意農地上合法興建之農舍，於核准變更編定函中告知申請人於用地變更異動登記後，應向建管單位申請建築物使用用途變更，以符合非都市土地使用管制規則及建築法之規定。故農業用地依法變更為非農業使用，與該用地上是否已興建農舍無涉，合先敘明。\n3.本案倘貴局審認該農舍與農業用地變更為非農業使用並無影響，為利建物管理及符合相關土地使用管制規定，請貴局依上開原則辦理建物或用地變更。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990163999號|有關貴局函詢農業用地已同意變更作非農業使用後續辦理變更編定時"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d99c8de9a62499d7dd1d3f52939676a0f478af52b521728c7ecc9ea9625778e5",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地變更異動登記後,應向建管單位申請建築物使用用途變更,以符合非都市土地使用管制規則及建築法之規定。故農業用地依法變更為非農業使用,與該用地上是否已興建農舍無涉,合"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "管單位申請建築物使用用途變更,以符合非都市土地使用管制規則及建築法之規定。故農業用地依法變更為非農業使用,與該用地上是否已興建農舍無涉,合先敘明。"
+  }
+ ]
+}

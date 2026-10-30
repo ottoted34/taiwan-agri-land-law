@@ -1,0 +1,59 @@
+{
+ "id": "itp-ddf264efe8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1931827478號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所函詢有關無農舍證明疑義案，復請查照。",
+ "content": "一、復 貴事務所九十三年十一月二十四日九三一一二四○一號函。 二、為辦理「農業用地興建農舍辦法」第三條第一項各款申請人資格條件之審查，申請人應檢具申請興建農舍之申請人資格條件審查表所列之證明文件。而依據該審查表，申請人需檢具(一)稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。(二)申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。(三)申請人切結無自用農舍文件等文件，以俾審查申請人是否無自用農舍之規定。另，因允許農業用地興建農舍係為輔助農業經營，故該農業用地需確供農業使用，而申請人需依據前開審查表規定，檢具農業用地作農業使用證明等文件以茲證明及審查，故無農舍證明與前述「農用證明」，係不同的證明文件。 三、依 貴事務所來函所述，係涉核發「農業用地作農業使用證明」之事項，非屬審查無自用農舍之疑義，故無法釋疑。另，本案經相關文件審查若確無自用農舍，但仍不符合申請興建農舍申請人之其他資格條件者，仍無法申請，併予說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1931827478號|貴事務所函詢有關無農舍證明疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0a380a575a43e180807a848fb0d0294068d14d04d7c5c09b2c27e2cccc902807",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "務所九十三年十一月二十四日九三一一二四○一號函。 二、為辦理「農業用地興建農舍辦法」第三條第一項各款申請人資格條件之審查,申請人應檢具申請興建農舍之申請人資格條件審查表所"
+  }
+ ]
+}

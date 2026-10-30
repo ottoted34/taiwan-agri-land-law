@@ -1,0 +1,37 @@
+{
+ "id": "tech-2800225dfea7",
+ "source_key": "datamoa:B83:bf4693f76051bdf4",
+ "title": "農情月刊 138",
+ "series": "農情月刊",
+ "issue": "138",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": "2011-06",
+ "url": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/138.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B83",
+  "title": "臺東區農業改良場農情月刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83"
+ },
+ "raw": {
+  "期別": "138",
+  "出刊時間": "201106",
+  "檔案連結": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/138.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83",
+   "fetched_at": "2026-10-30T11:58:04+08:00"
+  }
+ ],
+ "content_hash": "ad92120b8a1f4a9688b4667db41617ef06412879d7f93b0e266da4127abddd04",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

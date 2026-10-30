@@ -1,0 +1,59 @@
+{
+ "id": "itp-f6987c343f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848692號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○股份有限公司得否租用自用農舍（坐落土地屬一般農業區農牧用地）經營便利商店案，復請查照。",
+ "content": "一、復 貴部96年6月13日內授中辦地字第0960726581號函。\n二、本會91年10月29日農輔字第0910158337號函，已明釋農業用地上准許興建農舍之許可使用細目包括農產品買賣及農作物生產資材及日用品買賣，應與服務農業經營有關，為避免造成農地資源扭曲利用，不宜擴大適用如純作一般商品販售場所，故本案農舍作為經營便利商店使用，即違反上開函釋及非都市土地使用管制規則有關農舍許可使用之用途，建議該違規使用之行為仍應依相關法令處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848692號|○○股份有限公司得否租用自用農舍坐落土地屬一般農業區農牧用地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a39e5b35cb950e712511c16790f9deed6e99eb3c830b76fbcf3cd7a484954009",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "品販售場所,故本案農舍作為經營便利商店使用,即違反上開函釋及非都市土地使用管制規則有關農舍許可使用之用途,建議該違規使用之行為仍應依相關法令處理。"
+  }
+ ]
+}

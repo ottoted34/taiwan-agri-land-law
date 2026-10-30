@@ -1,0 +1,61 @@
+{
+ "id": "itp-fb9f14252f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100716972號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "申請興建農舍土地取得時點疑義",
+ "content": "主旨：有關臺端陳情申請興建農舍疑義一案，復如說明，請查照。\n說明：\n一、復臺端110年7月19日陳情書。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，非為解決居住問題，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第3款規定略以：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，．．．。但於離島地區，以下列原因，於本條例中華民國89年1月28日修正生效後，取得被繼承人或贈與人於上開日期前所有之農業用地，申請興建農舍者，不在此限：(一)繼承。(二)為民法第1138條所定遺產繼承人於繼承開始前因被繼承人之贈與。」，已明定離島地區符合但書規定之原因及時點者，不受農舍用地面積10%限制之資格條件，併予敘明。\n四、又，依民法第758條規定:「不動產物權，依法律行為而取得、設定、喪失及變更者，非經登記、不生效力。」暨土地法第43條規定:「依本法所為之登記，有絕對效力。」，爰申請興建農舍之農業用地取得原因，仍應以土地登記簿謄本所載登記原因為準，故請臺端針對主張適用說明三所述但書規定之農業用地取得原因及時點，提供金門縣政府審認。\n五、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，倘有任何疑義，宜請洽所在地直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100716972號|申請興建農舍土地取得時點疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "73b58f60cbef843919291c86582c2505e79157fbfd44c77ce7fdaa6edfacbc35",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第3款規定略以:「申請興建農舍之農業用地,其農舍用"
+  }
+ ]
+}

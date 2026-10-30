@@ -18,17 +18,32 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4007",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:53+08:00",
+   "fetched_at": "2026-10-30T11:28:06+08:00",
    "source_key": "rmis:4007"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041891885號|有關貴府函為民眾變更核發興建農舍申請人資格疑義案復請查照"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "amended_by_later",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-33c9552f89",
+    "by_docno": "水保農字第1051845420號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "二、有關已核發興建農舍申請人資格,因土地分割合併變更地號,其所依循之審查許可條件已生變動,爰其農民資格自應依規定重新審認,本局105年1月11日水保農字第1041891885號函釋有案"
+   }
+  ]
  },
  "content_hash": "b8e025f6841fcf65673a7047fb5cc90a9d093978f9b65a2ea36acb7b01140cab",
  "topics": [
@@ -40,16 +55,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "查許可條件已生變動,是以其農民資格自應依規定重新審認。\n三、農業用地興建農舍辦法(以下簡稱本辦法)業於104年9月4日修正施行,就申請興建農舍之農民,新增相關認"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

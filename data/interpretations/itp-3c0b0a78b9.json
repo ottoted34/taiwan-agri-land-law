@@ -1,0 +1,52 @@
+{
+ "id": "itp-3c0b0a78b9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981812013號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台○詢問修法前取得花蓮縣吉安鄉○○○、○○○兩筆地號，於修法後合併、分割調整界址，是否適用修法前之規定興建農舍，復如說明，請 查照。",
+ "content": "1. 依據本會水土保持局案陳台端98年5月25日申請書辦理。\n2. 本會97年11月26日農授水保字第0971844308號通函各縣市政府，有關土地合併分割交換調整，其權屬不變動者，取得農地計算基準，不受同年8月4日農授水保字第0971843810號函之限制。\n3. 台端修法前取得之土地於修法後經合併、分割調整界址，其權屬不變動，所得依說明二旨揭函釋辦理，惟其涉及個案之審查，仍應請縣政府依個案內容慎予核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981812013號|台○詢問修法前取得花蓮縣吉安鄉○○○○○○兩筆地號於修法後合"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1b90ada884c8ed0ab6233ffa6064a4ccc62656f9085cb3c43c2982778bb2d539",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

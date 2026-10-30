@@ -1,0 +1,52 @@
+{
+ "id": "itp-2aef580b69",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061800582號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢申請興建農舍土地涉及建築線或計畫道路境界線依規定須退縮者，其農舍用地範圍審查疑義一案，復如說明，請查照。",
+ "content": "一、復貴府106年1月12日屏府農企字第10601495600號函。\n二、經查本局105年3月23日105年研商農舍相關議題第一次會議紀錄案由一係以都市計畫範圍為案例討論並做成決議，縣市政府於實際審查時，得視其農業用地所在區位之土地使用管制與建築規定，參照前開決議意旨，本權責卓處。\n三、另有關農舍因臨道路境界線須退縮者，為連接現有道路所須之通路最小寬度，其寬度限制應屬地方管理權限，應依貴府相關建管規定辦理，或建請貴府依事實本權責自行審酌，並得參考其他縣市政府作法訂定相關審查辦法規範之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061800582號|有關貴府函詢申請興建農舍土地涉及建築線或計畫道路境界線依規定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e51699e7d9b3aa44ffcba5a84dc4d288730b9ffb3753d845c5591c23ff7e69e6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-83bf5d6f87",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951850886號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○等20人申請於宜蘭縣羅東鎮○○○地號土地，以集村方式興建農舍，如擬變更起造人或辦理農舍座落建築基地所有權移轉及調整各起造人持有面積，該農舍座落建築基地，可否核發農業使用證明書疑義案，復請查照。",
+ "content": "一、復 台端95年2月14日致本會水土保持局申請書。\n二、依「農業用地興建農舍辦法」相關規定申請以集村方式興建農舍，經建築主管機關核發建造執照，且已動工興建之集村興建農舍坐落建築基地，如擬變更起造人或辦理所有權移轉及調整各起造人持有面積而申請核發農業使用證明書部分，得就興建面積是否符合建築配置圖所載面積為審查核發依據，如經查明符合建築配置圖而無違規情事者，自得核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951850886號|有關○○○等20人申請於宜蘭縣羅東鎮○○○地號土地以集村方式"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7a6f6815b5df9765c08618ab79d13d2c9eadf92547931b0cacd9933eee53f2d9",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "一、復 台端95年2月14日致本會水土保持局申請書。\n二、依「農業用地興建農舍辦法」相關規定申請以集村方式興建農舍,經建築主管機關核發建造執照,且已動工興建之集村興"
+  }
+ ]
+}

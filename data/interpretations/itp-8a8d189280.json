@@ -1,0 +1,58 @@
+{
+ "id": "itp-8a8d189280",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990143354號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣田中鎮民○○○所有田中鎮○○○地號土地申請興建農舍疑義案，復請查照。",
+ "content": "1.復 貴府99年6月23日府農務字第0990149548號函。\n2.農業用地經辦理合併分割交換調整，其屬權屬不變動之分割或合併，其取得農地計算基準，不受本會97年8月4日農授水個字第0971843810號函之限制，本會97年11月26日農授水保字第0971844308號通函縣（市）政府有案。查權屬不變動之分割，其農地取得時點計算基準依上開函釋應無疑慮。\n3.旨揭土地於95年2月13日由田中鎮○○○地號土地（○○○76年10月24日取得）分割增加，其取得時點案，屬個案事實認定，請本於權責依上述原則辦理，如經查明符合上開函釋屬權屬不變動之分割者，得依「農業用地興建農舍辦法」第2條規定申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990143354號|有關貴縣田中鎮民○○○所有田中鎮○○○地號土地申請興建農舍疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6b35a1527252d32f86c9163da01f21d5eabe6132ba5c5a6197d2c1d0ed274c63",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "上述原則辦理,如經查明符合上開函釋屬權屬不變動之分割者,得依「農業用地興建農舍辦法」第2條規定申請興建農舍。"
+  }
+ ]
+}

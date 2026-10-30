@@ -1,0 +1,71 @@
+{
+ "id": "itp-9e9a009b70",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842073號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關參與集村興建舍之配合農地，得否適用「休閒農業輔導管理辦法」規定申請設置休閒農場案，復請查照。",
+ "content": "一、復 貴事務所97年12月5日(九七)南高建(大安)字第001號函。\n二、農業發展條例授權訂定之「農業用地興建農舍辦法」與「休閒農業輔導管理辦法」二者立法目的與規範內容各不相同，休閒農場之申請籌設與核發登記證須相關單位審核，且主管機關對已准予籌設或核發登記之休閒農場須定期與不定期檢查，為避免造成休開農場管理之困擾，申請參與集村興建舍之配合農地，不宜申請休閒農場。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842073號|有關參與集村興建舍之配合農地得否適用休閒農業輔導管理辦法規定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "105ff014097e7ac791ec50c7e9d8db165f670fa59942c209c54cb77b7264ff0c",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0090014",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關參與集村興建舍之配合農地,得否適用「休閒農業輔導管理辦法」規定申請設置休閒農場案,復請查照。\n一、復 貴事務所97年12月5日(九七)南高"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "97年12月5日(九七)南高建(大安)字第001號函。\n二、農業發展條例授權訂定之「農業用地興建農舍辦法」與「休閒農業輔導管理辦法」二者立法目的與規範內"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ")南高建(大安)字第001號函。\n二、農業發展條例授權訂定之「農業用地興建農舍辦法」與「休閒農業輔導管理辦法」二者立法目的與規範內容各不相同,休閒農場之申請籌設與核"
+  }
+ ]
+}

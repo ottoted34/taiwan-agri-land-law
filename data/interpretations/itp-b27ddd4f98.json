@@ -1,0 +1,58 @@
+{
+ "id": "itp-b27ddd4f98",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0972908735號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於集村農舍之建築基地特定農業區農牧用地未連接道路建築線，是否得以同農地所有權人之農地都市計畫農業區申請私設通路連接乙案，復請查照。",
+ "content": "一、復貴事務所97年4月21日97祺字第001 號函。\n二、查「毗鄰農業區之建築基地，為建築需要依其建築使用條件無法以其他相鄰土地作為私設通路連接建築線者，得經縣市政府審查核准後，以農業區土地興闢作為連接建築線之私設通路使用。前項私設通路長度、寬度及使用條件等相關事項，由縣市政府定之。」，都市計畫法臺灣省施行細則第29條之2已有明文，上開規定所稱「建築基地」尚非僅限於都市計畫內之建築基地，先予敘明。\n三、經電洽貴事務所稱本案申請私設通路之都市計畫農業區農地，未納入集村農舍申請範園，至得否申請私設通路連接集村農舍之建築基地，請依上開規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0972908735號|關於集村農舍之建築基地特定農業區農牧用地未連接道路建築線是否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "339ac4f1fe4642fb44adddb4b316a698196e4d4a90dc4e00eb30eafb51abe833",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "私設通路長度、寬度及使用條件等相關事項,由縣市政府定之。」,都市計畫法臺灣省施行細則第29條之2已有明文,上開規定所稱「建築基地」尚非僅限於都市計畫內"
+  }
+ ]
+}

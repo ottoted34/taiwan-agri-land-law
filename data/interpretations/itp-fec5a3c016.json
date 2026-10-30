@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5594",
    "serial": null,
-   "fetched_at": "2026-10-30T09:54:23+08:00",
+   "fetched_at": "2026-10-30T11:21:36+08:00",
    "source_key": "rmis:5594"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080256746號|苗栗水保局施作之農塘工程蓄水池是否為水保設施或農業設施需先釐"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "a2142adb3e1c2a4e470bf9bc5d5851fe4313463850278cfd243f9bdf419fc5fb",
  "topics": [
@@ -42,28 +58,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "農業用地作農業使用證明書(以下簡稱農用證明)。所稱農業使用於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "4",
    "kind": "extracted",
    "snippet": "用範疇,得認定為作農業使用。\n三、至農業用地設置農業設施,依農業用地作農業使用認定及核發證明辦法第4條第2款規定,須檢附容許使用同意書或從來使用證明文件,俾得認定為作農業使用。倘為政"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "7",
    "kind": "extracted",
    "snippet": "用。倘為政府施設供公眾使用者,得視為已取得容許使用,惟應符合申請農業用地作農業設施容許使用審查辦法第7條第1項規定,即農業設施總面積不得超過該筆農業用地面積之40%。\n四、綜上,依貴府"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

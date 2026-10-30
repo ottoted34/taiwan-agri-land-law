@@ -1,0 +1,58 @@
+{
+ "id": "itp-8f433c90c7",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1051834165號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍範本。",
+ "content": "有關台端所詢事項，經查本局並無農舍範本，然依據農業用地興建農舍辦法第14條規定：「直轄市、縣(市)主管建築機關得依本辦法規定，訂定符合城鄉風貌及建築景觀之農舍標準圖樣。採用農舍標準圖樣興建農舍者，得免由建築師設計。」，倘台端係指上開規定之「農舍標準圖」，係直轄市、縣(市)政府主管建築機關權責，建請台端逕向所在地主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1051834165號|農舍範本"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a7ed4bb3a54024fa100ba9de06d1a3ff053d8f53bc3aba5a5661272b208578c2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "14",
+   "kind": "extracted",
+   "snippet": "農舍範本。\n有關台端所詢事項,經查本局並無農舍範本,然依據農業用地興建農舍辦法第14條規定:「直轄市、縣(市)主管建築機關得依本辦法規定,訂定符合城鄉風貌及建築景觀之"
+  }
+ ]
+}

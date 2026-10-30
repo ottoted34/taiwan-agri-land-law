@@ -1,0 +1,70 @@
+{
+ "id": "itp-586f91f2b8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1051827920號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "建請增訂『臨時農舍』實施法規。",
+ "content": "一、依農業用地興建農舍辦法第2、3、8條規定，申請興建農舍應先取得農民興建資格後，再依建築法規定向直轄市、縣(市)主管建築機關申請建造執照，先予敘明。\n二、按農民雖得於農業用地申請興建農舍，惟農地上任何建築行為均可能對農業生產環境造成負面衝擊，因此應於不影響農業生產環境之前提下始得興建，農業發展條例及農業用地興建農舍辦法相關規定即為引導農舍合理興建而訂定。\n三、台端所提「臨時農會」建議，與當前加強維護農地資源，落實農舍興建審核之政策目標不符，爰歉難採納。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1051827920號|建請增訂臨時農舍實施法規"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "681e67329fdcfdc6beca28fa1b6a48310b1c29f129a8d75b6708f248537f17a5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "建請增訂『臨時農舍』實施法規。\n一、依農業用地興建農舍辦法第2、3、8條規定,申請興建農舍應先取得農民興建資格後,再依建築法規定向直轄市、"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第2、3、8條規定,申請興建農舍應先取得農民興建資格後,再依建築法規定向直轄市、縣(市)主管建築機關申請建造執照,先予敘明。\n二、按農民雖得於農業"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "境造成負面衝擊,因此應於不影響農業生產環境之前提下始得興建,農業發展條例及農業用地興建農舍辦法相關規定即為引導農舍合理興建而訂定。\n三、台端所提「臨時農"
+  }
+ ]
+}

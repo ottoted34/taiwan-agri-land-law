@@ -1,0 +1,64 @@
+{
+ "id": "itp-ce3771aec2",
+ "doc_class": "interpretation",
+ "docno": "農糧字第0911009297號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋○○股份有限公司申辦農業動力用電案",
+ "content": "依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定，有關農作物栽培、收穫後處理、冷藏等直接供農業所需者，並經該管直轄市或縣（市）主管機關核發證明文件者，得檢具應備之證明文件，向電力公司申辦基本電費減免手續，請貴公司依前揭規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農糧字第0911009297號|釋○○股份有限公司申辦農業動力用電案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fe10ad24dc0f5b3290a9349870024e4f405a2b0773f2fefd28b5ca8f782daa0b",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "29",
+   "kind": "extracted",
+   "snippet": "釋○○股份有限公司申辦農業動力用電案\n依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定,有關農作物栽培、收穫後處理、冷藏等直"
+  },
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "司申辦農業動力用電案\n依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定,有關農作物栽培、收穫後處理、冷藏等直接供農業所需者,並經該管直轄市或縣(市"
+  }
+ ]
+}

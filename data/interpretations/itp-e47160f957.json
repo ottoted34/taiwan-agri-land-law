@@ -1,0 +1,70 @@
+{
+ "id": "itp-e47160f957",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940145612號",
+ "date": "2005-08-30",
+ "date_text": "94年8月30日農企字第0940145612號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "008 釋農業發展條例施行細則第14條之1土地之農業設施應如何審理",
+ "content": "農業發展條例施行細則第14條之1土地，於辦理核發農業用地作農業使用證明書時，該筆土地興建有固定基礎之農業設施應如何審理案，請比照農業用地容許作農業設施使用審查辦法之規定，補辦農業設施容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940145612號|釋農業發展條例施行細則第14條之1土地之農業設施應如何審理"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-bdef3467d6",
+    "by_docno": "農企字第1080232427號",
+    "by_date": "2019-08-21",
+    "kind": "cease",
+    "phrase": "四、基於農發條例第38條之1規定係為土地移轉之稅賦優惠,且該土地已非屬農業用地,而容許辦法係規範農業設施,且以農業用地為適用範圍,二者規範之目的不同、適用之土地亦有別,故農發條例第38條之1土地應無容許辦法之適用,爰本會94年8月30日農企字第0940145612號函、95年11月8日農企字第0950162030號函、98年2月24日農企字第0980109258號函、以及102年11月8日農企字第"
+   }
+  ]
+ },
+ "content_hash": "2e06228fa461b5500befccdc86f8e895205c394ade7a60c4e8d1fa2ea4e3e567",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "14-1",
+   "kind": "extracted",
+   "snippet": "008 釋農業發展條例施行細則第14條之1土地之農業設施應如何審理\n農業發展條例施行細則第14條之1土地,於辦理核發農業用"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "明書時,該筆土地興建有固定基礎之農業設施應如何審理案,請比照農業用地容許作農業設施使用審查辦法之規定,補辦農業設施容許使用。"
+  }
+ ]
+}

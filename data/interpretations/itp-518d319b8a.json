@@ -1,0 +1,58 @@
+{
+ "id": "itp-518d319b8a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000144135號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函轉民眾詢問「有關98年間購入兩筆農地時未辦理合併登記，可否因屆滿2年據以申請興建農舍問題」乙案，復請 查照。",
+ "content": "1.復貴府100年7月12日府農管字第1000272747號函。\n2.依農業用地興建農舍辦法第3條第1項第3款規定：「申請興建農舍之該宗農業用地不得小於0.25公頃...。」；此所稱「該宗」農業用地，係指土地單一筆地號農業用地而言，本會93年4月19日農授水保字第0931806098號函釋有案。\n3.次依本會97年8月4日農授水保字第0971843810號函，土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準；又依本會97年11月26日農授水保字第0971844308號函，有關土地合併分割交換調整，其屬權屬不變動之分割或合併案件，其取得農地計算基準，不受上開函之限制。\n4.本案係屬個案認定，如經貴府審認符合權屬不變動案件，請貴府依上開原則本諸權責審查。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000144135號|貴府函轉民眾詢問有關98年間購入兩筆農地時未辦理合併登記可否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7ce68e93a197fc20e48c867a8fafcfbe6aefcd5ccef59ef9dfb521e7dc5888ed",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "00年7月12日府農管字第1000272747號函。\n2.依農業用地興建農舍辦法第3條第1項第3款規定:「申請興建農舍之該宗農業用地不得小於0.25公頃...。」;此"
+  }
+ ]
+}

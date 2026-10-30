@@ -1,0 +1,58 @@
+{
+ "id": "itp-8c943e9ced",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051813688號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關為補申請增建農舍得否免提經營計畫書送會農業主管機關核定疑義1案，請查照。",
+ "content": "一、依據內政部營建署105年11月2日營署綜字第1050064413號函辦理。\n二、依據農業用地興建農舍辦法（以下簡稱本辦法）第9條第2項第6款規定，同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第二條第一項資格。爰如屬原申請人於原農業用地上，採分期興建方式辦理增建者，似得免依本辦法第2條規定提經營計畫書，惟仍建請確認該筆土地之農業經營用地仍維持農業使用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051813688號|有關為補申請增建農舍得否免提經營計畫書送會農業主管機關核定疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "60d13d5c60394f93b2077386b3235f79a307d26d130bf4c94a0337c2d0338cfd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "11月2日營署綜字第1050064413號函辦理。\n二、依據農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定,同一筆農業用地僅能申請興建一棟農舍,採"
+  }
+ ]
+}

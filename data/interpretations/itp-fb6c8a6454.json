@@ -1,0 +1,56 @@
+{
+ "id": "itp-fb6c8a6454",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980175079號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢○○○、○○○等2人於農業發展條例修正施行後取得之農業用地，經分割合併其土地取得時點認定疑義案，復請查照。",
+ "content": "一、復貴府98年11月23日府農務字第09802401200號函。\n二、有關土地合併分割交換調整，其屬權屬不變動之分割或合併案件，其取得農地計算基準之認定，前經本會97年11月26日農授水保字第0971844308號函說明在案，請貴府本於權責依規辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980175079號|有關貴府函詢○○○○○○等2人於農業發展條例修正施行後取得之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f747e4ad7cf735bd66c057736c89aad243917d78f0f6684f98d8e63d26e01910",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函詢○○○、○○○等2人於農業發展條例修正施行後取得之農業用地,經分割合併其土地取得時點認定疑義案,復請查照。\n一、復"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-a002d6b8ce",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849239號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "都市計畫內一般保護區土地可否提供作為都市土地集村興建農舍之配合耕地案，復請查照。",
+ "content": "一、復貴事務所96年10月23日96兆字第1023號函。\n二、依據都市計畫法之規定，都市土地應依各都市計畫之土地使用計畫與管制辦理，貴事務所所詢一般保護區得否依據都市計畫法臺灣省施行細則第27條之特別規定辦理，請逕洽土地所在地之都市計畫主管機關。\n三、查農業用地興建農舍辦法第8條第1項第2款明定，各起造人持有之農業用地與集村興建農舍坐落之農業用地，其法令規定適用之基層建築面積之計算標準應相同，且應同屬都市土地或非都市土地。本案如經都市計畫主管機關函復得予適用者，上開辦法相關規定，亦請配合辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849239號|都市計畫內一般保護區土地可否提供作為都市土地集村興建農舍之配"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6d4449e615053f62c4a8ace88f9ed9c2f3be104ea1b583090f959d0981693b6a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴事務所96年10月23日96兆字第1023號函。\n二、依據都市計畫法之規定,都市土地應依各都市計畫之土地使用計畫與管制辦理,貴事務所所詢一般保護區得"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "之特別規定辦理,請逕洽土地所在地之都市計畫主管機關。\n三、查農業用地興建農舍辦法第8條第1項第2款明定,各起造人持有之農業用地與集村興建農舍坐落之農業用地,其法令規定"
+  }
+ ]
+}

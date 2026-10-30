@@ -1,0 +1,52 @@
+{
+ "id": "itp-ad6113438b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970139990號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關本會96年3月14日農授水保字第0961848173號函釋：「農舍與其坐落用地併同移轉時，其承受人資格應符合無自用農舍條件」，是否包括繼承移轉登記案，復請查照。",
+ "content": "1.復 台端97年7月15日申請書。\n2.本會96年3月14日農授水保字第0961848173號函釋：「農舍與其坐落用地併同移轉時，其承受人資格應符合無自用農舍條件」，如係繼承移轉，不在此限（參照本會96年7月23日農水保字第0961848569號函）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970139990號|台端函詢有關本會96年3月14日農授水保字第09618481"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f49445e55c004fcf8dfb822036986b0f39c875c210b9c27c1ee8b7a04d7d4980",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

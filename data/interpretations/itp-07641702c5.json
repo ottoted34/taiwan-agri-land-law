@@ -1,0 +1,58 @@
+{
+ "id": "itp-07641702c5",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061832173號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端詢問農業發展條例修法前取得農業用地，依法申請興建中之農舍，因所有權人死亡發生繼承情形，俟竣工後，該農舍是否受新建農舍5年始得移轉之限制疑義案，復如說明，請查照。",
+ "content": "一、復台端106年8月29日未具文號書函。\n二、查農業發展條例第18條第1項、第2項規定，該條例修正施行後取得農業用地之農民，其在自有農業用地興建農舍滿5年始得移轉；本案所述之土地所有權人於101年8月15日繼承該筆農地，其取得時點為農業發展條例修法後，自應依該條例第18條第2項規定於興建農舍滿5年始得移轉，至於5年起算日之計算時點，依本會98年9月15日農授水保字第0980156786號函規定，係以農舍使用執照之核發日起算。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061832173號|台端詢問農業發展條例修法前取得農業用地依法申請興建中之農舍因"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "43f6ead344a602180658ba2ed39cdc286826b6e3f93c03cf09d6862ffed7ffb4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "請查照。\n一、復台端106年8月29日未具文號書函。\n二、查農業發展條例第18條第1項、第2項規定,該條例修正施行後取得農業用地之農民,其在自有農業用地興建農舍"
+  }
+ ]
+}

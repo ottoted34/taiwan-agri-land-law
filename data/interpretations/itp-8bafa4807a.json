@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3750",
    "serial": null,
-   "fetched_at": "2026-10-30T10:12:20+08:00",
+   "fetched_at": "2026-10-30T11:39:22+08:00",
    "source_key": "rmis:3750"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1021820098號|為民眾○○○等9人共有坐落於本縣冬山鄉○○○地號土地興建農舍"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -50,22 +56,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "號書函(如附)回復林○○○並副知貴府有案,仍請參辦。\n三、至農業發展條例89年1月28日修正施行前已取得應有部分所有權之共有人,於土地未辦理分割下共有申"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "議題會議之決議,請依下列處理原則辦理:\n(一)申請人均應符合農業用地興建農舍辦法興建農舍資格要件。\n(二)應取得全部共有人之同意,並訂有分管契約。但共有人全部提"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

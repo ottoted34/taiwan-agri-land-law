@@ -1,0 +1,67 @@
+{
+ "id": "itp-a6f9f66a6a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940166848號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關特定農業區農牧用地申請容許作農業設施（苗木包裝處理場）使用疑義案。",
+ "content": "主旨：有關○○○於特定農業區農牧用地申請容許作農業設施（苗木包裝處理場）使用疑義案，復請 查照。\n說明：\n一、復 貴府94年12月2日府農務字第0940232249號函。\n二、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」農業用地上種植園藝作物或以農業設施培植園藝作物，應屬農業使用中之農作使用的一環，本案依來函所述從事羅漢松、桂花、圓柏、鐵樹等苗木栽培，似屬園藝作物之栽培，應得視為農作使用依據農業用地容許作農業設施使用審查辦法相關規定申請農作產銷設施，然本案是否實際從事農業耕作栽培符合「農業使用」之意涵，或係僅屬園藝商業之盆栽、盆景販售行為，案關實務認定，故本案仍請考量農業使用之內涵、當地農業經營發展、設施與農業生產經營之必要性及合理性，視個案實務及事實予以審認。\n三、檢還原○○○之申請書表及附件資料。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940166848號|有關特定農業區農牧用地申請容許作農業設施苗木包裝處理場使用疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "34dca202d4e07f5519b8d85d826013d8cae78f1fd31e5208feedca87708c6367",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "94年12月2日府農務字第0940232249號函。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "柏、鐵樹等苗木栽培,似屬園藝作物之栽培,應得視為農作使用依據農業用地容許作農業設施使用審查辦法相關規定申請農作產銷設施,然本案是否實際從事農業耕作栽培符合「農業使用」之意涵,"
+  }
+ ]
+}

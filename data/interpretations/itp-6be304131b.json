@@ -1,0 +1,60 @@
+{
+ "id": "itp-6be304131b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940131724號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款之「夾雜」疑義案。",
+ "content": "主旨：有關○○股份有限公司委託貴公司向桃園縣政府申請之「中園貨櫃集散站」用地變更案，是否有「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款，不同意變更使用規定之情形，復如說明，請查照。\n說明：\n一、依據貴公司94年6月14日(94)鉅工字第398號函辦理。\n二、查本會訂頒之「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款規定：「申請變更範圍內夾雜未申請變更之農業用地且妨礙其農業經營者。」所稱「夾雜」應指未申請變更之農業用地為新申請變更編定之用地與原已變更編定之用地所包圍，致該農業用地無通路與外界聯絡等情形，本案是否屬上述情形，仍宜由縣政府本於實況逕為審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0940131724號|有關農業主管機關同意農業用地變更使用審查作業要點第5點第3款"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f1eca02c07379abad9d96e8304bb31489eb0f8e4d0007871100ca5798648e472",
+ "topics": [
+  "container",
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款之「夾雜」疑義案。\n主旨:有關○○股份有限公司委託貴公司向桃園縣政府"
+  }
+ ]
+}

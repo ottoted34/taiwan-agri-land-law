@@ -1,0 +1,79 @@
+{
+ "id": "itp-284945ffeb",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950010595號",
+ "date": "2006-07-24",
+ "date_text": "95/7/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有貴府設置之農業發展基金請加強農地管理業務運用及規劃案。",
+ "content": "主旨：貴府設置之農業發展基金請加強農地管理業務運用及規劃乙案，請 查照。\n說明：\n一、農業用地變更回饋金撥繳及分配利用辦法第7條規定，農業發展基金應撥交所收取之回饋金二分之一予直轄市或縣（市）政府所設置之農業發展基金，供農村建設及農地管理之用，即以農地變更回饋金為主要收入來源而設置之縣（市）農業發展基金，允宜強化農地管理相關業務需求之運用，合先敘明。\n二、邇來各縣（市）政府接獲相關農地違規檢舉案件，其有涉及適用農業用地違規使用檢舉辦法發給檢舉獎金之事宜，有部分縣市政府反應並無檢舉獎金之編列；另在本會與各縣（市）共同參與之各區域『農地管理業務經驗交流分享會議』部分鄉鎮公所表示全力配合農地管理資訊化作業，但因設備有限，致資料建置作業成效有限。鑒於上開作業需求均設農地管理業務，請 貴府就依法設置之農業發展基金，於年度預算編列時，考量在依法運用下編列相關預算支援。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5153",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:19+08:00",
+   "source_key": "rmis:5153"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950010595號|有貴府設置之農業發展基金請加強農地管理業務運用及規劃案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "7",
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "54eb3ba4e51b712a2ec74aad70d3c19bd373d121ae8577f51fa74d72dc213186",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "金請加強農地管理業務運用及規劃乙案,請 查照。\n說明:\n一、農業用地變更回饋金撥繳及分配利用辦法第7條規定,農業發展基金應撥交所收取之回饋金二分之一予直轄市或縣(市)政府所設置之農業"
+  }
+ ]
+}

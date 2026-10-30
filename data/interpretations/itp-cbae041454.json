@@ -1,0 +1,111 @@
+{
+ "id": "itp-cbae041454",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920126127號",
+ "date": "2003-05-15",
+ "date_text": "92年5月15日農企字第0920126127號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "064 釋農業用地從事非畜牧範疇之動物（寵物）繁殖，不符合農業發展條例第3條第12款農業使用案",
+ "content": "一、查寵物業許可證之核發係依「寵物業管理辦法」之規定辦理，其審理核定均未涉及農地管理事項；另依「非都市土地農業用地作畜牧設施 容許使用審查作業要點」之規定，並未列有犬隻飼養設施，合先敘明。\n二、又依「農業用地作農業使用認定及核發證明辦法」第8條之規定，農業設施係指農業用地符合區域計畫法或都市計畫法土地使用分區管制相關法令規定興建之農業設施，並持有證明文件且確實依所核定用途、面積使用者。準此，本案所稱犬舍並不符合前開農業設施興建之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920126127號|釋農業用地從事非畜牧範疇之動物寵物繁殖不符合農業發展條例第3"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "71fd7394c21390c3e278be0319e282eced6ebf6012518afb7ad9bf80fb608f54",
+ "topics": [
+  "farm_use_cert",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "064 釋農業用地從事非畜牧範疇之動物(寵物)繁殖,不符合農業發展條例第3條第12款農業使用案\n一、查寵物業許可證之核發係依「寵物業管理辦法」之規定辦理,其"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "作業要點」之規定,並未列有犬隻飼養設施,合先敘明。\n二、又依「農業用地作農業使用認定及核發證明辦法」第8條之規定,農業設施係指農業用地符合區域計畫法或都市計畫法土地使用分區管制相關法令規"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用認定及核發證明辦法」第8條之規定,農業設施係指農業用地符合區域計畫法或都市計畫法土地使用分區管制相關法令規定興建之農業設施,並持有證明文件且確實依所"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "證明辦法」第8條之規定,農業設施係指農業用地符合區域計畫法或都市計畫法土地使用分區管制相關法令規定興建之農業設施,並持有證明文件且確實依所核定用途、面"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-d2c3ec17fd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060205793號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○於貴府大園區○○○地號土地(特定農業區農牧地)申請興建農舍，申請人資格條件審查案，復如說明，請查照。",
+ "content": "一、依據貴局106年2月14日桃農管字第1060003647號函辦理。\n二、查農業用地興建農舍辦法第4條規定略以，「本條例中華民國八十九年一月二十八日修正施行前取得之農業用地，有下列情形之一者，得準用前條規定申請興建農舍:一、依法被徵收之農業用地。但經核准全部或部分發給抵價地者，不適用之。二、依法為得徵收之土地，經土地所有權人自願以協議價購方式讓售與需地機關。...」，先予敘明。涉徵收事項者，應請先檢視是否有該條規定之適用。\n三、另有關土地取得時點，請悉依本會101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令辦理(影附供參)。\n四、申請農舍之個案審查係屬地方政府權責，所詢個案仍請貴府就個案事實審酌核處。\n五、次查農業用地興建農舍辦法係由內政部與本會會銜訂定發布，如有法規疑義仍依主管事項分責辦理。有關建築及土地登記事項及本辦法第4條係屬內政部主政，如有該等法條之法規疑義，請向該部申請釋疑。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060205793號|有關○○○於貴府大園區○○○地號土地特定農業區農牧地申請興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cfa6619d54c4b26ef9a748647f23c8182f9845834764bc9a34306692b438ef2c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "年2月14日桃農管字第1060003647號函辦理。\n二、查農業用地興建農舍辦法第4條規定略以,「本條例中華民國八十九年一月二十八日修正施行前取得之農業用地,有下列情"
+  }
+ ]
+}

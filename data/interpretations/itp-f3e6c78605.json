@@ -1,0 +1,58 @@
+{
+ "id": "itp-f3e6c78605",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061832826號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「相鄰土地分割再合併完成，申請農舍是否須從分割合併後2年方能取得新建農舍資格」一案",
+ "content": "一、有關「農業發展條例」第18條所稱取得農業用地，行政院農業委員會前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，除下列情形外，其取得時點以登記日期為基準：一、依民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期為基準外，其餘則以登記日期為基準。二、依農地重劃條例第二十七條規定：「農地重劃後分配於原土地所有權人之土地，自分配確定之日起，視為其原有土地。」，爰重劃後分配之土地，應以原有土地取得時點為基準。三、依公職人員財產申報法規定辦理強制信託之農業用地，於塗銷信託登記回復為委託人所有後，應以該農業用地辦理信託登記前之取得時點為基準。爰您所詢興建農舍其農業用地取得應滿2年，其時點起算，除上開情形外，應以土地登記簿所有權部認定之。\n二、本會提供上開二號令影本予您參考。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061832826號|相鄰土地分割再合併完成申請農舍是否須從分割合併後2年方能取得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3e4cb796f0524e6e56de574e5d65f4bc63693cd9ffd380ca714aeb6eabb7fa52",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "舍是否須從分割合併後2年方能取得新建農舍資格」一案\n一、有關「農業發展條例」第18條所稱取得農業用地,行政院農業委員會前以101年6月29日農水保字第1011865"
+  }
+ ]
+}

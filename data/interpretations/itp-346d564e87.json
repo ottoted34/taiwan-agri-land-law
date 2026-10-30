@@ -1,0 +1,58 @@
+{
+ "id": "itp-346d564e87",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061835473號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端陳情土地可否辦理贈與移轉一案，復請查照。",
+ "content": "一、復台端106年12月18日陳情書。\n二、查農業發展條例第18條第1項規定:「本條例中華民國八十九年一月四日修正施行後取得農業用地之農民，無自用農舍而需興建者，經直轄市或縣(市)」主管機關核定，於不影響農業生產環境及農村發展，得申請以集村方式或在自有農業用地興建農舍。」，同條第2項規定:「前項農業用地應確供農業使用；其在自有農業用地興建農舍滿五年始得移轉。但因繼承或法院拍賣而移轉者，不在此限。」，同條第4項規定略以:「...農舍應與其坐落用地併同移轉或併同設定抵押權...。」。綜上，移轉農舍及其持分土地予其他持分人，應符合上開規定，始得辦理。\n三、有關農舍管理及土地登記係屬直轄市、縣(市)政府之權責，倘有任何疑義，宜請洽所在地地方政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061835473號|有關台端陳情土地可否辦理贈與移轉一案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f6222e3789e6a17ad73e40529b2e6f74ba725f474ca1c7e32a01c999484b576d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ",復請查照。\n一、復台端106年12月18日陳情書。\n二、查農業發展條例第18條第1項規定:「本條例中華民國八十九年一月四日修正施行後取得農業用地之農民,無自用"
+  }
+ ]
+}

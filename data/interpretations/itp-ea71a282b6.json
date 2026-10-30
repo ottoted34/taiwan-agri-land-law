@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3768",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:06+08:00",
+   "fetched_at": "2026-10-30T11:38:09+08:00",
    "source_key": "rmis:3768"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:屏府農企字第10275169600號|有關補辦農舍建築執照申請核發農業用地作農業使用證明農用證明疑"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -50,10 +56,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "抑或農業設施?\n四、綜上,一棟「疑似農舍」之建築物,是否符合建築法令相關規定?必須由建管單位按建築法規審核建築設計圖說,始足以判定。至於核發農用證"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

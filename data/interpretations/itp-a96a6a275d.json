@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6076",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:35+08:00",
+   "fetched_at": "2026-10-30T11:14:48+08:00",
    "source_key": "rmis:6076"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1140257037號|有關貴署函詢特定工廠業者之廠地範圍若為部分使用是否涉農業主管"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -50,10 +56,12 @@
    "snippet": "有關貴署函詢特定工廠業者之廠地範圍若為部分使用,是否涉「農業主管機關同意農業用地變更使用審查作業要點」第5點不同意變更使用疑義案,請查照。\n一、查「農業發展條例」第10條明定,農業用"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
    "snippet": "用審查作業要點」第5點不同意變更使用疑義案,請查照。\n一、查「農業發展條例」第10條明定,農業用地劃定或變更為非農業使用時,應以不影響農業生產環境之完整;復依「農業"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

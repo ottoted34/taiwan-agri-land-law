@@ -1,0 +1,64 @@
+{
+ "id": "itp-fb2eb31391",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1011803095號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府所詢「五結鄉○○○地號是否適用農業發展條例修法前之規定申請興建農舍」案，復請 查照。",
+ "content": "1.復 貴府101年2月6日府農務字第1010007403號函。\n2.按農業發展條例第18條第3項規定：「本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」，又土地登記規則第106條規定：「數宗共有土地併同辦理共有物分割者，不以同一地段、同一登記機關為限。」，併予敘明。\n3.依旨案申請人101年3月1日傳真書件所敘，其91年辦理共有物分割之土地共有4筆，分割後總面積並未改變，似與貴府來函所敘情形不同。本案屬個案性質，請貴府就申請人所有土地91年辦理共有物分割之變動情形是否合於上開規定予以審酌。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1011803095號|有關貴府所詢五結鄉○○○地號是否適用農業發展條例修法前之規定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0aeaaefed4d5e951ccc03037b39c4ef531869a64e2cf42d87c64e70c0f771f94",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "101年2月6日府農務字第1010007403號函。\n2.按農業發展條例第18條第3項規定:「本條例中華民國89年1月4日修正施行前取得農業用地,且無自用農舍而"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地,而於本條例"
+  }
+ ]
+}

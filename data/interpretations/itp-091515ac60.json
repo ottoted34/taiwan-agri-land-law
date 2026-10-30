@@ -1,0 +1,90 @@
+{
+ "id": "itp-091515ac60",
+ "doc_class": "interpretation",
+ "docno": "農企字第890158009號",
+ "date": "2000-11-16",
+ "date_text": "89/11/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋台灣電力公司興建電力設施，申請農業用地變更，得否免予繳交回饋金案",
+ "content": "查台電公司為配合國家經濟需要，興辦之各項電力設施，經貴部案陳台電公司陳報函及內政部函釋，在性質上應屬廣義之政府機關或視同政府機關辦理之公共建設，其以取得之農業用地辦理變更使用者，案准貴部建議，得適用農業發展條例第十二條第三項第一款規定，免繳交農業用地變更使用回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5214",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:59+08:00",
+   "source_key": "rmis:5214"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第890158009號|釋台灣電力公司興建電力設施申請農業用地變更得否免予繳交回饋金"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "12",
+    "amended_on": "2002-01-30",
+    "history": "中華民國九十一年一月三十日總統（91）華總一義字第 09100019010號令修正公布第 12、18、25、71 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "745358c9f29b74f352075794799c1c086a895babaa3931ee35f4ce3e8dd04d83",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "建設,其以取得之農業用地辦理變更使用者,案准貴部建議,得適用農業發展條例第十二條第三項第一款規定,免繳交農業用地變更使用回饋金。"
+  }
+ ]
+}

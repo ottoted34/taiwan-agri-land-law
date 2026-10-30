@@ -1,0 +1,55 @@
+{
+ "id": "itp-246a174770",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0960174440號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關都市計畫農業區農舍經營便利商店○○是否違反土地使用管制規定通用疑義乙案，復如說明，請查照。",
+ "content": "一、復 貴辦公室96年12月26日台內中營字第0960193808號函。\n二、農業用地上准許興建「農舍」之制度，係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，並給予土地稅賦減免優惠，以便利其農事工作。此外，本會91年10月29日農輔字第0910158337號函，已明釋農業用地上准許興建農舍之許可使用細目包括農產品買賣及農作物生產資材及日用品買賣，其使用應與農業經營有關，為避免造成農地資源扭曲利用，不宜擴大適用如純作一般商品販售場所。前述係依農舍之興建目的及其許可使用所為之解釋，不因農舍坐落位置而有所不同。.\n三、上開係本會本農政單位立場所提供之意見，至是否違反土地使用管制規定乙節，已涉土地使用管制相關規定，宜請貴部依權責審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0960174440號|有關都市計畫農業區農舍經營便利商店○○是否違反土地使用管制規"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e0867967a6e5b96aeba70296c1f31752a8fc26ac17a05e8bdb90e564f5b7007c",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

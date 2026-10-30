@@ -1,0 +1,64 @@
+{
+ "id": "itp-71829ff37d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931824602號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴會函詢訂定三七五租約佃農之農業用地，可否參加集村興建農舍疑義案，復請查照。",
+ "content": "一、復 貴會九十三年十月十八日彰土代九三職工龍字第○二二號函。 二、農舍起造人應為農舍坐落土地之所有權人，為「農業發展條例」第十八條第四項暨「農業用地興建農舍辦法」第三條第一項第五款所明定。故，以三七五租約承租農業用地之佃農，不得參加集村興建農舍。 三、本會九十二年八月一日農授水保字第○九二一八四七○八八號書函說明三：「....故起造人提供申請之各宗農業用地均屬農舍之坐落用地使用執照上坐落基地欄亦有登載。」意旨為：「農舍建築坐落之基地及提供集村興建農舍之農業用地配合耕地，如已申請興建農舍，在土地登記謄本及農舍使用執照上，依規定已登載有農舍，不得再申請興建農舍。」，為「農業發展條例」第十八條第四項「：....已申請興建農舍之農業用地不得重複申請。」所明定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931824602號|貴會函詢訂定三七五租約佃農之農業用地可否參加集村興建農舍疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b3ee8ef6fb7e757d7cc42971d91d61252334c6d257230f61fdbfc77ba1e291e5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "第○二二號函。 二、農舍起造人應為農舍坐落土地之所有權人,為「農業發展條例」第十八條第四項暨「農業用地興建農舍辦法」第三條第一項第五款所明定。故,以三七五租約承租農"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "為農舍坐落土地之所有權人,為「農業發展條例」第十八條第四項暨「農業用地興建農舍辦法」第三條第一項第五款所明定。故,以三七五租約承租農業用地之佃農,不得參加集村興建農舍。 "
+  }
+ ]
+}

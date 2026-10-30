@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5646",
    "serial": null,
-   "fetched_at": "2026-10-30T09:52:31+08:00",
+   "fetched_at": "2026-10-30T11:19:44+08:00",
    "source_key": "rmis:5646"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090255381號|子女或配偶繼承之農業用地申請興建農舍資格疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,22 +47,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業發展條例 (以下簡稱本條例 )第 18條規定,農業用地申請興建農舍即因取得日期之不同而有"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": ")之農業用地,且無自用農舍者,得循本條例第 18條第 3項及農業用地興建農舍辦法 (以下簡稱本辦法 )第 3條規定申請興建農舍,不受本辦法第 2條第 1項至第 "
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地取得應滿 2年等規定。上開規定係鑒於依當時土地使用管制及建築法令規定,農地得有條件准許興建農舍,同時,農地所有權之取得以能自耕者為限,故對於本"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

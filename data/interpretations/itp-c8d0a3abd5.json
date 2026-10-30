@@ -1,0 +1,64 @@
+{
+ "id": "itp-c8d0a3abd5",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1060215986號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍用地範圍十分之一臨路臨界矩形配置包含業核准且興建完成在案之農業設施容許使用用地範圍之樣態案，復如說明，請查照。",
+ "content": "一、依本會水土保持局案陳貴府106 年4 月28 日府農務字第1060068024號函辦理。\n二、有關農業用地上已存在之設施或建築物擬變更或申請為農舍使用之疑義一案，本會業以106年2月8日農水保字第1051803352號函送各縣(市)政府在案，合先敘明。\n三、基於農舍性質與農業設施有別，農舍可涵蓋農業設施之功能，倘有同時配置農舍以及農業設施之需求，應於申請時作整體規劃及考量。又農業發展條例第18條第1項已明定，於不影響農業生產環境及農村發展，始得申請以集村方式或在自有農業用地興建農舍，爰為不影響農業生產環境及農村發展之立法目的，予以規定農舍用地應矩形配置於農地之地界線側及臨接道路，該原則應予維持。\n四、另得否將既有農業設施納為農舍附屬設施並將其用地納入農舍用地範圍十分之一內，仍應依個案事實就其是否符合農業用地興建農舍辦法第9條第2項第3款及該辦法相關規定，予以審酌核處。\n五、所詢個案請就上開原則，並依據本會106年2月8日函辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1060215986號|有關農舍用地範圍十分之一臨路臨界矩形配置包含業核准且興建完成"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2d9cc36435b24e6495a5ed695e17534cd9aeec39c087bb9f39698c8e3a4015d8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "時配置農舍以及農業設施之需求,應於申請時作整體規劃及考量。又農業發展條例第18條第1項已明定,於不影響農業生產環境及農村發展,始得申請以集村方式或在自有農業用地"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "其用地納入農舍用地範圍十分之一內,仍應依個案事實就其是否符合農業用地興建農舍辦法第9條第2項第3款及該辦法相關規定,予以審酌核處。\n五、所詢個案請就上開原則,並依據本"
+  }
+ ]
+}

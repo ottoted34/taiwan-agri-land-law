@@ -1,0 +1,58 @@
+{
+ "id": "itp-1200d3acc1",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041817710號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端建議暫緩農業用地興建農舍辦法施行一案，復請查。",
+ "content": "一、復臺端104年10月12日建議書理。\n二、農業用地興建農舍辦法(以下簡稱本辦法)業於104年9月4日發布，並於9月6日施行生效，本辦法第2條第2項規定，由申請人檢附依中央主管機關訂定之經營計畫書格式，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣(市)主管機關審查確供農業使用與不影響農業生產環境及農村發展。\n三、有關經營計畫書格式本會已邀集相關單位及直轄市、縣(市)政府研商，近期將會函文各直轄市、縣(市)政府據以執行，並將於本局全球資訊網提供民眾下載使用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041817710號|有關臺端建議暫緩農業用地興建農舍辦法施行一案復請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1d4397b948d0e3e65e0d14e12dad4dd82fb84187afc493bf3a1ba903f258a67a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關臺端建議暫緩農業用地興建農舍辦法施行一案,復請查。\n一、復臺端104年10月12日建議書理。\n二、農業用地興建農"
+  }
+ ]
+}

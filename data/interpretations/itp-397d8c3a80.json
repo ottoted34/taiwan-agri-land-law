@@ -1,0 +1,58 @@
+{
+ "id": "itp-397d8c3a80",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1051834707號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "同段二筆地號農地取得時間不一，可否併同套繪申請農舍坐落於新取得未滿二年之農地。",
+ "content": "一、依據農業用地興建農舍辦法第2條第1項規定：「...二、申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。但參加興建集村農舍建築物坐落之農業用地，不受土地取得應滿二年之限制。三、申請興建農舍之該筆農業用地面積不得小於0.25公頃。但參加興建集村農舍及於離島地區興建農舍者，不在此限。...」，上開規定所指「該筆」農業用地係指土地登記之單1筆地號農業用地而言，先予敘明。\n二、有關農舍之個案審查係屬直轄市、縣(市)政府之權責，建議您逕向所在地主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1051834707號|同段二筆地號農地取得時間不一可否併同套繪申請農舍坐落於新取得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "42e7c273f2f538145e5b6a4c59875050f9885ebc2c851394547c2b588a319189",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": ",可否併同套繪申請農舍坐落於新取得未滿二年之農地。\n一、依據農業用地興建農舍辦法第2條第1項規定:「...二、申請人之戶籍所在地及其農業用地,須在同一直轄市、縣(市)"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5137",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:59+08:00",
+   "fetched_at": "2026-10-30T11:23:12+08:00",
    "source_key": "rmis:5137"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080227935號|釋都市計畫農業區合法房屋認定原則"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "6",
    "kind": "extracted",
    "snippet": "實施都市計畫地區係指當地都市計畫公布實施日期。\n四、綜上,依農用證明辦法第6條第4款規定:「農業用地存在非都市土地使用編定公告前之合法房屋」須同時符合「非都市"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

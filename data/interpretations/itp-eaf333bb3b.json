@@ -1,0 +1,67 @@
+{
+ "id": "itp-eaf333bb3b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061830841號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍和農業資材室申請辦法」一案",
+ "content": "一、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍，合先敘明。\n二、查農地上申請興建農舍係依農業用地興建農舍辦法辦理，該辦法第9條第2項第3款規定:「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，該規定所稱農業用地面積，係依該筆農業用地登載於土地登記簿上之面積為準。另土地徵收係依土地徵收條例辦理，倘部分農地已被徵收成道路用地，經囑託辦理所有權移轉登記後，該已徵收之農業用地面積自不得併入徵收前農業用地之總面積。\n三、另有關申請農業資材室一節，係依申請農業用地做農業設施容許使用審查辦法規定辦理，您所詢問個案之審認係地方政府之權責，建請就近向該地方政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061830841號|農舍和農業資材室申請辦法一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6b67b1b246daa93a784c74b616c0705ef365eb7cefb314dd29db9fa582a9687f",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業用地即可興建農舍,合先敘明。\n二、查農地上申請興建農舍係依農業用地興建農舍辦法辦理,該辦法第9條第2項第3款規定:「申請興建農舍之農業用地,其農舍用地面積不得"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之總面積。\n三、另有關申請農業資材室一節,係依申請農業用地做農業設施容許使用審查辦法規定辦理,您所詢問個案之審認係地方政府之權責,建請就近向該地方政府洽詢。"
+  }
+ ]
+}

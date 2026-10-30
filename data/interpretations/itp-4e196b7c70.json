@@ -1,0 +1,64 @@
+{
+ "id": "itp-4e196b7c70",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031821806號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴署函為變更建造起造人興建農舍資格疑義案，復請查照。",
+ "content": "一、復貴署103年9月12日營署建管字第1030058244號函。\n二、依農業發展條例第18條第4項暨農業用地興建農舍辦法第9條第1項規定，興建農舍起造人應為該農舍坐落土地之所有權人，其申請興建農舍，則視其取得土地時點係農業發展條例89年1月28日修正前或後，分依前開辦法第2條及第3條審查農民資格後，續向主管建築機關申請建照執照，先予敘明。\n三、本案原起造人未領得農舍使用執照前該農舍即移轉他人，其後經法院調解回復所有權予○○○，查內政部101年6月4日內授中辦地字第1016035093號函說明二略以：「...『調解回復所有權』係指因法律行為不成立或當然、視為自始無效，經調解回復所有權所為之登記，亦即將原自始不存在之所有權權利變更登記塗銷，並回復原有權利狀態之登記，非屬所有權之移轉登記，故採『調解回復所有權』為登記原因所為之塗銷登記者，應回復該所有權人原取得所有權登記之狀態，其取得時點應按原取得時點加以審認，而非以該調解回復所有權之登記日期為準。」函釋有案，爰本案既經法院調解回復所有權，該農舍起造人變更為○○○似與規定無違，以上意見供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1031821806號|有關貴署函為變更建造起造人興建農舍資格疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fa3fbb93e3d3196755f2d7b2f92c8c63fa557db358a879606d5adc3be7bbfcb9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "3年9月12日營署建管字第1030058244號函。\n二、依農業發展條例第18條第4項暨農業用地興建農舍辦法第9條第1項規定,興建農舍起造人應為該農舍坐落土地之"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "030058244號函。\n二、依農業發展條例第18條第4項暨農業用地興建農舍辦法第9條第1項規定,興建農舍起造人應為該農舍坐落土地之所有權人,其申請興建農舍,則視其取"
+  }
+ ]
+}

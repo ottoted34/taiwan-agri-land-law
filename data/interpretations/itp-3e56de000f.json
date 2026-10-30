@@ -1,0 +1,91 @@
+{
+ "id": "itp-3e56de000f",
+ "doc_class": "interpretation",
+ "docno": "農企字第900131998號",
+ "date": "2001-06-28",
+ "date_text": "90/6/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "023 釋都市計畫土地使用分區為「部分其他使用分區或用地、部分農業區或保護區」土地，申請農業用地作農業使用證明書核發事宜案",
+ "content": "有關民眾申請農業用地作農業使用證明書之土地，如有跨都市計畫農業區或保護區及其他使用分區或用地之情事者，其屬其他使用分區或用地部分，如經直轄市、縣（市）都市計畫主管機關於土地使用分區證明書上註明該部分土地符合農業發展條例施行細則第2條第2項規定者，得就申請之整筆土地審核是否符合作農業使用之認定基準，據以核發農業用地作農業使用證明書；如該部分土地無前開條文之適用者，得以地政事務所所核發，分別估算不同分區或用地面積之證明文件，並僅就該農業區或保護區部分土地查核。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5526",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:15+08:00",
+   "source_key": "rmis:5526"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900131998號|釋都市計畫土地使用分區為部分其他使用分區或用地部分農業區或保"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020002",
+    "law_name": "農業發展條例施行細則",
+    "article": "2",
+    "amended_on": "2005-06-10",
+    "history": "中華民國九十四年六月十日行政院農業委員會農企字第 0940010268 號令修正發布第 2、11、15、16 條條文；增訂第 14-1 條條文；刪除第3、6、7、10 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ec0baaf1575ca1c4f7d2c9a7acafe98ff9bab63bb9e3909140213e1551b167df",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "市)都市計畫主管機關於土地使用分區證明書上註明該部分土地符合農業發展條例施行細則第2條第2項規定者,得就申請之整筆土地審核是否符合作農業使用之認定基準,據以核發農業用"
+  }
+ ]
+}

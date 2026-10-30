@@ -1,0 +1,75 @@
+{
+ "id": "itp-f57ad9f358",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950101994號",
+ "date": "2006-01-16",
+ "date_text": "95年1月16日農企字第0950101994號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "062 釋農牧用地整筆土地上建有祖墳案",
+ "content": "另有關農業用地作農業使用認定及核發證明辦法第8條第1款規定是否應有面積比例規定乙節，查前開辦法92年11月28日修正公布施行前，該辦法第10條明定「農業用地於土地使用編定前已存在有『祖墳』者，經檢具證明文件，得認定該農業用地作農業使用。」係考量民間有於自有農地一隅埋葬先人之習，而特予明定。惟該辦法於92年修正時，基於台灣地區農業用地買賣移轉頻繁，農業用地上倘有墳墓存在，恐多已非自己先人之祖墳，故而將該『祖墳』一詞修正為『墳墓』；至該條第3款有關軍事碉堡、輸電鐵塔及自來水蓄水池等設施之規定，係將本會91年徵得相關部會同意之函釋規定，提昇至該辦法之位階。因此，前開二款之執行，宜本於前開條文之立法意旨核處，倘另訂面積比例，恐徒增無謂困擾。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950101994號|釋農牧用地整筆土地上建有祖墳案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4ce4241167910421eab551e9f4a3ee2e85203d95946c1f27fe16b7e93b063083",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "062 釋農牧用地整筆土地上建有祖墳案\n另有關農業用地作農業使用認定及核發證明辦法第8條第1款規定是否應有面積比例規定乙節,查前開辦法92年11月28日修正公布施行前,"
+  }
+ ]
+}

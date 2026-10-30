@@ -1,0 +1,58 @@
+{
+ "id": "itp-1ed2dc4cb2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960145404號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "東勢鎮民張○○君合法農舍賣與他人，惟土地並未併同移轉，現擬於他筆土地上申請興建自用農舍，是否適法且得否核發無自用農舍證明疑義案，復請查照。",
+ "content": "1.依據內政部96年8月10日內授中辦地字第0960049716號函辦理，復 貴府96年5月25日府農地字第0960127639號函。 2.○○○63年間於東勢鎮○○○、○○○、○○○等地號3筆土地興建農舍並領有農舍使用執照，嗣因農舍於96年間賣予他人，惟其坐落用地未併同移轉，僅將稅籍移轉他人，是否適法乙節，依內政部函說明二略以：「該農舍僅係稅籍移轉他人，並未至所轄地政事務所申請辦理所有權移轉登記，故尚無所有權移轉是否有效之問題發生」;查農業發展條例第18條第4項明定農舍起造人應為該農舍坐落土地之所有權人;農舍應與其落用地併同移轉或併同設定抵押權。故農舍如未與其坐落用地併同移轉，已明顯不符上開規定。 3.至查核申請人是否無自用農舍，悉依本會90年7月4日（90）農輔字第900050675號函送會議紀錄決議（一）附件一申請人資格條件審查表四辦理（如附件）",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960145404號|東勢鎮民張○○君合法農舍賣與他人惟土地並未併同移轉現擬於他筆"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d4cf16d2a0ec73658e86fd7fa15cdf5d6f813c7e04836496193d94e48b1f1ce9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "辦理所有權移轉登記,故尚無所有權移轉是否有效之問題發生」;查農業發展條例第18條第4項明定農舍起造人應為該農舍坐落土地之所有權人;農舍應與其落用地併同移轉或併同"
+  }
+ ]
+}

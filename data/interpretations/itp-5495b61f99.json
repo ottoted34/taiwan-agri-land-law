@@ -1,0 +1,59 @@
+{
+ "id": "itp-5495b61f99",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040713322號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端函詢農舍興建資格及修法概要一案，復請查照。",
+ "content": "一、復台端104年4月20日信函。\n二、依農業用地興建農舍辦法第2條第1項規定:「依本條例第18條第1項規定申請興建農舍之申請人應為農民，且其資格應符合下列條件，並經直轄市、縣(市)主管機關核定:一、年滿20歲或未滿20歲已結婚者。二、申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿2年者。但參加興建集村農舍建築物坐落之農業用地，不受土地取得應滿2年之限制。三、申請興建農舍之該筆農業用地面積不得小於0.25公頃。但參加興建集村農舍及於離島地區興建農舍者，不在此限。四、申請人無自用農舍者。申請人已領有個別農舍或集村農舍建造執照者，視為已有自用農舍。但該建造執照屬尚未開工且已撤銷或原申請案件重新申請者，不在此限。五、申請人為該農業用地之所有權人，且該農業用地應確供農業使用，並屬未經申請興建農舍之農業用地。」，先予敘明。\n三、有關農業用地興建農舍辦法之修正，本會正廣集各界意見並期取得共識，尚屬研議階段。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040713322號|有關臺端函詢農舍興建資格及修法概要一案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0c0faf9ce809389f24f31d676c68e2247c4bf6f305df69790b1dcdaf990a8eca",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "一案,復請查照。\n一、復台端104年4月20日信函。\n二、依農業用地興建農舍辦法第2條第1項規定:「依本條例第18條第1項規定申請興建農舍之申請人應為農民,且其資格應"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "itp-07b9b4e03c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950129165號",
+ "date": "2006-06-01",
+ "date_text": "95年6月1日農企字第0950129165號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "055 釋經核定休閒農業區範圍內之休閒農業設施，符合作農業使用之認定案",
+ "content": "一、查 貴府旨揭函說明二略以：「本案請依行政院農業委員會95年4月25日農企字第0950121233號函辦理，檢附上開函文。」惟經查非都市土地使用管制規則附表一「各種使用地容許使用項目及許可使用細目表」明定，農牧用地之容許使用項目(九)休閒農業設施(平面停車場等)，其附帶條件為「限經農業主管機關劃定之休閒農業區或准予籌設之休閒農場」。且本會前開函釋略以：「．．．倘該休閒農業區範圍內之各項公共設施經認定為休閒農業設施，並經依休閒農業相關法規規定，申請核准施設，且取得相關證明文件者，該農業用地得依前開規定認定為作農業使用。」\n二、本案土地是否屬經核定為休閒農業區之範圍？該設施是否經依休閒農業相關法規規定，申請核准施設？倘不符前開規定，應無本會前開函釋之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950129165號|釋經核定休閒農業區範圍內之休閒農業設施符合作農業使用之認定案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c87f19ed195bf234603db9eee7803bb9806ea84a3bdb8ff0e53d1ca258a9e7d1",
+ "topics": [
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農企字第0950121233號函辦理,檢附上開函文。」惟經查非都市土地使用管制規則附表一「各種使用地容許使用項目及許可使用細目表」明定,農牧用地之容許使用項目(九"
+  }
+ ]
+}

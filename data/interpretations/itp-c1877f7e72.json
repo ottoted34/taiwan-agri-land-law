@@ -1,0 +1,58 @@
+{
+ "id": "itp-c1877f7e72",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0930155325號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋森林區私有林業用地內裁植油茶供採收茶仔製油，申請容許作林業設施--資材室，是否符合林業經營管理使用疑義案",
+ "content": "一、按「森林法」第三條明定森林係指林地及其群生竹、木之總稱；同法第三十九條規定森林所有人，應檢具森林所在地名稱、面積、竹、木種類、數量、地圖及計畫，向主管機關申請登記。案內私有林業用地栽植之油茶，目前雖已非獎勵樹種，惟倘符合上開森林法有關規定，則仍屬林業經營管理範疇，其用地申請容許作林業設施--資材室使用，尚無違「農業用地容許作農業設施使用審查辦法」相關規定。\n二、另，該私有林地申請容許作林業設施--資材室，倘屬前獎勵造林之林地，其興建資材室部分，依「獎勵造林實施要點」規定，應追賠已領取之造林獎勵金。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授林務字第0930155325號|釋森林區私有林業用地內裁植油茶供採收茶仔製油申請容許作林業設"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8ff9df24dcefd7839fd1aed0b22c8f158a3ae6004f7488c0b00c9ab65d0340fb",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "經營管理範疇,其用地申請容許作林業設施--資材室使用,尚無違「農業用地容許作農業設施使用審查辦法」相關規定。\n二、另,該私有林地申請容許作林業設施--資材室,倘屬前獎勵造林之林地"
+  }
+ ]
+}

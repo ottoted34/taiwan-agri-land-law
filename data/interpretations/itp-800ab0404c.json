@@ -1,0 +1,64 @@
+{
+ "id": "itp-800ab0404c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849071號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端所有土地大寮鄉○○○及○○○地號等2筆土地，係因都市計畫區劃定而由單筆土地分割為不同計畫區之2筆土地，其申請興建農舍疑義案，復請查照。",
+ "content": "一、依據台端96年9月10日陳情書辦理。\n二、經查旨揭2筆土地係台端87年9月19日分別因贈與取得，非如陳情書所述係同一所有權人單筆土地因都市計畫區劃定而逕為分割為2筆土地情形;又旨揭土地係於農業發展條例修正公布生效日（89年1月28日）前取得，申請興建農舍得依「農業用地興建農舍辦法」第2條規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849071號|台端所有土地大寮鄉○○○及○○○地號等2筆土地係因都市計畫區"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "574aa976bd4245fed4fbe80f0ff5a4900c0b378cbd5d99bfcf3b89b36e5ea703",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地因都市計畫區劃定而逕為分割為2筆土地情形;又旨揭土地係於農業發展條例修正公布生效日(89年1月28日)前取得,申請興建農舍得依「農業用地興建農舍辦法"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "例修正公布生效日(89年1月28日)前取得,申請興建農舍得依「農業用地興建農舍辦法」第2條規定辦理。"
+  }
+ ]
+}

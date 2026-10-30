@@ -1,0 +1,52 @@
+{
+ "id": "itp-c697075f8f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851202號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關彰化縣和美鎮○○○地號都市計畫農業區土地，申請興建農舍時點起算疑義案，復請查照。",
+ "content": "復 台端95年3月15日申請書。\n按內政部92年3月31日台內地字第0920005340號函對於耕地維持部分共有土地辦理分割疑義說明二表示「部分共有人於分割共有物時仍願維持其共有關係，該共有人關係乃係消滅原共有關係所成立之新共有關係，其成立時點為原共有物分割完成時」，故旨揭共有土地雖於91年4月24日取得，但於93年9月7日辦理分割合併完成登記，申請興建農舍起算點應以93年9月7日為基準。\n檢附本會92年11月17日農輔字第0920051406號函供參及相關附件全件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851202號|台端函詢有關彰化縣和美鎮○○○地號都市計畫農業區土地申請興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f8934983e9dd50474c91a4f92e063eb032d827e8148222ba9ca9fdc504bf5f28",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

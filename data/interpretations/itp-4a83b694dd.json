@@ -1,0 +1,64 @@
+{
+ "id": "itp-4a83b694dd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981802919號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○農業發展條例修正施行後（95年11月1日）取得之共有耕地，於97年10月15日辦理分割為單獨所有，分割後持有面積與分割前共有時之土地持分面積誤差在1平方尺以內，其申請興建農舍疑義案，復請查照。",
+ "content": "一、復 貴府98年2月11日府農地字第0980037897號函。\n二、農業發展條例修正後取得之共有農地，經分割為單筆土地，其所有權及面積未更動者，取得之時點計算得由分割前原登記日期起算，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理本會96年8月16日農水保字第0961848801號書函參照，另依據內政部92年12月10日內授中辦地字第0920020154號函說明二：「……共有物分割係屬原物取得，尚非屬權利移轉變動……」（如附影本），合先說明。\n三、有關辦理共有物分割後，若經查明純屬土地測量與分割作業之容許誤差者，其申請興建農舍，同意以分割後之面積及原土地取得時點為計算基準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981802919號|○○○農業發展條例修正施行後95年11月1日取得之共有耕地於"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b3740c63c51faf2cacab2db09a2b1466bfc6c45f1963b8ce5f6acea06ec99b03",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○○○農業發展條例修正施行後(95年11月1日)取得之共有耕地,於97年10月15日辦理分割為單獨"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "者,取得之時點計算得由分割前原登記日期起算,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理本會96年8月16日農水保字第0961848801號書函參照,另依據"
+  }
+ ]
+}

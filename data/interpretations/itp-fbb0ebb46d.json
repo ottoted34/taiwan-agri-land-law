@@ -1,0 +1,66 @@
+{
+ "id": "itp-fbb0ebb46d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080221773號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣六腳鄉○○○地號土地及地上物於107年11月6日移轉時，其地上物是否屬農業發展條例規定之合法農舍疑義案，復如說明，請查照。",
+ "content": "一、復貴府108年5月24日府農務字第1080104932號函。\n二、農舍係與農業經營不可分離之建築物、其申請人資格、農舍興建面積、耕地面積等申請要件，於實施區域計畫地區建築管理辦法或農業用地興建農舍辦法均有明確規範，並非合法房屋即等同於農舍；倘旨案係實施建築管理前已建造完成之合法建築物，應由貴府建設或工務單位協助審查認定。爰旨案建築物興建時點、興建許可依據不明，又該建築物移轉時是否確作農業使用，宜一併釐明。\n三、至旨案建築物是否符合所得稅法相關規定得予免稅，係屬稅捐機關權責，應由稅捐機關就個案事實予以認定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080221773號|有關貴縣六腳鄉○○○地號土地及地上物於107年11月6日移轉"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8608c47b3b08ac846be8d7c1fbda7fd67e56dd0c1fcc9ae3f18bc8e1ed353053",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○地號土地及地上物於107年11月6日移轉時,其地上物是否屬農業發展條例規定之合法農舍疑義案,復如說明,請查照。\n一、復貴府108年5月24日府農務字第"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "建面積、耕地面積等申請要件,於實施區域計畫地區建築管理辦法或農業用地興建農舍辦法均有明確規範,並非合法房屋即等同於農舍;倘旨案係實施建築管理前已建造完成之合法建"
+  }
+ ]
+}

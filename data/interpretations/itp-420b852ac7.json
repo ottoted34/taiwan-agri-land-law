@@ -1,0 +1,67 @@
+{
+ "id": "itp-420b852ac7",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1070210963號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關興建合法農舍之農地依「申請農業用地作農業設施容許使用審查辦法」第30條規定申請設置免與農業經營結合之綠能設施審查疑義一案，復如說明，請查照。",
+ "content": "一、復貴府107年3月16日屏府農企字第10708752900 號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，先予敘明。\n三、查農業用地興建農舍辦法第9條第2項第3款規定:「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」。\n四、依「申請農業用地作農業設施容許使用審查辦法」第30條設置之綠能設施，係免與農業經營使用相結合，且該農業用地亦未積極從事具經濟性農業生產使用，而農舍係與農業經營不可分離，為該農業用地上農業經營所需而興建，故已興建農舍之農業用地自應積極從事具經濟性農業生產使用，並無申設免與農業經營相結合綠能設施之合理性。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1070210963號|有關興建合法農舍之農地依申請農業用地作農業設施容許使用審查辦"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6fd551c7133214fdc908c0529fbfe5deadef97b527fcc9c2390381725e0f4cd5",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "green_energy",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "有關興建合法農舍之農地依「申請農業用地作農業設施容許使用審查辦法」第30條規定申請設置免與農業經營結合之綠能設施審查疑義一案,復如說明,請查照。\n一、復貴"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "置農機具兼具居住之需求,以便利其農事工作,先予敘明。\n三、查農業用地興建農舍辦法第9條第2項第3款規定:「申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地面積"
+  }
+ ]
+}

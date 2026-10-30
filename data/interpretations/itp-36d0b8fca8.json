@@ -1,0 +1,70 @@
+{
+ "id": "itp-36d0b8fca8",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0950106494號",
+ "date": "2006-02-17",
+ "date_text": "95年2月17日農輔字第0950106494號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "043釋休閒農場申請籌設中涉及既有或新設農業設施或農舍（包括民宿）等疑義案",
+ "content": "一、休閒農場籌設申請土地範圍內，既存或新設農業設施及自有農舍，將提供休閒使用者，其設施面積應列入經營計畫書併入計算，但已取得容許使用許可者，若其使用型態未有變更，其面積得不計入休閒農業設施面積比率。\n二、休閒農業輔導理辦法第18條規定，休閒農場設置住宿設施、餐飲設施、自產農產品加工（釀造）廠、農產品與農村文物展示（售）及教育解說中心等休閒農業設施，除現況土地編定依法得容許使用者外，得依相關規定辦理非都市土地變更編定。爰此，已取得農業設施容許使用之自產農產品加工室或符合農舍管理相關規定之農舍，未變更使用目的或型態者，得依非都市土地容許使用執行要點規定辦理；若前述相關設施已轉變用途另供休閒使用者，則依據本辦法關規定辦理用地變更。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0950106494號|釋休閒農場申請籌設中涉及既有或新設農業設施或農舍包括民宿等疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e3376ec8abfc5773adb0ecc0dc8ed086cc4229cb0a75d71d7f7c2d0c496b5fa9",
+ "topics": [
+  "land_change",
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

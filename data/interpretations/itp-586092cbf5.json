@@ -1,0 +1,64 @@
+{
+ "id": "itp-586092cbf5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040739037號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴轄民眾申請農業用地興建農舍其經營計劃書及自產自銷證明單據疑義案，復請查照。",
+ "content": "一、復貴局104年12月21日高市農務字第10433673900號函。\n二、104年9月4日修正發布施行之「農業用地興建農舍辦法」(以下簡稱本辦法)，增列申請興建農舍之農民認定，及申請人應檢附依中央主管機關訂定之經營計畫書格式，以供直轄市、縣(市)政府審認確供農業使用與不影響農業生產環境及農村發展等事項。有關興建農舍經營計畫書格式業經本會邀集相關單位研商訂定，並提供審查參考原則供貴局參考(本會104年10月21日農水保字第1041866479號函參照)，貴局得依轄內農業生產環境條件、區域特色、自治規定及個案情形予以審查。\n三、另有關本辦法第3條之1規定，申請人應檢附農業生產相關佐證資料，所述申請農業用地之面積，係以申請興建農舍之農業用地面積計算。\n四、本案仍請貴局衡酌個案事實審認，並依上開號函規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040739037號|有關貴轄民眾申請農業用地興建農舍其經營計劃書及自產自銷證明單"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040739037號|有關貴轄民眾申請農業用地興建農舍其經營計畫書及自產自銷證明單"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "11444b6c957d5ead8edd7866e7cc28e779ebbe06d4d46c0216d8fae79903e1ca",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "433673900號函。\n二、104年9月4日修正發布施行之「農業用地興建農舍辦法」(以下簡稱本辦法),增列申請興建農舍之農民認定,及申請人應檢附依中央主管機關訂定"
+  }
+ ]
+}

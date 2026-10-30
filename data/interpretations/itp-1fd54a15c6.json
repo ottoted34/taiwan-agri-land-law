@@ -1,0 +1,73 @@
+{
+ "id": "itp-1fd54a15c6",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930151979號",
+ "date": "2004-11-02",
+ "date_text": "93年11月2日農企字第0930151979號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "078 釋水利用地需作與農業經營不可分離之灌溉、排水使用案",
+ "content": "一、查農業發展條例第3條第10款明定「農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地：……（二供與農業經營不可分離之農舍、畜禽舍、倉儲設備、曬場、集貨場、農路、灌溉、排水及其他農用之土地……」該款係以土地使用之功能及性質作為「農業用地」之定義。又前開「供與農業經營不可分離之灌溉、排水」之土地於區域計畫法規係編定為「水利用地」。因此，前開條例施行細則第二條第一項明定該款條文所稱依法編定農業用地之法律依據及範圍，即包括為供農業灌溉、排水使用之「水利用地」，合先敘明。\n二、綜上，旨揭水利用地仍應作「供與農業經營不可分離之灌溉、排水」使用，亦即農田水利設施使用，始符合農業使用之認定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930151979號|釋水利用地需作與農業經營不可分離之灌溉排水使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "587ecc59fcc601b3acbc1a27cfdd3b494b31d4480688fbd43dcdb78e064f86be",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": " 釋水利用地需作與農業經營不可分離之灌溉、排水使用案\n一、查農業發展條例第3條第10款明定「農業用地:指非都市土地或都市土地農業區、保護區範圍內,依法供下列使"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "」之定義。又前開「供與農業經營不可分離之灌溉、排水」之土地於區域計畫法規係編定為「水利用地」。因此,前開條例施行細則第二條第一項明定該款條文所稱依法編"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "itp-b52718f6ca",
+ "doc_class": "interpretation",
+ "docno": "台內中地字第0910011957號",
+ "date": "2002-08-01",
+ "date_text": "內政部91年8月1日台內中地字第0910011957號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "058 釋農業用地作農業使用證明書之使用期限案(停止適用)",
+ "content": "查「農業用地作農業使用證明書明定有效期間6個月，係課予申請證明書者需於6個月內完成賦稅減免之申請及土地移轉登記等手續，並非指該證明書之證據力持續6個月。如該辦法第19條『申請人取得農業用地作農業使用證明書後，未於6個月內辦理第3條規定之事項者，該證明書自動失其效力。』」前經行政院農業委員會90年4月6日農企字第900010118號函釋在案，是申請人取得農業用地作農業使用證明書後，應於6個月內完成賦稅減免之申請及土地移轉登記等手續。至其於申辦移轉登記時，遇有不可歸責於申請人之事由，致未能於該證明書有效期間內辦理登記完畢者，得由申請人出具證明予以扣除，倘仍未超過有效期間6個月，登記機關則得予受理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:台內中地字第0910011957號|釋農業用地作農業使用證明書之使用期限案停止適用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e15ca156dbdae898cc654e1630867148bdafae3010ba4a47f8d207957f17ae5d",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

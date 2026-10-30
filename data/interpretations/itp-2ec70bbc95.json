@@ -1,0 +1,59 @@
+{
+ "id": "itp-2ec70bbc95",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041814732號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農育權人可否於農地上興建農舍?」相關事宜",
+ "content": "一、農業用地上准許興建農舍，目的係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作。\n二、查農業用地興建農舍辦法第2條第1項第5款規定，申請人為該農業用地之所有權人，且該農業用地應確供農業使用，惟本案農地所有權人已將農地設定農育權，對該農業用地並無實際使用之權，亦即，該農業用地已非供土地所有權人農業使用。爰該農地所有權人或設定農育權人申請興建農舍，自不符上開規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041814732號|農育權人可否於農地上興建農舍?相關事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4a4c2aba86237eb5ce3826537783410e7ff31ef8f8711ef85fbc1d1af79da748",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "具有居住兼具放置農機具之需求,以便利其從事農事工作。\n二、查農業用地興建農舍辦法第2條第1項第5款規定,申請人為該農業用地之所有權人,且該農業用地應確供農業使用,惟本"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "id": "itp-7f596ace80",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0912909522號",
+ "date": "2002-06-20",
+ "date_text": "內政部營建署91年6月20日營署建管字第0912909522號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "041 釋農業產銷必要設施45平方公尺以下免申請建築執照案",
+ "content": "一、有關農業用地上與農業經營不可分離之農業（含林業、畜牧及養殖等）必要設施，免申請建築執照之規定，宜循修正農業發展條例第8條第3項之方式予以規範，以利執行。\n二、農業發展條例第8條有關規定未修正發布前，同意依行政院農業委員會建議，大面積農業用地且各共有人分管分營之情況下，各共有人就其農業經營之需要分別興建45平方公尺以下之農業必要設施，得免申請建築執照。並請農業主管機關注意審核其農業必要設施申辦位置，於建造完成後加強其使用管理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第0912909522號|釋農業產銷必要設施45平方公尺以下免申請建築執照案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "8",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b9b6f587250a76755a78d3aa27ca4421733e3fc629505ffb48d6e601e691bd3e",
+ "topics": [
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "林業、畜牧及養殖等)必要設施,免申請建築執照之規定,宜循修正農業發展條例第8條第3項之方式予以規範,以利執行。\n二、農業發展條例第8條有關規定未修正發布前,同"
+  }
+ ]
+}

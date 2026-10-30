@@ -1,0 +1,58 @@
+{
+ "id": "itp-79f981e093",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041809171號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "102年農舍興建辦法修正後受害的真農民。",
+ "content": "一、依農業用地興建農舍辦法第9條第2項第3款規定，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。爰農舍之停車空間、僅供農舍連接道路之通路及其他附屬設施均應設置於農舍用地內，以確保維持90%面積供農業生產使用。\n二、另台端所提有關假農民興建或買賣農舍事宜，本會刻正研修農業用地興建農舍辦法，加強農舍申請人資格審查規範及相關規定，以期導正農舍興建亂象。感謝您的來信意見及對農業、農地的關注。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041809171號|年農舍興建辦法修正後受害的真農民"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6c399b41efac03a9c643a4fe59dcfeea289a60f99487b14817b2053301d08bf9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "102年農舍興建辦法修正後受害的真農民。\n一、依農業用地興建農舍辦法第9條第2項第3款規定,申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地面積百"
+  }
+ ]
+}

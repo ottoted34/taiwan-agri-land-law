@@ -1,0 +1,58 @@
+{
+ "id": "itp-f2b255194b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981826813號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例第18條第4項規定「農舍應與其坐落用地併同移轉或併同設定抵押權」相關疑義案，復請查照。",
+ "content": "1.復 台端98年10月28日申請書。\n2.有關農業發展條例第18條第4項規定農舍應與其坐落用地併同移轉或併同設定抵押權最主要原因，係避免農舍與農地所有權人分屬不同人時，衍生農舍與農地管理等問題，先予敘明。\n3.農地或農舍並無限制不得移轉為共有，但對於農舍之移轉，需符合前項需與其坐座農地併同移轉之原則，始符法制，即農舍所有權人欲移轉農舍所有權予他人，其農地之所有權應併同為之。\n4.前項「農舍應與其坐落用地併同移轉」所稱「坐落用地」係指提供興建農舍之農業用地而言。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981826813號|有關農業發展條例第18條第4項規定農舍應與其坐落用地併同移轉"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7003309da49056ee2ab6ec9cdddc4dc5c4abb95f54c038a2d9c9880cc0495c81",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關農業發展條例第18條第4項規定「農舍應與其坐落用地併同移轉或併同設定抵押權」相關疑義案,復請查照。\n"
+  }
+ ]
+}

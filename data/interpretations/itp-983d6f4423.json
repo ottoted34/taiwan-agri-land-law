@@ -1,0 +1,58 @@
+{
+ "id": "itp-983d6f4423",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0962919201號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "檢送「農業用地興建農舍辦法」第8條第1項第1款規定各起造人持有之農業用地位於毗鄰鄉（鎮、市、區）之執行縣（市）政府意見乙份，移請卓處。",
+ "content": "一、有關首揭辦法第8條第1項第1款規定：「各起造人持有之農業用地應位於同一鄉（鎮、市、區）或毗鄰之鄉（鎮、市、區）」，依大會95年9月5日農水保字第0951851946號函說明二：「…；且基於縣（市）政府業務及農地管理之需要，各起造人提供集村興建農舍之農業用地，亦應坐落於同一縣（市）內。」意旨，各起造人持有之農業用地應坐落於同一縣（市），惟考量空間上實際距離，如跨越二個縣（市）之毗鄰鄉（鎮、市、區）案件是否可行，未來地方政府在受理審查、核發建築許可、後續建築管理及地政單位管制事項等，於協調處理上是否會產生窒礙難行之處，本署於96年7月9日營署綜字第0962911141號函請縣（市）政府提供具體意見。\n二、嗣經彙整縣（市）政府函復意見，多表示因各縣（市）自治法規、行政管轄不同及聯繫不易，造成行政處分權責難以區分及審查作業之困難，認為各起造人持有之農業用地仍應坐落於同一縣（市），僅少數縣（市）政府建議以申請案件之農舍坐落基地面積較大之管轄縣（市）政府負責主辦，相鄰縣（市）政府協辦。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0962919201號|檢送農業用地興建農舍辦法第8條第1項第1款規定各起造人持有之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7339316577868147a0cbec9cddfab5620b3598905b0405778a898a781c456026",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "檢送「農業用地興建農舍辦法」第8條第1項第1款規定各起造人持有之農業用地位於毗鄰鄉(鎮、市、區)之執行縣(市)政府"
+  }
+ ]
+}

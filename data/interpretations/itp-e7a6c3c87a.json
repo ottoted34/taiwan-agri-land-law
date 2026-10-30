@@ -1,0 +1,58 @@
+{
+ "id": "itp-e7a6c3c87a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0951827042號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○等22人於92年6月27日向新竹縣政府申請以集村方式興建農舍，嗣因起造人因病過世，如擬變更起造人，其全部共同起造人之農民資格條件，是否須以重新方式辦理，復請查照。",
+ "content": "一、復 台端95年11月24日申請書。\n二、行政院農業委員會94年1月12日邀集內政部營建署及相關縣政府研商「新竹縣民○○○等22人陳請變更集村興建農舍起造人」案決議略以：「……。查本案係於本會92年8月21日農授水保字第0921847142號函檢送之『農業用地興建農舍辦法』有關集村興建農舍執行疑義之研商結論前提出申請之案件……，由於本案係屬個案，如其申請之戶數及面積並無更動且為維護政府誠信原則，同意其變更起造人。惟變更之起造人資格應符合『農業用地興建農舍辦法』第3條相關規定」。\n三、本案得以審查部分變更起造人之農民資格條件方式辦理，其全部共同起造人之農民資格條件免再重新申請。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0951827042號|○○○等22人於92年6月27日向新竹縣政府申請以集村方式興"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f6dfcbb6fc8212c88facb4ff4a7241d28753dc7867393724e82593e4df57373f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "維護政府誠信原則,同意其變更起造人。惟變更之起造人資格應符合『農業用地興建農舍辦法』第3條相關規定」。\n三、本案得以審查部分變更起造人之農民資格條件方式辦理,其全部共同起"
+  }
+ ]
+}

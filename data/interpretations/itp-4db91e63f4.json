@@ -1,0 +1,59 @@
+{
+ "id": "itp-4db91e63f4",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021820049號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "持有農舍建造執造並已申報開工，如未興建且因逾期撤銷執照，是否符合「農業用地興建農舍辦法」第2條及第6條規定一案，內政部營建署意見請參考辦理，復請查照。",
+ "content": "一、復台端102年7月17日函。\n二、檢附內政部營建署102年8月27日營屬建管字第1020050302號函影本。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1021820049號|持有農舍建造執造並已申報開工如未興建且因逾期撤銷執照是否符合"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d4f16b615e1092596cff10d2f66f92e8a165d577777829938f6d693ea85deaf7",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農舍建造執造並已申報開工,如未興建且因逾期撤銷執照,是否符合「農業用地興建農舍辦法」第2條及第6條規定一案,內政部營建署意見請參考辦理,復請查照。\n一、復台端102年7月"
+  }
+ ]
+}

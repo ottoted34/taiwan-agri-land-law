@@ -1,0 +1,64 @@
+{
+ "id": "itp-7c49b059d1",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991806427號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府詢問○○○等20人集村興建農舍資格審查法令執行疑義，復請查照。",
+ "content": "1.復貴府99年3月11日南市建農字第09900210330號函。\n2.本會98年12月8日農水保字第0981843633號函意旨，農業用地准許興建農舍之制度，按其立法意旨，係經營農業不可分割之設施物，與一般家居住宅性質不同，且農業發展條例第18條第2項針對農舍坐落用地、移轉年限等限制，其意旨係防止農地建地化，並保護農業生產之土地。興建農舍若違背經營農業需要，淪為土地炒作之虞，與立法意旨相違，縣(市)主管依權責得駁回其申請，合先敘明。\n3.本案興建集村農舍工程，其屢次變更起造人，且第3期工程之申請人又與第1期申請人重複，依貴府來函說明一，若已有確實證據審認係屬土地炒作意圖明顯，自得有上開函釋之適用。\n4.現行農業用地申請興建農舍之起造人資格，係依「農業用地興建農舍辦法」第3條第1項規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991806427號|有關貴府詢問○○○等20人集村興建農舍資格審查法令執行疑義復"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "aa90ab9d09eac65e6b4d98fcbcb095de265dabb32272246130d966cef7afab6c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "意旨,係經營農業不可分割之設施物,與一般家居住宅性質不同,且農業發展條例第18條第2項針對農舍坐落用地、移轉年限等限制,其意旨係防止農地建地化,並保護農業生產之"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "函釋之適用。\n4.現行農業用地申請興建農舍之起造人資格,係依「農業用地興建農舍辦法」第3條第1項規定辦理。"
+  }
+ ]
+}

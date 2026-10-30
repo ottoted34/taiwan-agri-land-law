@@ -1,0 +1,64 @@
+{
+ "id": "itp-aa296dc3e0",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0951827250號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "行政院農業委員會95年11月15日農授水保字第0951852486號函釋，可能促使縣(市)政府執行單位無所適從產生糾紛案，復請查照。",
+ "content": "一、復 台端95年11月28日請釋書。\n二、89年1月4日修正「農業發展條例」，主要在落實「放寬農地農有落實農地農用」之政策目標，因此在農舍興建規定上，於該條例修正施行後取得農業用地而申請興建農舍者，應予必要限制，以為配套措施;同條例第18條第5項規定，對於興建農舍之農民資格、許可條件……等等應遵行事項之辦法，授權內政部會同行政院農業委會訂定「農業用地興建農舍辦法」，據以執行農舍興建業務，合先敘明。\n三、集村興建農舍之坐落基地或配合興建之農地是否限於坐落同一縣市，該辦法雖未明文規定，基於縣（市）政府業務及農地管理之需要，各起造人提供集村興建農舍之農業用地，亦應坐落於同一縣（市）內，屬上開條例第18條第5項授權許可條件範圍內，中央主管機關有權補充解釋之。\n四、上開執行原則，行政院農業委員會業於95年9月5日以農水保字第0951851946號通函各縣（市）政府，應不致使縣(市)政府執行單位產生無所適從之疑慮。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0951827250號|行政院農業委員會95年11月15日農授水保字第0951852"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e85dc7b4e8d4323b2b77bbb3425677701357dbddbbe79ae70b24246028854f7e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、復 台端95年11月28日請釋書。\n二、89年1月4日修正「農業發展條例」,主要在落實「放寬農地農有落實農地農用」之政策目標,因此在農舍興建規定上,於該條"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "...等等應遵行事項之辦法,授權內政部會同行政院農業委會訂定「農業用地興建農舍辦法」,據以執行農舍興建業務,合先敘明。\n三、集村興建農舍之坐落基地或配合興建之農地是"
+  }
+ ]
+}

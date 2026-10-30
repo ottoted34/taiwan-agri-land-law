@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5637",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:25+08:00",
+   "fetched_at": "2026-10-30T11:20:37+08:00",
    "source_key": "rmis:5637"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第1090717575號|休閒農業設施得否依容許辦法申請設置附屬綠能設施"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "27",
    "kind": "extracted",
    "snippet": "能設施\n主旨:臺端函詢有關休閒農業設施申請附屬綠能設施得否依「申請農業用地作農業設施容許使用審查辦法」第27條及第28條規定申請設置附屬綠能設施案,復如說明,請查照。\n說明:\n一、復臺端10"
   },
   {
-   "law_id": "RMIS-2002",
+   "law_id": "M0090014",
    "article": null,
    "kind": "extracted",
    "snippet": "該辦法之附表所定各類農業設施為範圍。\n三、容許辦法附表未包含「休閒農業輔導管理辦法」(以下簡稱休農辦法)內之各項休閒農業設施,且休農辦法亦未有得設置附屬綠能設施之規"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

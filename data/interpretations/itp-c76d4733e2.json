@@ -1,0 +1,65 @@
+{
+ "id": "itp-c76d4733e2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070721874號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關已取得農舍建造執照者，得否於取得建造執照滿五年後再次申請興建農舍一案，復如說明，請查照。",
+ "content": "一、復臺端107年8月8日107年聖字第1070000808號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第6條規定申請人5年內曾取得農舍建造執照應不予許可興建農舍，其立法意旨係為杜絕申請人申請興建農舍後隨即移轉他人並再次申請農舍之不合理現象，先予敘明。\n三、又查本辦法第2條第1項規定：「依本條例第18條第1項規定申請興建農舍之申請人應為農民，且其資格應符合下列條件，並經直轄市、縣(市)主管機關核定：．．．四、申請人無自用農舍者。．．．」，又本辦法第3條復規定：「依本條例第18條第3項規定申請興建農舍之申請人應為農民，且其資格應符合前條第1項第4款及第5款規定．．．」，爰此，無論農業發展條例89年1月4日修正施行前或後取得之農業用地興建農舍者，申請人資格均須符合無自用農舍條件始得申請興建農舍。\n四、有關農舍個案審認係直轄市、縣(市)政府之權責，涉及建築管理事項係由當地建管單位主政辦理，如有相關疑義，請洽所在地縣(市)政府詢問。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070721874號|有關已取得農舍建造執照者得否於取得建造執照滿五年後再次申請興"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7cde60a45f2ea2d3134c23738f3c76bff2513081fdd547f041771abce20a3b45",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "7年8月8日107年聖字第1070000808號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第6條規定申請人5年內曾取得農舍建造執照應不予許可興建農舍,其"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "其資格應符合前條第1項第4款及第5款規定...」,爰此,無論農業發展條例89年1月4日修正施行前或後取得之農業用地興建農舍者,申請人資格均須符合無自用農"
+  }
+ ]
+}

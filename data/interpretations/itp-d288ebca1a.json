@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5134",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:58+08:00",
+   "fetched_at": "2026-10-30T11:23:10+08:00",
    "source_key": "rmis:5134"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080219832號|農業發展條例第16條第1項第1款耕地分割實務執行"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "16",
    "kind": "extracted",
    "snippet": "農業發展條例第16條第1項第1款耕地分割實務執行\n主旨:有關農業發展條例第16條第1項第1款耕地分割"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

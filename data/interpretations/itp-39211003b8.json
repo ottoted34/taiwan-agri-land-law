@@ -1,0 +1,59 @@
+{
+ "id": "itp-39211003b8",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020216631號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "已領有農業用地作農業設施容許使用同意書之農業設施，因配置位置改變，而擬申請變更容許使用，得否免經審核逕行核發容許使用之疑義案。",
+ "content": "主旨：有關貴府函詢已領有農業用地作農業設施容許使用同意書之農業設施，因配置位置改變，而擬申請變更容許使用，得否免經審核逕行核發容許使用之疑義案，復請查照。\n說明：\n一、復貴府102年5月23日府農務字第1020078030號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第26條第1項規定：「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，並不得作為住宅、工廠或其他非農業使用。」有關本案倘經貴府審認該農業設施仍坐落於原地號之農業用地且亦依原核定之計畫內容使用，而未涉及經營計畫內容之變更，則該已依法取得容許使用之農業設施，雖因配置位置改變，仍屬適法存在，其原核發之同意書應仍具有效力，尚無涉及變更申請或再行審查容許使用之必要。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020216631號|已領有農業用地作農業設施容許使用同意書之農業設施因配置位置改"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3f8d0e32ee65cc3beaf66f9e531b20c0c9bce2e312a761e26412083613bc2b28",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "26",
+   "kind": "extracted",
+   "snippet": "2年5月23日府農務字第1020078030號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第26條第1項規定:「依本辦法取得農業用地作農業設施容許使用者,應依原核定之計畫內容使用"
+  }
+ ]
+}

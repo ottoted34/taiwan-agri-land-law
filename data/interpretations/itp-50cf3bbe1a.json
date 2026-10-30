@@ -1,0 +1,58 @@
+{
+ "id": "itp-50cf3bbe1a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1010743152號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴部函為部分共有人持憑法院調解筆錄申辦共有農舍之所有權第一次登記時，其得否代未會同之他共有人具結無其他農舍一案，復請查照。",
+ "content": "1.復貴部101年11月22日內授中辦地字第1016652205號函。\n2.本會於96年3月6日邀集貴部營建署、地政司及相關縣市政府研商「農舍承受人資格、無自用農舍查核、共有農地申請農舍等案處理原則」，並以96年3月14日農授水保字第0961848173號函知各縣市政府及相關機關，該函說明二：「農舍與其座落用地併同辦理移轉時，其承受人資格應符合無自用農舍條件；辦理移轉時，承受人應檢具（一）稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。（二）申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。（三）申請人切結無自用農舍文件等3項文件供地政單位審查。」，爰一人僅得取得一戶農舍為限。\n3.本案經法院調解為三人共有，其農舍與坐落之農業用地全部之轉讓或受讓人仍應符合上開規定，是以不得有代為具結之情形，惟若當事人備齊登記所需文件，並依行政程序法合法委任代理人，自得由代理人前往代為登記。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1010743152號|有關貴部函為部分共有人持憑法院調解筆錄申辦共有農舍之所有權第"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4f00fa1604dcc35f843cd45a82081823e9a92b5f05274f9c8d2d274eca7ea3b7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",是以不得有代為具結之情形,惟若當事人備齊登記所需文件,並依行政程序法合法委任代理人,自得由代理人前往代為登記。"
+  }
+ ]
+}

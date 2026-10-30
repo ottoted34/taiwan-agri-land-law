@@ -1,0 +1,64 @@
+{
+ "id": "itp-8fca0cab97",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971812020號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○所有共有農業用地申請興建農舍面積疑義案，復請查照。",
+ "content": "1.復 貴府97年6月17日府農輔字第0970080616號致本會水土保持局函。 2.本案○○○於農業發展條例修正施行前取得新埔鎮○○○地號共有農業用地之22/30所有權，修正施行後再取得1/30所有權，並於96年3月6日登記完成土地所有權為23/30，依土地法第43條規定：「依本法所為之登記，有絕對效力。」，其申請興建農舍應符合「農業用地興建農舍辦法」第3條相關規定，不得以修法前取得22/30之農業用地申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971812020號|有關○○○所有共有農業用地申請興建農舍面積疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9574fad75c9cd93c3a43805d00a4d0dc606de2b1f8a6aaecd63a80474afad0bb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0970080616號致本會水土保持局函。 2.本案○○○於農業發展條例修正施行前取得新埔鎮○○○地號共有農業用地之22/30所有權,修正施行後再取得1"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "定:「依本法所為之登記,有絕對效力。」,其申請興建農舍應符合「農業用地興建農舍辦法」第3條相關規定,不得以修法前取得22/30之農業用地申請興建農舍。"
+  }
+ ]
+}

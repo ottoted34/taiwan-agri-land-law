@@ -1,0 +1,38 @@
+{
+ "id": "tech-54e33e48606a",
+ "source_key": "datamoa:D97:9e7ba5ae168fefaf",
+ "title": "技術專刊 23",
+ "series": "技術專刊",
+ "issue": "23",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2346",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "23",
+  "出刊年月": "200809",
+  "期刊名稱": "臺東蕨類圖鑑100種",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2346"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "aba9d216659dd9558f383d4b578f850a07c375389e64f167a52a7b65065d74a9",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

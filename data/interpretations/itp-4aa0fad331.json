@@ -1,0 +1,67 @@
+{
+ "id": "itp-4aa0fad331",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090721191號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端函詢興建農舍臨路臨側規定相關疑義，復如說明，請查照。",
+ "content": "一、復臺端 109年7月27日申請書。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、農業用地興建農舍辦法(以下簡稱本辦法)於 104年9月4日修正，增訂第 2條第 2項申請興建農舍資格應檢附經營計畫書，以確保符合農業發展條例第 18條規定，於不影響農業生產環境與農村發展之前提下，農業用地始得核准興建農舍。上揭經營計畫書已明定「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」，故農舍用地仍應符合「臨地界線側」及「臨接道路」之要件，以兼具農舍出入及避免影響農業生產環境之原則。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090721191號|有關臺端函詢興建農舍臨路臨側規定相關疑義復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4879e0257b6d60e78311adf850b33343e6133cb989e80646185f7682a3c60f14",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "為許可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n三、農業用地興建農舍辦法(以下簡稱本辦法)於 104年9月4日修正,增訂第 2條第 2項申請興建農舍資格"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "第 2條第 2項申請興建農舍資格應檢附經營計畫書,以確保符合農業發展條例第 18條規定,於不影響農業生產環境與農村發展之前提下,農業用地始得核准興建農舍。上揭經營"
+  }
+ ]
+}

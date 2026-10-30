@@ -1,0 +1,58 @@
+{
+ "id": "itp-70ab471db2",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961808190號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關農業發展條例修正施行前取得之農地，經分割合併後得否依該條例第18條第3項規定申請興建農舍案，復請查照。",
+ "content": "1.復 台端96年4月30日申請書。 2.有關農業發展條例修正施行前取得農業用地，並於該條例修正施行後與鄰地分割交換合併，其權利主體未更動，且分割交換合併調整後之面積並未改變，可視為原權利內容之持續，合先說明。 3.台端所有台中縣潭子鄉○○○地號土地，係由農業發展條例修正施行前取得之農地多次分割交換合併，經查其面積已更動，申請興建農舍應依農業發展條例修正施行後之規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961808190號|台端函詢有關農業發展條例修正施行前取得之農地經分割合併後得否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5db17e39ac82c4b73f9294ceb197e4601e170adf0b6ded5eae242eb1ecb4be97",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台端函詢有關農業發展條例修正施行前取得之農地,經分割合併後得否依該條例第18條第3項規定申請興建農舍案,"
+  }
+ ]
+}

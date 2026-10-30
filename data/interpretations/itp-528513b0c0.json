@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6041",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:26+08:00",
+   "fetched_at": "2026-10-30T11:15:39+08:00",
    "source_key": "rmis:6041"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1140210269號|有關貴處規劃使用新北市淡水區○○○地號內土地設置輸配電鐵塔鄰"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "da46fd7e9abb0800d873f099012add8940c77de71bc27a2b521688d452c8c6a0",
  "topics": [
@@ -48,6 +64,20 @@
    "article": null,
    "kind": "extracted",
    "snippet": "保安用地部分,得否免設置隔離綠帶疑義案,復請查照。\n一、依據「農業主管機關同意農業用地變更使用審查作業要點」(下稱本要點)第9點明定,變更農業用地作與農業生產性質不相容之目的事業使用者,應"
+  },
+  {
+   "law_id": "D0070030",
+   "article": "15-2",
+   "kind": "extracted",
+   "snippet": "第10點規定有配置寬度者外,至少應為1.5公尺。\n二、至已依區域計畫法第15條之2規定許可開發之案件,基地內土地依非都市土地開發審議作業規範審議通過變更編定為國土"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "地。爰本案山坡地保育區暫未編定土地,擬適用林業用地之管制,依非都市土地使用管制規則第6條附表1,申請輸配電鐵塔之容許使用,則該案緊鄰之土地,依據改制前行政院農業委員會1"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,70 @@
+{
+ "id": "itp-fdd3226aeb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951820539號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "非同屬非都市土地，但適用都市與非都市相同之計算標準者，可否併同申請集村興建農舍乙案，復 請查照。",
+ "content": "一、復 台端95年9月6日請示書\n二、查農業用地興建農舍辦法第8條第1項第2款規定：「各起造人持有之農業用地與集村興建農舍坐落之農業用地，其法令規定適用之基層建築面積之計算標準應相同，且同屬都市土地或非都市土地。但於福建省金門縣興建農舍者，不在此限。」，又同條項第3款規定：「參加集村興建之各起造人所持有之農業用地，其農舍基層建築面積計算，應依都市計畫法省（市）施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築法及其他相關法令規定辦理。」，合先敘明。\n三、依上開規定意旨，申請集村興建農舍之農業用地，應同屬都市土地或非都市土地，及其農舍基層建築面積計算應依相同法規規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951820539號|非同屬非都市土地但適用都市與非都市相同之計算標準者可否併同申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1f858cb3c7882ba87832072aaf42ffdf0b10f39d8e77b797e57105fed34f25fb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "乙案,復 請查照。\n一、復 台端95年9月6日請示書\n二、查農業用地興建農舍辦法第8條第1項第2款規定:「各起造人持有之農業用地與集村興建農舍坐落之農業用地,其法令規"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建之各起造人所持有之農業用地,其農舍基層建築面積計算,應依都市計畫法省(市)施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築法及其他相關法令規定辦理。」,合先敘明。\n三、依上開規定意旨,申請集村興建農舍之農"
+  }
+ ]
+}

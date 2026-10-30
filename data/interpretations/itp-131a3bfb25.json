@@ -1,0 +1,58 @@
+{
+ "id": "itp-131a3bfb25",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051828861號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○委託貴所申辦金湖鎮○○○地號辦理農舍新建工程，因地處低漥地勢無法排水，是否可以機械排水方式處理汙水排放案，復如說明，請查照。",
+ "content": "一、復貴所105年4月26日(104)廖建字第0426號函。\n二、依農業用地興建農舍辦法第9條第2項第5款規定：「農舍之放流水應符合放流水標準，並排入排水溝渠。放流水流經屬灌排系統或私有水體者，並應符合下列規定：(一)排入灌排系統者，應經該管理機關（構）同意及水利主管機關核准。(二)排入私有水體者，應經所有人同意。」所稱之農舍放流水係指經建築物污水處理設施處理過，且應排入排水溝渠，並無以設置汙水放流陰井及機械排水等方式之情形。\n三、次依本辦法第9條第2項第3款規定：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。…」，併予敘明。\n四、有關個案之審查係屬直轄市、縣(市)政府權責，請逕洽所在地地方政府審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051828861號|有關○○○委託貴所申辦金湖鎮○○○地號辦理農舍新建工程因地處"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "47c273ef39f464a2809388691848e1b276e6d0de5238959d6da054c138884ce9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "所105年4月26日(104)廖建字第0426號函。\n二、依農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準,並排入排水溝渠。放流水流經屬灌"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-66e5e2d7f2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970171376號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行前取得共有農業用地，修正施行後分割為單獨所有農業用地興建之農舍，是否應受5年始得移轉之限制案，復請查照。",
+ "content": "一、復 台端97年12月11日申請書。\n二、查「農業發展條例」第18條第1項「本條例中華民國89年1月4日修正施行後取得農業用地之農民，無自用農舍而需興建者……」，同條例同條第2項「前項農業用地應確供農業使用；其在自有農業用地興建農舍滿五年始得移轉。但因繼承或法院拍賣而移轉者，不在此限。」，農舍興建應滿五年始得移轉問題，其限制對象係指89年1月28日後取得農業用地，無自用農舍而興建之農舍而言。\n三、台端農業發展條例修正公布生效日(89年1月28日)前取得農業用地興建之農舍，不受農業發展條例第18條第2項規定限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970171376號|農業發展條例修正施行前取得共有農業用地修正施行後分割為單獨所"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bfde0635a32fe3125bc9fd321b1446c7decaf65f28336b1e1686dff7109649d1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ",復請查照。\n一、復 台端97年12月11日申請書。\n二、查「農業發展條例」第18條第1項「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自用農舍而需"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-ba7ad991ca",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050252427號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關您來函所詢農舍申請人資格適法疑義復如說明，請查照。",
+ "content": "一、復您105年11月28日來函，暨依據內政部105年12月30日內授營綜字第1050818364號函辦理。\n二、本案已領得農舍建造執照施工中之農業用地，依農業用地興建農舍辦法第12條第1項、第2項規定，該土地必須註記，在解除土地套繪前，得否與鄰地進行合併分割，不無疑義。另本案農舍尚在興建中，若農舍坐落之該筆農業用地得與臨地進行分割合併，其所依循之審查許可條件已生變動，爰本會以為其農民資格自應依現行規定重新審認。\n三、另本案所涉土地管制、農舍建照、施工及變更設計等係屬建築管理事項，如有疑義應請向內政部洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050252427號|有關您來函所詢農舍申請人資格適法疑義復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cb3ac151231b4b2b96f4dfbffb66082c87ac4fb5bfa17c2e2ea1f0660c5a05fb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "4號函辦理。\n二、本案已領得農舍建造執照施工中之農業用地,依農業用地興建農舍辦法第12條第1項、第2項規定,該土地必須註記,在解除土地套繪前,得否與鄰地進行合併分割,不"
+  }
+ ]
+}

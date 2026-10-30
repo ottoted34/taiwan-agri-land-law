@@ -1,0 +1,64 @@
+{
+ "id": "itp-f77498e839",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0971844329號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正施行前取得農地興建之農舍，於修法後移轉並增建之農舍需否依農業發展條例第18條第2項規定管制5年始得移轉之限制疑義，復請查照。",
+ "content": "1.復 貴部97年11月10日內授中辦地字第0970724686號函。\n2.農業發展條例第18條第2項規定「……自有農業用地興建農舍滿5年始得移轉。但因繼承或法院拍賣而移轉者，不在此限」，合先說明。\n3.本案其建築行為屬建築法第9條第1款所稱「新建」者，應受農業發展條例第18條第2項規定農舍興建滿5年始得移轉之限制;如屬建築法第9條第2款前段所稱「增建」者，則不受上開規定之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0971844329號|有關農業發展條例修正施行前取得農地興建之農舍於修法後移轉並增"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b57f6cd83b7c5eb9866d2931745f36f57121432961dea554c3c183c2633e5e54",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "修正施行前取得農地興建之農舍,於修法後移轉並增建之農舍需否依農業發展條例第18條第2項規定管制5年始得移轉之限制疑義,復請查照。\n1.復 貴部97年11月10日"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "院拍賣而移轉者,不在此限」,合先說明。\n3.本案其建築行為屬建築法第9條第1款所稱「新建」者,應受農業發展條例第18條第2項規定農舍興建滿5年始得移轉之"
+  }
+ ]
+}

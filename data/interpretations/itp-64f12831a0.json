@@ -1,0 +1,70 @@
+{
+ "id": "itp-64f12831a0",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980180202號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○所有台北縣金山鄉○○○地號土地（面積0.1542公頃），得否依農業用興建農舍辦法第2條規定申請興建農舍疑義案，案涉土地取得時點認定疑義，已轉請內政部主政並副知貴府有案，請查照。",
+ "content": "1.依據 貴府98年12月18日北農牧字第0981079215號函轉○○○98年12月10日申請書辦理。\n2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地，申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理，先予說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980180202號|有關○○○所有台北縣金山鄉○○○地號土地面積01542公頃得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e5eb264631d5985b39fb794984431cc490011d6a0a8ac1f588ad42e0f41d9f62",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "山鄉○○○地號土地(面積0.1542公頃),得否依農業用興建農舍辦法第2條規定申請興建農舍疑義案,案涉土地取得時點認定疑義,已轉請內政部主政並副知貴府有案"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "79215號函轉○○○98年12月10日申請書辦理。\n2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍,係依農業用地取得日期之不同而有所"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "發展條例」修正公布生效日後取得之農業用地,申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理,先予說明。"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-e226925ea8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041809064號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關89.1.28日之前取得新北三峽區二筆耕地是否可合併興建農舍，面積認定。",
+ "content": "一、依農業發展條例第18條及農業用地興建農舍辦法規定，農舍僅得以單一筆地號土地申請興建，爰台端倘以相鄰二筆耕地申請興建農舍，應先辦理合併為單一筆地號。\n二、又申請興建農舍所適用之規定，以農業用地取得時點之不同而有分別。前開取得時點之認定除繼承、強制執行、徵收、法院之判決、農地重劃或公職人員財產強制信託外，均以土地登記簿所有權部之登記日期為基準。台端倘欲合併相鄰二筆耕地為一筆，則農業用地取得時點是否變動，請洽詢直轄市、縣(市)政府地政機關。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041809064號|有關89128日之前取得新北三峽區二筆耕地是否可合併興建農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ab5d0cc6134632ddc8267fad68825fd349bfc987f2d6d9de731b111057c27be5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "取得新北三峽區二筆耕地是否可合併興建農舍,面積認定。\n一、依農業發展條例第18條及農業用地興建農舍辦法規定,農舍僅得以單一筆地號土地申請興建,爰台端倘以相鄰二筆"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "是否可合併興建農舍,面積認定。\n一、依農業發展條例第18條及農業用地興建農舍辦法規定,農舍僅得以單一筆地號土地申請興建,爰台端倘以相鄰二筆耕地申請興建農舍,應先"
+  }
+ ]
+}

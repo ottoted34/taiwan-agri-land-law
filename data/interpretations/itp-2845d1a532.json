@@ -1,0 +1,52 @@
+{
+ "id": "itp-2845d1a532",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931826227號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "以集村方式興建農舍，經縣市政府核准取得興建資格文件或建造執照後，未開始施工或施工期間，尚未取得使用執照前，其中起造人因個人因素，其所屬農業用地遭受法院拍賣者，原則同意承受人即法院拍定人得依原規模繼續參加集村興建農舍，復請查照。",
+ "content": "依據內政部營建署93年11月11日營署綜字第0930069753號函辦理兼復 貴工會93年10月19日彰土代93職工龍字第023號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931826227號|以集村方式興建農舍經縣市政府核准取得興建資格文件或建造執照後"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a11b5d8fe78a1ab4259bfddd273eb9c99d9883519ffb46ce2cd6446219426d7d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3969",
    "serial": null,
-   "fetched_at": "2026-10-30T10:05:25+08:00",
+   "fetched_at": "2026-10-30T11:32:37+08:00",
    "source_key": "rmis:3969"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:屏府農企字第10403400000號|有關農業用地興建農舍申請人無自用農舍審核疑義本府建議如說明請"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -49,16 +55,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "建農舍農民資格申請案辦理。\n二、農舍之定義經貴局釋示,係符合「農業用地興建農舍辦法」規定並提出申請核准者,爰此,申請人有無自用農舍之判定,宜就申請人名下有無合法農舍"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

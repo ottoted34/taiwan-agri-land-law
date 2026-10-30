@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5275",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:31+08:00",
+   "fetched_at": "2026-10-30T11:35:44+08:00",
    "source_key": "rmis:5275"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030710324號|農業用地上有三合院及水泥廣場是否符合農業用地作農業使用認定疑"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,16 +47,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "6",
    "kind": "extracted",
    "snippet": "3年3月31日中市農地字第1030009594號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第4款明定略以:「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

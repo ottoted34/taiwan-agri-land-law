@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5349",
    "serial": null,
-   "fetched_at": "2026-10-30T10:04:46+08:00",
+   "fetched_at": "2026-10-30T11:31:58+08:00",
    "source_key": "rmis:5349"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1040213237號|執行農業用地作農業使用證明申請案之勘查工作是否涉及刑法第30"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "12",
    "kind": "extracted",
    "snippet": "及說明者,因恐無法確認該申請土地範圍之界址,建議實務作法得依農用證明辦法第12條規定,其情形可補正者,應再次通知申請人限期到場確認上開界址及說明,倘屆期仍未補正"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

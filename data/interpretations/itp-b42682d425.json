@@ -1,0 +1,58 @@
+{
+ "id": "itp-b42682d425",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849139號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺南市政府函為○○○代理○○○申請農舍分割登記是否准予辦理案，本會意見復如說明二，請查照。",
+ "content": "一、復 貴部96年10月4日台內地字第0960156193號函。\n二、按農業發展條例第18條第4項已明定，農舍與其坐落用地併同移轉或併同設定抵押權，又貴部90年3月16日台（90）內地字第9004878號函明釋，農舍分割應與基地併同考量，不宜單獨辦理建物分割，故本案原申請建造之一棟農舍，自不宜就農舍本身單獨作分割。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849139號|有關臺南市政府函為○○○代理○○○申請農舍分割登記是否准予辦"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "91a9c74f99bc48daa6ee6a811d65e7ed41fc57e9f9809013b9cb1c07ba4dee27",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "96年10月4日台內地字第0960156193號函。\n二、按農業發展條例第18條第4項已明定,農舍與其坐落用地併同移轉或併同設定抵押權,又貴部90年3月16日台"
+  }
+ ]
+}

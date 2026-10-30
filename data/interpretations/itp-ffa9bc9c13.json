@@ -1,0 +1,81 @@
+{
+ "id": "itp-ffa9bc9c13",
+ "doc_class": "interpretation",
+ "docno": "農企字第900103077號",
+ "date": "2001-01-31",
+ "date_text": "90/1/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "002 釋申請農用證明收取規費案",
+ "content": "查農業用地作農業使用之審核除需作文件之審核外，尚需動員相關單位人員辦理現場會勘，增加行政成本之支出，故本會將其定位於農業發展條例第75條之審查費，而非證明文件費，因此，不論審查結果是否同意核發證明書，該項規費應不予退還。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4822",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:47+08:00",
+   "source_key": "rmis:4822"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900103077號|釋申請農用證明收取規費案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e2b35472530cc263d99c4350ee6a364d49e9618ce6368a4e7cffe3a47020de95",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "75",
+   "kind": "extracted",
+   "snippet": "關單位人員辦理現場會勘,增加行政成本之支出,故本會將其定位於農業發展條例第75條之審查費,而非證明文件費,因此,不論審查結果是否同意核發證明書,該項規費應不予退"
+  }
+ ]
+}

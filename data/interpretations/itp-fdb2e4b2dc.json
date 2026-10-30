@@ -1,0 +1,79 @@
+{
+ "id": "itp-fdb2e4b2dc",
+ "doc_class": "interpretation",
+ "docno": "農企字第900153848號",
+ "date": "2001-10-22",
+ "date_text": "90/10/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋縣市政府成立農業發展基金後，要求回撥已繳回饋金之作業方式問題",
+ "content": "一、復　貴府九十年十月二日九十府農務字第一一一四七九號函。\n二、有關農業用地變更回饋金之收取作業，「農業用地變更回饋金撥繳及分配利用辦法」第七點雖已規定收取作業原則，惟有鑒於各地方政府農業發展基金尚未設置，前經於八十九年十月十三日開會協商獲致決議，以地方政府設置農業發展基金尚需一定之程序與時程，未成立基金開始運作前，依法所收之回饋金，由地方政府核計應繳交金額請申請人直接至各行庫繳交至本會農業發展基金，地方政府應建立回饋金收取紀錄，俟農業發展基金成立後，憑以製據函本會將繳交至中央之農業用地變更回饋金二分之一撥交地方政府。即各縣市政府成立農業發展基金運作後，除應依上開辦法第七點規定作業外，就以往已繳交至本會之回饋金要求回撥時，應請建立回饋金收取紀錄，編製明細表，按季隨文送經本會核對繳款紀錄無誤後，據以撥款，合先敘明。\n三、貴府以貴府農業發展基金專戶於九十年九月二十七日設立完竣，製據要求核撥農業用地變更回饋金二分之一金額計新台幣九四萬三五三八元整乙節，因貴府所附明細表之經電請貴府詳查表示，確無回饋金繳交之紀錄，敬請貴府再予檢視繳交回饋金之紀錄與金額後另行編製明細表送本會核對，俾利撥款。\n備註：目前已成立農業發展基金之縣市：\n宜蘭縣：九十年十一月\n屏東縣：九十一年五月\n台中市：九十一年六月\n新竹縣：九十一年六月\n台北市：九十一年九月\n彰化縣：九十一年 月\n台中縣：九十一年六月\n苗栗縣：九十一年十月\n台東縣：\n花蓮縣：\n基隆市：\n桃園縣：九十二年五月\n台南縣：九十二年十月\n嘉義縣：九十二年十月",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5202",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:44+08:00",
+   "source_key": "rmis:5202"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900153848號|釋縣市政府成立農業發展基金後要求回撥已繳回饋金之作業方式問題"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4440c2b9e61e5a417e44f93efb9dbf4f613bb3212f580773efd14adaca6671c3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第一一一四七九號函。\n二、有關農業用地變更回饋金之收取作業,「農業用地變更回饋金撥繳及分配利用辦法」第七點雖已規定收取作業原則,惟有鑒於各地方政府農業發展基金尚未設置,前經於八十九"
+  }
+ ]
+}

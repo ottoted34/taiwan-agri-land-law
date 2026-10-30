@@ -1,0 +1,71 @@
+{
+ "id": "itp-1010c737b9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030235592號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "基地為乙種建築用地，地上建築物用途為農舍，那移轉他人時是否須受農業發展條例第18條規定之限制。",
+ "content": "一、有關農業發展條例第18條及其授權訂定之農業用地興建農舍辦法所規範者，均指農業用地上所興建之農舍，至於非屬農業用地之建築物，自不受其規範，先予敘明。\n二、次依內政部營建署94年1月11日營署建管字第0930079278號函釋略以：「按建築相關法令規定，使用執照並無註記及註銷之規定。至於使用執照之變更使用，應依建築物使用類組及變更使用辦法之規定辦理。該辦法第3條已明定，建築物變更使用類組時，除應符合都市計畫上地使用分區管制或非都市土地使用管制之容許使用項目規定外，並應依建築物變更使用原則表辦理。是本案有關建築物使用用途之變更，宜於用地變更異動登記後配合申請辦理。」，而依據非都市土地使用管制規則第6條附表一，乙種建築用地並未容許作農舍使用，因此建議應先辦理農舍更正為住宅用途之登記為妥。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1030235592號|基地為乙種建築用地地上建築物用途為農舍那移轉他人時是否須受農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0b06252898374b63f04c5ac9943e7f1dd6fecf0c14f4cf367ace72b78b50c9a6",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "地為乙種建築用地,地上建築物用途為農舍,那移轉他人時是否須受農業發展條例第18條規定之限制。\n一、有關農業發展條例第18條及其授權訂定之農業用地興建農舍辦法所規"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "8條規定之限制。\n一、有關農業發展條例第18條及其授權訂定之農業用地興建農舍辦法所規範者,均指農業用地上所興建之農舍,至於非屬農業用地之建築物,自不受其規範,先"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "用用途之變更,宜於用地變更異動登記後配合申請辦理。」,而依據非都市土地使用管制規則第6條附表一,乙種建築用地並未容許作農舍使用,因此建議應先辦理農舍更正為住宅用途之登記"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "itp-682846cc3c",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第0930087248號",
+ "date": "2004-10-27",
+ "date_text": "內政部九十三年十月二十七日內授營建管字第0930087248號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋農業生產設施溫室，得否免受建築技術規則建築設計施工編第四十五條第二款規定之限制",
+ "content": "案經轉據行政院農業委員會農糧署九十三年九月廿二日農糧企字第0931018275號函說明略以：「外牆設置開口之限制，農業設施溫室係專供農作物栽培之用，非供民眾居住使用，建請同意免受上開建築設計施工編第四十五條之相關規定限制。」，是有關農業設施溫室免適用建築技術規則建築設計施工編第四十五條規定之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第0930087248號|釋農業生產設施溫室得否免受建築技術規則建築設計施工編第四十五"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6bc3b87dfc3f56675f96e5880d89b959d88cc4c44c9d13aa44d21dbf474e3045",
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

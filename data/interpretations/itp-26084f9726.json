@@ -1,0 +1,59 @@
+{
+ "id": "itp-26084f9726",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030237366號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端陳情苗栗縣銅鑼鄉竹森村○○地號土地農業資材室及農舍違建案，復請查照。",
+ "content": "一、依據行政院103年10月23日院臺農移字第1030062573號移文單辦理。\n二、本案前經苗栗縣政府現場查明，並以103年3月12日府農農字第1030051305號函復台端在案，有關農業資材室及農舍審查，以及後續查核等，均屬地方政府權責，台端爾後如發現確有違規之情事，請檢附具體事證送苗栗縣政府處理。\n三、台端已多次向行政院及本會陳情旨揭土地違建，依行政程序法第173條第2款規定：同一事由，經予適當處理，並已明確答覆後，而仍一再陳情者，本會將依規定不予受理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1030237366號|台端陳情苗栗縣銅鑼鄉竹森村○○地號土地農業資材室及農舍違建案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "02546c274d25c79de5a04b7523d4e79b01bfb2937f285e79c802cbdee749db15",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "173",
+   "kind": "extracted",
+   "snippet": "政府處理。\n三、台端已多次向行政院及本會陳情旨揭土地違建,依行政程序法第173條第2款規定:同一事由,經予適當處理,並已明確答覆後,而仍一再陳情者,本會將依規定"
+  }
+ ]
+}

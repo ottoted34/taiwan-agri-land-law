@@ -1,0 +1,58 @@
+{
+ "id": "itp-704ad41500",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970150554號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "共同持有持分之農業用地所有權人，得否同時申請集村興建農舍案，復請查照。",
+ "content": "一、復 貴府97年9月5日府農地字第0970250347號函。\n二、參加集村興建農舍者，其申請興建農舍之該宗農業用地面積得小於0.25 公頃，但為2 人以上共有之農業用地，應由其他共有人出具同意書供一人申請興建一戶農舍，亦即共有農業用地其共有人之一，以其持分面積申請集村興建農舍，仍應取得其他共有人之同意，其他共有人不得再就其應有部分申請建築(參照本會92年8 月21 日農授水保字第0921847142號函送之「農業用地興建農舍辦法」有關集村興建農舍法令執行疑義9研商結論)。\n三、20戶以上起造人各自擁有配合興建農舍之農業用地，得以共有方式於他處另行購買興建用地供集村興建農舍之用地，但該筆農地需符合未屬供他人興建農舍之農業用地，且申請興建農舍之總面積不得超過各戶農業用地總面積(含該筆共有農業用地面積)之10%。(同上開函執行疑義12研商結論)",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970150554號|共同持有持分之農業用地所有權人得否同時申請集村興建農舍案復請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9b634cca84277419becab499c563d0c9dee925093f9d09cb4ade8b6db645865b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "92年8 月21 日農授水保字第0921847142號函送之「農業用地興建農舍辦法」有關集村興建農舍法令執行疑義9研商結論)。\n三、20戶以上起造人各自擁有配合興建"
+  }
+ ]
+}

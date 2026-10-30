@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4028",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:46+08:00",
+   "fetched_at": "2026-10-30T11:27:58+08:00",
    "source_key": "rmis:4028"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051825511號|有關貴府函為因徵收致土地不足025公頃得否申請興建農舍疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,22 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "4",
    "kind": "extracted",
    "snippet": "105年1月8日府農農字第1050005418號函。\n二、依農業用地興建農舍辦法第4條規定,有關農業用地被徵收得以另外取得之農業用地申請興建農舍者,僅限農業發展條例("
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "有關農業用地被徵收得以另外取得之農業用地申請興建農舍者,僅限農業發展條例(以下簡稱本條例)89年1月28日修正施行前取得者,至於本條例修正施行後取得之農"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

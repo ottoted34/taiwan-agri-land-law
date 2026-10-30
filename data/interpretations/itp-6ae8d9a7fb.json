@@ -1,0 +1,87 @@
+{
+ "id": "itp-6ae8d9a7fb",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961848111號",
+ "date": "2007-02-13",
+ "date_text": "96/2/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "興建中農舍或興建完成之農舍，經法院拍賣者，其投標人資格應符合無自用農舍條件，請查照。",
+ "content": "一、依據農業發展條例第18條第1項、第3項規定及本會95年8月29日農授水保字第0951851925號函辦理。\n二、89年1月26日修正公布「農業發展條例」，主要在落實「放寬農地農有落實農地農用」之政策目標，因此在農舍興建規定上，於該條例修正施行後取得農業用地而申請興建農舍者，應予必要限制，以為配套措施，而於該條例第18條第5項授權內政部會同本會，對於在「農業發展條例」修正公布生效日後取得農業用地，無自用農舍而需興建者，訂定「農業用地興建農舍辦法」俾據以辦理其立法意旨明確規範申請人條件，應為「無自用農舍者」。故經法院拍賣之興建中農舍或興建完成之農舍，其投標人資格亦應符合無自用農舍條件。\n三、至「無自用農舍」之認定，需由申請人檢具一稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單二申請人房屋財產歸戶查詢清單之所有房屋使用執照影本三申請人切結無自用農舍文件等文件，俾供審查。另「實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定該房屋為農舍」併請參酌。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=294",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:18+08:00",
+   "source_key": "rmis:294"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961848111號|興建中農舍或興建完成之農舍經法院拍賣者其投標人資格應符合無自"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國一百零二年七月一日內政部台內營字第 1020805247 號令、行政院農業委員會農水保字第 1021865656 號令會銜修正發布全文 17 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4e48300b476f2c8172b875b0306f79d2ab2bd2ee29c648227dfb326815e26fe1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "拍賣者,其投標人資格應符合無自用農舍條件,請查照。\n一、依據農業發展條例第18條第1項、第3項規定及本會95年8月29日農授水保字第0951851925號函辦理"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "例」修正公布生效日後取得農業用地,無自用農舍而需興建者,訂定「農業用地興建農舍辦法」俾據以辦理其立法意旨明確規範申請人條件,應為「無自用農舍者」。故經法院拍賣之興建"
+  }
+ ]
+}

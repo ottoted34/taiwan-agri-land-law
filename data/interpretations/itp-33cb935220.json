@@ -18,53 +18,46 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5547",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:50+08:00",
+   "fetched_at": "2026-10-30T11:38:52+08:00",
    "source_key": "rmis:5547"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020234807號|台中農舍農業設施面積40%之計算建議"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "possibly_affected",
+  "status": "no_known_cessation",
   "confirmed": false,
-  "basis": [
-   {
-    "type": "law_amendment",
-    "law_id": "RMIS-2006",
-    "law_name": "農業用地興建農舍辦法",
-    "article": null,
-    "amended_on": "2015-09-04",
-    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
-    "relation_kind": "official"
-   }
-  ]
+  "basis": []
  },
  "content_hash": "547c8125390a26389660107caae153ddbf0cc5d47c03400224079c3b0f59fe34",
  "topics": [
   "farmhouse"
  ],
  "flags": [
-  "historical_agency"
+  "historical_agency",
+  "docno_shared"
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
-  },
-  {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "台中農舍農業設施面積40%之計算建議。\n主旨:有關貴府函為「申請農業用地作農業設施容許使用審查辦法」中有關農業設施及農舍面積併計之建議案,復請查照。\n說明:\n一、復貴府102年10"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

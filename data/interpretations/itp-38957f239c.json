@@ -1,0 +1,52 @@
+{
+ "id": "itp-38957f239c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971844309號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端95年7月31日取得宜蘭縣三星鄉○○○及○○○地號等2筆土地，嗣因興建農舍需要而於97年9月10日辦理合併，其時點計算基準疑義案，請查照。",
+ "content": "1.依據立法委員林○○國會辦公室電傳台端97年11月10日陳情書辦理。 2.有關土地合併分割交換調整屬權屬不變動之分割或合併案件，其取得農地計算基準，不受本會97年8月4日農授水保字第0971843810號函之限制（參照本會97年11月26日農授水保字第號0971844308函）。 3.本案屬個案事實認定，請洽宜蘭縣政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971844309號|台端95年7月31日取得宜蘭縣三星鄉○○○及○○○地號等2筆"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "048b630bdea75975fe7ac05164caeeb715a0df37d3a205198859b9a354af85c2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

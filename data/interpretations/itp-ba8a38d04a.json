@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4215",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:28+08:00",
+   "fetched_at": "2026-10-30T11:27:40+08:00",
    "source_key": "rmis:4215"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:內授營綜字第1050018940號|有關民眾原有一般農業區農牧用地內有部分水利用地後被經濟部水利"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,22 +46,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "4",
    "kind": "extracted",
    "snippet": "水利用地),後被經濟部水利署徵收部分土地作堤防工程,是否符合農業用地興建農舍辦法第4條規定疑義,復請查照。\n一、復貴府105年3月9日府農保字第1050045361號"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "下簡稱本辦法)第4條規定之立法目的,係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興辦公共事業,爰訂有相關依"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

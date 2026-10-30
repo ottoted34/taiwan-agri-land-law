@@ -1,0 +1,52 @@
+{
+ "id": "itp-45318bb5d4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000120955號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關起造人於領得農舍建造執照施工期間死亡，繼承人得否以原有農地面積和原建築執照申請起造人名義變更後繼續完成興建案，請依內政部92年7月11日台內營建管字第0920087592號函釋辦理，請查照。",
+ "content": "1.復台端100年4月5日申請書。\n2.檢附內政部上開號函影本供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000120955號|有關起造人於領得農舍建造執照施工期間死亡繼承人得否以原有農地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "29824bea3d3a509fdf38ff8108695ca593ffba0d472acae42924ad6bdb023932",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

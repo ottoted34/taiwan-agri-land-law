@@ -1,0 +1,74 @@
+{
+ "id": "itp-9c54bb0b80",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940126286號",
+ "date": "2005-05-23",
+ "date_text": "94年5月23日農企字第0940126286號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "079 釋水利用地種植作物或不作灌溉、排水使用，不符合作農業使用認定案",
+ "content": "查農業用地應作農業使用始得核發農業用地作農業使用證明書，非都市土地水利用地倘作農業灌排水設施使用，應即符合該農業用地作農業使用之認定。至其溝渠上加蓋以利通行乙節，倘仍能維持其灌排水之功能，應無農業用作農業使用認定及核發證明辦法第7條之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940126286號|釋水利用地種植作物或不作灌溉排水使用不符合作農業使用認定案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "7",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b0f3a178622e6b6aa9e03d99f8aab444ff3eb6d58d88b34a5209b08a8a78256c",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "以利通行乙節,倘仍能維持其灌排水之功能,應無農業用作農業使用認定及核發證明辦法第7條之適用。"
+  }
+ ]
+}

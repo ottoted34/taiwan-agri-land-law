@@ -1,0 +1,65 @@
+{
+ "id": "itp-805e502bb4",
+ "doc_class": "interpretation",
+ "docno": "農牧字第0910115760號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋畜牧設施用電申請疑義案",
+ "content": "一、有關農業生產用電之申請辦法一節，因電力供應係屬臺灣電力股份有限公司之業務，本會業另函轉請該公司逕復台端；至農業動力用電之範圍及標準，本會業依「農業發展條例」第二十九條第三項規定發布施行。\n二、另有關畜牧設施是否為「設施利用型農業之農業生產用之地上遮蔽設施」一節，查「農業發展條例」及「畜牧法」等法令均未有是項定義，至畜牧設施是否應申辦建造執照，係依設施建築材質、面積等實際情形由縣（市 ）政府主管單位依建管法令及「農業發展條例」等相關法令加以判定，如該等農業設施符合「農業發展條例」第八條第三項規定：農地申請以竹木、稻草、塑膠材料、角鋼或鐵絲網搭建無固定基礎之臨時性與農業生產有關之建築物，可免申請建築執照。農民並可填報「農業發展條例第八條第三項無固定基礎之臨時性與農業生產有關之建築物證明申請書」送請縣（市）政府主管單位逕依權責核予「農業發展條例第八條第三項無固定基礎之臨時性與農業生產有關之建築物證明申請書」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農牧字第0910115760號|釋畜牧設施用電申請疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a49c16be854a810c63b99d8c0a0eee8529683da2939bf2d3133b54ea7c92e796",
+ "topics": [
+  "container",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "29",
+   "kind": "extracted",
+   "snippet": "另函轉請該公司逕復台端;至農業動力用電之範圍及標準,本會業依「農業發展條例」第二十九條第三項規定發布施行。\n二、另有關畜牧設施是否為「設施利用型農業之農業生產用之地上"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "法令及「農業發展條例」等相關法令加以判定,如該等農業設施符合「農業發展條例」第八條第三項規定:農地申請以竹木、稻草、塑膠材料、角鋼或鐵絲網搭建無固定基礎之臨時性與"
+  }
+ ]
+}

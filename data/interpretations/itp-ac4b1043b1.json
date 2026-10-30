@@ -1,0 +1,75 @@
+{
+ "id": "itp-ac4b1043b1",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950148179號",
+ "date": "2006-08-30",
+ "date_text": "95/8/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "068 釋因法令限制而退縮興建農舍者，其農舍前面至計畫道路境界線之間，所鋪設柏油或水泥地面，應視為農舍附屬設施，准予認定為作農業使用案",
+ "content": "一、依據內政部95年7月21日公佈修正施行之都市計畫法台灣省施行細則第29條第2項明定「申請興建農舍須符合下列規定：一、興建農舍之申請人必須具備農民身分，並應在該農業區內有農地或農場。 二、農舍之高度不得超過四層或十四公尺，建築面積不得超過申請興建農舍之該宗農業用地面積百分之十，建築總樓地板面積不得超過六百六十平方公尺，與都市計畫道路境界之距離，除合法農舍申請立體增建外，不得小於八公尺。三、都市計畫農業區內之農地，其已申請建築者（包括百分之十農舍面積及百分之九十之農地），主管建築機關應於都市計畫及地籍套繪圖上著色標示之，嗣後不論該百分之九十農地是否分割，均不得再行申請興建農舍。四、農舍不得擅自變更使用。」其中除規範申請興建農舍面積與農業用地面積之比例外，並明定農舍與都市計畫道路境界之距離，不得小於8公尺。\n二、有關都市計畫農業區土地經依法申請興建農舍，依前開規定應退縮建築線，而於其上舖設水泥地面，為簡政便民，此部份可免再申請農業設施容許使用，惟配合申請農舍之其他農業用地仍應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4975",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:02+08:00",
+   "source_key": "rmis:4975"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950148179號|釋因法令限制而退縮興建農舍者其農舍前面至計畫道路境界線之間所"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "f9a1c3da075fa21c46825e16fba0ffe4d6ce45c5bf980a4defaae61ae3f337d7",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "為作農業使用案\n一、依據內政部95年7月21日公佈修正施行之都市計畫法台灣省施行細則第29條第2項明定「申請興建農舍須符合下列規定:一、興建農舍之申請"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "itp-3b54fb6ac9",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0940046060號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於貴會函詢集村興建農舍疑義案，復請查照。",
+ "content": "一、復貴會94年8月25日雲建開國字第9408號函。\n二、有關集村興建農舍之建築面積及建蔽率計算乙節，按「農業用地興建農舍辦法」第8條第1項第3款規定：「參加集村興建之各起造人所持有之農業用地，其農舍基層建築面積計算，應依都市計畫法省（市）施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築法及其他相關法令規定辦理。」第4款規定：「依前款規定計算出基層建築面積之總和，為集村興建之全部農舍之基層建築面積。」及第5款規定：「集村興建農舍坐落之建築基地，其建蔽率不得超過60%、容積率不得超過240%。但建築基地位於山坡地範圍者，其建蔽率不得超過40%、容積率不得超過120%。」是以第3款計算出各起造人之基層建築面積後，依第4款規定加總後之總和，再依第5款建蔽率及容積率規定，計算其建築面積及總樓地板面積，並以建築面積及總樓地板面積管制其建築高度。另依前揭辦法第8條第1項第8款規定，集村興建農舍應整體規劃，於法定空地設置公共設施。\n三、檢附本署92年1月17日營署綜字第0922900651號函及計算方式圖示影本供參考。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0940046060號|關於貴會函詢集村興建農舍疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ddd379371db889dba7fedee1b65b06820427c1e1db77dfbf4c39b36080275393",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "8號函。\n二、有關集村興建農舍之建築面積及建蔽率計算乙節,按「農業用地興建農舍辦法」第8條第1項第3款規定:「參加集村興建之各起造人所持有之農業用地,其農舍基層建築面積計"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建之各起造人所持有之農業用地,其農舍基層建築面積計算,應依都市計畫法省(市)施行細則、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、臺北市土地使用分區管制規則、實施區域計畫地區建築管理辦法、建築法及其他相關法令規定辦理。」第4款規定:「依前款規定計算出基層建築面積之總和,為集"
+  }
+ ]
+}

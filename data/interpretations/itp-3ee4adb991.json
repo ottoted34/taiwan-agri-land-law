@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5948",
    "serial": null,
-   "fetched_at": "2026-10-30T09:56:43+08:00",
+   "fetched_at": "2026-10-30T11:23:55+08:00",
    "source_key": "rmis:5948"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第1080222501號|有關貴府函詢種植於地面型太陽能板下之切葉植物產量計算及該筆土"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -43,40 +49,48 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "量計算及該筆土地申請農作產銷設施等疑義案,復請查照。\n一、查農業發展條例第3條第10款規定略以「農業用地:指非都市土地或都市土地農業區、保護區範圍內,依法供下"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "育及設置相關之農業設施或農舍等使用者」。行政院農業委員會依據農業發展條例第8條之1第3項授權,訂定申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法),以為"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "。行政院農業委員會依據農業發展條例第8條之1第3項授權,訂定申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法),以為農業用地申請農業設施容許使用之執行依據。\n二、另查非都"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法),以為農業用地申請農業設施容許使用之執行依據。\n二、另查非都市土地使用管制規則(以下簡稱管制規則)第6條附表1各種使用地容許使用項目及許可使用細目表「使用地類"
+  },
+  {
+   "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
    "snippet": "面積不得超過660平方公尺」,因其屬非農業使用性質,除須依據農業發展條例第10條第1項農業用地於劃定或變更為非農業使用時,應徵得主管機關同意之規定辦理外,尚應依"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "或變更為非農業使用時,應徵得主管機關同意之規定辦理外,尚應依農業發展條例第12條規定繳交回饋金。\n三、按農業設施係為輔助農業生產或經營,於農業用地申請作農業設施"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

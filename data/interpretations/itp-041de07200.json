@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6056",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:02+08:00",
+   "fetched_at": "2026-10-30T11:15:15+08:00",
    "source_key": "rmis:6056"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農授農保字第1142631157號|有關貴協會函詢陸域風力發電之再生能源相關設施得否於特定農業區"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -51,10 +57,18 @@
    "snippet": "範圍內,變更為非農業使用疑義案,復如說明,請查照。\n一、依據農業主管機關同意農業用地變更使用審查作業要點(下稱變更要點)第6點及第7點規定,非都市土地特定農業區之農業用地,以及經政府核"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "施,得否於特定農業區農業用地及養殖漁業生產區範圍內設置,依據非都市土地使用管制規則(下稱管制規則)第6條附表1「各種使用地容許使用項目及許可使用細目表」之規定,於"
+  },
+  {
+   "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
    "snippet": "制規則第6條附表1申請容許設置「再生能源相關設施」,仍應依據農業發展條例第10條及變更要點第2點第4款規定,不得影響農業生產環境之完整性,且徵得直轄市、縣(市)"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

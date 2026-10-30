@@ -1,0 +1,64 @@
+{
+ "id": "itp-152c5179a6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931824804號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢關於國有土地承租戶，可否申請興建農舍案，復請查照。",
+ "content": "一、依據行政院農業委員會農糧署九十三年十月二十六日農糧企字第○九三一○七二○四五號函辦理，兼復 台端九十三年十月十九日申請書。 二、農舍起造人應為農舍坐落土地之所有權人，為「農業發展條例」第十八條第四項暨「農業用地興建農舍辦法」第三條第一項第五款所明定。 三、台端承租財政部國有財產局之土地，非屬土地之所有權人，依上項規定自不得申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931824804號|台端函詢關於國有土地承租戶可否申請興建農舍案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3544f9300b91f3dff90066326d3eaafd8a89fa151fe34e306dfa622c8d16a732",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "十九日申請書。 二、農舍起造人應為農舍坐落土地之所有權人,為「農業發展條例」第十八條第四項暨「農業用地興建農舍辦法」第三條第一項第五款所明定。 三、台端承租財政部國"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "為農舍坐落土地之所有權人,為「農業發展條例」第十八條第四項暨「農業用地興建農舍辦法」第三條第一項第五款所明定。 三、台端承租財政部國有財產局之土地,非屬土地之所有權人,依"
+  }
+ ]
+}

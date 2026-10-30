@@ -1,0 +1,61 @@
+{
+ "id": "itp-791adec007",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950135010號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢農業發展條例第8條之1規定無安全顧慮農業設施認定疑義案。",
+ "content": "主旨：有關台端函詢農業發展條例第8條之1規定無安全顧慮農業設施認定疑義案，復請查照。\n說明：\n一、復台端95年6月22日申請書。\n二、有關無安全顧慮農業設施之認定，本會於92年12月15日農授中字第0921070708號令頒有案，略以：「農業發展條例92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照。係符合下列情形之一者：一、供農作物、菇蕈、林木栽培或培養、育種、育苗使用之設施。二、供禽畜飼養或撫育、孵育使用之設施。三、供肥料、飼料、農機具、農產品或農業資材之存放場所。四、供水產養殖或繁殖生產使用之抽水機房、循環水設施及電力設施。五、農業事業廢棄物回收、處理、貯存設施。六、其他經建築師、土木技師或結構技師簽證之農業設施。」，合先敘明。\n三、對於民國92年1月13日農業發展條例修正施行前已興建有固定基礎之農業設施，面積在250平方公尺以下者，除應依上開令辦理外，查本會於95年6月7日農企字第0950130296號函說明略以：「．．．農業單位及建管單位配合辦理現場勘查等作業，．．．於執行該項作業，倘經相關單位本於職權審認仍需請申請人檢附『無安全顧慮』證明文件，仍得請申請人檢附以作為書圖文件審查之佐證。」故本案如經縣(市)政府審認需檢附「無安全顧慮」證明文件，仍請台端配合辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950135010號|有關台端函詢農業發展條例第8條之1規定無安全顧慮農業設施認定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e5ca2733993d42c967171cbbb76d49d2aac859f57500ab1daca8dcbe864e537f",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "有關台端函詢農業發展條例第8條之1規定無安全顧慮農業設施認定疑義案。\n主旨:有關台端函詢農業發展條例第8條之1規定"
+  }
+ ]
+}

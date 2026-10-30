@@ -1,0 +1,64 @@
+{
+ "id": "itp-18d0cbbf91",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971809048號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○、○○○等2人於農業發展條例修正施行前繼承取得共有農業用地，修正施行後辦理土地分割，維持共有關係之農業用地申請興建農舍等疑義案，復請查照。",
+ "content": "一、復 貴府97年5月25日府農務字第0970058584號致本會水土保持局函。 二、農業發展條例修正前之共有耕地，所有權人主張分割後之耕地仍維持部分共有者，其權屬狀態則轉為農業發展條例修正後之共有情形，內政部92年3月31日台內地字第0920005340號函釋有案如附件。 三、本案○○○、○○○等2人農業發展條例修正施行前取得共有農業用地，於97年4月辦理分割取得○○○、○○○地號等2筆土地，仍維持共有關係，依上開函釋，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。另依農業發展條例第18條第1項規定，申請興建農舍應在「無自用農舍」前題下始得申請，即土地所有權人只得申請興建一棟戶農舍。 四、至有關本會96年3月14日農授水保函送「共有農業用地申請興建農舍處理原則」態樣一處理原則一、「為符合產權單純化，修法前已取得之共有土地申請興建農舍者，應先要求辦理土地分割再申請興建農舍」，其意指係為「分割為單獨所有」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971809048號|○○○○○○等2人於農業發展條例修正施行前繼承取得共有農業用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "60f740c2ffc4262a0dbc8170dfc015e0d4925a28a5bdb50fb29ce1568102738d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "地號等2筆土地,仍維持共有關係,依上開函釋,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。另依農業發展條例第18條第1項規定,申請興建農舍應在「無自用農舍」"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。另依農業發展條例第18條第1項規定,申請興建農舍應在「無自用農舍」前題下始得申請,即土地所有權人只得申請"
+  }
+ ]
+}

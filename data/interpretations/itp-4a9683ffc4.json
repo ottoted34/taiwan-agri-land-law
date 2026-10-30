@@ -1,0 +1,58 @@
+{
+ "id": "itp-4a9683ffc4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849067號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關埔里鎮鎮民○○○於埔里鎮○○○地號（特定農業區農牧用地）受土地重劃，是否符合農業用地興建農舍辦法第3條第1項第3款規定疑義案，復請查照。",
+ "content": "一、復貴府96年9月10日府農務字第09601740370號函。\n二、依農村社區土地重劃條例規定，辦理農村社區土地重劃程序，原則上仍需經土地所有權人過半數，而其所有土地面積超過區內私有土地總面積半數之同意，始得優先辦理，故具所有權人自願辦理性質，又重劃後原所有權人仍可分配該重劃區內土地，且發還土地亦可變更為可建築用地，故因參與農村社區土地重劃致劃餘農地面積不足0.25公頃者，申請興建農舍，仍應符合「農業用地興建農舍辦法」第3條規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849067號|有關埔里鎮鎮民○○○於埔里鎮○○○地號特定農業區農牧用地受土"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1fffe1ac84ab695c197ac44228385df3d2c8bdfc4f4e8d5cee52d5742870b5cd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "於埔里鎮○○○地號(特定農業區農牧用地)受土地重劃,是否符合農業用地興建農舍辦法第3條第1項第3款規定疑義案,復請查照。\n一、復貴府96年9月10日府農務字第0960"
+  }
+ ]
+}

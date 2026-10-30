@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3493",
    "serial": null,
-   "fetched_at": "2026-10-30T10:03:34+08:00",
+   "fetched_at": "2026-10-30T11:30:46+08:00",
    "source_key": "rmis:3493"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041813119號|有關貴府函詢民眾辦理土地合併異動後由兩人共同申請興建農舍得否"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "3",
     "amended_on": "2015-09-04",
@@ -58,22 +64,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "函詢民眾辦理土地合併異動後,由兩人共同申請興建農舍,得否適用農業發展條例第18條第3項及農業用地興建農舍辦法第3條規定1案,請查照。\n一、復貴府104年7月1日"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "3",
    "kind": "extracted",
    "snippet": "由兩人共同申請興建農舍,得否適用農業發展條例第18條第3項及農業用地興建農舍辦法第3條規定1案,請查照。\n一、復貴府104年7月1日府農保字第1040124722號函"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "割為單獨所有,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。倘上開土地進行合併異動,即不屬前開規定所指之土地態樣,自不"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

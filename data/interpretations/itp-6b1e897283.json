@@ -1,0 +1,58 @@
+{
+ "id": "itp-6b1e897283",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961808797號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "共同持有持分農業用地，未達分割面積限制，得否以分配為三等分作為配合耕地參加集村興建農舍案，復請查照。",
+ "content": "1.復 貴府96年5月9日府農輔字第0960059605號致本會水土保持局函。\n2.有關共有農業用地申請興建農舍之處理原則，本會96年3月14日農授水保字第0961848173號函送 貴府有案（正本諒達）。\n3.該處理原則略以：「1.為符合產權單純化，修法前已取得之共有土地申請興建農舍者，應先要求辦理土分割再申請興建農舍。2.以共有土地持分部分申請興建農舍者，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內，農舍仍以整筆土地註記，日後共有土地辦理分割，未興建農舍之土地可要求取消註記。」。\n4.另共同持有持分之農業用地所有權人，得由共有人之一申請興建農舍，或由共有人共同申請興建農舍1戶，其申請人資格條件應符合「農業用地興建農舍辦法」第三條規定。\n5.本案請依上述原則辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961808797號|共同持有持分農業用地未達分割面積限制得否以分配為三等分作為配"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "53dc534a6a304a64f3e64e45f3ddb275a21c72d0ce78b3a12bc1f9e1d18b9a8f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "農舍,或由共有人共同申請興建農舍1戶,其申請人資格條件應符合「農業用地興建農舍辦法」第三條規定。\n5.本案請依上述原則辦理。"
+  }
+ ]
+}

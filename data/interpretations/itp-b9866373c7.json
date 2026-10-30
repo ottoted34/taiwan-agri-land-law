@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5301",
    "serial": null,
-   "fetched_at": "2026-10-30T10:07:04+08:00",
+   "fetched_at": "2026-10-30T11:34:16+08:00",
    "source_key": "rmis:5301"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030227099號|位於地下水補注地質敏感區之農業用地申請農業設施之容許使用是否"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,42 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "1010號令核釋,指訂有土地開發行為相關審查規定之法令,包含區域計畫法、都市計畫法、建築法、環境影響評估法、水土保持法及各目的事業法令。\n三、又經濟部"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "核釋,指訂有土地開發行為相關審查規定之法令,包含區域計畫法、都市計畫法、建築法、環境影響評估法、水土保持法及各目的事業法令。\n三、又經濟部再次來函並具"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地開發行為相關審查規定之法令,包含區域計畫法、都市計畫法、建築法、環境影響評估法、水土保持法及各目的事業法令。\n三、又經濟部再次來函並具體指出,"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之法令,包含區域計畫法、都市計畫法、建築法、環境影響評估法、水土保持法及各目的事業法令。\n三、又經濟部再次來函並具體指出,本會主管之「申請農業用地作農"
+  },
+  {
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "各目的事業法令。\n三、又經濟部再次來函並具體指出,本會主管之「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法),如具備上開所述二前提要件時,則須規定於送審之書圖文件中納入"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,60 @@
+{
+ "id": "itp-00f8572f1a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940168415號",
+ "date": "2005-12-15",
+ "date_text": "94年12月15日農企字第0940168415號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "035 釋已核發共有農業用地作農業使用證明書，他共有人如有必要應另行申請案",
+ "content": "查農業用地作農業使用證明書核發之目的，係為供憑以辦理農業用地移轉申請不課徵土地增值稅或免徵遺產稅、贈與稅。因此，於農業用地作農業使用證明書及其申請書均有註明「所有權人」及其「權利範圍」之欄位。換言之，該證明書之效力僅及於該證明書所載之「所有權人」及其持分之「權利範圍」部分。其他共有人，倘為辦理其持分部分農業用地之賦稅減免優惠，仍應另就其持分部分申請核發農業用地作農業使用證明書，始符規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940168415號|釋已核發共有農業用地作農業使用證明書他共有人如有必要應另行申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7f2f3ecba7195cc991b9d7f3ba3d69985fe7e68c2bd7597fcda1433cfe3ae0a4",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

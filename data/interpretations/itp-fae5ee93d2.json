@@ -1,0 +1,64 @@
+{
+ "id": "itp-fae5ee93d2",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第0931001784號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋都市計畫保護區、農業區內土地作農業產銷必要設施使用案，其申請及審查作業程序疑義",
+ "content": "一、查「農業用地容許作農業設施使用審查辦法」已於九十二年十二月二十五日由本會發布施行，同時公告廢止「台灣省都市計畫農業區農業產銷設施種類表」，不再沿用，以免發生競合。依上開辦法第二條規定，於都市計畫保護區、農業區內農業用地申請作農業產銷必要設施容許使用，悉依本辦法第五條規定向土地所在之直轄市、縣（市）政府提出申請，經農業單位會同相關單位審查合於規定者，由直轄市、縣（市）政府核發「農業用地容許作農業設施使用審查同意書」，供申請人申請建築執照等。\n二、至高雄縣政府建議都市計畫農業區、保護區農業用地申請作農業設施容許使用，可否依前開辦法第二十五條規定授權由鄉（鎮）公所辦理乙節，應由該府視當地情況定之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第0931001784號|釋都市計畫保護區農業區內土地作農業產銷必要設施使用案其申請及"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c2c7442832c3aa356d85753ffec119138fd5e522845645966c4ded1a2ecaebbd",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地作農業產銷必要設施使用案,其申請及審查作業程序疑義\n一、查「農業用地容許作農業設施使用審查辦法」已於九十二年十二月二十五日由本會發布施行,同時公告廢止「台灣省都市計畫農業區農業"
+  }
+ ]
+}

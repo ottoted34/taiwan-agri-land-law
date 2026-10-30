@@ -1,0 +1,73 @@
+{
+ "id": "itp-c73b7de891",
+ "doc_class": "interpretation",
+ "docno": "林政字第901601010號",
+ "date": "2001-01-31",
+ "date_text": "90/1/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "073 釋編定為林業用地之土地，種植箭竹，符合農業用地作農業使用案",
+ "content": "按箭竹雖非造林樹種，惟森林法第3條規定，森林係指林地及其群生竹、木之總稱。是以在編定為林業用地之私有土地種植箭竹，得視為林業使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4914",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:45+08:00",
+   "source_key": "rmis:4914"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:林政字第901601010號|釋編定為林業用地之土地種植箭竹符合農業用地作農業使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "000fed9fb00a0ca0b1bacf0928ab9f18d01460a4ef1d724b5483e957aff2c215",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

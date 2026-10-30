@@ -1,0 +1,64 @@
+{
+ "id": "itp-f196f5d6c7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931808215號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正公布生效日(89年1月28日)後取得都市計畫內農業區土地（包括繼承、贈與、買賣、拍賣等），申請人申請興建農舍時，其資格應符合「農業用地興建農舍辦法」第3條規定，復請查照。",
+ "content": "復台端93年4月13日申請書。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931808215號|農業發展條例修正公布生效日89年1月28日後取得都市計畫內農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "55ccea8339e62d0b4d2bdb7f47dcb69a56409a0c129eb128020bde78a758fbfc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正公布生效日(89年1月28日)後取得都市計畫內農業區土地(包括繼承、贈與、買"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "承、贈與、買賣、拍賣等),申請人申請興建農舍時,其資格應符合「農業用地興建農舍辦法」第3條規定,復請查照。\n復台端93年4月13日申請書。"
+  }
+ ]
+}

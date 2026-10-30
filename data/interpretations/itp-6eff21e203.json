@@ -1,0 +1,58 @@
+{
+ "id": "itp-6eff21e203",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060224656號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣函詢農民○○○申請四湖鄉○○○地號農舍陳情書一案，復如說明，請查照。",
+ "content": "一、復貴府106年6月27日府農務二字第1060039033號函。\n二、依據農業發展條例第18條規定，申請興建農舍之該筆農業用地應確供農業使用，且農舍應為該申請人所自用，爰申請興建農舍係就該申請人於該農業用地是否具實際從事農業生產使用之事實與需求予以審認。另查行政院農業委員會104年10月21日農水保字第1041866479號，興建農舍經營計畫書明列申請人姓名及土地座落位置，該計畫書內之既有農業經營現況及規模、產銷計畫…等內容，自應以該申請人及該筆農業用地之農作事實及未來規劃等事項予以填報敘明。\n三、有關農民申請參加調整耕作制度活化農地計畫轉（契）作領取相關補貼，係基於實質上之認定，以符合轉（契）作或休耕認定基準之相關規定為要件，惟如有相關文件或事實呈現，實際從事農業經營者非為該申請人或檢具文件非屬該筆申請農業用地時，自不符合該辦法之規定。\n四、農業用地申請興建農舍之個案審查係屬直轄市、縣(市)政府權責，建議得依審查需要，參酌個案情形請申請人提出更多佐證資料，亦得由貴府邀請相關單位組成審查小組依事實審認，並配合現地查證及抽檢所提文件是否屬實，並參酌個案農業用地經營狀況，就個案事實審酌核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060224656號|有關貴縣函詢農民○○○申請四湖鄉○○○地號農舍陳情書一案復如"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2ba40c1320533d4e4e3f3bd2149a069c3b8eafb7ca5b7b6aff459809a5918e14",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "年6月27日府農務二字第1060039033號函。\n二、依據農業發展條例第18條規定,申請興建農舍之該筆農業用地應確供農業使用,且農舍應為該申請人所自用,爰申請"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-5eaf60946e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848543號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業區土地經公告實施「變更民雄都市計畫（第三次通盤檢討）」，致使土地使用分區為部分農業區及部分道路，其申請興建農舍案，復請查照。",
+ "content": "1.復 貴府96年5月30日府農務字第0960080168號函。\n2.案經轉准內政部營建署96年7月6日營署中城字第0960094482號函略以：「查都市計畫法臺灣省施行細則第29條規定略以：『農業區為保持農業生產而劃定，除保持農業生產外，僅得申請興建農舍……二、農舍之高度不得超過四層或十四公尺，建築面積不得超過申請興建農舍之該宗農業用地面積百分之十，建築總樓地板面積不得超六百六十平方公尺，與都市計畫道路境界之距離，除合法農舍申請立體增建外，不得小於八公尺。』是以，本案申請興建農舍仍須符合上開規定。另道路用地部分，依都市計畫法第51條規定應不得妨礙其指定目的（道路）之使用。」故本案得以扣除道路用地後之土地面積申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848543號|有關農業區土地經公告實施變更民雄都市計畫第三次通盤檢討致使土"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e098eba3c8cefbe5eee75efd4817227bf1c4c8c4b573303251cecb4dd75fddf6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "51",
+   "kind": "extracted",
+   "snippet": "』是以,本案申請興建農舍仍須符合上開規定。另道路用地部分,依都市計畫法第51條規定應不得妨礙其指定目的(道路)之使用。」故本案得以扣除道路用地後之土地面積申請"
+  }
+ ]
+}

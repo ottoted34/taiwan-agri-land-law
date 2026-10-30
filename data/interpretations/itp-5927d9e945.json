@@ -1,0 +1,58 @@
+{
+ "id": "itp-5927d9e945",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041865174號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端致行政院院長、立法院院長及行政院農業委員會主任委員陳情書所提「堅持農舍限建規定」事宜，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下行政院103年12月30日院臺農移字第1030077686號函辦理。\n二、本案因台端僑居美國，考量辦理時效，前於104年1月15日以電子郵件信箱回覆台端，惟多次寄送均無法送達，爰改以紙本再行通知台端，本局回覆內容如下：\n（一）農地保護是全球趨勢，且農地具有生產、生態等多功能價值，我國對於農地使用非常重視，因此對於優良農地應予以高強度保護，貫徹農地農用政策。\n（二）農業用地興建農舍辦法自90年施行以来，因時空背景不同、社會經濟條件變遷、農業經營環境與農村發展需求更替，導致農舍發展現況影響農業生產環境與影響農村發展及未能落實農舍原有政策目標。有鑑於此，內政部與農委會於102年7月已完成農業用地興建農舍辦法之修法，增訂農舍興建資格要件及定期檢查與處理機制，以加強管理農舍，並通函各直轄市、縣(市)政府落實執行本辦法規定，盼能導正農業用地興建農舍之亂象。\n（三）感謝台端關心農地興建農舍問題，未來農委會仍將與內政部持續檢討農舍興建法令，以落實農地農用政策。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041865174號|有關台端致行政院院長立法院院長及行政院農業委員會主任委員陳情"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "64f68eb06fa25686cff3f7b647393d4cb1e860a9b815538fab1bcaf47938db42",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "因此對於優良農地應予以高強度保護,貫徹農地農用政策。\n(二)農業用地興建農舍辦法自90年施行以来,因時空背景不同、社會經濟條件變遷、農業經營環境與農村發展需求更"
+  }
+ ]
+}

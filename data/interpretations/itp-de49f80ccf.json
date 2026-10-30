@@ -1,0 +1,58 @@
+{
+ "id": "itp-de49f80ccf",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842702號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍，建築基地以小塊農地分隔為2 區，僅以道路相連接，是否符合農業用地興建農舍辦法第8條第1 項第4款規定案，復請查照。",
+ "content": "一、復 貴府98年5月18日府建農字第09814009040 號函。\n二、「農業用興建農舍辦法」第8條第l項第1款規定：「20 戶以上之農民為起造人，共同在一宗或數宗相毗連之農業用地整體規劃興建農舍。各起造人持有之農業用地，應位於同一鄉(鎮、市、區)或毗鄰之鄉(鎮、市、區) 。……。」 ，又同條同項第4款規定：「……，其範圍內之土地為全部農舍之建築基地，並應完整連接，不得零散分布。」又同辦法第6條第3款規定：「申請興建農舍之該宗農業用地，扣除興建農舍士地面積後，供農業生產使用部分應為完整區塊，且其面積不得小於該宗農業用地面積90%。……」，合先敘明。\n三、上開辦法第8條第1項第4款規定，集村農舍之基層建築面積應完整連接，不得零散分布之意旨，亦即計算參與集村興建農舍之總建築基地應完整連接不得零散分布，則無所謂農舍間會有夾雜維持10分之9作農業使用之農地情形，另建築基地內之農舍配置自需與應設置之公共設施整體考量規劃\n四、依本案案附之地籍套繪圖，供農業生產之農業用地分散於農舍建築基地之前及中間，似有違應為完整區塊，可供農業生產使用意涵。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842702號|有關集村興建農舍建築基地以小塊農地分隔為2區僅以道路相連接是"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5c3430c93a1a4f06b0ea2665b2c34b1c9dc04ba8021fee7e016e5e8ee1805dc7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "舍,建築基地以小塊農地分隔為2 區,僅以道路相連接,是否符合農業用地興建農舍辦法第8條第1 項第4款規定案,復請查照。\n一、復 貴府98年5月18日府建農字第0981"
+  }
+ ]
+}

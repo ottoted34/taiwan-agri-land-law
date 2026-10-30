@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3974",
    "serial": null,
-   "fetched_at": "2026-10-30T10:02:46+08:00",
+   "fetched_at": "2026-10-30T11:29:58+08:00",
    "source_key": "rmis:3974"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:中市農地字第1040030951號|有關○○○申請坐落於本市神岡區○○○地號農業用地興建自用農舍"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "3216c83778f23fc21e8ee2fabed4c60fb7ee0af8e298fafd5f9c336a0a7772ad",
  "topics": [
@@ -39,16 +55,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": "○104年9月7日申請書辦理。\n二、查104年9月4日修訂之農業用地興建農舍辦法第2條第2項:「前項第五款規定確供農業使用與不影響農業生產環境及農村發展之認定,由申請"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

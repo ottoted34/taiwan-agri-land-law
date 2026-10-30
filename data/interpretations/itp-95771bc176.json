@@ -1,0 +1,58 @@
+{
+ "id": "itp-95771bc176",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040720123號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為台端104年6月9日致行政院長民意專線電話有關農業用地興建農舍辦法修法案，請查照。",
+ "content": "一、依據行政院104年6月23日院臺農移字第1040137285號移文單辦理。\n二、為導正農地農舍炒作亂象，本會推動修正農業用地興建農舍辦法，落實農地農用政策及維護農業生產環境之一貫立場不變，針對各界意見，將適時溝通，持續推動修法作業，感謝您對修法之支持與農地農舍之關心。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040720123號|為台端104年6月9日致行政院長民意專線電話有關農業用地興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3bd55cb853bbdc7bb675c9cb8dfcd396091b81235c4b5779f27ca7a4100692b4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "為台端104年6月9日致行政院長民意專線電話有關農業用地興建農舍辦法修法案,請查照。\n一、依據行政院104年6月23日院臺農移字第104013728"
+  }
+ ]
+}

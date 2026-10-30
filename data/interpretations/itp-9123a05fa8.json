@@ -1,0 +1,64 @@
+{
+ "id": "itp-9123a05fa8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960156322號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於在農業發展條例修正施行前取得之農業用地，於修正施行後經贈與登記再回贈原贈與人，得否依同條例第18條第3項規定申請興建農舍案，復請查照。",
+ "content": "1.復 貴公司96年10月5日申請書。\n2.「土地法」第43條明示，依本法所為之登記，所絕對效力; 故「土地取得」之認定時點，應以土地登記機關登記之時點為基準，合先說明。\n3.於農業發展條例修正施行生效日(89年1月28日)後經贈與登記後再回贈原贈與人，其土地取得登記時點已在條例修正公布生效日後，申請興建農舍應受「農業用地興建農舍辦法」第3條，需有最低面積、土地取得應滿2年……等等規定之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960156322號|關於在農業發展條例修正施行前取得之農業用地於修正施行後經贈與"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "86917ed9bd39a6e9c8f6fa27fc46c562477f1a3726cdefef6755909b8639cec9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "關於在農業發展條例修正施行前取得之農業用地,於修正施行後經贈與登記再回贈原贈與人,得否依同條例第1"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "其土地取得登記時點已在條例修正公布生效日後,申請興建農舍應受「農業用地興建農舍辦法」第3條,需有最低面積、土地取得應滿2年......等等規定之限制。"
+  }
+ ]
+}

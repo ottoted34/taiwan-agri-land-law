@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3317",
    "serial": null,
-   "fetched_at": "2026-10-30T10:11:18+08:00",
+   "fetched_at": "2026-10-30T11:38:21+08:00",
    "source_key": "rmis:3317"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1022922929號|有關貴縣縣民○○○等20人於蘆竹鄉○○○地號等24筆都市計畫"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "16",
     "amended_on": "2015-09-04",
@@ -49,7 +55,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "8",
     "amended_on": "2015-09-04",
@@ -67,28 +73,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "16",
    "kind": "extracted",
    "snippet": "10月24日府農管字第1020263279號函辦理。\n二、依農業用地興建農舍辦法第16條規定:「中華民國101年12月14日前取得直轄市、縣(市)主管機關或其他主管機關"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "8",
    "kind": "extracted",
    "snippet": "各單位於期限內回復並無其他意見」及「行政院農業委員會函釋得依農業用地興建農舍辦法第8條規定辦理」,其中涉及貴府函請行政院農業委員會解釋部分係「都市計畫保護區範圍土地做"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "市計畫保護區範圍土地做為集村興建農舍基地建蔽率」疑義,因涉及都市計畫法及集村興建農舍相關規定,經農委會函轉本署處理,基於都市計畫保護區為國土保安、水土"
+  },
+  {
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "7條相關規定,並請農委會釐清都市計畫保護區申請興建集村農舍與農業發展條例第18條之關係,為求審慎復由本部於101年12月11日召開研商會議,並由本署(中部辦公室"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

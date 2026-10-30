@@ -1,0 +1,99 @@
+{
+ "id": "itp-57e6e727e4",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950111395號",
+ "date": "2006-03-08",
+ "date_text": "95年3月8日農企字第0950111395號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "025釋跨越都市計畫住宅區與農業區申請農業設施容許使用疑義案",
+ "content": "依「農業用地容許作農業設施使用審查辦法」第1條第4款規定，本辦法之適用範圍為依都市計畫法劃定為農業區、保護區內之土地，然本案申請之農作產銷設施農業資材室及溫室，其設施同時座落於都市計畫住宅區及農業區範圍內，涉及都市計畫住宅區得否申請興建農作產銷設施(農業資材室、溫室)一節，依內政部營建署函復意見略以：「查都市計畫住宅區之使用管制，都市計畫法臺灣省施行細則第15條業有明定，農作產銷設施(溫室、農業資材)依上開條文尚無明文禁止，惟如有涉及農業資材之販售，應依上開條文第1項第9款規定辦理，．．．又本案申請基地跨越住宅區及農業區，可否合併使用一節，請參照本署92年10月23日營署建管字第0922916883號函釋辦理。」本案請貴府查明農業用地容許作農業設施使用審查辦法、都市計畫法臺灣省施行細則及所在都市計畫書規定，本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950111395號|釋跨越都市計畫住宅區與農業區申請農業設施容許使用疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "1",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "1",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d115032599444e35237d4b882d4eaf2c942779b1617e1182863b5afd805b5c30",
+ "topics": [
+  "material_room",
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "1",
+   "kind": "extracted",
+   "snippet": "5釋跨越都市計畫住宅區與農業區申請農業設施容許使用疑義案\n依「農業用地容許作農業設施使用審查辦法」第1條第4款規定,本辦法之適用範圍為依都市計畫法劃定為農業區、保護區內之土地,然本案申"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業設施使用審查辦法」第1條第4款規定,本辦法之適用範圍為依都市計畫法劃定為農業區、保護區內之土地,然本案申請之農作產銷設施農業資材室及溫室,其設施同"
+  }
+ ]
+}

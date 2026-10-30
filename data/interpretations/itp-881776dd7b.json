@@ -1,0 +1,64 @@
+{
+ "id": "itp-881776dd7b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1020728525號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局函為核發無自用農舍證明業務疑義案，復請查照。",
+ "content": "1.復行政院農業委員會交下貴局102年9月9日中市都建字第1020145900號函。\n2.有關「農業用地興建農舍辦法」第2條第1項各款申請人資格條件之審查，申請人需檢具1、稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。2、申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。3、申請人切結無自用農舍等文件，俾以審查申請人是否無自用農舍。另若申請人房屋財產歸戶查詢清單內之農業用地上現況有建物坐落情形者，則須查核其合法性及類態，以資審認是否確無農舍，至前述所稱農業用地，農業發展條例施行細則第2條已明定其法律依據及範圍，如非屬農業用地範圍者，自無須審查是否有建物坐落。\n3.農舍興建之審查及核定為直轄市、縣市政府權責，貴局如對法令執行有疑義者，應敘明及分析事由，再轉本局研處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1020728525號|有關貴局函為核發無自用農舍證明業務疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e9a40ceff99452a2e791251362cb06778f4a643d1c2a00c21c4df217d9090349",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "2年9月9日中市都建字第1020145900號函。\n2.有關「農業用地興建農舍辦法」第2條第1項各款申請人資格條件之審查,申請人需檢具1、稅捐稽徵單位開具申請人之房屋財產"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "核其合法性及類態,以資審認是否確無農舍,至前述所稱農業用地,農業發展條例施行細則第2條已明定其法律依據及範圍,如非屬農業用地範圍者,自無須審查是否有建物坐落。\n3.農"
+  }
+ ]
+}

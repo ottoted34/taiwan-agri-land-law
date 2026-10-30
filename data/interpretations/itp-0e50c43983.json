@@ -1,0 +1,59 @@
+{
+ "id": "itp-0e50c43983",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980175652號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修法前取得之農業用地，修法後贈與其子，後因法院判決撤銷是項贈與，並經地政機關以「回復所有權」方式登記返還贈與人，該贈與人若需興建農舍，其農地取得時點認定疑義案，復請查照。",
+ "content": "1.依據內政部98年11月26日內授中辦地字第0980726054號函辦理，兼復 台端98年10月22日申請書。 2.上開內政部函示略以「按民法第114條第1項規定：『法律行為經撤銷者，視為自始無效。』所謂自始無效，指溯及地不發生預期的法律行為效力。此項『視為自始無效』，亦屬絕對無效，但法律為維護交易安全，設有例外，即撤銷被詐欺的意思表示，其撤銷不得對抗善意第三人（相對無效，第92條第2項）。撤銷的效力具溯及效力，乃一般原則。但法律有特別規定者，依其規定（王澤鑑著「民法總則」第532頁參照）。本件○○○陳稱贈與人原有農地係於農業發展條例89年修法前取得，嗣雖於該條例修法後贈與其子，惟後因法院判決撤銷贈與，並經地政機關據以辦理回復所有權登記予贈與人，本部以為參依上開民法規定，該農地取得之時點似應溯自贈與人原取得農地之時點……」。 3.因台端未檢具相關資料無法判定，請檢具土地登記謄本等相關資料送縣（市）政府視個案事實認定，如經審認確實如旨揭所述者，其農地取得時點應屬修法前，贈與人申請興建農舍得依修法前規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980175652號|農業發展條例修法前取得之農業用地修法後贈與其子後因法院判決撤"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "aa1b74e5b1136a54f2b85d0f3aa2da8385cc0abfb572fe8cfec394ae02dad0e7",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修法前取得之農業用地,修法後贈與其子,後因法院判決撤銷是項贈與,並經地政機關以「"
+  }
+ ]
+}

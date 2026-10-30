@@ -1,0 +1,59 @@
+{
+ "id": "itp-fc6db5b5e8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931849124號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所函詢關於辦理農舍變更使用執照及調整基地地號及面積疑義案，復請查照。",
+ "content": "一、復 貴事務所93年11月23日93112301號函。\n二、依農業發展條例第18條規定之意旨，於自有農業用地興建農舍者，係以土地所有權人單獨所有之一宗農業用地，為計算興建農舍面積之標準（一宗農業用地之90%仍應作農業經營使用），故相鄰之農業用地應先合併為一宗，而不相鄰之農業用地無法合計申請興建農舍及供作90%之經營使用面積。\n三、至於如何辦理變更農舍使用執照疑義，請逕洽內政部。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931849124號|貴事務所函詢關於辦理農舍變更使用執照及調整基地地號及面積疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6e3625eb48612cb767fd60d22f7d78cfef54200f62e991c03d4d3f4fbe1ccba8",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "復 貴事務所93年11月23日93112301號函。\n二、依農業發展條例第18條規定之意旨,於自有農業用地興建農舍者,係以土地所有權人單獨所有之一宗農業用地,為"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "itp-bf01a83ace",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980161981號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴轄六龜鄉莫拉克颱風受災鄉民○○○，陳情放寬農業用地興建農舍其土地取得及戶籍登記均應滿2年期限案，請查照。",
+ "content": "1.依據 貴府98年9月29日府建管字第0980237834號函辦理。 2.按農舍定位在與農業經營不可分離之建物，其性質係為便利農業經營，始附帶提供居住功能，而非以住宅興建為考量，故不論個別農舍或集村興建農舍，仍需農地所有權人因農業使用需要而提出申請興建。 3.至○○○陳情災後需建築自用住宅，以安置家人乙節，查內政部對莫拉克颱風災災民之居住問題，已訂有中、長期安置照顧、重建（購）住宅及修繕住宅貸款利息補貼……等項措施，○○○得循此管道請求相關單位協助。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980161981號|貴轄六龜鄉莫拉克颱風受災鄉民○○○陳情放寬農業用地興建農舍其"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "723269eee9f08db6ae5c2189c82655df65f473bfabc2fe8f8ebeaaf9ca79b38f",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

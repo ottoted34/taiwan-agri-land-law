@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5886",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:46+08:00",
+   "fetched_at": "2026-10-30T11:17:58+08:00",
    "source_key": "rmis:5886"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1110229755號|農舍所有權移轉登記疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,28 +45,36 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "實已興建農舍後其他90%之農業用地仍供積極農業生產使用,有違農發條例第18條第4項規定之立法意旨,爰規範農舍應與其坐落用地併同移轉,以確保足供積極農業生產使"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "農舍所坐落之該筆農業用地及其配合耕地。惟倘該農舍坐落用地非屬農發條例第3條第1項第10款所稱之農業用地,則無上開規定之適用,先予敘明。\n三、按農業用地興建"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "10款所稱之農業用地,則無上開規定之適用,先予敘明。\n三、按農業用地興建農舍辦法(以下簡稱農舍辦法)第12條第2項及第3項規定:「(第2項)已申請興建農舍之農業"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "其管理,以及與農舍辦法規定之套繪及註記如何連結,且本案又涉及都市計畫法相關規定,故本案建請貴府逕洽內政部,就上述疑義先予釐清。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,65 @@
+{
+ "id": "itp-298a38394b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0991833651號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢農舍核發補助款後，發生未符合農舍目的使用或其他違規行為，其獎補助金是否應要求返還及返還依據案，復請查照。",
+ "content": "1.復貴府99年11月29日屏府水保字第0990291388號函。\n2.依據「集村興建農舍獎勵及協助辦法」有關獎勵補助之核發規定，凡為集村興建農舍，其符合該辦法規定者，均得申請，其補助之項目為集村興建農舍之「附屬公共設施」及「建物外觀」，且該辦法亦無補助款繳回之相關規定。\n3.如貴府曾以行政處分之「附款」或「行政契約」等方式將「農舍合法使用或無違規行為」列為核發補助金之條件，申請人如未遵守，自得撤銷補助資格並追繳補助金。\n4.另有關集村興建農舍未滿5年即行移轉之行為，已違反農業發展條例第18條第2項規定，對此違規行為後續應如何處理，因涉土地及建物登記事宜，請逕向內政部洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0991833651號|有關貴府函詢農舍核發補助款後發生未符合農舍目的使用或其他違規"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e46ee52750871323cbebefc38b5aa17a808b66522799bf325c92daf06322ce6e",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "11月29日屏府水保字第0990291388號函。\n2.依據「集村興建農舍獎勵及協助辦法」有關獎勵補助之核發規定,凡為集村興建農舍,其符合該辦法規定者,均得申請,其補助之"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "助金。\n4.另有關集村興建農舍未滿5年即行移轉之行為,已違反農業發展條例第18條第2項規定,對此違規行為後續應如何處理,因涉土地及建物登記事宜,請逕向內政部洽詢"
+  }
+ ]
+}

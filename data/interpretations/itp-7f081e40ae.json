@@ -1,0 +1,64 @@
+{
+ "id": "itp-7f081e40ae",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1051826623號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "請問現在農地是否可以蓋農舍。",
+ "content": "一、農舍係供直接從事農業生產之農民為輔助農業生產經營所需而興建，爰農業發展條例第18條及農業用地興建農舍辦法第2條與第3條規定，農舍申請人應為農民，而農民之認定則由直轄市、縣(市)主管機關依前開辦法第3條之1規定審認。\n二、另，並非農業用地所有權人即得申請興建農舍，倘申請人無農業生產事實與需求者，並不符上開農舍申請人之規定，縱農地係經繼承取得者亦同。有關上開條例及辦法規定，台端可於全國法規資料（http://law.moj.gov.tw/Index.aspx)查詢參閱。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1051826623號|請問現在農地是否可以蓋農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dc1439b3cdeedb3e9a395fb47de12bd02e0706321b4f65d96698325d98a0226f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "舍係供直接從事農業生產之農民為輔助農業生產經營所需而興建,爰農業發展條例第18條及農業用地興建農舍辦法第2條與第3條規定,農舍申請人應為農民,而農民之認定則由直"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "之農民為輔助農業生產經營所需而興建,爰農業發展條例第18條及農業用地興建農舍辦法第2條與第3條規定,農舍申請人應為農民,而農民之認定則由直轄市、縣(市)主管機關依前開"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "itp-14bcfc95d2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060726987號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○申請貴市龍潭區○○○地號土地申請興建農舍一案，復如說明，請查照。",
+ "content": "一、復貴府106年9月21日府農管字第1060226826號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，並於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍。爰農業用地上應有農業經營生產之事實，且應積極從事具經濟性之農業生產使用，倘其現況為天然植生林或雜林，是否有農業經營之事實及興建農舍之需求不無疑義。\n三、另有關本案是否符合都市計畫發布實施前原有供農作、養殖、畜牧生產且未停止其使用之認定一節，因都市計畫法台灣省施行細則係內政部之權管法令，請貴府洽內政部以資明確。\n四、農舍個案審查係直轄市、縣(市)政府權責，請貴府就個案事實本權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060726987號|有關○○○申請貴市龍潭區○○○地號土地申請興建農舍一案復如說"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "370b9ccda7a13a6f99232b751cce82bd8a131db3d6c7af4087a7984d8acfe75d",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "實施前原有供農作、養殖、畜牧生產且未停止其使用之認定一節,因都市計畫法台灣省施行細則係內政部之權管法令,請貴府洽內政部以資明確。\n四、農舍個案審查係直"
+  }
+ ]
+}

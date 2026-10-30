@@ -1,0 +1,65 @@
+{
+ "id": "itp-355eaa718b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080711108號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例89年1月4日修正前取得之農業用地，經分割、界址調整後，申請興建農舍之資格審查疑義案，復如說明，請查照。",
+ "content": "\"一、復貴府108年4月12日府農輔字第1084000501號函。\n二、本會102年10月25日農水保字第1021866046號令核釋，有關「農業發展條例」(以下簡稱本條例)第18條所稱取得農業用地，應以土地登記簿所有權部認定之，其取得時點以登記日期為基準，但依民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，則係以原因發生日期認定，先予敘明。\n三、按本條例第18條第3項後段規定，本條例89年1月4日修正施行前之共有耕地，於修正施行後分割為單獨所有者，且無自用農舍而需興建者，亦得依相關土地使用管制及建築法令規定，申請興建農舍。即依土地取得時點認定為修法後取得之農業用地，倘有本條例第18條第3項後段規定之情形，仍得依修法前之規定申請興建農舍。\n四、本案土地為修法前之共有耕地，並於修法後分割為單獨所有，倘日後再辦理產權變動，並異動土地所有權部登記日期者，則無本條例第18條第3項後段規定之適用。至辦理土地界址調整是否發生土地所有權部登記日期及登記原因之變動，事涉土地登記實務，建請洽詢貴府地政單位。\"",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1080711108號|有關農業發展條例89年1月4日修正前取得之農業用地經分割界址"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1e0e7ccc915cbf578dc692f70e5550a46d4c1ab10f3401468e983a9e6190a167",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例89年1月4日修正前取得之農業用地,經分割、界址調整後,申請興建農舍之資格審查疑"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "單獨所有者,且無自用農舍而需興建者,亦得依相關土地使用管制及建築法令規定,申請興建農舍。即依土地取得時點認定為修法後取得之農業用地,倘有本條例第1"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": "tech-31f9b405c0c3",
+ "source_key": "datamoa:B84:67edd3c8b827dcb4",
+ "title": "農業專訊 70",
+ "series": "農業專訊",
+ "issue": "70",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": "2009-12",
+ "url": "https://www.ttdares.gov.tw/ws.php?id=1403",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B84",
+  "title": "臺東區農業改良場農業專訊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B84"
+ },
+ "raw": {
+  "期別": "70",
+  "出刊時間": "200912",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=1403"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B84",
+   "fetched_at": "2026-10-30T11:58:05+08:00"
+  }
+ ],
+ "content_hash": "b4f738a7b1347033bd30b6ace8afb6f4a04e0c155d7215ef82cd71f597f1ae9d",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-8da261ed23",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991810068號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「無自用農舍證明申請」機關是否至現場會勘案，復請查照。",
+ "content": "1.復 貴所99年4月14日信鄉建字第0990006998號函。\n2.依據本會95年1月10日農授水保字第0951850703號函說明三：「另有關無自用農舍之認定，依現行程序，申請人係需檢具全國財產總歸戶查詢清單、清單所列房屋之使用執照影本、及無自用農舍切結書等資料供縣市政府相關單位查核，必要時並得實地查證，如無現有農舍，始可認定為無自用農舍。...」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991810068號|有關無自用農舍證明申請機關是否至現場會勘案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "10e70e446b47871b20bd8d8e4e1ee83487386e143e3a00a7547696e3d8b8ee56",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

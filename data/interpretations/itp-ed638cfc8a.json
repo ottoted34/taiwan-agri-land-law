@@ -1,0 +1,58 @@
+{
+ "id": "itp-ed638cfc8a",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0951850909號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端陳情為本會92年8月7日研商「農業用地興建農舍辦法」有關集村興建農舍執行疑義案第2次會議紀錄柒、討論提案：第4案決議疑義案，復請查照。",
+ "content": "一、復 台端95年2月16日陳情書。\n二、有關集村興建農舍執行疑義第2次會議，係就第1次會議中未達成共識之議題1、2、6、9，列入第2次會議議程為案由1至案由3中再予討論，並經會議決議修正通過。另因該會議紀錄未有與會單位提出異議，故嗣後對集村興建農舍之執行，皆依據該原則辦理，應無陳情意見四所述疑義。\n三、針對集村興建農舍之建築面積比例與計算疑義，本會業於94年12月5日召開會議研商討論，並決議：「……請加強宣導集村興建農舍相關法規及92年8月7日召開研商『農業用地興建農舍辦法』有關集村興建農舍執行疑義及研商結論」在案。另內政部營建署亦於95年2月17日以營署綜字第0950007564號函復雲林縣政府有案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0951850909號|台端陳情為本會92年8月7日研商農業用地興建農舍辦法有關集村"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f5302d5634d4ee1ab8ae2a268eff57cdcbbf718e7e8552c0a69d59569af438ec",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台端陳情為本會92年8月7日研商「農業用地興建農舍辦法」有關集村興建農舍執行疑義案第2次會議紀錄柒、討論提案:第4案決議疑義案,復請查照"
+  }
+ ]
+}

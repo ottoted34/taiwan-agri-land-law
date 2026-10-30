@@ -1,0 +1,58 @@
+{
+ "id": "itp-25201ddad5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991874934號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端致桃園縣政府陳請有關農地及農舍分割相關問題一案，復如說明，請查照。",
+ "content": "1.依據本會99年4月1日農企字第0990119768號函辦理。\n2.有關農地分割疑義，本會已於上開函釋在案(正本諒達)，另有關農地上興建農舍之分割問題，查農業發展條例第18條第4項：「...農舍應與其坐落用地併同移轉或併同設定抵押權...」，僅對農舍移轉予以規定，與農舍分割無涉。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991874934號|台端致桃園縣政府陳請有關農地及農舍分割相關問題一案復如說明請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fa15a6b5150830b5933021f32dd8dd47c4d039533bdc4861fdfc144510052e67",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "上開函釋在案(正本諒達),另有關農地上興建農舍之分割問題,查農業發展條例第18條第4項:「...農舍應與其坐落用地併同移轉或併同設定抵押權...」,僅對農舍移轉"
+  }
+ ]
+}

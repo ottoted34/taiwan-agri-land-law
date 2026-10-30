@@ -1,0 +1,58 @@
+{
+ "id": "itp-dc1aaeee1c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041813803號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "請問農舍移轉限制。",
+ "content": "一、如屬農業發展條例89年1月28日修正生效前取得之農業用地所興建之農舍，其移轉不受5年之限制。\n二、如屬農業發展條例89年1月28日修正生效後取得之農業用地所興建之農舍，其應滿5年始得移轉，並以取得使用執照起算。\n三、感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041813803號|請問農舍移轉限制"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d065a5accd09aed74acc6b4e6073fb110cd61ab7ca2f72eecd9660cd2170f670",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請問農舍移轉限制。\n一、如屬農業發展條例89年1月28日修正生效前取得之農業用地所興建之農舍,其移轉不受5年之限制。\n二"
+  }
+ ]
+}

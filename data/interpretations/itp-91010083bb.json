@@ -1,0 +1,76 @@
+{
+ "id": "itp-91010083bb",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920177652號",
+ "date": "2004-01-08",
+ "date_text": "93年1月8日農企字第0920177652號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "057 釋農業設施供釀酒等營利事業登記或農舍供家庭理髮使用，不符合作農業使用之認定案",
+ "content": "查農業用地作農業使用認定及核發證明辦法第六條明訂「農業設施或農舍有下列各款情形之一者，不得認定為作農業使用：一、農業設施或農舍之興建面積，超過核准使用面積或未依核定用途使用者……」本案既經稅捐稽徵機關舉證，該筆農業用地於申請農業用地作農業使用證明書時，原核准興建之農舍業有設籍營業之事實，符合前開「不得認定為作農業使用」之規定，宜撤銷原處分。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920177652號|釋農業設施供釀酒等營利事業登記或農舍供家庭理髮使用不符合作農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "6",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "54563dccdb64f920d9a8199d13beaf3e9612b44efc9b671636706b66697c7703",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "利事業登記或農舍供家庭理髮使用,不符合作農業使用之認定案\n查農業用地作農業使用認定及核發證明辦法第六條明訂「農業設施或農舍有下列各款情形之一者,不得認定為作農業使用:一、農業設施或農"
+  }
+ ]
+}

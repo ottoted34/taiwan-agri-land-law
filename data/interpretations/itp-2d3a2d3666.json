@@ -1,0 +1,58 @@
+{
+ "id": "itp-2d3a2d3666",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0920152944號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端依農業發展例相關法規及本會九十年十二月四日（九○）農輔字第九○○一六五○三一號函以共同持有持分之農業用地申請集村興建農舍疑義申請釋案，復請查照。",
+ "content": "一、依行政院秘書處九十二年九月三日院臺農字第○九一○○四七八六三-A號文單交下台端九十二年八月二十五日陳行政院游院長陳情書辦理。 二、本會九十二年九月二十二日邀請內政部建署、內政部地政司及相關縣（市）政府召開研商「共同持有持分之農業用地申請集村興建農舍案件應如何處理及集村農舍滿五年買賣移轉等相關事宜」會議，對台端所提依農業發展條例相關法規及本會九十年十二月四日（九○）農輔字第九○○一六五○三一號函申請集村興建農舍應如何處理乙節，業經與會單位代表充分討論已獲致結論，詳會議紀錄如附件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0920152944號|台端依農業發展例相關法規及本會九十年十二月四日九○農輔字第九"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4fe3cb91fb70c95c883db9fbc93db166ebd16a6a8d2f92115f399e85bc08ebef",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "何處理及集村農舍滿五年買賣移轉等相關事宜」會議,對台端所提依農業發展條例相關法規及本會九十年十二月四日(九○)農輔字第九○○一六五○三一號函申請集村興建"
+  }
+ ]
+}

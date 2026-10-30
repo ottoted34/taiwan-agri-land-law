@@ -1,0 +1,53 @@
+{
+ "id": "itp-b998d873cc",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1071855633號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍之建築物涉違規問題，可否於其違規建築物屋頂上增設太陽能光電發電設備一案，請查照。",
+ "content": "一、依據立法委員蘇○○於106年12月28日質詢農舍屋頂增設太陽能光電問題暨本會107年2月12日農企字第1070012253號函辦理。\n二、本會立場，農舍興建完成後著重於90％農業經營用地有無作農業使用，且應確保農舍係為農業經營所需而興建，並保持應有之農業使用面積。因此10％農舍用地面積既已得為申請人興建農舍及其附屬設施，在不改變原有農舍主要使用目的及不影響90％農業生產環境之前提下，有關農舍建築物架設太陽能光電發電設備，以配合國家推動能源政策，本會無意見。\n三、查設置太陽能光電發電設備係依再生能源發展條例相關法規辦理，其主管機關在中央為經濟部，又農舍之建築管理係屬內政部權責。有關農舍建築物涉違規問題，可否於其違規建築物屋頂上增設太陽能光電發電設備?請惠示卓見，另所涉相關規定及處理原則亦請一併提供參考。\n四、另倘農舍之建築物屋頂上增設太陽能光電發電設施，查貴部訂有「設置再生能源設施免請領雜項執照標準」，其是否仍受農舍建築物高度規範限制？請貴部惠示卓見並提供相關規定俾供參考。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1071855633號|有關農舍之建築物涉違規問題可否於其違規建築物屋頂上增設太陽能"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dcab037ea6f1ed2b02060009964c5cf4f8b01777c0ca48a2406f72cb61ffbc70",
+ "topics": [
+  "farmhouse",
+  "green_energy"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

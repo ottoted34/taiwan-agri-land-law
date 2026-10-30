@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6089",
    "serial": null,
-   "fetched_at": "2026-10-30T09:46:59+08:00",
+   "fetched_at": "2026-10-30T11:14:12+08:00",
    "source_key": "rmis:6089"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1150216003號|有關貴公司函詢特定工廠申請變更編定為特定目的事業用地其使用之"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -43,10 +49,12 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "16",
    "kind": "extracted",
    "snippet": "定工廠申請變更編定為特定目的事業用地,其使用之毗連土地是否受農業發展條例第16條限制案,詳如說明,請查照。\n依據農業發展條例第16條第1項第2款規定,每宗耕地分"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

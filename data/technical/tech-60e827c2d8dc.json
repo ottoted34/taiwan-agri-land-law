@@ -1,0 +1,38 @@
+{
+ "id": "tech-60e827c2d8dc",
+ "source_key": "datamoa:D97:62b45ea2cc092cc3",
+ "title": "技術專刊 69",
+ "series": "技術專刊",
+ "issue": "69",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=8014",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "69",
+  "出刊年月": "201812",
+  "期刊名稱": "臺東百大青農與他們的產地",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=8014"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "82c980569086f9447c58f946f4f57d5d096f6c933482c6ce88ce1ad4d1d65877",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

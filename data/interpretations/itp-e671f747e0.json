@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6030",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:23+08:00",
+   "fetched_at": "2026-10-30T11:16:36+08:00",
    "source_key": "rmis:6030"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1130712876號|有關貴公司建議露營場申請範圍內未立案既有設施如有可能合乎露營"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "33",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "753ac1d1e91740938736bdeb4a8e78eaf6f870d730b1440f339588087af0c03c",
  "topics": [
@@ -43,10 +59,12 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "33",
    "kind": "extracted",
    "snippet": "求拆除或移除,以保現況申請依法轉用餘地案,復請查照。\n一、依「申請農業用地作農業設施容許使用審查辦法」第33條規定,農業設施及其坐落之農業用地應依核定計畫內容使用;未依計畫內容使用者,原核定"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

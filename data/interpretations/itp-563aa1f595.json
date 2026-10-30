@@ -1,0 +1,118 @@
+{
+ "id": "itp-563aa1f595",
+ "doc_class": "interpretation",
+ "docno": "農企字第900145887號",
+ "date": "2001-09-04",
+ "date_text": "90/9/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋私立中國文化大學申請都市計畫變更，涉及農業用地變更回饋金收取事宜案",
+ "content": "一、依據農業發展條例第十二條規定意旨，農業用地之變更，應視其事業性質，繳交回饋金，本會依據上開規定，經協商各相關部會及報請行政院核定後，於八十九年八月十一日頒定「農業用地變更回饋金撥繳及分配利用辦法」，就農業用地變更使用時，應繳交回饋金之情況標準與作業方式予以規範。因各種變更情況不同，適用之回饋標準亦不一致。民眾申請農業用地變更使用，除有農業發展條例第十二條第三項規定得免繳交回饋金之情況外，應依其變更使用情況繳交。\n二、至各相關法律回饋金收取規定之協調方面，依據農業發展條例第十二條第二項規定：「各目的事業相關法令已明定土地變更使用應捐贈或繳交相當回饋金之金錢或代金者，其繳交及使用，依其法令規定辦理，但其土地如屬農業用地，除本條例中華民國八十九年一月四日（按生效日期為八十九年一月二十八日）修正施行前已收繳者，得免於撥交外，各相關機關應將收繳之金錢或代金之二分之一依前項規定辦理」，另因本會訂頒上開辦法日期為八十九年八月十一日，基於法律適用從新從優原則，於辦法頒定日前已由政府受理之申請案件，仍得依據辦法公告前各該法令規定辦理。\n三、有關都市計畫範圍內之土地變更案件，涉及農業用地變更使用回饋金收繳相關事宜，係以農業用地變更為非農業使用為認定基準，經依都市計畫法相關規定辦理分區變更者，請依都市計畫法相關規定並參照上開說明辦理。如依據都市計畫法規未辦理分區變更，惟其使用性質已屬非農業使用者，仍應依上開農業用地變更回饋金撥繳及分配利用辦法」相關規定計算與收取回饋金。至都市計畫農業用地之認定問題，請依農業發展條例施行細則第二條規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5203",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:57+08:00",
+   "source_key": "rmis:5203"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900145887號|釋私立中國文化大學申請都市計畫變更涉及農業用地變更回饋金收取"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "12",
+    "amended_on": "2002-01-30",
+    "history": "中華民國九十一年一月三十日總統（91）華總一義字第 09100019010號令修正公布第 12、18、25、71 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020002",
+    "law_name": "農業發展條例施行細則",
+    "article": "2",
+    "amended_on": "2005-06-10",
+    "history": "中華民國九十四年六月十日行政院農業委員會農企字第 0940010268 號令修正發布第 2、11、15、16 條條文；增訂第 14-1 條條文；刪除第3、6、7、10 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "954a2b3e712c210a7c2c26da5cb2223773d48afd74f456ae8a09ba9f2348115d",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "申請都市計畫變更,涉及農業用地變更回饋金收取事宜案\n一、依據農業發展條例第十二條規定意旨,農業用地之變更,應視其事業性質,繳交回饋金,本會依據上開規定,經協商各"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "經協商各相關部會及報請行政院核定後,於八十九年八月十一日頒定「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地變更使用時,應繳交回饋金之情況標準與作業方式予以規範。因各種變更情況"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "金收繳相關事宜,係以農業用地變更為非農業使用為認定基準,經依都市計畫法相關規定辦理分區變更者,請依都市計畫法相關規定並參照上開說明辦理。如依據都市計畫"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "相關規定計算與收取回饋金。至都市計畫農業用地之認定問題,請依農業發展條例施行細則第二條規定辦理。"
+  }
+ ]
+}

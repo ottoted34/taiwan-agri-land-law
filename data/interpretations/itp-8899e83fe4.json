@@ -1,0 +1,72 @@
+{
+ "id": "itp-8899e83fe4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991875547號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關麻豆鎮北玄宮主任委員詢問「民國95年之前興建寺廟用地合法」1案，請鋻察。",
+ "content": "1.依北玄宮主任委員表示「…當初該宮以農地興建，且因當時官田線東西向公路的規劃案中係屬於交流道特定區，且本宮農地面積僅2.2分，未能達到現行法令2.5分興建農舍的標準…」（詳附件），依據「農業發展條例」暨「農業用地興建農舍辦法」規定，農舍係為提供經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其農事工作，其為與農業經營不可分離之建築物（前於99年7月13日已將該內容會知該宮主任委員）。\n2.另查 貴部所定「非都市土地使用管制規則」附表一規定，農舍尚無可供寺廟使用之細目，且寺廟係屬宗教建築設施，其中央主管機關係 貴部，倘土地上原有建築物不符土地使用分區規定，其是否可申請予以合法化等疑義，亦應屬 貴部權責，爰鑒請 貴部研處函復北玄宮。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991875547號|有關麻豆鎮北玄宮主任委員詢問民國95年之前興建寺廟用地合法1"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5dc0ad43dbf30d83ce0f71e65022feeaa72e67dbfdc223392d40df6b4ca019e1",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "能達到現行法令2.5分興建農舍的標準...」(詳附件),依據「農業發展條例」暨「農業用地興建農舍辦法」規定,農舍係為提供經營農業者於該農地上興建具有居住兼具"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "5分興建農舍的標準...」(詳附件),依據「農業發展條例」暨「農業用地興建農舍辦法」規定,農舍係為提供經營農業者於該農地上興建具有居住兼具放置農機具之需求,以便利其"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "7月13日已將該內容會知該宮主任委員)。\n2.另查 貴部所定「非都市土地使用管制規則」附表一規定,農舍尚無可供寺廟使用之細目,且寺廟係屬宗教建築設施,其中央主管機關係"
+  }
+ ]
+}

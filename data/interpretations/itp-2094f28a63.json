@@ -18,12 +18,24 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5295",
    "serial": null,
-   "fetched_at": "2026-10-30T10:07:52+08:00",
+   "fetched_at": "2026-10-30T11:35:04+08:00",
    "source_key": "rmis:5295"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030214143號|集村興建農舍申請核發農業用地作農業使用證明書疑義案"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1030214143號|有關貴府函詢集村興建農舍申請核發農業用地作農業使用證明書疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +43,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -50,22 +62,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
-  },
-  {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": ",俾符上開法令規定立法意旨。\n三、綜上,本會前揭函釋均以闡釋農發條例第18條第4項規定為主要意旨,並無創設或增加該條例所無之限制規定,其效力係附屬於農發條例"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

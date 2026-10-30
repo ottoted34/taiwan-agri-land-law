@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3378",
    "serial": null,
-   "fetched_at": "2026-10-30T10:04:00+08:00",
+   "fetched_at": "2026-10-30T11:31:12+08:00",
    "source_key": "rmis:3378"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署建管字第1040040322號|有關臺灣花蓮農田水利會辦理台9線235K+525~237K+"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "12",
     "amended_on": "2015-09-04",
@@ -59,16 +65,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "12",
    "kind": "extracted",
    "snippet": "104年6月16日府建管字第1040080239號函。\n二、農業用地興建農舍辦法第12條第3項規定:「已申請興建農舍領有使用執照之農業用地經套繪管制,除符合下列情形之一"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

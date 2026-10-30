@@ -1,0 +1,70 @@
+{
+ "id": "itp-ef2a65a12e",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040736943號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端陳為申請農舍疑義案，復請查照。",
+ "content": "一、復行政院農業委員會交下臺端104年11月30日陳情書。\n二、依農業用地興建農舍辦法第9條第2項第5款規定：「農舍之放流水應符合放流水標準，並排入排水溝渠。」，是以並無以設置廢水回收系統再利用，再做為灌溉農作物使用之情形。另依申請農業用地作農業設施容許使用審查辦法第7條規定，興建農舍之農業用地，其農業設施及農舍之興建面積，應一併納入農業設施總面積計算，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之40%。\n三、次依104年9月4日修正之農業用地興建農舍辦法第2條規定，申請人應檢附經營計畫書，載明該筆農業用地農業經營現況農業用地整體配置及其他事項送直轄市、縣(市)主管機關，以審查該農業用地確供農業使用及該農舍之興建不影響農業生產環境及農村發展。\n四、至個案之審認係屬直轄市、縣(市)政府權責,臺端如有疑義，應洽詢地方政府。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1040736943號|有關臺端陳為申請農舍疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "41ebe6be0ee07c977072fbc58e45751c807d2319fb9da7a3061ca0cc7e42deee",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "行政院農業委員會交下臺端104年11月30日陳情書。\n二、依農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準,並排入排水溝渠。」,是以並無以"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "無以設置廢水回收系統再利用,再做為灌溉農作物使用之情形。另依申請農業用地作農業設施容許使用審查辦法第7條規定,興建農舍之農業用地,其農業設施及農舍之興建面積,應一併納入農業設施總面積計"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "之農業用地土地面積之40%。\n三、次依104年9月4日修正之農業用地興建農舍辦法第2條規定,申請人應檢附經營計畫書,載明該筆農業用地農業經營現況農業用地整體配置及其他"
+  }
+ ]
+}

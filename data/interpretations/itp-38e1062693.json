@@ -1,0 +1,61 @@
+{
+ "id": "itp-38e1062693",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080013549號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○所詢申請興建農舍資格條件一案，涉及個案實務審查認定事宜，爰請惠予協處逕復，請查照。",
+ "content": "一、依據本會水土保持局108年11月21日水保企字第1081859885號函辦理。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、針對○○○所述，農地登記為妻子所有，因法規限制致無法申請興建農舍一節，查農業用地興建農舍辦法第2條第1項第2款規定：「申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。」，至有關土地取得時點之認定，本會水土保持局前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。\n\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，惠請貴府就個案實情提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080013549號|有關○○○所詢申請興建農舍資格條件一案涉及個案實務審查認定事"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1fceb01f6d80614e176ef83375f4c5b3e2aa88447098953fad10d5252c80058a",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "述,農地登記為妻子所有,因法規限制致無法申請興建農舍一節,查農業用地興建農舍辦法第2條第1項第2款規定:「申請人之戶籍所在地及其農業用地,須在同一直轄市、縣(市)內,"
+  }
+ ]
+}

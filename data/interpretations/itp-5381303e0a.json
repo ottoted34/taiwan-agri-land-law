@@ -1,0 +1,55 @@
+{
+ "id": "itp-5381303e0a",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080251585號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端陳為金門縣金寧鄉○○○地號農業用地經共有物分割後，建蔽率由30%降為10%案，復如說明，請查照。",
+ "content": "一、依據監察院108年11月22日院台業參字第1080707441號函辦理。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、有關土地取得時點之認定，本會前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。至土地所有權登記日期是否因土地分割產生異動一節，係屬地政機關權責，建請逕洽土地所在地之地政機關諮詢。\n\n四、副本抄送內政部(監察院函及相關附件)，該陳情人是否適用本辦法第9條第2項第3款後段除外規定，即離島地區農舍用地面積不受「不得超過該筆農業用地面積10%」之限制，因涉土地登記實務及本辦法第9條第2項第3款後段規定，係屬貴轄，請貴部協處逕復，並副知本會。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080251585號|有關臺端陳為金門縣金寧鄉○○○地號農業用地經共有物分割後建蔽"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "21ee56e16fd7496251c73cd8150fa6cb42cb5ae932a6a98fcf587be900319d84",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

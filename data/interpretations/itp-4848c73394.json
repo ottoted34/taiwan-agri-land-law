@@ -1,0 +1,61 @@
+{
+ "id": "itp-4848c73394",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070231471號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關放寬或解除已興建農舍之農地須達0.25公頃方可解除套繪管制疑義一案，復如說明，請查照。",
+ "content": "一、依據內政部營建署107年7月30日營署建管字第1070055118號書函辦理。\n二、農舍係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作。又農業用地興建農舍辦法第12條規定，已申請興建農舍與其坐落之農業用地實施套繪管制，係維持基本之農業經營規模及其完整性，並避免已興建農舍之農地不當細分，影響農業用地使用管制及農業生產效率。\n三、有關農業用地興建農舍辦法第12條套繪管制及農業用地利用政策，按內政部營建署107年7月30日營署建管字第1070055118號書函說明二，已將本會意見敘明有案供參。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070231471號|有關放寬或解除已興建農舍之農地須達025公頃方可解除套繪管制"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "77f8d3242f81596b6161285803a17a63769e10aa72e63300337ce646a38db66a",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "農地上興建具有放置農機具兼具居住之需求,以便利其農事工作。又農業用地興建農舍辦法第12條規定,已申請興建農舍與其坐落之農業用地實施套繪管制,係維持基本之農業經營規模及其"
+  }
+ ]
+}

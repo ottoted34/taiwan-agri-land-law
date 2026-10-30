@@ -1,0 +1,70 @@
+{
+ "id": "itp-6da6401f99",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951850805號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺中縣政府函詢關於原農業區農舍配合耕地，因都市計畫變更為其他使用分區，其原有農舍配合耕地，可否解除建築套繪管理，重新申請建築許可案，本會意見如說明，復請查照。",
+ "content": "一、復 貴室95年1月4日台內中營字第0940071049號函。\n二、農舍係為協助農業經營而允許設置在農業用地上之建築物，農舍需在農業用地及該農地從事農業經營之條件下始得存在，先予敘明。\n三、農業發展條例於89年修正後，已規定申請自用農地興建農舍，需於該農業用地辦理註記且無不相毗鄰合併計算之問題;對於修正前不相毗鄰農地申請興建農舍者，係依都市計畫法及區域計畫法等規定申請，對於農業發展條例89年修法前農舍與配合耕地之建築管理事項，宜依修法前相關規定辦理。至農業用地因土地使用需求變更為其他用地時，考量農業用地上已轉變其他用地別，農舍使用執照宜配合調整，原配合耕地之註記因農舍之調整宜可解除，惟對於土地登記權限及是否可解除建築套繪重新建築，係屬內政部主管權責，請貴部依權責核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951850805號|有關臺中縣政府函詢關於原農業區農舍配合耕地因都市計畫變更為其"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7f900c1710a7703b4e957ef62de6dee31c9849cc7df3348d41a527197c1b24e0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業用地及該農地從事農業經營之條件下始得存在,先予敘明。\n三、農業發展條例於89年修正後,已規定申請自用農地興建農舍,需於該農業用地辦理註記且無不相毗鄰合"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "鄰合併計算之問題;對於修正前不相毗鄰農地申請興建農舍者,係依都市計畫法及區域計畫法等規定申請,對於農業發展條例89年修法前農舍與配合耕地之建築管理事項"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "問題;對於修正前不相毗鄰農地申請興建農舍者,係依都市計畫法及區域計畫法等規定申請,對於農業發展條例89年修法前農舍與配合耕地之建築管理事項,宜依修法前"
+  }
+ ]
+}

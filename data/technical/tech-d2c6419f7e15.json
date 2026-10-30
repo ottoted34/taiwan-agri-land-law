@@ -1,0 +1,43 @@
+{
+ "id": "tech-d2c6419f7e15",
+ "source_key": "datamoa:740:287aa606e428862d",
+ "title": "生物分解垃圾袋在有機廢棄物堆肥化之應用",
+ "series": "技術專刊",
+ "issue": "技術專刊89-5(NO.103)",
+ "agency_id": "tndais",
+ "authors": "楊紹榮",
+ "date": "2000-09",
+ "url": "http://book.tndais.gov.tw/Brochure/tech103.pdf",
+ "isbn": null,
+ "gpn": "25369890081",
+ "pages": "10頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊89-5(NO.103)",
+  "題目": "生物分解垃圾袋在有機廢棄物堆肥化之應用",
+  "作者": "楊紹榮",
+  "出版日期年月": "08909",
+  "頁數": "10頁",
+  "定價": "30",
+  "政府出版品編號GPN": "25369890081",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech103.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech103.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "adcee87f071cbd2a384cf3db1ed89d58b03d9c42cd007d22b74f6b120d66bfd2",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

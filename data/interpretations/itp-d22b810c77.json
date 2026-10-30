@@ -1,0 +1,59 @@
+{
+ "id": "itp-d22b810c77",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040990305號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○陳情其土地在都市計畫內，申請自用農舍事宜案。",
+ "content": "一、依據104年4月22日立法委員孔○○國會辦公室轉陳情函辦理。\n二、查農業用地興建農舍辦法第5條第1款規定:「申請興建農舍之農業用地，有下列情形之一者，不得依本辦法申請興建農舍:(一)非都市土地工業區或河川區。(二)前款以外其他使用分區之水利用地、生態保護用地、國土保安用地或林業用地。(三)非都市土地森林區養殖用地。(四)其他違反土地使用管制規定者。」，合先敘明。\n三、都市計畫保護區尚非屬上開限制個別農舍興建之區位，又本案桃園市政府認為林地目土地應維持林用，不得興建農舍，涉及林務相關法令規定，爰請貴局卓處逕復。另有關個案之審查、否准，係屬直轄市、縣(市)政府權責，併予敘明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1040990305號|有關○○○陳情其土地在都市計畫內申請自用農舍事宜案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "31b2a08d35129166f6dfd63ad2501b2658520545defed2d9501c5264aeb5d3e4",
+ "topics": [
+  "farmhouse",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "4年4月22日立法委員孔○○國會辦公室轉陳情函辦理。\n二、查農業用地興建農舍辦法第5條第1款規定:「申請興建農舍之農業用地,有下列情形之一者,不得依本辦法申請興建農舍"
+  }
+ ]
+}

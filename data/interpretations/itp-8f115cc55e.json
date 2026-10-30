@@ -1,0 +1,58 @@
+{
+ "id": "itp-8f115cc55e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970133811號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正施行後取得之共有農業用地，其申請興建農舍疑義案，復請查照。",
+ "content": "1.復 貴府97年6月19日府農管字第0970196150號函。\n2.共有農業用地申請興建農舍處理原則，本會業於96年3月14日以農授水保字第0961848173號函示有案（正本諒達）。\n3.本案3筆共有農地請依上開處理原則態樣一處理原則2辦理;單筆土地及土地所有權人以興建1棟（戶）為原則，始符農業發展條例相關規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970133811號|有關農業發展條例修正施行後取得之共有農業用地其申請興建農舍疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "41f4d873a27b9457607f52e945f2b94ad4c578b6681b920f356ef3837133983b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正施行後取得之共有農業用地,其申請興建農舍疑義案,復請查照。\n1.復 貴府97"
+  }
+ ]
+}

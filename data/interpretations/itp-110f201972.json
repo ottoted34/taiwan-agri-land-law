@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3785",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:29+08:00",
+   "fetched_at": "2026-10-30T11:35:42+08:00",
    "source_key": "rmis:3785"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:府地籍字第1030048579號|貴所受理三星鄉○○○號已興建農舍耕地分割登記疑義案請查照"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "12",
     "amended_on": "2015-09-04",
@@ -58,22 +64,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "12",
    "kind": "extracted",
    "snippet": "地登字第1030002974號函。\n二、按「一、地政機關配合農業用地興建農舍辦法第12條規定辦理註記登記之處理方式:...(二)有關登記簿註記方式如下:1、農舍坐落地號"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "16",
    "kind": "extracted",
    "snippet": "。\n三、據上,已興建農舍之農業用地,如該農業用地屬耕地並符合農業發展條例第16條得辦理分割之條件者,自得依該規定辦理分割登記,無檢附解除套繪相關文件之必要,且不"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

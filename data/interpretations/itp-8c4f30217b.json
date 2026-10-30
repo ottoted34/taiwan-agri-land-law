@@ -1,0 +1,58 @@
+{
+ "id": "itp-8c4f30217b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061825423號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「覆106年1月5日農授水保字第1061825111號函」案",
+ "content": "一、農業設施與農舍之申請分別依據「申請農業用地作農業設施容許使用辦法」與「農業用地興建農舍辦法」，係屬不同之法令規定，其目的及使用性質並不相同，爰農業設施無法逕轉作農舍使用，先予敘明。\n二、又農業用地興建農舍相關權責分工，係由中央主管機關訂定法規及解釋法令，地方政府負責執行及實務審認，併予敘明。有關農舍之個案審查係屬直轄市、縣(市)政府權責，另有關建築事項係屬建築管理機關轄管，如有個案解釋及相關疑義，仍請就近向所在地地方政府洽詢。\n三、再次感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061825423號|覆106年1月5日農授水保字第1061825111號函案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9660b12f2fb83df86264406659048d7bede70826832e1f027700a29ebf2dc069",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "與農舍之申請分別依據「申請農業用地作農業設施容許使用辦法」與「農業用地興建農舍辦法」,係屬不同之法令規定,其目的及使用性質並不相同,爰農業設施無法逕轉作農舍使用,先"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4617",
    "serial": null,
-   "fetched_at": "2026-10-30T09:56:16+08:00",
+   "fetched_at": "2026-10-30T11:23:28+08:00",
    "source_key": "rmis:4617"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1080227489號|有關貴府函詢申請人持有農地上有違建其無自用農舍審查疑義案復如"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,22 +47,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "許可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項規定:「依本條例第18條第1項規定申請興建農舍之申"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "其資格應符合前條第1項第4款及第5款規定...」,爰此,無論農業發展條例89年1月4日修正施行前或後取得之農業用地興建農舍者,申請人資格均須符合無自用農"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

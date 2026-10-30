@@ -1,0 +1,65 @@
+{
+ "id": "itp-075bc1efa0",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030201240號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端至內政部營建署署長信箱詢問持分持有農地內門區○○○地號已取得其他共有人同意書，是否即取得以該筆土地全部面積申請興建農舍之資格一案，請查照。",
+ "content": "一、依據內政部103年1月10日內授營綜字第1020387306號函辦理。\n二、共有農業用地申請興建農舍處理原則如次：\n(一)申請人均應符合農業用地興建農舍辦法興建農舍資格要件。\n(二)應取得全部共有人之同意，並訂有分管契約。但共有人全部提出申請者，不在此限。\n(三)其可興建面積以申請人持有之應有部分面積計算。\n(四)申請興建農舍之該筆農業用地如屬農業發展條例89年1月28日修正施行後取得者，其單一筆地號面積應超過0.25公頃，申請人持分部分面積若未達0.25公頃者，仍得依本原則辦理\n三、依上開處理原則，台端縱取得其他共有人使用同意書，仍僅得以台端持有面積計算可興建面積。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1030201240號|有關台端至內政部營建署署長信箱詢問持分持有農地內門區○○○地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6d36f51904376a6dbd20b2f23b08a8f45d61b24507844a62991b98fc613051e0",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "共有農業用地申請興建農舍處理原則如次:\n(一)申請人均應符合農業用地興建農舍辦法興建農舍資格要件。\n(二)應取得全部共有人之同意,並訂有分管契約。但共有人全部提"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有之應有部分面積計算。\n(四)申請興建農舍之該筆農業用地如屬農業發展條例89年1月28日修正施行後取得者,其單一筆地號面積應超過0.25公頃,申請人持分"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "itp-dadb54927b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940134444號",
+ "date": "2005-07-05",
+ "date_text": "94年7月5日農企字第0940134444號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "043 釋都市計畫主管機關出具符合農業發展條例施行細則第14條之1土地使用分區證明案",
+ "content": "有關農業發展條例施行細則第14條之1修正發布後，都市計畫主管機關應如何出具土地使用分區證明文件案，請依內政部94年6月30日台內營字第0940084214號函釋（影本如附）辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940134444號|釋都市計畫主管機關出具符合農業發展條例施行細則第14條之1土"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8c8382c759ec5cc8769ae67dd26a89610d255608d5ae271e5f72a2652e36804d",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "14-1",
+   "kind": "extracted",
+   "snippet": "043 釋都市計畫主管機關出具符合農業發展條例施行細則第14條之1土地使用分區證明案\n有關農業發展條例施行細則第14條之1修正發布後,都市計畫主管"
+  }
+ ]
+}

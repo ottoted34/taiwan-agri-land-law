@@ -1,0 +1,78 @@
+{
+ "id": "itp-c199dbef18",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070241990號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「30年蓋的農舍(倉庫)合法處理」一案。",
+ "content": "一、查「農舍」係提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求，且需有積極農用之事實，並依據「農業用地興建農舍辦法」規定辦理；至如所稱之倉庫或儲存場所，倘為農業生產需要之「農業設施」，應依「申請農業用地作農業設施容許使用審查辦法」規定辦理，且不得作為住宅、工廠或其他非農業使用。故二者性質不同，依據之法源規定亦有別，先予敘明。\n二、由於您提及農業用地上存有未經申請而先行興建之建築物，倘屬農業用地違規使用，應有區域計畫法或都市計畫法裁罰規定之適用。又依前項說明，「農舍」與「農業設施」分屬不同之法令規定，其目的及使用性質亦不相同，惟申辦案件均為直轄市、縣(市)政府審認許可之權責，故建議您逕向當地直轄市、縣(市)政府就您個案狀況洽詢，俾利確認該建築物性質究屬農舍或農業設施，以及合法化之可能性與相關程序。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070241990號|30年蓋的農舍倉庫合法處理一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "305bafe10aa8878087df61d6b7824e1dde6873a658d9c428783a4187bb35f379",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建具有放置農機具兼具居住需求,且需有積極農用之事實,並依據「農業用地興建農舍辦法」規定辦理;至如所稱之倉庫或儲存場所,倘為農業生產需要之「農業設施」,應依「申請農"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "如所稱之倉庫或儲存場所,倘為農業生產需要之「農業設施」,應依「申請農業用地作農業設施容許使用審查辦法」規定辦理,且不得作為住宅、工廠或其他非農業使用。故二者性質不同,依據之法源規定亦"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "上存有未經申請而先行興建之建築物,倘屬農業用地違規使用,應有區域計畫法或都市計畫法裁罰規定之適用。又依前項說明,「農舍」與「農業設施」分屬不同之法令規"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請而先行興建之建築物,倘屬農業用地違規使用,應有區域計畫法或都市計畫法裁罰規定之適用。又依前項說明,「農舍」與「農業設施」分屬不同之法令規定,其目的及"
+  }
+ ]
+}

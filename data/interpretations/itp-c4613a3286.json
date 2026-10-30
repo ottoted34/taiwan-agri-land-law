@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5114",
    "serial": null,
-   "fetched_at": "2026-10-30T10:10:44+08:00",
+   "fetched_at": "2026-10-30T11:37:46+08:00",
    "source_key": "rmis:5114"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020240567號|民眾為申請參加農民健康保險得否申請核發農業用地作農業使用證明"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,22 +47,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "39",
    "kind": "extracted",
    "snippet": " 日中市農地字第1020037435 號函。\n二、查本會依據農業發展條例第39條第2項授權訂定「農業用地作農業使用認定及核發證明辦法」作為各直轄市、縣(市)政府"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "5 號函。\n二、查本會依據農業發展條例第39條第2項授權訂定「農業用地作農業使用認定及核發證明辦法」作為各直轄市、縣(市)政府核發農業用地作農業使用證明書(以下簡稱農用證明)之執行"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

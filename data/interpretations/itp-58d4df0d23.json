@@ -1,0 +1,64 @@
+{
+ "id": "itp-58d4df0d23",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000125561號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴事務所詢問祭祀公業得否申請興建農舍疑義案，復請 查照。",
+ "content": "一、復貴事務所100年4月21日玲建築字第10004211號函。\n二、按農業發展條例第3條第3款：「農民：指直接從事農業生產之自然人。」次依農業發展條例第18條規定農舍興建須為無自用農舍之農民，且農舍起造人應為該農舍坐落土地之所有權人，故規範之對象係為自然人。而依祭祀公業條例第3條用詞定義：「一、祭祀公業：由設立人捐助財產，以祭祀祖先或其他享祀人為目的之團體。」並非屬前述所稱之自然人，自不得申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000125561號|有關貴事務所詢問祭祀公業得否申請興建農舍疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "96a8f7cc2818f371ba923d57481c653012095e7c206ddaf3e5309e3d431453ea",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "所100年4月21日玲建築字第10004211號函。\n二、按農業發展條例第3條第3款:「農民:指直接從事農業生產之自然人。」次依農業發展條例第18條規定農舍興"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "條例第3條第3款:「農民:指直接從事農業生產之自然人。」次依農業發展條例第18條規定農舍興建須為無自用農舍之農民,且農舍起造人應為該農舍坐落土地之所有權人,故規"
+  }
+ ]
+}

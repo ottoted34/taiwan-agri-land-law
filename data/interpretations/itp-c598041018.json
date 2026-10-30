@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4197",
    "serial": null,
-   "fetched_at": "2026-10-30T10:01:16+08:00",
+   "fetched_at": "2026-10-30T11:28:28+08:00",
    "source_key": "rmis:4197"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1040249403號|有關貴府函詢農業用地上有經核准興建之農舍作民宿使用申請核發農"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,22 +48,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "之認定標準,始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "、畜牧、保育及設置相關之農業設施或農舍使用者。」本會並訂定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、依非都市土地使用管制規則附表一規定,合法農舍雖許可作民宿使用"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、依非都市土地使用管制規則附表一規定,合法農舍雖許可作民宿使用,然參據財政部93年8月20日台財稅字第09"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

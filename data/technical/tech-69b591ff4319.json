@@ -1,0 +1,46 @@
+{
+ "id": "tech-69b591ff4319",
+ "source_key": "datamoa:740:9457679721c91590",
+ "title": "小果番茄栽培管理",
+ "series": "技術專刊",
+ "issue": "技術專刊88-10(NO.96)",
+ "agency_id": "tndais",
+ "authors": "王仕賢、鄭安秀、陳文雄",
+ "date": "1999-06",
+ "url": "http://book.tndais.gov.tw/Brochure/tech96.pdf",
+ "isbn": null,
+ "gpn": "1009300704",
+ "pages": "18頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊88-10(NO.96)",
+  "題目": "小果番茄栽培管理",
+  "作者": "王仕賢、鄭安秀、陳文雄",
+  "出版日期年月": "08806",
+  "頁數": "18頁",
+  "定價": "40",
+  "政府出版品編號GPN": "1009300704",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech96.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech96.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "2d876e4617409f25d0e750f7c14c388fc41cd97bd035d2f8de76b491c6a32eab",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "vegetable",
+  "mgmt"
+ ]
+}

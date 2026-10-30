@@ -1,0 +1,68 @@
+{
+ "id": "itp-d8bbb7cfff",
+ "doc_class": "interpretation",
+ "docno": "農企字第0910126111號",
+ "date": "2002-05-20",
+ "date_text": "91年5月20日農企字第0910126111號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "012 釋環保單位參與審核之機制案",
+ "content": "查本會89年10月13日(89)農企字第890010356號函所釋，係就因公害污染，致遭限制不得從事農業生產而閒置不用之農地，給予受害者救濟之途徑。有關來函所稱農地因回填爐石而經環保單位列管，宜請列管單位敘明其列管之目的為何以及該農地可否繼續作農業使用？如並未限制不得作農業使用，則無本會前函之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0910126111號|釋環保單位參與審核之機制案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "46ff3b4086adb70d1d128e5f470a54a543c2f0f8ae9ad5053945b10b78f05fe1",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

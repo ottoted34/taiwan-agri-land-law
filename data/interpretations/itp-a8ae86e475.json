@@ -1,0 +1,59 @@
+{
+ "id": "itp-a8ae86e475",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980127031號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關已取得農業用地興建農舍農民資格，又另以不同地號農業用地申請核發興建農舍農民資格，是否符合規定案，復請查照。",
+ "content": "一、復 貴局98年5月1日北農牧字第0980320011號函。 二、本案○○○業已取得貢寮鄉○○○地號農業用地興建農舍農民資格，現又以同地段○○○地號農業用地再提出申請核發興建農舍農民資格。查依農業發展條例第18條之立法精神及農地管理政策，每宗農業用地僅能興建1戶棟農舍，且所有權人亦僅得申請1戶棟農舍，敬請 貴府先查明98年3月6日北府農牧字第0980166190號函所核發之農業用地興建農舍農民資格文件是否仍在有效期間，若仍屬有效，如擬於○○○地號農業用地上興建農舍，應請申請人放棄先前已取得之興建農舍農民資格文件，再行審查新提出之申請案件為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980127031號|有關已取得農業用地興建農舍農民資格又另以不同地號農業用地申請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7b6d317be27030d6aa2018d4073017f9a58f7d44e0e2d8cc67e00f8b58d261d7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "同地段○○○地號農業用地再提出申請核發興建農舍農民資格。查依農業發展條例第18條之立法精神及農地管理政策,每宗農業用地僅能興建1戶棟農舍,且所有權人亦僅得申請1"
+  }
+ ]
+}

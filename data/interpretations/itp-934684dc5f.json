@@ -1,0 +1,59 @@
+{
+ "id": "itp-934684dc5f",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0971824701號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關集村興建農舍獎勵補助建築物屋頂設置瓦式或仿瓦式斜屋頂之認定疑義案，復請查照。",
+ "content": "1.依據內政部營建署97年9月11日營署建管字第0970048334號函及臺灣省建築師公會97年10月31日台建師法字第3197號函辦理，兼復 貴府97年11月25日府農輔第0970169345號函。\n2.「集村興建農舍獎勵及協助辦法」第6條第1項規定「集村興建農舍符合下列各款者，每戶給予補助款新臺幣二十萬元：(一)、建築物屋頂按其建築面積至少50%以上設置瓦式或仿瓦式斜屋頂，其斜屋頂之坡度以不小於1：4為原則(二)、建築物總樓地板面積不得小於66平方公尺，合先說明。\n3.所附照片應為立面圖B8.B9.B10.B11，而平面圖所附為A7，因此無法直接判斷二、三樓間之雨遮位置為何，是否在B8.B9.B10.B11平面圖上標示為屋頂或露台，如是時，則應視為斜屋頂。\n4.屋頂層女兒墻位置及突出物（水塔間）之位置，均應屬斜屋頂範圍，應無置疑。\n5.屋頂應為上層無頂蓋者，並無所謂使用之區別，均可視為屋頂範圍，而其所置斜面，若符合該辦法之坡度者，自屬斜屋頂應無疑義；至於是否為雨遮，應視個案於圖面之位置另加以判斷。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0971824701號|有關集村興建農舍獎勵補助建築物屋頂設置瓦式或仿瓦式斜屋頂之認"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bb84fb1c7e3d2766444ca6f89876934acd961870c9102bb8e3e25f098ae777e7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "府97年11月25日府農輔第0970169345號函。\n2.「集村興建農舍獎勵及協助辦法」第6條第1項規定「集村興建農舍符合下列各款者,每戶給予補助款新臺幣二十萬元:(一)、建"
+  }
+ ]
+}

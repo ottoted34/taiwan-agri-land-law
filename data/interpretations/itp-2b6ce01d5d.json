@@ -1,0 +1,52 @@
+{
+ "id": "itp-2b6ce01d5d",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第0970042852號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○陳為本部釋示之臺灣宜蘭地方法院95年度重訴字第28號撤銷贈與事件所為之判決，請准依判決書主文辦理塗銷登記，並將登記原因更正回復「判決回復所有權」乙案，請查照。",
+ "content": "一、依據○○○97年3月12日陳情書辦理。 二、按「法律行為經撤銷者，視為自始無效。」、「依本規則登記之土地權利，除本規則另有規定外，非經法院判決塗銷確定，登記機關不得為塗銷登記。」分為民法第114條第1項及土地登記規則第7條所明定，本案依臺灣宜蘭地方法院95年度重訴字第28號民事判決文觀之，陳情人係依民法第416 條規定提出對於贈與人行使撤銷權之訴，該贈與行為既經法院判決塗銷，依上開民法第114條規定視為自始無效，登記機關自應依法院判決辦理塗銷登記回復至原所有權人名義。為符實際，本案請更正以「判決回復所有權」為登記原因。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授中辦地字第0970042852號|有關○○○陳為本部釋示之臺灣宜蘭地方法院95年度重訴字第28"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "da16172222516e392e005b56d333acd9efeb1f43ef3b834518b5c450473da329",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

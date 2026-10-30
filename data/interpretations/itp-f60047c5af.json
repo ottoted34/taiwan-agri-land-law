@@ -1,0 +1,60 @@
+{
+ "id": "itp-f60047c5af",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第0930726160號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關位於非都市土地之農業用地上已興建農舍者，得否於該農地上再行申請興建農業設施乙案，復如說明。",
+ "content": "一、依據本部地政司案陳貴會93年11月17日農企字第0931021615號函辦理。\n二、依「非都市土地使用管制規則」第6條第3項附表1規定，農牧用地容許使用項目計有：（一）農作使用（包括牧草）。（二）農舍（工業區、河川區除外）。（十五）．．．。等項，又「農舍」為與農業經營不可分離之設施物，其基地仍屬農業用地。本案有關非都市土地之農牧用地上已興建農舍者，得否於該農地上再行申請設置農業設施乙節，倘該設施與農舍興建、管理有關法令規定並無牴觸，並符合「農業用地容許作農業設施使用審查辦理」規定屬農業生產經營所需者，原則上與農牧用地係供農牧生產及其設施使用之性質及管制旨意尚無相違，惟目的事業主管機關應確實依原核定計畫之容許使用項目管制使用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授中辦地字第0930726160號|有關位於非都市土地之農業用地上已興建農舍者得否於該農地上再行"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "12232edd9d411556085dc79d74d8481706d99a49bdf0cf3e0d1a888dd0490682",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "年11月17日農企字第0931021615號函辦理。\n二、依「非都市土地使用管制規則」第6條第3項附表1規定,農牧用地容許使用項目計有:(一)農作使用(包括牧草)。(二)農"
+  }
+ ]
+}

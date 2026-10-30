@@ -1,0 +1,52 @@
+{
+ "id": "itp-c0cda709f1",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051804314號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴局函詢農業用地興建農舍之土地取得時點疑義案，復請查照。",
+ "content": "一、復貴局104年4月14日中市農地字1050011691號函。\n二、有關申請興建農舍之土地取得時點，行政院農業委員會依據民法及土地法規定，前以101年6月29日農水保字第1011865000號令，核釋有案，其後並以102年10月25日農水保字第1021866046號令補充規定。至分次取得土地持分者，應以申請地號最後取得所有權狀態認定之。農舍個案審查係屬直轄市、縣(市)政府之權責，請貴局本於權責卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051804314號|有關貴局函詢農業用地興建農舍之土地取得時點疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f74f253472b97451ce820073f55a144d985977a54f0d468b1c1b680234dadaff",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-ae360d56bf",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950137031號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關申請毗連非都市土地變更編定，可否依現況將隔離綠帶或設施規劃於原丁種建築用地上之執行疑義案。",
+ "content": "主旨：有關貴縣○○股份有限公司申請毗連非都市土地變更編定，可否依現況將隔離綠帶或設施規劃於原丁種建築用地上之執行疑義一案，復請查照。\n說明：\n一、復貴府95年7月3日府農務字第0950094393號函。\n二、依農業主管機關同意農業用地變更使用審查作業要點第11點第1項規定：「申請變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，並具體標繪於土地使用配置圖上。隔離綠帶或設施之配置原則如下：(一)配置區位應與毗鄰農業用地相緊臨。(二)隔離綠帶或設施之設置最小寬度，除第12點規定有配置寬度者外，以1.5公尺為原則。但縣(市)政府依據地方特性規定另訂定大於1.5公尺者，依其規定辦理，並報中央主管機關備查。」又依同要點第12點第(2)款第5目規定一般農業區因擴展工業需要變更者，如申請變更編定面積未滿2公頃者，得配合土地規劃配置，其面積不得少於「申請事業面積」之30%。本案依來函所敘，申請擴展變更使用之農牧用地為1,763平方公尺，故有關隔離綠帶或設施之規劃配置，應以該申請變更編定之事業面積為審認範圍，區位並須與毗鄰農業用地相緊臨，寬度以1.5公尺為原則。因此，本案請依上開規定，視個案實務及事實審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0950137031號|有關申請毗連非都市土地變更編定可否依現況將隔離綠帶或設施規劃"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6c68013102a671a8fa94aa92e9aca72e401bbfff82c98b2914b7c208b93949d2",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "府95年7月3日府農務字第0950094393號函。\n二、依農業主管機關同意農業用地變更使用審查作業要點第11點第1項規定:「申請變更農業用地作與農業生產性質不相容之目的事業使用者,應"
+  }
+ ]
+}

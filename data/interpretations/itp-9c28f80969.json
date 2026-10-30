@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4737",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:32+08:00",
+   "fetched_at": "2026-10-30T11:20:45+08:00",
    "source_key": "rmis:4737"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090219170號|有關興建農舍資格因申請建照時調整部分建築配置是否須重新提出申"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "5月12日高市農務字第 10931095700號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)規定,申請興建農舍者,應先取得農民資格核定後,再向建築主管機關"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

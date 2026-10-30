@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2852",
    "serial": null,
-   "fetched_at": "2026-10-30T10:13:36+08:00",
+   "fetched_at": "2026-10-30T11:40:49+08:00",
    "source_key": "rmis:2852"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1010745049號|有關貴府函為農業發展條例修正施行前共有農地於該條例修正施行後"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "amended_by_later",
@@ -48,16 +54,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "01年6月29日農水保字第1011865000號令,核釋有關「農業發展條例」第18條所稱取得農業用地,應以土地登記簿所有權部認定之,其土地取得時點除民法第759條規"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

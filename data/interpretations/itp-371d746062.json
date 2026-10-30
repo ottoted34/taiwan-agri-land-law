@@ -1,0 +1,58 @@
+{
+ "id": "itp-371d746062",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0971818252號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢土地經辦理合併分割後，申請興建農舍之建築面積已有變動，其土地取得時間點之計算，應以土地登記機關最後完成合併分割登記之時點為基準疑義案，復請查照。",
+ "content": "1.復 台端未列日期陳情書。\n2.有關土地合併分割之取得時點計算，經行政院農業委員會97年7月29日邀集相關單位(企劃處、法規會)及內政部(含地政司、營建署)、縣（市）政府等，召開研商「土地合併分割交換調整後其取得時點計算基準、審查『維護農業生產』『不影響農村發展』及拍定取得2棟以上農舍移轉疑義」會議決議略以「土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定『依本法所為之登記，有絕對效力』，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地，於修正施行後分割為單獨所有者，得依該條例第18條第3項規定辦理」，行政院農業委員會97年8月4日農授水保字第0971843810號函送縣市政府有案。\n3.查台端土地經辦理合併分割後，申請興建農舍之建築面積已有變動，且依「土地法」第43條規定，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準，應無疑慮。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0971818252號|台端函詢土地經辦理合併分割後申請興建農舍之建築面積已有變動其"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a7d5f2fc63c09d86b36c0e25c706f6c6b51b73178f2e4bd3e9dbc3b8c8ee0697",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "點之計算,應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,得依該條例第18條第3項"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "itp-ee6dbc71f5",
+ "doc_class": "interpretation",
+ "docno": "水利政字第0905024216號",
+ "date": "2001-07-04",
+ "date_text": "90/7/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋非都市土地農牧用地申請作農業設施抽水機房容許使用，在非屬地下水管制區範圍內之鄉鎮是否應檢附水權狀證明文件疑義",
+ "content": "一、非都市土地農牧用地容許使用興建抽水機房，屬土地利用管制範圍，與興建水井應先申請地下水水利事業興辦及其抽水取得水權登記屬於水利主管權責，係屬不同性質事項範疇，有關台灣區電氣工程工業同業公會屏東辦公處函：非屬於地下水管制範圍內抽水灌溉及養殖漁業用電等無需檢附主管機關核准文件乙節：依本處以九十年六月四日經（九０）水利政字第０九００六００七一０號函經濟部能源委員會略以：仍應依照行政院八十九年十一月廿二日令：修正「農業動力用電範圍及標準」第二條之規定，由主管機關核發相關文件。\n二、水利法第四十二條免為水權之規定，其第二項規定如足以妨害公共水利事業，或他人用水之利益時，主管機關得酌予限制，或令其辦理登記。符合該條第一項免為水權登記規定者，仍應由主管機關基於管理需要核發免為水權登記證明。又依同法第四十六條規定其興辦鑿井，仍應經水利機關核准。\n三、前述非都市土地使用管制及台電公司管理用電申請之規定，不論需否檢附水權登記或免為水權登記證明文件，依水利法規定鑿井抽水除符合該法第四十二條規定免為水權登記外，自當申請興辦水利建造物（水井）及水權登記。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4871",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:12+08:00",
+   "source_key": "rmis:4871"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:水利政字第0905024216號|釋非都市土地農牧用地申請作農業設施抽水機房容許使用在非屬地下"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": "2",
+    "amended_on": "2002-06-12",
+    "history": "中華民國91年06月12日行政院院臺農字第 0910027683 號令修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": "2",
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "eb0ca654f6a914a94e2de3fa52828cbd8fc29ed751a278b88d0c087b9a0e02a6",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-2007",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "部能源委員會略以:仍應依照行政院八十九年十一月廿二日令:修正「農業動力用電範圍及標準」第二條之規定,由主管機關核發相關文件。\n二、水利法第四十二條免為水權之規定,其第二項規"
+  }
+ ]
+}

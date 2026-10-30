@@ -1,0 +1,76 @@
+{
+ "id": "itp-a679637fdf",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849241號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢89年1月31日取得之農地，可否依「農業用地興建農舍辦法」第6條第3項規定申請興建農舍案，復請查照。",
+ "content": "1.復 台端96年10月27日申請書。\n2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依「農業用地興建農舍辦法」第2條規定申請興建農舍，均不受申請興建農舍需有最低面積、土地取得應滿一定期間……等等規定限制，以保障原擁有農業用地之農民權益;至於修正公布生效日後取得之農地申請興建農舍，應依上開辦法第3條相關規定辦理，合先說明。\n3.台端88年12月7日訂立贈與契約，而於89年1月31日始於土地登記機關完成贈與登記，其時點已在修法公布生效日後（89年1月28日），申請興建農舍，自應依「農業用地興建農舍辦法」第3條相關規定辦理。\n4.「農業用地興建農舍辦法」第6條第3項規定，其適用對象為福建省金門縣之農民。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849241號|台端函詢89年1月31日取得之農地可否依農業用地興建農舍辦法"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9da9e39ae5dea9ab3d19c96768a1b986fb916500541adf6a639d2159bc57564c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "台端函詢89年1月31日取得之農地,可否依「農業用地興建農舍辦法」第6條第3項規定申請興建農舍案,復請查照。\n1.復 台端96年10月27日申請書。\n2"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",復請查照。\n1.復 台端96年10月27日申請書。\n2.依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍,係依農業用地取得日期之不同而有所"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "8日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地,得依「農業用地興建農舍辦法」第2條規定申請興建農舍,均不受申請興建農舍需有最低面積、土地取得應滿一定期間....."
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "在修法公布生效日後(89年1月28日),申請興建農舍,自應依「農業用地興建農舍辦法」第3條相關規定辦理。\n4.「農業用地興建農舍辦法」第6條第3項規定,其適用對象為福建省"
+  }
+ ]
+}

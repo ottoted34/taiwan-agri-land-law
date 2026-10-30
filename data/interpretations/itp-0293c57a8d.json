@@ -1,0 +1,61 @@
+{
+ "id": "itp-0293c57a8d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070247798號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「贈與共有人耕地持分2/3贈與共有人1/3，共有人數未增加，建物一樓佔地面積小於坐落土地，可否贈與1/3持分」一案。",
+ "content": "一、農業用地准許興建「農舍」之制度，按其立法意旨，其係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之建築物，與一般家居住宅性質不同，爰農舍與農業用地贈予共有人時，該農舍與農業用地仍應依規定使用，始符合立法意旨。\n二、查農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；…」，故農舍應與其坐落用地併同移轉為基本前提，又前揭規定之立法意旨係在避免農舍與其坐落用地分屬不同所有權人，引發利用及產權紛爭問題，故農地與農舍移轉時不應有所有權人不同或持分不一致之情形，且農舍與其坐落用地併同辦理移轉時，其承受人資格應符合無自用農舍條件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070247798號|贈與共有人耕地持分2/3贈與共有人1/3共有人數未增加建物一"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "531e634223614f9233a3eba89ef4aa52b6aab169f47f8ee7fa9f2a1a0ee91d79",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "時,該農舍與農業用地仍應依規定使用,始符合立法意旨。\n二、查農業發展條例第18條第4項規定:「第一項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-c0dd33ebc4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941849065號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "依農業發展條例第18條第3項規定申請興建之農舍，辦理移轉時是否須與其坐落用地併同移轉或併同設定抵押權案，復請查照。",
+ "content": "一、復 貴府北府農牧字第0940568829號函。\n二、查農業發展條例第18條第4項明定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落用地併同移轉或併同設定抵押;已申請興建農舍之農業用地不得重複申請。」",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941849065號|依農業發展條例第18條第3項規定申請興建之農舍辦理移轉時是否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "275c76e6d5e3adb4acaed20785ce609a3cdc5102b3d1e92899b534b3bc623d2a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "依農業發展條例第18條第3項規定申請興建之農舍,辦理移轉時是否須與其坐落用地併同移轉或併同設定抵押權案"
+  }
+ ]
+}

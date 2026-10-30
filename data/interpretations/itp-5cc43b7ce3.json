@@ -1,0 +1,64 @@
+{
+ "id": "itp-5cc43b7ce3",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041809564號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地興建農舍辦法第9條第2項第6款執行疑義，復請查照。",
+ "content": "一、復台端104年4月25日陳情書。\n二、依農業用地興建農舍辦法第9條第2項第6款規定:「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，且農舍建築面積應超過45平方公尺。但經直轄市、縣(市)農業單位或其他主管機關同意者，不在此限。」，其中農舍建築面積應超過45平方公尺除分期興建外亦包含新建，倘台端之農業用地為89年1月28日農業發展條例修正生效前取得且面積未達450平方公尺，以致農舍建築面積無法達45平方公尺者，得否興建農舍應由直轄市、縣(市)農業單位或其他主管機關依個案情形審酌。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041809564號|有關農業用地興建農舍辦法第9條第2項第6款執行疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0f9bc398c40d07dccfda2a0d32bb7d8412f63c01859a522ed76429a3378f7acf",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第9條第2項第6款執行疑義,復請查照。\n一、復台端104年4月25日陳情書。\n二、依農"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "尺除分期興建外亦包含新建,倘台端之農業用地為89年1月28日農業發展條例修正生效前取得且面積未達450平方公尺,以致農舍建築面積無法達45平方公尺者,得"
+  }
+ ]
+}

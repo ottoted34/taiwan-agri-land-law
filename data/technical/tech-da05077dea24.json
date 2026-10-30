@@ -1,0 +1,46 @@
+{
+ "id": "tech-da05077dea24",
+ "source_key": "datamoa:740:f5f32f8dac9b3b1f",
+ "title": "番木瓜合理化施肥技術",
+ "series": "技術專刊",
+ "issue": "技術專刊98-5(NO.140)",
+ "agency_id": "tndais",
+ "authors": "黃士晃、林晉卿",
+ "date": "2009-10",
+ "url": "http://book.tndais.gov.tw/Brochure/tech140.pdf",
+ "isbn": "978-986-02-0368-4",
+ "gpn": "1009802685",
+ "pages": "20頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊98-5(NO.140)",
+  "題目": "番木瓜合理化施肥技術",
+  "作者": "黃士晃、林晉卿",
+  "出版日期年月": "09810",
+  "頁數": "20頁",
+  "定價": "45",
+  "政府出版品編號GPN": "1009802685",
+  "ISBN": "978-986-02-0368-4",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech140.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "5768da02de233ba5686e1be238b4bbe73be8b5c51b75453a7007b1726fad26e3",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "fruit",
+  "soil"
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5960",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:11+08:00",
+   "fetched_at": "2026-10-30T11:15:24+08:00",
    "source_key": "rmis:5960"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1140226575號|有關貴府函詢農業設施完工檢查之行政作業疑義案如說明復請查照"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "詢農業設施完工檢查之行政作業疑義案如說明,復請查照。\n一、按申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第32條第1項規定,取得容許使用之農業設施,依法得免申請建築"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "\n二、又容許辦法所定完工檢查,係屬行政檢查之概念性質,得適用行政程序法第1章第6節「調查事實及證據」相關規定。此外,行政機關於行政檢查時,得視實際情形"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

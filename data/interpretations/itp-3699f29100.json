@@ -1,0 +1,81 @@
+{
+ "id": "itp-3699f29100",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950146305號",
+ "date": "2006-08-18",
+ "date_text": "95/8/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "014 釋交通建設僅徵收地上權作高架陸橋使用，其農業用地仍繼續作農業使用案",
+ "content": "農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義，「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」本會並訂頒有農業用地作農業使用認定及核發證明辦法乙種，以為執行之依據。因此，農業用地上如有不屬農業設施或農舍之其他建築物，不符合前開農業使用之定義即無法核發農業用地作農業使用證明書；惟倘該農業用地上並無前開不屬農業設施或農舍之其他建築物，僅係上空有陸橋通過，且實際仍作農業使用，並不影響該農業用地作農業使用證明書之核發。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5493",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:07+08:00",
+   "source_key": "rmis:5493"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950146305號|釋交通建設僅徵收地上權作高架陸橋使用其農業用地仍繼續作農業使"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6f55fa9ab1b7df5a3dd51a00d5453440adc9a80b3058585b1a3200b525bf7d59",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "之認定基準,始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、畜牧、保育及設置相關之農業設施或農舍使用者。」本會並訂頒有農業用地作農業使用認定及核發證明辦法乙種,以為執行之依據。因此,農業用地上如有不屬農業設施或農舍之其他建築物,不符合"
+  }
+ ]
+}

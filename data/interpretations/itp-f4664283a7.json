@@ -1,0 +1,58 @@
+{
+ "id": "itp-f4664283a7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950142401號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關高雄地方法院民事執行處執行94年執字第31733號債務人○○○所有農地拍賣，涉及農業發展條例第16條及第18條規定之執行疑義案，請查照。",
+ "content": "一、復貴部95年7月26日內授中辦地字第0950048627號函。\n二、本案涉及本會業務部分，業於95年8月2日以農授水保字第0951851830號函復該執行處有案（如附件）；另對於耕地之分割，農業發展條例第16條業規定除七款之例外條件，每宗耕地分割後每人所有面積未達0.25公頃者，不得分割，而前開例外規定，並未包含興建農舍之農業用地。\n三、有關農地地上物之使用人是否得行使優先購買權之權利，涉及土地法第104條及土地登記規則，係屬 貴部權責，還請主政。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950142401號|有關高雄地方法院民事執行處執行94年執字第31733號債務人"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "313179f39295b6e6a1a1d0a004316931b7f40ea8294131775de69864ea370c90",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "處執行94年執字第31733號債務人○○○所有農地拍賣,涉及農業發展條例第16條及第18條規定之執行疑義案,請查照。\n一、復貴部95年7月26日內授中辦地字第0"
+  }
+ ]
+}

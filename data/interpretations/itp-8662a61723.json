@@ -1,0 +1,59 @@
+{
+ "id": "itp-8662a61723",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0921816670號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○公司辦理○○○等二十人申請於非都市土地一般農業區農牧用地作為集村興建籌設許可案，是否符合「開發行為應實施環境影響評估細目及範圍認定標準」第二十五條規定；集村農舍是否屬新社區及需辦理環境影響評估疑義案，復請查照。",
+ "content": "一、依據行政院環境保護署九十二年七月十八日環署綜字第○九二○○五二一四八號函(如附件)辦理兼復 貴府九十二年五月二十八日府農務字第○九二○一一六四三三號函。 二、「開發行為應實施環境影響評估細目及範圍認定標準」第二十五條所稱新社區興建，係指開發行為以社區型式申請興建者。 三、依「農業用地興建農舍辦法」第八條規定申辦集村興建農舍，已符合上開認定標準第二十五條所稱社區之定義，故其開發行為應依該認定標準第二十五條規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0921816670號|○○公司辦理○○○等二十人申請於非都市土地一般農業區農牧用地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e21259e81692d4837e3865f9095c775403dbbf1d3cf0f17a829173656d6a606f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "條所稱新社區興建,係指開發行為以社區型式申請興建者。 三、依「農業用地興建農舍辦法」第八條規定申辦集村興建農舍,已符合上開認定標準第二十五條所稱社區之定義,故其開發行為應"
+  }
+ ]
+}

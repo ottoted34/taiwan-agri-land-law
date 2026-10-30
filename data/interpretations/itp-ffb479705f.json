@@ -1,0 +1,85 @@
+{
+ "id": "itp-ffb479705f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950146403號",
+ "date": "2006-08-21",
+ "date_text": "95/8/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業用地變更回饋金疑義案。",
+ "content": "主旨：有關 貴府函詢農業用地變更回饋金疑義案，復請 查照。\n說明：\n一、復 貴府95年8月15日府農地字第○○○○○號函辦理。\n二、農業用地變更為非農業使用，應視其變更性質，繳交回饋金，為農業發展條例第12條所明定。又有關農業用地其法律依據及範圍於農業發展條例施行細則第2條業有明定。本案非都市一般農業區特定目的事業用地，因非屬前開細則所規範之農業用地，故無「農業用地變更回饋金撥繳及分配利用辦法」之適用。\n三、又前開辦法第3條明定：「『都市計畫』範圍內農業用地變更為非農業使用者，其回饋金之繳交基準，以『變更』或『核准可建築使用面積』與獲准變更或核准使用當期公告土地現值乘積5﹪為計算基準。」故都市計畫農業區申請籌設「土石方資源堆置處理場」，應請依前開規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5147",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:06+08:00",
+   "source_key": "rmis:5147"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950146403號|釋農業用地變更回饋金疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "2aef9bf071e972e54529c085f52da89c0049bda45de0ef58089de677b9346cf0",
+ "topics": [
+  "landfill",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "二、農業用地變更為非農業使用,應視其變更性質,繳交回饋金,為農業發展條例第12條所明定。又有關農業用地其法律依據及範圍於農業發展條例施行細則第2條業有明定。本案"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農業發展條例第12條所明定。又有關農業用地其法律依據及範圍於農業發展條例施行細則第2條業有明定。本案非都市一般農業區特定目的事業用地,因非屬前開細則所規範之農業用地,"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業區特定目的事業用地,因非屬前開細則所規範之農業用地,故無「農業用地變更回饋金撥繳及分配利用辦法」之適用。\n三、又前開辦法第3條明定:「『都市計畫』範圍內農業用地變更為非農業使用"
+  }
+ ]
+}

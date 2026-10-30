@@ -1,0 +1,59 @@
+{
+ "id": "itp-c398f01735",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848887號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修法前之共有農業用地，於修法後取得農舍使用執照，得否將該共有土地之一部分移轉他人(仍持共有不辦理分割)疑義案，請查照。",
+ "content": "1.依據高雄縣政府96年7月25日府農務字第0960173144號函辦理(如附件)。\n2.農業發展條例修法前之共有農地，自得依該條例第16條第4項規定申辦分割，惟如在不分割前提下擬移轉部分土地，則應符合第18條第4項農舍應與其坐落用地併同移轉之規定，合先說明。\n3.本案欲辦理變更原農舍使用執照基地面積，是否應一併辦理土地分割乙節，涉及建管及農舍註記規定，請主政逕復並副知本會。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848887號|有關農業發展條例修法前之共有農業用地於修法後取得農舍使用執照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c81f6c1308b0845f2a591b6d7de4e55375d70dabdd2f179db9be637d55348d90",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修法前之共有農業用地,於修法後取得農舍使用執照,得否將該共有土地之一部分移轉他人"
+  }
+ ]
+}

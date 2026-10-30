@@ -1,0 +1,66 @@
+{
+ "id": "itp-9b1c208a2d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950108160號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用地於農舍旁(或周圍)施作與農業經營無關之擋土牆，是否符合「農業用地容許作農業設施使用審查辦法」之疑義案。",
+ "content": "主旨：有關貴府函詢農業用地於農舍旁(或周圍)施作與農業經營無關之擋土牆，是否符合「農業用地容許作農業設施使用審查辦法」之疑義案，復請查照。\n說明：\n一、復貴府95年2月14日府農務字第0950037771號函。\n二、依本會94年1月11日農企字第0940100053號函說明略以：「．．．擋土牆部分，凡因土地自然因素形成落差，基於防止土石崩塌，避免水土流失；或基於農作經營需要，得認定為農業設施，其高度應以前開防止土石崩落，避免水土流失之高度為準。．．．」。爰以，擋土牆申請農業設施容許使用，仍需基於農作經營需要，始得認定為農業設施，且並應由縣(市)政府依據農業使用之內涵、當地農業經營發展、設施與農業生產經營之必要性及合理性，依農業用地容許作農業設施使用審查辦法等相關規定及上開函釋之原則予以審認，先予敘明。\n三、另查水土保持技術規範第117條規定，擋土牆係指為攔阻土石、砂礫及類似粒狀物質所構築之構造物。本案大園鄉公所所詢於農舍旁(或周圍)單獨施作擋土牆，且與農業經營無關時，致無法依農業用地容許作農業設施審查辦法予以審查一節，應請申請人依水土保持法及水土保持技術規範相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950108160號|農業用地於農舍旁或周圍施作與農業經營無關之擋土牆是否符合農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9879364a65b38f503e073af22f017a112c4f3820dab0f9728642c24aa9f64d15",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業用地於農舍旁(或周圍)施作與農業經營無關之擋土牆,是否符合「農業用地容許作農業設施使用審查辦法」之疑義案。\n主旨:有關貴府函詢農業用地於農舍旁(或周圍)施作與農業經營無關之擋土"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法依農業用地容許作農業設施審查辦法予以審查一節,應請申請人依水土保持法及水土保持技術規範相關規定辦理。"
+  }
+ ]
+}

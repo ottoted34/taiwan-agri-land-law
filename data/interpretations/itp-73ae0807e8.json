@@ -1,0 +1,58 @@
+{
+ "id": "itp-73ae0807e8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843115號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○及○○○等2人拍賣取得原所有各持有1/2之共有農業用地，欲將其上之4棟農舍，以交換方式移轉2人各取得其中2棟之全部所有權，惟因基地未併同辦理交換移轉，衍生移轉後農舍與其坐落基地之持分不一疑義案，請查照。",
+ "content": "1.復 貴部97年1月2日內授中辦地字第0960054991號函。\n2.依農業發展條例第18條第4項規定，農舍應與其坐落用地併同移轉或併同設定抵押權，本案農業用地上之4棟農舍倘以交換方式移轉所有權為2人各取得其中2棟，而農業用地仍為2人各持分2分之1未一併移轉，似未符合上開規定，後續衍生移轉之農舍與其坐落基地之持分不一，涉及土地移轉登記事宜，如何之處？還請卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843115號|有關○○○及○○○等2人拍賣取得原所有各持有1/2之共有農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3dcd68f92ec331a6273c3a226ef59a490ae0cf24718dd40a21514e52c0f2e78e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "7年1月2日內授中辦地字第0960054991號函。\n2.依農業發展條例第18條第4項規定,農舍應與其坐落用地併同移轉或併同設定抵押權,本案農業用地上之4棟農舍"
+  }
+ ]
+}

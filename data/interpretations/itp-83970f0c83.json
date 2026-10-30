@@ -1,0 +1,75 @@
+{
+ "id": "itp-83970f0c83",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920101942號",
+ "date": "2003-01-14",
+ "date_text": "92年1月14日農企字第0920101942號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "059 釋法院拍賣農業用地後，申請核發農業用地作農業使用證明書事宜案",
+ "content": "有關金融機構申請法院拍賣債務人之農業用地後，可否以債權人身分申請退還已扣繳之土地增值稅案，經財政部前函檢附該部89年5月30日台財稅第0890453884號函釋略以：「查土地稅法第39條之3第2項……。法院拍賣之農業用地係屬無須申報土地移轉現值之案件，其合於同法第39條之2第1項規定要件者，依上開規定，應由權利人或義務人提出申請，債權人尚不得代位申請不課徵土地增值稅。」準此，農業金融機構既無法以債權人身分，申請退還已扣繳之土地增值稅，應無申請核發農業用地作農業使用證明書之必要。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920101942號|釋法院拍賣農業用地後申請核發農業用地作農業使用證明書事宜案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "742cb474edae8bea0ffe1156a7027f5623f3b903a46fd99f60be04df5069d79c",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "G0340096",
+   "article": "39-3",
+   "kind": "extracted",
+   "snippet": "89年5月30日台財稅第0890453884號函釋略以:「查土地稅法第39條之3第2項......。法院拍賣之農業用地係屬無須申報土地移轉現值之案件,其合於同法"
+  }
+ ]
+}

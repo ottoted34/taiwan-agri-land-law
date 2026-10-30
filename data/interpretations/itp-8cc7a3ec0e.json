@@ -1,0 +1,64 @@
+{
+ "id": "itp-8cc7a3ec0e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842625號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行前取得之單筆農業用地非都市土地，因都市計畫區劃定而分割為分屬都市土地農業區及非都市土地特定農業區農牧用地，得否依本會96年3月14日農授水保字第0961848256號函申請興建農舍案，復請查照。",
+ "content": "一、依據內政部管建署98年5月6日營署建管字第0980026753號函辦理，併復 台端98年4月14日陳情書。 二、台端63年間取得花蓮縣新城鄉○○○地號土地，嗣因84年間政府依都市計畫法第26條第2款及都市計畫定期通盤檢討實施辦法第41條、第42條之規定，由政府逕為辦理分割分屬都市土地農業區○○○地號及非都市土地特定農業區農牧用地○○○地號者，參照本會96年3月14日農授水保字第0961848256號函如附件，同意於非都市土地新城鄉○○○地號土地，以逕為分割前之農業用地面積申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842625號|農業發展條例修正施行前取得之單筆農業用地非都市土地因都市計畫"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dc4b1e064073662e55b5b3ac02c1249c0e8994fcffcbbbd4e5fe94cfd5379468",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正施行前取得之單筆農業用地非都市土地,因都市計畫區劃定而分割為分屬都市土地農業"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "26",
+   "kind": "extracted",
+   "snippet": "端63年間取得花蓮縣新城鄉○○○地號土地,嗣因84年間政府依都市計畫法第26條第2款及都市計畫定期通盤檢討實施辦法第41條、第42條之規定,由政府逕為辦理分割"
+  }
+ ]
+}

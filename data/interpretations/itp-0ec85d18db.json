@@ -1,0 +1,64 @@
+{
+ "id": "itp-0ec85d18db",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0952906585號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於貴府函詢「農業用地興建農舍辦法」第9條執行疑義案，復請查照。",
+ "content": "一、依據奉交下行政院農業委員會95年4月11日農授水保字第0950118802號函辦理兼復貴府95年4月7日府工建字第0950049998號函。\n二、關於農舍起造人於使用執照申請前，將農地分割合併且未主動告知主管機關，致使用執照核發後，地政機關依「農業用地興建農舍辦法」第9條規定於土地登記簿上註記時，與原申請興建農舍之土地地號及面積不符，而無法辦理註記情事，得依「農業用地興建農舍辦法」第10條規定辦理。\n三、關於建議於核發建照執照後，即送請地政機關於土地登記簿上註記乙節，留供本辦法未來修定時之參考。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0952906585號|關於貴府函詢農業用地興建農舍辦法第9條執行疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c8bbab663591239e1bc273968f4815f4237f965100b5c82779d108bb504d6f07",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "關於貴府函詢「農業用地興建農舍辦法」第9條執行疑義案,復請查照。\n一、依據奉交下行政院農業委員會95年4月11日農授水保字"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "原申請興建農舍之土地地號及面積不符,而無法辦理註記情事,得依「農業用地興建農舍辦法」第10條規定辦理。\n三、關於建議於核發建照執照後,即送請地政機關於土地登記簿上註記乙節,"
+  }
+ ]
+}

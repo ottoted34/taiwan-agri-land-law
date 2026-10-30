@@ -1,0 +1,64 @@
+{
+ "id": "itp-00abb33b4c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970125547號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關都市計畫農業區集村興建農舍建築基地，其每戶最大基層建築面積含公共設施是否應受非都市土地不得超過330平方公尺之限制案，請查照。",
+ "content": "一、復 貴署97年5月13日營署綜字第0970023905號函。\n二、查本會92年8月21日農授水保字第0921847142號函送之「農業用地興建農舍辦法」中有關集村興建農舍法令執行疑義及研商結論登錄本局網站下載專區 ，係本會92年8月7日邀集內政部營建署、地政司、中部辦公室及相關縣市政府研商討論所作之結論，其中議題12之研商結論：「20戶以上起造人各自擁有配合興建農舍之農業用地，得以共有方式於他處另行購買興建用地供集村興建農舍之用地，但該筆農地需符合未屬供他人興建農舍之農業用地，且申請興建農舍之總面積不得超過各戶農業用地總面積含該筆共有農業用地之10，且每戶最大基層面積仍不得超過330平方公尺。」。\n三、至都市土地與非都市土地，分屬不同法令，對於集村農舍每戶最大基層面積，是否應有不同之管制，涉建築管理事項，係屬 貴管，且都市計畫法主管機關為內政部，本案仍還請本於權責核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970125547號|有關都市計畫農業區集村興建農舍建築基地其每戶最大基層建築面積"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ef90490d97cae8515667ead90e5823f2c9118df67b3294a0a9d505ad7dd00913",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "本會92年8月21日農授水保字第0921847142號函送之「農業用地興建農舍辦法」中有關集村興建農舍法令執行疑義及研商結論登錄本局網站下載專區 ,係本會92年8月"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "基層面積,是否應有不同之管制,涉建築管理事項,係屬 貴管,且都市計畫法主管機關為內政部,本案仍還請本於權責核處。"
+  }
+ ]
+}

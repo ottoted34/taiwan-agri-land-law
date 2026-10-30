@@ -1,0 +1,64 @@
+{
+ "id": "itp-436cf54ff8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990110098號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問共有農地分割為單獨所有取得時點疑義案，復請查照。",
+ "content": "1.復台端99年2月8日陳情書。\n2.農業發展條例修正施行後取得之共有農地，經分割為單筆土地，其所有權及面積未更動者，取得之時點計算得由分割前原登記日期起算，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。\n3.且依台端陳情書主旨，本案既經敘明業經地政機關認定該農地取得時間應為法拍取得所有權登記日（95年12月21日），請台端備妥相關資料逕洽縣市政府辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990110098號|有關台端詢問共有農地分割為單獨所有取得時點疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0b25b649227bf22c77a31d7bdba7e42a175296ea51b1e46fc1e2bf47f41e39a1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "點疑義案,復請查照。\n1.復台端99年2月8日陳情書。\n2.農業發展條例修正施行後取得之共有農地,經分割為單筆土地,其所有權及面積未更動者,取得之時點計"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "者,取得之時點計算得由分割前原登記日期起算,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。\n3.且依台端陳情書主旨,本案既經敘明業經地政機關認定該農地取得時"
+  }
+ ]
+}

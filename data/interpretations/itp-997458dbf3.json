@@ -1,0 +1,82 @@
+{
+ "id": "itp-997458dbf3",
+ "doc_class": "interpretation",
+ "docno": "內中地字第8906564號",
+ "date": "2000-03-27",
+ "date_text": "89/3/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "013 申請非都市土地山坡地保育區農牧用地作農業設施容許使用，尚未徵得全部共有人同意，得否適用土地法第34條之1第1項規定，以共有人過半數及其應有部分合計過半數之同意行之疑義。",
+ "content": "按非都市土地申請容許使用，申請人申請之土地為共有者，應符合土地法第34條之1規定，為非都市土地容許使用執行要點第16點附件三附註二（三）所規定，又依本部85年10月5日台（85）內地字第8588001號函釋：「按土地法第34條之1第1項（註 ）所稱『變更』，係指變更共有物之本質或其用途而言，非都市土地申請容許使用，屬變更共有物用途之一，應有土地法第34條之1適用」。是本件共有土地部分共有人出具土地使用同意書申辦農業設施容許使用，如有變更該共有物之情形者，有該條之適用。至各目的事業主管機關（單位）審容許使用案時，應依本部訂頒之「土地法第34條之1執行要點」規定辦理，並依該要點第8（1）點規定，於容許使用項目申請同意書內，列明全體共有人，並敘明依土地法第34條之1第1項、第2項、第3項規定辦理，如有不實，申請人願負法律責任。本案請參照上開規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5008",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:27+08:00",
+   "source_key": "rmis:5008"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內中地字第8906564號|申請非都市土地山坡地保育區農牧用地作農業設施容許使用尚未徵得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2003-12-15",
+    "history": "中華民國九十二年十二月十五日行政院農業委員會農授中字第 0921070714 號令訂定發布全文 28 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "14e349f3500460e813ab3a29b50bdd693d1567e5866d2679ada59d9e56e41512",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

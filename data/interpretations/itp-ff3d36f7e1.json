@@ -1,0 +1,55 @@
+{
+ "id": "itp-ff3d36f7e1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090990842號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴委員針對○○○陳情申請興建農舍疑義案，復如說明，請查照。",
+ "content": "一、依據貴委員服務處 109年8月4日轉○○○陳情書辦理。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關興建農舍經營計畫書審查項目「既有農業經營現況及規模」，申請人應敘明過去 2年內經營實績、農產物種類、產量、銷售情形等，其目的在於審認申請人確有實際從事農業事實，並確保該農舍為特許農民於農業用地上從事積極性、經濟性農業生產活動所需而興建。故直轄市、縣(市)政府主管機關除應考量該農業使用之內涵、當地農業經營發展、有無影響農業生產環境及農村發展外，應審酌該農業生產經營，其興建農舍之必要性及合理性。\n四、至有關○○○所提休耕之相關疑義，查本會於 109年7月8日以農企字第 1090990687號函復貴委員服務處在案，並於 109年6月29日以農企字第 1090222840號函復○○○在案。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090990842號|有關貴委員針對○○○陳情申請興建農舍疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5d6c656a856daa30c21685166d1e2763543af70213edd8ec50f015efa73c0aec",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

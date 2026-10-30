@@ -1,0 +1,59 @@
+{
+ "id": "itp-241b56e610",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848156號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "83年間一般農業區養殖用地可否興建農舍，又自何時開始規定農業區養殖用地可興建農舍及其當時相關規定為何乙案，請查照。",
+ "content": "1.依據內政部96年1月17日內授中辦地字第0960040545號函辦理（如附件），兼復 貴府95年12月19日府農漁字第0950280778號函。\n2.查非都市土地各種使用地之容許使用項（細）目，係明定於非都市土地使用管制規則第6條附表一，該附表77年6月29日修正（當時為第7條），於「養殖用地」之容許使用項目增列「農舍」（附帶條件：應經漁業主管機關同意）。準此，非都市土地之養殖用地係自上開修正時間後，開始容許興建農舍（目前仍維持此規定）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848156號|年間一般農業區養殖用地可否興建農舍又自何時開始規定農業區養殖"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f35856b596ebaf49abe70bb9e8635e715a7bd0a6c18fce9436df0e9969a49cc9",
+ "topics": [
+  "farmhouse",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "。\n2.查非都市土地各種使用地之容許使用項(細)目,係明定於非都市土地使用管制規則第6條附表一,該附表77年6月29日修正(當時為第7條),於「養殖用地」之容許使用項目"
+  }
+ ]
+}

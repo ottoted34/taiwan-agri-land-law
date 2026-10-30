@@ -1,0 +1,58 @@
+{
+ "id": "itp-fdc422c944",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990181078號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函送○○○等37人申請於臺中縣潭子鄉○○○、○○○、○○○、○○○、○○○地號，以集村方式興建農舍，申請辦理專案分割案，復請 查照。",
+ "content": "1.復 貴府99年11月30日府農地字第0990371615號函。\n2.農業用地興建農舍辦法第6條第3款規定，申請興建農舍之該宗農業用地扣除興建農舍土地面積後，供農業生產使用部分應為完整區塊，且其面積不得低於該宗農業用地面積90%；又前開辦法第8條第1項第4款規定，集村農舍之基層建築面積應完整連接，不得零散分布，亦即計算參與集村興建農舍之總建築基地應完整連接不得零散分布，亦無所謂農舍間夾雜10分之9作農業使用之農地情形，合先敘明。\n3.有關興建農舍面積與供農業生產使用面積比例計算，係屬貴府權責，本會不做實質審查，惟依所附案卷資料，該興建農舍用地面積係供計入農業用地建築面積，則供農業生產使用部分之面積是否符合不得低於農業用地面積90%之規定？又位於農舍坐落基地之何處？以上請貴府依權責釐清無誤後，再向本會申請專案分割。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990181078號|貴府函送○○○等37人申請於臺中縣潭子鄉○○○○○○○○○○"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4d7a366978b4ed99fcd130a7681f2644e6f6a02ec1e2040ffc825ebde8e06a0e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "99年11月30日府農地字第0990371615號函。\n2.農業用地興建農舍辦法第6條第3款規定,申請興建農舍之該宗農業用地扣除興建農舍土地面積後,供農業生產使用部分"
+  }
+ ]
+}

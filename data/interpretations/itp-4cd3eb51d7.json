@@ -1,0 +1,59 @@
+{
+ "id": "itp-4cd3eb51d7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931817540號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "現役軍人是否符合農業用地興建農舍辦法第3條第1項之農民資格認定要件案，復請查照。",
+ "content": "一、復貴府93年7月30日府農務字第0930140919號函。\n二、關於農業用地申請興建農舍之農民資格認定，悉依「農業用地興建農舍辦法」第3條第1項規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931817540號|現役軍人是否符合農業用地興建農舍辦法第3條第1項之農民資格認"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6d11215b1f6ee7983d930d45cd63dea9445a2109c745770ed083c8525770d4fb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "現役軍人是否符合農業用地興建農舍辦法第3條第1項之農民資格認定要件案,復請查照。\n一、復貴府93年7月30日府農務字第09"
+  }
+ ]
+}

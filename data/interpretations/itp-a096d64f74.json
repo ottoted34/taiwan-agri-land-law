@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5979",
    "serial": null,
-   "fetched_at": "2026-10-30T09:54:09+08:00",
+   "fetched_at": "2026-10-30T11:21:21+08:00",
    "source_key": "rmis:5979"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1090200918號|有關貴局函詢興辦工業人申請使用毗連非都市土地擴展計畫位於山坡"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,22 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "興辦工業人申請使用毗連非都市土地擴展計畫位於山坡地範圍,涉及「農業用地變更回饋金撥繳及分配利用辦法」之疑義案,復請查照。\n一、依據農業發展條例第12條規定:「(第1項)第10條第1"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "變更回饋金撥繳及分配利用辦法」之疑義案,復請查照。\n一、依據農業發展條例第12條規定:「(第1項)第10條第1項用地之變更,應視其事業性質,繳交回饋金,撥交第5"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

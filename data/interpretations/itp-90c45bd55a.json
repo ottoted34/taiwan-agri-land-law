@@ -1,0 +1,58 @@
+{
+ "id": "itp-90c45bd55a",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0940054564號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於「農業用地興建農舍辦法」第8條第7款所稱之「計畫道路」，係指都市計畫道路及依公路法規劃、興建之道路，復請查照。",
+ "content": "復貴府94年10月7日府建管字第0940123171號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0940054564號|關於農業用地興建農舍辦法第8條第7款所稱之計畫道路係指都市計"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "33c20a6bb843cfa135f3bba9bb1d82fb6f9f007fb1e46e9d0282e7538b787fc0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "關於「農業用地興建農舍辦法」第8條第7款所稱之「計畫道路」,係指都市計畫道路及依公路法規劃、興建之道路,復請查照。"
+  }
+ ]
+}

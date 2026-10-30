@@ -1,0 +1,71 @@
+{
+ "id": "itp-763400cdc6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0991875291號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地出典設定典權及農舍興建之關係疑義，復請查照。",
+ "content": "1.復貴府99年4月30日府建農字第0990028943號函。\n2.查農業用地興建農舍辦法第3條第1項第5款規定，申請人為該農業用地之所有權人，且該農業用地應確供農業使用，是以，出典人雖為土地所有權人，惟因其已將農業用地設定典權，對該農業用地並無使用收益之權，亦即，該農業用地已非供土地所有權人農業使用。\n3.有關農業用地之土地所有權人或相關權利人申請「農業用作做農業使用證明書」，應依農業用地作農業使用認定及核發證明辦法辦理，與土地是否設定典權無涉。\n4.故設定典權之土地所有權人得否申請興建農舍，請貴府本於權責依農業發展條例第18條立法意旨予以審酌。\n5.有關來函說明三，係屬個案業務執行問題，與法令疑義無涉，建議貴府加強橫向資訊之聯結，以減少實務執行弊端發生。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0991875291號|有關農業用地出典設定典權及農舍興建之關係疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9d7726c6a7fe2aba75ff9805960e327b92f3a52b6ec04cfe0e9cee3a62eba984",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "99年4月30日府建農字第0990028943號函。\n2.查農業用地興建農舍辦法第3條第1項第5款規定,申請人為該農業用地之所有權人,且該農業用地應確供農業使用,是以"
+  },
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地所有權人或相關權利人申請「農業用作做農業使用證明書」,應依農業用地作農業使用認定及核發證明辦法辦理,與土地是否設定典權無涉。\n4.故設定典權之土地所有權人得否申請興建農舍,請"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ".故設定典權之土地所有權人得否申請興建農舍,請貴府本於權責依農業發展條例第18條立法意旨予以審酌。\n5.有關來函說明三,係屬個案業務執行問題,與法令疑義無涉,建"
+  }
+ ]
+}

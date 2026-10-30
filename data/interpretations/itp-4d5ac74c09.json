@@ -1,0 +1,59 @@
+{
+ "id": "itp-4d5ac74c09",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1070210368號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○有限公司申請貴市大溪區○○號(都市計畫農業區)農舍屋頂設置太陽光電發電設備免請領雜項執照疑義案，復如說明，請查照。",
+ "content": "一、復行政院農業委員會交下貴府107年3月14日府農管字第1070056504號函。\n二、有關農舍屋頂申請設置興建太陽能光電發電設備，是否符合農業用地興建農舍辦法相關規定案，本局業以105年1月8日水保農字第1040251013號函敘明(如貴府來函說明三)。\n三、至農舍屋頂設置太陽光電發電設備之個案，是否未改變原有農舍主要使用目的及不影響90%農業生產環境，仍請貴府依個案事實予以卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1070210368號|有關○○有限公司申請貴市大溪區○○號都市計畫農業區農舍屋頂設"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "04158644043bfb8c309405c660b1777ce996ad566d46ec39ea1c9671c44349d3",
+ "topics": [
+  "farmhouse",
+  "green_energy"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "。\n二、有關農舍屋頂申請設置興建太陽能光電發電設備,是否符合農業用地興建農舍辦法相關規定案,本局業以105年1月8日水保農字第1040251013號函敘明(如貴"
+  }
+ ]
+}

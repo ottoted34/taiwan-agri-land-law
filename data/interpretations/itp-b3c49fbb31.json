@@ -1,0 +1,52 @@
+{
+ "id": "itp-b3c49fbb31",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060209472號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢○○○申請三星鄉○○○地號農業用地興建農舍申請人資格案，是否屬特殊地形者之認定及農業用地興建農舍申請用地內之通路寬度標準案，復如說明，請查照。",
+ "content": "一、復貴府106年3月14日府農務字第1060040403號函。\n二、經查本局105年3月23日召開105年研商農舍相關議題第一次會議(貴府亦派員出席)，已就「有關農舍建築物與都市計畫道路境界線之距離部分，其面積應否納入農舍用地範圍疑義案」討論，並獲致決議(詳會議記錄案由一決議)，貴府於實際審查時，得視其農業用地所在區位之土地使用管制與建築規定，參照前開決議意旨，本權責卓處。\n三、另有關農舍因臨道路境界線須退縮者，為連接現有道路所須之通路最小寬度，其寬度限制應屬地方管理權限，應依貴府相關建管規定辦理，或建請貴府依事實本權責自行審酌，並得參考其他縣市政府作法訂定相關審查辦法規範之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060209472號|有關貴府函詢○○○申請三星鄉○○○地號農業用地興建農舍申請人"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "189e7f1e042afd661fc5913e5c123bb0d2cff72978eee8274f4bc3048fa63a39",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

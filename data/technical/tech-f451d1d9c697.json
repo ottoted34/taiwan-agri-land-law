@@ -1,0 +1,44 @@
+{
+ "id": "tech-f451d1d9c697",
+ "source_key": "datamoa:740:93c6a0fe2aa46ed5",
+ "title": "農作物防減災與生產調適",
+ "series": "技術專刊",
+ "issue": "技術專刊110-1(NO.174)",
+ "agency_id": "tndais",
+ "authors": "石佩玉、吳昭慧、陳國憲、陳榮坤、黃士晃、張為斌、張汶肇、張元聰、黃圓滿、郭明池、趙秀淓、游添榮、劉依昌、謝明憲、謝禮臣",
+ "date": "2021-09",
+ "url": null,
+ "isbn": null,
+ "gpn": "1011001378",
+ "pages": "103頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊110-1(NO.174)",
+  "題目": "農作物防減災與生產調適",
+  "作者": "石佩玉、吳昭慧、陳國憲、陳榮坤、黃士晃、張為斌、張汶肇、張元聰、黃圓滿、郭明池、趙秀淓、游添榮、劉依昌、謝明憲、謝禮臣",
+  "出版日期年月": "11009",
+  "頁數": "103頁",
+  "定價": "200",
+  "政府出版品編號GPN": "1011001378",
+  "連結位址2HTM": "https://book.tndais.gov.tw/Brochure/tech174.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "34e104a1688dc7a3f5181d061a605e07364526e8cc7bece9d4d744ba6541165b",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "disaster"
+ ]
+}

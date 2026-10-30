@@ -1,0 +1,67 @@
+{
+ "id": "itp-d51712595b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080231318號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢農業發展條例89年修正施行前取得之農業用地，逕為分割為不同分區之2筆土地，得否合併計算面積申請興建農舍疑義案，復如說明，請查照。",
+ "content": "一、復貴府108年7月23日府農務字第1080121805號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業發展條例及農業用地興建農舍辦法第2條規定，申請興建農舍之土地，係指單一筆地號土地，且其面積大於0.25公頃以上始得申請興建，不得以多筆相毗鄰地號土地合併計算。故旨案農舍之審查，應依上開規定予以審酌核處。\n四、至本會96年3月14日農授水保字第0961848256號函，查係提供於都市計畫細部計畫核定發布實施後，於豎立都市計畫樁、計算坐標及辦理地籍分割測量階段，尚未實質異動土地權利之個案案例，惟因多有誤解，且恐有牴觸農業發展條例之立法意旨之虞，爰本會於100年6月16日以農授水保字第1001866169號函停止適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080231318號|有關貴府函詢農業發展條例89年修正施行前取得之農業用地逕為分"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bae9ef207beff847bf0700c7b29682695ec377772f015eb416f4004478565594",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函詢農業發展條例89年修正施行前取得之農業用地,逕為分割為不同分區之2筆土地,得否合併計算面積申"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "非擁有農業用地即可興建農舍,先予敘明。\n三、依農業發展條例及農業用地興建農舍辦法第2條規定,申請興建農舍之土地,係指單一筆地號土地,且其面積大於0.25公頃以上始得申"
+  }
+ ]
+}

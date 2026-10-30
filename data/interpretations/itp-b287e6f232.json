@@ -1,0 +1,90 @@
+{
+ "id": "itp-b287e6f232",
+ "doc_class": "interpretation",
+ "docno": "農企字第900121099號",
+ "date": "2001-05-03",
+ "date_text": "90/5/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "031 公有土地申請農業用地作農業使用證明書，無需檢附租賃契約及讓售同意書案",
+ "content": "查農業用地作農業使用證明書之申請核發係為查明申請標的是否確作農業使用或無違規使用情事，俾符合申辦農業發展條例第18條、第31條、第37條及第38條業務事項之要件之一。至申辦各該業務所需其他證明文件應由各相關權責主管機關核處，不宜由農業單位審核。是以旨揭公有土地申請農業用地作農業使用證明書，並無需檢附租賃契約及讓售同意書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5540",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:23+08:00",
+   "source_key": "rmis:5540"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900121099號|公有土地申請農業用地作農業使用證明書無需檢附租賃契約及讓售同"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "18",
+    "amended_on": "2002-01-30",
+    "history": "中華民國九十一年一月三十日總統（91）華總一義字第 09100019010號令修正公布第 12、18、25、71 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "20efdd8db3bc333db37b65e3a6403750183d5301933426f869008db9ea4e2e3d",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "係為查明申請標的是否確作農業使用或無違規使用情事,俾符合申辦農業發展條例第18條、第31條、第37條及第38條業務事項之要件之一。至申辦各該業務所需其他證明文件"
+  }
+ ]
+}

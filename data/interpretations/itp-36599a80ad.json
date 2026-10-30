@@ -1,0 +1,58 @@
+{
+ "id": "itp-36599a80ad",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000131559號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關起造人於領得農舍建造執照施工期間死亡，繼承人是否須依據農業用地興建農舍辦法第3條規定具備農民身分，始得變更起造人乙案，檢送內政部92年7月11日台內營建管字第0920087592號函（如附件）供參，請 查照。",
+ "content": "復 貴局100年5月18日北農牧字第1000502190號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000131559號|有關起造人於領得農舍建造執照施工期間死亡繼承人是否須依據農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "098b5870b6487e7d866ab35b03047459637b48ad970d68414370e13c53b0436d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "有關起造人於領得農舍建造執照施工期間死亡,繼承人是否須依據農業用地興建農舍辦法第3條規定具備農民身分,始得變更起造人乙案,檢送內政部92年7月11日台內營建管字第0"
+  }
+ ]
+}

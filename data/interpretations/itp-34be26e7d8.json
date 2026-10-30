@@ -1,0 +1,73 @@
+{
+ "id": "itp-34be26e7d8",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1050014507號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端所詢89年以前舊有農舍增修改建是否要經過農業單位核准1案，復請查照。",
+ "content": "一、依據臺端105年3月11日申請書辦理。\n二、農業用地興建農舍辦法（以下簡稱本辦法）102年7月1日增訂第9條第2項第6款規定略以「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，且農舍建築面積應超過45平方公尺。…」係指同一筆農業用地僅能申請興建一棟農舍，得採分期興建，且採分期興建辦理者如非原申請人，須符合本辦法第2條第1項資格；另該規定所稱「分期興建」，係指建築法第9條規定之「新建」及「增建」等建造行為，先予敘明。\n三、按臺端來文所述及檢附資料，臺端於86年購買取得農舍後，於98年增建第2層樓並取得使用執照，因二樓三面強壁大面積龜裂滲水，今欲拆除第2層再重蓋，如屬建築法第9條規定之改建或修建行為，尚非本辦法前揭規定所稱「採分期興建辦理」之情形，得逕依建築法相關規定向當地建管單位申請。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署綜字第1050014507號|有關臺端所詢89年以前舊有農舍增修改建是否要經過農業單位核准"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-e2931d78a4",
+    "by_docno": "營署綜字第1080097935號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "至本署曾以105年3月25日營署綜字第1050014507號函揭示:「本辦法第9條第2項第6款規定所稱『分期興建』,係指建築法第9條規定之『新建』」1節及相關引據之函釋,自即日停止適用"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d973adb312f5d98b516a9706f64e009d2be98844c076030f2467be760570e3a2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "復請查照。\n一、依據臺端105年3月11日申請書辦理。\n二、農業用地興建農舍辦法(以下簡稱本辦法)102年7月1日增訂第9條第2項第6款規定略以「同一筆農業用地"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "須符合本辦法第2條第1項資格;另該規定所稱「分期興建」,係指建築法第9條規定之「新建」及「增建」等建造行為,先予敘明。\n三、按臺端來文所述及檢附資料,臺"
+  }
+ ]
+}

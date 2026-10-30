@@ -1,0 +1,65 @@
+{
+ "id": "itp-5daae18e24",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851943號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關耕地以外之農業用地因不受農業發展條例第16條分割之限制，故89年1月26日修法後申請興建農舍之非耕地，其分割後每一支地號土地是否除應與農舍併同移轉外，並辦理註記列管不得再申請建築疑義案，復請查照。",
+ "content": "一、復宜蘭縣政府95年3月21日府農務字第0950034841號函、桃園縣政府95年3月28日府農務字第0950087644號函、南投縣政府95年3月27日府農務字第09500617890號函、高雄縣政府95年3月17日府農務字第0950064715號函。\n二、本會95年8月16日邀集內政部等相關單位研商「農舍興建分割移轉及合併計算面積興建農舍農地變更編定等相關疑義案」會議決議略以：「請內政部檢討『農業用地興建農舍辦法』第9條農舍造冊註記列管規定」在案 對於興建有農舍之非耕地分割後每一筆（支地號），應依規定辦理註記列管外，並不得再申請建築。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851943號|貴府函詢有關耕地以外之農業用地因不受農業發展條例第16條分割"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9873b73278fdadb1fce726dbb77036031c13c330e5217f6a66ccbd3e9331fbe1",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "貴府函詢有關耕地以外之農業用地因不受農業發展條例第16條分割之限制,故89年1月26日修法後申請興建農舍之非耕地,其分割後每一支地號土地"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "建農舍農地變更編定等相關疑義案」會議決議略以:「請內政部檢討『農業用地興建農舍辦法』第9條農舍造冊註記列管規定」在案 對於興建有農舍之非耕地分割後每一筆(支地號),應依規"
+  }
+ ]
+}

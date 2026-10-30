@@ -1,0 +1,64 @@
+{
+ "id": "itp-dac30f44b6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050708491號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端陳情已興建農舍之共有農業用地經法院調解分割一案，復請查照。",
+ "content": "一、復臺端105年3月21日陳情書。\n二、有關農舍業務係涉內政部及本會二部會權責，其中農業發展條例農舍之立法意旨及農民資格等由本會主政，建築管理及土地管制則為內政部權責，爰有關農舍解除套繪管制等依例均由內政部主辦，若涉農業發展條例立法意旨者，則由該部函本會表示意見後，再對外主政函釋，先予敘明。\n三、有關已興建農舍之耕地，如符合農業發展條例第16條規定，得辦理分割，惟仍須受同條例第18條第4項規定限制，內政部102年12月6日台內地字第1020360708號函釋有案，因此，除農業發展條例第16條有但書規定者外，其餘已興建農舍之共有農業用地若辦理分割，仍應受農業用地興建農舍辦法第12條所規範。\n四、承上，無論係法院判決分割、法院和解分割或鄉鎮市區公所調解委員會調解分割者，均須遵循前開規定，否則將使前開規定淪為具文，本會已建議內政部應函知各級法院，於審理是類案件時應注意相關規定。\n五、至於臺端所陳事項，依上述業務分工係屬內政部權責，仍應以該部相關函釋為準據。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050708491號|有關臺端陳情已興建農舍之共有農業用地經法院調解分割一案復請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0a2b71e9b469994542f823ea05f7fe80d5e31f5b55a71ff913433d7b67667777",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "再對外主政函釋,先予敘明。\n三、有關已興建農舍之耕地,如符合農業發展條例第16條規定,得辦理分割,惟仍須受同條例第18條第4項規定限制,內政部102年12月6日"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "但書規定者外,其餘已興建農舍之共有農業用地若辦理分割,仍應受農業用地興建農舍辦法第12條所規範。\n四、承上,無論係法院判決分割、法院和解分割或鄉鎮市區公所調解委員會調解"
+  }
+ ]
+}

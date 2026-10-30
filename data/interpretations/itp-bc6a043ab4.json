@@ -1,0 +1,54 @@
+{
+ "id": "itp-bc6a043ab4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950130246號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢關於○○公司申請清水鎮○○○號內部分土地，由農牧用地變更編定為特定目的事業用地案，本會意見如說明，復請查照。",
+ "content": "一、復 貴署95年6月1日營署建管字第0952908946號函。\n二、農業用地允許興建農舍，係為協助農業經營之目的，且該農業用地興建農舍後，仍需保留一定比例維持農業生產。而本案提供興建農舍之配合耕地業於93年變更為特定目的事業用地，其範圍已非屬農業用地範圍，應無所稱「耕地比釋出」之問題;又現行並未同意得以新取得之其他農地替代配合耕地之作法，併予說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950130246號|貴府函詢關於○○公司申請清水鎮○○○號內部分土地由農牧用地變"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0ade3973e6d341e68bcf62148e894e5c80910716fec97335a023dbbf4f708973",
+ "topics": [
+  "partial_use",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

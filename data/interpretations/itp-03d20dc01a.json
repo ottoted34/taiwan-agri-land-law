@@ -1,0 +1,70 @@
+{
+ "id": "itp-03d20dc01a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990157159號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴署函詢領有農舍使用執照，因基地分割產權移轉，擬申請塗銷農舍部分配合耕地之地籍套繪，另案申請建築執照案，復請查照。",
+ "content": "1.復貴府99年8月20日營署建管字第0992916319號函。\n2.依農業發展條例第18條規定：「已申請興建農舍之『農業用地』不得重複申請。」復依農業用地興建農舍辦法第9條規定：「都市計畫地區之『農業用地』，直轄市、縣（市）主管機關應於都市計畫及地籍套繪圖上，將已興建及未興建農舍之農業用地分別著色標示。」以註記列管。\n3.本案農業用地經都市計畫變更為其他使用分區（如住宅區），已非屬農業用地，逕為塗銷配合耕地之地籍套繪註記，並另依建築法等相關規定，檢討辦理使用執照變更等事宜，本會無意見。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990157159號|有關貴署函詢領有農舍使用執照因基地分割產權移轉擬申請塗銷農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "412ce154845873dfbb18bf846e2183e57b05a9a2260023b3071321088a4b4fb5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "9年8月20日營署建管字第0992916319號函。\n2.依農業發展條例第18條規定:「已申請興建農舍之『農業用地』不得重複申請。」復依農業用地興建農舍辦法第9"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "8條規定:「已申請興建農舍之『農業用地』不得重複申請。」復依農業用地興建農舍辦法第9條規定:「都市計畫地區之『農業用地』,直轄市、縣(市)主管機關應於都市計畫及地籍套"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "區),已非屬農業用地,逕為塗銷配合耕地之地籍套繪註記,並另依建築法等相關規定,檢討辦理使用執照變更等事宜,本會無意見。"
+  }
+ ]
+}

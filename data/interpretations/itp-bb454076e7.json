@@ -1,0 +1,58 @@
+{
+ "id": "itp-bb454076e7",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0970128152號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○函為申請集村興建農舍，其部分建築用地被現有巷道佔用，得否扣除現有巷道佔用所剩餘之面積申請興建案，復請查照。",
+ "content": "一、復 貴署97年5月26日營署綜字第0970027346號函。\n二、「農業發展條例」第16條第7款暨其施行細則第11條第1項第6款規定，集村興建農舍建築坐落基地得申請專案分割，以於耕地上興建集村農舍為限，並未包括配合耕地供農業生產之農業用地 又「農業用地興建農合辦法」第8條第1項第1款規定：「20戶以上之農民為起造人，共同在一宗或數宗相毗連之農業用地整體規劃興建農舍……。」，合先說明。\n三、○○○擬申請集村興建農舍建築坐落之基地，似得以扣除現有巷道佔用所剩餘之面積提出申請，惟應符合上開辦法「共同在一宗或數宗相毗連之農業用地整體規劃興建」即申請興建農舍之建築基地，主要包括60％之農舍基層建築基地及40％公共設施用地，而無預留其他用地。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0970128152號|有關○○○函為申請集村興建農舍其部分建築用地被現有巷道佔用得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "889c40594c7e3884d4547ab0006726fa6e63dae08108859d8bf0adbb3aaa4c50",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "署97年5月26日營署綜字第0970027346號函。\n二、「農業發展條例」第16條第7款暨其施行細則第11條第1項第6款規定,集村興建農舍建築坐落基地得申請專案分"
+  }
+ ]
+}

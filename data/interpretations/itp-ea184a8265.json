@@ -1,0 +1,59 @@
+{
+ "id": "itp-ea184a8265",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第0960051711號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍辦理建物所有權第一次登記時，所檢附之權利證明文件為移轉契約書時，需否由申請人檢附行政院農業委員會96年3月14日農授水保字第0961848173號函規定之文件疑義乙案，復請查照。",
+ "content": "一、復貴府96年9月21日府地籍字第0960133881號函。\n二、查「農舍」係與農業經營不可分離之建築物，為符合農業發展條例第18條之立法精神及落實農地管理政策，地政機關自應配合上開規定管制農舍應與其坐落用地併同移轉，且其承受人應符合無自用農舍之規定（即一人僅能有一戶農舍），合先敘明。\n三、茲據行政院農業委員會之「農舍與其坐落用地併同移轉時，其承受人資格審查疑義彙整表」案由十二，本部原擬意見為：本件係為辦理建物所有權第一次登記而非移轉登記，故無需檢附，並經該會審核：無意見在案。惟為避免一人有二戶以上農舍之虞，及與案由三之處理原則矛盾，是以有關依旨揭申請建物所有權第一次登記案件，應檢附申請人具結僅有一戶農舍之書面聲明，憑以辦理登記。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授中辦地字第0960051711號|有關農舍辦理建物所有權第一次登記時所檢附之權利證明文件為移轉"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d12055b9eb5761e73e89c9be85b2e316b0dfb2ade9eaae4f90dc196cc78cbdf4",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "1號函。\n二、查「農舍」係與農業經營不可分離之建築物,為符合農業發展條例第18條之立法精神及落實農地管理政策,地政機關自應配合上開規定管制農舍應與其坐落用地併同"
+  }
+ ]
+}

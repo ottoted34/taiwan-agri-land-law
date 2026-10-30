@@ -1,0 +1,37 @@
+{
+ "id": "tech-d4c2348b095b",
+ "source_key": "datamoa:D57:2102d6d42a7468f3",
+ "title": "臺中區農業改良場常見問答",
+ "series": "常見問答",
+ "issue": "",
+ "agency_id": "tcdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.tcdares.gov.tw/theme_list.php?theme=FAQ_category",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D57",
+  "title": "臺中區農業改良場常見問答",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D57"
+ },
+ "raw": {
+  "名稱": "臺中區農業改良場常見問答",
+  "連結": "https://www.tcdares.gov.tw/theme_list.php?theme=FAQ_category",
+  "資料日期": "2017-11-01"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D57",
+   "fetched_at": "2026-10-30T11:57:48+08:00"
+  }
+ ],
+ "content_hash": "125c74f50f4c38774ca24397a9983ce340b687a31cd02ae5ce2701095ddceec0",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4959",
    "serial": null,
-   "fetched_at": "2026-10-30T10:13:24+08:00",
+   "fetched_at": "2026-10-30T11:40:37+08:00",
    "source_key": "rmis:4959"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1020712124號|都市計畫農業區保護區申請農業用地作農業設施容許使用之行政執行"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -51,22 +57,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "102年4月12日府農保字第1020065276。\n二、依據「都市計畫法台灣省施行細則」第29條第1項規定:「農業區為保持農業生產而劃定,除保持農業生產"
+  },
+  {
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "予敘明。\n三、查本會為審查有固定基礎農業設施之容許使用,依據農業發展條例第8條之1第3項之授權,訂有「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "設施之容許使用,依據農業發展條例第8條之1第3項之授權,訂有「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法),作為執行依據。有關都市計畫範圍內之「農業區」或「保護區」亦"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

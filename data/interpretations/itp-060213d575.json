@@ -18,34 +18,30 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=302",
    "serial": null,
-   "fetched_at": "2026-10-30T10:20:57+08:00",
+   "fetched_at": "2026-10-30T11:48:11+08:00",
    "source_key": "rmis:302"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960115889號|有關申請無自用農舍證明之受理單位應以申請興建農舍所在地之主管"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "possibly_affected",
+  "status": "amended_by_later",
   "confirmed": false,
   "basis": [
    {
-    "type": "law_amendment",
-    "law_id": "RMIS-2006",
-    "law_name": "農業用地興建農舍辦法",
-    "article": null,
-    "amended_on": "2013-07-01",
-    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
-    "relation_kind": "official"
-   },
-   {
-    "type": "law_amendment",
-    "law_id": "RMIS-2006",
-    "law_name": "農業用地興建農舍辦法",
-    "article": null,
-    "amended_on": "2015-09-04",
-    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
-    "relation_kind": "official"
+    "type": "amend_signal",
+    "by_id": "itp-ac4c8ac073",
+    "by_docno": "農授水保字第0981842605號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "三、依67年1月7日內政部(67)台內營字第779171號令修正發布「實施區域計畫地區建築管理辦法」規定,貴縣轄內之無自用農舍證明如確,皆由鄉(鎮、市)公所核發,則本會96年3月30日農授水保字第0960115889號函釋,所指主管機關應指鄉(鎮、市、區)公所"
    }
   ]
  },
@@ -58,10 +54,12 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

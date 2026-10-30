@@ -1,0 +1,59 @@
+{
+ "id": "itp-a956359a48",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100250142號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "原依法申請興建農舍資格之建物，因承包商偽造建造執照以致建物位置與原核准圖說不符，得否重新核發或延用農舍興建資格疑義案",
+ "content": "主旨：有關貴府函詢原依法申請興建農舍資格之建物，因承包商偽造建造執照以致建物位置與原核准圖說不符，得否重新核發或延用農舍興建資格一案，復如說明，請查照。\n說明：\n一、復貴府110年11月22日府農務字第1100192394號函。\n二、針對本案處理方式，本會前以110年10月25日農企字第1100723894號函表示意見在案，然本案因民、刑事訴訟爭議，致衍生農舍興建資格之行政處分存續疑義，故有關行政程序法相關規定或行政處分救濟途徑及程序等，建請洽詢貴府法制單位予以協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100250142號|原依法申請興建農舍資格之建物因承包商偽造建造執照以致建物位置"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "71c06aeb1a5e38087e4db80968979c2b079b7ca9bb0605132b241df37e9babb0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、刑事訴訟爭議,致衍生農舍興建資格之行政處分存續疑義,故有關行政程序法相關規定或行政處分救濟途徑及程序等,建請洽詢貴府法制單位予以協處。"
+  }
+ ]
+}

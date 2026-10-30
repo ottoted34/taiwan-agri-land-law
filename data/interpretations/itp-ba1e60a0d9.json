@@ -1,0 +1,52 @@
+{
+ "id": "itp-ba1e60a0d9",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920174345號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣羅東鎮○○○陳情為其持有農地分割後興建農舍疑義案，復如說明，請查照。",
+ "content": "一、復貴府92年12月10日府農務字第0920147565號函。\n二、依據內政部92年12月10日內授中辦地字第0920020154號函說明二：「．．．共有物分割係屬原物取得，尚非屬權利移轉變動．．．」。\n三、本案○○○與○○○分割後所取得之面積僅相差1平方公尺，乃土地測量與分割所難以避免之公差，本案得依修法前相關規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920174345號|有關貴縣羅東鎮○○○陳情為其持有農地分割後興建農舍疑義案復如"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d813b867fd132d6ccd5624c8a4f6d128deea2031f4b8dbfb10cb6e48093debe2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

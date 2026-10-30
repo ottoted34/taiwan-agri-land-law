@@ -1,0 +1,58 @@
+{
+ "id": "itp-2e149b9b46",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990183217號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴部函詢農業發展條例第18條第4項執行疑義案，提供本會意見如下，復請查照。",
+ "content": "一、復貴部99年12月10日內授中辦地字第0990726150號函。\n二、依農業發展條例第18條第4項規定，「第一項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；...」，故農業發展條例修正前或後取得之農業用地興建農舍，其移轉仍應符合本會90年5月22日（90）農輔字第900122265號函之規定，即農地與農舍不應有所有權人不同及持分不一致之情形；另農業用地如已興建農舍，農舍與其坐落農業用地應併同移轉，不得單獨移轉，至承受人應否限制為共有人，本條例並無規定。\n三、惟有關農業發展條例修正前興建之農舍，其移轉依貴部97年7月3日召開會議結論辦理，即業經建管單位審查符合實施區域計畫地區建築管理辦法第5條規定，並核發使用執照者，嗣後地政機關受理農舍與其坐落用地移轉登記時，除審查移轉之坐落用地面積不得少於移轉農舍之一樓樓地板面積外，無須再依內政部87年1月8日台內地字第8612295號函釋審查移轉後之農地面積有無符合上開建管法令規定原核准使用面積。建議宜先釐清97年7月3日召開會議之討論議題背景，視個案情況審認是否有該會議結論之適用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990183217號|有關貴部函詢農業發展條例第18條第4項執行疑義案提供本會意見"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b1d61fbf44730f606276a0629d5a75a3c4aeb408b3c5c3ee225f34a30d308fbc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關貴部函詢農業發展條例第18條第4項執行疑義案,提供本會意見如下,復請查照。\n一、復貴部99年12月10日內授"
+  }
+ ]
+}

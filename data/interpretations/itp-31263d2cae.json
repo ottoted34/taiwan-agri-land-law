@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5974",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:07+08:00",
+   "fetched_at": "2026-10-30T11:16:19+08:00",
    "source_key": "rmis:5974"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1132610693號|有關貴縣林邊鄉公所函詢不利農業經營之農業用地存在排水設施溝渠"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -38,16 +44,18 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "30",
    "kind": "extracted",
    "snippet": "),申請綠能設施容許使用之面積計算疑義案,請查照。\n一、依據「申請農業用地作農業設施容許使用審查辦法」第30條規定,於農業部公告之「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

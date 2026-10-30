@@ -1,0 +1,66 @@
+{
+ "id": "itp-8255d1dd62",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920163303號",
+ "date": "2003-10-31",
+ "date_text": "92年10月31日農企字第0920163303號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "061 釋未經申請建築許可即先行動工興建農舍，其為補申請建築執照，應檢附農業用地作農業使用證明書之核發事宜案",
+ "content": "一、查農業發展條例民國89年1月26日公佈施行前取得農業用地，而於該條例公布施行後申請興建農舍者，仍應檢附農業用地作農業使用證明書，本會92年8月22日農輔字第0920147195號函釋在案。惟農民有於申請農業用地作農業使用證明書之前，即已先行動工興建農舍，致無法取得前開證明書。\n二、為利旨揭未經申請建築許可即先行動工興建之農舍，依法補辦申請建築執照，農民於申請農業用地作農業使用證明書時，如其申請書係勾選「為辦理農業發展條例第18條『申請興建自用農舍』」，且經建設或工務單位於農業用地作農業使用證明審查表中註明「農業用地上有應補辦申請建築執照之農舍」者，倘其他審查項目均符合規定，則可核發農業用地作農業使用證明書；惟應於該證明書上註明「本證明書僅供申請補辦農舍建築執照使用」等文字。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920163303號|釋未經申請建築許可即先行動工興建農舍其為補申請建築執照應檢附"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-50a0d391b2",
+    "by_docno": "農企字第0950115471號",
+    "by_date": "2006-03-30",
+    "kind": "amend",
+    "phrase": "」又依本會93年2月9日農企字第0930105880號函釋略以:「有關農業發展條例89年1月26日修正施行後取得之農業用地,未經申請建築許可即先行動工興建農舍,為補申請建築執照仍得適用本會92年10月31日農企字第0920163303號函釋規定,核發僅供申請補辦農舍建築執照使用之農業使用證明書"
+   }
+  ]
+ },
+ "content_hash": "8f1ba2ad0e131b58160f0d3b5c0885e583613e593c52e81f806dc30616ae7ace",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "民於申請農業用地作農業使用證明書時,如其申請書係勾選「為辦理農業發展條例第18條『申請興建自用農舍』」,且經建設或工務單位於農業用地作農業使用證明審查表中註明「"
+  }
+ ]
+}

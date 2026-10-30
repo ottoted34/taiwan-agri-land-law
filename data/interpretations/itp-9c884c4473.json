@@ -1,0 +1,58 @@
+{
+ "id": "itp-9c884c4473",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1030739437號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為農舍坐落於一般農業區甲種建築用地(非農業用地)，該甲種建築用地部分移轉他人時，是否受農業發展條例第18條第4項之限制案，復請查照。",
+ "content": "一、復行政院農業委員會交下台端103年12月26日申請書。\n二、有關所有權移轉登記係屬地政主管機關權責，且本案經屏東縣政府103年12月18日屏府地籍字第10378672900號函釋有案，爰請台端洽屏東縣政府辦理為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1030739437號|為農舍坐落於一般農業區甲種建築用地非農業用地該甲種建築用地部"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3f1d586f9afdb06161dedffdb5e8fdc9705ad0420a1c4dd8215be34fb1779979",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "建築用地(非農業用地),該甲種建築用地部分移轉他人時,是否受農業發展條例第18條第4項之限制案,復請查照。\n一、復行政院農業委員會交下台端103年12月26日申"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": "itp-dd24b07324",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061828385號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「新政府要加油」一案",
+ "content": "一、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍。\n二、農業用地興建農舍辦法於分別於102年及104年修正發布，落實農業發展條例「農舍應與農業經營不可分離」之立法意旨，自源頭管理，規範農舍申請人應為農民，並檢附經營計畫書，明確農民為實際從事農業生產者之認定條件。\n三、有關農舍違規使用裁罰，依據農業發展條例第69條規定，應依區域計畫法或都市計畫法規定辦理。至於房屋稅係屬地方稅，若宜蘭縣政府依法課徵，本局予以尊重。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061828385號|新政府要加油一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "68ffc0a454d814952482e622a2549613d535211c301696deb3b112f5fe8c6bd7",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建農舍係為特許之行為,並非擁有農業用地即可興建農舍。\n二、農業用地興建農舍辦法於分別於102年及104年修正發布,落實農業發展條例「農舍應與農業經營不可分離」"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "69",
+   "kind": "extracted",
+   "snippet": "際從事農業生產者之認定條件。\n三、有關農舍違規使用裁罰,依據農業發展條例第69條規定,應依區域計畫法或都市計畫法規定辦理。至於房屋稅係屬地方稅,若宜蘭縣政府依法"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "三、有關農舍違規使用裁罰,依據農業發展條例第69條規定,應依區域計畫法或都市計畫法規定辦理。至於房屋稅係屬地方稅,若宜蘭縣政府依法課徵,本局予以尊重。"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "違規使用裁罰,依據農業發展條例第69條規定,應依區域計畫法或都市計畫法規定辦理。至於房屋稅係屬地方稅,若宜蘭縣政府依法課徵,本局予以尊重。"
+  }
+ ]
+}

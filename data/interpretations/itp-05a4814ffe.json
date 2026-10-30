@@ -1,0 +1,64 @@
+{
+ "id": "itp-05a4814ffe",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031803324號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴公司詢問申請興建農舍相關面積計算疑義，復請查照。",
+ "content": "一、復貴公司103年2月11日函。\n二、農業發展條例規定農業用地上有條件允許興建農舍，係為經營農業者因輔助農業經營生產所需，貴公司擬分割農業用地後移轉予他人興建農舍並規劃住宅社區，違反農業發展條例立法意旨，本局103年1月15日水保農字第1030701333號函暨103年2月5日水保農字第1030702762號函均已告知貴公司在案，至為明確。\n三、另依非都市土地使用管制規則第6條附表一農牧用地容許使用項目「私設通路」，限於以集村方式興建農舍或甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1031803324號|貴公司詢問申請興建農舍相關面積計算疑義復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1c4692f0741b6732e08926bf5d74e5bd8ef963b2ef44fbba6d4939040173002e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "算疑義,復請查照。\n一、復貴公司103年2月11日函。\n二、農業發展條例規定農業用地上有條件允許興建農舍,係為經營農業者因輔助農業經營生產所需,貴公司擬"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "30702762號函均已告知貴公司在案,至為明確。\n三、另依非都市土地使用管制規則第6條附表一農牧用地容許使用項目「私設通路」,限於以集村方式興建農舍或甲種、乙種、丙種"
+  }
+ ]
+}

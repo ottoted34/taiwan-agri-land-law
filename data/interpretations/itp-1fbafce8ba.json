@@ -1,0 +1,52 @@
+{
+ "id": "itp-1fbafce8ba",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941848814號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端陳情在合法農舍之頂樓上再加蓋一層，俾供作為農業設施使用案，復請查照。",
+ "content": "一、復 台端94年6月27日陳情書。\n二、農業用地上准許興建農舍之政策目的，主要係為協助農地經營與管理。又「農舍」容許使用項目為農家住宅、農舍附屬設施、農產品之零售、農作物生產資財及日用品零售及民宿等五項，農業設施與農舍性質不同，分由不同規定管制，且農舍非農業設施容許使用項目之一，故不宜在合法農舍之頂樓上再加蓋一層，作為農業設施使用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941848814號|台端陳情在合法農舍之頂樓上再加蓋一層俾供作為農業設施使用案復"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7861a8bf44e0d6fd192490fa82dedf730def51fd67f2d9a2d35ba9f6576cd4f1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-f520c37c22",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931827419號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢關於集村興建農舍變更起造人疑義案，復請查照。",
+ "content": "一、依據內政部營建署93年11月23日營署綜字第0930070851號函辦理。\n二、有關集村興建農舍變更起造人乙節，依「農業用地興建農舍辦法」第8條第1款規定以集村方式興建農舍需有20戶以上之農民為起造人，故對於建築執照或使用執照申請或核發時，首需符合該條款規定。另依農業發展條例第16條規定，因繼承之耕地，得分割為單獨所有，故可依持有面積申請分割，並依據持有農業用地面積計算農舍面積。是以，如申請人死亡時，其繼承人願意以原規模繼續辦理相關事宜者，得以變更起造人方式辦理，免再重新申請﹔如因其他原因致申請興建農舍之戶數與農舍面積已有所不同，則應以重新方式辦理。本會92年8月21日以農授水保字第0921847142號函送縣(市)政府，「農業用地興建農舍辦法」中有關集村興建農舍法令執行疑義4之研商結論有案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931827419號|台端函詢關於集村興建農舍變更起造人疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4914bed519501d6bd83f5d8f7377d188c3921b6318d8be0064ec7ca9720eb463",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "70851號函辦理。\n二、有關集村興建農舍變更起造人乙節,依「農業用地興建農舍辦法」第8條第1款規定以集村方式興建農舍需有20戶以上之農民為起造人,故對於建築執照或使用執"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "對於建築執照或使用執照申請或核發時,首需符合該條款規定。另依農業發展條例第16條規定,因繼承之耕地,得分割為單獨所有,故可依持有面積申請分割,並依據持有農業用地"
+  }
+ ]
+}

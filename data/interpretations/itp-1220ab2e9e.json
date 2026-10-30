@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5310",
    "serial": null,
-   "fetched_at": "2026-10-30T10:05:59+08:00",
+   "fetched_at": "2026-10-30T11:33:12+08:00",
    "source_key": "rmis:5310"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030242138號|復新北市擋土牆認定為水土保持設施之審認程序"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "032239605號函。\n二、有關農業設施之申請程序,係依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)之規定辦理;而水土保持設施則係應水土保持法相關規定辦理,故農"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "查辦法」(以下簡稱容許辦法)之規定辦理;而水土保持設施則係應水土保持法相關規定辦理,故農業設施與水土保持設施適用之法令規定及程序,並不相同,合先敘明。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

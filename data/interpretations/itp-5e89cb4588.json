@@ -1,0 +1,58 @@
+{
+ "id": "itp-5e89cb4588",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031810644號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用興建農舍辦法第12條。",
+ "content": "農業用地興建農舍辦法第12條第3項、第4項係就已興建農舍之農業用地申請解除套繪管制要件之原則性規範，因農舍興建態樣繁多，個案實際情形多有差異，建請台端持個案資料逕向直轄市、縣(市)政府建築主管機關洽詢，以求效率及正確。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031810644號|農業用興建農舍辦法第12條"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "effece3dd735fd3528780dceb4e76eb6ff94eb1fa38324309b5c51cc5e418ed4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "農業用興建農舍辦法第12條。\n農業用地興建農舍辦法第12條第3項、第4項係就已興建農舍之農業用地申請解除套"
+  }
+ ]
+}

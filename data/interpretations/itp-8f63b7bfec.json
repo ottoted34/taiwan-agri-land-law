@@ -1,0 +1,73 @@
+{
+ "id": "itp-8f63b7bfec",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061829637號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關您來函詢問農業用地內鋪設道路是否可以興建農舍一案，復如說明，請查照。",
+ "content": "一、回復您106年6月2日書函。\n二、有關您所詢農業用地2,500平方公尺如有鋪設道路得否興建農舍一事，本局前以105年12月19日水保農字第1051837363號函答復有案，另補充說明如下：\n(一)依「土地法」第43條規定：「依本法所為之登記，有絕對效力。」，旨揭有關農業用地面積之疑義，係指依法辦理土地登記簿謄本所載面積為準。\n(二)「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍。\n(三)按非都市土地使用管制規則第6條附表一規定，「私設通路」為農牧用地容許使用項目之一，又該項目之附帶條件規定：「限於以集村方式興建農舍或甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。」，如符合前揭規定自得申請容許使用，惟若不符合該項規定或未經容許而自行設置者，自屬違規使用，應依區域計畫法或都市計畫法規定處理。\n三、申請農業用地興建農舍個案之審查係屬直轄市、縣(市)政府權責，由市縣主管機關依個案事實審酌核處。如有個案疑義，仍應請就近向所轄市縣政府洽詢。另如有土地使用管制之疑義，建請逕向主管機關內政部洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061829637號|有關您來函詢問農業用地內鋪設道路是否可以興建農舍一案復如說明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2680dd56fe485478674d7a5a5c640a79eadade22e1124eb832efcddcfeedc0fe",
+ "topics": [
+  "paving",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "農舍係為特許之行為,並非擁有農業用地即可興建農舍。\n(三)按非都市土地使用管制規則第6條附表一規定,「私設通路」為農牧用地容許使用項目之一,又該項目之附帶條件規定:「限"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "惟若不符合該項規定或未經容許而自行設置者,自屬違規使用,應依區域計畫法或都市計畫法規定處理。\n三、申請農業用地興建農舍個案之審查係屬直轄市、縣(市)政"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "項規定或未經容許而自行設置者,自屬違規使用,應依區域計畫法或都市計畫法規定處理。\n三、申請農業用地興建農舍個案之審查係屬直轄市、縣(市)政府權責,由市"
+  }
+ ]
+}

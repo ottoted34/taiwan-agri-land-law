@@ -1,0 +1,65 @@
+{
+ "id": "itp-fa555b60ab",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950113287號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "都市計畫內保護區、地目為「建」之土地，申請原建築物修建，是否應依「農業用地變更回饋金撥繳及分配利用辦法」規定，繳交農業用地變更回饋金案。",
+ "content": "主旨：有關 貴府函詢都市計畫內保護區、地目為「建」之土地，申請原建築物修建，是否應依「農業用地變更回饋金撥繳及分配利用辦法」規定，繳交農業用地變更回饋金案，復請 查照。\n說明：\n一、復 貴府95年3月13日基府海農貳字第0950026981號函。\n二、農業用地變更為非農業使用，應視其變更性質，繳交回饋金，為農業發展條例第12條所明定。依據上開規定，農業用地變更回饋金之繳交，係以農業用地變更為非農業使用為要件。本案依來函所述原建築係為都市計畫編定前已存在之合法建物，申請原建物修建，其用地如係原合法供建築使用之土地，未涉及將農業用地變更為非農業使用，應無涉及「農業用地變更回饋金撥繳及分配利用辦法」之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950113287號|都市計畫內保護區地目為建之土地申請原建築物修建是否應依農業用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f4b52ae960fbbbebf9c697e5708cd2b5098b33918fdba79d3ac239153e34978c",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "計畫內保護區、地目為「建」之土地,申請原建築物修建,是否應依「農業用地變更回饋金撥繳及分配利用辦法」規定,繳交農業用地變更回饋金案。\n主旨:有關 貴府函詢都市計畫內保護區、地目為「"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "二、農業用地變更為非農業使用,應視其變更性質,繳交回饋金,為農業發展條例第12條所明定。依據上開規定,農業用地變更回饋金之繳交,係以農業用地變更為非農業使用為要"
+  }
+ ]
+}

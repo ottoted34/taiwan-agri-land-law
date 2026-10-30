@@ -1,0 +1,66 @@
+{
+ "id": "itp-291b3ff2fa",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0971843566號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端建議民國96年以前興建完成農舍之農地，修法改為面積0.2公頃以下可變更為建地案，復如說明，請查照。",
+ "content": "1.依據行政院秘書處97年5月30日院臺農字第0970021536號函送 台端97年5月14日致總統函辦理。\n2.依農業發展條例第18條之立法意旨，在不破壞農業生產環境及不影響農村發展前提下，始得於農業用地申請興建農舍供農業經營兼作居住使用，農舍與一般建築用地上興建純做居住使用之農宅或一般住宅之性質不同，且尚享有免繳地價稅等之優惠。農業發展條例亦特別明定，興建農舍之農地應確供農業使用。因此，農舍應確為農業經營之必要，農民始申請於自有農業用地上興建，為與農業經營不可分離之設施物。\n3.現行非都市編定為建築用地之土地，依非都市土地使用管制規則規定之建蔽率、容積率及容許使用項目等相關規範限制，其與農業用地上從農業生產及經營角度，容許作農作或農舍使用性質並不相同。\n4.按非都市土地使用編定結果公告前已做建築使用或已依法完成基礎工程者，始編定為建築用地，現行無相關法令依據將0.2公頃以下已興建有農舍之農地，直接變更為建地，倘台端有辦理用地變更使用之需求，建議依現行非都市土地使用管制規則等相關規定辦理用地變更編定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0971843566號|台端建議民國96年以前興建完成農舍之農地修法改為面積02公頃"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "55424b548dc6b29db09ddb2d3aadd406886b28cef135a5abd8fc4a5e8a87bc31",
+ "topics": [
+  "land_change",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "21536號函送 台端97年5月14日致總統函辦理。\n2.依農業發展條例第18條之立法意旨,在不破壞農業生產環境及不影響農村發展前提下,始得於農業用地申請興建農"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "營不可分離之設施物。\n3.現行非都市編定為建築用地之土地,依非都市土地使用管制規則規定之建蔽率、容積率及容許使用項目等相關規範限制,其與農業用地上從農業生產及經營"
+  }
+ ]
+}

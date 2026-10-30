@@ -1,0 +1,58 @@
+{
+ "id": "itp-e21ef3ac56",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0991874939號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "本會預定於中華民國99年6月28日發布「農業用地興建農舍辦法」第3條第1項第2款規定之解釋令，茲檢送發布令稿1份，請刊登行政院公報。",
+ "content": "併附法規及行政規則刊登行政院公報資料提要表1份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0991874939號|本會預定於中華民國99年6月28日發布農業用地興建農舍辦法第"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8f6c564debb825fc36cb6f80b6b52c3ba8df773465ebea50e2762126daa2a078",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "本會預定於中華民國99年6月28日發布「農業用地興建農舍辦法」第3條第1項第2款規定之解釋令,茲檢送發布令稿1份,請刊登行政院公報。\n併附法規及行政"
+  }
+ ]
+}

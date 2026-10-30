@@ -1,0 +1,52 @@
+{
+ "id": "itp-0b3c58a2da",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990154586號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農地所有權人於99年5月5日申請興建農舍，是否應依本會99年6月28日農水保字第0991875147號令辦理乙案，復如說明，請 查照。",
+ "content": "1.復 貴署99年8月11日營署建管字第0990053837號函。\n2.查民法第824條之1之規定，係經總統於98年1月23日以華總一義字第09800018501號令公佈，並自98年7月23日施行；則縱無本會99年6月28日農水保字第0991875147號令，自98年7月23日起，有關共有人取得部分所有權之時點，亦應依民法第824條之1規定加以認定。\n3.另本會97年11月21日農授水保字第0971844300號函係於民法第824條之1規定施行前，所為之解釋函，於該條施行後，即應依該規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990154586號|有關農地所有權人於99年5月5日申請興建農舍是否應依本會99"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "decf89f04f1612855d5cd8c9831520a32e7eb480762574a313197fe671994be3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

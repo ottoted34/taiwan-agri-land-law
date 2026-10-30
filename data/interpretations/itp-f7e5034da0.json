@@ -1,0 +1,100 @@
+{
+ "id": "itp-f7e5034da0",
+ "doc_class": "interpretation",
+ "docno": "林政字第891607467號",
+ "date": "2000-04-20",
+ "date_text": "89/4/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "070 釋林業用地申請農業用地作農業使用證明書案",
+ "content": "林業用地地上所植林木樹種符合本局所規定之樹種(詳附件)，且經完成造林者(除地除外)、造林木已達3年生以上者、成活率在70%以上者，不論是否兼植一般農作物或果樹，本局認為符合農業發展條例第3條第1項第12款所稱森林之使用。林業用地造林樹種及伐期",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4976",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:23+08:00",
+   "source_key": "rmis:4976"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:林政字第891607467號|釋林業用地申請農業用地作農業使用證明書案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2000-07-26",
+    "history": "中華民國八十九年七月二十六日行政院農業委員會（89）農企字第 890010180 號令、內政部臺（89）內中地字第 8979945 號令、財政部臺財稅字第 0890048779 號令會銜訂定發布全文 21 條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "3",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "762ad35c6f413a1939593b7b131405e191ff20e8b2f01aed9d4404fa7693deea",
+ "topics": [
+  "farm_use_cert",
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "率在70%以上者,不論是否兼植一般農作物或果樹,本局認為符合農業發展條例第3條第1項第12款所稱森林之使用。林業用地造林樹種及伐期"
+  }
+ ]
+}

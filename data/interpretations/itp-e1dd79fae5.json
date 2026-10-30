@@ -1,0 +1,70 @@
+{
+ "id": "itp-e1dd79fae5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981808400號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正施行後取得之共有農業用地，辦理贈與後其申請興建農舍疑義案，復請查照。",
+ "content": "1. 復 貴事務所98年4月15日申請書。 2. 「土地法」第43條規定，依本法所為之登記，有絕對效力;故「土地取得」之認定時點，應以土地登記機關登記之時點為基準，合先敘明。 3. 依「農業發展條例」及「農業用地興建農舍辦法」法令規定申請興建農舍，係依農業用地取得日期之不同而有所差異，在「農業發展條例」修正公布生效日(89年1月28日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地，申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理。 4. ○○○、○○○夫妻共同於94年5月25買賣取得高雄縣美濃鎮○○○地號土地，若於98年5月5日由○○○辦理贈與為○○○單獨所有者，依上述，其申請興建農舍之土地取得時點應以98年5月5日為起算計算基準，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理。 5. 隨文檢還附件全件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981808400號|有關農業發展條例修正施行後取得之共有農業用地辦理贈與後其申請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8a5bc2fbe5b7e3d3b0762f0d8b4efa54249e6d42a4a9c0a1d8724eea59e36b23",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正施行後取得之共有農業用地,辦理贈與後其申請興建農舍疑義案,復請查照。\n1. "
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "日)前取得(包括繼承、贈與、買賣、拍賣等)之農業用地,得依據「農業用地興建農舍辦法」第2條規定申請興建農舍;在「農業發展條例」修正公布生效日後取得之農業用地,申請興建農舍"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "發展條例」修正公布生效日後取得之農業用地,申請興建農舍自應依「農業用地興建農舍辦法」第3條相關規定辦理。 4. ○○○、○○○夫妻共同於94年5月25買賣取得高雄縣美濃鎮"
+  }
+ ]
+}

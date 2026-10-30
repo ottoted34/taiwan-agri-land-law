@@ -1,0 +1,58 @@
+{
+ "id": "itp-91c55830cb",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1060701972號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關您來函陳情有關農民資格審查疑義案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下您106年1月13日陳情書辦理。\n二、有關您陳情書所陳述104年3月向花蓮縣政府提出農舍興建申請，並於4月17日通過農民資格審查，惟送建照申請之際，因申請過溝搭排歷經各單位，致農民資格逾縣府規定之效期，且因無法展延而重審一案，因涉及申請流程與個案審查，係屬直轄市、縣（市）政府權責，倘對該處分有不服，應繕具訴願書經由原行政處分機關向訴願管轄機關提起訴願。\n三、另依行政程序法第93條規定，上開期限之訂定係屬直轄市、縣（市）政府裁量權，且有關農舍審查之個案審查亦屬直轄市、縣（市）政府權責，倘有相關疑問，仍建請逕向所在縣(市)政府洽詢為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1060701972號|有關您來函陳情有關農民資格審查疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bd048f8aa073e714be49004e333446250a1faa93c3c7fa391570bcb5e1248357",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "93",
+   "kind": "extracted",
+   "snippet": "具訴願書經由原行政處分機關向訴願管轄機關提起訴願。\n三、另依行政程序法第93條規定,上開期限之訂定係屬直轄市、縣(市)政府裁量權,且有關農舍審查之個案審查亦屬"
+  }
+ ]
+}

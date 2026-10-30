@@ -1,0 +1,58 @@
+{
+ "id": "itp-3da8f3abcd",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1001810236號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢申請自用農舍使用執照，其土地所有權人經信託登記後與農舍起造非同一人，可否繼續辦理使用執照乙案，復請 查照。",
+ "content": "一、復台端未列日期陳情書。\n二、查信託法第1條規定：「稱信託者，謂委託人將財產權移轉或為其他處分，使受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係。」土地登記規則第128條第1項規定：「信託財產依第125條辦理信託登記後，於信託關係消滅時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」準此，由委託人依信託法規定將財產權移轉受託人管理，須辦理信託登記；信託關係消滅，亦應申請塗銷信託登記觀之，信託關係成立後，信託財產經由登記，即發生所有權移轉之法律效果，先予敘明。\n三、農業發展條例第18條第4項規定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人；...。」本案因信託關係成立，信託財產經由登記致農業用地所有權移轉，以致農舍起造人已非該農舍坐落土地之所有權人，已與前開規定未符。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:水保農字第1001810236號|台端函詢申請自用農舍使用執照其土地所有權人經信託登記後與農舍"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2d3ae1f0dfdce2edcf843ee304882ce66ac4212559d2a77b4c4db74182761c81",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "託財產經由登記,即發生所有權移轉之法律效果,先予敘明。\n三、農業發展條例第18條第4項規定:「第1項及前項農舍起造人應為該農舍坐落土地之所有權人;...。」本案"
+  }
+ ]
+}

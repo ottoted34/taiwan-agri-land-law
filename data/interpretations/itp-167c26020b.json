@@ -1,0 +1,52 @@
+{
+ "id": "itp-167c26020b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021821444號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函為申請興建農舍「確無現有農舍」疑義一案，復請查照。",
+ "content": "一、依據內政部營建署102年9月11日營署建管字第1020060011號移文單轉台端102年9月9日陳情書辦理。\n二、查直轄市、縣(市)政府審查申請人興建農舍之無自用農舍條件，申請人須檢具：1、稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。2、申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。3、申請人切結無自用農舍文件等文件，俾以審查申請人是否無自用農舍之規定。至實施建築管理前之建築物，應請建築物所有權人先辦理「建築物第一次登記」或補辦建築物「使用執照」，並於建物所有權狀或建築物使用執照用途欄註明用途，以釐清是否為「農舍」。\n三、另依內政部營建署99年2月22日營署建管字第0990005138號函意旨，申請人所有之農地僅該筆農地上有擬補照之唯一農舍，應得發給無自用農舍證明。\n四、申請興建農舍之審核係直轄市、縣(市)政府權責，請台端依上開規定逕向權責機關辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2013,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1021821444號|有關台端函為申請興建農舍確無現有農舍疑義一案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b1407d9cb764e7067bb4f7fbf31ff64fb0860effef8966d0b2045fd6def347bd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

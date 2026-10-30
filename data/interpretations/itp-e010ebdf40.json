@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6027",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:52+08:00",
+   "fetched_at": "2026-10-30T11:17:04+08:00",
    "source_key": "rmis:6027"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1132600899號|有關非都市土地農牧用地或林業用地申請部分土地範圍作露營場使用"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -41,6 +47,14 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "倘屬違反土地使用管制相關法令之情事,則應請貴府地政主管機關依區域計畫法相關規定辦理,倘經地政主管機關依法裁處及限期改正,仍未改善,該違規狀態持續存在,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

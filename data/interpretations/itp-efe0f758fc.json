@@ -1,0 +1,51 @@
+{
+ "id": "itp-efe0f758fc",
+ "doc_class": "interpretation",
+ "docno": "農企字第1050012813號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "檢送本會105年10月3日研商「農業及農地資源使用現況盤查」會議紀錄，請各單位依決議事項辦理，並於本(10月)25日前提供各工作小組業務承辦人名單及雲林縣轄區既有農地利用資料予本會企劃處彙整，俾利規劃後續調查作業事宜，請查照。",
+ "content": "無",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1050012813號|檢送本會105年10月3日研商農業及農地資源使用現況盤查會議"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3b60f0ef70b8948fc1f16d823dc28eb422896ebb641f680eff27f6ed354c3a63",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

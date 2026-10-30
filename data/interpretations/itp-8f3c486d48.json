@@ -1,0 +1,58 @@
+{
+ "id": "itp-8f3c486d48",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0960120830號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正前繼承共有農地，因遺產申報等稅務問題，延至該條例修正後始完成登記且辦理共有物分割，其申請興建農舍疑義案，復請查照。",
+ "content": "一、復 台端96年4月16日陳情書。\n二、「繼承，因被繼承人死亡而開始」，為民法第1147條所明定，又查因繼承而取得不動產物權，係依法律行為以外之事由所生不動產物之變動，不受民法758條所定須經登記始生效力之限制，故因繼承、分割繼承而取得農業用地者，不待登記即已生效，並應以「被繼承人死亡日期」為認定時點之基準;又農業發展條例第18條第3項規定，於本條例修正施行前（89年1月4日）共有耕地，於本條例修正施行後分割為單獨所有，得適用修法前相關規定申請興建農舍。\n三、台端86年12月繼承共有農地，雖於89年3月1日始完成登記及95年6月6日辦理共有物分割完成登記，依上述得適用修法前相關規定申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水保字第0960120830號|農業發展條例修正前繼承共有農地因遺產申報等稅務問題延至該條例"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "709ad8898440669d7f2c1eb184ebc42fd6dc838f82b4857ca6ff8dc7e224093e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "登記即已生效,並應以「被繼承人死亡日期」為認定時點之基準;又農業發展條例第18條第3項規定,於本條例修正施行前(89年1月4日)共有耕地,於本條例修正施行後分割"
+  }
+ ]
+}

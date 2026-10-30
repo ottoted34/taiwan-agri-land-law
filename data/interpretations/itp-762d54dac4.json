@@ -1,0 +1,58 @@
+{
+ "id": "itp-762d54dac4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843234號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○函請釋疑所有土地辦理共有物分割是否涉及權利移轉變動，究應適用農業發展條例修正前後法令提出農舍申請案，請查照。",
+ "content": "1.依據內政部97年2月20日內授中辦地字第0970041878號函辦理，兼復 貴府97年2月1日府農管字第0970039348號致本會水土保持局函。\n2.查內政部92年12月10日內授中辦地字第0920020154號函，及本會92年12月31日農輔字第0920174345號函及93年1月7日農輔字第0920174772號函有案（如附件）。本案仍請上開函釋原則辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843234號|有關○○○函請釋疑所有土地辦理共有物分割是否涉及權利移轉變動"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4ebbc7e1c4a80899d18fda6e9e228ed6db3f6cbd082775e603be5d8ce591791f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "函請釋疑所有土地辦理共有物分割是否涉及權利移轉變動,究應適用農業發展條例修正前後法令提出農舍申請案,請查照。\n1.依據內政部97年2月20日內授中辦地字"
+  }
+ ]
+}

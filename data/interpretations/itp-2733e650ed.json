@@ -1,0 +1,85 @@
+{
+ "id": "itp-2733e650ed",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950172521號",
+ "date": "2006-12-27",
+ "date_text": "95/12/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業發展條例第37條第2項「符合產業發展需要、一定規模或其他條件」之審查疑義一案。",
+ "content": "主旨：關於貴府函詢農業發展條例第37條第2項「符合產業發展需要、一定規模或其他條件」之審查疑義一案，復請　查照。\n說明：\n一、復　貴府95年12月18日屏府農務字第○○○○○號函。\n二、按「作農業使用之耕地依第33條及第34條規定移轉與農民團體、農業企業機構及農業試驗研究機構時，其符合產業發展需要、一定規模或其他條件，經直轄市、縣(市)主管機關同意者，得申請不課徵土地增值稅。」為農業發展條例第37條第2項所明定，對符合承受耕地條件之法人，應比照移轉予自然人依法給予不課徵土地增值稅的優惠，以鼓勵農企業之發展，故其適用範圍限於經營農業技術密集與資本密集類目之法人，本會並已訂定「農業技術密集與資本密集類目與標準」作為審查依據，以達到類似促進產業升級條例所提供之功能性獎勵。惟由於各縣(市)財政狀況及產業發展環境不同，且地方政府需自負因同意不課徵土地增值稅所造成稅賦收入增減之責，爰授權地方政府得權衡賦稅收入、產業發展、一定規模及其他條件，決定是否同意作農業使用之耕地移轉與農企業機構等法人時，得申請不課徵土地增值稅。\n三、準此，有關個案如經依「農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則」及「農業技術密集與資本密集類目與標準」審查許可者，且依農業發展條例第39條規定檢具農業用地作農業使用證明書者，應得審認符合旨揭符合產業發展需要、一定規模或其他條件之審查標準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4835",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:31+08:00",
+   "source_key": "rmis:4835"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950172521號|釋農業發展條例第37條第2項符合產業發展需要一定規模或其他條"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "39",
+    "amended_on": "2007-01-10",
+    "history": "中華民國九十六年一月十日總統華總一義字第 09600001891 號令修正公布第 31、39 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "767205c7ef794aa34547ab7da2c5f8c50dcced26e6207612fe5c6f638bc503cf",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "釋農業發展條例第37條第2項「符合產業發展需要、一定規模或其他條件」之審查疑義一案。\n主旨:關於貴府函"
+  },
+  {
+   "law_id": "RMIS-2011",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "等法人時,得申請不課徵土地增值稅。\n三、準此,有關個案如經依「農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則」及「農業技術密集與資本密集類目與標準」審查許可者,且依農業發展條例第39條規定檢"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "39",
+   "kind": "extracted",
+   "snippet": "準則」及「農業技術密集與資本密集類目與標準」審查許可者,且依農業發展條例第39條規定檢具農業用地作農業使用證明書者,應得審認符合旨揭符合產業發展需要、一定規模或"
+  }
+ ]
+}

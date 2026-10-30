@@ -1,0 +1,56 @@
+{
+ "id": "itp-cb3b3721b9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843815號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○、○○○於94間取得西屯區○○○地號土地，於97年3月與鄰地○○○地號土地辦理合併交換後，其土地取得時點疑義案，復請查照。",
+ "content": "1.復 貴府97年6月13日府經農字第0970140966號函。 2.土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地，於修正施行後分割為單獨所有者，得依該條例第18條第3項規定辦理（參照本會97年8月4日農授水保字第0971843810號函）。 3.本案○○○、○○○於94間取得西屯區○○○地號土地，於97年3月與鄰地○○○地號土地辦理合併交換，其土地取得時點請依上開決議本於權責核處。（本會97年6月3日農授水保字第0971843551號函停止適用）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843815號|有關○○○○○○於94間取得西屯區○○○地號土地於97年3月"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "86de24b9a63d265c9035d43f5e508801bb2589af01aaf37e88267b45402c25e5",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "點之計算,應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,得依該條例第18條第3項"
+  }
+ ]
+}

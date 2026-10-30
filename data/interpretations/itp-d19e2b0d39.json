@@ -1,0 +1,57 @@
+{
+ "id": "itp-d19e2b0d39",
+ "doc_class": "interpretation",
+ "docno": "農企字第0931021252號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋非都市土地農牧用地申請設置集貨及包裝處理場，是否有設限農產品種類案",
+ "content": "依據「農業用地容許作農業設施使用審查辦法」第十一條第十款規定，農業用地設置集貨及包裝處理場之條件，限供自產農產品使用，且每處最小興建面積為一百六十五平方公尺；最大興建面積為一千零六十平方公尺。上開條文雖未限定作物種類，但需符合自產農產品使用之原則。另，該設施是否容許設置，涉及實務判斷，仍需依循縣（市）政府審查意見辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0931021252號|釋非都市土地農牧用地申請設置集貨及包裝處理場是否有設限農產品"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ebf23a24e3116b8e30f65d668b9d90d1fb8c92298d8e36db9205caec6f0ee018",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "牧用地申請設置集貨及包裝處理場,是否有設限農產品種類案\n依據「農業用地容許作農業設施使用審查辦法」第十一條第十款規定,農業用地設置集貨及包裝處理場之條件,限供自產農產品使用,且每處最小興"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-ba19091b38",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990175859號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關土地經塗銷信託後，其土地取得時點疑義案，復請查照。",
+ "content": "一、復貴府99年11月8日府農務字第0990281053號函。\n二、按土地登記規則第93條規定：「土地總登記後，土地所有權移轉、分割、合併、增減或消滅時，應為變更登記。」同規則第128條規定：「信託財產依第125條辦理信託登記後，於信託關係消滅時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」，準此，由委託人依信託法規定將財產權（農地）移轉或受託人管理，須辦理權利變更登記；信託關係消滅，亦應申請塗銷信託登記觀之，信託關係成立後，信託財產（農地）經由變更登記，即發生所有權移轉之法律效果。（參照本會96年7月3日農授水保字第0960135692號函）\n三、依土地法第43條規定：「依本法所為之登記，有絕對效力。」，故土地取得時點計算應以土地登記機關最後完成登記之時點為基準，其申請興建農舍應依「農業用地興建農舍辦法」第3條規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990175859號|有關土地經塗銷信託後其土地取得時點疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "49070daaa95aef1775518e2fc37621683f94cd766b5b7bd35e23230bb7f85bce",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "應以土地登記機關最後完成登記之時點為基準,其申請興建農舍應依「農業用地興建農舍辦法」第3條規定辦理。"
+  }
+ ]
+}

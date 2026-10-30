@@ -1,0 +1,58 @@
+{
+ "id": "itp-e4cea1a890",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960167143號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴執行處函詢農業發展條例第18條第4項修正前起造之農舍，可否單獨辦理所有權移轉登記疑議案，復請查照。",
+ "content": "1.復 貴執行處96年11月21日東院和96執天字第6695號函。\n2.查農業發展條例第18條第4項規定：「...農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；...。」係就農舍移轉予以規範，爰此，農舍之移轉，應符合該項規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960167143號|貴執行處函詢農業發展條例第18條第4項修正前起造之農舍可否單"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8591149349297abb03a0aa90227e9e4a3e36f55edae981cf46211108b8e34c1a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "貴執行處函詢農業發展條例第18條第4項修正前起造之農舍,可否單獨辦理所有權移轉登記疑議案,復請查照。\n1.復 貴"
+  }
+ ]
+}

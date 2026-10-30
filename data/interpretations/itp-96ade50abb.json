@@ -1,0 +1,58 @@
+{
+ "id": "itp-96ade50abb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000151777號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端致行政院吳院長陳情書，就農地未能自建房屋陳請協助解決一案，請 查照。",
+ "content": "1.依據行政院秘書處100年8月10日院臺農移字第1000042857號函轉台端致行政院吳院長陳情書辦理。\n2.本案依卷附資料洽詢地方地政單位，經查所稱45坪之該筆農地為共有且已有登記農舍，依現行農業用地興建農舍辦法規定，無法於該筆農地上興建另一棟農舍，建議台端仍循原屋重建之管道辦理。\n3.另有關個案審查，係直轄市、縣(市)政府權責，請台端洽地方政府查詢。\n4.有關住宅之興建或修繕、購置住宅等，政府有住宅補貼等方案方案措施，可向地方政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000151777號|有關台端致行政院吳院長陳情書就農地未能自建房屋陳請協助解決一"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "382afa50624de0ac5a446240d2ebdf28a6bbaf409d337a47936acb0dd8e33410",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "政單位,經查所稱45坪之該筆農地為共有且已有登記農舍,依現行農業用地興建農舍辦法規定,無法於該筆農地上興建另一棟農舍,建議台端仍循原屋重建之管道辦理。\n3.另有"
+  }
+ ]
+}

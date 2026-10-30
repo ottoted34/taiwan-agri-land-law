@@ -1,0 +1,60 @@
+{
+ "id": "itp-e445b2d7b0",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0930107756號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關共有農舍及土地隨同移轉所生疑義案，復如說明，請查照。",
+ "content": "一、復貴中心93年2月6日新農字第00163號函。\n二、有關農業發展條例第18條規定農舍應與其坐落農地併同移轉或併同設定抵押權最主要原因，係避免農舍與農地所有權人分屬不同人時，衍生農舍與農地管理等問題，先予敘明。\n三、農地或農舍並無限制不得移轉為共有，但對於農舍之移轉，需符合前項需併農地移轉之原則，始符合法制，即共有農舍所有權人之一欲移轉農舍所有權予他人者，其農地之所有權應併同為之。本案有關二人共有農舍及坐落基地所有權各二分之一，在不增加整體權利關係人數之原則下，共有人得將其農舍及坐落基地所有權二分之一部分移轉予他人。\n四、來函說明二因涉及農業發展條例修正前相關規定，請逕洽內政部。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0930107756號|有關共有農舍及土地隨同移轉所生疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d97f1a144d79db27d16ddd75fcbe59366e42171ae25d545767ef163934601547",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "一、復貴中心93年2月6日新農字第00163號函。\n二、有關農業發展條例第18條規定農舍應與其坐落農地併同移轉或併同設定抵押權最主要原因,係避免農舍與農地所有權"
+  }
+ ]
+}

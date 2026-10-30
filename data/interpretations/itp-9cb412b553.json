@@ -1,0 +1,58 @@
+{
+ "id": "itp-9cb412b553",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051816290號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○函詢所持有台南市安定區○○○地號(宗地面積8230平方公尺，持分1/3)以該地上既有道路作為興建農舍之通路疑義案，復如說明，請查照。",
+ "content": "一、依據貴府農業局105年12月26日南市農工字第1051310141號函辦理。\n二、依據行政院農業委員會104年10月21日農水保字第1041866479號函送興建農舍經營計畫書格式所附「興建農舍經營計畫書審查參考原則及注意事項」，有關「農舍用地應矩形配置於農地之地界線側及臨接道路」所稱道路定義，參照建築技術規則建築設計施工編有關道路之定義，包括指依都市計畫法或其他法律公布之道路、現有巷道及農路，不包括私設通路及類似道路。\n三、惟個案審查係屬直轄市、縣(市)政府權責，請貴府參酌上開原則依個案事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051816290號|有關○○○函詢所持有台南市安定區○○○地號宗地面積8230平"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "83f9141a532213a3cc5820e5ef3dd4da6dd26949722956ce462deea43f2eb4e5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定義,參照建築技術規則建築設計施工編有關道路之定義,包括指依都市計畫法或其他法律公布之道路、現有巷道及農路,不包括私設通路及類似道路。\n三、惟個案審查"
+  }
+ ]
+}

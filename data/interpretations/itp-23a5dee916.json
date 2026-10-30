@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4795",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:22+08:00",
+   "fetched_at": "2026-10-30T11:36:34+08:00",
    "source_key": "rmis:4795"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農水字第1030201674號|申請農業用地作農業設施容許使用審查辦法第6條第7款合法用水審"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "6",
     "amended_on": "2017-06-28",
-    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "history": "中華民國一百零六年六月二十八日行政院農業委員會農企字第 1060012754A 號令修正發布第 6、23、27～30、32、33 條條文及第 13 條條文之附表一、第 16 條條文之附表二、第 21 條條文之附表四",
     "relation_kind": "extracted"
    }
   ]
@@ -50,16 +56,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "6",
    "kind": "extracted",
    "snippet": "申請農業用地作農業設施容許使用審查辦法第6條第7款「合法用水」審認疑義案。\n主旨:貴府函有關申請農業用地作農業設施容許使用審"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

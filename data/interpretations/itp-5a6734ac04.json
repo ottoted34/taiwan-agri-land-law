@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5676",
    "serial": null,
-   "fetched_at": "2026-10-30T09:52:04+08:00",
+   "fetched_at": "2026-10-30T11:19:16+08:00",
    "source_key": "rmis:5676"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100218596號|集村農舍可否於取得使用執照後互相交換配地疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "0年5月10日南市農工字第1100600337號函。\n二、查農業發展條例(以下簡稱本條例)第18條第4項規定:「...農舍應與其坐落用地併同移轉或併同設"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

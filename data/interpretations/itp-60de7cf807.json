@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5978",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:44+08:00",
+   "fetched_at": "2026-10-30T11:14:57+08:00",
    "source_key": "rmis:5978"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1140253843號|有關貴府所詢申請水產養殖設施容許使用室內漁電共生第一階段案場"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "3978938c616ed3a9dfc2e775248d1464db5c39d918b15903d224bb40fbaff0c2",
  "topics": [
@@ -40,22 +56,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "7",
    "kind": "extracted",
    "snippet": "之既有「農舍」適法疑義及審認方式案,如說明,請查照。\n一、查申請農業用地作農業設施容許使用審查辦法第7條第2項規定,興建農舍之農業用地,其農業設施及農舍之興建面積,應一併納入農業設施總"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "算,最大興建面積不得超過該養殖場土地總面積80%。\n二、另,農業發展條例第18條第3項業已明定農業用地興建農舍,須為無自用農舍而需興建者,且須經直轄市或縣(市)"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

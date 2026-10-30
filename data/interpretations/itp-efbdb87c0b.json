@@ -1,0 +1,59 @@
+{
+ "id": "itp-efbdb87c0b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050705772號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴事務所函為以共有農業用地申請興建農舍，其檢附之農業用地作農業使用證明書疑義案，復請查照。",
+ "content": "一、復貴事務所105年2月25日105簡會字第022502號函。\n二、農業用地興建農舍辦法業於104年9月4日修正發布施行，其中第2條第2項規定：「前項第五款規定確供農業使用與不影響農業生產環境及農村發展之認定，由申請人檢附依中央主管機關訂定之經營計畫書格式，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣(市)主管機關審查。」及本會104年10月21日農水保字第1041866479號函修正之「申請興建農舍之申請人資格條件審查表(範本)」，針對申請興建農舍，該農業用地是否確供農業使用與不影響農業生產環境及農村發展之認定文件，須檢附經營計畫書，不再以農業用地作農業使用證明書作為佐證文件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050705772號|有關貴事務所函為以共有農業用地申請興建農舍其檢附之農業用地作"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0705a3f70e83a95f3cc3f159b50f5f22d6726f8d95817a666395f46736f7b4a3",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "務所105年2月25日105簡會字第022502號函。\n二、農業用地興建農舍辦法業於104年9月4日修正發布施行,其中第2條第2項規定:「前項第五款規定確供農業"
+  }
+ ]
+}

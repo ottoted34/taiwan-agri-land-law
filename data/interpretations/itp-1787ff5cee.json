@@ -1,0 +1,64 @@
+{
+ "id": "itp-1787ff5cee",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990110500號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢對本會97年8月4日農授水保字第0971843810號函執行疑義，復請查照。",
+ "content": "1.復貴府99年2月8日府工建字第0990027207號函。\n2.農業發展條例修正施行前取得共有農業用地，修正施行後又取得部分共有農業用地並辦分割為單筆土地，其申請興建農舍之條件與權利規模已變更，申請興建農舍應依「農業用地興建農舍辦法」第3條第1項相關規定辦理。（本會98年7月14日農授水保字第0981842864號函參照）",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990110500號|有關貴府函詢對本會97年8月4日農授水保字第09718438"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c0b276cc2cc62ea39221e4ac49d782adfbd3c38bf0d75254fe7b2cd87244a8b1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴府99年2月8日府工建字第0990027207號函。\n2.農業發展條例修正施行前取得共有農業用地,修正施行後又取得部分共有農業用地並辦分割為單筆土地,"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "土地,其申請興建農舍之條件與權利規模已變更,申請興建農舍應依「農業用地興建農舍辦法」第3條第1項相關規定辦理。(本會98年7月14日農授水保字第0981842864號函參"
+  }
+ ]
+}

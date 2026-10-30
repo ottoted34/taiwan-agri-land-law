@@ -1,0 +1,64 @@
+{
+ "id": "itp-d3654141e0",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851201號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關○○有限公司所送集村興建農舍配置圖，是否符合集中興建配置，及其餘農業用地應為完整區塊，以維護農業生產環境疑義案，復請查照。",
+ "content": "一、復 貴府95年3月17日府農務字第0950075483號函。\n二、農業用地興建農舍辦法第6條第3款規定，申請興建農舍之該宗農業用地扣除興建農舍土地面積後，供農業生產使用部分應為完整區塊，且其面積不得低於該宗農業用地面積90%。而集村興建之農舍基地雖與維持農業生產之農地非完整相連，但依據該條文規定，其配合申請興建農舍之農業用地需為完整區塊，且需能維持農業生產經營，其面積不得低於申請興建農舍面積90%，先予敘明。\n三、另依據營建署91年11月14日營署綜字第0910067445號函所附集村興建農舍範例中，業指出申請興建農舍之建築基地，主要包括60%之農舍基層建築基地及40%公共設施用地，並無預留其他用地。\n四、貴府所詢之個案，其保留農地間分散於各基地中，能否達到維持農業生產目的，又不違背農業發展條例第18條不影響農業生產環境之原有立法目標，均宜評估考量。其土地之規劃配置原則，宜依前述原則辦理，以符合農地農用政策原則及土地使用法制相關規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851201號|貴府函詢有關○○有限公司所送集村興建農舍配置圖是否符合集中興"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fa4706aee118e28e2cae24939300dee0df1ba71728a73fdbe1f25b0ec0ffdce4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "府95年3月17日府農務字第0950075483號函。\n二、農業用地興建農舍辦法第6條第3款規定,申請興建農舍之該宗農業用地扣除興建農舍土地面積後,供農業生產使用部分"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "保留農地間分散於各基地中,能否達到維持農業生產目的,又不違背農業發展條例第18條不影響農業生產環境之原有立法目標,均宜評估考量。其土地之規劃配置原則,宜依前述原"
+  }
+ ]
+}

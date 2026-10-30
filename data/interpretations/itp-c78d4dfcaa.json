@@ -1,0 +1,58 @@
+{
+ "id": "itp-c78d4dfcaa",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920158778號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○等7人申辦南投縣水里鄉○○○地號共有土地上已興建農舍（未辦建物所有權第一次登記）之耕地所有權移轉登記疑義案，復如說明，請查照。",
+ "content": "一、復貴部92年9月30日內授中辦地字第0920016269號函。\n二、農舍應與其座落用地併同移轉或設定抵押權之政策，係為避免產權分屬不同所有人而衍生農舍與農地管理問題，以符合興建農舍之精神。\n三、依現行法令規定，建築物雖非強制採取全面性一次總登記，但來函說明三亦認為「為確保其權利仍應依法辦理登記，始為正辦」，故對於擬申請移轉之農地上若有未辦理建物所有權第一次登記之農舍者，建請土地所有權人先辦理農舍之建築物登記後再辦理農舍與農地移轉程序，以利土地管理機關掌握農舍與農地是否併同移轉之事實，並避免土地移轉後農舍與農地產權分屬他人，致違背農業發展條例第18條規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920158778號|有關○○○等7人申辦南投縣水里鄉○○○地號共有土地上已興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8d1c5951d3d0562bb99174bef891f3db3d40212a467cb0e11ad4df09053845df",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "同移轉之事實,並避免土地移轉後農舍與農地產權分屬他人,致違背農業發展條例第18條規定。"
+  }
+ ]
+}

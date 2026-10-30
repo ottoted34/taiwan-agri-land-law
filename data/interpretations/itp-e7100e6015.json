@@ -1,0 +1,64 @@
+{
+ "id": "itp-e7100e6015",
+ "doc_class": "interpretation",
+ "docno": "營署中城字第0940016403號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "都市計畫農業區已興建農舍之土地，得否於該農舍剩餘空（農）地再申請設置農業產銷設施之疑義案。",
+ "content": "經查本署93年5月17日營署中城字第0933503737號函釋略以：「都市計畫農業區內之農地，其已申請建築者（包括10%農舍面積及90%之農地），不論該90%農地是否分割，均不得再行申請建築。故依農業用地容許作農業設施使用審查辦法規定申請設置之農作產銷設施，如涉及建築行為，本署曾以91年9月17日營署都字第0910052645號函明釋在案，仍請參考辦理。」又本署91年9月17日營署都字第0910052645號函釋略以：「農業區土地既經申請自用農舍在案，如擬再申請設置加油站，宜申請將該土地重新分割，並就分割所剩餘土地整界後，依都市計畫法臺灣省施行細則第29條第3項規定申請設置」。故本案農地既經貴府核發使用執照供自用農舍使用在案，如擬再申請設置涉及建築行為之農業產銷必要設施，應依上開函示規定就申請基地重新分割整界後，再依相關規定申請辦理。至已申請自用農舍建築者（包括10%農舍面積及90%之農地）不得作為該設施之空地比率。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署中城字第0940016403號|都市計畫農業區已興建農舍之土地得否於該農舍剩餘空農地再申請設"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7fae3ee24a6777bde5d14f7edc03b824e1e5743227216a9ecf6df7a77cd4896a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之農地),不論該90%農地是否分割,均不得再行申請建築。故依農業用地容許作農業設施使用審查辦法規定申請設置之農作產銷設施,如涉及建築行為,本署曾以91年9月17日營署都字第0"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "加油站,宜申請將該土地重新分割,並就分割所剩餘土地整界後,依都市計畫法臺灣省施行細則第29條第3項規定申請設置」。故本案農地既經貴府核發使用執照供自用"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "id": "itp-22421d882e",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第47774號",
+ "date": "2000-12-12",
+ "date_text": "89/12/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "031釋農業用地上興建圍牆其申請雜項執照之執行案",
+ "content": "依據行政院農業委員會89年11月23日（89）農企字第890010406號函送「研商農業發展條例辦理核發農地農用證明相關執行問題」會議紀錄第2案決議（二）有關農業用地上興建圍牆部分：「（1）修法前已興建之農舍圍牆，於法定基層建築面積範圍內，應准予補辦雜項執照後，或依其使用執照上登載已提出圍牆竣工圖，據以辦理查核發給農業用地作農業使用證明。（2）農業用地週邊，原則上不得興建與農業經營無關之圍牆，惟因基於農業經營管理之特殊需要，有須於農業用地週邊興建圍牆者，各縣市政府應將其視同農業、畜牧及養殖設施之一部份而併同容許使用申請案辦理。」明示在案。是有關農舍之圍牆應以不超過法定基層面積範圍為限，至屬農業、畜牧及養殖設施之一部份而併同容許使用申請案辦理許可之圍牆，且非屬農業發展條例第8條第3項規定得免申請建築執照者，得檢附農業主管機關核可之文件申請雜項執照。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5020",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:53+08:00",
+   "source_key": "rmis:5020"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第47774號|釋農業用地上興建圍牆其申請雜項執照之執行案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2003-12-15",
+    "history": "中華民國九十二年十二月十五日行政院農業委員會農授中字第 0921070714 號令訂定發布全文 28 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "8",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c1e67b5baaba44a946071b432fd44d53ec3cb264e93e89524345fd286e6a7372",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "及養殖設施之一部份而併同容許使用申請案辦理許可之圍牆,且非屬農業發展條例第8條第3項規定得免申請建築執照者,得檢附農業主管機關核可之文件申請雜項執照。"
+  }
+ ]
+}

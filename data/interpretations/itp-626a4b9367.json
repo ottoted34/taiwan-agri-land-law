@@ -1,0 +1,52 @@
+{
+ "id": "itp-626a4b9367",
+ "doc_class": "interpretation",
+ "docno": "農訴字第1040708908號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "檢送臺端因申請興建農舍資格事件訴願決定書1份，請查收。",
+ "content": "依據臺中市政府104年3月16日府授農地字第1040058170號函轉臺端未具日期訴願書、訴願補正書、答辯機關答辯資料及有關法令審議決定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農訴字第1040708908號|檢送臺端因申請興建農舍資格事件訴願決定書1份請查收"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "80fe2e3039b5aca1b505862bd667a1ed99c786a3d58d0b51919e05c6137d3b3f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

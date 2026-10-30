@@ -1,0 +1,58 @@
+{
+ "id": "itp-b9f545b423",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0932909297號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢河川區農牧用地可否參加集村興建農舍乙節，復請查照。",
+ "content": "一、依據奉交下經濟部水利署93年5月19日經水地字第09350224320號函辦理。\n二、查依非都市土地使用管制規則規定，河川區農牧用地不容許使用興建農舍，自不得參加集村興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0932909297號|台端函詢河川區農牧用地可否參加集村興建農舍乙節復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1f783093365749daa114a8490a393e70a66086dfab99b383e8423dc0a4c2f053",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月19日經水地字第09350224320號函辦理。\n二、查依非都市土地使用管制規則規定,河川區農牧用地不容許使用興建農舍,自不得參加集村興建農舍。"
+  }
+ ]
+}

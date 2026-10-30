@@ -1,0 +1,58 @@
+{
+ "id": "itp-82a4cd3f46",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031824400號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "因都市計劃逕為分割，造成田地未滿2分半，能否申請農舍？",
+ "content": "依「農業用地興建農舍辦法」第2條第1項第3款規定：「申請興建農舍之該筆農業用地面積不得小於0.25公頃。」，因此，申請興建農舍之單一筆地號面積應達0.25公頃以上，方符申請興建農舍之條件，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1031824400號|因都市計劃逕為分割造成田地未滿2分半能否申請農舍?"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "67a7a012528b6ac9fd9d3a53a5ba2289dc9886916b9517874a069165626fa97e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "因都市計劃逕為分割,造成田地未滿2分半,能否申請農舍?\n依「農業用地興建農舍辦法」第2條第1項第3款規定:「申請興建農舍之該筆農業用地面積不得小於0.25公頃。」,因此"
+  }
+ ]
+}

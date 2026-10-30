@@ -1,0 +1,65 @@
+{
+ "id": "itp-4102a3b277",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0990147084號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴縣埤頭鄉○○○地號自有農舍涉及營業行為等疑義案，請 查照。",
+ "content": "1.復 貴府99年7月8日府農務字第0990165459號函。\n2.爲即時導正土地違規狀態，請依區域計畫法第21條相關違反土地使用管制規定之裁罰規定辦理限期變更使用、停止使用或恢復原狀。\n3.本案既經依法抽查確有違規使用情事，倘該違規使用之行為係買賣移轉後，承受者所為之違規行為，而與移轉前原土地所有權人是否違規無涉，依農業發展條例施行細則第15條之規定，應予以列冊專案管理，並註記專案列管之資料，做為該農業用地再次移轉時，註記相關證明文件之依據。\n4.有關農舍之買賣移轉登錄事宜，事涉內政部土地登記業務，建請逕向該部洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0990147084號|有關貴縣埤頭鄉○○○地號自有農舍涉及營業行為等疑義案請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "83db1be4f7a91aeedc62381b755858233dd9eb2d3ea12b3e06adb70ee7189390",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070030",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "0990165459號函。\n2.爲即時導正土地違規狀態,請依區域計畫法第21條相關違反土地使用管制規定之裁罰規定辦理限期變更使用、停止使用或恢復原狀。\n3.本"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "受者所為之違規行為,而與移轉前原土地所有權人是否違規無涉,依農業發展條例施行細則第15條之規定,應予以列冊專案管理,並註記專案列管之資料,做為該農業用地再次移轉時,註記"
+  }
+ ]
+}

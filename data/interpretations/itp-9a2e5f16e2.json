@@ -1,0 +1,64 @@
+{
+ "id": "itp-9a2e5f16e2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990165344號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所函詢有關所有權人其農業用地因公務員職務關係信託登記於受託人，得否免受農業發展條例第18條第4項「農舍起造人應為該農舍坐落土地之所有權人」限制疑義案，復請 查照。",
+ "content": "1.復 貴事務所99年9月27日建工字第09909010號函。\n2.信託法第1條：「稱信託者，謂委託人將財產權移轉或為其他處分，使受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係。」並未對不同原因所為之信託行為，定義有所不同。有關農地信託登記，既已將土地所有權移轉與受託人，且辦畢農地信託登記，應認所有權已移轉，申請興建農舍應依「農業用地興建農舍辦法」第3條規定辦理。本案土地現階段所有權人既已登記為第一商業銀行，原委託人當無行使其興建農舍之權利，亦無法以受託人出具同意書方式申請。\n3.至於農業用地所有權人若辦理登記回原委託人，得否免受農業用地興建農舍辦法第3條第1項第2款「且其土地取得及戶籍登記均應滿二年者」之限制乙節，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成登記之時點為基準，是以仍須依農業用地興建農舍辦法第3條第1項第2款規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990165344號|貴事務所函詢有關所有權人其農業用地因公務員職務關係信託登記於"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b211dfb9f6bf365c25c9891d533a0dda3400e61ab4ecdca2b84743fe5a9ef6be",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "所有權人其農業用地因公務員職務關係信託登記於受託人,得否免受農業發展條例第18條第4項「農舍起造人應為該農舍坐落土地之所有權人」限制疑義案,復請 查照。\n1.復"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "託人,且辦畢農地信託登記,應認所有權已移轉,申請興建農舍應依「農業用地興建農舍辦法」第3條規定辦理。本案土地現階段所有權人既已登記為第一商業銀行,原委託人當無行使其興建農"
+  }
+ ]
+}

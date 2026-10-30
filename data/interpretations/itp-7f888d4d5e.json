@@ -1,0 +1,60 @@
+{
+ "id": "itp-7f888d4d5e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940167220號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關特定農業區農牧用地申請農業用地容許作農業設施使用(農作產銷設施)，於基地內規劃通路以進出產業道路，其通路寬度是否須受建築技術規則建築設計施工編第2條第1項第4款規定限制疑義案。",
+ "content": "主旨：有關貴府函詢民眾於特定農業區農牧用地申請農業用地容許作農業設施使用(農作產銷設施)，於基地內規劃通路以進出產業道路，其通路寬度是否須受建築技術規則建築設計施工編第2條第1項第4款規定限制疑義案，復請查照。\n說明：\n一、復 貴府94年12月2日府農務字第0940154425號函。\n二、依建築技術規則建築設計施工編第2條規定，係規範「私設通路」之寬度。查「非都市土地使用管制規則」第6條第3項附表一規範，農牧用地容許使用項目中之私設通路，限以集村方式興建農舍者及甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者；而農業設施其許可使用細目包含農路，限於農業經營所需要者。本案建議 貴府依據農業使用之內涵、當地農業經營發展、設施與農業生產經營之必要性及合理性，釐清究係屬「私設通路」或農業經營所需要之「農路」，視個案實務及事實予以審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940167220號|有關特定農業區農牧用地申請農業用地容許作農業設施使用農作產銷"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "35bd16c747ae6bb4ab7a96cb078c553fa17fa552af76e4d38138497e3e76d10d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "術規則建築設計施工編第2條規定,係規範「私設通路」之寬度。查「非都市土地使用管制規則」第6條第3項附表一規範,農牧用地容許使用項目中之私設通路,限以集村方式興建農舍者及甲種"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "itp-75ff2456d7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843052號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正前取得之3500坪土地，擬辦理分割150坪售予他人申請興建農舍及農舍興建完成後辦理移轉案，復請查照。",
+ "content": "1.復 貴府96年11月27日府農管字第0960392001號致本會水土保持局函。\n2.查農業發展條例第18條第3項係指修法前之共有耕地，於修法後分割為單獨所有，得依相關土地使用管制及建築法令規定，申請興建農舍。本案係為修法前取得之單筆農業用地於修法後分割，依土地法第43條規定，其「土地取得」之認定時點應在本條例修正施行後，其申請興建農舍，應依「農業用地興建農舍辦法」第3條規定辦理，合先說明。\n3.另農業發展條例第18條第2項及第4項明定，在自有農業用地興建農舍滿5年始得移轉，且農舍應與其坐落用地併同移轉或併同設定抵押權。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843052號|農業發展條例修正前取得之3500坪土地擬辦理分割150坪售予"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "23fde5ee2c04460ca90cb122f081782c1fb058ff663a6e17368e43a9588c43ad",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "府農管字第0960392001號致本會水土保持局函。\n2.查農業發展條例第18條第3項係指修法前之共有耕地,於修法後分割為單獨所有,得依相關土地使用管制及建築法"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "前之共有耕地,於修法後分割為單獨所有,得依相關土地使用管制及建築法令規定,申請興建農舍。本案係為修法前取得之單筆農業用地於修法後分割,依土地法第4"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "地取得」之認定時點應在本條例修正施行後,其申請興建農舍,應依「農業用地興建農舍辦法」第3條規定辦理,合先說明。\n3.另農業發展條例第18條第2項及第4項明定,在自有農業用"
+  }
+ ]
+}

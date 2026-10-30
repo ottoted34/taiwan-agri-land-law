@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6058",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:34+08:00",
+   "fetched_at": "2026-10-30T11:14:46+08:00",
    "source_key": "rmis:6058"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農授農保字第1140251551號|有關貴署函為農業用地變更作儲能設施備升壓站等太陽光電發電設備"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "a3cb5a241200e26e2b375cb12b0d669cfaf9b19421d2616741c7fe092dd410d7",
  "topics": [
@@ -44,10 +60,24 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",其土地使用或取得,依「再生能源發展條例」第15條規定,準用區域計畫法相關法令中有關「公用事業設施」規定。爰以,依據本部113年8月8日前揭號函所示,"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "適用規定如下:\n(一)其使用面積未超過660平方公尺者,得依非都市土地使用管制規則第6條附表1規定,申請農牧用地作「公用事業設施」之容許使用項目。\n(二)其使用面積超過"
+  },
+  {
    "law_id": "RMIS-3008",
    "article": null,
    "kind": "extracted",
    "snippet": "變更編定執行要點」規定,申請變更編定為特定目的事業用地,不受「農業主管機關同意農業用地變更使用審查作業要點」(下稱農變要點)第7點之1規定,農業用地變更作太陽光電設施使用,其變更使用面積未"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

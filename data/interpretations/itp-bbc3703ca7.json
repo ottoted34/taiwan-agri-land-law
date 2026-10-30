@@ -1,0 +1,58 @@
+{
+ "id": "itp-bbc3703ca7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041813886號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍除所有權人自住房間外，多餘房間是否可由所有權人出具同意使用書出租供配偶申請民宿使用」相關事宜",
+ "content": "民宿之定義依發展觀光條例第2條第9款，係指利用自用住宅空閒房間，結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動，以家庭副業方式經營，提供旅客鄉野生活之住宿處所。依農業發展條例第18條規定，無自用農舍而需興建者，得申請興建農舍。爰申請民宿使用之農舍，於民宿定義所指之利用自用住宅，與農舍應供自用之原則下，其經營者自應為農舍及其坐落土地之所有權人。\n揆諸農舍興建立法精神，係強調「無自用農舍」而需興建者，得依相關規定申請興建農舍，是以出租行為係營利行為，依社會通識應即認定已違反所謂「自用」原則。另，有關申請民宿相關規定及程序，請台端洽交通部觀光局詢問。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041813886號|農舍除所有權人自住房間外多餘房間是否可由所有權人出具同意使用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6e51256626d9487acc6e5256896f23e88e030d1d38cb814423eb67ca1b410d28",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "生產活動,以家庭副業方式經營,提供旅客鄉野生活之住宿處所。依農業發展條例第18條規定,無自用農舍而需興建者,得申請興建農舍。爰申請民宿使用之農舍,於民宿定義所指"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "itp-8718130d73",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070715203號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "為臺端詢問90年4月26日「農業用地興建農舍辦法」實施前已興建農舍之農業用地得不受「休閒農業輔導管理辦法」第22條第3項「已申請興建農舍之農業用地，不得設置前條休閒農業設施」等疑義，復如說明，請查照。",
+ "content": "一、復臺端107年5月30日陳情函。\n二、有關已興建農舍之農地欲申請休閒農場，得否於該筆農業用地上規劃設置休閒農業設施一案，查本會已於106年5月1日以農水保字第1050244023號通函各直轄市、縣(市)政府，敘明已興建農舍之農業經營用地，不宜設置與一級農業生產使用無關之休閒農業設施，以符合農業用地得興建農舍之立法意旨有案。復查休閒農業輔導管理辦法於107年5月18日修正發布，並將上開函釋內容納入該辦法第22條第3項予以明定：「已申請興建農舍之農業用地，不得設置前條休閒農業設施。」，爰已興建農舍之農業經營用地於上開函釋之時點後已不得申請設置休閒農業設施，與該農舍於何時取得使用執照無涉。\n三、基於農舍涉及個案審查係屬直轄市、縣(市)政府之權責，臺端倘有個案執行疑義，宜請洽農舍坐落所在地之直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070715203號|為臺端詢問90年4月26日農業用地興建農舍辦法實施前已興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a63adb8b30c76d0cc84be4dc85b5b668697ffa071537db54c165660a237ba261",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "為臺端詢問90年4月26日「農業用地興建農舍辦法」實施前已興建農舍之農業用地得不受「休閒農業輔導管理辦法」第22條第3項「已申請興"
+  },
+  {
+   "law_id": "M0090014",
+   "article": "22",
+   "kind": "extracted",
+   "snippet": "6日「農業用地興建農舍辦法」實施前已興建農舍之農業用地得不受「休閒農業輔導管理辦法」第22條第3項「已申請興建農舍之農業用地,不得設置前條休閒農業設施」等疑義,復如說明,請"
+  }
+ ]
+}

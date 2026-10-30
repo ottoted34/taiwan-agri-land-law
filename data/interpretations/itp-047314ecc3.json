@@ -18,34 +18,30 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5004",
    "serial": null,
-   "fetched_at": "2026-10-30T10:18:18+08:00",
+   "fetched_at": "2026-10-30T11:45:32+08:00",
    "source_key": "rmis:5004"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0970174396號|釋農業發展條例施行細則第14條之1土地之農業設施應如何審理"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "possibly_affected",
+  "status": "amended_by_later",
   "confirmed": false,
   "basis": [
    {
-    "type": "law_amendment",
-    "law_id": "RMIS-2013",
-    "law_name": "申請農業用地作農業設施容許使用審查辦法",
-    "article": null,
-    "amended_on": "2009-03-16",
-    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
-    "relation_kind": "official"
-   },
-   {
-    "type": "law_amendment",
-    "law_id": "RMIS-2013",
-    "law_name": "申請農業用地作農業設施容許使用審查辦法",
-    "article": null,
-    "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
-    "relation_kind": "official"
+    "type": "amend_signal",
+    "by_id": "itp-b52ec72e4e",
+    "by_docno": "農企字第0980109258號",
+    "by_date": "2009-02-24",
+    "kind": "amend",
+    "phrase": "...惟仍應同時符合都市計畫法...相關規定」有案,另依內政部營建署97年4月1日營署都字第0970017141號函釋略以:「按符合農業發展條例施行細則第14條之1規定之土地,已變更為非農業區或保護區之其他使用分區,如擬作新使用或設置新設施,不得違反該變更後之土地使用分區管制規定...」,本會並於98年1月7日農企字第0970174396號函說明有案"
    }
   ]
  },
@@ -58,16 +54,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2009",
+   "law_id": "M0020002",
    "article": "14-1",
    "kind": "extracted",
    "snippet": "008 釋農業發展條例施行細則第14條之1土地之農業設施應如何審理\n查內政部營建署97年4月1日營署都字第09700171"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

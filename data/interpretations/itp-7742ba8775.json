@@ -1,0 +1,66 @@
+{
+ "id": "itp-7742ba8775",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930141296號",
+ "date": "2004-09-03",
+ "date_text": "93年9月3日農企字第0930141296號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "018 釋都市計畫農業區作農業使用之認定案",
+ "content": "一、查「按都市計畫法台灣省施行細則第29條規定，農業區之劃定係為保持農業生產，而該條文並未就農業生產之範圍加以限制。是以如符合貴管相關法令，且都市計畫書亦未有禁止之規定，農業區應可供農、林、漁、牧業作為生產使用。」內政部營建署91年2月26日營署都字第0910009915號函釋，並經本會於91年3月7日以農企字第0910110875號函貴府等（諒達）在案。\n二、準此，都市計畫農業區土地，倘都市計畫書未有禁止之規定者，得作漁業養殖使用。至其申請農業用地作農業使用證明書尚無須以養殖漁業登記為審核要件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930141296號|釋都市計畫農業區作農業使用之認定案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7d0eac986cd7e10692273de3e155f478934de0bdb8c61868dcc62064e56bd579",
+ "topics": [
+  "farm_use_cert",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "018 釋都市計畫農業區作農業使用之認定案\n一、查「按都市計畫法台灣省施行細則第29條規定,農業區之劃定係為保持農業生產,而該條文並未就農業生產"
+  }
+ ]
+}

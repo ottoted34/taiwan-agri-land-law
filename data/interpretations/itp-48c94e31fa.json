@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3866",
    "serial": null,
-   "fetched_at": "2026-10-30T10:06:55+08:00",
+   "fetched_at": "2026-10-30T11:34:07+08:00",
    "source_key": "rmis:3866"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1031819553號|有關宜蘭縣政府函為民眾陳情有關申請興建農舍其建造執照尚未准照"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "8",
     "amended_on": "2015-09-04",
@@ -58,16 +64,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "字第1030132531號函(正本諒達)辦理。\n二、旨案涉屬建築法相關規定,爰請貴署主政逕復。至宜蘭縣政府上開號函說明三一節,因本案申請人於核發建"
+  },
+  {
+   "law_id": "M0110013",
    "article": "8",
    "kind": "extracted",
    "snippet": "上開號函說明三一節,因本案申請人於核發建造執照前已死亡,應無農業用地興建農舍辦法第8條第2項規定之適用,前開意見併請貴署卓參。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

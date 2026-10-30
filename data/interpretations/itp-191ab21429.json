@@ -1,0 +1,64 @@
+{
+ "id": "itp-191ab21429",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980137363號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台○函詢桃園縣蘆竹鄉○○○、○○○地號農業用地因分割合併，其申請興建農舍之時點認定案，復請查照。",
+ "content": "1.復台端98年6月16日申請書。 2.有關土地合併分割交換調整，其屬權屬不變動之分割或合併案件，其取得農地計算基準不受本會97年8月4日農授水保字第0971843810號函限制(參照本會98年11月26日農授水保字第0971844308號函)。 3.台○○於農業發展條例修正施行前取得桃園縣蘆竹鄉○○○、○○○地號之農業用地，經分割合併後其中○○○地號土面積調整為1300平方公尺，其如符合土地所有權人不變動之分割合併，得認定為農業發展條例修正施行前取得之農業用地，並得依「農業用地興建農舍辦法」第2條規定申請興建農舍。 4.檢還原案附件全件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980137363號|台○函詢桃園縣蘆竹鄉○○○○○○地號農業用地因分割合併其申請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f669c82b74418554084bfdbf013b2e03cd8486e4e20f5aa09a95ac783ae2ae5f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "26日農授水保字第0971844308號函)。 3.台○○於農業發展條例修正施行前取得桃園縣蘆竹鄉○○○、○○○地號之農業用地,經分割合併後其中○○○地"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "割合併,得認定為農業發展條例修正施行前取得之農業用地,並得依「農業用地興建農舍辦法」第2條規定申請興建農舍。 4.檢還原案附件全件。"
+  }
+ ]
+}

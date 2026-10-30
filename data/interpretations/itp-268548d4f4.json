@@ -1,0 +1,67 @@
+{
+ "id": "itp-268548d4f4",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030727795號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢申請興建農舍，因農業用地上已興建有其他農業設施，其農舍及農業設施坐落總面積之限制疑義案，復請查照。",
+ "content": "一、復台端103年9月10日申請書。\n二、查本會於103年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)，就原規定第8條已修正移列為第7條。按現行容許辦法第7條第1項規定：「申請本辦法所定各項農業設施，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之40%。但有下列情形之一者，不受40%之限制：...『二、依都市計畫法申請農業產銷必要設施。』...」，合先敘明。\n三、復依「都市計畫法臺灣省施行細則」第29條第3項規定：「第1項所定農業產銷必要設施、休閒農業設施及農村再生相關公共設施之項目由農業主管機關認定，並依目的事業主管機關所定相關法令規定辦理，且不得擅自變更使用；農業產銷必要設施之建蔽率不得超過60%...」同條文第4項規定：「第1項農業用地內之農舍、農業產銷必要設施及休閒農業設施，其建蔽率應一併計算，合計不得超過60%。」是以，依來函案附之資料所示，申請用地倘係為都市計畫農業區土地，則該都市計畫農業用地內已興建之農業設施加計擬新建之農舍，其建蔽率不得超過60%。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1030727795號|有關台端函詢申請興建農舍因農業用地上已興建有其他農業設施其農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "abd411f9b030d65f615c1532a3a8867480ff4921748262e498dd405c7a73d924",
+ "topics": [
+  "land_change",
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年9月10日申請書。\n二、查本會於103年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法),就原規定第8條已修正移列為第7條。按現行容許辦法第7條第1"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "40%。但有下列情形之一者,不受40%之限制:...『二、依都市計畫法申請農業產銷必要設施。』...」,合先敘明。\n三、復依「都市計畫法臺灣省施行細則"
+  }
+ ]
+}

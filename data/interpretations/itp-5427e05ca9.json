@@ -1,0 +1,65 @@
+{
+ "id": "itp-5427e05ca9",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1000175421號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣○○○等5人所有冬山鄉○○○地號土地，以共有土地持分面積申請興建農舍疑義案，復請查照。",
+ "content": "一、復貴府100年11月23日府農務字第1000179436號函。\n二、查農業發展條例89年1月28日修正施行後取得之共有農業用地，其共有人一人、部分或全部，以共有土地持分面積申請興建農舍，其處理原則規定如下，並請貴府依處理原則辦理：\n(一)申請興建農舍之共有人應符合農業用地興建農舍辦法第3條第1項規定之資格要件。\n(二)應取得全部共有人之同意，並訂有分管契約，但共有人全部提出申請者，不在此限。\n(三)其可興建面積以申請人持有之應有部分面積計算。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第1000175421號|有關貴縣○○○等5人所有冬山鄉○○○地號土地以共有土地持分面"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a3049b71182bc55040155ede448d8621942ec80a91c96c4a4edda15b4615e76c",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0年11月23日府農務字第1000179436號函。\n二、查農業發展條例89年1月28日修正施行後取得之共有農業用地,其共有人一人、部分或全部,以共有土"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": ",並請貴府依處理原則辦理:\n(一)申請興建農舍之共有人應符合農業用地興建農舍辦法第3條第1項規定之資格要件。\n(二)應取得全部共有人之同意,並訂有分管契約,但共有人全"
+  }
+ ]
+}

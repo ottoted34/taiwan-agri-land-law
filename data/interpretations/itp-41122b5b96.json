@@ -1,0 +1,58 @@
+{
+ "id": "itp-41122b5b96",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0980135774號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函為農業用地興建農舍辦法第3條有關土地取得時點之認定疑義案，復請查照。",
+ "content": "1.復 貴府98年6月9日府農務字第09801246590號函。\n2.農業用地興建農舍辦法第3條第1項第2款規定：「申請人之戶籍所在地及其農業用地，須在同一直轄市、縣（市）內，且其土地取得及戶籍登記均應滿二年者……。」，其中有關農業用地經辦理分割合併交換調整後其取得時點，得請函詢單位檢附土地登記謄本、異動索引等有關資料送 貴府認定，以資便捷，倘有涉法令執行疑義，再請依程序報請核示。\n3.檢還本案附件全件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0980135774號|貴府函為農業用地興建農舍辦法第3條有關土地取得時點之認定疑義"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b51cfecbadb73d8307fd7e8987d5d0cfa4e9a4d82f45b13235dd2f5c417e7ad0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "貴府函為農業用地興建農舍辦法第3條有關土地取得時點之認定疑義案,復請查照。\n1.復 貴府98年6月9日府農務字第0"
+  }
+ ]
+}

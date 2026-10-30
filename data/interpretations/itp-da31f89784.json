@@ -1,0 +1,67 @@
+{
+ "id": "itp-da31f89784",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940120497號",
+ "date": "2005-04-27",
+ "date_text": "94年4月27日農企字第0940120497號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "025 釋農業用地作假山、庭園造景及水池等使用案",
+ "content": "一、查農業發展條例第3條第12款所定「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」係以農業生產面及資源保育面界定農業使用之定義，而非以庭園景觀造景之型態呈現。因此，農業用地如係種植花卉、盆栽、草皮等之生產，以供應市場之需求，仍屬農業使用之範圍。惟如僅作庭園景觀栽植，零星點綴栽植花木造景，並不符合前開農業使用之定義。\n二、綜上，來函所稱農地栽植樹木、草皮等，如係供苗木生產之苗圃或生產草皮出售之園圃，始符前開農業使用之定義。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940120497號|釋農業用地作假山庭園造景及水池等使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "ad56535acba728e79a9bf8d40945d3baaff76be1b4c836f51daff72dcd6c0983",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "025 釋農業用地作假山、庭園造景及水池等使用案\n一、查農業發展條例第3條第12款所定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  }
+ ]
+}

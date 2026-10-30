@@ -1,0 +1,70 @@
+{
+ "id": "itp-b367b5a1c0",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970101860號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○申請於貴轄雙溪鄉○○○地土地興建農舍資格條件案，復請查照。",
+ "content": "1.復 貴府97年1月9日北府農牧字第0960854881號函。 2.查○○○於80年12月4日因繼承取得雙溪鄉○○○地號共有土地（權利範圍2分之1），嗣於96年10月19日辦理共有物分割為旨揭土地，依農業發展條例第18條規定：「本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同」; 據此，旨揭土地得依農業用地興建農舍辦法第2條規定申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970101860號|○○○申請於貴轄雙溪鄉○○○地土地興建農舍資格條件案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fbdfcae3cf60e25edb73dcee966535d641ef2a7787d6d201688f4ca194a93b55",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "分之1),嗣於96年10月19日辦理共有物分割為旨揭土地,依農業發展條例第18條規定:「本條例中華民國89年1月4日修正施行前取得農業用地,且無自用農舍而需興建"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地,而於本條例"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "獨所有,且無自用農舍而需興建者,亦同」; 據此,旨揭土地得依農業用地興建農舍辦法第2條規定申請興建農舍。"
+  }
+ ]
+}

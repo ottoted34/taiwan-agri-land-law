@@ -1,0 +1,77 @@
+{
+ "id": "itp-aae332b1d5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981843635號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關坐落於住宅區之農舍移轉疑義案，復請查照。",
+ "content": "一、復貴院98年11月18日南院龍98司執實字第57564號函。\n二、依據內政部94年7月20日召開「研商都市計畫農業區及保護區以外之使用分區興建農舍，是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄，五、會議結論、（一）：「依農業發展條例施行細則第2條第1項第4款規定，都市計畫範圍內農業用地係指都市計畫農業區、保護區之土地而言，及農業發展條例相關規定並未明文限制都市計畫農業區、保護區以外之使用分區不得作農舍使用，其使用管制，應依都市計畫法令及各該都市計畫書規定辦理，並無農業發展條例及農業用地興建農舍辦法等規定之適用。...」故本案原申請農舍之農業用地若經變更使用分區為住宅區，其已非屬農業發展條例及農業用地興建農舍辦法管轄範疇，其移轉自不受農業發展條例之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981843635號|有關坐落於住宅區之農舍移轉疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ed6506839aa89010fb2ba85b3cafbc1e3ab8fdc54ac44c23f2b5520db3fe6f1e",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「研商都市計畫農業區及保護區以外之使用分區興建農舍,是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄,五、會議結論、(一):「依農業"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業區及保護區以外之使用分區興建農舍,是否應依農業發展條例及農業用地興建農舍辦法規定辦理相關事宜」會議紀錄,五、會議結論、(一):「依農業發展條例施行細則第2條"
+  },
+  {
+   "law_id": "M0020002",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "舍辦法規定辦理相關事宜」會議紀錄,五、會議結論、(一):「依農業發展條例施行細則第2條第1項第4款規定,都市計畫範圍內農業用地係指都市計畫農業區、保護區之土地而言,及"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業區、保護區以外之使用分區不得作農舍使用,其使用管制,應依都市計畫法令及各該都市計畫書規定辦理,並無農業發展條例及農業用地興建農舍辦法等規定之適用。"
+  }
+ ]
+}

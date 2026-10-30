@@ -1,0 +1,58 @@
+{
+ "id": "itp-9aa304c801",
+ "doc_class": "interpretation",
+ "docno": "北市產業農字第10532916900號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○因農舍申請人資格審查事件，不服本局105年4月21日北市產業農字第10530668500號函，提起訴願，經臺北市政府訴願委員決定駁回，檢送訴願決定書1份供參，請查照。",
+ "content": "一、依據臺北市政府105年9月20日府訴二字第10509129300號訴願決定書辦理。\n二、本案○○○訴願業經駁回，惟查駁回主要理由係以「訴願人未能提出農產品買受人收貨證明、訴願人受領買賣價金或其他銷售自產農產品之證明文件供核，則該等收據尚難證明訴願人有直接從事並以之為主之農業生產之事實。」而非因土地所有權人為上市公司董事長或負責人非為農業發展條例所稱之農民為駁回理由，恐無法阻絕農業用地流失及炒作農地之風。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:北市產業農字第10532916900號|○○○因農舍申請人資格審查事件不服本局105年4月21日北市"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9dbe3bc4c2822dab86fbb03d7a361f57e3558489d9527c24d3a0c008ee4782fb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "生產之事實。」而非因土地所有權人為上市公司董事長或負責人非為農業發展條例所稱之農民為駁回理由,恐無法阻絕農業用地流失及炒作農地之風。"
+  }
+ ]
+}

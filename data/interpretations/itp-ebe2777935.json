@@ -1,0 +1,58 @@
+{
+ "id": "itp-ebe2777935",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0930142219號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正施行前分屬二人農地，於該條例修正施行後擬辦理分割交換合併，是否可依該條例第十八條第二項規定申請興建農舍案，復請查照。",
+ "content": "一、復貴府九十三年八月三十日府農務字第○九三○一六○二一八○號函。 二、有關農業發展條例修正施行前取得農業用地，並於該條例修正施行後與鄰地分割交換合併，其權利主體未更動，且分割交換合併調整後之面積並未改變，可視為原權利內容之持續，由該主管機關本諸權責依法核處，本會九十二年十二月二十五日農輔字第○九二○一七○四四○號函釋有案如附件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0930142219號|農業發展條例修正施行前分屬二人農地於該條例修正施行後擬辦理分"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c19a7ef5734dc558c683fbd1332c79309c2fcbed887209e3ebe0892899e2c64e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正施行前分屬二人農地,於該條例修正施行後擬辦理分割交換合併,是否可依該條例第十"
+  }
+ ]
+}

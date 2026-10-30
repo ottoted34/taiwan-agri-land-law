@@ -1,0 +1,58 @@
+{
+ "id": "itp-d1a14e77da",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0981842296號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "○○○等49人申請於新竹縣湖口鄉東興村○○○地號等5筆土地，以集村方式興建農舍，函請集村興建農舍獎勵補助案，請依說明三辦理，請查照。",
+ "content": "一、復 貴府98年1月8日府農輔字0980005179號函及97年10月9日府農輔字第0970150209號函。 二、○○○等49人申請以集村方式興建農舍，依「集村興建農舍獎勵及協助辦法」規定，得申請農舍補助每戶20萬元，總計得補助新台幣980萬元;嗣經貴府辦理現場會勘符合上開規定者僅25人，總計得補助新台幣500萬元。 三、本計畫經費預算科目為「獎補助費」，請 貴府依「中央對直轄市及縣（市）政府補助辦法」規定納入預算，並請掣收據併同建築執照影本及經貴府現場會勘符合「集村興建農舍獎勵及協助辦法」規定之25起造人名冊送局，以憑撥款。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0981842296號|○○○等49人申請於新竹縣湖口鄉東興村○○○地號等5筆土地以"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d57b7de077bd82c7bd2ce130ec446b273477dbe7088ec5bc4ae11a69a961e955",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0209號函。 二、○○○等49人申請以集村方式興建農舍,依「集村興建農舍獎勵及協助辦法」規定,得申請農舍補助每戶20萬元,總計得補助新台幣980萬元;嗣經貴府辦理現場會"
+  }
+ ]
+}

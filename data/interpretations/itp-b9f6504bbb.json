@@ -1,0 +1,74 @@
+{
+ "id": "itp-b9f6504bbb",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920162962號",
+ "date": "2003-11-10",
+ "date_text": "92年11月10日農企字第0920162962號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "查本會90年7月31日(90)農企字第900010341號函（諒達）說明一、（四）「如有因他共有人無法尋覓、死亡或不願切結違規使用等情事，致無法取得全體共有人合意之分管證明者，得以『共有人過半數及其應有部份合計過半數之同意；或應有部份合計過3分之2者，其人數不予計算。』之分管證明為之，惟鄉（鎮、市、區）公所於接受前開部份共有人簽結之分管證明時，為兼顧其他共有人之權益，應參酌行政程序法第104條至第106條及第1章第6節相關規定妥處。」其中「過半數」及「過3分之2」等文字，修正為「達半數」及「達3分之2」，俾利執行。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920162962號|釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "30731b27b2788fb8bfcc677140d27e2f7c7645c3790ae16bfb67160f1cb16378",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "104",
+   "kind": "extracted",
+   "snippet": "開部份共有人簽結之分管證明時,為兼顧其他共有人之權益,應參酌行政程序法第104條至第106條及第1章第6節相關規定妥處。」其中「過半數」及「過3分之2」等文字,"
+  }
+ ]
+}

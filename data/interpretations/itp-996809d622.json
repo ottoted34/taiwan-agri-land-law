@@ -1,0 +1,58 @@
+{
+ "id": "itp-996809d622",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041811220號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "102年農舍興建辦法修法後受害的真農民。",
+ "content": "農業用地興建農舍辦法第2條第1項第3款規定：「申請興建農舍之該筆農業用地面積不得小於0.25公頃......。」所稱「該筆」農業用地，係指土地登記之單一筆地號農業用地而言：爰申請興建農舍尚不得以多筆地號土地合併計算申請，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041811220號|年農舍興建辦法修法後受害的真農民"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "aac0880f5bb9cf330ceb8a65273c386f5aa533330b578cff9165b28c0bb390f0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "102年農舍興建辦法修法後受害的真農民。\n農業用地興建農舍辦法第2條第1項第3款規定:「申請興建農舍之該筆農業用地面積不得小於0.25公頃....."
+  }
+ ]
+}

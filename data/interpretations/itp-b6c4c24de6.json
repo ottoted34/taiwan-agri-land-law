@@ -1,0 +1,58 @@
+{
+ "id": "itp-b6c4c24de6",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1071827506號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢農地買賣及農舍興建皆發生在農業發展條例發布前，土地已經移轉，農舍可否在取得無農舍證明之下興建完成並取得使用執照之疑義，復如說明，請查照。",
+ "content": "一、奉行政院農業委員會交下台端107年3月23日第1070323001號申請函辦理。\n二、台端所函詢事項，查本會104年5月13日農水保字第1030244431號說明三：「至於農業發展條例89年修正施行前已興建完成之農舍，鑑於時空背景及所依據之法令不同，農舍與農地常有分屬不同人之情形，爰為避免農舍或農地所有權人無法處分其財產，如農舍與農地已分屬不同人時，得不受農業發展條例第18條第4項農舍應與其坐落用地併同移轉之限制...」，已敘明有案。\n三、惟台端所函詢事項之爭點，涉及土地登記及建築管理事項，係屬內政部權責，仍請逕向該部洽詢，另涉個案疑義請向所在地直轄市、縣(市)政府洽詢。\n四、隨文檢還台端所送附件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2018,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1071827506號|有關台端函詢農地買賣及農舍興建皆發生在農業發展條例發布前土地"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ae298d2d3bcf1ca3e503714852fe3e394f5bd9accab3c09efca59af34b3246d0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "地所有權人無法處分其財產,如農舍與農地已分屬不同人時,得不受農業發展條例第18條第4項農舍應與其坐落用地併同移轉之限制...」,已敘明有案。\n三、惟台端所函詢事"
+  }
+ ]
+}

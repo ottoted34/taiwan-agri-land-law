@@ -1,0 +1,64 @@
+{
+ "id": "itp-e44592d023",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041816574號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「有關農業發展條例修正施行前取得之農地，申請興建農舍是否需辦理申請人資格條件審查」相關事宜",
+ "content": "一、依農業用地興建農舍辦法(以下簡稱本辦法)第2條及第3條規定，申請興建農舍之申請人應為農民，且其資格應分別符合第2條第1項及第3條之1所列條件，而依農業發展條例(以下簡稱本條例)第3條第3款規定，農民指直接從事農業生產之自然人，爰申請興建農舍之申請人除須為農民外，同時應符合農民資格條件，先予敘明。\n二、有關農舍申請興建之個案審認，係直轄市、縣市政府權責，請逕洽所在縣市政府主管機關辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041816574號|有關農業發展條例修正施行前取得之農地申請興建農舍是否需辦理申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "64589eb835b0ad4dda549362b499ff0b0f8e1a3dc615a3ec86b9c7e555aed67b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「有關農業發展條例修正施行前取得之農地,申請興建農舍是否需辦理申請人資格條件審查」相關事宜\n一、依"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",申請興建農舍是否需辦理申請人資格條件審查」相關事宜\n一、依農業用地興建農舍辦法(以下簡稱本辦法)第2條及第3條規定,申請興建農舍之申請人應為農民,且其資格應分"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-d0f07ce82c",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0921005339號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣轄草屯鎮鎮民○○○申辦興建農舍，於執行上發生疑義案，復如說明，請查照。",
+ "content": "一、復貴府92年3月10日農務字第0920046069-0號函。\n二、「申請人無自用農舍」之認定，依農業發展條例第18條立法精神，係指申請興建農舍者，於自有農地上未曾以農舍名義興建農舍者而言。\n三、因房屋與農舍功能不同，故申請人雖持有房屋，若其無自用農舍者，亦得申請興建自用農舍。\n四、有關如何認定房屋與農舍部分，得請申請人提供該房屋座落地之地籍資料以資認定是否為農地，或請其提供繳納該房屋地價稅之相關證明文件。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0921005339號|有關貴縣轄草屯鎮鎮民○○○申辦興建農舍於執行上發生疑義案復如"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5c05d47b177f2f8c28bf2a0ea1877810acbf341213e429878df6d42e39513e49",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "0046069-0號函。\n二、「申請人無自用農舍」之認定,依農業發展條例第18條立法精神,係指申請興建農舍者,於自有農地上未曾以農舍名義興建農舍者而言。\n三、因"
+  }
+ ]
+}

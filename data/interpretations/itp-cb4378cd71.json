@@ -1,0 +1,93 @@
+{
+ "id": "itp-cb4378cd71",
+ "doc_class": "interpretation",
+ "docno": "農企字第0910137624號",
+ "date": "2002-07-17",
+ "date_text": "91年7月17日農企字第0910137624號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "025 釋農業用地作假山、庭園造景及水池等使用案",
+ "content": "查農業用地作農業使用認定及核發證明辦法第7條「……係指農業用地實際種植各類農作物、林木、飼養禽蓄、水產養殖、種植牧草或植生等而未閒置不用者。……」所稱「植生」係指人為種植草類、灌木及喬木等植物，並有經營管理之事實，以防止土壤之流失及沖蝕，而有涵養水源等水土保持之功能者而言。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0910137624號|釋農業用地作假山庭園造景及水池等使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "7",
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "7",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "2db426532d80ef7d8496e122bef6ac5b1b3c236cf9aad3e0962dce8b0757c696",
+ "topics": [
+  "farm_use_cert",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "025 釋農業用地作假山、庭園造景及水池等使用案\n查農業用地作農業使用認定及核發證明辦法第7條「......係指農業用地實際種植各類農作物、林木、飼養禽蓄、水產養殖、種植牧草"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "itp-a1258e8920",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0930157213號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢「養」地目土地分割，是否受0.25公頃限制及可否作為集村興建農舍用地疑義案，復請查照。",
+ "content": "一、復台端93年11月26日申請書。\n二、地目等則內政部已著手廢除中，對於農地之利用與管制，主要依循分區別與用地別之規定。台端所詢該土地雖為「養」地目，但因其土地係屬特定農業區之農牧用地，係屬「農業發展條例」第3條第11款明定耕地範圍之農業用地，故因需求擬辦理分割者，仍須符合同條例第16條耕地分割相關規定。\n三、在符合農業發展條例第18條及農業用地興建農舍辦法等相關規定下，農業用地土地所有權人始得申請興建農舍。另該辦法並無排除集村興建農舍坐落農業用地之區位，惟集村農舍坐落基地之選定需符合農業經營所需，且須依據相關規定配置環保設施，以避免影響毗鄰農作經營環境。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0930157213號|台端函詢養地目土地分割是否受025公頃限制及可否作為集村興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "34009dbd1a95b5c1d8626ccc4e81c19a11f555372a29d9c74f15d9776a070b0c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "土地雖為「養」地目,但因其土地係屬特定農業區之農牧用地,係屬「農業發展條例」第3條第11款明定耕地範圍之農業用地,故因需求擬辦理分割者,仍須符合同條例第16條耕地"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "分割者,仍須符合同條例第16條耕地分割相關規定。\n三、在符合農業發展條例第18條及農業用地興建農舍辦法等相關規定下,農業用地土地所有權人始得申請興建農舍。另該辦"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第16條耕地分割相關規定。\n三、在符合農業發展條例第18條及農業用地興建農舍辦法等相關規定下,農業用地土地所有權人始得申請興建農舍。另該辦法並無排除集村興建農舍"
+  }
+ ]
+}

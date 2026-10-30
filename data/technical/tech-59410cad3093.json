@@ -1,0 +1,46 @@
+{
+ "id": "tech-59410cad3093",
+ "source_key": "datamoa:740:2fc89de4a4f65cef",
+ "title": "休耕及果園草生栽培用新品種---綠肥大豆台南7號",
+ "series": "技術專刊",
+ "issue": "技術專刊92-1(NO.121)",
+ "agency_id": "tndais",
+ "authors": "吳昭慧、連大進",
+ "date": "2003-02",
+ "url": "http://book.tndais.gov.tw/Brochure/tech121.pdf",
+ "isbn": null,
+ "gpn": "1009105628",
+ "pages": "4頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊92-1(NO.121)",
+  "題目": "休耕及果園草生栽培用新品種---綠肥大豆台南7號",
+  "作者": "吳昭慧、連大進",
+  "出版日期年月": "09202",
+  "頁數": "4頁",
+  "定價": "20",
+  "政府出版品編號GPN": "1009105628",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech121.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech121.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "1a368653da05020e065ab92c9565390b81b0b2d43631a5c5932e9d55c083f5b9",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "grain",
+  "rotation"
+ ]
+}

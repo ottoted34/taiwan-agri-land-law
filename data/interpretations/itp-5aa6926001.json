@@ -1,0 +1,94 @@
+{
+ "id": "itp-5aa6926001",
+ "doc_class": "interpretation",
+ "docno": "內營字第9083323號",
+ "date": "2001-04-23",
+ "date_text": "90/4/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "005農業設施面積在45平方公尺以下，且屬1層樓之建築者，免申請建築執照之實務認定",
+ "content": "為協助農民於農業用地上興建農業、林業、畜牧及養殖等設施，以適應實際需求，經農業主管機關認定屬農業用地上與農業經營不可分離之農業（含林業、畜牧及養殖等）必要設施，且其面積在45平方公尺以下，僅供作堆放肥料、飼料、農機具等使用者，得認為非屬建築法第4條所稱之建築物，免申請建築執照。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4998",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:26+08:00",
+   "source_key": "rmis:4998"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內營字第9083323號|農業設施面積在45平方公尺以下且屬1層樓之建築者免申請建築執"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2003-12-15",
+    "history": "中華民國九十二年十二月十五日行政院農業委員會農授中字第 0921070714 號令訂定發布全文 28 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c7f7566a9720be28015a2ff11dfbd0fb158b29149ff9f77261ca5072f2b25ef8",
+ "topics": [
+  "machinery_room",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "方公尺以下,僅供作堆放肥料、飼料、農機具等使用者,得認為非屬建築法第4條所稱之建築物,免申請建築執照。"
+  }
+ ]
+}

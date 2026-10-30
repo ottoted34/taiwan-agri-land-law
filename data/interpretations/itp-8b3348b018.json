@@ -1,0 +1,66 @@
+{
+ "id": "itp-8b3348b018",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050990613號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關民眾○○○農舍興建事宜案，復請查照。",
+ "content": "一、復貴國會辦公室傳真105年7月19日民眾陳情書函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作。依農業發展條例第18條規定，無自用農舍而需興建者，得申請興建農舍，爰申請人應確實為從事農業經營所需而申請興建農舍，並符合農業用地興建農舍辦法相關規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1050990613號|有關民眾○○○農舍興建事宜案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8802961354cf4a967d4640a37d82fda306a71060ea172d0242f97ec4e180acca",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農地上興建具有放置農機具兼具居住之需求,以便利其農事工作。依農業發展條例第18條規定,無自用農舍而需興建者,得申請興建農舍,爰申請人應確實為從事農業經營所需而申"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍,爰申請人應確實為從事農業經營所需而申請興建農舍,並符合農業用地興建農舍辦法相關規定。"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-06e28e0225",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100212405號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農舍辦理第15條「原核定機關」及執行疑義案",
+ "content": "主旨：有關屏東縣政府函為農業用地興建農舍辦法第15條「原核定機關」及執行疑義案，敬請卓處逕復，請查照。\n說明：\n一、依據屏東縣政府110年3月30日屏府農企字第11012017600號函(如附)辦理。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第15條，經檢查農業用地與農舍未依規定使用者，由「原核定機關」通知主管建築機關及區域計畫、都市計畫或國家公園主管機關依相關規定處理，並通知其限期改正，屆期不改正者，得廢止其許可。合先敘明。\n三、直轄市、縣(市)政府依本辦法第15條執行興建農舍之農業用地稽查及取締，查部分未依規定使用之農舍，係逕向89年1月28日前主管建築機關申請建築執照，爰是類案件之「原核定機關」似應為核發建築執照之主管建築機關。\n四、前揭89年1月28日前取得建築執照，經直轄市、縣(市)政府依本辦法第15條執行稽查為未依規定使用之農舍，後續「原核定機關」通知有關機關、通知農舍所有權人限期改正及廢止其許可之程序，因涉及貴管權責，爰請貴署釋示，並副知本會。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2021,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100212405號|農舍辦理第15條原核定機關及執行疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3dd1e223a580c0910458bef6b5fb0ea81c108d1855311688b6bfcaec8db42daf",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "第15條「原核定機關」及執行疑義案\n主旨:有關屏東縣政府函為農業用地興建農舍辦法第15條「原核定機關」及執行疑義案,敬請卓處逕復,請查照。\n說明:\n一、依據屏東縣政府1"
+  }
+ ]
+}

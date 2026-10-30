@@ -1,0 +1,58 @@
+{
+ "id": "itp-7eaf0f4b36",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0960100585號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端陳情為解除座落「鄉村區乙種建築用地」作為興建農舍配合耕地之註記列管案，復請查照。",
+ "content": "一、復 台端95年12月29日陳情書。 二、「農業用地興建農舍辦法」第9條規定，於農舍興建完成，直轄市、縣（市）主管建築機關核發使用執照後，應造冊送地政機關於土地登記簿上註記列管，係屬內政部職掌，且營建署90年1月20日九十營署建管字第001840號函暨95年2月8日營署中城字第0953500623號函釋（如附件）略以：「因變更為其他使用分區或多餘之配合耕地，得依相關規定解除套繪」，如對縣（市）政府執行是項業務尚有疑義，請逕洽內政部營建署。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0960100585號|台端陳情為解除座落鄉村區乙種建築用地作為興建農舍配合耕地之註"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "611e53489b24763560a5b69acf519f5c20957f537776ad82cbfa85e60f24746c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復 台端95年12月29日陳情書。 二、「農業用地興建農舍辦法」第9條規定,於農舍興建完成,直轄市、縣(市)主管建築機關核發使用執照後,應造冊送地政機"
+  }
+ ]
+}

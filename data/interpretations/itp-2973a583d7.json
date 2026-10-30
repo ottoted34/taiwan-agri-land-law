@@ -1,0 +1,52 @@
+{
+ "id": "itp-2973a583d7",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0961800757號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府辦理本局補助集村興建農舍經費新台幣1,235萬元，函請同意採代收代付方式辦理案，復請查照。",
+ "content": "一、復 貴府96年1月8日府農輔字第0960003599號，暨96年1月5日府農輔字第0950179583號函。 二、本項補助經費依行政院農業委員會93年3月10日農會字第0930112020號函轉行政院93年3月3日院授主忠字第0930001351號函之規定，本局同意 貴府以代收代付方式執行，並依中央對直轄市及縣（市）政府補助辦法第17條之1規定，編製「中央補助款代收代付明細表」，以附表方式列入當年度決算。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0961800757號|貴府辦理本局補助集村興建農舍經費新台幣1235萬元函請同意採"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d1c778ac3216c6915484a73fde532e2ae31e9055bceebf7d15516f9353459c46",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

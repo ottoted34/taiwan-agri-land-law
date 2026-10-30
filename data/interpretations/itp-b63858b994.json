@@ -1,0 +1,71 @@
+{
+ "id": "itp-b63858b994",
+ "doc_class": "interpretation",
+ "docno": "水保農字1051808260號",
+ "date": "2016-08-26",
+ "date_text": "105/8/26",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關共有農業用地之所有權人申請興建農舍，涉及該共有農業用地分管疑義，復如說明，請查照。",
+ "content": "一、復貴局105年7月11日北市產業農字第10532109111號函。\n二、依據行政院農業委員會103年2月14日農水保字第1031865030號令(如附件)核釋有關農業用地興建農舍辦法(以下簡稱本辦法)第2條及第3條之農業用地為共有時申請興建農舍之處理原則:「興建農舍之申請人應符合本辦法興建農舍資格條件；應取得全部共有人同意，並訂有分管契約；可興建面積以申請人應有部份之面積計算...」，合先敘明。\n三、依農業發展條例第18條第4項及本辦法第12條規定，對於已興建農舍之農業用地係整筆套繪管制，爰該筆土地其他共有人雖非農舍申請人，惟已將農舍興建權利讓與其中共有人之一，整筆農地自應受興建農舍之相關管制規定，故無僅就應有部份予以考量，則本辦法第15條規定，自有適用餘地。\n四、另農地興建農舍後，其農地農舍移轉依農業發展條例規定，縱然其他共有人得移轉其持分或依該條例第16條規定得辦理分割，惟仍須受該條例第18條第4項及本辦法第12條之規定，農舍應與其坐落用地併同移轉、已申請興建農舍之農業用地不得重複申請，不得解除套繪管制等限制。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4142",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:26:55+08:00",
+   "source_key": "rmis:4142"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字1051808260號|有關共有農業用地之所有權人申請興建農舍涉及該共有農業用地分管"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "660a423a80de7066b333f3c1ca33e3732c31c2a547a3b78a51f7feae70e34357",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "docno_unparsed",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月14日農水保字第1031865030號令(如附件)核釋有關農業用地興建農舍辦法(以下簡稱本辦法)第2條及第3條之農業用地為共有時申請興建農舍之處理原則:「興建"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "建面積以申請人應有部份之面積計算...」,合先敘明。\n三、依農業發展條例第18條第4項及本辦法第12條規定,對於已興建農舍之農業用地係整筆套繪管制,爰該筆土地其"
+  }
+ ]
+}

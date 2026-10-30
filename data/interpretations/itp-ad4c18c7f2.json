@@ -1,0 +1,64 @@
+{
+ "id": "itp-ad4c18c7f2",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0950022742號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正前取得之農地，經申領自用農舍建造執照後尚未領得使用執照，得否辦理變更起造人乙案，復請查照。",
+ "content": "一、復貴府95年5月1日府工建字第0950116542號函。\n二、依農業發展條例第18條規定，於本條例修正施行後取得農業用地且無自用農舍之農民，其申請興建自用農舍應依同條第5項授權訂定之「農業用地興建農舍辦法」相關規定辦理。農業發展條例修正前取得之農地，經申領自用農舍建造執照後尚未領得使用執照，其因買賣或贈與情形致承受人係於農業發展條例修正施行後始取得農地，該承受人自應符合前揭辦法規定始得申請建築自用農舍。有關申領自用農舍建造執照後得否辦理變更起造人乙節，仍請依行政院農業委員會89年9月27日（89）農輔字第890147285號函示規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第0950022742號|農業發展條例修正前取得之農地經申領自用農舍建造執照後尚未領得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "64005652ac5d02533dcbb5615f0574fe5f736052764cf7bcd6158ee6a64dc6bd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "府95年5月1日府工建字第0950116542號函。\n二、依農業發展條例第18條規定,於本條例修正施行後取得農業用地且無自用農舍之農民,其申請興建自用農舍應依同"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "無自用農舍之農民,其申請興建自用農舍應依同條第5項授權訂定之「農業用地興建農舍辦法」相關規定辦理。農業發展條例修正前取得之農地,經申領自用農舍建造執照後尚未領得使用"
+  }
+ ]
+}

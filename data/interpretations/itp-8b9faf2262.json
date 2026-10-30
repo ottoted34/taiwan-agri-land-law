@@ -1,0 +1,64 @@
+{
+ "id": "itp-8b9faf2262",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931804907號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函為20人共同持有持分之土地可否以持分方式作為集村興建農舍之比例地案，復請查照。",
+ "content": "一、復台端93年3月4日函。。\n二、台端所詢「比例地」有關疑義乙節，查「農業發展條例」暨「農業用地興建農舍辦法」相關法令規定並無該用辭，依來函所述，似為提供集村興建農舍之農業用地（配合耕地）之意，合先敘明。\n三、依據「農業用地興建農舍辦法」第3條規定，參加集村興建農舍者，其申請興建農舍之該宗農業用地面積得小於0.25公頃，但為2人以上共有之農業用地，應由其他共有人出具同意書供一人申請興建一戶農舍，亦即共有農業用地其共有人之一申請集村興建自用農舍，仍應取得其他共有人之同意，其他共有人不得再就其應有部分申請建築。因此，20人共同持有持分之土地，僅供一人作為提供集村興建農舍之農業用地，其他共有人不得就其應有部分作為配合耕地申請建築。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931804907號|有關台端函為20人共同持有持分之土地可否以持分方式作為集村興"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5a7499d2ba31a00f4dd7191a972edbffec3a7789b87021c346b6c43fb134dfb1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "93年3月4日函。。\n二、台端所詢「比例地」有關疑義乙節,查「農業發展條例」暨「農業用地興建農舍辦法」相關法令規定並無該用辭,依來函所述,似為提供集村興建農"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "集村興建農舍之農業用地(配合耕地)之意,合先敘明。\n三、依據「農業用地興建農舍辦法」第3條規定,參加集村興建農舍者,其申請興建農舍之該宗農業用地面積得小於0.25公頃,但"
+  }
+ ]
+}

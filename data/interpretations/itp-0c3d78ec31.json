@@ -1,0 +1,64 @@
+{
+ "id": "itp-0c3d78ec31",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961804750號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "集村興建農舍起造人持有之配合耕地，若有個別債務因債務契約遭債權人設定抵押權，該起造人應否取得抵押權人同意證明文件，始得提供參加集村興建農舍案，復請查照。",
+ "content": "1.復 貴府96年3月9日府農管字第0960076811號函。\n2.查92年8月7日研商「農業用地興建農舍辦法」有關集村興建農舍執行疑義之研商結論五：「農業發展條例第18條第4項已明定農舍應與其座落基地併同移轉或併同設定抵押權，申請人應取得抵押權人之同意證明文件」;此所稱「座落基地」係指農舍建築座落基地與其配合耕地。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961804750號|集村興建農舍起造人持有之配合耕地若有個別債務因債務契約遭債權"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "34e639562fc0c78562c0a702607057f4c2092b020e118a1d6435018501337eb3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農管字第0960076811號函。\n2.查92年8月7日研商「農業用地興建農舍辦法」有關集村興建農舍執行疑義之研商結論五:「農業發展條例第18條第4項已明定農舍應與"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農業用地興建農舍辦法」有關集村興建農舍執行疑義之研商結論五:「農業發展條例第18條第4項已明定農舍應與其座落基地併同移轉或併同設定抵押權,申請人應取得抵押權人之同"
+  }
+ ]
+}

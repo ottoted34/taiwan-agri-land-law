@@ -1,0 +1,99 @@
+{
+ "id": "itp-aed49311a5",
+ "doc_class": "interpretation",
+ "docno": "農企字第0890112373號",
+ "date": "2000-04-19",
+ "date_text": "89/4/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業發展條例第十一條第一項所稱農地定義及用地類別案",
+ "content": "查農業發展條例第三條第一項第十一款所稱「耕地」，係指合於下列規定之土地：（一）依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區、森林區之農牧用地，或依都市計畫法劃定為農業區、保護區之田、旱地目土地，或非都市土地暫未依法編定之田、旱地目土地。（二）國家公園區內，依國家公園法劃定之分區別及使用性質，經該法主管機關會同有關機關認定屬於前目規定之土地。有關都市計畫分區部分，可逕向都市計畫單位函查，至都市計畫外，非都市土地之用地別，於土地登記簿上即有記載，可逕向地政事務所函查。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4839",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:24+08:00",
+   "source_key": "rmis:4839"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0890112373號|釋農業發展條例第十一條第一項所稱農地定義及用地類別案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "11",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "3",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b0412c4bcf219a7b12f39026c84960bea2ef69c14a65fdacb6ae331b6bfeb4ce",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "釋農業發展條例第十一條第一項所稱農地定義及用地類別案\n查農業發展條例第三條第一項第十一款所稱「耕地」,"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "釋農業發展條例第十一條第一項所稱農地定義及用地類別案\n查農業發展條例第三條第一項第十一款所稱「耕地」,係指合於下列規定之土地:(一)依區域計畫法劃定為特定"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第一項第十一款所稱「耕地」,係指合於下列規定之土地:(一)依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區、森林區之農牧用地,或依都市計畫法劃定"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "特定農業區、一般農業區、山坡地保育區、森林區之農牧用地,或依都市計畫法劃定為農業區、保護區之田、旱地目土地,或非都市土地暫未依法編定之田、旱地目土地。"
+  }
+ ]
+}

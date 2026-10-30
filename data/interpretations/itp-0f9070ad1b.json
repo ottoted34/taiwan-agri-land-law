@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5591",
    "serial": null,
-   "fetched_at": "2026-10-30T09:56:23+08:00",
+   "fetched_at": "2026-10-30T11:23:36+08:00",
    "source_key": "rmis:5591"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080224449號|釋水泥田埂得否位於隔離綠帶或設施範圍內"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -51,5 +57,7 @@
    "kind": "extracted",
    "snippet": "地之隔離綠帶區位已存有因地形高低落差而設置之水泥田埂,是否屬「農業主管機關同意農業用地變更使用審查作業要點」第11點規定之隔離設施項目疑義案,復如說明,請查照。\n說明:\n一、復貴府108年"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

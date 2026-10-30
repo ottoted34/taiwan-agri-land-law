@@ -1,0 +1,52 @@
+{
+ "id": "itp-80f2cf107b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951850906號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○申請集村興建農舍之專案分割地號為○○○案，請查照。",
+ "content": "一、依據○○○95年1月27日申請書暨本會95年2月16日農授水保字第0951802945號函（諒達）辦理。 二、本會前函說明二誤植為○○○地號，敬請更正為○○○地號。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951850906號|有關○○○申請集村興建農舍之專案分割地號為○○○案請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "45c5ac7d15b45bf28703b4d0fd206d1e91de12eb4114de1d29ff732f21660be9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

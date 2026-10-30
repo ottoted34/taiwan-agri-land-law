@@ -1,0 +1,72 @@
+{
+ "id": "itp-870dfd8377",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0930106899號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關數人共有一間農舍，爾後因共有人間之贈與而移轉登記，除申請不課徵土地增值稅外，該農舍因而減少共有人，能否逕依法辦理耕地所有權移轉登記，免再依農業用地作農業使用認定及核發證明辦法申請證明書或耕地符合土地使用管制規定證明書案，復如說明，請查照。",
+ "content": "一、復台端93年2月2日申請書。\n二、土地稅法第28條明定「已規定地價之『土地』，於土地所有權移轉時，應按其土地漲價總數額徵收土地增值稅。但因繼承而移轉之土地，各級政府出售或依法贈與之公有土地，及受贈之私有土地，免徵土地增值稅。」準此，本案所稱「數人共有一間『農舍』，爾後因共有人間之贈與而移轉登記…。」因農舍並非「土地」，故尚無涉及土地增值稅之徵免，亦無須申請農業用地作農業使用證明書。\n三、又如係農舍及其坐落之基地一併移轉，則依農業發展條例第37條及第38條之規定，需「作農業使用之農業用地」始得申請不課徵土地增值稅、免徵遺產稅或贈與稅，故仍需依規定申請農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0930106899號|有關數人共有一間農舍爾後因共有人間之贈與而移轉登記除申請不課"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "00e94166a9669e6dc08cb39f156162cdff77a7b6117bc5510ff2adddb1858ae1",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍因而減少共有人,能否逕依法辦理耕地所有權移轉登記,免再依農業用地作農業使用認定及核發證明辦法申請證明書或耕地符合土地使用管制規定證明書案,復如說明,請查照。\n一、復台端93"
+  },
+  {
+   "law_id": "G0340096",
+   "article": "28",
+   "kind": "extracted",
+   "snippet": ",復如說明,請查照。\n一、復台端93年2月2日申請書。\n二、土地稅法第28條明定「已規定地價之『土地』,於土地所有權移轉時,應按其土地漲價總數額徵收土地增值"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "農業使用證明書。\n三、又如係農舍及其坐落之基地一併移轉,則依農業發展條例第37條及第38條之規定,需「作農業使用之農業用地」始得申請不課徵土地增值稅、免徵遺產稅"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "itp-f1999ffa41",
+ "doc_class": "interpretation",
+ "docno": "營署都字第0910052645號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於○○有限公司擬於貴市都市計畫農業區部分土地申請加油站設施使用乙案",
+ "content": "一、查都市計畫法臺灣省施行細則第29條第1項第3款規定，都市計畫農業區內之農地，其已申請建築者（包括百分之十農舍面積及百分之九十之農地），主管建築機關應於都市計畫及地籍套繪圖上著色標示之，嗣後不論該百分之九十農地是否分割，均不得再行申請建築。旨揭土地既經申請自用農舍使用執照在案，如擬再申請設置加油站，宜由申請人依上開規定，申請將該土地重新分割，並就分割所剩餘土地整界後，依上開施行細則第29條第3項規定申請設置加油站。\n二、另有關該加油站設置是否應自建築線退縮乙節，查都市計畫法臺灣省施行細則及建築技術規則建築設計施工編等相關規定尚無明文，惟依上開施行細則第29條之規定，加油站之設置應經縣（市）政府審查核准後，始得為之，請貴府本於權責核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署都字第0910052645號|關於○○有限公司擬於貴市都市計畫農業區部分土地申請加油站設施"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "2ca9acd8c4a32b37c85ae847d5a8521916e314d8253bf85e76b1d58c192cc2ef",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "擬於貴市都市計畫農業區部分土地申請加油站設施使用乙案\n一、查都市計畫法臺灣省施行細則第29條第1項第3款規定,都市計畫農業區內之農地,其已申請建築者("
+  }
+ ]
+}

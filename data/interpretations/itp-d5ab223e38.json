@@ -1,0 +1,57 @@
+{
+ "id": "itp-d5ab223e38",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940167698號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關橋頭鄉公所對於農業用地容許作農業設施使用案件審查簽辦單第14項及第15項之執行疑義案。",
+ "content": "主旨：有關貴府函轉橋頭鄉公所對於農業用地容許作農業設施使用案件審查簽辦單第14項及第15項之執行疑義案，復請查照。\n說明：\n一、復貴府94年12月7日府農務字第0940253718號函。\n二、依農業用地容許作農業設施使用審查辦法第8條第5款及第9款規定，申請農業設施有妨礙道路通行者及違反法令規定者，應不予同意。查上開條文之立法意旨，係為避免申請農業設施之基地上，因土地登記謄本及地籍圖謄本上未標繪既成道路，興建農業設施後妨礙現有道路之通行或土地業經主管機關公告不得建築等違反相關法令規定之情形，爰於審查簽辦單內訂定第14項及第15項之審查(查證)項目。本案橋頭鄉公所所提之審查簽辦單之執行疑義，涉及貴府相關禁、限建等建築規定，建議宜由貴府建管等單位提供審認之依據及原則，憑以供鄉鎮公所承辦人員辦理",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940167698號|有關橋頭鄉公所對於農業用地容許作農業設施使用案件審查簽辦單第"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "818e29a7d7917387b32cb3599eb874a585c19e9224a4f6ad3ef44eece6583a4c",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "94年12月7日府農務字第0940253718號函。\n二、依農業用地容許作農業設施使用審查辦法第8條第5款及第9款規定,申請農業設施有妨礙道路通行者及違反法令規定者,應不予同意。查"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4736",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:43+08:00",
+   "fetched_at": "2026-10-30T11:20:56+08:00",
    "source_key": "rmis:4736"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090217024號|既有農舍申請拆除重建是否須依農業用地興建農舍辦法申請農舍申請"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "既有農舍申請拆除重建是否須依農業用地興建農舍辦法申請農舍申請人資格審查\n一、復貴局 109年4月29日北市產業農字第 10960"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "第 1080097935號通函(諒達)說明三略以:「...按建築法第 9條規定,原有建築物全部拆除而重行建築者,係屬新建築行為,應依建築法第 25條、第 "
+  },
+  {
+   "law_id": "D0070109",
+   "article": "25",
+   "kind": "extracted",
+   "snippet": "條規定,原有建築物全部拆除而重行建築者,係屬新建築行為,應依建築法第 25條、第 30條、第 31條及第 32條重新申請建築執照。...」,故針對農業用地所"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,62 @@
+{
+ "id": "itp-5b03314123",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090205516號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端函為放寬合法農舍使用，避免非法農舍關說案，復如說明，請查照。",
+ "content": "一、依據行政院109年2月12日院臺農移字第1090082556號函轉臺端109年2月3日陳情書辦理。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，先予敘明。\n\n三、依農業用地准許興建農舍之立法意旨，農舍與單純供居住使用之一般住宅有別，按農業用地興建農舍辦法第15條第2項規定略以：「經檢查農業用地與農舍未依規定使用者，．．．依相關規定處理，並通知其限期改正，屆期不改正者，得廢止其許可。」，倘農舍未依規定或農業用地未積極作農業使用等情形，均屬違規使用，則應依相關規定處理。\n\n四、基於農舍之個案管理係屬縣(市)政府之權責，倘有任何疑義，宜請洽所在地縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090205516號|有關臺端函為放寬合法農舍使用避免非法農舍關說案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3bf05e6aa58cca82f487556f35702d1ea94464b7c272b5d54a3ec4cc228cf5e6",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "許興建農舍之立法意旨,農舍與單純供居住使用之一般住宅有別,按農業用地興建農舍辦法第15條第2項規定略以:「經檢查農業用地與農舍未依規定使用者,...依相關規定處理,並通"
+  }
+ ]
+}

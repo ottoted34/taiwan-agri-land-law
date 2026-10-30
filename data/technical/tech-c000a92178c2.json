@@ -1,0 +1,46 @@
+{
+ "id": "tech-c000a92178c2",
+ "source_key": "datamoa:740:708acd18f7613d56",
+ "title": "設施栽培合理化施肥技術",
+ "series": "技術專刊",
+ "issue": "技術專刊98-3(NO.138)",
+ "agency_id": "tndais",
+ "authors": "黃瑞彰、林晉卿、孫文章",
+ "date": "2009-07",
+ "url": "http://book.tndais.gov.tw/Brochure/tech138.pdf",
+ "isbn": "978-986-01-9414-2",
+ "gpn": "1009801649",
+ "pages": "20頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊98-3(NO.138)",
+  "題目": "設施栽培合理化施肥技術",
+  "作者": "黃瑞彰、林晉卿、孫文章",
+  "出版日期年月": "09807",
+  "頁數": "20頁",
+  "定價": "45",
+  "政府出版品編號GPN": "1009801649",
+  "ISBN": "978-986-01-9414-2",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech138.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "c74082e50796c86c5ec69bf9620d901f10de40fd79052945b36ecc9eca65e76b",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "greenhouse_t",
+  "soil"
+ ]
+}

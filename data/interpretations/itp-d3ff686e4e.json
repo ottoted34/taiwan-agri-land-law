@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6029",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:22+08:00",
+   "fetched_at": "2026-10-30T11:16:34+08:00",
    "source_key": "rmis:6029"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1130224375號|有關貴府函詢特定工廠使用外擴15公尺規劃為隔離綠帶得否設置變"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -48,5 +54,7 @@
    "kind": "extracted",
    "snippet": "5公尺規劃為隔離綠帶得否設置變電箱設施案,復請查照。\n一、依農業主管機關同意農業用地變更使用審查作業要點(以下簡稱農變要點)第9點規定略以,變更農業用地作與農業生產性質不相容之目的事業"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

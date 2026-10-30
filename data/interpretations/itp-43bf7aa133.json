@@ -1,0 +1,65 @@
+{
+ "id": "itp-43bf7aa133",
+ "doc_class": "interpretation",
+ "docno": "農企字第1060230256號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢申請農業用地作農業設施容許使用審查辦法執行疑義案，復如說明，請查照。",
+ "content": "一、復貴府106年8月3日府農保字第1060144906號函。\n二、查申請農業用地作農業設施容許使用審查辦法第6條第1項第4款後段規定：申請農業用地作農業設施容許使用，有「申請人經營之其他農業用地或農業設施有閒置未利用或未符合規定使用之情形」，不予同意。依據本會106年8月16日農企字第1060229134號函釋示略以，按其立法意旨係為避免申請人已有其他農業用地或農業設施有閒置未利用或未符合規定之使用，仍提出申請，造成違規使用難以改善或農地設施化，無法確保完整之營農環境。實務執行係依申請人按容許辦法第4條規定所提具之文件予以審查，無須另檢附財產清冊等文件，並就行政機關已掌握之事實及證據，予以審認。\n三、至農舍興建資格審查是否比照上開規定辦理一節，查農舍與農業設施使用農地之性質不同，所據法令、申請要件及管制規定均不同，故農舍興建資格審查仍請依農業用地興建農舍辦法及相關規定辦理，倘貴府有個案審查疑義，可洽本會水土保持局協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1060230256號|有關貴府函詢申請農業用地作農業設施容許使用審查辦法執行疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f05d4701273b7d39f822f0de06cff5dae0892d6da60103e79debd86cb3c72c37",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "106年8月3日府農保字第1060144906號函。\n二、查申請農業用地作農業設施容許使用審查辦法第6條第1項第4款後段規定:申請農業用地作農業設施容許使用,有「申請人經營之其他農業用"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "所據法令、申請要件及管制規定均不同,故農舍興建資格審查仍請依農業用地興建農舍辦法及相關規定辦理,倘貴府有個案審查疑義,可洽本會水土保持局協處。"
+  }
+ ]
+}

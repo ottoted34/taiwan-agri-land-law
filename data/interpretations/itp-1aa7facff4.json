@@ -1,0 +1,58 @@
+{
+ "id": "itp-1aa7facff4",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041811664號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴縣農民○○○、○○○等2人申請坐落於貴縣內埔鄉○○○地號集村農舍，變更農業經營用地已經建管單位套繪管制疑義案，復請查照。",
+ "content": "一、復貴府104年6月1日屏府農企字第10414960400號函。\n二、按農業用地興建農舍屬多階段行政處分，旨案是否屬申請中或已取得使用執照而程序終結之案件，請貴府先予釐清。\n三、倘屬已取得使用執照者，其申請變更農業經營用地，尚不涉及農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第2款規定。又本次變更農業經營用地，變更後之農業經營用地應符合確供農業使用原則且應與變更前之農業經營用地屬同一使用分區、使用地類別：同時應檢討所有起造人持有之農業用地面積與全部農舍用地面積之比率是否符合本辦法第9條第1項第3款及第11條第1項第5款規定。本案請貴府本於權責依前開原則辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041811664號|有關貴縣農民○○○○○○等2人申請坐落於貴縣內埔鄉○○○地號"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "adf92ae1efab37763423f2ea1bc7989dfb56aa36b7b4fdfea2c54ca52fa54a9c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "\n三、倘屬已取得使用執照者,其申請變更農業經營用地,尚不涉及農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第2款規定。又本次變更農業經營用地,變更後之農業經"
+  }
+ ]
+}

@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5302",
    "serial": null,
-   "fetched_at": "2026-10-30T10:06:53+08:00",
+   "fetched_at": "2026-10-30T11:34:06+08:00",
    "source_key": "rmis:5302"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1030227827號|辦理水利工程其涉及農業用地變更作水利用地使用是否仍需依農業主"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -53,16 +59,30 @@
    "snippet": "辦理水利工程,其涉及農業用地變更作水利用地使用是否仍需依「農業主管機關同意農業用地變更使用審查作業要點」規定徵得農業主管機關同意疑義案」。\n主旨:有關貴署為辦理水利工程,其涉及農業用地"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "03年8月8日經水地字第10317058390號函。\n二、查農業發展條例第3條第10款第2目規定略以:「農業用地:指非都市土地或都市土地農業區、保護區範圍內,"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "...」上開作為「灌溉、排水」與農業經營不可分離之土地,係依區域計畫法劃定為各種使用分區內編定之水利用地。因此,水利用地原則作前開與農業經營不可分離之"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "更為非農業使用,應徵得農業主管機關同意外,同點第4款亦明定依非都市土地使用管制規則規定,作非農業使用性質之容許使用或臨時使用者,亦須徵得農業主管機關之同意始得辦理"
+  },
+  {
+   "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
    "snippet": "使用或臨時使用者,因均屬將農業用地變更作非農業使用性質,應依農業發展條例第10條規定徵得農業主管機關之同意始得辦理之。\n四、綜上,水利用地上倘作非屬上開所述「作"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

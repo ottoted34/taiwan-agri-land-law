@@ -1,0 +1,81 @@
+{
+ "id": "itp-f0b5a02006",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941849542號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「農民」申請興建農舍，其身份認定疑義案，復請查照。",
+ "content": "一、復 貴府94年10月13日基府海農貳字第0940116328號函。\n二、現行「農業發展條例」旨在貫徹「放寬農地農有、落實農地農用」之政策目標，有關農民申請以集村方式或在自有農地興建農舍之資格條件，自應依「農業發展條例」及相關法令規定辦理。又「土地法」修正時，已刪除農地承受人之身份限制，合先敘明。\n三、申請興建農舍申請人之資格條件，符合「農業用地興建農舍辦法」第3條第1項各款規定，並經縣（市）主管機關審查核定，得申請以集村方式或在自有農地興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941849542號|有關農民申請興建農舍其身份認定疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-356343a9ba",
+    "by_docno": "農水保字第0971844436號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "3.農業發展條例第18條第1項規定:「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自用農舍而需興建者,經直轄市或縣(市)主管機關核定,於不影響農業生產環境及農村發展,得申請以集村方式或在自有農業用地興建農舍」及農業用地興建農舍辦法第3條第1項規定,夫或妻各自為農業用地所有權人及無自用農舍,其資格條件符合前揭辦法規定,並經縣(市)主管機關審查核定,得分別申請以集村方式或在自有農地興建"
+   },
+   {
+    "type": "amend_signal",
+    "by_id": "itp-b9d3a4b4c5",
+    "by_docno": "農授水保字第0971844436號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "三、農業發展條例第18條第1項規定:「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自用農舍而需興建者,經直轄市或縣(市)主管機關核定,於不影響農業生產環境及農村發展,得申請以集村方式或在自有農業用地興建農舍」及農業用地興建農舍辦法第3條第1項規定,夫或妻各自為農業用地所有權人及無自用農舍,其資格條件符合前揭辦法規定,並經縣(市)主管機關審查核定,得分別申請以集村方式或在自有農地興建"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "bba6e808697dace2ac337df5df20a7e581264e1030c9a4f10d38738625b605f2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0月13日基府海農貳字第0940116328號函。\n二、現行「農業發展條例」旨在貫徹「放寬農地農有、落實農地農用」之政策目標,有關農民申請以集村方式或在自有"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "身份限制,合先敘明。\n三、申請興建農舍申請人之資格條件,符合「農業用地興建農舍辦法」第3條第1項各款規定,並經縣(市)主管機關審查核定,得申請以集村方式或在自有農地興建農"
+  }
+ ]
+}

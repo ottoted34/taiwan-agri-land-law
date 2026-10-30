@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5075",
    "serial": null,
-   "fetched_at": "2026-10-30T10:18:32+08:00",
+   "fetched_at": "2026-10-30T11:45:45+08:00",
    "source_key": "rmis:5075"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0970165751號|釋山坡地範圍農業用地申請變更編定其審查費及回饋金繳交疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2008",
+    "law_id": "M0020018",
     "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
     "article": null,
     "amended_on": "2016-05-25",
-    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -50,22 +56,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": ",山坡地開發利用案件涉及農業用地變更回饋金案件,主管機關應依農業發展條例第12條規定,將收繳之本回饋金二分之一存入中央主管機關設置之農業發展基金;餘二分之一存入"
   },
   {
-   "law_id": "RMIS-2005",
+   "law_id": "M0020017",
    "article": null,
    "kind": "extracted",
    "snippet": ";至於 貴府農業主管機關受理農業用地變更案件受理審查,仍請依「農業主管機關受理申請許可案件及核發證明文件收費標準」之規定,收取審查費。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

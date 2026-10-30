@@ -1,0 +1,150 @@
+{
+ "id": "itp-10847281b3",
+ "doc_class": "interpretation",
+ "docno": "農企字第900114527號",
+ "date": "2001-04-11",
+ "date_text": "90/4/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "027 釋涉及所有權移轉之農業用地分割，應以分割前原地號查核作農業使用案",
+ "content": "一、查農業發展條例第31條明定「耕地之使用，應符合區域計畫法或都市計畫法土地使用分區管制之相關法令規定，始得辦理所有權移轉登記。」準此，應以耕地整筆土地均符合土地使用分區管制規定，始得辦理所有權移轉登記，方符法制。\n二、另依內政部訂頒「耕地分割執行要點」第3點之規定「耕地之分割，應依本條例第16條之規定，如其未涉及所有權移轉登記，無本條例第31條之限制。」換言之，耕地如涉及所有權之移轉登記者，即應受該條例第31條之限制。而依農業發展條例第16條第1款所稱「因購置毗鄰耕地而與其耕地合併者，得為分割合併；」即涉及耕地所有權之移轉，依法即應受該條例第31條之限制，如有部分違規使用即不得移轉登記。\n三、綜前所述，依農業發展條例第16條第1款所為之分割移轉，應以分割前整筆土地無違規使用情事，始得為之。是以，其申請農業用地作農業使用證明書之核發，仍應以分割前原地號查核是否符合作農業使用認定基準，作為核駁之依據。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5535",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:32+08:00",
+   "source_key": "rmis:5535"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900114527號|釋涉及所有權移轉之農業用地分割應以分割前原地號查核作農業使用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "31",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "31",
+    "amended_on": "2007-01-10",
+    "history": "中華民國九十六年一月十日總統華總一義字第 09600001891 號令修正公布第 31、39 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3010",
+    "law_name": "耕地分割執行要點",
+    "article": null,
+    "amended_on": "2004-03-30",
+    "history": "中華民國93年03月30日內政部台內地字 0930069318號令修正發布全文15點",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3010",
+    "law_name": "耕地分割執行要點",
+    "article": null,
+    "amended_on": "2016-05-06",
+    "history": "中華民國105年05月06日內政部台內地字第1051303449號令修正發布全文14點",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "16",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "0f88b911d9ca02eabff7e1b48ce7b18fbf7dd0d8a54b6b34f5f619eada0e26fd",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "31",
+   "kind": "extracted",
+   "snippet": "移轉之農業用地分割,應以分割前原地號查核作農業使用案\n一、查農業發展條例第31條明定「耕地之使用,應符合區域計畫法或都市計畫法土地使用分區管制之相關法令規定,始"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業使用案\n一、查農業發展條例第31條明定「耕地之使用,應符合區域計畫法或都市計畫法土地使用分區管制之相關法令規定,始得辦理所有權移轉登記。」準此,應以"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、查農業發展條例第31條明定「耕地之使用,應符合區域計畫法或都市計畫法土地使用分區管制之相關法令規定,始得辦理所有權移轉登記。」準此,應以耕地整筆土地"
+  },
+  {
+   "law_id": "RMIS-3010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "規定,始得辦理所有權移轉登記,方符法制。\n二、另依內政部訂頒「耕地分割執行要點」第3點之規定「耕地之分割,應依本條例第16條之規定,如其未涉及所有權移轉登記,無"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "地如涉及所有權之移轉登記者,即應受該條例第31條之限制。而依農業發展條例第16條第1款所稱「因購置毗鄰耕地而與其耕地合併者,得為分割合併;」即涉及耕地所有權之移"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-9b4b2ebe78",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848885號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "民眾無法提供使用執照影本，致不得核發「確無自用農舍證明書」案，復請查照。",
+ "content": "1.復 貴所96年8月6日岡鎮建字第0960020054號函。\n2.「農業用地興建農舍辦法」第3條第1項各款申請人資格條件之審查，申請人應依據本會91年9月20日農輔字第0910149848函釋，檢具(一)稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。(二)申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。(三)申請人切結無自用農舍文件等文件，以俾審查申請人是否無自用農舍之規定。且依該審查表備註欄「實施建築管理前農業用地上有合法房屋而無法提供使用執照影本者即認定房屋為農舍」，合先說明。\n3.有關無法提出使用執照影本而取得無自用農舍證明，是否得以土地登記謄本上使用地類別記載或土地使用分區證明非農舍乙節，本會96年7月17日農授水保字第0961848639號函已提供內政部相關意見，並請該部研商，必要時召開會議處理有案，請逕洽內政部。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848885號|民眾無法提供使用執照影本致不得核發確無自用農舍證明書案復請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "66fd9941ce4c8381de601d2423bc6821cf22597e2e11b2f64745834d29a2b886",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "貴所96年8月6日岡鎮建字第0960020054號函。\n2.「農業用地興建農舍辦法」第3條第1項各款申請人資格條件之審查,申請人應依據本會91年9月20日農輔字第0910"
+  }
+ ]
+}

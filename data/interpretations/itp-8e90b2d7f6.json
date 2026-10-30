@@ -1,0 +1,58 @@
+{
+ "id": "itp-8e90b2d7f6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843049號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關信託人（自然人）得否依農業發展條例第18條規定申請興建農舍案，涉及貴管信託法適用問題，請惠示卓見還辦，請查照。",
+ "content": "1.依據○○建築師事務所96年12月24日申請函辦理（如附件）。 2.查信託法第1條規定：「稱信託者，謂委託人將財產權移轉或為其他處分，使受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係。」同法第9條規定：「受託人因信託行為取得之財產權為信託財產。受託人因信託財產之管理、處分、滅失、毀損或其他事由取得之財產權，仍屬信託財產。」。本件農地所有權人將農地信託登記予農民，受託農民符合農業用地興建農舍辦第3條規定資格條件，並依信託本旨申准興建農舍，則該農舍是否屬上揭信託法第9條所稱「受託人因信託財產之管理、處分、滅失、毀損或其他事由取得之財產權，仍屬信託財產。」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843049號|有關信託人自然人得否依農業發展條例第18條規定申請興建農舍案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7728855757bae12291280faea80224450f6a04413b7ef80ddb51f4f79235f915",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關信託人(自然人)得否依農業發展條例第18條規定申請興建農舍案,涉及貴管信託法適用問題,請惠示卓見還辦,請查照。\n1.依據○"
+  }
+ ]
+}

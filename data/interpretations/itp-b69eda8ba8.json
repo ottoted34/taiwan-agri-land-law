@@ -1,0 +1,64 @@
+{
+ "id": "itp-b69eda8ba8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950127871號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關農業發展條例第18條第2項，其在自有農業用地興建農舍滿5年始得移轉之起算點疑義案，復請查照。",
+ "content": "一、復 貴府95年5月19日府農轉字第0950063258號函。\n二、有關興建農舍滿5年始得移轉之起算點，內政部90年10月12日台（90）內中地字第9083467號令：「認定興建農舍滿5年始得移轉之起算日以使用執照記載之建築完成日期為準」在案。\n三、另「農業用地興建農舍辦法」第9條，有關農舍興建完成，核發使用執照後，直轄市、縣（市）主管機關應造冊列管，建議修正為於取得建築執照後應即造冊列管，以防杜農地管理漏洞乙節，本會已建議內政部處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950127871號|貴府函詢有關農業發展條例第18條第2項其在自有農業用地興建農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0647ad3d5a84086829afddfd37888c5b515ca5df516bec02563a495b8d9508cf",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "貴府函詢有關農業發展條例第18條第2項,其在自有農業用地興建農舍滿5年始得移轉之起算點疑義案,復請查照。\n一、復"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "移轉之起算日以使用執照記載之建築完成日期為準」在案。\n三、另「農業用地興建農舍辦法」第9條,有關農舍興建完成,核發使用執照後,直轄市、縣(市)主管機關應造冊列管,建議修正"
+  }
+ ]
+}

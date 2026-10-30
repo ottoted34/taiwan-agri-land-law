@@ -1,0 +1,74 @@
+{
+ "id": "itp-d17ce7f4a2",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940124047號",
+ "date": "2005-05-11",
+ "date_text": "94年5月11日農企字第0940124047號",
+ "agency_text": "",
+ "category": "",
+ "subject": "010 釋農業用地經政府核發容許作農業設施使用同意書後，因繼承擬辦理申請人變更，是否應依「農業用地容許作農業設施使用審查辦法」之規定重新受理審查案",
+ "content": "依民法第1147條及第1148條分別明定：「繼承，因被繼承人死亡而開始。」及「繼承人自繼承開始時，除本法另有規定外，承受被繼承人財產上之一切權利義務。」另依同法第759條規定，「因繼承、．．．，於登記前已取得不動產物權者，非經登記，不得處分其物權。」因此，被繼承人死亡時，繼承即已發生，惟仍須經辦竣不動產繼承移轉登記後，始得處分。本案經查○○○之申請書表示，農業用地及其上設施已完成繼承，故自得由繼承人依原核定之農業設施經營計畫內容繼續使用，免再依旨揭辦法重新審核；如有未依計畫內容使用者，則依該辦法第23條規定處理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940124047號|釋農業用地經政府核發容許作農業設施使用同意書後因繼承擬辦理申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "77f9259cc4e5c3d33886b61a2c5da2dd79a4b4d11493b76ba7b3493a2a02acf6",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "容許作農業設施使用同意書後,因繼承擬辦理申請人變更,是否應依「農業用地容許作農業設施使用審查辦法」之規定重新受理審查案\n依民法第1147條及第1148條分別明定:「繼承,因被繼承"
+  }
+ ]
+}

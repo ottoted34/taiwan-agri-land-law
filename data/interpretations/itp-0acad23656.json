@@ -1,0 +1,73 @@
+{
+ "id": "itp-0acad23656",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940149702號",
+ "date": "2005-09-20",
+ "date_text": "94年9月20日農企字第0940149702號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "079 釋水利用地種植作物或不作灌溉、排水使用，不符合作農業使用認定案",
+ "content": "一、查農業發展條例第3條第10款明定「農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地：....供與農業經營不可分離之農舍、....『灌溉、排水』及其他農用之土地....」前開「灌溉、排水」係屬與農業經營不可分離之設施，其於非都市土地均編定為水利用地，故依區域計畫法劃定為各種使用分區內編定之水利用地，必須作農田水利之灌溉或排水設施使用，始符合農業使用認定基準，合先敘明。\n二、另水利用地既係為供農田灌溉、排水使用，不宜有影響水流暢通之耕種行為；且水利用地種植作物恐有違反水利法規及非都市土地使用管制規定之虞，故本案宜請依前開規定辦理。\n三、倘該水利用地業已不具農業灌溉、排水之功能，且無繼續存在之必要，宜請先依法辦理用地變更。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940149702號|釋水利用地種植作物或不作灌溉排水使用不符合作農業使用認定案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5fa3a7f9f6936b28faedfbf9a7d5b3f1ecd63ae9f5d2a465fec41b81d7cc79e4",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "種植作物或不作灌溉、排水使用,不符合作農業使用認定案\n一、查農業發展條例第3條第10款明定「農業用地:指非都市土地或都市土地農業區、保護區範圍內,依法供下列使"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業經營不可分離之設施,其於非都市土地均編定為水利用地,故依區域計畫法劃定為各種使用分區內編定之水利用地,必須作農田水利之灌溉或排水設施使用,始符合農"
+  }
+ ]
+}

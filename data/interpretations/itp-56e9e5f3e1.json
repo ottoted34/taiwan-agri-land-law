@@ -1,0 +1,59 @@
+{
+ "id": "itp-56e9e5f3e1",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940711352號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關「農業技術密集與資本密集類目及標準」第6類休閒農業規定之認定標準疑義案。",
+ "content": "主旨：有關「農業技術密集與資本密集類目及標準」第6類休閒農業規定之認定標準疑義乙案，復如說明，請 查照。\n說明：\n一、復 貴府94年7月11日府農輔字第09400959970號函。\n二、依「農業技術密集與資本密集類目及標準」第6類休閒農場規定：經營符合休閒農業輔導管理辦法之休閒農場，其面積合計達3公頃\n以上，且相關農業或休閒設施或設備總投資金額，不含土地購置費，在新台幣三千萬元整以上者，其中面積合計之認定係指該休閒農場登記證所登記之面積或合併取得休閒農場籌設同意之申請面積達3公頃以上者為認定基準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0940711352號|有關農業技術密集與資本密集類目及標準第6類休閒農業規定之認定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "35a9bb0531c4cb696e9acc9f3f6dfa1c70aa5c77f7b1f4a7db034692083e4a8d",
+ "topics": [
+  "leisure"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2011",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "law_id": "M0090014",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業技術密集與資本密集類目及標準」第6類休閒農場規定:經營符合休閒農業輔導管理辦法之休閒農場,其面積合計達3公頃\n以上,且相關農業或休閒設施或設備總投資金額,不含"
+  }
+ ]
+}

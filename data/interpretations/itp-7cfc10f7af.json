@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5944",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:14+08:00",
+   "fetched_at": "2026-10-30T11:16:27+08:00",
    "source_key": "rmis:5944"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農永字第1130032863號|農業用地經依法變更編定為國土保安用地者涉及稅賦優惠疑義案請查"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -38,16 +44,24 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "永字第1130220589號函說明具體改進情形續辦。\n二、查農業發展條例(以下簡稱本條例)第3條第10款規定,於89年1月26日修正之立法說明已揭櫫,農"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "導、土地增值稅、遺產稅及贈與稅優惠之準據。\n三、農業用地倘經區域計畫法等相關規定完成用地變更編定者,即非屬本條例第3條第10款規定之農業用地,換言之,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

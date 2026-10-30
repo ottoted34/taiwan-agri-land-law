@@ -1,0 +1,67 @@
+{
+ "id": "itp-0b643a61d3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941849045號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關共同持有持分之農業用地申請興建農舍疑義案，復請查照",
+ "content": "一、復 台端94年8月9日函。\n二、有關共同持有持分之農業用地所有權人，其共有人之一申請興建農舍，應取得其他共有人之同意，部分共有人不得就其應有部分申請建築，或由共有人共同申請興建農舍1戶，其申請人資格條件應符合「農業用地興建農舍辦法」第三條規定；至共有人之一就共有土地申請建築應否依持分比率計算建築面積及總樓地板面積，係屬私權行為，宜由共有人合意為之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941849045號|有關共同持有持分之農業用地申請興建農舍疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-3df39e22a4",
+    "by_docno": "農水保字第1011865007號",
+    "by_date": "2012-02-20",
+    "kind": "cease",
+    "phrase": "本會95年11月17日農授水保字第0950164806號書函、95年9月14日農授水保字第0950151371號書函、95年6月7日農授水保字第0950130747號書函、95年4月18日農水保字第0950117959號函、95年3月1日農授水保字第0951850892號函、95年1月16日農授水保字第0951850793號函、94年11月1日農授水保字第0941849656號書函、94年9月8日"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "64e415e36afe111f6a007ea004f74136c2b54f0f7f3919d999fbec5f2122f5af",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "建築,或由共有人共同申請興建農舍1戶,其申請人資格條件應符合「農業用地興建農舍辦法」第三條規定;至共有人之一就共有土地申請建築應否依持分比率計算建築面積及總樓地板面積,係"
+  }
+ ]
+}

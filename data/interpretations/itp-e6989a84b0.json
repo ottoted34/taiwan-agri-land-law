@@ -1,0 +1,65 @@
+{
+ "id": "itp-e6989a84b0",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950106961號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業用地於劃定或變更為非農業使用時，其繳交農業用地變更回饋金之當期土地公告現值如何認定案。",
+ "content": "主旨：有關 貴府函詢農業用地於劃定或變更為非農業使用時，其繳交農業用地變更回饋金之當期土地公告現值如何認定案，復請 查照。\n說明：\n一、復 貴府95年2月6日府農務字第0950033107號函。\n二、農業用地於劃定或變更為非農業使用時，應視其事業性質，繳交回饋金，為農業發展條例第12條所明定，本會據以訂定「農業用地變更回饋金撥繳及分配利用辦法」，就農業用地應繳交回饋金之情況標準與作業方式予以規範。依本辦法第2條至第4條規定，回饋金之繳交基準，係以變更編定面積與獲准變更編定當期土地公告現值乘積之百分比率為計算基準。另依第5條第1項第1款規定，非都市土地農業用地變更回饋金之繳交，應於向直轄市或縣市政府辦理土地變更編定之異動登記前繳納。準此，農業用地變更回饋金以獲准變更編定當期之土地公告現值乘積為回饋金計算基準，並於土地變更編定之異動登記前繳納。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950106961號|農業用地於劃定或變更為非農業使用時其繳交農業用地變更回饋金之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "69b5fa9d7e8a3a5a7d00ec27aa9a38010f31085634b54be71144a6063fbf9fd8",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "地於劃定或變更為非農業使用時,應視其事業性質,繳交回饋金,為農業發展條例第12條所明定,本會據以訂定「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交回"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "性質,繳交回饋金,為農業發展條例第12條所明定,本會據以訂定「農業用地變更回饋金撥繳及分配利用辦法」,就農業用地應繳交回饋金之情況標準與作業方式予以規範。依本辦法第2條至第4條規定"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "tech-f0500416d816",
+ "source_key": "datamoa:740:d5deee6be1fed893",
+ "title": "檬果害蟲之生態與防治",
+ "series": "技術專刊",
+ "issue": "技術專刊90-1(NO.110)",
+ "agency_id": "tndais",
+ "authors": "陳文雄、張煥英",
+ "date": "2001-07",
+ "url": "http://book.tndais.gov.tw/Brochure/tech110.pdf",
+ "isbn": "957-02-8401-3",
+ "gpn": "10090000982",
+ "pages": "18頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊90-1(NO.110)",
+  "題目": "檬果害蟲之生態與防治",
+  "作者": "陳文雄、張煥英",
+  "出版日期年月": "09007",
+  "頁數": "18頁",
+  "定價": "40",
+  "政府出版品編號GPN": "10090000982",
+  "ISBN": "957-02-8401-3",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech110.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech110.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "b545bdc1e8b961f648e22e4b6cb153a37b9c9a35bf29cc7fc7c41768945e84c0",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": [
+  "pest"
+ ]
+}

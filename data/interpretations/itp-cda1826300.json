@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3837",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:38+08:00",
+   "fetched_at": "2026-10-30T11:36:51+08:00",
    "source_key": "rmis:3837"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1030012036號|有關先行動工興建之農舍如何補辦建築執照之農業用地作農業使用證"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "9",
     "amended_on": "2015-09-04",
@@ -59,22 +65,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070030",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "局102年7月12日農水保字第1021865710號函,得依區域計畫法第21條及第22條,或依目的事業主管機關主管法令之罰則規定辦理;又未經許可擅自建造之建築"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "86",
+   "kind": "extracted",
+   "snippet": "之罰則規定辦理;又未經許可擅自建造之建築物補辦建築執照時,依建築法第86條第1款規定處以建築物造價千分之50以下罰鍰,亦有處罰之法據。\n(二)另依直轄市、"
+  },
+  {
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "行方式調整如下:\n(一)申請人於農用證明申請書勾選項目為辦理農業發展條例第18條「申請興建自用農舍」。\n(二)依「農業用地興建農舍辦法」第9條第2項第3款規定意"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "9",
    "kind": "extracted",
    "snippet": "目為辦理農業發展條例第18條「申請興建自用農舍」。\n(二)依「農業用地興建農舍辦法」第9條第2項第3款規定意旨,扣除農舍用地10%之面積後,供農業生產使用部分之農業經營用"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

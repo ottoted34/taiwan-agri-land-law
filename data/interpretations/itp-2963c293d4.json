@@ -1,0 +1,60 @@
+{
+ "id": "itp-2963c293d4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951850851號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○等20人申請於貴縣○○鄉○○○號地號土地，以集村方式興建農舍，擬補足供農業生產使用面積及已施工之集村興建農舍座落建築基地核發農業使用證明書疑義案，復請查照。",
+ "content": "一、復 貴府95年1月27日屏府農務字第0950022105號函。\n二、依「農業用地興建農舍辦法」相關規定申請以集村方式興建農舍，經建築主管機關核發建造執照，且已動工興建之集村興建農舍坐落建築基地，如擬調整該基地各起造人持有面積而申請核發農業使用證明書部分，得就興建面積是否符合建築配置圖所載面積為審查核發依據，如經查明符合建築配置圖而無違規情事者，自得核發農業用地作農業使用證明書。\n三、本案既經 貴府核發同意興建文件農民資格及建築執照，且已臻完工階段，目前擬補足各起造人農業用地面積，其農民資格部分，請依本會94年1月21日農授水保字第0941848241號函示「……其全部共同起造人之農民資格條件，應以重新方式辦理」（如附件） 至於 貴府擬俟專案分割時再一併調整各起造人建築基地持分面積，本會無意見。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951850851號|有關○○○等20人申請於貴縣○○鄉○○○號地號土地以集村方式"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ce45081a5e5c61a1d8940f0a58b566a58d21d4ceaf321f2491224a92de5df86e",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "5年1月27日屏府農務字第0950022105號函。\n二、依「農業用地興建農舍辦法」相關規定申請以集村方式興建農舍,經建築主管機關核發建造執照,且已動工興建之集村興"
+  }
+ ]
+}

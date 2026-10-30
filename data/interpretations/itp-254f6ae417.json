@@ -1,0 +1,58 @@
+{
+ "id": "itp-254f6ae417",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1000138876號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴所函為農業用地興建農舍滿5年始得移轉疑義案，復請 查照。",
+ "content": "1.依據行政院農業委員會交下 貴所100年6月17日芬鄉農經字第1000008118號函。\n2.按農業發展條例第18條第2項規定，農業發展條例修正施行後取得農業用地之農民，其在自有農業用地興建農舍滿五年始得移轉。但因繼承或法院拍賣而移轉者，不在此限。至於農業發展條例修正施行前取得農業用地之農民興建農舍不受五年移轉之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:水保農字第1000138876號|貴所函為農業用地興建農舍滿5年始得移轉疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d434447ee7a35a7219ccc3ef43aec153ce2fe8aa82aad49af8940904615625c3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "0年6月17日芬鄉農經字第1000008118號函。\n2.按農業發展條例第18條第2項規定,農業發展條例修正施行後取得農業用地之農民,其在自有農業用地興建農舍滿"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-5364d22f5a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970106777號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端農業發展條例修正公布生效日前取得之共有農業用地，是否適用農業發展條例第18第第3項規定申請興建農舍案，復請查照。",
+ "content": "1.復 台端97年1月30日函。\n2.農業發展條例第18條第3項規定：「本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地，而本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同」合先說明。\n3.檢送本會96年3月14日農授水保字第0961848173號函釋，有關共有農業用地申請興建農舍之處理原則一份供參（如附件）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970106777號|台端農業發展條例修正公布生效日前取得之共有農業用地是否適用農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0cd04438e4e98b029e1491e92a539d19dfd0cb3df14ae6bc775a02d912d7d23b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "建農舍案,復請查照。\n1.復 台端97年1月30日函。\n2.農業發展條例第18條第3項規定:「本條例中華民國89年1月4日修正施行前取得農業用地,且無自用農舍而"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "取得農業用地,且無自用農舍而需興建者,得依相關土地使用管制及建築法令規定,申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地,而本條例中"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-5c052c743e",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920119444號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函為山坡地或森林區內之農牧用地，經原地主細分割轉售，承買人完成登記後個別申請興建農舍，所提送之簡易水土保持申報書審核准駁發生疑義案，復請查照。",
+ "content": "一、復貴府92年3月28日府農保字第0920029765號函。\n二、貴府函所述之山坡地或森林區申請興建農舍案件，係為建管單位審查申請興建農舍案件時，水土保持主管機關爰依水土保持法規定，配合審查其水土保持計畫（或簡易水土保持申報書）。貴府如認山坡地或森林區內農舍林立，有破壞自然景觀、污染水源之虞，宜請建管及環保等單位加強管制；另為強化水土保持措施，水土保持主管機關亦得要求水土保持義務人先擬具水土保持計畫送核，不准其以簡易水土保持申報書代替水土保持計畫申請。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農林字第0920119444號|有關貴府函為山坡地或森林區內之農牧用地經原地主細分割轉售承買"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "db6f16b02da25ee14bf96b92fbbb4c8a75decb2fd87b88f53700f4bacb629b50",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "件,係為建管單位審查申請興建農舍案件時,水土保持主管機關爰依水土保持法規定,配合審查其水土保持計畫(或簡易水土保持申報書)。貴府如認山坡地或森林區內農"
+  }
+ ]
+}

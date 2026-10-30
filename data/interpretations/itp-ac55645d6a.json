@@ -1,0 +1,65 @@
+{
+ "id": "itp-ac55645d6a",
+ "doc_class": "interpretation",
+ "docno": "台內地字第0920012071號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關 貴會函為屏東縣泰武鄉原住民保留地上農舍設定典權予非原住民乙案，請 查照。",
+ "content": "一、復 貴會91年12月9日原民地字第0910003642號函。\n二、案經本部於92年6月23日邀集貴會、行政院農業委員會、法務部（請假）等有關單位研商，獲致結論如次：「依山坡地保育利用條例第37條立法原意觀之，原住民保留地主要係政府為保障原住民生計，推行原住民行政，具有特定政策目的所劃設供原住民使用之土地；倘本案准許原住民保留地上農舍單獨設定典權予非原住民，依現行民法第913條及923條規定，如出典人於典期屆滿後不以原典價回贖，典權人即取得典物所有權，造成轉典為賣之移轉行為，致使原住民將逐漸喪失保留地之使用權，悖離原有劃設原住民保留地之政策目的。另農舍係與農業經營不可分離之設施物，依農業發展條例第18條第4項規定：『．．．農舍應與其坐落用地併同移轉或併同設定抵押權；．．．』是以，當典權期限屆滿後，出典人不予回贖即視為絕賣之規定，使非原住民藉此途徑單獨取得農舍所有權，故本案保留地上農舍應禁止單獨設定典權，以避免與上開農業發展條例立法精神有違。基此，本部90年5月28日台（90）內中地字第9008712號函應予停止適用。」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:台內地字第0920012071號|有關貴會函為屏東縣泰武鄉原住民保留地上農舍設定典權予非原住民"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "b4f3fc4628dba43bad3994f5ddeb5a907e278b84e19846718ea5df996daba582",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110006",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "農業委員會、法務部(請假)等有關單位研商,獲致結論如次:「依山坡地保育利用條例第37條立法原意觀之,原住民保留地主要係政府為保障原住民生計,推行原住民行政,具有特定政"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "住民保留地之政策目的。另農舍係與農業經營不可分離之設施物,依農業發展條例第18條第4項規定:『...農舍應與其坐落用地併同移轉或併同設定抵押權;...』是以,當"
+  }
+ ]
+}

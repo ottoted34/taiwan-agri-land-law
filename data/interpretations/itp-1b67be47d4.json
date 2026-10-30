@@ -1,0 +1,58 @@
+{
+ "id": "itp-1b67be47d4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843813號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關單筆土地分割為2筆土地及2筆土地合併為單筆土地，其土地取得時點及共有農地申請興建農舍面積疑義案，復請查照。",
+ "content": "1.復 貴府97年6月24日府農務字第0973020230號函。\n2.土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準(參照本會97年8月4日農授水保字第0971843810號函)。\n3.查共有農業用地申請興建農舍之處理原則，本會96年3月14日農授水保字第0961848173函縣市政府在案（正本諒達）；共有農業用地申請興建農舍之面積，依農業用地興建農舍辦法第3條第1項第3款規定自應達0.25公頃，共有人之一申請興建農舍，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內，農舍仍以「整筆」土地註記，並無 貴府所稱申請人之農業用地面積未達0.25頃之疑慮。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843813號|有關單筆土地分割為2筆土地及2筆土地合併為單筆土地其土地取得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0ce84bd739da4fdabaa92d777c285d5ef6dfda61517f433cf7f703f4cc554eb3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "縣市政府在案(正本諒達);共有農業用地申請興建農舍之面積,依農業用地興建農舍辦法第3條第1項第3款規定自應達0.25公頃,共有人之一申請興建農舍,除其他共有人同意書外"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "id": "itp-245254973a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0910171051號",
+ "date": "2002-12-20",
+ "date_text": "91年12月20日農企字第0910171051號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "025 釋農業用地作假山、庭園造景及水池等使用案",
+ "content": "一、查有關「農業使用」於農業發展條例第3條第1項第12款業有明確定義，農業用地作農業使用認定及核發證明辦法並訂有農業使用認定基準專章，以作為農業使用認定之依據，合先敘明。\n二、至所稱本會89年7月28日函送會議結論第74案由結論乙節，查花卉、樹木、盆栽亦屬農產品之範圍，其為前開農產品之生產以供應市場之需求，亦屬農業經營之一環，前開會議結論應係指此而言。如為私人庭院景觀，零星點綴栽植花木造景，並不符合農業使用之定義及其認定基準，亦非本會前開會議結論之意旨。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0910171051號|釋農業用地作假山庭園造景及水池等使用案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "3",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a44d280f0d7d573c3a50b2f5c68f0f4e0eb9a0ee3566541bdd9989bf85ceb11a",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "用地作假山、庭園造景及水池等使用案\n一、查有關「農業使用」於農業發展條例第3條第1項第12款業有明確定義,農業用地作農業使用認定及核發證明辦法並訂有農業使用認"
+  },
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「農業使用」於農業發展條例第3條第1項第12款業有明確定義,農業用地作農業使用認定及核發證明辦法並訂有農業使用認定基準專章,以作為農業使用認定之依據,合先敘明。\n二、至所稱本會"
+  }
+ ]
+}

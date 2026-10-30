@@ -1,0 +1,65 @@
+{
+ "id": "itp-7f58d5d0d9",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1001850099號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○○提供農舍興建辦法建議事項1案，復請 查照。",
+ "content": "一、復 貴辦公室100年1月17日傳真。\n二、農業發展條例於民國89年1月28日修法後，旨在貫徹「放寬農地農有、落實農地農用」之政策目標，因此在農舍興建規定上，訂定「農業用地興建農舍辦法」以為配套管制措施。農舍興建之立法目的，係以從事農業使用為目的並不破壞農業生產環境前提下，始得申請興建農舍供農業經營者作居住使用，其與一般住宅性質不同。\n三、 前開辦法第3條第1項第2款及第3款訂有土地取得及戶籍登記均應滿2年及農業用地面積不得小於0.25公頃之規定，旨在確保該農舍係為配合在農業用地上從事農業活動所需而興建之政策目的。另0.25公頃之面積標準，係以往政府從事農地重劃時規劃標準農地坵塊之主要考量，且從台灣農家經濟調查報告及農業所得資料等計算耕耘機作業效率結果，0.25公頃亦為一較理想之農業經營面積。\n四、○○○建議事項，本會將納入研參；並於修正農業用地興建農舍辦法時，落實符合農舍興建係與農業經營不可分離之意旨及加強農舍及其座落農業用地查處工作。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1001850099號|有關○○○提供農舍興建辦法建議事項1案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "968db73162fac56fdafac538f40f9f01bcee770c449961efa3b2aab48f56fb04",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "復請 查照。\n一、復 貴辦公室100年1月17日傳真。\n二、農業發展條例於民國89年1月28日修法後,旨在貫徹「放寬農地農有、落實農地農用」之政策目標,"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地農有、落實農地農用」之政策目標,因此在農舍興建規定上,訂定「農業用地興建農舍辦法」以為配套管制措施。農舍興建之立法目的,係以從事農業使用為目的並不破壞農業生產環境"
+  }
+ ]
+}

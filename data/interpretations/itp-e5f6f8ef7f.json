@@ -1,0 +1,58 @@
+{
+ "id": "itp-e5f6f8ef7f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000125290號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴部函詢有關農舍及其坐落用地併同移轉之持分比例一案，復請 查照。",
+ "content": "一、復貴部100年4月22日內授中辦地字第1000724261號函。\n二、查農業發展條例第18條第4項農舍應與其坐落用地併同移轉或併同設定抵押權之規範意旨，係為避免農舍與其農業用地分由不同人所有，造成農地產權及經營利用之問題。故本會90年5月22日（90）農輔字第900122265號函說明二所稱農地與農舍移轉時不應有所有權人不同，即指上開農舍與農業用地不得分別移轉之情形。\n三、另前揭函釋有關農地與農舍移轉時不得有持份不一致之情形，係指在前開條例第18條第4項農地與農舍併同移轉原則下，因農舍與農業用地不得分開處理，持分自應相等，即持有農舍的比例與農地比例均應相同，始符合該條項規定之意旨。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000125290號|貴部函詢有關農舍及其坐落用地併同移轉之持分比例一案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ead1a5786883f5a4887e8f79fb9a2a30a438c93732b60842c90499573a21f69e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "年4月22日內授中辦地字第1000724261號函。\n二、查農業發展條例第18條第4項農舍應與其坐落用地併同移轉或併同設定抵押權之規範意旨,係為避免農舍與其農業"
+  }
+ ]
+}

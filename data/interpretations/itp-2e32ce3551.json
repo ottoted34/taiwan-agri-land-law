@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3988",
    "serial": null,
-   "fetched_at": "2026-10-30T10:03:55+08:00",
+   "fetched_at": "2026-10-30T11:31:07+08:00",
    "source_key": "rmis:3988"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041882079號|有關貴府函為○○○等29人申請集村興建農舍其中部分起造人提供"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -50,16 +56,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "1040014409號函。\n二、本會於92年8月7日召開研商農業用地興建農舍辦法(以下簡稱本辦法)有關集村興建農舍執行疑義案第2次會議決議,略以:「‧‧‧有關集"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "市)主管機關得撤銷其核定,主管建築機關得撤銷其建築許可。」及行政程序法相關規定辦理。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

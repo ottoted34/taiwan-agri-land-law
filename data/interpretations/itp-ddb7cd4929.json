@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4670",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:11+08:00",
+   "fetched_at": "2026-10-30T11:22:24+08:00",
    "source_key": "rmis:4670"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080238598號|有關臺端函為臺灣屏東地方法院民事判決107年度簡上字第19號"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,22 +48,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "關規定。倘與農業經營相關之農業設施,如為固定基礎設施者亦應依申請農業用地作農業設施容許使用審查辦法提出申請,先予敘明。\n\n三、「農舍」係與農業經營不可分離之建築物,提供有心經營農"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "放置農機具兼具居住之需求,並非擁有農業用地即可興建農舍,應依農業用地興建農舍辦法(以下簡稱農舍辦法)規定審認許可,始得興建,併予敘明。\n\n四、依臺端來文所述,按"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

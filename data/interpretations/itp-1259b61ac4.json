@@ -1,0 +1,58 @@
+{
+ "id": "itp-1259b61ac4",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940111877號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關繼承人申請農業用地容許作農業設施使用之執行疑義乙案，復如說明，請查照。",
+ "content": "一、復貴府94年3月4日府農地字第0940058192號函。\n二、查民法第1147條及第1148條分別明定：「繼承，因被繼承人死亡而開始。」及「繼承人自繼承開始時，除本法另有規定外，承受被繼承人財產上之一切權利義務。」惟依同法第759條規定，「因繼承、．．．，於登記前已取得不動產物權者，非經登記，不得處分其物權。」準此，被繼承人死亡時，繼承即已發生，惟仍須經辦竣農業用地繼承移轉登記後，再依「農業用地容許作農業設施使用審查辦法」相關規定申辦容許作農業設施使用等事宜。\n三、惟如係已興建但未經申請之農業設施，於補辦容許使用事宜者，參照土地登記規則第119條之規定，其繼承人得檢附載有被繼承人死亡記事之戶籍謄本、繼承人現在戶籍謄本、繼承系統表（由申請人依民法有關規定自行訂定，註明如有遺漏或錯誤致他人受損害者，申請人願負法律責任，並簽名）、遺產分割協議書等文件，就其應繼承部分為申請人，並作為核處農業設施相關規定之依據。倘有相關繼承法令疑義，由直轄市、縣（市）政府目的事業主管機關會同地政機關認定之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940111877號|有關繼承人申請農業用地容許作農業設施使用之執行疑義乙案復如說"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "44888554c36b8f6e0d9e00271ef9b662e7dc4626743388bf4492bff71473b6c7",
+ "topics": [],
+ "flags": [
+  "date_unknown",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "亡時,繼承即已發生,惟仍須經辦竣農業用地繼承移轉登記後,再依「農業用地容許作農業設施使用審查辦法」相關規定申辦容許作農業設施使用等事宜。\n三、惟如係已興建但未經申請之農業設施,於"
+  }
+ ]
+}

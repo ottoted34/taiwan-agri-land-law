@@ -1,0 +1,146 @@
+{
+ "id": "itp-e5951d2c37",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950136679號",
+ "date": "2006-07-07",
+ "date_text": "95年7月7日農企字第0950136679號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "049 釋農業用地容許作農業設施使用審查辦法第23條所規定未依計畫用途使用之認定標準及農業設施住人之認定標準等疑義案。",
+ "content": "一、依農業用地容許作農業設施使用審查辦法第23條規定，依本辦法取得農業用地容許作農業設施使用，未依計畫內容使用者，原核定機關得廢止其許可...。按本辦法第10條、第12條、第15條、第17條之規定，經營計畫書內容應敘明所列之各款事項，所稱之「未依計畫內容使用」即指未依申請容許使用時所擬定之經營計畫書各款內容使用而言。\n二、按農業發展條例第3條第12款規定，「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者」，農業設施及農舍雖屬農地上與農業經營有關之建築物，然農業設施為供農業生產管理之經營所需而非供居住使用，與農舍供居住使用之功能不同，且依據之法律及管制規定也不相同，故「農業用地容許作農業設施使用審查辦法」未規範相關農業設施得住人之審查標準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950136679號|釋農業用地容許作農業設施使用審查辦法第23條所規定未依計畫用"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2017-06-28",
+    "history": "中華民國一百零六年六月二十八日行政院農業委員會農企字第 1060012754A 號令修正發布第 6、23、27～30、32、33 條條文及第 13 條條文之附表一、第 16 條條文之附表二、第 21 條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2018-03-23",
+    "history": "中華民國一百零七年三月二十三日行政院農業委員會農企字第 1070012379A 號令修正發布第 23 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2021-01-28",
+    "history": "中華民國一百十年一月二十八日行政院農業委員會農企字第 1100012001A 號令修正發布第 23 條條文之附表五",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2021-05-13",
+    "history": "中華民國一百十年五月十三日行政院農業委員會農企字第 1100012423A 號令修正發布第 23 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2022-05-02",
+    "history": "中華民國一百十一年五月二日行政院農業委員會農企字第 1110012611 號令修正發布第 23 條條文之附表五",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "2f2d0b6e8b7390d4f9fab6ecdf25e909d2ffb1b3149ce638b8c6b7dad0c8e601",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "23",
+   "kind": "extracted",
+   "snippet": "049 釋農業用地容許作農業設施使用審查辦法第23條所規定未依計畫用途使用之認定標準及農業設施住人之認定標準等疑義案。\n一、依農業用"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "依申請容許使用時所擬定之經營計畫書各款內容使用而言。\n二、按農業發展條例第3條第12款規定,「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  }
+ ]
+}

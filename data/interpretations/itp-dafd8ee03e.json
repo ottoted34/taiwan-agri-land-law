@@ -1,0 +1,58 @@
+{
+ "id": "itp-dafd8ee03e",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第0950020837號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於「農業用地興建農舍辦法」第8條第1項第7款疑義案，復請查照。",
+ "content": "一、依據行政院農業委員會95年4月20日農授水保字第0950120698號函辦理兼復貴事務所95年4月13日（95）善建字第401號函。\n二、查「農業用地興建農舍辦法」第8條第1項第7款明定「建築基地與計畫道路境界線之距離，不得小於八公尺。」係指集村興建農舍建築基地距離計畫道路境界線應退縮八公尺，其退縮範圍內土地應仍維持農業使用，不得計入法定空地。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署綜字第0950020837號|關於農業用地興建農舍辦法第8條第1項第7款疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "36d722bd0aaa9042fe064e33c1fdab9e78a63411062dacf974610ee56bf24fc1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "關於「農業用地興建農舍辦法」第8條第1項第7款疑義案,復請查照。\n一、依據行政院農業委員會95年4月20日農授水保"
+  }
+ ]
+}

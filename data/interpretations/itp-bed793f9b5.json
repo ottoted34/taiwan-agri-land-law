@@ -1,0 +1,59 @@
+{
+ "id": "itp-bed793f9b5",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0930035554號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函為都市計畫農業區之農業用地已申請農舍，其合併計算建築面積之他筆農業用地是否經移轉後得再行申請建築農舍乙案，復請查照。",
+ "content": "一、復貴府93年5月19日府城建字第0933013413號函。\n二、按已申請興建農舍之農業用地不得重複申請，為農業發展條例第18條第4項所明定。至本案已申請農舍之合併計算建築面積之他筆農業用地，若未依規定解除套繪，並自使用執照予以刪除者，自應依前開規定，不得重複申請建築農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署建管字第0930035554號|貴府函為都市計畫農業區之農業用地已申請農舍其合併計算建築面積"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dbbaf30ebd5896c2be70182b135b1bbf52f0a453d22987442e76aa0f41d2b762",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "413號函。\n二、按已申請興建農舍之農業用地不得重複申請,為農業發展條例第18條第4項所明定。至本案已申請農舍之合併計算建築面積之他筆農業用地,若未依規定解除套"
+  }
+ ]
+}

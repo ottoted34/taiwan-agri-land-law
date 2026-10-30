@@ -1,0 +1,64 @@
+{
+ "id": "itp-8d8d81b0a3",
+ "doc_class": "interpretation",
+ "docno": "營署中城字第0950014953號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關都市計畫農業區已興建農舍之土地，得否於該農舍剩餘空地再申請設置農業產銷必要設施乙案，復請查照。",
+ "content": "一、依據行政院農業委員會95年3月23日農企字第0950115040號函辦理並復貴公司95年3月10日致該會申請書。\n二、查都市計畫法臺灣省施行細則第29條第1項第3款規定，都市計畫農業區內之農地，其已申請建築者（包括10％農舍面積及90％之農地），主管建築機關應於都市計畫及地籍套繪圖上著色標示之，嗣後不論該90％農地是否分割，均不得再行申請建築。故本案依農業用地容許作農業設施使用審查辦法第11條規定申請設置之農作產銷設施如無涉及建築行為，得於上開90％農地申請設置，如涉及建築行為，本署曾針對類似案例以91年9月17日營署都字第0910052645號函明釋在案，仍請參考辦理。\n三、檢附本署91年9月17日營署都字第0910052645號函影本乙份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署中城字第0950014953號|有關都市計畫農業區已興建農舍之土地得否於該農舍剩餘空地再申請"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c70658a5db0fc0d7aa14c243175cc62324055026079f9a3afd232f3d9eac16d7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "40號函辦理並復貴公司95年3月10日致該會申請書。\n二、查都市計畫法臺灣省施行細則第29條第1項第3款規定,都市計畫農業區內之農地,其已申請建築者("
+  },
+  {
+   "law_id": "M0020022",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": ",嗣後不論該90%農地是否分割,均不得再行申請建築。故本案依農業用地容許作農業設施使用審查辦法第11條規定申請設置之農作產銷設施如無涉及建築行為,得於上開90%農地申請設置,如涉及建"
+  }
+ ]
+}

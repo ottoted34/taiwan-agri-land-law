@@ -1,0 +1,64 @@
+{
+ "id": "itp-eb55edf853",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951854296",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍增建、增建完成後可否申請拆除重建、農舍與坐落用地移轉等疑義案，復請查照。",
+ "content": "一、復 台端95年10月14日申請書。\n二、89年1月28日農業發展條例修正（前）後取得之農地及一併移轉之農舍，若於原已供興建農舍之建築基地（總面積10%）辦理現有農舍增建，即不受農業用地興建農舍辦法第3條有關農業用地面積及取得農業用地時間之限制;如該農舍增建係利用非原提供興建農舍之建築基地（不得超過10%或最大基層建築面積）範圍內興建，即應依農業用地興建農舍辦法相關規定辦理，內政部營建署91年1月15日營署綜字第09000807490號函暨本會94年6月10日農授水保字第0941811323號函釋在案。\n三、農舍興建完成申請拆除重建，仍應符合「農業用地興建農舍辦法」第3條第3款「申請興建農舍之該宗農業用地面積不得小於0.25公頃……」相關規定，內政部營建署92年5月26日營署綜字第0920028672號函釋在案。\n四、依農業發展條例第18條第2項規定：「……;其在自有農業用地興建農舍滿5年始得移轉。但因繼承或法院拍賣而移轉者，不在此限」;另農舍應與其坐落用地併同移轉或併同設定抵押權，為同條第4項所明定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951854296|有關農舍增建增建完成後可否申請拆除重建農舍與坐落用地移轉等疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "cdc0bd9ef0f011175f03d806e23890b49362eeca98d7ebd5ddacc26916db52c5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "供興建農舍之建築基地(總面積10%)辦理現有農舍增建,即不受農業用地興建農舍辦法第3條有關農業用地面積及取得農業用地時間之限制;如該農舍增建係利用非原提供興建農舍之建"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "5月26日營署綜字第0920028672號函釋在案。\n四、依農業發展條例第18條第2項規定:「......;其在自有農業用地興建農舍滿5年始得移轉。但因繼承或法"
+  }
+ ]
+}

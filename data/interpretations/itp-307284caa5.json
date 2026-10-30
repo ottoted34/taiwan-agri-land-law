@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5379",
    "serial": null,
-   "fetched_at": "2026-10-30T10:04:34+08:00",
+   "fetched_at": "2026-10-30T11:31:46+08:00",
    "source_key": "rmis:5379"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1040216357號|農業主管機關同意農業用地變更使用審查作業要點第14點執行疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -51,10 +57,12 @@
    "snippet": "農業主管機關同意農業用地變更使用審查作業要點第14點執行疑義釋示。\n主旨:有關貴局函詢農業主管機關同意農業用地變更使用審查作"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
    "snippet": "依個案實情作為得否同意變更使用之判斷標準,似無不可,此亦符合農業發展條例第10條規定,農業用地於劃定或變更為非農業使用時,應以不影響農業生產環境之完整性,而仍得"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

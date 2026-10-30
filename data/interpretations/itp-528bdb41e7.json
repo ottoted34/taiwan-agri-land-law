@@ -1,0 +1,70 @@
+{
+ "id": "itp-528bdb41e7",
+ "doc_class": "interpretation",
+ "docno": "農糧字第890126815",
+ "date": "2000-08-03",
+ "date_text": "89/8/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋從事農業生產或農業試驗研究之公司，可否比照「農業動力用電範圍及標準」規定，予以核發農業動力用電證明書案",
+ "content": "查「農業動力用電範圍及標準」並無規範申請人需為自然人，而係以符合所規定之各類用電，並直接供農業所需者為限。故從事農業生產或農業試驗研究之公司，如符合上開標準規定，似應予核發農業動力用電證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5150",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:51:14+08:00",
+   "source_key": "rmis:5150"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農糧字第890126815|釋從事農業生產或農業試驗研究之公司可否比照農業動力用電範圍及"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": null,
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "42bf1898051ff2e42d064037e1060061f84427856b5886cd932d6660323aa994",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋從事農業生產或農業試驗研究之公司,可否比照「農業動力用電範圍及標準」規定,予以核發農業動力用電證明書案\n查「農業動力用電範圍及標準」並無規範申請人需"
+  }
+ ]
+}

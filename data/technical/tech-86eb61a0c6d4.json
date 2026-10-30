@@ -1,0 +1,43 @@
+{
+ "id": "tech-86eb61a0c6d4",
+ "source_key": "datamoa:740:0c1714054a9225b8",
+ "title": "田野裡的美味日常－雲林篇",
+ "series": "技術專刊",
+ "issue": "技術專刊114-2(NO.180)",
+ "agency_id": "tndais",
+ "authors": "作者：發行人：陳昱初｜主編：李郁淳、吳雅芳｜編輯：李苡禎、蔡永靖｜攝影：李苡禎、蔡永靖、陳婉伶",
+ "date": "2025-04",
+ "url": "https://book.tndais.gov.tw/Brochure/yunlindailyfood.pdf",
+ "isbn": "978-626-7651-28-5",
+ "gpn": "1011400380",
+ "pages": "134頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊114-2(NO.180)",
+  "題目": "田野裡的美味日常－雲林篇",
+  "作者": "作者：發行人：陳昱初｜主編：李郁淳、吳雅芳｜編輯：李苡禎、蔡永靖｜攝影：李苡禎、蔡永靖、陳婉伶",
+  "出版日期年月": "11404",
+  "頁數": "134頁",
+  "定價": "250",
+  "政府出版品編號GPN": "1011400380",
+  "ISBN": "978-626-7651-28-5",
+  "連結位址1PDF": "https://book.tndais.gov.tw/Brochure/yunlindailyfood.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T11:57:52+08:00"
+  }
+ ],
+ "content_hash": "c99523dca1f4b9c9492a66e3f2b30b774a0ff64f5e0d81202d0d12b7ff852286",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

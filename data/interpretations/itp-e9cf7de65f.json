@@ -1,0 +1,58 @@
+{
+ "id": "itp-e9cf7de65f",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041883689號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函為○○○申請興建農舍之土地取得時點疑義案，復請查照。",
+ "content": "一、復貴府104年7月14日府農管字第1040179008號函暨同年月15日府農管字第1040179239號函。\n二、有關申請興建農舍之土地取得時點，行政院農業委員會前以101年6月29日農水保字第1011865000號令，核釋有案，其後並以102年10月25日農水保字第1021866046號令補充規定(正本諒達)；至於共有土地分割為單獨所有者，其土地取得時點，則以103年12月15日農授水保字第1031829690號函釋有案(副本諒達)，先予敘明。\n三、次查農業用地興建農舍辦法第2條第1項第3款規定：「申請興建農舍之該筆農業用地面積不得小於0.25公頃。...」，係指單一筆地號而言，並不得以多筆相毗鄰土地面積合併計算。至於申請人若單筆土地面積未足450平方公尺，從而無法符合上開辦法第9條第6款農舍建築面積應超過45平方公尺之規定者，貴府得依同款但書規定，視貴縣農業經營型態或申請人個案事實予以審查。\n四、有關個案之審查係屬直轄市、縣(市)政府權責，請貴府卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1041883689號|有關貴府函為○○○申請興建農舍之土地取得時點疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "3683c3ee90b4d978e6a733aa9460dc3cb3c4111d2cc8512a7d896e59725cccf4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "31829690號函釋有案(副本諒達),先予敘明。\n三、次查農業用地興建農舍辦法第2條第1項第3款規定:「申請興建農舍之該筆農業用地面積不得小於0.25公頃。...」"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "itp-72628fd3f2",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930105880號",
+ "date": "2004-02-09",
+ "date_text": "93年2月9日農企字第0930105880號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "061 釋未經申請建築許可即先行動工興建農舍，其為補申請建築執照，應檢附農業用地作農業使用證明書之核發事宜案",
+ "content": "有關農業發展條例89年1月26日修正施行後取得之農業用地，未經申請建築許可即先行動工興建農舍，為補申請建築執照，仍得適用本會92年10月31日農企字第0920163303號函示規定，核發「僅供申請補辦農舍建築執照使用」之農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930105880號|釋未經申請建築許可即先行動工興建農舍其為補申請建築執照應檢附"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-50a0d391b2",
+    "by_docno": "農企字第0950115471號",
+    "by_date": "2006-03-30",
+    "kind": "amend",
+    "phrase": "」又依本會93年2月9日農企字第0930105880號函釋略以:「有關農業發展條例89年1月26日修正施行後取得之農業用地,未經申請建築許可即先行動工興建農舍,為補申請建築執照仍得適用本會92年10月31日農企字第0920163303號函釋規定,核發僅供申請補辦農舍建築執照使用之農業使用證明書"
+   },
+   {
+    "type": "amend_signal",
+    "by_id": "itp-7d0ee84f69",
+    "by_docno": "台內營字第0930082655號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "四、至「農業發展條例89年修正施行『後』取得之農業用地,未經申請許可即已先行動工之農舍」者,亦經行政院農業委員會於93年2月9日以農企字第0930105880號函以補充函釋擴大前開函釋之適用,同意核發「加註記僅供申請補辦農舍建築執照使用」之「農業用地作農業使用證明書」,以利後續申請作業"
+   }
+  ]
+ },
+ "content_hash": "2438a03d519c7f1792f7b2e26352fb7a775753bf75a79644444b01ba224ceab0",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請建築執照,應檢附農業用地作農業使用證明書之核發事宜案\n有關農業發展條例89年1月26日修正施行後取得之農業用地,未經申請建築許可即先行動工興建農舍,為"
+  }
+ ]
+}

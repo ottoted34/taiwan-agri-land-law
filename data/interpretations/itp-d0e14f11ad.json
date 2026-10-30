@@ -1,0 +1,58 @@
+{
+ "id": "itp-d0e14f11ad",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041813744號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農地農舍買賣修正辦法。",
+ "content": "一、查農業用地興建農舍辦法第9條第2項第3款規定，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後、供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十，先予教明。\n二、本會與內政部將加強督導地方政府落實已興建農舍之稽查與管理，確保農業經營用地落實農用，感謝您來信關心農地問題。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041813744號|農地農舍買賣修正辦法"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "37ec08fdc778111299d89587f6a1e7eb2b06310fbe7d7a057ef77e9703a7fb89",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "農地農舍買賣修正辦法。\n一、查農業用地興建農舍辦法第9條第2項第3款規定,申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地面積百"
+  }
+ ]
+}

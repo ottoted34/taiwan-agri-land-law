@@ -1,0 +1,91 @@
+{
+ "id": "itp-f059bfc4e7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843810號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地，於修正施行後分割為單獨所有者，得依該條例第18條第3項規定辦理，請查照。",
+ "content": "一、依據本會97年7月29日邀集本會相關單位及內政部(含地政司、營建署)、縣（市）政府等，召開研商「土地合併分割交換調整後其取得時點計算基準、審查『維護農業生產』『不影響農村發展』及拍定取得2棟以上農舍移轉疑義」會議決議辦理。\n二、本會93年6月21日農授水保字第0931811448號函等相關函釋停止適用。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843810號|土地經辦理合併分割如權屬或面積有變動者依土地法第43條規定依"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-18d02571ab",
+    "by_docno": "農授水保字第0970157020號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "...」是以97年8月4日農授水保字第0971843810號函頒行並同時停止適用93年6月21日農授水保字第0931811448號函時,台端所有之土地持有尚未滿2年,且未向主管機關提出興建農舍之申請,在客觀上並無具體表現出足以信賴之行為"
+   },
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-3d1eb44921",
+    "by_docno": "農授水保字第0990151142號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "2.有關土地經辦理合併分割,涉及所有人之權屬或面積變動時,如權屬或面積有變動,依土地法第43條規定,略以:「依本法所為之登記,有絕對效力」,並請參酌本會97年8月4日農授水保字第0971843810號函釋「其土地取得時點之計算,應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,得依該條例第18條第3項規定辦理」規定辦理"
+   },
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-e7ecc36e2f",
+    "by_docno": "農授水保字第0971843996號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "...」是以97年8月4日農授水保字第0971843810號函頒行並同時停止適用93年6月21日農授水保字第0931811448號函時,本案○○○所有之土地持有尚未滿2年,且未向主管機關提出興建農舍之申請,在客觀上並無具體表現出足以信賴之行為"
+   },
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-eb9b1f1d62",
+    "by_docno": "農授水保字第0971844069號",
+    "by_date": null,
+    "kind": "cease",
+    "phrase": "...」是以97年8月4日農授水保字第0971843810號函頒行並同時停止適用93年6月21日農授水保字第0931811448號函時,本案○○○所有之土地持有尚未滿2年,且未向主管機關提出興建農舍之申請,在客觀上並無具體表現出足以信賴之行為"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "626af8f2ad871f30feb005452b2b31f81231f3bce187df12050b24d4e05f35cc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "點之計算,應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,得依該條例第18條第3項"
+  }
+ ]
+}

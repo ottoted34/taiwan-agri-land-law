@@ -1,0 +1,58 @@
+{
+ "id": "itp-6855f93f67",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951808932號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函詢有關領有森林登記證之林業用地，可否與同一鄉鎮市或毗鄰之鄉鎮市農牧用地合併計算申請以集村方式興建農舍疑義案，復請查照。",
+ "content": "一、復 貴府95年4月26日府農地字第0950114520號函。\n二、本會92年8月21日農授水保字第0921847142號函送87年8月7日研商之「農業用地興建農舍辦法」有關集村興建農舍執行疑義及研商結論一略以：「……因集村興建農舍係將農舍興建之權利移轉至他宗農業用地上集合興建，原無興建農舍權利之土地，自不得參與集村興建農舍。各起造人得併同提供山坡地與平地之農業用地申請集村興建農舍，但平均坡度超過30%以上之山坡地範圍內之農業用地，依照建築技術規則建築設計施工編第262條規定意旨，不得申請興建農舍。」，依上開結論，平均坡度超過30%之山坡地範圍內之農業用地，不得作為集村興建農舍坐落之建築基地及配合耕地。\n三、本案領有森林登記證之林業用地得否參加集村興建農舍，應視其平均坡度是否超過30%而定，由 貴府本於權責視個案依事實審核認定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951808932號|貴府函詢有關領有森林登記證之林業用地可否與同一鄉鎮市或毗鄰之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "c92485649cc821578c0764c0d51c0205c26b67787e1894afbbb8732638e440b6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "日農授水保字第0921847142號函送87年8月7日研商之「農業用地興建農舍辦法」有關集村興建農舍執行疑義及研商結論一略以:「......因集村興建農舍係將農舍興"
+  }
+ ]
+}

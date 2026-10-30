@@ -1,0 +1,39 @@
+{
+ "id": "tech-9033e0ef5f89",
+ "source_key": "datamoa:809:8394661909311ede",
+ "title": "研究彙報",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "陳錦木/許雅婷",
+ "date": null,
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "77",
+  "出版日期": "104年6月",
+  "內容": "日日春新品種桃園1號及5號之育成",
+  "作者": "陳錦木/許雅婷",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/77-1.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T11:57:45+08:00"
+  }
+ ],
+ "content_hash": "5a3513d1461143b42be690efad4134b0dd29fd57e727e0bb8f631964c6db6c72",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

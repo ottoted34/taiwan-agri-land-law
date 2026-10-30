@@ -1,0 +1,81 @@
+{
+ "id": "itp-aac3cf3531",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0910104842號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端詢問為夫妻均有農業用地，每宗各達0.25公頃以上並具備農民身分，且夫已曾申請農舍，妻是否可再申請農舍案，復如說明，請查照。",
+ "content": "一、依內政部營建署91年1月21日營署綜字第0912901148號函辦理，並復台端91年1月10日申請書。\n二、本案依「農業發展條例」第18條規定與「農業用地興建農舍辦法」第3條規定，妻若為該農業用地所有權人及無自用農舍，其資格條件符合前揭法令規定，即可以妻名義申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0910104842號|有關台端詢問為夫妻均有農業用地每宗各達025公頃以上並具備農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-356343a9ba",
+    "by_docno": "農水保字第0971844436號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "3.農業發展條例第18條第1項規定:「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自用農舍而需興建者,經直轄市或縣(市)主管機關核定,於不影響農業生產環境及農村發展,得申請以集村方式或在自有農業用地興建農舍」及農業用地興建農舍辦法第3條第1項規定,夫或妻各自為農業用地所有權人及無自用農舍,其資格條件符合前揭辦法規定,並經縣(市)主管機關審查核定,得分別申請以集村方式或在自有農地興建"
+   },
+   {
+    "type": "amend_signal",
+    "by_id": "itp-b9d3a4b4c5",
+    "by_docno": "農授水保字第0971844436號",
+    "by_date": null,
+    "kind": "amend",
+    "phrase": "三、農業發展條例第18條第1項規定:「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自用農舍而需興建者,經直轄市或縣(市)主管機關核定,於不影響農業生產環境及農村發展,得申請以集村方式或在自有農業用地興建農舍」及農業用地興建農舍辦法第3條第1項規定,夫或妻各自為農業用地所有權人及無自用農舍,其資格條件符合前揭辦法規定,並經縣(市)主管機關審查核定,得分別申請以集村方式或在自有農地興建"
+   }
+  ],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ed0ba2f9464b50862fd736d6c1ff49f557fcadc0d989c8f8a579e0f1b79e6a18",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "148號函辦理,並復台端91年1月10日申請書。\n二、本案依「農業發展條例」第18條規定與「農業用地興建農舍辦法」第3條規定,妻若為該農業用地所有權人及無自用農舍,"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "1月10日申請書。\n二、本案依「農業發展條例」第18條規定與「農業用地興建農舍辦法」第3條規定,妻若為該農業用地所有權人及無自用農舍,其資格條件符合前揭法令規定,即可以妻"
+  }
+ ]
+}

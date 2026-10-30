@@ -1,0 +1,50 @@
+{
+ "id": "itp-64af0452f2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981813782號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢耕地依地權調整分割要點辦理合併分割後，其各筆土地取得時點計算基準疑義，復請查照。",
+ "content": "1. 復本會水土保持局案陳台端98年6月15日申請書。\n2. 依據本會97年11月26日農授水保字第0971844308號函，有關土地合併分割交換調整，其屬權屬不變動之分割或合併案件，其取得農地計算基準，不受本會97年8月4日農授水保字第0971843810號函之限制。\n3. 檢附上開函影本供參，如有疑義請洽新竹縣政府。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981813782號|台端函詢耕地依地權調整分割要點辦理合併分割後其各筆土地取得時"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dd879d7df734f01d1bb6b8fbd56c6a9e92c85ec8afa88d1d3d76ed3c384e9072",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

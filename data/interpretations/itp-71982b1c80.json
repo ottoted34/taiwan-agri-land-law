@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4891",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:14+08:00",
+   "fetched_at": "2026-10-30T11:35:27+08:00",
    "source_key": "rmis:4891"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第1030710681號|申請農作產銷設施農業生產設施溫室及植物環控栽培設施容許使用涉"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,16 +46,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "103年4月1日府農農字第1030067254號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條附表1所定「溫室及植物環控栽培設施」申請基準或條件規"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

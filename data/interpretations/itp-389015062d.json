@@ -1,0 +1,58 @@
+{
+ "id": "itp-389015062d",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061832742號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍增建申請」一案",
+ "content": "一、有關農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定略以「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合本辦法第二條第一項資格，且農舍建築面積應超過四十五平方公尺...。」，係指農舍如採分期興建方式辦理者，其申請人如為原申請人，自無須重新審查其農民資格條件，如非原申請人，須重新審查其農民資格條件。\n二、另查本辦法第9條第2項第3款規定「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積之百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十」，爰農舍擬水平增建，其農舍用地面積須符合上開規定，併予說明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061832742號|農舍增建申請一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "58252cdd0820c827cb72951e03a3733134db05621b035f823a1ecf7401e2a0e3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「農舍增建申請」一案\n一、有關農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定略以「同一筆農業用地僅能申請興建一棟農舍"
+  }
+ ]
+}

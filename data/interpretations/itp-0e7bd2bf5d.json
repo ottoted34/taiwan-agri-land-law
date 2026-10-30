@@ -1,0 +1,89 @@
+{
+ "id": "itp-0e7bd2bf5d",
+ "doc_class": "interpretation",
+ "docno": "農企字第900139456號",
+ "date": "2001-07-27",
+ "date_text": "90/7/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋台灣省自來水公司辦理自來水工程，申請農業用地變更，得否免予繳交回饋金案",
+ "content": "查依農業發展條例第十二條第一項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，以為農業發展及農民福利之用，即除有符合第三項之例外規定者，原則上均應依規定繳交。至第三項第一款所稱之「政府興辦之公共建設及公益性設施」，業已限定應屬「公部門」興辦之各項公共建設及公益性設施者，方能適用之。台灣自來水公司擬適用該規定，免予繳交回饋金乙節，鑒於目前各國營事業機構民營化政策業已推動有年，台灣自來水公司之型態與經營，其是否屬政府機關之認定，又其辦理之事項，是否屬公共建設之項目，需由該公司報請經濟部鑒核，轉由本會核定後，方能據以辦理，以符法制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5205",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:08+08:00",
+   "source_key": "rmis:5205"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第900139456號|釋台灣省自來水公司辦理自來水工程申請農業用地變更得否免予繳交"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "12",
+    "amended_on": "2002-01-30",
+    "history": "中華民國九十一年一月三十日總統（91）華總一義字第 09100019010號令修正公布第 12、18、25、71 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "71d5c2fa33bffdcdd7c94b3d429583359e2ff8f56c15b1dfc96516ffb81398f0",
+ "topics": [],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "辦理自來水工程,申請農業用地變更,得否免予繳交回饋金案\n查依農業發展條例第十二條第一項規定,屬農業用地之變更,應視其事業性質,繳交回饋金,以為農業發展及農民福利"
+  }
+ ]
+}

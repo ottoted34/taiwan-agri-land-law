@@ -1,0 +1,58 @@
+{
+ "id": "itp-aca2c3197a",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第0930010931號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函為同一所有權人或不同所有權人相鄰不同地號之農業用地，可否以連棟共構方式（共同壁）分別以同一起造人或不同起造人申請新建自用農舍及農業設施之建築執照乙案，復請查照。",
+ "content": "一、復貴府93年7月28日府城建字第09301023160號函。\n二、查貴縣建築管理自治條例第11條第1項第5款第1目，業已明定申請建造執照使用共同壁者，應檢附協定書。至於中央建築法令對於農舍與農業設施使用共同壁，並無禁止規定。若有涉及農業相關法令部份，宜請逕洽農業主管機關。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第0930010931號|貴府函為同一所有權人或不同所有權人相鄰不同地號之農業用地可否"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "4362aa171e0b04be3e276ac3aed42f559a6798b41922e09f98482f1f492a4383",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "目,業已明定申請建造執照使用共同壁者,應檢附協定書。至於中央建築法令對於農舍與農業設施使用共同壁,並無禁止規定。若有涉及農業相關法令部份,宜請逕洽"
+  }
+ ]
+}

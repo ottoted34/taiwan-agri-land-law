@@ -1,0 +1,56 @@
+{
+ "id": "itp-0ac1a11579",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060719800號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關您詢問農業用地合併分割疑義案，復如說明，請查照。",
+ "content": "一、回復您106年7月未具日期申請書。\n二、有關合併分割土地取得時點疑義，悉依本會101年6月29日農水保字第1011865000號令辦理，已敘明有關「農業發展條例」第18條所稱取得農業用地，應以土地登記簿所有權部認定之。\n三、您來函所詢係屬個案，涉及分割移轉實務之審認，屬縣市政府業務權責，建議您逕洽土地所在地之地政機關，以資明確。\n四、隨文檢還申請書所附土地登記簿謄本2份及地籍圖1份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1060719800號|有關您詢問農業用地合併分割疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "24ce13eb5899b091f2212b4e6b1adf8749867f5024fe799875a21617b9fbcef5",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "6月29日農水保字第1011865000號令辦理,已敘明有關「農業發展條例」第18條所稱取得農業用地,應以土地登記簿所有權部認定之。\n三、您來函所詢係屬個案,涉及分"
+  }
+ ]
+}

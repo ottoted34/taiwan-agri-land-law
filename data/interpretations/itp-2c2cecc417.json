@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4530",
    "serial": null,
-   "fetched_at": "2026-10-30T09:57:50+08:00",
+   "fetched_at": "2026-10-30T11:25:03+08:00",
    "source_key": "rmis:4530"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070251712號|有關貴府依農業用地興建農舍辦法執行農民資格審查之審認標準疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,22 +45,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "有關貴府依農業用地興建農舍辦法執行農民資格審查之審認標準疑義案,復如說明,請查照。\n一、復貴府107年12月1"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "年12月10日府農務字第1070257875號函。\n二、依據農業發展條例(以下簡稱本條例)第18條規定,興建農舍應不影響農業生產環境及農村發展,其農業用"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

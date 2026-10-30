@@ -1,0 +1,66 @@
+{
+ "id": "itp-106e8eaf88",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030205957號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "特定農業區交通用地申請核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關貴府函詢特定農業區交通用地申請核發農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴府103年2月25日府農管字第1030037393號函。\n二、查交通用地並非屬農業用地之範圍，惟因農業發展條例第3條第10款所稱農業用地包括「與農業經營不可分離之農路」，基於該「農路」於非都市土地亦有編定為交通用地之情形，爰本會前已函釋，經編定為交通用地且作農路使用之土地，倘非屬公路法所定義之公路，得有農業發展條例第37條及第38條適用。(請詳見本會102年度農地管理法規及規劃利用講習教材-農業用地作農業使用認定之法令說明及行政實務第6-76頁及第6-77頁)。\n三、另查內政部自88年已函示逐步廢除地目等則制度，爰現行土地使用管制皆以其使用分區或編定使用地類別進行管制，非以地目為準，故交通用地不論地目為何，倘具本會前開函釋之農路性質，自得審認是否符合作農業使用認定基準，據以核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030205957號|特定農業區交通用地申請核發農業用地作農業使用證明書疑義案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "84ae4eaa71c4e3d0d293565477f52c81c08adab45e2643d86a8eff268df7be93",
+ "topics": [
+  "farm_use_cert",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "037393號函。\n二、查交通用地並非屬農業用地之範圍,惟因農業發展條例第3條第10款所稱農業用地包括「與農業經營不可分離之農路」,基於該「農路」於非都市土地"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "為交通用地且作農路使用之土地,倘非屬公路法所定義之公路,得有農業發展條例第37條及第38條適用。(請詳見本會102年度農地管理法規及規劃利用講習教材-農業用地作"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-4da7ad0149b5",
+ "source_key": "datamoa:D97:9e2422f9a4cf8fa5",
+ "title": "技術專刊 36",
+ "series": "技術專刊",
+ "issue": "36",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2359",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "36",
+  "出刊年月": "200811",
+  "期刊名稱": "臺灣諺語植物誌",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2359"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "6b58795ccf07d34a063cba0697dee15d8a427669988cc99c5132ed73cf61420b",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

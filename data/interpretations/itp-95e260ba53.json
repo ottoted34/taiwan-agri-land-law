@@ -1,0 +1,66 @@
+{
+ "id": "itp-95e260ba53",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061807400號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關您詢問造林山坡地是否符合農業用地興建農舍辦法所稱確實供農業使用，並可依該辦法申請興建農舍案，復如說明，請查照。",
+ "content": "一、依據內政部營建署106年7月4日營署綜字第10600404371號函轉您106年6月26日陳情書辦理。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、如您的土地之用地編定類別為農牧用地，依非都市土地使用管制規則第6條附表1規定，造林屬農牧用地之許可使用細目之一;另，依農舍係與農業經營不可分離之立法意旨，農業用地上應有農業經營生產之事實，且應積極從事具經濟性之農業生產使用，始得特許興建。\n四、農業用地興建農舍申請案件之審查係屬直轄市、縣(市)政府權責，應由縣市主管機關依個案事實審認。如有個案疑義，仍請就近向所轄縣市政府洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061807400號|有關您詢問造林山坡地是否符合農業用地興建農舍辦法所稱確實供農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1550558c43472b673a40236bd4ce79f061797e778f429dc7699ccfb0ff7d7dfc",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關您詢問造林山坡地是否符合農業用地興建農舍辦法所稱確實供農業使用,並可依該辦法申請興建農舍案,復如說明,請查照。\n一、依據內政"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "農舍,先予敘明。\n三、如您的土地之用地編定類別為農牧用地,依非都市土地使用管制規則第6條附表1規定,造林屬農牧用地之許可使用細目之一;另,依農舍係與農業經營不可分離之立"
+  }
+ ]
+}

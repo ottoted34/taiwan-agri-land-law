@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5595",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:41+08:00",
+   "fetched_at": "2026-10-30T11:22:54+08:00",
    "source_key": "rmis:5595"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080234288號|農地變更特目作太陽光電使用依要點第3點應否鄰接道路及道路之定"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -50,6 +56,14 @@
    "article": null,
    "kind": "extracted",
    "snippet": "108年8月9日府農工字第1080931977號函。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」(簡稱農變要點)第3點第1項第7款規定,農業用地變更使用說明書應對聯外道路規劃與"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "光電發電設施符合設置再生能源設施免請領雜項執照標準規定而免依建築法規定申請雜項執照者,不在此限。」係針對非都市土地申請變更編定為太陽光電發電設施使"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

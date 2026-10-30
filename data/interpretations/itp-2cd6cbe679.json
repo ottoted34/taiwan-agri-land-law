@@ -1,0 +1,71 @@
+{
+ "id": "itp-2cd6cbe679",
+ "doc_class": "interpretation",
+ "docno": "營署都字第018568號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於貴府函為臺北水源特定區計畫（含南、北勢溪部分）（第一次主要計畫通盤檢討）保安保護區領有經濟部臺北水源特定區管理委員會使用執照之房舍，是否可視為農舍乙案，復請查照。",
+ "content": "一、依據行政院農業委員會90年1月30日（90）農輔字第900103037號函轉貴府90年1月10日89北府農務字第482808號函辦理。\n二、按建築物使用執照上登記為住宅使用之房舍，與依都市計畫法臺灣省施行細則第27條、第29條有關保護區及農業區土地使用管制規定申請興建之農舍，其性質及申請要件有別，並不得視為農舍；惟本案領有使用執照之房舍，如有變更使用之需要，且符合臺北水源特定區計畫（含南、北勢溪部分）（第一次主要計畫通盤檢討）保安保護區之使用管制及農業發展條例有關申請興建農舍之規定自得依建築法第73條執行要點規定變更建築物使用執照所載用途為農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:營署都字第018568號|關於貴府函為臺北水源特定區計畫含南北勢溪部分第一次主要計畫通"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "130a27bd0c3104bfac83ed1b983fbb9618694fef0fd475494802af307d877ea4",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "號函辦理。\n二、按建築物使用執照上登記為住宅使用之房舍,與依都市計畫法臺灣省施行細則第27條、第29條有關保護區及農業區土地使用管制規定申請興建之農舍"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "北勢溪部分)(第一次主要計畫通盤檢討)保安保護區之使用管制及農業發展條例有關申請興建農舍之規定自得依建築法第73條執行要點規定變更建築物使用執照所載用途"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "73",
+   "kind": "extracted",
+   "snippet": "安保護區之使用管制及農業發展條例有關申請興建農舍之規定自得依建築法第73條執行要點規定變更建築物使用執照所載用途為農舍。"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-77277664d7",
+ "doc_class": "interpretation",
+ "docno": "營署建字第1040056804號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關於農業用地興建農舍辦法102年7月1日修法前申請並取得建造執照之農舍，現正興建中，但事後申請變更設計，其變更設計適用新舊法規疑義1案，復請查照。",
+ "content": "一、復臺端104年8月24日申請書。\n二、依據本部102年12月2日台內營字第1020812072號令示:「依本辦法(農業用地興建農舍辦法)102年7月3日修正生效前規定辦理並取得建築執照之案件，如有申請變更設計之情形，應回歸建築法相關規定辦理。」查建築法第39條規定:「起造人應依照核定工程圖樣及說明書施工；如於興工前或施工中變更設計時，仍應依照本法申請辦理。但不變更主要構造或位置，不增加高度或面積，不變更建築物設備內容或位置者，得於竣工後，備具竣工平面、立面圖，一次報驗。」另關於領得建築執照之建築物辦理變更設計法令適用疑義，前經本部87年7月2日台(87)內營字第8772186號函(如附件)示在案，至本案農舍辦理變更設計之法令適用事宜，因事涉個案事實認定，應由當地主管建築機關本於權責依法認定核處，請檢具具體資料圖說，逕向當地主管建築機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營署建字第1040056804號|有關於農業用地興建農舍辦法102年7月1日修法前申請並取得建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a9fa52520feabef049966e89b29c4ae92b0b250856839f27762b9c0ff28afa28",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關於農業用地興建農舍辦法102年7月1日修法前申請並取得建造執照之農舍,現正興建中,但事後申請變更設計,"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "39",
+   "kind": "extracted",
+   "snippet": "案件,如有申請變更設計之情形,應回歸建築法相關規定辦理。」查建築法第39條規定:「起造人應依照核定工程圖樣及說明書施工;如於興工前或施工中變更設計時,仍應"
+  }
+ ]
+}

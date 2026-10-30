@@ -1,0 +1,58 @@
+{
+ "id": "itp-ccc9ef7b66",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849065號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "申請集村興建農舍各起造人持有之農業用地與建築基地均屬於同一區塊之山坡地範圍，其法令規定及適用之疑義案，復請查照。",
+ "content": "一、復 貴署96年9月17日營署綜字第0960051205號函。 二、查農業用地興建農舍辦法第8條第1項第1款規定，20戶以上起造人之農舍應集中興建，如依案附件一圖示，應屬個別農地上之農舍興建，而非所謂集中興建情形，故各起造人單獨所有區塊興建農舍，自不符合集村農舍集中興建原則;又該民眾另詢上開辦法同條第1項第4款農舍之基層建築面積應完整連接，不得零散分布之認定乙節，個別農舍與集村農舍所依據之規定不同，其興建之條件亦有差異，如公共設施，本案如擬以集村興建，自應符合農業用地興建農舍辦法第8條等規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849065號|申請集村興建農舍各起造人持有之農業用地與建築基地均屬於同一區"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "25af7162b6ae409ca1a4864794719c7a4b412e91be8f250509b3b28d3639a8e8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "96年9月17日營署綜字第0960051205號函。 二、查農業用地興建農舍辦法第8條第1項第1款規定,20戶以上起造人之農舍應集中興建,如依案附件一圖示,應屬個別農"
+  }
+ ]
+}

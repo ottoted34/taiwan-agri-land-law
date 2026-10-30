@@ -1,0 +1,65 @@
+{
+ "id": "itp-cd399eae75",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950010504號",
+ "date": "2006-03-23",
+ "date_text": "95年3月23日農企字第0950010504號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "048 釋農業用地上建有農業設施申請農業用地作農業使用證明書案",
+ "content": "一、查農業發展條例第8之1條第2項明定「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。但農業設施面積在45平方公尺以下，且屬一層樓之建築者，免申請建築執照。本條例中華民國92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照。」因此，農業設施除符合該項但書規定要件者，得免申請建築執照外，仍需依法申請容許使用及建築執照，始符合法制規定。\n二、有關農業用地上興建有未經申請核准容許使用之農業設施，該農業用地於申請核發農業用地作農業使用證明書，應輔導補辦申請容許使用，並於核發農業用地作農業使用證明書時，一併發給容許使用證明，本會旨揭函釋業有明文，請確實依旨揭函釋及法令規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950010504號|釋農業用地上建有農業設施申請農業用地作農業使用證明書案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "fb22cd067ebf7a11f661f6805ed923ad723492aa70488289f43979a30b7d0284",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地上建有農業設施申請農業用地作農業使用證明書案\n一、查農業發展條例第8之1條第2項明定「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許"
+  }
+ ]
+}

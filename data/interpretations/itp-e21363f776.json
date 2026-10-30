@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4889",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:28+08:00",
+   "fetched_at": "2026-10-30T11:35:40+08:00",
    "source_key": "rmis:4889"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農糧企字第1031004147號|生產綠豆芽所涉之農業設施依申請農業用地作農業設施容許使用審查"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "生產綠豆芽所涉之農業設施,依申請農業用地作農業設施容許使用審查辦法規定,其適用之設施類別及許可使用細目疑義案。\n主旨:有關貴府函詢生產綠豆芽所涉之"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

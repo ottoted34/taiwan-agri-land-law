@@ -1,0 +1,73 @@
+{
+ "id": "itp-3587bd2936",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930144289號",
+ "date": "2004-09-23",
+ "date_text": "93年9月23日農企字第0930144289號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "064 釋農業用地從事非畜牧範疇之動物（寵物）繁殖，不符合農業發展條例第3條第12款農業使用案",
+ "content": "一、查農業發展條例第3條第12款明定「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」所稱「保育」係因農業用地之範圍包括依區域計畫法劃定為各種使用分區內編定之林業用地、……、生態保護用地、國土保安用地等，基於國土保安、生態保育、水土保持等設施興建之需要，而明訂於前開條文中。並非為設置「保育類動物」繁殖場所而訂定，故無論作為保育類或非保育類動物繁殖場所使用，均非屬前開條文所稱「保育」使用之範疇，合先敘明。\n二、又依畜牧法有關畜禽之定義、畜牧學門之領域，蛇類之繁殖管理應非屬「畜牧」之範疇，其使用亦不宜認定為畜牧使用。綜上，農業用地作蛇類繁殖場使用並不符合農業發展條例第3條第12款農業使用之定義。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0930144289號|釋農業用地從事非畜牧範疇之動物寵物繁殖不符合農業發展條例第3"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "bafd7dd0943c96c46eec7661ec17c91648f980beb5277d98edbf40134ad7c87e",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "064 釋農業用地從事非畜牧範疇之動物(寵物)繁殖,不符合農業發展條例第3條第12款農業使用案\n一、查農業發展條例第3條第12款明定「農業使用:指農業用地依"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業設施或農舍使用者。」所稱「保育」係因農業用地之範圍包括依區域計畫法劃定為各種使用分區內編定之林業用地、......、生態保護用地、國土保安用地等,"
+  }
+ ]
+}

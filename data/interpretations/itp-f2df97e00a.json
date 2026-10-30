@@ -1,0 +1,81 @@
+{
+ "id": "itp-f2df97e00a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950143421號",
+ "date": "2006-08-04",
+ "date_text": "95/8/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "007 釋山坡地保育區暫未編定土地申請容許作農業設施(農業資材室)使用之疑義",
+ "content": "依非都市土地使用管制規則第7條規定，山坡地範圍內森林區、山坡地保育區及風景區之土地，在未編定使用地之類別前，適用林業用地之管制。按該規則第6條附表一林業用地得容許作林業使用及其設施，並未包括農業設施-農作產銷設施使用，本案○○○於山坡地保育區暫未編定土地適用林業用地之管制，申請容許作農作產銷設-農業資材室使用，與非都市土地使用管制規則之規定不符，建議本案宜先向地政單位申請補辦編定作業，以明確土地適用之管制規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5002",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:14+08:00",
+   "source_key": "rmis:5002"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950143421號|釋山坡地保育區暫未編定土地申請容許作農業設施農業資材室使用之"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8660d5269a202141a8170f7a36abed99a0e3cd8a16e9b6b46db43a963bd64820",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "區暫未編定土地申請容許作農業設施(農業資材室)使用之疑義\n依非都市土地使用管制規則第7條規定,山坡地範圍內森林區、山坡地保育區及風景區之土地,在未編定使用地之類別前,適"
+  }
+ ]
+}

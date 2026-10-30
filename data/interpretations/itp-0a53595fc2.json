@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3840",
    "serial": null,
-   "fetched_at": "2026-10-30T10:09:07+08:00",
+   "fetched_at": "2026-10-30T11:36:20+08:00",
    "source_key": "rmis:3840"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1030202883號|有關貴局函請本會釋示補辦農舍建築執照之農業用地作農業使用證明"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -50,28 +56,48 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "extracted",
    "snippet": "經營需要而准於農業用地興建之房舍,需依內政部與本會會銜訂定之「農業用地興建農舍辦法」辦理。針對「未經申請建築許可即先行動工興建農舍」,依前揭會議結論,係因各直轄市、"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "意旨,須符合90%之農業使用面積,且經審認符合農業發展條例及農業用地作農業使用認定及核發證明辦法相關規定者,始得核發之,故並非所有申請補辦建築執照案件均得核發農用證明。\n四、依"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "69",
    "kind": "extracted",
    "snippet": "之,故並非所有申請補辦建築執照案件均得核發農用證明。\n四、依農業發展條例第69條第1項規定:「農業用地違反區域計畫法或都市計畫法土地使用管制規定者,應依區域計畫"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "依農業發展條例第69條第1項規定:「農業用地違反區域計畫法或都市計畫法土地使用管制規定者,應依區域計畫法或都市計畫法規定處理。」爰前揭先行動工興建之建"
+  },
+  {
+   "law_id": "D0070030",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "前揭先行動工興建之建築物違反土地及建築物使用之管制部分,得依區域計畫法第21條及第22條,或依目的事業主管機關主管法令之罰則規定辦理;其未經許可擅自建造之建築"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "86",
+   "kind": "extracted",
+   "snippet": "之罰則規定辦理;其未經許可擅自建造之建築物補辦建築執照時,依建築法第86條第1款規定處以建築物造價千分之50以下罰鍰,均有處罰之法據。\n五、綜上,基於國土"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

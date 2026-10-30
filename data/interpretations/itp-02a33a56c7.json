@@ -1,0 +1,64 @@
+{
+ "id": "itp-02a33a56c7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960123527號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "興建農舍應否核發農民資格證明，其法律依據及用意為何，及二所有權人相毗鄰之2筆土地辦理合併後申請興建農舍疑義案，復請查照。",
+ "content": "一、復 台端96年4月2日申請書。\n二、現行「農業發展條例」旨在貫徹「放寬農地農有、落實農地農用」之政策目標，有關農民申請在自有農地興建農舍之資格條件，自應依「農業發展條例」及同條例第18條第5項授權內政部會同本會訂定之「農業用地興建農舍辦法」執行農舍興建業務;又「土地法」修正時，已刪除農地承受人之身分限制，合先說明。\n三、農業發展條例修正後取得之農地，申請興建農舍之資格條件，符合上開辦法第3條第1項規定者，始得興建農舍，無需申請核發農民資格證明;台端等2人修法後分別持有之農地辦理合併為單筆共有農地，權利主體已有更動，其2年時點應以合併登記完成開始計算且面積需0.25公頃以上……等條件始得申請興建農舍。至以共有土地持分部分申請興建農舍者，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960123527號|興建農舍應否核發農民資格證明其法律依據及用意為何及二所有權人"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9289dce1d6a485d42545671fb336cbc8002de8d00dbb560e4c362cc85e472f21",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "案,復請查照。\n一、復 台端96年4月2日申請書。\n二、現行「農業發展條例」旨在貫徹「放寬農地農有、落實農地農用」之政策目標,有關農民申請在自有農地興建農舍"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例」及同條例第18條第5項授權內政部會同本會訂定之「農業用地興建農舍辦法」執行農舍興建業務;又「土地法」修正時,已刪除農地承受人之身分限制,合先說明。\n三"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "itp-a18c5b3278",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941849682號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關已興建農舍供農業生產使用之農業用地，部分已辦理移轉，擬以農業發展條例修正施行後取得之農地補足並辦理增建（補照）疑義案，復請查照。",
+ "content": "一、復 貴府94年10月19日北府農牧字第0940715327號函。\n二、有關農舍申請增建（補照）乙節，依據農業用地興建農舍相關規定，農業用地申請興建農舍需以「該宗」農地申請之;此外，因內政部業於92年10月17日廢止十公里範圍內耕地合併計算建築面積，有關原提供申請興建農舍之配合耕地若已移轉，不宜以新取得不相毗鄰農地抵充不足並辦理增建。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941849682號|有關已興建農舍供農業生產使用之農業用地部分已辦理移轉擬以農業"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8978355175f7a74266aa6e600cddeea596eba56d3e7eeeb0f2f23b240aa94894",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關已興建農舍供農業生產使用之農業用地,部分已辦理移轉,擬以農業發展條例修正施行後取得之農地補足並辦理增建(補照)疑義案,復請查照。\n一、復 貴府94年"
+  }
+ ]
+}

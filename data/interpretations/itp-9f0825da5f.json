@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5446",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:31+08:00",
+   "fetched_at": "2026-10-30T11:27:43+08:00",
    "source_key": "rmis:5446"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1050206094號|擋土牆得否認定為隔離設施疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -51,5 +57,7 @@
    "kind": "extracted",
    "snippet": "業社申請作廢棄物資源回收貯存場及其附屬設施興辦事業計畫案擬依「農業主管機關同意農業用地變更使用審查作業要點」第11點第1項規定增列隔離設施項目擋土牆案,復如說明,請查照。\n說明:\n一、復貴"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

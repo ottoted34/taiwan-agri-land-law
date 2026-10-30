@@ -1,0 +1,58 @@
+{
+ "id": "itp-5850b0e229",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848717號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "更正本會96年7月2日農水保字第0960132692號函（諒達）部分文字如說明，請查照。",
+ "content": "集村興建農舍施工期間，未取得農舍使用執照前，變更起造人之處理原則，經本會討論結果更正說明二（二）（三）（四）部分文字如后：\n一、（二）第六行後段「…。上開案件仍應符合「農業用地興建農舍辦法」第8條第1款規定，如水土保持計畫申請中或尚未完工者，應辦理水土保持計畫變更」，更正為「…，惟仍應符合「農業用地興建農舍辦法」第8條第1款規定。上開案件如水土保持計畫申請中或尚未完工者，應辦理水土保持計畫變更。」。\n二、（三）第一行「…農舍面積…」更正為「…農舍建築基地面積…」;倒數第四字「得」更正為「逕」;第二行「…資格條件：」更正為「…資格條件符合下列規定者：」;第六行倒數第四字「其」字前增加「則」一字。\n三、（四）第一行「…農舍面積…」更正為「…農舍建築基地面積…」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848717號|更正本會96年7月2日農水保字第0960132692號函諒達"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "224e656b10ae80489d9f6a52111c42110f4ea334dbe711184cc1970a7fc39312",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "分文字如后:\n一、(二)第六行後段「...。上開案件仍應符合「農業用地興建農舍辦法」第8條第1款規定,如水土保持計畫申請中或尚未完工者,應辦理水土保持計畫變更」,更正為「"
+  }
+ ]
+}

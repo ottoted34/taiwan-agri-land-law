@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6038",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:32+08:00",
+   "fetched_at": "2026-10-30T11:15:45+08:00",
    "source_key": "rmis:6038"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1132620498號|有關非都市土地容許使用及興辦事業計畫暨農業用地變更審查疑義案"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "1ec9921c015eaef30b980eaf08e1401b781e5310dfa4415882c0d8ee5a623735",
  "topics": [
@@ -45,10 +61,16 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "及興辦事業計畫暨農業用地變更審查疑義案,復請查照。\n一、依據「農業發展條例」(下稱本條例)第3條第10款規定略以,農業用地:指非都市土地或都市土地農業區、保"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "使用之土地:(一)供農作、森林、養殖、畜牧及保育使用者。復依「非都市土地使用管制規則」第6條附表1規定,農牧用地倘已核准作公用事業設施在案者,則屬依法得作非農業使用性質之容"
   },
   {
    "law_id": "RMIS-3008",
@@ -56,5 +78,7 @@
    "kind": "extracted",
    "snippet": "第10款所稱農業用地之使用性質,爰此倘周邊土地變更使用,應無「農業主管機關同意農業用地變更使用審查作業要點」第5點所稱,申請變更範圍內夾雜未申請變更之農業用地且妨礙其農業經營之情形。\n二、"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

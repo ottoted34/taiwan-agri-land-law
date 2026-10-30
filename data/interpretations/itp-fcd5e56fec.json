@@ -1,0 +1,81 @@
+{
+ "id": "itp-fcd5e56fec",
+ "doc_class": "interpretation",
+ "docno": "農林字第900118858號",
+ "date": "2001-05-03",
+ "date_text": "90/5/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋山坡地範圍內農業用地變更使用回饋金收取問題案",
+ "content": "查山坡地範圍內，各種使用分區土地，申請變更編定，宜依「山坡地開發利用回饋金繳交辯法」收取回饋金，惟農業用地回饋金之收取，均依「農業用地變更回饋金撥繳及分配利用辦法」之相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5143",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:50:21+08:00",
+   "source_key": "rmis:5143"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農林字第900118858號|釋山坡地範圍內農業用地變更使用回饋金收取問題案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "faed2422c33fefd36a91770dc4a97901377fa30f539b05a2d4559b992bd75763",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "利用回饋金繳交辯法」收取回饋金,惟農業用地回饋金之收取,均依「農業用地變更回饋金撥繳及分配利用辦法」之相關規定辦理。"
+  }
+ ]
+}

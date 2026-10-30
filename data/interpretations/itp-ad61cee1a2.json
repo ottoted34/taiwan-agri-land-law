@@ -1,0 +1,64 @@
+{
+ "id": "itp-ad61cee1a2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第0991825824號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端函詢持分農地取得2年始得興建相關規定案，復如說明，請 查照。",
+ "content": "1.復 台端99年9月15日申請書。\n2.依農業發展條例第18條第1項規定申請興建農舍之申請人應為農民，其資格應符合農業用地興建農舍辦法第3條各款規定，先予敘明。\n3.次依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成登記之時點為基準，本案請依農業用地興建農舍辦法規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第0991825824號|有關台端函詢持分農地取得2年始得興建相關規定案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "27b1474855c261a147454b50cb0bdfe9cc77859e3db31e0ff5ec50f093188bad",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "明,請 查照。\n1.復 台端99年9月15日申請書。\n2.依農業發展條例第18條第1項規定申請興建農舍之申請人應為農民,其資格應符合農業用地興建農舍辦法第3條各"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "第18條第1項規定申請興建農舍之申請人應為農民,其資格應符合農業用地興建農舍辦法第3條各款規定,先予敘明。\n3.次依土地法第43條規定:「依本法所為之登記,有絕對效力"
+  }
+ ]
+}

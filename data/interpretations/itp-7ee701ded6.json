@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6086",
    "serial": null,
-   "fetched_at": "2026-10-30T09:47:05+08:00",
+   "fetched_at": "2026-10-30T11:14:18+08:00",
    "source_key": "rmis:6086"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1152604332號|有關○○○申請籌設路外停車場涉及農業用地變更回饋金應繳交金額"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": "3",
    "kind": "extracted",
    "snippet": "農業用地變更回饋金應繳交金額之疑義案,詳如說明,請查照。\n查「農業用地變更回饋金撥繳及分配利用辦法」第3條第1項第2款規定,開發供汽車駕駛訓練班、汽車運輸業停車場(站)、客(貨)運站及附"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

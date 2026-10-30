@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5605",
    "serial": null,
-   "fetched_at": "2026-10-30T09:53:13+08:00",
+   "fetched_at": "2026-10-30T11:20:26+08:00",
    "source_key": "rmis:5605"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1090722098號|復○○公司鹽業用地不在農業用地之適用範圍無涉回饋金之繳交"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,34 +46,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "law_id": "RMIS-2008",
+   "law_id": "M0020018",
    "article": null,
    "kind": "extracted",
    "snippet": "○等多筆一般農業區鹽業用地申請設置太陽能光電廠案,是否應依據「農業用地變更回饋金撥繳及分配利用辦法」繳交農業用地變更回饋金之疑義案,復請查照。\n說明:\n一、復貴公司109年8月3日"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "12",
    "kind": "extracted",
    "snippet": "司109年8月3日(109)星力字第0014號函。\n二、依據農業發展條例第12條第1項規定略以,農業用地之變更,應視其事業性質,繳交回饋金,專供農業發展及農民福"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "回饋金辦法),明定回饋金之計算基準及繳交作業程序等規定。又查農業發展條例第3條第10款及農業發展條例施行細則第2條規定,鹽業用地非屬農業用地範疇,故鹽業用地之"
   },
   {
-   "law_id": "RMIS-2009",
+   "law_id": "M0020002",
    "article": "2",
    "kind": "extracted",
    "snippet": "算基準及繳交作業程序等規定。又查農業發展條例第3條第10款及農業發展條例施行細則第2條規定,鹽業用地非屬農業用地範疇,故鹽業用地之變更使用無農變回饋金辦法之適用。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

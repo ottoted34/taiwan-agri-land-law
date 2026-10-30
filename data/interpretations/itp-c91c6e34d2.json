@@ -1,0 +1,64 @@
+{
+ "id": "itp-c91c6e34d2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050721867號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函詢○○○擬於仁愛鄉○○○地號(原貴府來函○○○地號係為誤植)申請興建農舍農民資格一案審查疑義，復請查照。",
+ "content": "一、依據行政院農業委員會交下貴府105年7月20日府農務字第1050141835號函辦理。\n二、旨案宜請釐清既有建物之性質，倘業依其他規定取得容許使用、相關建造執照或使用執照者，尚不得轉作農舍使用，另「申請農業用地作農業設施容許使用審查辦法」與「農業用地興建農舍辦法(以下簡稱本辦法)」係屬不同之法令規定，其目的及使用性質並不相同，爰已申請農業設施者無法逕轉作農舍使用。\n三、另請確認本案是否適用中央法規標準法第18條前段規定：「各機關受理人民聲請許可案件適用法規時，除依其性質應適用行為時之法規外，如在處理程序終結前，據以准許之法規有變更者，適用新法規。但舊法規有利於當事人而新法規未廢除或禁止所聲請之事項者，適用舊法規。」，倘陳情人確於104年9月4日本辦法修正前業提出農舍建築執照補發之申請且未經核駁，惟因當時該申請用地漏登使用地類別致無法辦理核發作業之情形，建請依貴府規定並參酌上開原則及個案事實予以審認辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1050721867號|有關貴府函詢○○○擬於仁愛鄉○○○地號原貴府來函○○○地號係"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a4481eac5adf3cc66b1c618310b18a6a1dbe9da8a111f05721372f05ea82f4b7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "得容許使用、相關建造執照或使用執照者,尚不得轉作農舍使用,另「申請農業用地作農業設施容許使用審查辦法」與「農業用地興建農舍辦法(以下簡稱本辦法)」係屬不同之法令規定,其目的及使用性質"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "轉作農舍使用,另「申請農業用地作農業設施容許使用審查辦法」與「農業用地興建農舍辦法(以下簡稱本辦法)」係屬不同之法令規定,其目的及使用性質並不相同,爰已申請農業設"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-e64922f5b4",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1011812396號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴府函為夫妻雙方約定共有財產制或為適用聯合財產制之夫妻，如於婚姻存續期間，以農業發展條例修法前取得之農業用地贈與對方，其土地取得時點之認定為何疑義案，復請查照。",
+ "content": "一、復貴府101年5月22日府農輔字第1010064167號函。\n二、有關土地取得時點，本局於101年3月6日邀請相關單位研商申請興建農舍土地取得時點之認定，確定建議原則為除民法第759條所定情形外，以土地登記簿所有權部之登記日期認定之，本局刻正辦理解釋令發布之行政作業事宜，先予敘明。\n三、民法中有關夫妻財產制已歷經數次修法，一些權利義務已非單純就現行條文所能解釋，尚涉及法律變動前之信賴保護等疑義。本案因事實未臻明確，且夫妻贈與行為是否因不同財產制而生所有權之異動等，均涉及民法之規定，係屬法務部權責，請貴府依中央行政機關法制作業應注意事項第18點規定，將相關事實釐清後逕向法務部請釋或報本局轉該部解釋。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1011812396號|有關貴府函為夫妻雙方約定共有財產制或為適用聯合財產制之夫妻如"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1ae13594b8228e48d0983af9fdeb6b426b496a2eb19533739c2e3f213dfa8bd8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "約定共有財產制或為適用聯合財產制之夫妻,如於婚姻存續期間,以農業發展條例修法前取得之農業用地贈與對方,其土地取得時點之認定為何疑義案,復請查照。\n一、復"
+  }
+ ]
+}

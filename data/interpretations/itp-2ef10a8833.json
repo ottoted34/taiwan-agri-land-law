@@ -1,0 +1,61 @@
+{
+ "id": "itp-2ef10a8833",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080715116號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴市申請興建農舍之申請人資格條件審查疑義案，復如說明，請查照。",
+ "content": "一、復貴局108年5月23日中市農地字第180017256號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、至農業用地上存在未經申請興建之建築物，依建築法規定認屬為違章建築，當依該法及其法令處理；又本會106年2月8日農水保字第1051803352號函釋針對此類建築物亦有處理原則在案，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080715116號|有關貴市申請興建農舍之申請人資格條件審查疑義案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9ac96bb42d1fc62f2a0831e335a5fb02694df88ce60193a615bb6e286c48afe5",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍,先予敘明。\n三、至農業用地上存在未經申請興建之建築物,依建築法規定認屬為違章建築,當依該法及其法令處理;又本會106年2月8日農水保字第105"
+  }
+ ]
+}

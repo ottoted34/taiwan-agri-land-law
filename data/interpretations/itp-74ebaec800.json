@@ -1,0 +1,59 @@
+{
+ "id": "itp-74ebaec800",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0981842825號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴市文山區○○○、○○○、○○○地號已申請農舍，擬分割申請「文山區指南里、老泉里部分保護區為可申請開發許可案」疑義案，復請查照。",
+ "content": "1.復 貴府98年5月22日府都綜字第09832730000號函。 2.本案文山區○○○、○○○、○○○地號土地，擬依上開都市計畫之細部計畫，申請開發許可，倘業經都市計畫使用分區變更為非農業用地後，已非屬農業用地興建農舍辦法之適用範圍，得否再申請建築，應請洽都市計畫主管機關。至於屬農業區或保護區範圍之農舍，依本會95年9月7日農授水保字第0951851943號函之規定，對於興建有農舍之非耕地分割後每一筆（支地號），應依規定辦理註記列管外，並不得再申請建築。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0981842825號|有關貴市文山區○○○○○○○○○地號已申請農舍擬分割申請文山"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "991c1c7d8b71d702a665165e795f37cb263fc7ac083ca12ca29db2509f382c0b",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請開發許可,倘業經都市計畫使用分區變更為非農業用地後,已非屬農業用地興建農舍辦法之適用範圍,得否再申請建築,應請洽都市計畫主管機關。至於屬農業區或保護區範圍之農"
+  }
+ ]
+}

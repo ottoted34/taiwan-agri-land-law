@@ -1,0 +1,64 @@
+{
+ "id": "itp-133c93d215",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031821083號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關台端陳為農業發展條例第18條第5項規定疑義及農業用地興建農舍辦法法源依據案，詳如說明，請查照。",
+ "content": "一、依據行政院農業委員會103年9月4日農法字第1030726714號函、法務部103年9月9日法律決字第10300636240號移文單暨內政部營建署103年9月12日營署建管字第1030059759號函辦理。\n二、查旨案業經本局103年9月4日水保農字第1030230192號函回覆台端有案。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1031821083號|有關台端陳為農業發展條例第18條第5項規定疑義及農業用地興建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "45973595a28d775a1cbfb3ebf1b574c545d618bfb0b90887e6edc323bf726d46",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關台端陳為農業發展條例第18條第5項規定疑義及農業用地興建農舍辦法法源依據案,詳如說明,請查照。\n一、依據行政"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關台端陳為農業發展條例第18條第5項規定疑義及農業用地興建農舍辦法法源依據案,詳如說明,請查照。\n一、依據行政院農業委員會103年9月4日農法字第"
+  }
+ ]
+}

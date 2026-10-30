@@ -1,0 +1,72 @@
+{
+ "id": "itp-e239e716ef",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950152506號",
+ "date": "2006-09-19",
+ "date_text": "95/9/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "020 釋與農業經營不可分離供農路使用之土地案",
+ "content": "查農業發展條例所規範之農業用地係包括「與農業經營不可分離、供『農路』使用之土地」，而公路法所稱之「鄉道：指聯絡鄉（鎮、市）及鄉（鎮、市）與村、里、原住民部落間之道路。」二者之法令依據不同，其功能性質亦有所區隔。倘因道路之使用功能得作農業運輸使用，即認定該道路之土地為農業用地，而不排除其他專業法規之規定，恐有違該條例之立法意旨，故有關農業用地之範疇仍應排除公路法所規範之公路，始符合法制規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5511",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:57+08:00",
+   "source_key": "rmis:5511"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0950152506號|釋與農業經營不可分離供農路使用之土地案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e4e1c12fa0bdd8bf45a585bcc6fcad7259ac6d0bfbcb9f1435bc2d774b8f73c1",
+ "topics": [
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "020 釋與農業經營不可分離供農路使用之土地案\n查農業發展條例所規範之農業用地係包括「與農業經營不可分離、供『農路』使用之土地」,而公路法所稱"
+  }
+ ]
+}

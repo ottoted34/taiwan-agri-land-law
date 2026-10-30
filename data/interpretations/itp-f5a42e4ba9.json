@@ -1,0 +1,75 @@
+{
+ "id": "itp-f5a42e4ba9",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080716677號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴事務所函詢是否可同時申請興建農舍農民資格及私設道路一案，復如說明，請查照。",
+ "content": "一、復貴事務所108 年6 月10 日宜○○○○○字第1080610 號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營 農業者於該農地上興建具有放置農機具兼具居住之需求，且 於農業用地興建農舍係為許可之行為，並非擁有農業用地即 可興建農舍，先予敘明。\n三、依農業發展條例(以下簡稱本條例)第18條第2項及農業用地 興建農舍辦法第2條第1項第5款規定，申請興建農舍之農業 用地應確供農業使用，復依本條例第3條第1項第12款規定略 以：「農業使用：指農業用地依法實際供農作、森林、養殖、 畜牧、保育及設置相關之農業設施或農舍等使用者。．．．」， 又申請興建農舍該筆農業用地應以作農業使用為要件，私設 通路雖屬非都市土地使用管制規則所定農業用地容許使用之 項目之一，惟私設通路非屬農業設施之範圍，不符合作農業 使用之認定，併予敘明。\n四、至旨案冬山鄉○○○地號甲種建築用地，與現有道路間 尚有○○○地號之交通用地應可作為出入使用，且冬山鄉○○○、○○○及○○○等3筆地號土地皆為申請人所持有，爰冬山鄉○○○地號是否仍需申請私設通路，不無疑義，宜請先逕向土地所在地之直轄市、縣(市)政府建築主管單位洽詢。\n五、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，倘有任何疑義，宜請洽所在地直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080716677號|有關貴事務所函詢是否可同時申請興建農舍農民資格及私設道路一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f79b2eee7972e5f465abd7d10cab118ab8dc4a31bf64cccf8033d65f17bb397a",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "可之行為,並非擁有農業用地即 可興建農舍,先予敘明。\n三、依農業發展條例(以下簡稱本條例)第18條第2項及農業用地 興建農舍辦法第2條第1項第5款規定,"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農業發展條例(以下簡稱本條例)第18條第2項及農業用地 興建農舍辦法第2條第1項第5款規定,申請興建農舍之農業 用地應確供農業使用,復依本條例第3條第1項"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請興建農舍該筆農業用地應以作農業使用為要件,私設 通路雖屬非都市土地使用管制規則所定農業用地容許使用之 項目之一,惟私設通路非屬農業設施之範圍,不符合作農業 使"
+  }
+ ]
+}

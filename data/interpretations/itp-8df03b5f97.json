@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3241",
    "serial": null,
-   "fetched_at": "2026-10-30T10:00:19+08:00",
+   "fetched_at": "2026-10-30T11:27:31+08:00",
    "source_key": "rmis:3241"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051803995號|有關農業用地興建農舍辦法第9條第2項第5款農舍放流水規定審查"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -39,16 +45,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "9",
    "kind": "extracted",
    "snippet": "有關「農業用地興建農舍辦法」第9條第2項第5款農舍放流水規定審查疑義案,請查照。\n一、復貴府105年4月8日屏府農"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

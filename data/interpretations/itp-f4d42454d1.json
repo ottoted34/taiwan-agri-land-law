@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3706",
    "serial": null,
-   "fetched_at": "2026-10-30T10:12:51+08:00",
+   "fetched_at": "2026-10-30T11:40:05+08:00",
    "source_key": "rmis:3706"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:營授辦城字第1023580655號|有關都市計畫保護區土地依農業用地興建農舍辦法興建農舍疑義一案"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,7 +37,7 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": null,
     "amended_on": "2015-09-04",
@@ -40,7 +46,7 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "5",
     "amended_on": "2015-09-04",
@@ -60,16 +66,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "5",
    "kind": "extracted",
    "snippet": "日農授水保字第1020224984號函(副本諒悉)。\n二、按農業用地興建農舍辦法第5條略以「申請興建農舍之農業用地,有下列情形之一者,不得依本辦法申請興建農舍:..."
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "部101年7月23日內授營中字第1010807119號函係就都市計畫法臺灣省施行細則第27條第1項第15款(現行條文第16款)規定立法意旨予以函釋並於"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,52 @@
+{
+ "id": "itp-df52439823",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041808629號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍違規改建民宿販售」相關事宜",
+ "content": "農業用地申請興建農舍之審查，以及興建後之後續稽查管理，係屬直轄市、縣(市)政府之職掌，台端所提農舍違規改建民宿販售一事，因台端所附信件內容無法讀取，爰本會無從協助，如有事證，建請逕向所在地花蓮縣政府反映處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041808629號|農舍違規改建民宿販售相關事宜"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0548dcb4fd4440d9a99037511ab17f6cde3ee66f2903bb7d6919522962478757",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "itp-dda72db36b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961848257號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府執行集村興建農舍業務相關疑義案，復請查照。",
+ "content": "1.依據本會96年3月6日研商「農舍承受人資格、無自用農舍查核、共有農地申請農舍等案處理原則」會議決議辦理（如附件），兼復 貴府96年12月28日府農務字第09502473790號函。\n2.貴府已核准取得建造及使用執照之集村興建農舍個案，如經 貴府認定已違規使用，請本於權責依法核處。至有關建築執照之廢止，建築法尚無規定，應依行政程序法有關規定辦理。(內政部營建署96年3月2日營署綜字第0961848043號函)。\n3.依「集村興建農舍獎勵及協助辦法」、「集村興建農舍與公共設施申請補助程序及標準作業要點」等有關集村興建農舍及公共設施之補助，係為改善農村景觀及設置完善公共設施，以提昇居民生活品質。本集村興建農舍已依法興建完成，農舍與公共設施，均依相關規定設置完成，並無違反補助項目規定;至於涉及違反區域計畫法及都市計畫法相關規定者，應依其相關規定查處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961848257號|貴府執行集村興建農舍業務相關疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "1444b7d5515cdc6fba95f6b8637779a81585847c41ddc5d73f6d3e516bfe1be6",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "府認定已違規使用,請本於權責依法核處。至有關建築執照之廢止,建築法尚無規定,應依行政程序法有關規定辦理。(內政部營建署96年3月2日營署綜字第09"
+  },
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "本於權責依法核處。至有關建築執照之廢止,建築法尚無規定,應依行政程序法有關規定辦理。(內政部營建署96年3月2日營署綜字第0961848043號函)。"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "96年3月2日營署綜字第0961848043號函)。\n3.依「集村興建農舍獎勵及協助辦法」、「集村興建農舍與公共設施申請補助程序及標準作業要點」等有關集村興建農舍及公共設"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "施,均依相關規定設置完成,並無違反補助項目規定;至於涉及違反區域計畫法及都市計畫法相關規定者,應依其相關規定查處。"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "規定設置完成,並無違反補助項目規定;至於涉及違反區域計畫法及都市計畫法相關規定者,應依其相關規定查處。"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-7da1eff28c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940130614號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關特定農業區農牧用地挖取土石方再載運營建工程賸餘廢棄土填造後，改申請容許作畜牧設施使用之農地回填疑義案。",
+ "content": "主旨：有關○○○、○○○2人將特定農業區農牧用地挖取土石方再載運營建工程賸餘廢棄土填造後，改申請容許作畜牧設施使用之農地回填疑義乙案，復請查照。\n說明：\n一、復貴府94年6月8日府農漁字第0940154591號函。\n二、本案於挖取土石方後再載運營建廢棄土填造之違法處罰，與審認農地上施設之農業設施得否容許使用，兩者非同一行為且其性質亦不相同，當無一事不二罰原則之適用。而農業用地得否同意作畜牧設施容許使用，應依農業用地容許作農業設施使用審查辦法等相關規定辦理；如申請人所申請之土地有違反相關法令之情形者，自應依上開辦法第8條第9款規定，不予同意或通知限期補正。\n三、另本案遭挖取土石方後再載運營建工程剩餘廢棄土填造乙節，為確保農業生產環境之完整，避免地下水或土壤污染，本會已多次函釋農地填土之來源應為適合種植農作物之土壤，不得為砂、石、磚、瓦、混凝土塊、營建賸餘土石方或其他有害物質等，故本案涉及行為人及土地所有權人清運廢棄土並依回填計畫恢復原狀使用方面，請貴府依上開釋示儘速處理。。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940130614號|有關特定農業區農牧用地挖取土石方再載運營建工程賸餘廢棄土填造"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "657386de8cf4bf9ea487f9dff316c429e038f386926a68e739baf2bd0f04d577",
+ "topics": [
+  "landfill",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "不二罰原則之適用。而農業用地得否同意作畜牧設施容許使用,應依農業用地容許作農業設施使用審查辦法等相關規定辦理;如申請人所申請之土地有違反相關法令之情形者,自應依上開辦法第8條"
+  }
+ ]
+}

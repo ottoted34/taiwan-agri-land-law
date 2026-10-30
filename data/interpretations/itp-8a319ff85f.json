@@ -18,17 +18,33 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4523",
    "serial": null,
-   "fetched_at": "2026-10-30T09:57:53+08:00",
+   "fetched_at": "2026-10-30T11:25:06+08:00",
    "source_key": "rmis:4523"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農企字第1070246454號|有關貴府農業用地臨接供公眾使用道路申請興建農舍認定案復如說明"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2022-11-01",
+    "history": "中華民國一百十一年十一月一日內政部台內營字第 1110817659 號令、行政院農業委員會農企字第 1110724686 號令會銜修正發布第 2 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "6fd00187a1f30e38d18ed90de6361e622bd217c6da0723076ba4096059ed3eb5",
  "topics": [
@@ -39,22 +55,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "7年11月5日府農管字第1070278792號函。\n二、依據農業發展條例(以下簡稱本條例)第18條規定,興建農舍應不影響農業生產環境及農村發展,其農業用"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "2",
    "kind": "extracted",
    "snippet": "應不影響農業生產環境及農村發展,其農業用地應確供農業使用。查農業用地興建農舍辦法第2條第2項規定:「前項第5款規定確供農業使用與不影響農業生產環境及農村發展之認定,由"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

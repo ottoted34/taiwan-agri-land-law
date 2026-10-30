@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4531",
    "serial": null,
-   "fetched_at": "2026-10-30T09:58:13+08:00",
+   "fetched_at": "2026-10-30T11:25:25+08:00",
    "source_key": "rmis:4531"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農輔字第1070224254號|有關貴局函詢大溪水資源回收中心為連接周邊月眉濕地擬於貴轄大溪"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,22 +48,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "9",
    "kind": "extracted",
    "snippet": "許可之行為,並非擁有農業用地即可興建農舍,合先敘明。\n三、查農業用地興建農舍辦法第9條第2項第3款規定略以:「...扣除農舍用地面積後,供農業生產使用部分之農業經營用"
   },
   {
-   "law_id": "RMIS-2002",
+   "law_id": "M0090014",
    "article": null,
    "kind": "extracted",
    "snippet": "農業設施,以符合農業用地得興建農舍之立法意旨有案。\n四、復查休閒農業輔導管理辦法於107年5月18日修正發布,並將上開函釋內容納入該辦法第22條第3項予以明定:"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

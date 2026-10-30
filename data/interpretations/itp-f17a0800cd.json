@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6028",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:41+08:00",
+   "fetched_at": "2026-10-30T11:16:54+08:00",
    "source_key": "rmis:6028"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1132604957號|有關貴府函詢養殖漁業生產區範圍內之農業用地申請再生能源發電設"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -45,10 +51,18 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "施(風力發電)之容許使用疑義案,復如說明,請查照。\n一、依據非都市土地使用管制規則(以下簡稱管制規則)第6條附表1「各種使用地容許使用項目及許可使用細目表」之規定"
+  },
+  {
    "law_id": "RMIS-3008",
    "article": null,
    "kind": "extracted",
    "snippet": "施點狀使用,點狀使用面積不得超過660平方公尺。\n二、又依據農業主管機關同意農業用地變更使用審查作業要點(以下簡稱變更要點)第7點規定,經政府核定之養殖漁業生產區範圍內之農業用地,除符"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,70 @@
+{
+ "id": "itp-243e4d7e27",
+ "doc_class": "interpretation",
+ "docno": "農輔字第0920173770號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴府函為因繼承取得之農業用地上已有合法農舍（89年1月4日後發生之繼承），農舍拆除重建，是否應依農業用地興建農舍辦法第3條規定辦理申請人資格審查疑義案，復如說明，請查照。",
+ "content": "一、復貴府92年12月9日府農務字第0920324022號函。\n二、依建築法規定，建築物之拆除重建係屬新建；而內政部營建署業以92年5月26日營署綜字第0920028672號書函釋，農業發展條例修正後繼承取得之農地及其農舍申請拆除重建，需符合農業用地最小面積0.25公頃之規定，故對於拆除重建之申請人，仍應依相關規定辦理資格審查。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農輔字第0920173770號|貴府函為因繼承取得之農業用地上已有合法農舍89年1月4日後發"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "95f50f9088c4118f6bbbd75b6d7ab87bf1e2a99683a241c54b949755fea0fee8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "法農舍(89年1月4日後發生之繼承),農舍拆除重建,是否應依農業用地興建農舍辦法第3條規定辦理申請人資格審查疑義案,復如說明,請查照。\n一、復貴府92年12月9日府農"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "92年12月9日府農務字第0920324022號函。\n二、依建築法規定,建築物之拆除重建係屬新建;而內政部營建署業以92年5月26日營署綜字第09"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業以92年5月26日營署綜字第0920028672號書函釋,農業發展條例修正後繼承取得之農地及其農舍申請拆除重建,需符合農業用地最小面積0.25公頃之規"
+  }
+ ]
+}

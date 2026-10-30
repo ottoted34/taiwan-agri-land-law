@@ -1,0 +1,56 @@
+{
+ "id": "itp-46c8f168da",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第0930124396號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋修正農業用地容許作農業設施使用審查辦法第八條第一項第七款規定案",
+ "content": "一、查水權登記係依據「水利法」規定辦理，該法第四十二條第一項規定，下列用水免為水權登記：（一）家用及牲畜飲料。（二）在私有土地內挖塘。（三）在私有土地內鑿井汲水，其出水量每分鐘在一百公升以下者。（四）用人力、獸力或其他簡易方法引水。同條文第二項亦明定：前項各款用水，如足以防害公共水利事業或他人用水之利益時，主管機關得酌予限制，或令其辦理登記。是以，水利單位對於水權登記係依前開辦法作一般性管理，其中有關養豬使用之水權係以牲畜飲料方式認定，故無需特別載明出具水權證明，至水禽之飼養水池，因非僅作飲料使用，尚有作為生產飼養之功能，故予以明定須取得合法用水。\n二、查「農業用地容許作農業設施省用審查辦法」第八條第一項第七款規定在執行水利法規定事項，有關貴府建請修正允許九十二年十二月十五日上開辦法發布施行前既有之畜舍水池，及發布施行後飼養量二萬隻以下者免付水權登記證一節，在「水利法」未有作修正前實有不宜，以免逾越法律規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授糧字第0930124396號|釋修正農業用地容許作農業設施使用審查辦法第八條第一項第七款規"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "93f9a78e42b2389c7164d1686e9804f6b2625a8433d82d934e91a02d4a48a1db",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "釋修正農業用地容許作農業設施使用審查辦法第八條第一項第七款規定案\n一、查水權登記係依據「水利法」規定辦理,該法第四十二條第一項"
+  }
+ ]
+}

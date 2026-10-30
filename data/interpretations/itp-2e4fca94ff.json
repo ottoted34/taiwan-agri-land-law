@@ -1,0 +1,56 @@
+{
+ "id": "itp-2e4fca94ff",
+ "doc_class": "interpretation",
+ "docno": "台內地字第0920005408號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於台端函詢坐落苗栗縣大湖鄉○○○地號等土地，擬依農業發展條例第16條第1項第1款辦理合併分割乙案，復請查照，請查照。",
+ "content": "一、依據行政院農業委員會92年3月24日農企移字第0920116244號移文單移來台端92年3月18日陳情書辦理。 二、關於台端函詢坐落苗栗縣大湖鄉○○○地號等土地，擬依農業發展條例第16條第1項第1款有關同一所有權人之二宗以上毗鄰耕地辦理合併分割，分割後該等地是否屬新購農地疑義乙案，按「…；同一所有權人之二宗以上毗鄰耕地，土地宗數未增加者，得為分割合併。」為農業發展條例第16條第1項第1款末段所明定，是以同一所有權人之二宗以上毗鄰耕地，因界址曲折，需調整以利使用，而擬予重行合併、分割，顯未涉及權利之移轉，自非屬新購農地。 三、檢送人民陳情案件處理情形調查表乙份，請惠予填答後寄還本部。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:台內地字第0920005408號|關於台端函詢坐落苗栗縣大湖鄉○○○地號等土地擬依農業發展條例"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "03e771adf4ac16c31c3812b5c0611050e7e312e1e94ed0eadd4224182d3a0a6d",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "關於台端函詢坐落苗栗縣大湖鄉○○○地號等土地,擬依農業發展條例第16條第1項第1款辦理合併分割乙案,復請查照,請查照。\n一、依據行政院農業委員會92年"
+  }
+ ]
+}

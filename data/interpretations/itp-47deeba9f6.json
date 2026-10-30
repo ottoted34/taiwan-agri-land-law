@@ -1,0 +1,64 @@
+{
+ "id": "itp-47deeba9f6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0960135692號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修法前取得之農業用地，於修法後辦理農地信託登記，其申請興建農舍疑義案，復請查照。",
+ "content": "一、復 台端96年6月27日申請書。\n二、按土地登記規則第93條規定：「土地總登記後，土地所有權移轉、分割、合併、增減或消滅時，應為變更登記。」;同規則第128條規定：「信託財產依第125條辦理信託登記後，於信託關係消減時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」，準此，由委託人依信託法規定將財產權（農地）移轉或受託人管理，須辦理權利變更登記;信託關係消滅，亦應申請塗銷信託登記觀之，信託關係成立後，信託財產（農地）經由變更登記，即發生所有權移轉之法律效果。至信託法第35條規定：「受託人除有左列各款情形之一外，不得將信託財產轉為自有財產，或於該信託財產上設定或取得權利……」係信託法就信託財產之特殊所為之規定，然並不改變因信託關係而生所有權移轉之事實。\n三、本案台端82年因繼承取得之農地，於農業發展條例修正公布生效日（89年1月28日）後，因與建商合建，而必需將土地交付銀行信託，依前揭規定，台端已將系爭地號土地所有權移轉予受託人(銀行)，且辦畢農地信託登記，應認所有權已移轉，申請興建農舍應依「農業用地興建農舍辦法」第3條規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0960135692號|農業發展條例修法前取得之農業用地於修法後辦理農地信託登記其申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "f752af0676479dcdbec6babd64bdb19e265d29f8ac7f2d0871de1d4babfc7ea8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修法前取得之農業用地,於修法後辦理農地信託登記,其申請興建農舍疑義案,復請查照。"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "行),且辦畢農地信託登記,應認所有權已移轉,申請興建農舍應依「農業用地興建農舍辦法」第3條規定辦理。"
+  }
+ ]
+}

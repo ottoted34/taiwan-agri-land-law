@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5989",
    "serial": null,
-   "fetched_at": "2026-10-30T09:49:58+08:00",
+   "fetched_at": "2026-10-30T11:17:10+08:00",
    "source_key": "rmis:5989"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農保規字第1121837739號|有關貴所函詢宜蘭縣冬山鄉○○○地號已有合法農舍在案因土地及建"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,7 +46,7 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
@@ -51,5 +57,7 @@
    "kind": "extracted",
    "snippet": "設,得否依原保留之空地寬度劃設之疑義案,復如說明。\n一、依據農業主管機關同意農業用地變更使用審查作業要點(以下簡稱變更要點)第9點規定略以:「變更農業用地作與農業生產性質不相容之目的事"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

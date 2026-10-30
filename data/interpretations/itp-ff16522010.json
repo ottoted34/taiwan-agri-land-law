@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5256",
    "serial": null,
-   "fetched_at": "2026-10-30T10:17:54+08:00",
+   "fetched_at": "2026-10-30T11:45:08+08:00",
    "source_key": "rmis:5256"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0980143933號|有關託土地申請農業設施之容許使用農業用地作農業使用證明書及興"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,25 +37,25 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "3",
     "amended_on": "2013-07-01",
-    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "history": "中華民國一百零二年七月一日內政部台內營字第 1020805247 號令、行政院農業委員會農水保字第 1021865656 號令會銜修正發布全文 17 條；並自發布日施行",
     "relation_kind": "extracted"
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2006",
+    "law_id": "M0110013",
     "law_name": "農業用地興建農舍辦法",
     "article": "3",
     "amended_on": "2015-09-04",
@@ -58,11 +64,11 @@
    },
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": "5",
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "extracted"
    }
   ]
@@ -77,28 +83,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": " 貴府98年7月16日府授產業農字第○○○○○號函。\n二、依農業發展條例第18條之規定,無自用農舍之農民,始得申請興建農舍。依同條例第3條第3款規定,農民指直接"
   },
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": "3",
    "kind": "extracted",
    "snippet": "說明「受託農民依信託本旨興建農舍,該農舍固屬信託財產,然未符農業用地興建農舍辦法第3條第1項規定資格之委託人、受託人或受益人,如可經由信託行為取得農舍,顯與農業發展條"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "5",
    "kind": "extracted",
    "snippet": "有案,合先敘明。\n三、至於信託之農業用地申請興建農業設施,按「申請農業用地作農業設施容許使用審查辦法」第5條第6款規定,申請農業用地作農業設施容許使用,應檢附土地使用同意書,但土地為申請人"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

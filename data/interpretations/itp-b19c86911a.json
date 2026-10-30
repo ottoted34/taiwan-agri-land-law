@@ -1,0 +1,52 @@
+{
+ "id": "itp-b19c86911a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849052號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農地重劃後「農業用地興建農舍建蔽率標準審核」疑義案，復請 查照。",
+ "content": "一、依據內政部96年8月14日內授中辦地字第0960049838號函，暨內政部營建署96年9月5日營署都字第0960045798號函辦理，復 貴府96年6月28日府建農字第0960403585號。 二、查農地重劃條例第27條規定：「農地重劃後分配於原土地所有權人之土地，自分配確定之日起，視為其原有土地。」揆之立法說明略以：「重劃後分配之土地，係依據分配原則，分配予土地所有權人者。為免除困擾，並使土地所有權人便於行使權利負擔義務，爰明定自分配確定之日起，視為其原有土地。」有關「視為其原有土地」依上開說明意即重劃前土地權利義務未因重劃而予以改變。另土地分配確定之日，僅係重劃後辦理土地標示變更登記之日期，而非原始取得之日期，併予敘明。 三、又本案涉及土地使用分區管制有關建蔽率規定，依內政部營建署表示，宜逕向貴府都市計畫單位洽詢，請貴府本權責處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849052號|有關農地重劃後農業用地興建農舍建蔽率標準審核疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e186c8cf8d50f2bc897e1eb3f91f90d169264d2460ead26bb12720e822299735",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

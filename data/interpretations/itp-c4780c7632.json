@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5406",
    "serial": null,
-   "fetched_at": "2026-10-30T10:16:48+08:00",
+   "fetched_at": "2026-10-30T11:44:01+08:00",
    "source_key": "rmis:5406"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0990143829號|平均坡度超過30%之山坡地農業用地申請農業設施容許使用"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,11 +37,11 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2013",
+    "law_id": "M0020022",
     "law_name": "申請農業用地作農業設施容許使用審查辦法",
     "article": null,
     "amended_on": "2013-10-09",
-    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
     "relation_kind": "official"
    }
   ]
@@ -47,22 +53,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "月28日營署建管字第0990039801號函辦理。\n二、依據農業發展條例第8條之1規定:「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並依法申"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "質區。在坵塊圖上其平均坡度超過30%者。... 」是以,依據「申請農業用地作農業設施容許使用審查辦法」之規定,申請農業用地作農業設施容許使用,農業設施面積超過45平方公尺以上,依法應"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "築設計施工編第262條之規定,應無疑義,先予陳明。\n三、又查建築法第4條規定:「本法所稱之建築物為定著於土地上或地面下具有頂蓋、樑柱或牆壁,供個人或公眾"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

@@ -1,0 +1,52 @@
+{
+ "id": "itp-30f7240acd",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0970990681號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "苗栗縣地政業務從業人員職業工會○○○理事長陳情反映，對同一所有權人之農地辦理土地合併分割，如所有權人未變動者，得申請興建農舍案，復請查照。",
+ "content": "1.復 貴國會辦公室97年12月8日耀函（陳頭）字第9712082427號函。\n2.有關農業用地申請興建農舍，如申請土地經辦理合併分割交換調整後，其土地取得之時點計算基準認定疑義，經本會97年11月18日邀集內政部、直轄市、各縣（市）政府召開會議研商決議「（一）有關土地合併分割交換調整，其屬權屬不變動之分割或合併案件，其取得農地計算基準，不受本會97年8月4日農授水保字第0971843810號函之限制。（二）本會議決議之日前，已受理興建農舍申請之案件，其案情符合以往函釋者，得依相關函釋辦理」。\n3.上開決議本會97年11月26日農授水保字第0971844308號函請直轄市、各縣（市）政府辦理有案（如附）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0970990681號|苗栗縣地政業務從業人員職業工會○○○理事長陳情反映對同一所有"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dc473b73d26f1daed17c8c4cdeb5685b6c105de7193c542b9428e0f86e3b0764",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "id": "itp-c8afe29fe0",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第0920012211號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於貴市領有使用執照之農舍將其原耕地面積足夠暨符合建蔽率規定以外之土地，得否循變更使用執照程序，自使用執照已記載基地面積範圍刪除乙案，復如說明，請查照。",
+ "content": "一、復貴局92年9月30日北市工建字第09253733700號函。\n二、查耕地之分割，農業發展條例第16條及耕地分割執行要點業有明定。另有關因都市計畫法台灣省施行細則農業區建蔽率規定之修正，於原已供興建農舍之建築基地辦理現有農舍增建後即符所需，剩餘之建築基地是否得辦理分割後解除套繪並自由買賣乙案，前經本部90年2月26日台90內營字第9082636號函釋有案。惟本案係涉「都市計畫法台北市施行細則」及「台北市土地使用分區管制規則」之規定，得否比照辦理，係屬貴管權責，請貴府本於職權核處。\n三、至領有使用執照之農舍，其超出建蔽率部分之配合耕地經解除套繪後，應依建築法變更使用執照之程序將該筆耕地自使用執照予以刪除。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第0920012211號|關於貴市領有使用執照之農舍將其原耕地面積足夠暨符合建蔽率規定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "90f6f34ee4fd1b53cd42b3e107ff9a41e61a29048461f68f48c153cd1df5ca95",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "北市工建字第09253733700號函。\n二、查耕地之分割,農業發展條例第16條及耕地分割執行要點業有明定。另有關因都市計畫法台灣省施行細則農業區建蔽率規定之修"
+  },
+  {
+   "law_id": "RMIS-3010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "733700號函。\n二、查耕地之分割,農業發展條例第16條及耕地分割執行要點業有明定。另有關因都市計畫法台灣省施行細則農業區建蔽率規定之修正,於原已供興建農"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "割,農業發展條例第16條及耕地分割執行要點業有明定。另有關因都市計畫法台灣省施行細則農業區建蔽率規定之修正,於原已供興建農舍之建築基地辦理現有農舍增建"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "使用執照之農舍,其超出建蔽率部分之配合耕地經解除套繪後,應依建築法變更使用執照之程序將該筆耕地自使用執照予以刪除。"
+  }
+ ]
+}

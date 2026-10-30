@@ -1,0 +1,59 @@
+{
+ "id": "itp-9c107dd10f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041814177號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "自然人為何禁買農舍？法律依據？",
+ "content": "有關農業用地興建農舍辦法修正草案增列農舍承受人應符合農民條件之立法理由，臚列前開草案預告條文立法說明如次：\n(一)本辦法自施行以來，新建農舍之買賣炒作日趨氾濫，導致農地建地化及農舍商品化、嚴重衝擊農業生產環境及農村發展。依本條例第十入條規定，農舍係為無自用農舍之農民為農業生產經營所需而興建，故農舍之申請人應為農民，其興建與使用亦與農業經營不可分離，則農舍移轉之承受人亦應為農業生產經營而需取得農舍之農民，始符本修例第十八條之立法目的。\n(二)為同時落實本條例第一條「確保農業永續發展，因應農業國際化及自由化，促進農地合理利用...」及第十八條農舍興建應「不影響農業生產環境與農村發展」之立法目的，確保農舍興建及移轉後均為從事農業生產者所用，避免已興建農舍及其農業用地續遭投機炒作後不當利用，參酌司法院釋字第三百九十四號、第四百零二號、第四百二十六號及第四百九十七號解釋理由書揭櫫「法律授權...應就法律整體所表現之關聯意義為判斷，而非拘泥於特定法條之文字」之意旨，爰於本條例第十八條第五項授權得訂定「其他應遵行事項」下，針對本辦法於九十年四月二十六日訂定發布後申請興建之農舍及其農業用地予以規範，增訂農舍移轉之承受人應符合第三條之一之農民條件且無自用農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041814177號|自然人為何禁買農舍?法律依據?"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "fe5203135eef34dff2bae2f4693573059693f58b56acfea93d1b1e9eefe7a099",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "自然人為何禁買農舍?法律依據?\n有關農業用地興建農舍辦法修正草案增列農舍承受人應符合農民條件之立法理由,臚列前開草案預告條文立法說明如次"
+  }
+ ]
+}

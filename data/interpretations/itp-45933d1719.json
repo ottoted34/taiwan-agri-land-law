@@ -1,0 +1,64 @@
+{
+ "id": "itp-45933d1719",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041891237號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正發布前已掛號建照是否仍須審查農民資格。",
+ "content": "一、內政部會銜本會於104年9月4日發布修正「農業用地興建農舍辦法」第2條、第3條之1，已於9月6日發布生效，先予敘明。\n二、依據中央法規標準法第18條規定：「各機關受理人民聲請許可案件適用法規時，除依其性質應適用行為時之法規外，如在處理程序終結前，據以准許之法規有變更者，適用新法規。但舊法規有利於當事人而新法規未廢除或禁止所聲請之事項者，適用舊法規。」\n三、有關農舍個案審查係屬直轄市、縣(市)政府權責，又本案行政流程究屬終止或辦理中，應由受理機關確認，本案仍請台端逕向所在地主管機關洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2015,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1041891237號|農業發展條例修正發布前已掛號建照是否仍須審查農民資格"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "25e243422f8602ef415808524304022e13acc3f409df97559fecd6e9840ce9a2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正發布前已掛號建照是否仍須審查農民資格。\n一、內政部會銜本會於104年9月4日"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "審查農民資格。\n一、內政部會銜本會於104年9月4日發布修正「農業用地興建農舍辦法」第2條、第3條之1,已於9月6日發布生效,先予敘明。\n二、依據中央法規標準法第18條規"
+  }
+ ]
+}

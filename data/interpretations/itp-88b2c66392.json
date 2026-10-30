@@ -1,0 +1,58 @@
+{
+ "id": "itp-88b2c66392",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051812700號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關貴市市民○○○申請興建農舍，提供農舍申請人概括承受土地及農舍使用違規事項責任切結書，是否符合農業用地興建農舍辦法規定，復如說明，請查照。",
+ "content": "一、復貴局105年10月12日北市產業農字第10533223700號函。\n二、依據行政院農業委員會103年2月14日農水保字第1031865030號令核釋有關農業用地興建農舍辦法（以下簡稱本辦法）第2條及第3條之農業用地為共有時申請興建農舍之處理原則（興建農舍之申請人應符合本辦法興建農舍資格條件；應取得全部共有人同意，並訂有分管契約；可興建面積以申請人應有部分之面積計算…），合先敘明。\n三、有關共有農業用地之其中共有人之一於該筆土地上申請興建農舍，可興建面積雖係以申請人應有部分之面積計算，惟其他共有人已將農舍興建權利讓與其中共有人之一，爰整筆農地自應受興建農舍之相關管制規定。有關申請人檢附申請文件及佐證資料，如無違反本辦法之規定，自當併入受理審查。\n四、有關個案審查屬各直轄市、縣（市）主管機關權責，建議得由貴局邀請相關單位組成審查小組依事實審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2016,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1051812700號|有關貴市市民○○○申請興建農舍提供農舍申請人概括承受土地及農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6a75546b386d579ffe33150640addf9ecdbfb4ebea974a197938e07e89fb048a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍申請人概括承受土地及農舍使用違規事項責任切結書,是否符合農業用地興建農舍辦法規定,復如說明,請查照。\n一、復貴局105年10月12日北市產業農字第10533"
+  }
+ ]
+}

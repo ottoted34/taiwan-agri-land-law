@@ -1,0 +1,59 @@
+{
+ "id": "itp-1b47bca006",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0950121261號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "都市計畫區內保護區土地已領有「溫室（蔬菜栽培）」使用執照之農業設施，得否於同一筆地號上再申請興建農舍疑義案，請查照。",
+ "content": "一、依據台中縣政府95年4月17日府農地字第0950104547號函辦理。\n二、貴署95年4月11日營署中城字第0950014953號函對都市計畫農業區已興建農舍之土地，得否於該農舍剩餘空地再行申請設置農業產銷必要設施函釋有案，至於本案所詢都市計畫區內保護區土地已領有「溫室（蔬菜栽培）」使用執照之農業設施，得否再申請興建農舍乙節，事涉都市計畫法臺灣省施行細則第27條及建築管理等相關法令，移請 貴署主政逕復並副知本會。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0950121261號|都市計畫區內保護區土地已領有溫室蔬菜栽培使用執照之農業設施得"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a0c89da644dccda291edc8390e7a0734987c09b210350a2663376ed9d1c3095a",
+ "topics": [
+  "greenhouse",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "蔬菜栽培)」使用執照之農業設施,得否再申請興建農舍乙節,事涉都市計畫法臺灣省施行細則第27條及建築管理等相關法令,移請 貴署主政逕復並副知本會。"
+  }
+ ]
+}

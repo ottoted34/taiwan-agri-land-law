@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5242",
    "serial": null,
-   "fetched_at": "2026-10-30T10:04:23+08:00",
+   "fetched_at": "2026-10-30T11:31:36+08:00",
    "source_key": "rmis:5242"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1040218668號|申請農業用地作農業設施容許使用涉及地質敏感區審查尚無須請申請"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "進行基地地質調查及地質安全評估之必要。\n主旨:有關貴府函詢依「申請農業用地作農業設施容許使用審查辦法」申請農業用地作農業設施容許使用,涉及地質敏感區審查之疑義案,復請查照。\n說明:\n"
+  },
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "人進行基地地質調查及地質安全評估之必要。惟該農業設施如另涉及水土保持法或建築法等其他申辦程序者,則應請申請人於其他申辦程序時,配合辦理。"
+  },
+  {
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "質調查及地質安全評估之必要。惟該農業設施如另涉及水土保持法或建築法等其他申辦程序者,則應請申請人於其他申辦程序時,配合辦理。"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

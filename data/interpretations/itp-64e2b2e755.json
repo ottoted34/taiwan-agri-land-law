@@ -1,0 +1,64 @@
+{
+ "id": "itp-64e2b2e755",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849031號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正後，農舍之取得，是否有一人一戶或一人一棟為限之規定案，復請查照。",
+ "content": "1.依據內政部營建署96年8月21日營署綜字第0962913456號函辦理，復 貴府96年6月11日府農務字第0960503064號函。\n2.建築技術規則建築設計施工編第1條第24款明定，分戶牆：分隔住宅單位與住宅單位或住戶與住戶或不同用途區劃間之牆壁。內政部81年8月17日台（81）內營字第8104300號函釋（如附件），申請自用農舍既以同一戶自用為限，自屬無分棟建築。本案 貴府核發三層一棟二戶之農舍使用執照，請查明研處。\n3.另斗六地政事務所函詢農舍與坐落用地併同移轉僅擬辦理土地部分持分移轉，是否合理乙節，查農舍與坐落用地併同移轉僅擬辦理土地部分持分（1/5）之移轉，致原為單純之獨立所有狀態，反而變為更複雜之共有狀態，雖法令並未限制農地移轉為共有，惟仍應考量農舍興建面積與維持農用面積之比例及其完整性，以符合農業用地興建農舍辦法等相關法令規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849031號|有關農業發展條例修正後農舍之取得是否有一人一戶或一人一棟為限"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7bca487f4f7d43c95234528c6afd2e3637bfbc2d60115403fb4ac16af36c4b4f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正後,農舍之取得,是否有一人一戶或一人一棟為限之規定案,復請查照。\n1.依據內"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "惟仍應考量農舍興建面積與維持農用面積之比例及其完整性,以符合農業用地興建農舍辦法等相關法令規定。"
+  }
+ ]
+}

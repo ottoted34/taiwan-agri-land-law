@@ -1,0 +1,58 @@
+{
+ "id": "itp-63c8f963d5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1010132891號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關○○有限公司函為申請興建集村農舍之相關規定釋疑案，復請查照。",
+ "content": "一、復貴署101年11月13日營署綜字第1012926324號函。\n二、查農舍起造人應為該農舍坐落土地之所有權人，此農業發展條例第18條第4項定有明文，爰此，各起造人持有之農業用地或集村興建農舍坐落之農業用地，均應為參加集村興建農舍起造人所有，始得申請興建農舍，本會99年10月20日農授水保字第0990167131號函復貴署有案。另有關以共有農業用地參加集村興建農舍者，除取得他共有人同意外，自應以其持分面積申請集村興建農舍，且其他共有人不得再就其應有部分申請建築。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2012,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1010132891號|有關○○有限公司函為申請興建集村農舍之相關規定釋疑案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ffd66b833d4cf83038f2026aaf9198a099b68f96233cd61725120f214757cd99",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "24號函。\n二、查農舍起造人應為該農舍坐落土地之所有權人,此農業發展條例第18條第4項定有明文,爰此,各起造人持有之農業用地或集村興建農舍坐落之農業用地,均應為"
+  }
+ ]
+}

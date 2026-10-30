@@ -1,0 +1,69 @@
+{
+ "id": "itp-c256b6a292",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920165323號",
+ "date": "2003-11-12",
+ "date_text": "92年11月12日農企字第0920165323號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "查本會90年7月31日（90）農企字第900010341號函釋有關共有土地之部分共有人申請其持分部分之農業用地作農業使用證明書案，係基於保障善意共有人及第三人之權益。本案依卷附文卷所陳如屬實情，○○○、第三人與○○○等不無虛偽作假及通謀之嫌，因此，涉及本案之農業用地作農業使用證明書之申請應予以駁回；前已核發者應予以撤銷，並通知稅捐稽徵機關及地政機關為適法之處分。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0920165323號|釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2003-11-28",
+    "history": "中華民國九十二年十一月二十八日行政院農業委員會農企字第 0920010573 號令修正發布全文 18 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "161a85b5ebea0fe4d5b6e1dbf7c496648456c0165f46b1b0c1e070cd012d2db0",
+ "topics": [
+  "farm_use_cert",
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

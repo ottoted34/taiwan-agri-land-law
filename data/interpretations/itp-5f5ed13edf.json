@@ -1,0 +1,64 @@
+{
+ "id": "itp-5f5ed13edf",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1061829139號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「農舍於原構造內改建是否須重新申請農民資格」一案",
+ "content": "一、有關農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定略以「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合本辦法第二條第一項資格，且農舍建築面積應超過四十五平方公尺...。」，係指農舍如採分期興建方式辦理者，其申請人如為原申請人，自無須重新審查其農民資格條件，如非原申請人，須重新審查其農民資格條件。\n二、您所來詢原農舍構造範圍內不增加高度或擴大面積係屬建築法第9條規定之改建或修建行為，尚非本辦法前揭規定所稱「採分期興建辦理」之情形，得逕依建築法相關規定向當地建管單位申請。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:水保農字第1061829139號|農舍於原構造內改建是否須重新申請農民資格一案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "d85917edf7427731bb3cdcc7c6d03383a58193030c73a206d65ea6837c23add3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「農舍於原構造內改建是否須重新申請農民資格」一案\n一、有關農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定略以「同一筆農業用地僅能申請興建一棟農舍"
+  },
+  {
+   "law_id": "D0070109",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "條件。\n二、您所來詢原農舍構造範圍內不增加高度或擴大面積係屬建築法第9條規定之改建或修建行為,尚非本辦法前揭規定所稱「採分期興建辦理」之情形,得逕依建築"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "itp-16b40c5610",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931801793號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關特定農業區養殖用地申請集村興建農舍，是否應先辦理養殖漁業登記證案，查「農業用地興建農舍辦法」未規定養殖漁業登記證為興建農舍之要件，據此，養殖用地申請集村興建農舍時應無涉養殖漁業登記證事宜，復請查照。",
+ "content": "依據行政院農業委員會漁業署93年1月19日漁四字第0931201584號函辦理兼復台端93年1月2日申請函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931801793號|有關特定農業區養殖用地申請集村興建農舍是否應先辦理養殖漁業登"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "a276f68398ab98a5a4fed081e348f88e16eda389eaa4d68d09d7a36b6d00b298",
+ "topics": [
+  "farmhouse",
+  "aquaculture"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "區養殖用地申請集村興建農舍,是否應先辦理養殖漁業登記證案,查「農業用地興建農舍辦法」未規定養殖漁業登記證為興建農舍之要件,據此,養殖用地申請集村興建農舍時應無涉養殖"
+  }
+ ]
+}

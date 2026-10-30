@@ -1,0 +1,52 @@
+{
+ "id": "itp-c2a4740a72",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843846號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端所有坐落高雄縣甲仙鄉○○○地號與○○○地號等2筆土地，為申請興建農舍辦理合併，其土地取得時點疑義案，復請查照。",
+ "content": "1.復 台端97年7月25日陳情書。\n2.土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定：「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準。（參照本會97年8月4日農授水保第0971843810號函）。\n3.依本會上開函示，旨揭土地經合併後其面積已有變動，其土地取得之計算，應以土地登記機關完成合併登記之時點為計算基準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971843846號|台端所有坐落高雄縣甲仙鄉○○○地號與○○○地號等2筆土地為申"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "49af9a9a8344bdeb9efd289400b68c3324357ab3d753c9f9abf869316cf87ce4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

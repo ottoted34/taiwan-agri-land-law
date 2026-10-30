@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4787",
    "serial": null,
-   "fetched_at": "2026-10-30T10:14:21+08:00",
+   "fetched_at": "2026-10-30T11:41:35+08:00",
    "source_key": "rmis:4787"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1010115139號|農業發展條例修正施行前訂定之耕地租約租佃雙方另有約定終止租約"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -37,16 +43,18 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": "20",
    "kind": "extracted",
    "snippet": "年6月22日內授中辦地字第1016651110號函。\n二、查農業發展條例第20條第1項後段及第2項規定略以:「...本條例未規定者,適用土地法、民法及其他有關法"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

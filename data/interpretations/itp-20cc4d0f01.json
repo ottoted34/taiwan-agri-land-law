@@ -1,0 +1,58 @@
+{
+ "id": "itp-20cc4d0f01",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971817517號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業用地興建農舍之農民資格審查，其土地取得時點之計算基準疑案，復請查照。",
+ "content": "1.復 貴府97年8月28日府農務字第0970132145號函。\n2.土地經辦理合併分割，如權屬或面積有變動者，依土地法第43條規定「依本法所為之登記，有絕對效力」，其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地，於修正施行後分割為單獨所有者，得依該條例第18條第3項規定辦理，本會97年8月4日農授水保字第0971843810號函諒達。\n3.○○○95年8月24日買賣取得壽豐鄉○○○號土地，嗣於97年5月26日分割為○○○、○○○地號等2筆土地，其申請興建農舍之建築面積已有變動，土地取得時點應以97年5月26日為計算基準。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0971817517號|有關農業用地興建農舍之農民資格審查其土地取得時點之計算基準疑"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "822104b39d66994998a3c00c8e8c6cfe407eaec47ba0ae193f63f6dd73c09e82",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "點之計算,應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,得依該條例第18條第3項"
+  }
+ ]
+}

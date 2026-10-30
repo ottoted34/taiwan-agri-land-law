@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5942",
    "serial": null,
-   "fetched_at": "2026-10-30T09:50:13+08:00",
+   "fetched_at": "2026-10-30T11:17:25+08:00",
    "source_key": "rmis:5942"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1120713624號|通釋依據露營場管理要點規定辦理露營場業務涉及農業主管機關會審"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -42,5 +48,7 @@
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

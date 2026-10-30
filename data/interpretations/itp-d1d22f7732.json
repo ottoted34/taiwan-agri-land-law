@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5463",
    "serial": null,
-   "fetched_at": "2026-10-30T10:16:17+08:00",
+   "fetched_at": "2026-10-30T11:43:30+08:00",
    "source_key": "rmis:5463"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0990173959號|釋涉及所有權移轉之農業用地分割應以分割前原地號查核作農業使用"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -31,12 +37,21 @@
   "basis": [
    {
     "type": "law_amendment",
-    "law_id": "RMIS-2012",
+    "law_id": "M0020015",
     "law_name": "農業用地作農業使用認定及核發證明辦法",
     "article": null,
     "amended_on": "2013-07-23",
-    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
     "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0070001",
+    "law_name": "都市計畫法",
+    "article": "79",
+    "amended_on": "2021-05-26",
+    "history": "中華民國一百十年五月二十六日總統華總一義字第 11000047771 號令修正公布第 4、6、10、11、13、14、18～21、24、25、27、27-1、29、30、41、52～55、57～62、63、64、67、71、73、78、79、82、86 條條文",
+    "relation_kind": "extracted"
    }
   ]
  },
@@ -50,22 +65,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "台財稅字第09900336990號函。\n二、為鼓勵農地農用,農業發展條例除於第37條及第38條分別明定,作農業使用之農業用地得申請不課徵土地增值稅、免徵"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": "免徵遺產稅或贈與稅。同條例第39條並基於上開立法意旨授權訂定「農業用地作農業使用認定及核發證明辦法」俾資遵循。\n三、依上開辦法第9條第1項第1款規定,應檢具之文件資料包括「最近一個"
+  },
+  {
+   "law_id": "D0070030",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "號令所稱「依法分割」之情形。\n四、農業用地有違規使用情形,依區域計畫法第21條及都市計畫法第79條有關土地違規使用之處罰規定,均以土地違規使用之事實為處罰依據"
+  },
+  {
+   "law_id": "D0070001",
+   "article": "79",
+   "kind": "extracted",
+   "snippet": "之情形。\n四、農業用地有違規使用情形,依區域計畫法第21條及都市計畫法第79條有關土地違規使用之處罰規定,均以土地違規使用之事實為處罰依據,故有關農業用地作農"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

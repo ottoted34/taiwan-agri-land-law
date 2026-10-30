@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5943",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:52+08:00",
+   "fetched_at": "2026-10-30T11:16:04+08:00",
    "source_key": "rmis:5943"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農農保字第1132655742號|申請農業用地作農業設施容許使用案件審查簽辦"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -38,16 +44,18 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "35",
    "kind": "extracted",
    "snippet": "牧設施容許使用變更時得簡化部分會審作業」之原則。又貴府倘有依申請農業用地作農業設施容許使用審查辦法第35條規定,將執行該辦法規定事項權限之一部分,委任或委辦所轄鄉(鎮、市、區)公所辦理者"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

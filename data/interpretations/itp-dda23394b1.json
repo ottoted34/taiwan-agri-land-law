@@ -1,0 +1,80 @@
+{
+ "id": "itp-dda23394b1",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第0920013745號",
+ "date": "2004-02-12",
+ "date_text": "內政部九十三年二月十二日內授營建管字第0920013745號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "釋關於申請興建農業生產用之溫室，是否須適用建築技術規則建築構造編第六十四條規定辦理地基調查案",
+ "content": "鑒於農業生產設施中之溫室，係專供農業生產使用，雖面積具相當規模，但樓層數僅為一層，且使用人數甚少，與一般建築物相較，較無基礎構造安全之顧慮。故同意興建農業生產使用之一層溫室，免依建築技術規則建築構造編第六十四條第三項規定辦理地基調查；但如基礎施工期間，實際地層狀況與原設計條件不一致或有基礎安全性不足之虞時，仍應依同條第四項規定，依實際情形辦理補充調查作業，並採取適當對策。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第0920013745號|釋關於申請興建農業生產用之溫室是否須適用建築技術規則建築構造"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:內授營建管字第0920013745號|關於申請興建農業生產用之溫室是否須適用建築技術規則建築構造編"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "2773237b374433cc8d375ebefe22358b86b5fff4d9767f71abdfd09a2f51568e",
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

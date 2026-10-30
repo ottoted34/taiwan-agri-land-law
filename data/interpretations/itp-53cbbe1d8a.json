@@ -1,0 +1,52 @@
+{
+ "id": "itp-53cbbe1d8a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990178539號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "補充說明本會90年7月4日（90）農輔字第900050675號函有關辦理農業用地興建農舍涉及無自用農舍之認定，請查照辦理。",
+ "content": "一、依據內政部營建署99年11月22日營署綜字第0992922566號函辦理。\n二、有關旨揭號函農業用地興建農舍涉及無自用農舍之認定事宜，業經內政部營建署99年11月10日邀集相關單位會商，結論略以：「有關實施建築管理前之建築物如何認定是否為『農舍』乙節，應請建築物所有權人先辦理『建築物第一次登記』或補辦建築物『使用執照』，並於建物所有權狀或建築物使用執照用途欄註明註明用途，以釐清是否為『農舍』。」\n三、爾後，貴府如受理是類案件，應請申請人先依上開結論辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990178539號|補充說明本會90年7月4日90農輔字第900050675號函"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6223f7818673bfb64c7684c6bd54909d00e0b8848d9faf175f01c80171747adc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

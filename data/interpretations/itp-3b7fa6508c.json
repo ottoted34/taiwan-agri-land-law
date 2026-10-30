@@ -1,0 +1,92 @@
+{
+ "id": "itp-3b7fa6508c",
+ "doc_class": "interpretation",
+ "docno": "農牧字第0940133031號",
+ "date": "2005-07-07",
+ "date_text": "94年7月7日農牧字第0940133031號",
+ "agency_text": "",
+ "category": "",
+ "subject": "039釋申請人持臺糖公司之農業用地租賃契約（未附同意書），申請農業用地作畜牧設施使用及畜牧場登記，可否准其辦理疑義案",
+ "content": "查「農業用地容許作農業設施使用審查辦法」第5條規定申請農業用地容許作農業設施使用，應檢附土地使用權同意書，係指申請人應取得土地所有權人對畜牧設施許可使用細目、興建面積與高度及條件等申請許可使用同意；另查「畜牧法施行細則」第4條規定申請畜牧場登記土地非申請人所有時......，應附土地所有權人或私有土地管理者之使用同意書……，本會據以公告之土地使用權同意書內容係同意土地申請作畜牧設施容許使用辦理畜牧場登記之用，尚無同意期間之限制。據○○○所持臺灣糖業股份有限公司農業用地租賃契約書中，雖約定承租人應作畜牧及相關設施使用（第5條），惟其所訂「農業用地租賃契約書」係屬定期租賃契約（92年12月1日至95年12月31日），於契約有效期限屆滿後如不再續約。查臺糖公司依例可出具土地使用權同意書，本案仍請○○○另檢附土地申請作畜牧設施容許使用辦理畜牧場登記之同意書為宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農牧字第0940133031號|釋申請人持臺糖公司之農業用地租賃契約未附同意書申請農業用地作"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "5",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "5",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "9928d08c08339df0724c59679506edf676df1c1231a4fd456c7c136c472d7f2b",
+ "topics": [
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "請農業用地作畜牧設施使用及畜牧場登記,可否准其辦理疑義案\n查「農業用地容許作農業設施使用審查辦法」第5條規定申請農業用地容許作農業設施使用,應檢附土地使用權同意書,係指申請人應取得土地"
+  }
+ ]
+}

@@ -18,17 +18,51 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5680",
    "serial": null,
-   "fetched_at": "2026-10-30T09:51:53+08:00",
+   "fetched_at": "2026-10-30T11:19:06+08:00",
    "source_key": "rmis:5680"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1100234640號|農舍作為農產品集貨共同運銷場所是否符合農舍自用原則"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2022-07-20",
+    "history": "中華民國一百十一年七月二十日內政部台內地字第 1110264095 號令修正發布第 40 條條文及第 6 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2024-03-29",
+    "history": "中華民國一百十三年三月二十九日內政部台內國字第 1130802987 號令修正發布第 6 條條文之附表一；並增訂第 30-7、30-8 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "D0060013",
+    "law_name": "非都市土地使用管制規則",
+    "article": "6",
+    "amended_on": "2026-05-27",
+    "history": "中華民國一百十五年五月二十七日內政部台內國字第 1150806507 號令修正發布第 6 條條文及附表一",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "cab2a2d7476e9b17932d63f60564fcb076e744a47b44f5e529e4ce2048c4c343",
  "topics": [
@@ -42,16 +76,24 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2006",
+   "law_id": "M0110013",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、次查非都市土地使用管制規則第6條附表1「各種使用地容許使用項目及許可使用細目表」之規定,容許使用項目之農舍,其免"
+  },
+  {
+   "law_id": "M0020022",
    "article": null,
    "kind": "extracted",
    "snippet": "、又,查非都市土地使用管制規則第6條附表1規定,農牧用地得依「申請農業用地作農業設施容許使用審查辦法」設置農作產銷設施。倘本案因農業經營所需,衍生興建農作產銷設施需求,則應依上開規定"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

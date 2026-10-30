@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5961",
    "serial": null,
-   "fetched_at": "2026-10-30T09:48:01+08:00",
+   "fetched_at": "2026-10-30T11:15:13+08:00",
    "source_key": "rmis:5961"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農保規字第1140239251號|有關貴局函詢民眾申請農業設施容許使用因其土地產權因素致無法取"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -35,16 +41,18 @@
  "flags": [],
  "relations": [
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "4",
    "kind": "extracted",
    "snippet": "同意書,有無其他處理方式疑義案,復如說明,請查照。\n一、依據「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定:「申請農業用地作農業設施容許使用,應填具申請書及檢附下列文件各三份,"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

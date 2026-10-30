@@ -1,0 +1,38 @@
+{
+ "id": "tech-a52d7ab1827b",
+ "source_key": "datamoa:D97:5360b0041a9dd868",
+ "title": "技術專刊 74",
+ "series": "技術專刊",
+ "issue": "74",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=8427",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "74",
+  "出刊年月": "202401",
+  "期刊名稱": "臺東原鄉部落創意風味餐競賽食譜",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=8427"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T11:58:02+08:00"
+  }
+ ],
+ "content_hash": "9af7e711a65fffe33ffb14cff0afd485a0c600197e28fd101f8dece95da08c88",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

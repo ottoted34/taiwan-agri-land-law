@@ -1,0 +1,54 @@
+{
+ "id": "itp-ca431901d6",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080732178號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺南市將軍區公所函詢農舍註記塗銷案，移請貴部妥處逕復，請查照。",
+ "content": "一、依據臺南市將軍區公所108年11月12日所農字第1080743085號函辦理(如附件)。\n\n二、按該公所上開號函指出，於臺南市將軍區○○○地號土地上，依建管資料查詢，已有取得82年4月7日82-225號實施區域計畫地區自用農舍使用執照在案；另，依據臺南市佳里地政事務所之土地謄本其他登記事項載有取得使用執照並有未經解除套繪管制之不得辦理分割之記事。惟旨案經申請人主張原申請係屬畜牧設施而非農舍，故擬申請農舍之解除套\n繪管制並塗銷註記，因涉及該建物之性質認定及解除套繪管制實務執行事宜，請貴部惠予協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2019,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1080732178號|有關臺南市將軍區公所函詢農舍註記塗銷案移請貴部妥處逕復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "e2d297ec0ba21594862795160d493c340a3828186692b19bc5fdf04cacf46180",
+ "topics": [
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

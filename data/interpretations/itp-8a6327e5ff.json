@@ -1,0 +1,80 @@
+{
+ "id": "itp-8a6327e5ff",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960108020號",
+ "date": "2007-02-13",
+ "date_text": "96/2/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋有關現階段以容許使用方式申請於非都市土地農牧用地架設戶外廣告物設施案件之處理審查原則一案。",
+ "content": "主旨：有關現階段以容許使用方式申請於非都市土地農牧用地架設戶外廣告物設施案件之處理審查原則一案，復請　查照。\n說明：\n一、復　貴府96年2月2日府農務字第○○○○○號函。\n二、查戶外廣告物設施架設之性質因屬非農業使用，依「非都市土地使用管制規則」規定，涉及許可使用細目之目的事業主管機關(單位)及使用地之主管機關，應請貴府依據「非都市土地容許使用執行要點」等規定辦理。\n三、至涉及農業主管機關之審查部分，請依本會95年2月3日農企字第0950010472號函(諒達)檢送95年1月23日邀集內政部等相關部會及各縣(市)政府研商「農業主管機關同意農業用地變更使用審查作業要點」第6點第2項規定等農地變更執行疑義會議案由二之決議，略以：「(一)農業用地容許作非農業使用性質之項目或臨時性設施審查時，因其性質與農業經營無直接關連，．．．現階段得依據上開要點(農業主管機關同意農業用地變更使用審查作業要點)之相關審查標準規定或內涵(不含程序規定)予以審查。．．．(三)有關上述性質案件，縣(市)政府農業主管機關辦理審查時，應於審查意見中加註下列事項：1.須依規定繳交農業用地變更回饋金。2.農業用地申請作非農業性質之容許使用期間，不符合農業使用之定義，無法享有土地增值稅、遺產稅或贈與稅等賦稅減免之優惠。」視個案實務及事實辦理。\n四、貴府對戶外廣告物申請設置如有執行疑義，建議請逕洽內政部。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5232",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:48:17+08:00",
+   "source_key": "rmis:5232"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第0960108020號|釋有關現階段以容許使用方式申請於非都市土地農牧用地架設戶外廣"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "09a97e980cd66b6a94fc017604dac2188f661c6857ff5c0c5d7836e628512b23",
+ "topics": [
+  "container",
+  "land_change",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○○號函。\n二、查戶外廣告物設施架設之性質因屬非農業使用,依「非都市土地使用管制規則」規定,涉及許可使用細目之目的事業主管機關(單位)及使用地之主管機關,應請貴府依據"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "檢送95年1月23日邀集內政部等相關部會及各縣(市)政府研商「農業主管機關同意農業用地變更使用審查作業要點」第6點第2項規定等農地變更執行疑義會議案由二之決議,略以:「(一)農業用地容許作"
+  }
+ ]
+}

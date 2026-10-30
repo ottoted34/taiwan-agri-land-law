@@ -1,0 +1,60 @@
+{
+ "id": "itp-fb8daaa066",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990102096號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴縣瑞芳○○○地號土地興建農舍之申請資格疑義案，復請查照。",
+ "content": "1.復貴府99年1月8日北農牧字第0990015996號函。 2.本案○○○於77年2月27日買賣取得瑞芳鎮○○○地號土地(持分1/3)，再於92年7月23日買賣取得另一共有人權利範圍(最後持分2/3)，其申請興建農舍可依本會96年3月14日農授水保字第0961848173號函附件「共有農業用地申請興建農舍處理原則」樣態二處理原則第2點方式辦理。 3.惟本案455地號於96年11月8日因徵收部分面積(1539平方公尺)，應平均減少於各所有人之持分，故其原1/3持分部分則需扣除徵收部分面積，依上開原則申請興建農舍。 另為避免重複依農業發展條例修正施行前相關規定申請興建農舍，各縣市主管機關應於核發證明時加以註記列管。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990102096號|貴縣瑞芳○○○地號土地興建農舍之申請資格疑義案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "5b65d26bab0da1050d4a696a5a59120649ed4abe2a4ec2ff78acce6217b96bea",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "需扣除徵收部分面積,依上開原則申請興建農舍。 另為避免重複依農業發展條例修正施行前相關規定申請興建農舍,各縣市主管機關應於核發證明時加以註記列管。"
+  }
+ ]
+}

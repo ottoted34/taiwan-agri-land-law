@@ -1,0 +1,59 @@
+{
+ "id": "itp-70be04b789",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0941848998號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "關於○○○等20人以集村方式申請興建農舍，經建築主管機關核發建造執照，且已施工之集村興建農舍坐落建築基地，如擬變更起造人，該建築基地核發供農業使用證明書疑義案，復請查照。",
+ "content": "一、復 貴府94年1月14日府農務字第0940137450號函。\n二、本會92年8月21日農授水保字第0921847142號函送之「農業用地興建農舍辦法」有關集村興建農舍執行疑義之研商結論後提出申請之案件，如擬變更起造人，其全部共同起造人之農民資格條件，應以重新方辦辦理，合先敘明。\n三、依「農業用地興建農舍辦法」相關規定申請以集村方式興建農舍，經建築主管機關核發建造執照，且已動工興建之集村興建農舍坐落建築基地，如因變更起造人而申請核發農業使用證明書部分，得就興建面積是否符合建築配置圖所載面積為審查核發依據，本會94年6月21日農授水保字第0941813232號函釋有案，其意旨略為：「經查核其興建面積符合建築配置圖所載面積，即可核發農業用地作農業使用證明書」。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0941848998號|關於○○○等20人以集村方式申請興建農舍經建築主管機關核發建"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "8ad8da282956b719a4ecdac9fea31c2b61e898fbb2b957f81769d3db47caf880",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "本會92年8月21日農授水保字第0921847142號函送之「農業用地興建農舍辦法」有關集村興建農舍執行疑義之研商結論後提出申請之案件,如擬變更起造人,其全部共同起"
+  }
+ ]
+}

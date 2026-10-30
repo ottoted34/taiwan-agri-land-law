@@ -1,0 +1,37 @@
+{
+ "id": "tech-118c263fff02",
+ "source_key": "datamoa:B83:837fb92c85eb2724",
+ "title": "農情月刊 63",
+ "series": "農情月刊",
+ "issue": "63",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": "2005-03",
+ "url": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/63.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B83",
+  "title": "臺東區農業改良場農情月刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83"
+ },
+ "raw": {
+  "期別": "63",
+  "出刊時間": "200503",
+  "檔案連結": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/63.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83",
+   "fetched_at": "2026-10-30T11:58:04+08:00"
+  }
+ ],
+ "content_hash": "d6936f95a7bb91eb9e4f12cb7a6e681b28f24f974aaa59cb8c56db192fa24e24",
+ "last_synced": "2026-10-30T11:58:05+08:00",
+ "first_seen": "2026-10-30T11:58:05+08:00",
+ "topics": []
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-3d1eb44921",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0990151142號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關多筆持分共有毗鄰的農業土地經合併分割後所取得的個別農地起算持有時間基準審認案，復請查照。",
+ "content": "1.復 台端99年7月26日書函。\n2.有關土地經辦理合併分割，涉及所有人之權屬或面積變動時，如權屬或面積有變動，依土地法第43條規定，略以：「依本法所為之登記，有絕對效力」，並請參酌本會97年8月4日農授水保字第0971843810號函釋「其土地取得時點之計算，應以土地登記機關最後完成合併分割登記之時點為基準；農業發展條例修正施行前取得之共有耕地，於修正施行後分割為單獨所有者，得依該條例第18條第3項規定辦理」規定辦理。倘其未變動者，亦請依本會97年11月26日農授水保字第0971843810號函釋：「其取得農地計算基準，不受本會97年8月4日農授水保字第0971843810號函之限制」規定辦理。\n3.旨揭多筆持分共有毗鄰的農業土地經合併分割後所取得的個別農地起算持有時間之審認，涉及個案認定，屬縣（市）政府權責，請檢附土地登記謄本、異動索引等有關資料逕洽縣（市）政府農業或建築管理機關認定，以資便捷。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0990151142號|有關多筆持分共有毗鄰的農業土地經合併分割後所取得的個別農地起"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "9c71c7bd248263b95cdf1f1c55e870d1c0f4bc3f7a26b6386ebc0d58594d6198",
+ "topics": [],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "點之計算,應以土地登記機關最後完成合併分割登記之時點為基準;農業發展條例修正施行前取得之共有耕地,於修正施行後分割為單獨所有者,得依該條例第18條第3項"
+  }
+ ]
+}

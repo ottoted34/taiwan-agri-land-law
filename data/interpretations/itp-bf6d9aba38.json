@@ -1,0 +1,60 @@
+{
+ "id": "itp-bf6d9aba38",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1061826587號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "「依法申請興建農舍，卻不准設施農路出入必要通道，形成有厝無路」案",
+ "content": "一、「農舍」係與農業經營不可分離之建築物提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，與一般家居住宅性質不同，且於農業用地興建農舍係為特許之行為，並非擁有農業用地即可興建農舍，先予敘明。\n二、申請興建農舍，應依農業用地興建農舍辦法(以下簡稱本辦法)及其相關規定辦理，依本辦法第9條第2項第1款規定:「農舍興建圍牆，以不超過農舍用地面積範圍為限。」，及同條第2項第3款規定:「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，農舍用地面積可施設農舍及其附屬設施，您所詢問為申請興建農舍設施所需出入必要通道，依上開規定，應計入農舍用地面積。\n三、有關個案之審查係屬直轄市、縣(市)政府權責，如有疑義，請逕向所在地地方政府洽詢。\n四、所提建議納入參考，感謝您的來信。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2017,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1061826587號|依法申請興建農舍卻不准設施農路出入必要通道形成有厝無路案"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "02c775e64536c2edfb7c489ee698a2b0109bff504a29390e19a8a61702a8761a",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "擁有農業用地即可興建農舍,先予敘明。\n二、申請興建農舍,應依農業用地興建農舍辦法(以下簡稱本辦法)及其相關規定辦理,依本辦法第9條第2項第1款規定:「農舍興建圍"
+  }
+ ]
+}

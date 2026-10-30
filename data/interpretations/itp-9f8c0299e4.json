@@ -18,17 +18,42 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5587",
    "serial": null,
-   "fetched_at": "2026-10-30T09:55:16+08:00",
+   "fetched_at": "2026-10-30T11:22:28+08:00",
    "source_key": "rmis:5587"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1080237130號|釋圍牆農路電動門認屬農舍附屬設施或農作產銷設施認定疑義"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2022-10-26",
+    "history": "中華民國一百十一年十月二十六日行政院農業委員會農企字第 1110013671 號令修正發布第 13 條條文之附表一",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "d279621c9aad1f12092494ff4093253e7706dd06273aa3c89e5ca6ebc4485509",
  "topics": [
@@ -40,28 +65,36 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "extracted",
    "snippet": ",俾供持憑辦理申請興建自用農舍或相關稅賦減免優惠,本會並訂有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、依前開辦法第4條第2款明定:「農業用地符合下列情形,且無第5"
   },
   {
-   "law_id": "RMIS-2013",
+   "law_id": "M0020022",
    "article": "13",
    "kind": "extracted",
    "snippet": "上施設有農業設施者,原則應依上開規定檢附容許使用同意書。復依「申請農業用地作農業設施容許使用審查辦法」第13條附表一規定,列有各項農作產銷設施,農田灌溉排水設施包括蓄水設施等;其他農作產銷設"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "D0070109",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍附屬設施,如作為農舍連接現有道路通行使用之通道,尚須符合建築法令規定,惟是否應申請雜項執照,建請逕洽貴府建管單位協處。\n五、綜上,本案所敘之農"
+  },
+  {
+   "law_id": "M0020001",
    "article": "18",
    "kind": "extracted",
    "snippet": "性質,涉及個案實務認定,請貴府衡酌實情依法核處。\n六、另,依農業發展條例第18條第2項規定,農業用地興建農舍須滿5年始得移轉。依案附資料,有無上開移轉限制致無法"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

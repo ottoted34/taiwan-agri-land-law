@@ -1,0 +1,64 @@
+{
+ "id": "itp-38d6e780d9",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000108449號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端詢問共有土地取得時點疑義一案，復請 查照。",
+ "content": "一、復台端100年2月10日申請書。\n二、本會99年6月28日農水保字第0991875147號令，核釋「農業用地興建農舍辦法」第3條第1項第2款所定土地取得應滿二年，其共有農業用地於「農業發展條例」89年1月28日修正施行後取得，且於98年7月23日以後分割者，依民法第824條之1規定，其土地取得時間點應以土地完成分割登記日起算。是以，台端所有共有農業用地若於農業發展條例修法後取得且於98年7月23日以後分割者，土地取得時點應自土地完成分割登記日起算。\n三、惟台端所述共有農業用地分割之土地取得時點認定乙節，本會將納入本次農業用地興建農舍辦法修法參考。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000108449號|台端詢問共有土地取得時點疑義一案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "7d26db1cc74344f52596e3f74caca92f5b63eaefda81603a2e7dd883b2ea4c15",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "本會99年6月28日農水保字第0991875147號令,核釋「農業用地興建農舍辦法」第3條第1項第2款所定土地取得應滿二年,其共有農業用地於「農業發展條例」89年1月28"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法」第3條第1項第2款所定土地取得應滿二年,其共有農業用地於「農業發展條例」89年1月28日修正施行後取得,且於98年7月23日以後分割者,依民法第824條"
+  }
+ ]
+}

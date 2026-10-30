@@ -1,0 +1,58 @@
+{
+ "id": "itp-7fdfa47eed",
+ "doc_class": "interpretation",
+ "docno": "屏府農企字第10314014000號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農舍建物附掛架設電信基地臺解釋函案，因農舍之主管機關係屬內政部營建署，建請 貴會函詢主管機關後再予確認，請 查照。",
+ "content": "一、依據行政院農業委員會103年4月23日農水保字第1030206051號函並復貴會103年5月7日通傳資技字第10300276710號函。\n二、查「非都市土地容許使用執行要點」第2點附件1規定，農舍附屬設施之目的事業主管機關，中央單位為『內政部營建署』，次查同要點第2點附件2，農牧用地之使用地主管機關為農業局，先予敘明。\n三、有關已興建農舍之農業用地上申請架設電信基地臺，因土地仍為農業用地，故應依農業發展條例第10條先取得農業主管機關同意作非農業使用，惟本案係農舍建物附掛架設電信基地臺，與地面型架設電信基地臺有別，建請 貴會應徵詢主管機關同意，以資適法。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:屏府農企字第10314014000號|有關農舍建物附掛架設電信基地臺解釋函案因農舍之主管機關係屬內"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "dcb6422cce6f1db3878d539600208aceab3b5c85c1fd5f77d12f95ff8f83d71a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "舍之農業用地上申請架設電信基地臺,因土地仍為農業用地,故應依農業發展條例第10條先取得農業主管機關同意作非農業使用,惟本案係農舍建物附掛架設電信基地臺,與地面型"
+  }
+ ]
+}

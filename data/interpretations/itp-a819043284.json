@@ -1,0 +1,82 @@
+{
+ "id": "itp-a819043284",
+ "doc_class": "interpretation",
+ "docno": "95年7月17日農企字第0950136970函",
+ "date": "2006-07-17",
+ "date_text": "95/7/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "033 釋水稻育苗業者在其自有農業用地上堆置土方備供育苗使用，得否核發農業用地作農業使用證明書疑義案",
+ "content": "查農業用地作農業使用認定及核發證明辦法第7條第2款明定：現場堆置與農業經營無關或妨礙耕作之障礙物、砂石、廢棄物者，不得認定為作農業使用。惟水稻育苗業者堆置土方倘確係備供育苗使用，應非屬前開條文所規範之「與農業經營無關或妨礙耕作之障礙物、砂石、廢棄物」。至儲備量之多寡，應視各水稻育苗場規模及育苗量而異，故本案宜請就該育苗中心堆置土方之必要性及合理性，本於權責予以核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4796",
+   "serial": null,
+   "fetched_at": "2026-10-30T11:49:24+08:00",
+   "source_key": "rmis:4796"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:95年7月17日農企字第0950136970函|釋水稻育苗業者在其自有農業用地上堆置土方備供育苗使用得否核發"
+  }
+ ],
+ "first_seen": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "7",
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "3c7797d5635987b4edc51abd8c83403d044e064a71f31d4d61d6b136d46d2f99",
+ "topics": [
+  "farm_use_cert",
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "土方備供育苗使用,得否核發農業用地作農業使用證明書疑義案\n查農業用地作農業使用認定及核發證明辦法第7條第2款明定:現場堆置與農業經營無關或妨礙耕作之障礙物、砂石、廢棄物者,不得認定為"
+  }
+ ]
+}

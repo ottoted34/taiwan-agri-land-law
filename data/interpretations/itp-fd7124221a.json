@@ -1,0 +1,64 @@
+{
+ "id": "itp-fd7124221a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0961849485號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農業發展條例修正後之共有農地，各持有二分之一，後共有人之一經由買賣移轉於另一共有人取得該筆土地全部所有權，其取得之時點計算應由移轉登記完成日期起算，申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理，復請查照。",
+ "content": "復 貴府96年12月10日府農務字第0960261357號函。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0961849485號|農業發展條例修正後之共有農地各持有二分之一後共有人之一經由買"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "ffa38875bfa6c30de50fe2c8fa9e93ab5e5bbd9dad508355e493d3df25a85194",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業發展條例修正後之共有農地,各持有二分之一,後共有人之一經由買賣移轉於另一共有人取得該筆土"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": ",其取得之時點計算應由移轉登記完成日期起算,申請興建農舍應依「農業用地興建農舍辦法」第3條相關規定辦理,復請查照。\n復 貴府96年12月10日府農務字第096026135"
+  }
+ ]
+}

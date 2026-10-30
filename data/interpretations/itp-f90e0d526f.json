@@ -1,0 +1,65 @@
+{
+ "id": "itp-f90e0d526f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0931848961號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢關於一筆農牧用地做為畜牧使用，得否申請興建農舍案，復請查照。",
+ "content": "一、復台端九十三年九月十三日陳情書。\n二、查農舍並不屬於畜牧法相關法規所規定之畜牧設施，農牧用地如欲申請作畜牧設施使用及申辦畜牧場登記，應依「畜牧法」、「畜牧法施行細則」及「農業用地容許作農業設施使用審查辦法」等相關規定辦理。至於農業用地興建農舍相關規定及程序，業於「農業用地興建農舍辦法」中規定，請台端依前揭辦法規定向所轄縣（市）政府提出申請。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0931848961號|台端函詢關於一筆農牧用地做為畜牧使用得否申請興建農舍案復請查"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "321ab63a986416c6eb475f22ed32bb980f0be7982a195223d614a6a2cccf28b4",
+ "topics": [
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "施使用及申辦畜牧場登記,應依「畜牧法」、「畜牧法施行細則」及「農業用地容許作農業設施使用審查辦法」等相關規定辦理。至於農業用地興建農舍相關規定及程序,業於「農業用地興建農舍辦法」"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法」等相關規定辦理。至於農業用地興建農舍相關規定及程序,業於「農業用地興建農舍辦法」中規定,請台端依前揭辦法規定向所轄縣(市)政府提出申請。"
+  }
+ ]
+}

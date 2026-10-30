@@ -1,0 +1,58 @@
+{
+ "id": "itp-603552bcc2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000108644號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關農業發展條例修正施行前取得之農業用地興建之農舍，是否應受5年始得移轉之限制案，復請 查照。",
+ "content": "一、復 台端100年2月10日書函。\n二、查農業發展條例第18條第1項規定略以：「本條例中華民國89年1月4日修正施行後取得農業用地之農民，無自用農舍而需興建者」，同條第2項規定：「前項農業用地應確供農業使用；其在自有農業用地興建農舍滿五年始得移轉。但因繼承或法院拍賣而移轉者，不在此限。」，爰農舍興建後應滿5年始得移轉之限制對象係指89年1月28日後取得農業用地興建之農舍。\n三、台端所詢農業發展條例修正公布生效日（89年1月28日）前取得農業用地興建之農舍，不受該條例第18條第2項規定限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2011,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1000108644號|有關農業發展條例修正施行前取得之農業用地興建之農舍是否應受5"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "6d7e9a6b174bc3d902b999962772d630a6cbce3ee0bf2a44687abe718c5eeb2d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ",復請 查照。\n一、復 台端100年2月10日書函。\n二、查農業發展條例第18條第1項規定略以:「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自"
+  }
+ ]
+}

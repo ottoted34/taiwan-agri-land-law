@@ -1,0 +1,99 @@
+{
+ "id": "itp-02b279df98",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940125066號",
+ "date": "2005-05-19",
+ "date_text": "94年5月19日農企字第0940125066號函",
+ "agency_text": "",
+ "category": "",
+ "subject": "064 釋農業用地從事非畜牧範疇之動物（寵物）繁殖，不符合農業發展條例第3條第12款農業使用案",
+ "content": "一、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故農業用地申請容許作農業設施使用，需與農業生產或農業使用相結合；而依非都市土地使用管制規則及農業用地容許作農業設施使用審查辦法等相關規定，非都市土地農業用地擬申請設置之農業設施，如其目的係非農業使用或不符合容許使用項目者，應請申請人循變更編定程序辦理，合先敘明。\n二、本案經查鴿子並未列入畜牧法第3條第2款所指定之家禽種類，故非都市土地農牧用地建造鴿舍及貨櫃屋等設施，其使用並不符合上開農業發展條例第3條第12款農業使用之定義，不宜依農業用地容許作農業設施使用審查辦法同意其容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第0940125066號|釋農業用地從事非畜牧範疇之動物寵物繁殖不符合農業發展條例第3"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020015",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國一百零二年七月二十三日行政院農業委員會農企字第 1020012761A 號令修正發布全文 16 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f58af19147772813d9a94148fd28c48cb5e7e053816761d9cfbc622987e03538",
+ "topics": [
+  "container",
+  "land_change",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020015",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "064 釋農業用地從事非畜牧範疇之動物(寵物)繁殖,不符合農業發展條例第3條第12款農業使用案\n一、依農業發展條例第3條第12款規定:「農業使用:指農業用地"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地申請容許作農業設施使用,需與農業生產或農業使用相結合;而依非都市土地使用管制規則及農業用地容許作農業設施使用審查辦法等相關規定,非都市土地農業用地擬申請設置之農"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",需與農業生產或農業使用相結合;而依非都市土地使用管制規則及農業用地容許作農業設施使用審查辦法等相關規定,非都市土地農業用地擬申請設置之農業設施,如其目的係非農業使用或不符合"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-df37084b10",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851023號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "貴事務所函詢有關農業發展條例修正施行前共有農業用地，於該條例修正施行後分割為單獨所有，得否適用該條例第18條第3項之規定申請興建農舍，及公同共有之農地得否準用分別共有之規定疑義案，復請查照。",
+ "content": "復 貴事務所95年3月7日函。\n有關農業發展條例修正施行前共有農業用地，於該條例修正施行後分割為單獨所有，得否適用該條例第18條第3項之規定申請興建農舍疑義，本會93年8月5日農授水保字第0931848736號函釋有案（如附件）.\n至公同共有之農地可否準用分別共有之規定乙節，按民法所稱分別共有，係數人按其應有部分，對於一物，共同享有所有權之狀態(民法第817條第1項參照);公同共有者，依法律規定或契約，成一公同關係之數人，基於公同關係而共有一物之謂(民法第827條第1項參照)，各公同共有人間與分別共有人間之權利義務關係迥不相同，民法第818條、第827條第2項、第819條第1項、第828條第2項、第823條第1項、第829條參照。\n又查公同共有關係消滅，而須分割公同共有物，依民法第830條第2項規定，其分割方法，除法律另有規定外，應依關於共有物分割之規定外，並無其他準用分別共有規定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0951851023號|貴事務所函詢有關農業發展條例修正施行前共有農業用地於該條例修"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "04167b65b439a3deb20b821da71fe3be42832e24eacd674f937a8cd36dc73b45",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴事務所函詢有關農業發展條例修正施行前共有農業用地,於該條例修正施行後分割為單獨所有,得否適用該條例第18條"
+  }
+ ]
+}

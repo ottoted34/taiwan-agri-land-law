@@ -1,0 +1,58 @@
+{
+ "id": "itp-e9b0026688",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961849064號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "台端函詢有關集村興建農舍滿5年移轉限制案，復請查照。",
+ "content": "一、復 台端96年9月20日申請書。 二、農業發展條例第18條第2項明定：「前項農業用地應確供農業使用；其在自有農業用地興建農舍滿5年始得移轉。但因繼承或法院拍賣而移轉者，不在此限。」，對於5年之起算點以農舍使用執照之核發日起算;另農舍興建完成後，因繼承或法院拍賣而移轉者，其5年起算日以原取得農舍使用執照之核發日起算。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農水保字第0961849064號|台端函詢有關集村興建農舍滿5年移轉限制案復請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "430172eac91619bc02b966c05031bbe349b894e9c6ee76ad2bf8eb62a223c8af",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "制案,復請查照。\n一、復 台端96年9月20日申請書。 二、農業發展條例第18條第2項明定:「前項農業用地應確供農業使用;其在自有農業用地興建農舍滿5年始得移轉"
+  }
+ ]
+}

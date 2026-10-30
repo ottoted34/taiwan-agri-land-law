@@ -1,0 +1,65 @@
+{
+ "id": "itp-35a15ff5eb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0930147642號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關鈞院體育委員會函報擬重新開放受理高爾夫球場申請籌設及後續辦理相關事項一案，本會相關部分，意見如說明，請查照。",
+ "content": "一、依據貴處93年9月3日院臺體字第0930039879號書函辦理。\n二、受理高爾夫球場申請籌設，如涉農業用地劃定或變更為非農業使用時，應依農業發展條例第10條、第12條等相關規定辦理。且依區域計畫法施行細則第13條規定，特定農業區係指優良農地或曾經投資建設重大農業改良設施，經會同農業主管機關認為必須加以特別保護而劃定，故現階段仍不宜開放「特定農業區」之農業用地辦高變更為高爾夫球場使用。\n三、本案附表二「高爾夫球場申請籌設諮詢服務書件製作格式」第肆項，有關高爾夫球場預定基地有無位於下列相關法規劃定應予保護、禁止或限制建築之地區項下，宜增列「依森林法編入公告之保安林範圍」乙項；附表四「高爾夫球場籌設申請書製作格式」第6項，有關說明高爾夫球場預定基地是否位屬應予保護、禁止或限制建築之地區項下，亦請增列「是否位屬依森林法編入公告之保安林範圍」乙項。\n四、鑑於高爾夫球場開發面積甚大，未來用途廢止後，其土地利用及使用形態可能對周遭經濟及環境產生無法復原之影響，建議於開發計畫書內將廢止後之土地使用或利用態一併規劃說明，以降低球場設立及廢止所造成之影響。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0930147642號|有關鈞院體育委員會函報擬重新開放受理高爾夫球場申請籌設及後續"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:10+08:00",
+ "last_synced": "2026-10-30T11:57:10+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "635fb188dc74941c5f75ab541c7a56eac056a5a6a85018db7d6fec562a5f854a",
+ "topics": [
+  "facility_use",
+  "land_change"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "爾夫球場申請籌設,如涉農業用地劃定或變更為非農業使用時,應依農業發展條例第10條、第12條等相關規定辦理。且依區域計畫法施行細則第13條規定,特定農業區係指優良"
+  },
+  {
+   "law_id": "D0070031",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "用時,應依農業發展條例第10條、第12條等相關規定辦理。且依區域計畫法施行細則第13條規定,特定農業區係指優良農地或曾經投資建設重大農業改良設施,經會同農業主管機關認"
+  }
+ ]
+}

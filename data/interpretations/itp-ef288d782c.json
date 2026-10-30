@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5273",
    "serial": null,
-   "fetched_at": "2026-10-30T10:08:37+08:00",
+   "fetched_at": "2026-10-30T11:35:49+08:00",
    "source_key": "rmis:5273"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
+   "fetched_at": "2026-10-30T11:57:10+08:00",
+   "source_key": "rmis-lawexp:農企字第1030705726號|農業用地作農業使用認定及核發證明辦法第10條第3項辦理實地勘"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",
@@ -40,28 +46,30 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "10",
    "kind": "extracted",
    "snippet": "農業用地作農業使用認定及核發證明辦法第10條第3項「辦理實地勘查應通知申請人到場指界及說明」之執行疑義案。\n主旨:有關貴府函"
   },
   {
-   "law_id": "RMIS-2012",
+   "law_id": "M0020015",
    "article": "12",
    "kind": "extracted",
    "snippet": "限,以避免民眾困擾,合先敘明。\n三、基於前開立法意旨,針對依農用證明辦法第12條規定:「申請案件不符合規定,其情形可補正者,應通知申請人限期補正;不能補正、屆期"
   },
   {
-   "law_id": "RMIS-1001",
+   "law_id": "M0020001",
    "article": null,
    "kind": "extracted",
    "snippet": "為處分者,應依訴願決定意旨為之。又農業用地作農業使用之認定依農業發展條例及農用證明辦法規定,已有明確之認定基準,爰本案宜請依訴願決定意旨及前開農用證明辦"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }

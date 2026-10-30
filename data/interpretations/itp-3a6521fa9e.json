@@ -1,0 +1,58 @@
+{
+ "id": "itp-3a6521fa9e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0921822186號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "農民申請集村興建農舍核准主管機關及耕地分割應於農舍興建前或農舍興建完成後辦理疑義案，復請查照。",
+ "content": "一、復貴國會辦公室九十二年九月十八日冠北字第九二○九一八○一號函。\n二、農民申請集村興建農舍，核准之主管機關，依「農業用地興建農舍辦法」（附件一）第三條第二項規定農民申請農舍（個別或集村）核准之駐管機關為直轄市、縣（市）政府。 三、至耕地分割應於農舍興建前辦理或是農舍興建完成後辦理乙節，本會九十二年三月七日農企字第○九二○一一一五五八號已有函釋（附件二），其主要內容： （一）集村興建農舍之專案分割，以於耕地上興建集村農舍者為限。 （二）提供興建農舍之建築基地部分涉及產權移轉，不論分割為單獨所有或維持共有，應由起造人出具共同協議書，併同集村興建農舍申請案提出。 （三）集村興建農舍坐落之該宗耕地，如提供者亦為起造人之一，則提供集村興建農舍耕地之基層建築基地與起造人保留供農業生產使用部分，得為分割。 （四）辦理集村興建農舍專案分割之時點，宜在申請人請領使用執照前，再檢附相關文件申請行政院農業委員會核定。 四、隨文檢送本會九十二年八月七日召開研商「農業用地興建農舍辦法」有關集村興建農舍執行疑義及研商結論一份供參。（附件三）",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第0921822186號|農民申請集村興建農舍核准主管機關及耕地分割應於農舍興建前或農"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "79326712932179dd66773380eac19da42e69451447be8ffcafcc1b69dd5c9bdc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "一八○一號函。\n二、農民申請集村興建農舍,核准之主管機關,依「農業用地興建農舍辦法」(附件一)第三條第二項規定農民申請農舍(個別或集村)核准之駐管機關為直轄市、縣("
+  }
+ ]
+}

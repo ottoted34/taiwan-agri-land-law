@@ -1,0 +1,55 @@
+{
+ "id": "itp-d64cdfca95",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090720696號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "有關臺端函詢申請新建農舍疑義一案，復如說明，請查照。",
+ "content": "一、復臺端 109年7月21日便民服務申請函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、為兼具農舍出入及避免影響農業生產環境，興建農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整，而所指之「道路」，本會前已函釋係以「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」並採認「成立公用地役關係之既成道路」，以及道路與農舍用地之間，如有間隔水路或該水路已編定為水利用地等情形，得視為臨接道路之審認原則。\n四、針對臺端願將土地捐贈予宜蘭縣政府作為公共道路使用一節，基於土地捐贈及該土地是否得符合道路性質以作為申請興建農舍之相關要件，涉及個案審查認定事宜，係屬直轄市、縣(市)政府之權責，請逕向宜蘭縣政府洽詢。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": 2020,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1090720696號|有關臺端函詢申請新建農舍疑義一案復如說明請查照"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:12+08:00",
+ "last_synced": "2026-10-30T11:57:12+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "14df0202f76f569e616755eede9c654cfd9bf21eb58f64721c20e24e7fe847c7",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "date_unknown",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-d5882425e4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031807240號",
+ "date": null,
+ "date_text": "",
+ "agency_text": "",
+ "category": "",
+ "subject": "興建農舍之規定。",
+ "content": "一、農業用地興建農舍辦法第12條第2項規定：「已申請興建農舍之農業用地，直轄市、縣(市)主管建築機關應於地籍套繪圖上，將已興建及未興建農舍之農業用地分別著色標示，未經解除歸管制不得辦理分割。」，先予敘明。\n二、上開「申請興建農舍之農業用地」係指地籍管理上單一筆地號之土地而言，因此，以農業用地申請興建農舍，應以整筆土地提出申請，並以整筆土地註記列管及套繪管制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": 2014,
+ "sources": [
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
+   "fetched_at": "2026-10-30T11:57:11+08:00",
+   "source_key": "rmis-lawexp:農授水保字第1031807240號|興建農舍之規定"
+  }
+ ],
+ "first_seen": "2026-10-30T11:57:11+08:00",
+ "last_synced": "2026-10-30T11:57:11+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": [],
+  "notes": [
+   "官方頁面未載發文日期，無法比對修法時序。"
+  ]
+ },
+ "content_hash": "0827156bee5261f4ac8e2a8caa37460941e49acf60bd70b8ab981b9162d72ebb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "date_unknown"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "M0110013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "興建農舍之規定。\n一、農業用地興建農舍辦法第12條第2項規定:「已申請興建農舍之農業用地,直轄市、縣(市)主管建築機關應於地籍套繪"
+  }
+ ]
+}

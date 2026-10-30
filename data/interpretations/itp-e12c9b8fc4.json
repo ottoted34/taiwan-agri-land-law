@@ -18,12 +18,18 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5037",
    "serial": null,
-   "fetched_at": "2026-10-30T10:13:21+08:00",
+   "fetched_at": "2026-10-30T11:40:34+08:00",
    "source_key": "rmis:5037"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
+   "fetched_at": "2026-10-30T11:57:12+08:00",
+   "source_key": "rmis-lawexp:農企字第1020709988號|審查申請農業用地變更作廢棄物處理設施使用因涉及分次變更之隔離"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
@@ -55,10 +61,18 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "說明,同一興辦事業計畫申請毗連土地擴大,係於77年6月29日非都市土地使用管制規則發布施行後,始提出興辦事業計畫申請使用地變更編定之開發案,應累計計算面積,若累計"
+  },
+  {
    "law_id": "RMIS-3008",
    "article": null,
    "kind": "extracted",
    "snippet": "含)以上之農業用地變更編定,以累計其興辦事業計畫面積後,再依「農業主管機關同意農業用地變更使用審查作業要點」第12點規定計算隔離綠帶或設施之留設寬度,非僅以該次申請變更之用地面積認定,以維"
   }
- ]
+ ],
+ "year_hint": null,
+ "flags_in": []
 }
