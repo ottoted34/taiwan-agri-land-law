@@ -79,21 +79,9 @@ counties:
         reviewed_by: Repository 擁有者指示收錄（系統候選清單）
         reviewed_at: 2026-10-30
         basis: 臺中市法規查詢系統「農業類」分類列表候選
-      - law_system_id: FL035348
-        name: 臺中縣陸上魚塭養殖漁業登記及管理規則(原繼續適用)
-        topics: [aquaculture]
-        scenarios: [local]
-        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
-        reviewed_at: 2026-10-30
-        basis: 臺中市法規查詢系統「農業類」分類列表候選
-      - law_system_id: GL001239
-        name: 臺中縣陸上漁塭養殖漁業登記及管理規則(原繼續適用)
-        topics: [aquaculture]
-        scenarios: [local]
-        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
-        reviewed_at: 2026-10-30
-        basis: 臺中市法規查詢系統「農業類」分類列表候選
     rejected:
+      - GL001239  # 官方標示「廢」（2026-10-30 同步發現），不收錄
+      - FL035348  # 官方標示「廢」（2026-10-30 同步發現），不收錄
       - GL001919  # 官方標示「廢/停」（2026-10-30 首次同步發現），不收錄
       - GL000534  # 官方標示「廢/停」（2026-10-30 首次同步發現），不收錄
   - {name: 臺北市, code: TPE, checked: false}
