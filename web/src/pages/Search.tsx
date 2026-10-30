@@ -29,6 +29,8 @@ export default function SearchPage() {
   const sort = sp.get("sort") || "relevance";
   const set = (k: string, v: string | null) => { const n = new URLSearchParams(sp); if (v) n.set(k, v); else n.delete(k); if (k !== "page") n.delete("page"); setSp(n); };
   const [input, setInput] = useState(q);
+  const wide = typeof window === "undefined" || window.matchMedia("(min-width: 861px)").matches;
+  const activeFilters = ["law", "agency", "from", "to", "topic", "validity", "hist", "ttopic"].filter((k) => sp.get(k)).length;
 
   const res = useMemo(() => {
     if (!d.data) return null;
@@ -68,7 +70,7 @@ export default function SearchPage() {
     <QueryInfo pq={pq} man={man} />
     <div className="layout-search">
       <aside className="card filters" aria-label="篩選條件">
-        <strong>篩選</strong>
+        <details open={wide}><summary><strong>篩選條件</strong>{activeFilters > 0 && <span className="tag neutral" style={{ marginLeft: 6 }}>已套用 {activeFilters}</span>}</summary>
         <label htmlFor="f-law">相關法規</label>
         <select id="f-law" value={sp.get("law") || ""} onChange={(e) => set("law", e.target.value || null)}>
           <option value="">不限</option>{Object.entries(man.law_names).map(([id, n]) => <option key={id} value={id}>{n}</option>)}
@@ -103,6 +105,7 @@ export default function SearchPage() {
           <option value="relevance">相關性</option><option value="date">日期（新到舊）</option>
         </select>
         <p style={{ marginTop: 12 }}><Link to="/search" className="small">清除所有條件</Link></p>
+        </details>
       </aside>
       <section>
         <div className="tabs" role="tablist">
