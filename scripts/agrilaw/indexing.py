@@ -44,11 +44,13 @@ def build() -> dict:
         detail = {k: l.get(k) for k in ("id", "name", "level", "category", "official_url", "modified_date", "effective_date",
                                         "effective_note", "abandon_note", "status", "histories", "articles", "attachments",
                                         "topics", "core", "sources", "primary_source", "rmis", "cross_check", "flags",
-                                        "former_names", "last_checked", "last_changed", "first_seen", "change_log", "foreword")}
+                                        "former_names", "last_checked", "last_changed", "first_seen", "change_log", "foreword",
+                                        "county", "docno_text", "published_date", "system_path", "review")}
         detail["versions"] = versions
         write_json(out / "laws" / f"{l['id']}.json", detail, compact=True)
         law_index.append({"id": l["id"], "n": l["name"], "lv": l.get("level"), "st": l.get("status"), "md": l.get("modified_date"),
                           "tp": l.get("topics", []), "core": bool(l.get("core")), "src": l.get("primary_source"),
+                          "u": l.get("official_url"), **({"cty": l["county"], "scn": l.get("scenarios", [])} if l.get("county") else {}),
                           "h": [[h.get("date"), h.get("text", "")[:160]] for h in l.get("histories", []) if h.get("date")],
                           "a": [[a["key"], a.get("label"), a.get("chapter"), a["text"]] for a in l["articles"]]})
     write_json(out / "search-laws.json", law_index, compact=True)
@@ -90,7 +92,8 @@ def build() -> dict:
     write_json(out / "sources.json", {
         "registry": src_reg, "status": status, "audit": audit_by, "audit_checked_at": audit.get("checked_at"),
         "agencies": list(agencies.values()), "historical": reg["historical"], "per_agency": per_agency,
-        "catalog": read_json(paths.META / "datamoa-catalog.json", None)}, compact=True)
+        "catalog": read_json(paths.META / "datamoa-catalog.json", None),
+        "local_candidates": read_json(paths.META / "local-candidates.json", None)}, compact=True)
 
     # ---- update log
     runs = []
@@ -123,9 +126,23 @@ def build() -> dict:
         "synonyms": load_yaml(paths.CONFIG / "synonyms" / "search_synonyms.yaml")["groups"],
         "latest": {"interps": [x["id"] for x in it_index[:8]], "tech": [x["id"] for x in tech_index[:6]],
                    "laws": [l["id"] for l in sorted(laws, key=lambda l: l.get("modified_date") or "", reverse=True)[:6]]},
+        "counties": county_summary(laws),
     }
     write_json(out / "manifest.json", manifest, compact=True)
     return {"out": str(out), **counts}
+
+
+def county_summary(laws: list[dict]) -> list[dict]:
+    """縣市選單：依 config/local/counties.yaml；收錄數以實際資料計算，未查核者 checked=false。"""
+    p = paths.CONFIG / "local" / "counties.yaml"
+    cfg = (load_yaml(p) or {}).get("counties", []) if p.exists() else []
+    n: dict[str, int] = {}
+    for l in laws:
+        if l.get("county"):
+            n[l["county"]] = n.get(l["county"], 0) + 1
+    out = [{"name": c["name"], "checked": bool(c.get("checked")), "laws": n.get(c["name"], 0), "law_system": c.get("law_system"),
+            "auto_sync": bool(c.get("auto_sync")), "note": " ".join(str(c.get("audit") or "").split())} for c in cfg]
+    return sorted(out, key=lambda c: (not c["checked"], -c["laws"]))
 
 
 def health(max_age_hours: float) -> tuple[bool, str]:

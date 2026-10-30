@@ -34,4 +34,5 @@ export interface SourcesData {
   historical: { reorg_date: string; mappings: { historical: string; aliases?: string[]; successor: string; note?: string }[] };
   per_agency: Record<string, { laws: number; interps: number; tech: number }>;
   catalog: { discovered_at: string; datasets: { unit_id: string; title: string; organ: string; agency_id: string }[] } | null;
+  local_candidates?: Record<string, { checked_at: string; candidates: { law_system_id: string; name: string; url: string }[] }> | null;
 }

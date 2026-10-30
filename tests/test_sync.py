@@ -82,7 +82,7 @@ def test_new_record_added(seeded):
 
 def test_outage_keeps_data(seeded):
     snapshot = {p.name: p.read_text() for p in paths.INTERP.glob("*.json")}
-    log = run("daily", FakeClient(down=["rmis.ardswc.gov.tw", "law.moj.gov.tw"]))
+    log = run("daily", FakeClient(down=["rmis.ardswc.gov.tw", "law.moj.gov.tw", "law.taichung.gov.tw"]))
     assert src(log, "rmis-interpretations")["status"] != "ok"
     assert log["result"] == "failed"
     after = {p.name: p.read_text() for p in paths.INTERP.glob("*.json")}

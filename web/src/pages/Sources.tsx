@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { getManifest, getSources } from "../lib/data";
 import { dt } from "../lib/text";
 import { ErrorBox, ExtLink, Loading, Section, useAsync } from "../components/ui";
@@ -8,6 +9,7 @@ export const AUDIT: Record<string, [string, string]> = {
   pending_license: ["已找到來源但尚未取得授權／robots 不允許", "part"], not_identified: ["尚未確認有適當資料來源", "fail"], discontinued: ["官方來源已停用", "fail"],
   unreachable: ["來源暫時無法連線", "fail"], no_relevant_data: ["經查核沒有與本專案相關的公開資料", ""],
 };
+export const ISSUE_URL = "https://github.com/ottoted34/taiwan-agri-land-law/issues/new?template=local-regulation.yml";
 const PRI = ["", "第一優先（核心）", "第二優先", "第三優先（特定業務）"];
 
 export default function Sources() {
@@ -19,6 +21,25 @@ export default function Sources() {
     <h1>資料來源與更新狀態</h1>
     <div className="callout" style={{ marginBottom: 16 }}>「已同步」不代表該機關所有歷史文件均已收錄；「查無資料」不代表官方沒有相關資料。本站未虛構任何涵蓋率百分比。
       來源盤點於 {s.registry.last_reviewed} 人工確認，之後每月自動重新檢查連線與 robots 規則（最近一次：{dt(s.audit_checked_at)}）。</div>
+    <Section title="地方規定（縣市）" right={<a id="local" className="btn small" href={ISSUE_URL} target="_blank" rel="noopener noreferrer">提供地方規定 ↗</a>}>
+      <p className="small">地方自治法規、審查要點等地方規定<strong>依縣市分開收錄</strong>，只適用於該縣市。官方法規系統經確認 robots.txt 未限制擷取且資料可合法利用者才自動同步；
+        其餘縣市顯示「尚未查核」。未收錄不代表該縣市沒有相關規定。</p>
+      <div className="scroll-x"><table className="t"><thead><tr><th style={{ whiteSpace: "nowrap" }}>縣市</th><th>收錄數</th><th>同步方式</th><th>查核說明</th></tr></thead>
+        <tbody>{(man.counties || []).filter((c) => c.checked).map((c) => <tr key={c.name}>
+          <td style={{ whiteSpace: "nowrap" }}><span className="status-dot ok" /> <Link to={`/laws?county=${encodeURIComponent(c.name)}`}>{c.name}</Link></td><td>{c.laws}</td>
+          <td className="small" style={{ whiteSpace: "nowrap" }}>{c.auto_sync ? <>自動同步{c.law_system && <><br /><ExtLink href={c.law_system}>官方法規系統</ExtLink></>}</> : "人工補充"}</td>
+          <td className="tiny muted">{c.note}</td></tr>)}</tbody></table></div>
+      <p className="small"><span className="status-dot" /> <strong>尚未查核</strong>：{(man.counties || []).filter((c) => !c.checked).map((c) => c.name).join("、")}</p>
+      <h3>其他縣市同仁：歡迎提供地方規定</h3>
+      <ol className="small">
+        <li>按右上「提供地方規定」，在 GitHub 填寫表單：縣市、法規名稱、<strong>官方網址（必填）</strong>、發布或修正日期、施行日期、提供者單位（選填）。需有 GitHub 帳號（免費）。</li>
+        <li>表單內容會公開，請只提供已公開之官方資料，<strong>勿填寫個人姓名、身分證字號、地號或個案資料</strong>。</li>
+        <li>管理者至官方網址核對名稱、日期與全文後才會收錄；核對結果會回覆在該 Issue。收錄不代表機關認可，網站仍以官方公告為準。</li>
+      </ol>
+      {s.local_candidates && Object.entries(s.local_candidates).map(([cty, v]) => v.candidates.length > 0 && <details key={cty} className="small">
+        <summary>{cty}：系統自官方分類頁列出之待審核候選 {v.candidates.length} 筆（尚未收錄）</summary>
+        <ul>{v.candidates.map((c) => <li key={c.law_system_id}><ExtLink href={c.url}>{c.name}</ExtLink>（{c.law_system_id}）</li>)}</ul></details>)}
+    </Section>
     <Section title="自動同步來源狀態">
       <div className="scroll-x"><table className="t"><thead><tr><th>來源</th><th>最近檢查</th><th>結果</th><th>最近成功同步</th><th>最近完整比對</th><th>最近資料異動</th></tr></thead>
         <tbody>{Object.entries(s.status).map(([id, st]) => { const [l, c] = SRC_STATUS[st.last_status || ""] || [st.last_status, ""]; return <tr key={id}>

@@ -1,3 +1,4 @@
+import { LocalTag } from "../components/county";
 import { useEffect, useMemo } from "react";
 import { Link, useLocation, useParams } from "react-router-dom";
 import { getInterps, getLaw } from "../lib/data";
@@ -35,7 +36,10 @@ export default function LawPage() {
 
   return <div className="layout-detail">
     <article>
-      <div className="row"><TypeTag kind={law.level === "行政規則" ? "rule" : "law"} /><span className="small muted">{law.level}｜{law.category}</span></div>
+      <div className="row"><TypeTag kind={law.level === "行政規則" ? "rule" : "law"} />{law.county && <LocalTag county={law.county} />}<span className="small muted">{law.level}｜{law.category}</span></div>
+      {law.county && <div className="callout small" style={{ margin: "8px 0" }}>本法規為<strong>{law.county}</strong>地方規定，只適用於{law.county}轄區案件。
+        {law.published_date && <> 公發布日 {roc(law.published_date, true)}。</>}{law.docno_text && <> 最新發文字號：{law.docno_text}。</>}
+        {law.review && <> 收錄審核：{law.review.reviewed_by || "—"}（{law.review.reviewed_at || "—"}）{law.review.issue && <>，<a href={law.review.issue} target="_blank" rel="noopener noreferrer">審核紀錄 ↗</a></>}。</>}</div>}
       <h1>{law.name}</h1>
       <dl className="kv card" style={{ marginBottom: 16 }}>
         <dt>狀態</dt><dd>{STATUS[law.status] || law.status}{law.effective_note && <div className="small">施行說明：{law.effective_note}</div>}{law.abandon_note && <div className="small">廢止：{law.abandon_note}</div>}</dd>

@@ -19,6 +19,8 @@
 | cross_check | 兩官方來源條文比對結果 |
 | content_hash, first_seen, last_checked, last_changed, change_log[] | 版本管理 |
 
+地方規定：`id` 為「縣市代碼-該縣市法規系統代碼」（如 `TXG-GL000357`），另有 `county`（縣市）、`published_date`（公發布日）、`docno_text`（最新發文字號）、`system_path`（法規體系）、`scenarios[]`（對應案件審查輔助情境）、`review`（管理者審核紀錄 `{reviewed_by, reviewed_at, basis, issue}`）。設定見 `config/local/counties.yaml`；待審核候選見 `data/metadata/local-candidates.json`。
+
 版本：`data/laws/versions/<id>/<version>.json`。`kind=captured` 為本站擷取之現行條文快照（每次內容雜湊改變即新增）；`kind=official_history` 為 RMIS 歷史沿革頁（`is_full_text` 標示是否含全文）。
 
 ## 函釋 `data/interpretations/<id>.json`
