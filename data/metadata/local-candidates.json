@@ -1,0 +1,48 @@
+{
+ "臺中市": {
+  "checked_at": "2026-10-30T14:25:39+08:00",
+  "source_id": "local-taichung",
+  "candidates": [
+   {
+    "law_system_id": "GL001238",
+    "name": "臺中市陸上魚塭養殖漁業登記及管理自治條例",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=GL001238"
+   },
+   {
+    "law_system_id": "FL035348",
+    "name": "臺中縣陸上魚塭養殖漁業登記及管理規則(原繼續適用)",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=FL035348"
+   },
+   {
+    "law_system_id": "GL001239",
+    "name": "臺中縣陸上漁塭養殖漁業登記及管理規則(原繼續適用)",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=GL001239"
+   },
+   {
+    "law_system_id": "GL000356",
+    "name": "臺中市申請農業用地整地審查作業要點",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=GL000356"
+   },
+   {
+    "law_system_id": "GL000354",
+    "name": "臺中市政府辦理農業用地申請賦稅減免優惠案件抽查作業要點",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=GL000354"
+   },
+   {
+    "law_system_id": "GL000850",
+    "name": "臺中市政府辦理農業設施栽培材料拆遷補償基準",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=GL000850"
+   },
+   {
+    "law_system_id": "GL000353",
+    "name": "臺中市農業設施高度及樓層審查標準",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=GL000353"
+   },
+   {
+    "law_system_id": "GL001263",
+    "name": "臺中市辦理徵收土地農作改良物水產養殖物及畜禽類補償遷移費查估基準",
+    "url": "https://law.taichung.gov.tw/LawContent.aspx?id=GL001263"
+   }
+  ]
+ }
+}

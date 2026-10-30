@@ -242,7 +242,7 @@
    }
   ],
   "modified_date": "2025-12-26",
-  "fetched_at": "2026-10-30T13:19:05+08:00"
+  "fetched_at": "2026-10-30T14:23:39+08:00"
  },
  "content_hash": "16a00b095e41793d7306e54b409ed0bb3bace584a3fe9b7b2a1a30239a0c62bc",
  "last_checked": "2026-10-30T13:18:51+08:00",
@@ -250,7 +250,7 @@
  "last_changed": "2026-10-30T12:07:25+08:00",
  "cross_check": {
   "source": "rmis-laws",
-  "at": "2026-10-30T13:19:32+08:00",
+  "at": "2026-10-30T14:24:04+08:00",
   "rmis_modified": "2025-12-26",
   "moj_modified": "2025-12-26",
   "article_count_rmis": 17,
