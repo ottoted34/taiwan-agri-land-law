@@ -1,5 +1,7 @@
 # 評估：以 Google 表單收集各縣市地方規定
 
+表單網址：https://forms.gle/UiC2xsxrAwgb5pns5（2026-10-30 建立）
+
 結論：**可行**。2026-10-30 擁有者決定以 Google 表單為唯一提供管道（原 GitHub Issue 表單因需 GitHub 帳號、預期使用者少，已移除）。收錄仍一律經管理者審核（`docs/maintenance.md` 第 5 節），不自動上線。
 
 ## 比較

@@ -133,7 +133,7 @@ sources:
     formats: [HTML]
     robots: 無 robots.txt（HTTP 404），未限制
     license: 網站有「政府網站資料開放宣告」頁面，但頁尾另載「網站全部圖文版權係屬本署所有，非經本署正式書面同意，不得轉載」，兩者不一致
-    note: 2026-10-30 Repository 擁有者同意收錄（公文依著作權法第9條不得為著作權之標的）。只收錄法規名稱或主旨含山坡地、林業用地、農業用地、容許使用、回饋金、保安林、森林法等關鍵字者（collectors/agency_letters.py FOREST_KEYWORDS），野生動物保育等不收錄
+    note: 2026-10-30 Repository 擁有者同意收錄（公文依著作權法第9條不得為著作權之標的）。只收錄法規名稱或主旨含山坡地、林業用地、農業用地、農牧用地、容許使用、林業設施、農業設施、回饋金者（擁有者指定）（collectors/agency_letters.py FOREST_KEYWORDS），野生動物保育等不收錄
     fulltext: true
     auto_update: daily（前3頁）／weekly（全部列表）／monthly（全部明細重新比對）
     audit_status: synced_partial

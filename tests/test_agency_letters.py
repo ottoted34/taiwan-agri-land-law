@@ -1,6 +1,6 @@
 """林保署公文函釋、農業綠能函釋：解析、與既有（RMIS）函釋合併、失敗不影響既有資料。"""
 from agrilaw import paths
-from agrilaw.collectors.agency_letters import parse_forest_detail, parse_forest_list, parse_talis_detail, parse_talis_list
+from agrilaw.collectors.agency_letters import forest_relevant, parse_forest_detail, parse_forest_list, parse_talis_detail, parse_talis_list
 from agrilaw.store import Store
 from agrilaw.sync import Run
 from fakeclient import FakeClient
@@ -46,3 +46,10 @@ def test_forest_new_letter_and_outage(data_dir):
     log = Run("daily", client=FakeClient(down=["forest.gov.tw"]), only=["forest-interpretations"]).execute()
     assert log["sources"][0]["status"] == "failed"
     assert Store(paths.INTERP).get(rec["id"])["content"] == rec["content"]
+
+
+def test_forest_filter_is_narrow():
+    assert forest_relevant({"law": "山坡地開發利用回饋金繳交辦法", "subject": "回饋金疑義"})
+    assert forest_relevant({"law": "森林法", "subject": "林業用地作林業設施容許使用疑義"})
+    assert not forest_relevant({"law": "森林法", "subject": "國有林產物處分疑義"})
+    assert not forest_relevant({"law": "野生動物保育法", "subject": "保育類野生動物飼養疑義"})
