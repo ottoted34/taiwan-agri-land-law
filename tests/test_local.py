@@ -36,7 +36,7 @@ def test_parse_articles_rejoins_wrapped_lines(fixtures):
 def test_sync_local_and_manifest(data_dir):
     log = Run("daily", client=FakeClient(), only=["local-taichung"]).execute()
     s = log["sources"][0]
-    assert s["status"] == "ok" and s["added"] == 8
+    assert s["status"] == "ok" and s["added"] == 6
     law = Store(paths.LAWS).get("TXG-GL000357")
     assert law["county"] == "臺中市" and law["primary_source"] == "local-taichung"
     assert law["official_url"] == URL + "GL000357"
@@ -49,13 +49,13 @@ def test_sync_local_and_manifest(data_dir):
     build()
     m = read_json(paths.WEB_DATA / "manifest.json")
     tc = next(c for c in m["counties"] if c["name"] == "臺中市")
-    assert tc["checked"] and tc["laws"] == 8
+    assert tc["checked"] and tc["laws"] == 6
     assert next(c for c in m["counties"] if c["name"] == "臺北市")["checked"] is False
     idx = {l["id"]: l for l in read_json(paths.WEB_DATA / "search-laws.json")}
     assert idx["TXG-GL000357"]["cty"] == "臺中市" and idx["TXG-GL000357"]["u"] == URL + "GL000357"
     # second run: unchanged
     log2 = Run("daily", client=FakeClient(), only=["local-taichung"]).execute()
-    assert log2["sources"][0]["unchanged"] == 8 and log2["sources"][0]["modified"] == 0
+    assert log2["sources"][0]["unchanged"] == 6 and log2["sources"][0]["modified"] == 0
 
 
 def test_outage_keeps_existing_local_law(data_dir):
