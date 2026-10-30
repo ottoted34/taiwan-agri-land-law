@@ -1,0 +1,14 @@
+# status 200
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /index.php
+Allow: /cht/$
+Allow: /cht/index.php
+Allow: /eng/$
+Allow: /eng/index.php
+Allow: /sitemap.xml
+Allow: /*.html
+
+User-Agent: W3C-checklink
+Disallow:

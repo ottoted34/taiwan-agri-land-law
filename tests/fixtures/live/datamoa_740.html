@@ -1,0 +1,535 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta property ="og:type" content="website"/>
+<meta property ="og:url" content="/open_search.aspx"/>
+<meta property ="og:image" content="/upload/112(0321)開放平台banner-03縮小.jpg"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta id="goosleSiteVerification" name="google-site-verification" content="rSWS3yAAKmIE_O2ppSqqUyLAANSVVlVVzZ19fD8DG5s"></meta>
+
+
+    <link rel="api" type="application/x.atom+xml" title="農業資料開放平臺" href="https://data.moa.gov.tw/openapi.json"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" rel="stylesheet">
+    <link href="/app.css" rel="stylesheet" />
+    <link href="/assets/build/app.bundle.css" rel="stylesheet" />
+    <!-- jQuery UI (前台共用) -->
+    <link rel="stylesheet" href="/javascript/jquery-ui/jquery-ui.min.css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R2CRY7L0BM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-R2CRY7L0BM');
+    </script>
+    <script src="/javascript/jquery.js"></script>
+    <script src="/javascript/jquery.barrating.min.js"></script>
+    <script src="/javascript/jquery-ui/jquery-ui.min.js"></script>
+    <script src="/javascript/jquery.blockUI.js"></script>
+    <script src="/javascript/Master.js"></script>
+     <!-- 全站共用工具函式庫 -->
+    <script src="/javascript/Base.js"></script>
+    
+    <title>
+        臺南區農業改良場技術專刊目錄
+        - 農業資料開放平臺</title>
+
+
+    <style>
+        .modal-close {
+            background-color: rgba( 35, 40, 22, 0.5)
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="main-header">
+        <div class="container full header-wrapper">
+            <span id="lbShowTitle"><font color="Red"></font></span>
+            <div class="logo-wrapper"><a class="logo" href="/index.aspx"></a></div>
+            <div id="menu-btn">
+                <div><span></span><span></span><span></span></div>
+            </div>
+            <div class="menu-wrapper">
+                <div id="closeMenu"></div>
+                <nav>
+                    <div class="nav-link user-func">
+                        
+                        <div><a href="/login.aspx">登入</a><span></span><a href="/join.aspx">註冊</a></div>
+                        
+                    </div>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  ">
+                            <i class="fas fa-th"></i><span>關於平台</span>
+                            <i class="last fas fa-angle-down"></i></a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/about.aspx">平台介紹</a>
+                            <a href="/PlatFrom.aspx">平台消息</a>
+                            <a href="https://data.gov.tw/license" target="_blank">授權條款</a>
+                            <a href="/terms.aspx">隱私權保護</a>
+
+                        </div>
+                    </div>
+                    <a class="nav-link " href="/application.aspx">
+                        <i class="fas fa-book"></i><span>應用範例</span>
+
+                    </a>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  ">
+                            <i class="fas fa-download"></i><span>API專區</span>
+                            <i class="last fas fa-angle-down"></i>
+                        </a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/api.aspx">API專區</a>
+                            <a href="/apidocs.aspx">API文件</a>
+
+                        </div>
+                    </div>
+                    
+                    <a class="nav-link " href="/HighValue.aspx"><i class="fas fa-comments"></i><span>高應用價值主題專區</span></a>
+                    <a class="nav-link " href="/Thematic.aspx"><i class="fas fa-comments"></i><span>主題式資料</span></a>
+                    <a class="nav-link " href="/open.aspx"><i class="fas fa-comments"></i><span>資料開放</span></a>
+                    <a class="nav-link " href="/History.aspx"><i class="fas fa-comments"></i><span>歷史資料</span></a>
+                    <a class="nav-link " href="/question.aspx"><i class="fas fa-comments"></i><span>常見問答</span></a>
+                    
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- button-->
+    <a href="#open-modal" class="btn problem-return btnErrrorReport">
+        <i class="fas fa-exclamation-triangle"></i>
+        問題回報
+    </a>
+    
+    <div id="open-modal" class="modal-window">
+        <div class="modal-body">
+            <a href="#" title="Close" class="modal-close"><span aria-hidden="false"></span></a>
+            <div class="data-search data-content">
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">填報時間</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportDate"></p>
+                        <input type="hidden" id="hdErrorReportDate" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題網址</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportAddress"></p>
+                        <input type="hidden" id="hdErrorReportAddress" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">姓名<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="text" id="ErrorReportName" placeholder="" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">電子郵件<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="email" id="ErrorReportEmail" placeholder="example@mail.com" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題描述<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <textarea class="textarea" id="ErrprReportDescription" placeholder="" required=""></textarea>
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">請輸入驗證碼<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <div class="field is-horizontal">
+                            <div class="field-body">
+                                <div class="field">
+                                    <div class="control">
+                                        <input class="input" type="password" id="ErrorCode" placeholder="請輸入圖像驗證碼" autocomplete="off" maxlength="4">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field-label is-input">
+                                <label class="label">
+                                    <img src="/api/ErrorReturn/ErrorCode.ashx?rnd=507668" alt="驗證碼" style="height: 40px; max-width: 100px" imgerrorcode="">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <a class="button is-success submit-btn ErrorReportbtn " onclick="">送出</a>
+                <a class="button submit-btn ErrorReportChannelbtn" onclick="">取消</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Header -->
+    <div class="content-area">
+        
+        <div class="page-banner-wrapper" style="background: url('/upload/112(0321)開放平台banner-03縮小.jpg') 50% 50% / cover;"></div>
+        
+    <form method="post" action="./open_search.aspx?id=740" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkzNDAxODI5Mg8WDB4DbWlkBQM3NDAeCUlzUHJldmlld2geElF1ZXJ5Q29uZGl0aW9uTGlzdDKEBwABAAAA/////wEAAAAAAAAABAEAAADaAlN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuS2V5VmFsdWVQYWlyYDJbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV0sW09wZW5EYXRhSGVscGVyK1F1ZXJ5Q29uZGl0aW9uLCBBcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXSwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgMAAOoBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuS2V5VmFsdWVQYWlyYDJbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV0sW09wZW5EYXRhSGVscGVyK1F1ZXJ5Q29uZGl0aW9uLCBBcHBfQ29kZSwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXVtdCAgJAgAAAAAAAAAAAAAABwIAAAAAAQAAAAAAAAAD6AFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5LZXlWYWx1ZVBhaXJgMltbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XSxbT3BlbkRhdGFIZWxwZXIrUXVlcnlDb25kaXRpb24sIEFwcF9Db2RlLCBWZXJzaW9uPTAuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dCx4ST3JpZ2luYWxTZXJ2aWNlVXJsBUhodHRwczovL2RhdGEubW9hLmdvdi50dy9TZXJ2aWNlL09wZW5EYXRhL0RhdGFGaWxlU2VydmljZS5hc3B4P1VuaXRJZD03NDAeC1NlcnZpY2VUeXBlAgIeFlJlcXVpcmVRdWVyeUNvbHVtbkxpc3QyzAEAAQAAAP////8BAAAAAAAAAAQBAAAAf1N5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgYAAAgICQIAAAAAAAAAAAAAABECAAAAAAAAAAsWAmYPZBYGZg8WAh4HY29udGVudAUrclNXUzN5QUFLbUlFX08ycHBTcXFVeUxBQU5TVlZsVlZ6WjE5ZkQ4REc1c2QCAQ9kFgICAQ8WAh4EVGV4dAUq6Ie65Y2X5Y2A6L6y5qWt5pS56Imv5aC05oqA6KGT5bCI5YiK55uu6YyEZAIDD2QWAgIBD2QWEGYPDxYCHwcFAzc0MGRkAgEPDxYEHwcFP2h0dHBzOi8vZGF0YS5tb2EuZ292LnR3L1NlcnZpY2UvT3BlbkRhdGEvRGF0YUZpbGVTZXJ2aWNlLmFzcC4uLh4LTmF2aWdhdGVVcmwFnAFodHRwczovL2RhdGEubW9hLmdvdi50dy9TZXJ2aWNlL1JlZGlyZWN0U2VydmljZS5hc3B4P1VuaXRJZD03NDAmdXJsPWh0dHBzJTNhJTJmJTJmZGF0YS5tb2EuZ292LnR3JTJmU2VydmljZSUyZk9wZW5EYXRhJTJmRGF0YUZpbGVTZXJ2aWNlLmFzcHglM2ZVbml0SWQlM2Q3NDBkZAICDxYCHwcFKuiHuuWNl+WNgOi+sualreaUueiJr+WgtOaKgOihk+WwiOWIiuebrumMhGQCAw8WAh8HBSroh7rljZfljYDovrLmpa3mlLnoia/loLTmioDooZPlsIjl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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07772146" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABywNDlRs6drsNvr2OyO2oUlESbzbPPnUjDRJlvbg8q4PlvJNsSinWwwiIClh7cMELdwFz0JcvNxPDQHJzZveI0po+LVdUrF8zVUDFjTd1F+VZBaKiTgm6zV9k/xuQAMtjQoeGVdIMg/BDDE6vzxB2I00YIbyTGbGwxvhNvGiSkDNciicKUuZN6wvOyQnazObJO88B9+WfByjarhWN5WYc76wj2C3fBbkZSMpgGs2Ki29u8pjK19wqCyn9OeFFHXV8EgbA839n0RnkAYch5TSxXGNV8hg73knC8rbVD6kB6CwBu2TauvejqPmaJ2shGbcSIzJrUUOekMtuKzsrkO5viIkknkSnv+XcuvSFMXZ+D1DjEKV2on4d+LaM7c1UEeA9JDjouiUC3Xl0zgFmTKZInEvJfc/44Zcd2athgmFYd+amvn2ANIJ6HwqjBDFgFE4gYgE2j2TA8BNYMMxeKTR01tFIIleRmd0rbQtxnLltu56mbZys733z4y4gKAvXl3g2bW13PyeG8PzmqqoKvQBkAV0vA8vypvn/jI4rMTher/NSbdyYsQud0gM/vD846YxXH/KuVtpaN7xCkgfqXqBvhHi3pMsSCRxs11XpV4SB7VNiPVhkq9ow3r7kR4C54FBII=" />
+        <span id="ContentPlaceHolder1_m_PostUnitId" class="m_PostUnitId" style="display: none">740</span>
+        <input type="hidden" id="JsonData" name="JsonData" />
+        
+        <article class="container">
+            <div class="top-info">
+                <h3 class="title-h3">資料開放<span>OpenData</span></h3>
+                <div class="page-breadcrumb">
+                    <a class="icon-logo" href="/index.aspx"></a>
+                    <i class="fas fa-angle-right"></i>
+                    <a href="/open.aspx">資料開放</a>
+                    <i class="fas fa-angle-right"></i>
+                    <a href="/open_detail.aspx?id=740">
+                        臺南區農業改良場技術專刊目錄
+                    </a>
+                </div>
+            </div>
+            <hr>
+            <div class="category-container">
+                <div class="data-wrapper">
+                    <h4 class="title-h4">
+                        臺南區農業改良場技術專刊目錄</h4>
+                    
+                    
+                    <table id="ContentPlaceHolder1_m_condtable" class="data-search">
+	<tr class="data-search-wrapper">
+		<td class="data-search-list">
+                                    <div class="search-input">
+                                        <label class="label is-small">查詢條件</label>
+                                    </div>
+                                    <div class="search-input">
+                                        <div class="select is-fullwidth is-small">
+                                            <select name="ctl00$ContentPlaceHolder1$m_QueryColumns" id="ContentPlaceHolder1_m_QueryColumns" class="searchSelect" onchange="__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_QueryColumns&#39;,&#39;&#39;);">
+			<option selected="selected" value="-2">---請選擇---</option>
+			<option value="編號">編號</option>
+			<option value="題目">題目</option>
+			<option value="作者">作者</option>
+			<option value="出版日期年月">出版日期年月</option>
+			<option value="頁數">頁數</option>
+			<option value="定價">定價</option>
+			<option value="政府出版品編號GPN">政府出版品編號GPN</option>
+			<option value="ISBN">ISBN</option>
+			<option value="備註">備註</option>
+
+		</select>
+                                        </div>
+                                    </div>
+                                    <div class="search-input">
+                                        <div class="select is-fullwidth is-small">
+                                            <select name="ctl00$ContentPlaceHolder1$m_QueryOperator" id="ContentPlaceHolder1_m_QueryOperator" class="searchSelect">
+
+		</select>
+                                        </div>
+                                    </div>
+                                    <div class="search-input">
+                                        <input name="ctl00$ContentPlaceHolder1$m_ConditionText" type="text" id="ContentPlaceHolder1_m_ConditionText" class="input is-small searchInput" />
+                                    </div>
+                                    <div class="search-input">
+                                        <div class="buttons">
+                                            <a id="ContentPlaceHolder1_m_Query" class=" button is-link is-small" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_Query&#39;,&#39;&#39;)">查詢</a>
+                                            <a id="ContentPlaceHolder1_m_ClearCondition" class="button is-link is-small reset-input" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_ClearCondition&#39;,&#39;&#39;)">清除</a>
+                                            <a id="ContentPlaceHolder1_m_AddCondition" class="button is-link is-small" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_AddCondition&#39;,&#39;&#39;)">增加條件</a>
+                                        </div>
+                                    </div>
+                                </td>
+	</tr>
+</table>
+
+
+                    
+                        <div class="data-search">
+                            <div class="data-search-list">
+                                <div class="search-input">
+                                    <label class="label is-small">條件運算式</label>
+                                </div>
+                                <div class="search-input">
+                                    <select name="ctl00$ContentPlaceHolder1$m_Operator" id="ContentPlaceHolder1_m_Operator" class="searchSelect">
+	<option selected="selected" value="and">and</option>
+	<option value="or">or</option>
+
+</select>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    
+                    <div id="ContentPlaceHolder1_m_DownloadFormat" class="data-search">
+                        <div class="data-search-list">
+                            <div class="search-input">
+                                <label class="label is-small">資料下載格式</label>
+                            </div>
+                            <div>
+                                <div class="tags">
+                                    <a onclick="NewWindow();" id="ContentPlaceHolder1_m_JSON" class="tag is-type-1" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_JSON&#39;,&#39;&#39;)">JSON</a>
+                                    <a id="ContentPlaceHolder1_m_XML" class="tag is-type-2" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_XML&#39;,&#39;&#39;)">XML</a>
+                                    <a id="ContentPlaceHolder1_m_CSV" class="tag is-type-3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_CSV&#39;,&#39;&#39;)">CSV</a>
+                                    
+                                </div>
+                                <p class="result">
+                                    
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-responsive">
+                        <div id="ContentPlaceHolder1_tabs_data" class="depthbox" style="overflow: scroll;">
+	
+                            <div>
+		<table class="ResultGrid table is-bordered is-hoverable data-search-table" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_m_ResultGrid">
+			<tr>
+				<th class="top_bg" align="center" valign="top" scope="col">編號</th><th class="top_bg" align="center" valign="top" scope="col">題目</th><th class="top_bg" align="center" valign="top" scope="col">作者</th><th class="top_bg" align="center" valign="top" scope="col">出版日期年月</th><th class="top_bg" align="center" valign="top" scope="col">頁數</th><th class="top_bg" align="center" valign="top" scope="col">定價</th><th class="top_bg" align="center" valign="top" scope="col">政府出版品編號GPN</th><th class="top_bg" align="center" valign="top" scope="col">ISBN</th><th class="top_bg" align="center" valign="top" scope="col">連結位址1PDF</th><th class="top_bg" align="center" valign="top" scope="col">連結位址2HTM</th><th class="top_bg" align="center" valign="top" scope="col">備註</th>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊115-1(<span title="技術專刊115-1(NO.183)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">設施小胡瓜健康管理技<span title="設施小胡瓜健康管理技術" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">王志瑋、林國詞、林經<span title="王志瑋、林國詞、林經偉、黃秀雯、楊清富、趙秀淓 (按筆畫順序)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11508</td><td class="box1" align="center" valign="top">36</td><td class="box1" align="center" valign="top">100</td><td class="box1" align="center" valign="top">1011501033</td><td class="box1" align="center" valign="top">978-626-44<span title="978-626-446-075-0" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/tech183.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊114-4(<span title="技術專刊114-4(NO.182)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">芒果健康管理技術</td><td class="box1" align="center" valign="top">王志瑋、石佩玉、吳雅<span title="王志瑋、石佩玉、吳雅芳、張錦興、陳盈丞、陳曉菁、潘佳辰、蔡小涵、鍾瑞永" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11411</td><td class="box1" align="center" valign="top">87頁</td><td class="box1" align="center" valign="top">110</td><td class="box1" align="center" valign="top">1011401407</td><td class="box1" align="center" valign="top">978-626-76<span title="978-626-7651-85-8" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/tech182.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊114-3(<span title="技術專刊114-3(NO.181)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">臺南場近期農機研發成<span title="臺南場近期農機研發成果彙編" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">楊清富、王志瑋、鍾瑞<span title="楊清富、王志瑋、鍾瑞永" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11407</td><td class="box1" align="center" valign="top">17頁</td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top">1011400802</td><td class="box1" align="center" valign="top">978-626-76<span title="978-626-7651-57-5" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/tech181.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊114-2(<span title="技術專刊114-2(NO.180)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">田野裡的美味日常－雲<span title="田野裡的美味日常－雲林篇" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">作者：發行人：陳昱初<span title="作者：發行人：陳昱初｜主編：李郁淳、吳雅芳｜編輯：李苡禎、蔡永靖｜攝影：李苡禎、蔡永靖、陳婉伶" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11404</td><td class="box1" align="center" valign="top">134頁</td><td class="box1" align="center" valign="top">250</td><td class="box1" align="center" valign="top">1011400380</td><td class="box1" align="center" valign="top">978-626-76<span title="978-626-7651-28-5" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/yunlindailyfood.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊114-1(<span title="技術專刊114-1(NO.179)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">菱角友善栽培管理</td><td class="box1" align="center" valign="top">黃瑞彰、黃涵靈、張淳<span title="黃瑞彰、黃涵靈、張淳淳" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11403</td><td class="box1" align="center" valign="top">28頁</td><td class="box1" align="center" valign="top">100</td><td class="box1" align="center" valign="top">1011400317</td><td class="box1" align="center" valign="top">978-626-76<span title="978-626-7651-25-4" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/TrapaCulture_no179.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊112-1(<span title="技術專刊112-1(NO.178)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">田野裡的美味日常-嘉<span title="田野裡的美味日常-嘉義篇" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">李苡禎、李郁淳、陳婉<span title="李苡禎、李郁淳、陳婉伶、陳勵勤" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11201</td><td class="box1" align="center" valign="top">66頁</td><td class="box1" align="center" valign="top">250</td><td class="box1" align="center" valign="top">1011200046</td><td class="box1" align="center" valign="top">978-626-71<span title="978-626-7110-62-1" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/chiayidailyfood.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊111-1(<span title="技術專刊111-1(NO.177)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">小農申設農產初級加工<span title="小農申設農產初級加工場指南" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">陳曉菁、鄭智遠、沈家<span title="陳曉菁、鄭智遠、沈家儀、彭思錦、張錦興、楊宏瑛、王仕賢" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11107</td><td class="box1" align="center" valign="top">52頁</td><td class="box1" align="center" valign="top">120</td><td class="box1" align="center" valign="top">1011100837</td><td class="box1" align="center" valign="top">978-626-71<span title="978-626-7100-83-7" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/tech177.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊110-3(<span title="技術專刊110-3(NO.176)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">大雜糧產銷價值鏈產研<span title="大雜糧產銷價值鏈產研合作專刊" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">吳昭慧、孫銘賢、陳立<span title="吳昭慧、孫銘賢、陳立儀、陳國憲、陳勵勤、黃涵靈、謝禮臣" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11012</td><td class="box1" align="center" valign="top">74頁</td><td class="box1" align="center" valign="top">100</td><td class="box1" align="center" valign="top">1011002123</td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/tech176.htm" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊110-2(<span title="技術專刊110-2(NO.175)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">田野裡的美味日常-臺<span title="田野裡的美味日常-臺南篇" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">石郁琴、李郁淳、陳勵<span title="石郁琴、李郁淳、陳勵勤主編" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11011</td><td class="box1" align="center" valign="top">99頁</td><td class="box1" align="center" valign="top">250</td><td class="box1" align="center" valign="top">1011001764</td><td class="box1" align="center" valign="top">978-986-54<span title="978-986-5455-80-4" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/tainan%20daily%20food.pdf" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td class="box1" align="center" valign="top">技術專刊110-1(<span title="技術專刊110-1(NO.174)" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">農作物防減災與生產調<span title="農作物防減災與生產調適" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">石佩玉、吳昭慧、陳國<span title="石佩玉、吳昭慧、陳國憲、陳榮坤、黃士晃、張為斌、張汶肇、張元聰、黃圓滿、郭明池、趙秀淓、游添榮、劉依昌、謝明憲、謝禮臣" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top">11009</td><td class="box1" align="center" valign="top">103頁</td><td class="box1" align="center" valign="top">200</td><td class="box1" align="center" valign="top">1011001378</td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top"></td><td class="box1" align="center" valign="top">https://bo<span title="https://book.tndais.gov.tw/Brochure/tech174.htm" class="m_more" style="cursor:pointer;">...</span></td><td class="box1" align="center" valign="top"></td>
+			</tr><tr>
+				<td colspan="11">
+    
+    <div class="data-pagina Pager " style="height:100%;">
+        <ul class="pagination">
+            
+            <li class="current-page">第 <span id="ContentPlaceHolder1_m_ResultGrid_PageIndex">1</span> 頁 / 共 <span id="ContentPlaceHolder1_m_ResultGrid_TotalPage">12</span> 頁</li>
+            <a id="ContentPlaceHolder1_m_ResultGrid_NextPage" AutoPostBack="True" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_ResultGrid$ctl13$NextPage&#39;,&#39;&#39;)"><li id="ContentPlaceHolder1_m_ResultGrid_next" class="next">
+                <i class="fas fa-angle-right">
+                </i>
+             </li></a>  
+        </ul>
+        <div class="sum">
+            <p>共 <span id="ContentPlaceHolder1_m_ResultGrid_TotalCount">120</span>筆資料，每頁顯示</p>
+            <div class="select">
+                <select name="ctl00$ContentPlaceHolder1$m_ResultGrid$ctl13$PageSizeList" id="ContentPlaceHolder1_m_ResultGrid_PageSizeList">
+					<option value="5">5</option>
+					<option selected="selected" value="10">10</option>
+					<option value="30">30</option>
+					<option value="50">50</option>
+					<option value="100">100</option>
+
+				</select>
+            </div>
+        </div>
+        <div class="go-page"><span>前往第</span>
+            <input name="ctl00$ContentPlaceHolder1$m_ResultGrid$ctl13$PageIndexTextBox" type="text" id="ContentPlaceHolder1_m_ResultGrid_PageIndexTextBox" title="請輸入頁碼" class="input" /><span>頁</span>
+			<a id="ContentPlaceHolder1_m_ResultGrid_GoPage" AutoPostBack="True" class="button is-link" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$m_ResultGrid$ctl13$GoPage&#39;,&#39;&#39;)">前往</a>
+        </div>
+    </div>
+</td>
+			</tr>
+		</table>
+	</div>
+                        
+</div>
+                    </div>
+
+                </div>
+
+            </div>
+        </article>
+    </form>
+
+    <div id="showDetail" title="詳細資料" style="display: none;">
+        
+    </div>
+
+        <!-- Footer -->
+        <footer class="main-footer bg-dark-green ">
+            <div class="container full">
+                <div class="footer-logo">
+                    <img src="/images/footer-logo.png">
+                </div>
+                <div class="footer-info">
+                    
+                    <ul>
+                        <li>台北市中正區南海路37號</li>
+                        <li>服務時間：AM9:00~PM5:30</li>
+                        <li>服務電話：<a href="tel: 07-970-3898">(07)337-5153</a></li>
+                        <li>服務信箱：<a href="mailto:opendata@moa.gov.tw">opendata@moa.gov.tw</a></li>
+                    </ul>
+                    <p>※最佳瀏覽解析度為1024x768</p>
+                    
+                </div>
+                <div class="footer-declare">
+                    <nav><a href="https://data.gov.tw/license">授權條款</a><a href="/terms.aspx">隱私權保護宣告</a></nav>
+                    <p>除另有註明，網站之內容皆採用 政府資料開放平臺資料使用規範</p>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+    </div>
+
+    <script type="text/javascript" src="/assets/build/app.bundle.js"></script>
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var ColumnCount = $(".ResultGrid th").length;
+            if (ColumnCount > 8) {
+                $(".ResultGrid").prop("width", ColumnCount * 120 + "px");
+            }
+            else {
+                //平均分配
+                var avgWidthPert = 100 / ColumnCount;
+
+                $(".ResultGrid").css("width", "100%");
+                $(".ResultGrid th").css("width", avgWidthPert + "%");
+
+                var BrowserWidth = window.innerWidth;
+                if (BrowserWidth < 500) {
+
+                } else {
+                    $('#ContentPlaceHolder1_tabs_data').css("overflow-x", "hidden");
+                }
+            }
+            $(".ResultGrid tr:first").wrap("<thead></thead>");
+            $(".ResultGrid thead").insertBefore(".ResultGrid tbody");
+
+        });
+    </script>
+
+    <script type="text/javascript">
+        //pop用,以下
+        var unBlockBtn = "<input type='button' style='float:right;background-color:#000; color: #fff; width: 80px; height: 20px; border: 0px solid #000' onclick='$.unblockUI();' value='關閉' /><br/>\n";
+        var vTableStart = "<table id='Loading' class='ResultGrid table is-bordered is-hoverable data-search-table'><tbody>\n";
+        var vTableEnd = "</tbody></table>\n";
+        $(document).ready(function () {
+
+            $(".m_more").on("click", function () {
+
+                var headerArray = [];
+                var contentArray = [];
+
+
+
+                //收集標頭, 找到table的第一個row
+                $("table thead tr th").each(function () {
+                    headerArray.push($(this).text());
+                    //console.log($(this).text());
+                });
+
+                //收集內容
+
+                $(this).parent().parent().children("td").each(function () {
+                    var more = $(this).children(".m_more");
+                    if (more.length == 1) {
+                        contentArray.push(more.prop("title"));
+
+                    }
+                    else {
+                        var mstr = $(this).html();
+                        if (mstr.indexOf("<div") < 0) contentArray.push($(this).text());
+                    }
+                });
+
+                var newTable = unBlockBtn + vTableStart;
+
+                $.each(headerArray, function (i) {
+                    newTable += "<tr><th style='background-color:#007936;color:white;'>" + headerArray[i] + "</th>\n"
+                        + "<td class='top_bg' style='border:1px #d3d3d3 solid;word-break:break-all;'>" + contentArray[i] + "</td></tr>\n";
+                });
+
+                newTable += vTableEnd;
+
+                var width = $(document).width();
+                var height = $(window).height();
+
+                $.blockUI({
+                    message: newTable,
+                    css: {
+                        top: "10%",
+                        width: "70%",
+                        height: "80%",
+                        left: 15 * width / 100,
+                        padding: "10px",
+                        overflow: 'auto',
+                        cursor: 'default'
+                    },
+                    overlayCSS: {
+                        backgroundColor: 'gray',
+                        opacity: 0.6,
+                        cursor: 'default'
+                    }
+                });
+            });
+
+            $(".BtnDetail").click(function () {
+                var GetDataId = $(this).attr("postfieldid");
+                var UnitId = $(".m_PostUnitId").text();
+                var postUrl = "ShowJsonDataGrid.aspx?UnitId=" + UnitId;
+
+                var sendData = $('form1').first().serializeArray();
+                sendData.push({ name: 'JsonData', value: $("#" + GetDataId).val() });
+
+                $.ajax({
+                    url: postUrl,
+                    type: 'POST',
+                    dataType: 'html',
+                    data: sendData,
+                    success: function (returnData) {
+
+                        $("#showDetail").html(returnData);
+                        $("#showDetail").dialog({
+                            width: 500,
+                            height: 400,
+                            modal: true, //只顯示這個dialog視窗
+                            open: function (event, ui) {
+
+                            }
+                        });
+                    },
+                    error: function () {
+                        alert("系統問題，請聯絡網站管理員");
+                    }
+                });
+            });
+        });
+        function NewWindow() {
+            document.forms[0].target = "_blank";
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+# status 200
+User-agent: *
+Disallow: /view.php
+Disallow: /info_*
+Disallow: /show_*
+Disallow: /tmp/
+Disallow: /sound/
+Allow: /info_rss.php
+Allow: /show_data.php

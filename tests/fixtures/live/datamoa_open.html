@@ -1,0 +1,435 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta property ="og:type" content="website"/>
+<meta property ="og:url" content="/open.aspx"/>
+<meta property ="og:image" content="/upload/112(0321)開放平台banner-03縮小.jpg"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta id="goosleSiteVerification" name="google-site-verification" content="rSWS3yAAKmIE_O2ppSqqUyLAANSVVlVVzZ19fD8DG5s"></meta>
+
+
+    <link rel="api" type="application/x.atom+xml" title="農業資料開放平臺" href="https://data.moa.gov.tw/openapi.json"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" rel="stylesheet">
+    <link href="/app.css" rel="stylesheet" />
+    <link href="/assets/build/app.bundle.css" rel="stylesheet" />
+    <!-- jQuery UI (前台共用) -->
+    <link rel="stylesheet" href="/javascript/jquery-ui/jquery-ui.min.css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R2CRY7L0BM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-R2CRY7L0BM');
+    </script>
+    <script src="/javascript/jquery.js"></script>
+    <script src="/javascript/jquery.barrating.min.js"></script>
+    <script src="/javascript/jquery-ui/jquery-ui.min.js"></script>
+    <script src="/javascript/jquery.blockUI.js"></script>
+    <script src="/javascript/Master.js"></script>
+     <!-- 全站共用工具函式庫 -->
+    <script src="/javascript/Base.js"></script>
+    
+    <title>資料開放 - 農業資料開放平臺</title>
+    <link href="/app.css" rel="stylesheet"><link href="/script.css" rel="stylesheet">
+
+
+    <style>
+        .modal-close {
+            background-color: rgba( 35, 40, 22, 0.5)
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="main-header">
+        <div class="container full header-wrapper">
+            <span id="lbShowTitle"><font color="Red"></font></span>
+            <div class="logo-wrapper"><a class="logo" href="/index.aspx"></a></div>
+            <div id="menu-btn">
+                <div><span></span><span></span><span></span></div>
+            </div>
+            <div class="menu-wrapper">
+                <div id="closeMenu"></div>
+                <nav>
+                    <div class="nav-link user-func">
+                        
+                        <div><a href="/login.aspx">登入</a><span></span><a href="/join.aspx">註冊</a></div>
+                        
+                    </div>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  ">
+                            <i class="fas fa-th"></i><span>關於平台</span>
+                            <i class="last fas fa-angle-down"></i></a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/about.aspx">平台介紹</a>
+                            <a href="/PlatFrom.aspx">平台消息</a>
+                            <a href="https://data.gov.tw/license" target="_blank">授權條款</a>
+                            <a href="/terms.aspx">隱私權保護</a>
+
+                        </div>
+                    </div>
+                    <a class="nav-link " href="/application.aspx">
+                        <i class="fas fa-book"></i><span>應用範例</span>
+
+                    </a>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  ">
+                            <i class="fas fa-download"></i><span>API專區</span>
+                            <i class="last fas fa-angle-down"></i>
+                        </a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/api.aspx">API專區</a>
+                            <a href="/apidocs.aspx">API文件</a>
+
+                        </div>
+                    </div>
+                    
+                    <a class="nav-link " href="/HighValue.aspx"><i class="fas fa-comments"></i><span>高應用價值主題專區</span></a>
+                    <a class="nav-link " href="/Thematic.aspx"><i class="fas fa-comments"></i><span>主題式資料</span></a>
+                    <a class="nav-link active" href="/open.aspx"><i class="fas fa-comments"></i><span>資料開放</span></a>
+                    <a class="nav-link " href="/History.aspx"><i class="fas fa-comments"></i><span>歷史資料</span></a>
+                    <a class="nav-link " href="/question.aspx"><i class="fas fa-comments"></i><span>常見問答</span></a>
+                    
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- button-->
+    <a href="#open-modal" class="btn problem-return btnErrrorReport">
+        <i class="fas fa-exclamation-triangle"></i>
+        問題回報
+    </a>
+    
+    <div id="open-modal" class="modal-window">
+        <div class="modal-body">
+            <a href="#" title="Close" class="modal-close"><span aria-hidden="false"></span></a>
+            <div class="data-search data-content">
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">填報時間</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportDate"></p>
+                        <input type="hidden" id="hdErrorReportDate" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題網址</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportAddress"></p>
+                        <input type="hidden" id="hdErrorReportAddress" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">姓名<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="text" id="ErrorReportName" placeholder="" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">電子郵件<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="email" id="ErrorReportEmail" placeholder="example@mail.com" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題描述<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <textarea class="textarea" id="ErrprReportDescription" placeholder="" required=""></textarea>
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">請輸入驗證碼<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <div class="field is-horizontal">
+                            <div class="field-body">
+                                <div class="field">
+                                    <div class="control">
+                                        <input class="input" type="password" id="ErrorCode" placeholder="請輸入圖像驗證碼" autocomplete="off" maxlength="4">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field-label is-input">
+                                <label class="label">
+                                    <img src="/api/ErrorReturn/ErrorCode.ashx?rnd=507668" alt="驗證碼" style="height: 40px; max-width: 100px" imgerrorcode="">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <a class="button is-success submit-btn ErrorReportbtn " onclick="">送出</a>
+                <a class="button submit-btn ErrorReportChannelbtn" onclick="">取消</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Header -->
+    <div class="content-area">
+        
+        <div class="page-banner-wrapper" style="background: url('/upload/112(0321)開放平台banner-03縮小.jpg') 50% 50% / cover;"></div>
+        
+    
+    <article class="container">
+        <div class="top-info">
+          <h3 class="title-h3">資料開放<span>OpenData</span></h3>
+          <div class="page-breadcrumb"><a class="icon-logo" href="/index.aspx"></a><i class="fas fa-angle-right"></i><a href="#">資料開放</a>
+          </div>
+        </div>
+        <hr>
+        <div id="app">
+          <div class="loading-overlay" data-role="loading" style="display:none;">載入中...</div>
+          <div class="category-container">
+              <div class="category-link-wrapper">
+                  <div class="category-current-wrapper" data-role="category-tabs"></div>
+                  <div data-role="category-navs"></div>
+              </div>
+              <div class="data-wrapper">
+                  <div class="search-section">
+                      <div class="control has-icons-right search-keyword">
+                          <input type="text" class="input" placeholder="搜尋資料集..." data-role="keyword-input">
+                          <span class="icon is-right">
+                              <i class="fas fa-search"></i>
+                          </span>
+                      </div>
+                      <div class="search-order">
+                           <label class="label">排序方式：</label>
+                           <div class="select">
+                              <select data-role="ord-select">
+                                  <option value="0">從新至舊</option>
+                                  <option value="1">從舊至新</option>
+                                  <option value="2">熱門</option>
+                                  <option value="3">發布日期</option>
+                                  <option value="4">介接次數</option>
+                              </select>
+                           </div>
+                      </div>
+                  </div>
+                  <ul class="filter-list" data-role="filter-list"></ul>
+                  <ul class="search-result" data-role="search-result"></ul>
+                  <div class="data-pagina">
+                      <ul class="pagination">
+                          <li class="prev" data-role="prev"><i class="fas fa-angle-left"></i></li>
+                          <li class="current-page" data-role="current-page-text"></li>
+                          <li class="next" data-role="next"><i class="fas fa-angle-right"></i></li>
+                      </ul>
+                      <div class="sum">
+                          <p data-role="sum-text"></p>
+                          <div class="select">
+                              <select data-role="limit-select">
+                                  <option value="5">5</option>
+                                  <option value="10">10</option>
+                                  <option value="30">30</option>
+                                  <option value="50">50</option>
+                                  <option value="100">100</option>
+                              </select>
+                          </div>
+                      </div>
+                      <div class="go-page">
+                          <span>前往第</span>
+                          <input type="text" class="input" data-role="goto-page-input">
+                          <span>頁</span>
+                          <button type="button" class="button is-link" data-role="goto-page-btn">前往</button>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="modal" data-role="message-modal">
+              <div class="modal-background"></div>
+              <div class="modal-content">
+                  <div class="box">
+                      <span data-role="message-text"></span>
+                      <div class="buttons">
+                          <button type="button" class="button" data-role="message-close">關閉</button>
+                          <a class="button is-success" data-role="message-login-link">加入會員</a>
+                      </div>
+                  </div>
+              </div>
+              <button type="button" class="modal-close is-large" data-role="message-close"></button>
+          </div>
+        </div>
+        <template data-role="tpl-result-item">
+            <li class="result-item">
+                <div class="result-info">
+                    <a class="title is-4">
+                        <span data-field="Title"></span>
+                        <i class="fa fa-bookmark quality-badge" aria-hidden="true" style="display:none"></i>
+                        <i class="fa fa-bookmark schema-badge" aria-hidden="true" style="display:none"></i>
+                    </a>
+                    <div class="result-detail">
+                        <ul>
+                            <li>
+                                <p class="result-title">提供機關</p>
+                                <p class="result-value" data-field="Organ"></p>
+                            </li>
+                            <li>
+                                <p class="result-title">應用類型</p>
+                                <p class="result-value" data-field="Catalog"></p>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <p class="result-title">瀏覽次數</p>
+                                <p class="result-value" data-field="Counter"></p>
+                            </li>
+                            <li>
+                                <p class="result-title">介接次數</p>
+                                <p class="result-value" data-field="Lnkcnt"></p>
+                            </li>
+                        </ul>
+                    </div>
+                    <p class="help">資料更新日期：<span data-field="LastUpdateTime"></span></p>
+                </div>
+                <div class="result-more">
+                    <a class="reply">
+                        <span>
+                            <i class="far fa-comment-alt"></i>
+                            <p class="ellipsis" data-field="Messages"></p>
+                        </span>
+                    </a>
+                    <a class="bookmark" data-role="collect-add">
+                        <span><i class="far fa-bookmark"></i> 收藏</span>
+                    </a>
+                    <a class="bookmark is-collected" data-role="collect-remove" style="display:none">
+                        <span>取消收藏</span>
+                    </a>
+                    <a class="more">
+                        more
+                        <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
+                </div>
+            </li>
+        </template>
+      </article>
+
+<script type="text/javascript" src="/javascript/OpenData.js"></script>
+<script>
+    (function () {
+        var arr = new URL(location).searchParams.get('arr');
+        var forORD = (arr === null || arr === undefined) ? 0 : parseInt(arr, 10);
+        var pageUrl = 'open_detail.aspx';
+        var $tplResultItem = $('[data-role="tpl-result-item"]');
+
+        function renderResultItem(item) {
+            var $li = $($tplResultItem.html());
+            var href = pageUrl + '?id=' + item.ID;
+            $li.find('a.title, a.reply, a.more').attr('href', href);
+            $li.find('[data-field="Title"]').text(item.Title);
+            if (item.color !== '') {
+                $li.find('.quality-badge').css('color', item.color).attr('title', item.QualityBadgeTypeText).show();
+            }
+            if (item.SchemaBadgeType != null) {
+                $li.find('.schema-badge').css('color', item.SchemaBadgeColor).attr('title', item.SchemaBadgeTypeText).show();
+            }
+            $li.find('[data-field="Organ"]').text(item.Organ);
+            $li.find('[data-field="Catalog"]').text(item.Catalog);
+            $li.find('[data-field="Counter"]').text(item.Counter);
+            $li.find('[data-field="Lnkcnt"]').text(item.Lnkcnt);
+            $li.find('[data-field="LastUpdateTime"]').text(item.LastUpdateTime);
+            $li.find('[data-field="Messages"]').text(item.Messages);
+
+            var $collectAdd = $li.find('[data-role="collect-add"]');
+            var $collectRemove = $li.find('[data-role="collect-remove"]');
+            function refreshCollectButtons() {
+                $collectAdd.toggle(item.Collect === 0);
+                $collectRemove.toggle(item.Collect !== 0);
+            }
+            refreshCollectButtons();
+            $collectAdd.on('click', function () {
+                openDataApp.updateCollect(item, 1);
+                setTimeout(refreshCollectButtons, 0);
+            });
+            $collectRemove.on('click', function () {
+                openDataApp.updateCollect(item, 2);
+                setTimeout(refreshCollectButtons, 0);
+            });
+            return $li;
+        }
+
+        var openDataApp = OpenData.init('#app', {
+            categoriesAction: 'api/open_item.ashx',
+            listsAction: 'api/open_list.ashx?Ord=',
+            collectAction: 'api/open_collect.ashx',
+            pageUrl: pageUrl,
+            loginUrl: 'login.aspx',
+            initialOrd: forORD,
+            categoryDefs: [
+                { title: '應用主題', dataKey: 'Catalog', paramKey: 'Sel_Catalog', showMoreButton: true },
+                { title: '提供機關', dataKey: 'Organ', paramKey: 'Sel_Organ', showMoreButton: true },
+                { title: '檔案格式', dataKey: 'Format', paramKey: 'Sel_Format', showMoreButton: false }
+            ],
+            renderResultItem: renderResultItem
+        });
+
+        $('#app [data-role="ord-select"]').on('change', function () {
+            openDataApp.state.filter.ord = parseInt($(this).val(), 10);
+            openDataApp.getLists();
+        });
+    })();
+</script>
+
+<style>
+    .data-pagina .pagination .prev.disabled, .data-pagina .pagination .next.disabled {
+        color: #ccc;
+        background-color: #efefef;
+    }
+
+    .buttons {
+        margin-top: 20px;
+    }
+</style>
+
+
+        <!-- Footer -->
+        <footer class="main-footer bg-dark-green ">
+            <div class="container full">
+                <div class="footer-logo">
+                    <img src="/images/footer-logo.png">
+                </div>
+                <div class="footer-info">
+                    
+                    <ul>
+                        <li>台北市中正區南海路37號</li>
+                        <li>服務時間：AM9:00~PM5:30</li>
+                        <li>服務電話：<a href="tel: 07-970-3898">(07)337-5153</a></li>
+                        <li>服務信箱：<a href="mailto:opendata@moa.gov.tw">opendata@moa.gov.tw</a></li>
+                    </ul>
+                    <p>※最佳瀏覽解析度為1024x768</p>
+                    
+                </div>
+                <div class="footer-declare">
+                    <nav><a href="https://data.gov.tw/license">授權條款</a><a href="/terms.aspx">隱私權保護宣告</a></nav>
+                    <p>除另有註明，網站之內容皆採用 政府資料開放平臺資料使用規範</p>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+    </div>
+
+    <script type="text/javascript" src="/assets/build/app.bundle.js"></script>
+    
+
+</body>
+</html>

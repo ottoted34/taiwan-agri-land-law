@@ -1,0 +1,265 @@
+{
+ "ua": "taiwan-agri-land-law-bot/0.1 (+https://github.com/ottoted34/taiwan-agri-land-law)",
+ "time": "2026-10-30T01:05:34+0000",
+ "robots": {
+  "law.moj.gov.tw": {
+   "status": 200,
+   "root_allowed": true
+  },
+  "law.moa.gov.tw": {
+   "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='law.moa.gov.tw', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='law.moa.gov.tw', port=443) at 0x7fbf6760c8c0>, 'Connection to law.moa.gov.tw timed out. (connect timeout=20)'))\"))"
+  },
+  "rmis.ardswc.gov.tw": {
+   "status": 404,
+   "root_allowed": true
+  },
+  "www.afa.gov.tw": {
+   "status": 200,
+   "root_allowed": false
+  },
+  "www.tari.gov.tw": {
+   "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.tari.gov.tw', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tari.gov.tw', port=443) at 0x7fbf6760d8e0>, 'Connection to www.tari.gov.tw timed out. (connect timeout=20)'))\"))"
+  },
+  "www.tydares.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.tydares.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.tydares.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.mdares.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.mdares.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.mdares.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.tcdares.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.tcdares.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.tcdares.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.tndais.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.tndais.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.tndais.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.kdais.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.kdais.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.kdais.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.hdares.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.hdares.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.hdares.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.ttdares.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.ttdares.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.ttdares.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.tbrs.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.tbrs.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.tbrs.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "www.tss.gov.tw": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.tss.gov.tw\\', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.tss.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "data.moa.gov.tw": {
+   "error": "ReadTimeout(ReadTimeoutError(\"HTTPSConnectionPool(host='data.moa.gov.tw', port=443): Read timed out. (read timeout=20)\"))"
+  },
+  "data.gov.tw": {
+   "status": 500,
+   "root_allowed": true
+  },
+  "kmweb.moa.gov.tw": {
+   "status": 404,
+   "root_allowed": true
+  },
+  "www.moa.gov.tw": {
+   "status": 200,
+   "root_allowed": true
+  },
+  "www.ardswc.gov.tw": {
+   "status": 500,
+   "root_allowed": true
+  },
+  "www.ia.gov.tw": {
+   "status": 404,
+   "root_allowed": true
+  },
+  "www.forest.gov.tw": {
+   "status": 404,
+   "root_allowed": true
+  }
+ },
+ "pages": {
+  "rmis_newslist_p1.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsList.aspx",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 35091
+  },
+  "rmis_newslist_p172.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsList.aspx?page=172",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 22003
+  },
+  "rmis_newsdetail_6075.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6075",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 23644
+  },
+  "rmis_newsdetail_100.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=100",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 35091
+  },
+  "rmis_lawdetail_2013.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/LawDetail.aspx?id=2013",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 120362
+  },
+  "rmis_lawdetail_3008.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/LawDetail.aspx?id=3008",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 76212
+  },
+  "rmis_directory.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/Directory.aspx",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 83129
+  },
+  "rmis_search.html": {
+   "url": "https://rmis.ardswc.gov.tw/Web/Search.aspx",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 31325
+  },
+  "moalaw_index.html": {
+   "url": "https://law.moa.gov.tw/index.aspx",
+   "robots_allowed": null,
+   "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='law.moa.gov.tw', port=443): Max retries exceeded with url: /index.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='law.moa.gov.tw', port=443) at 0x7fbf6760f320>, 'Connection to law.moa.gov.tw timed out. (connect timeout=30)'))\"))"
+  },
+  "moa_units.html": {
+   "url": "https://www.moa.gov.tw/ws.php?id=2514350",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "bytes": 48622
+  },
+  "afa_law.html": {
+   "url": "https://www.afa.gov.tw/cht/index.php?code=list&ids=353",
+   "robots_allowed": false
+  },
+  "datamoa_B84.html": {
+   "url": "https://data.moa.gov.tw/open_detail.aspx?id=B84",
+   "robots_allowed": null,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 27604
+  },
+  "datamoa_740.html": {
+   "url": "https://data.moa.gov.tw/open_search.aspx?id=740",
+   "robots_allowed": null,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 53378
+  },
+  "datamoa_svc_B84.txt": {
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B84",
+   "robots_allowed": null,
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 17439
+  },
+  "datamoa_svc_740.txt": {
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "robots_allowed": null,
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 55794
+  },
+  "datamoa_open.html": {
+   "url": "https://data.moa.gov.tw/open.aspx",
+   "robots_allowed": null,
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "bytes": 21254
+  },
+  "kdais_techbook.html": {
+   "url": "https://www.kdais.gov.tw/ws.php?id=3654",
+   "robots_allowed": null,
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.kdais.gov.tw\\', port=443): Max retries exceeded with url: /ws.php?id=3654 (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.kdais.gov.tw\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))'))"
+  },
+  "tari_home.html": {
+   "url": "https://www.tari.gov.tw/",
+   "robots_allowed": null,
+   "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.tari.gov.tw', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tari.gov.tw', port=443) at 0x7fbf674381a0>, 'Connection to www.tari.gov.tw timed out. (connect timeout=30)'))\"))"
+  },
+  "moj_api_law": {
+   "url": "https://law.moj.gov.tw/api/ch/law/json",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "application/octet-stream",
+   "bytes": 6135777,
+   "files": [
+    "ChLaw.json",
+    "schema.csv",
+    "manifest.csv"
+   ],
+   "top_keys": [
+    "UpdateDate",
+    "Laws"
+   ],
+   "count": 1351,
+   "UpdateDate": "2026/10/22 上午 12:00:00",
+   "law_keys": [
+    "LawLevel",
+    "LawName",
+    "LawURL",
+    "LawCategory",
+    "LawModifiedDate",
+    "LawEffectiveDate",
+    "LawEffectiveNote",
+    "LawAbandonNote",
+    "LawHasEngVersion",
+    "EngLawName",
+    "LawAttachements",
+    "LawHistories",
+    "LawForeword",
+    "LawArticles"
+   ]
+  },
+  "moj_api_order": {
+   "url": "https://law.moj.gov.tw/api/ch/order/json",
+   "robots_allowed": true,
+   "status": 200,
+   "ctype": "application/octet-stream",
+   "bytes": 25791396,
+   "files": [
+    "ChOrder.json",
+    "schema.csv",
+    "manifest.csv"
+   ],
+   "top_keys": [
+    "UpdateDate",
+    "Laws"
+   ],
+   "count": 10453,
+   "UpdateDate": "2026/10/22 上午 12:00:00",
+   "law_keys": [
+    "LawLevel",
+    "LawName",
+    "LawURL",
+    "LawCategory",
+    "LawModifiedDate",
+    "LawEffectiveDate",
+    "LawEffectiveNote",
+    "LawAbandonNote",
+    "LawHasEngVersion",
+    "EngLawName",
+    "LawAttachements",
+    "LawHistories",
+    "LawForeword",
+    "LawArticles"
+   ]
+  }
+ }
+}

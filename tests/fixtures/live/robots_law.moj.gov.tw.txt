@@ -1,0 +1,12 @@
+# status 200
+# robots.txt for https://law.moj.gov.tw/
+
+User-agent: *
+
+Disallow: /
+
+Allow: /News/NewsDetail.aspx
+Allow: /LawClass/LawAll.aspx
+Allow: /SearchEngineSitemap.aspx
+
+Sitemap: https://law.moj.gov.tw/SearchEngineSitemap.aspx
