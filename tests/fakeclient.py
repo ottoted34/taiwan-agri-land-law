@@ -79,8 +79,15 @@ def default_routes():
         B + r"LawExp\.aspx\?id=1001": _read("live2/rmis_lawexp_1001.html"),
         r"https://data\.moa\.gov\.tw/Service/OpenData/DataFileService\.aspx\?UnitId=740": _read("live/datamoa_svc_740.txt"),
         r"https://data\.moa\.gov\.tw/Service/OpenData/DataFileService\.aspx\?UnitId=B84": _read("live/datamoa_svc_B84.txt"),
-        TC + r"LawContent\.aspx\?id=(GL000357|GL002048)": lambda u: _read(f"local/taichung_lawcontent_{_tc(u)}.html"),
-        TC + r"LawContentSource\.aspx\?id=(GL000357|GL002048)": lambda u: _read(f"local/taichung_lawsource_{_tc(u)}.html"),
+        TC + r"LawContent\.aspx\?id=([GF]L\d+)": lambda u: _read(f"local/taichung_lawcontent_{_tc(u)}.html"),
+        TC + r"LawContentSource\.aspx\?id=([GF]L\d+)": lambda u: _read(f"local/taichung_lawsource_{_tc(u)}.html"),
+        r"https://www\.forest\.gov\.tw/0000062": re.sub(r"Do=Q&(amp;)?p=(\d+)", lambda m: m.group(0) if int(m.group(2)) <= 3 else m.group(0)[:-len(m.group(2))] + "3",
+                                                      _read("agency/forest_list_p1.html")),  # shrink the site to 3 pages
+        r"https://www\.forest\.gov\.tw/0000062\?Do=Q&p=\d+": _read("agency/forest_list_p1.html").replace("0000062/00010", "0000062/00099"),
+        r"https://www\.forest\.gov\.tw/0000062/\d+": _read("agency/forest_detail_0001089.html"),
+        r"https://talis\.moa\.gov\.tw/age/Page/List\?group=Regulation&category=Explanation": re.sub(r"page=(\d+)", lambda m: m.group(0) if int(m.group(1)) <= 2 else "page=2", _read("agency/talis_list_p1.html")),
+        r"https://talis\.moa\.gov\.tw/age/Page/List\?page=\d+&group=Regulation&category=Explanation": _read("agency/talis_list_p14.html"),
+        r"https://talis\.moa\.gov\.tw/age/Page/Content/.*": _read("agency/talis_detail_0056447d.html"),
         TC + r"LawCategoryContentList\.aspx\?CategoryID=\d+.*": _read("local/taichung_category_030903.html"),
     }
 

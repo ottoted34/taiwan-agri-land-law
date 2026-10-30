@@ -25,12 +25,14 @@
 | 農業部農村發展及水土保持署 農地及農舍法規檢索系統 | 通案函釋、行政規則、歷史沿革、法規對應函釋 | 每日／每週 |
 | 農業部 農業資料開放平臺 | 試驗研究機構出版品書目 | 每週 |
 | 臺中市政府主管法規共用系統 | 經審核列入之臺中市農地相關地方規定 | 每日 |
+| 農業部林業及自然保育署 公文函釋 | 山坡地、林業用地、回饋金等農地相關函釋 | 每日／每週 |
+| 農業綠能發展資訊網 函釋查詢 | 農業綠能函釋（與 RMIS 重複者合併） | 每日／每週 |
 
 完整盤點結果與限制：[docs/source-audit.md](docs/source-audit.md)、[docs/known-limitations.md](docs/known-limitations.md)
 
 ## 文件
 
-- [架構](docs/architecture.md)｜[資料結構](docs/data-schema.md)｜[授權](docs/data-licenses.md)｜[更新政策](docs/update-policy.md)｜[部署](docs/deployment.md)｜[維護手冊](docs/maintenance.md)
+- [架構](docs/architecture.md)｜[資料結構](docs/data-schema.md)｜[授權](docs/data-licenses.md)｜[更新政策](docs/update-policy.md)｜[部署](docs/deployment.md)｜[維護手冊](docs/maintenance.md)｜[Google 表單評估](docs/google-form.md)
 
 ## 開發
 

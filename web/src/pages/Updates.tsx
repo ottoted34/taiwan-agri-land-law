@@ -13,7 +13,8 @@ export const SRC_STATUS: Record<string, [string, string]> = {
 };
 const MODE: Record<string, string> = { daily: "每日更新", weekly: "每週完整比對", technical: "技術資料更新", monthly: "每月來源盤點", full: "完整重建" };
 const SRC_NAME: Record<string, string> = { "moj-law-api": "全國法規資料庫", "rmis-interpretations": "農地及農舍法規檢索系統－函釋", "rmis-laws": "農地及農舍法規檢索系統－法規",
-  "rmis-lawexp": "農地及農舍法規檢索系統－法規對應函釋", "datamoa-publications": "農業資料開放平臺－出版品", "source-audit": "來源盤點", "local-taichung": "臺中市法規查詢系統（地方規定）" };
+  "rmis-lawexp": "農地及農舍法規檢索系統－法規對應函釋", "datamoa-publications": "農業資料開放平臺－出版品", "source-audit": "來源盤點", "local-taichung": "臺中市法規查詢系統（地方規定）",
+  "forest-interpretations": "林業及自然保育署－公文函釋", "talis-green-energy": "農業綠能發展資訊網－函釋" };
 export { SRC_NAME };
 
 export default function Updates() {

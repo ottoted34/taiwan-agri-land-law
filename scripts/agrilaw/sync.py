@@ -14,6 +14,7 @@ from collections import Counter
 from . import paths
 from .agencies import resolve
 from .articles import sort_key
+from .collectors.agency_letters import ForestLetters, TalisLetters
 from .collectors.audit import SourceAudit
 from .collectors.base import CollectResult
 from .collectors.datamoa import DataMoaPublications
@@ -38,12 +39,14 @@ def counties() -> list[dict]:
     return (load_yaml(p) or {}).get("counties", []) if p.exists() else []
 
 
+AGENCY_LETTERS = ["forest-interpretations", "talis-green-energy"]
+
 PLANS = {
-    "daily": ["moj-law-api", "rmis-laws", "rmis-interpretations", *local_sources()],
-    "weekly": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", *local_sources()],
+    "daily": ["moj-law-api", "rmis-laws", "rmis-interpretations", *AGENCY_LETTERS, *local_sources()],
+    "weekly": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", *AGENCY_LETTERS, *local_sources()],
     "technical": ["datamoa-publications"],
-    "monthly": ["source-audit", "datamoa-publications", "rmis-interpretations", "rmis-laws", "rmis-lawexp", *local_sources()],
-    "full": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", "datamoa-publications", "source-audit", *local_sources()],
+    "monthly": ["source-audit", "datamoa-publications", "rmis-interpretations", "rmis-laws", "rmis-lawexp", *AGENCY_LETTERS, *local_sources()],
+    "full": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", "datamoa-publications", "source-audit", *AGENCY_LETTERS, *local_sources()],
 }
 
 
@@ -133,6 +136,10 @@ class Run:
             col = DataMoaPublications(cfg, self.client)
         elif sid == "source-audit":
             col = SourceAudit(cfg, self.client)
+        elif sid in AGENCY_LETTERS:
+            prefix = "forest:" if sid == "forest-interpretations" else "talis:"
+            cfg["_known"] = [k for k in self.index if k.startswith(prefix)]
+            col = (ForestLetters if sid == "forest-interpretations" else TalisLetters)(cfg, self.client)
         elif sid.startswith("local-"):
             county = next((c for c in counties() if c.get("source_id") == sid), None)
             if county is None:
@@ -159,6 +166,8 @@ class Run:
             self.apply_technical(res, stats)
         elif sid == "source-audit":
             write_json(paths.META / "source-audit-latest.json", {"checked_at": now_iso(), "results": res.records})
+        elif sid in AGENCY_LETTERS:
+            self.apply_agency_letters(res, stats)
         elif sid.startswith("local-"):
             self.apply_local_laws(res, stats, col.county)
         self.record_source(sid, res, stats)
@@ -471,6 +480,61 @@ class Run:
             stats["status_changed"] += 0
         write_json(paths.RELATIONS / "official.json", {"generated_at": now_iso(), "relations": rels})
         res.notes.append(f"官方列示關聯 {len(rels)} 筆；本次新收錄僅見於法規對應頁之函釋 {created} 筆（官方頁面未載發文日期）")
+
+    # ------------------------------------------------------------------ other agencies' letter pages
+    def apply_agency_letters(self, res: CollectResult, stats: Counter) -> None:
+        """同一函釋已由其他來源（多為 RMIS）收錄時（字號＋日期相同），只加註來源，不覆寫內容；
+        否則以本來源為主新增。完整列表中消失者標示 source_missing，不刪除。"""
+        prefix = res.source_id.split("-")[0] + ":"
+        by_key: dict[tuple, list[dict]] = {}
+        for r in self.interps.all():
+            by_key.setdefault((r["docno"], r.get("date")), []).append(r)
+        merged = 0
+        for raw in res.records:
+            sk = raw["source_key"]
+            if "字第" not in (raw.get("docno") or ""):
+                raw.setdefault("flags_in", []).append("docno_unparsed")
+            errs = VALIDATORS["interpretation"](raw)
+            if errs:
+                stats["rejected"] += 1
+                res.errors.append(f"{sk} 驗證失敗：{'；'.join(errs)}")
+                continue
+            mapped = (self.index.get(sk) or {}).get("id")
+            cands = by_key.get((raw["docno"], raw.get("date")), [])
+            other = [c for c in cands if not any(s.get("source_key") == sk for s in c.get("sources", []))
+                     and c["sources"] and c["sources"][0].get("source_key") != sk]
+            if not mapped and len(other) == 1:
+                rec = other[0]
+                rec["sources"] = rec.get("sources", []) + [{**raw["source"], "source_key": sk}]
+                rec["last_synced"] = now_iso()
+                self.interps.put(rec)
+                self.index[sk] = {"id": rec["id"], "list_hash": raw.get("list_hash")}
+                stats["unchanged"] += 1
+                merged += 1
+                continue
+            if mapped:
+                existing = self.interps.get(mapped)
+                if existing and existing["sources"][0].get("source_key") != sk:  # merged into another source's record
+                    stats["unchanged"] += 1
+                    continue
+            rid = self.upsert_interpretation(raw, stats)
+            rec = self.interps.get(rid)
+            by_key.setdefault((rec["docno"], rec.get("date")), []).append(rec)
+        listed = res.extra.get("listed_keys", [])
+        if res.complete and listed:
+            known = [k for k in self.index if k.startswith(prefix)]
+            if len(listed) < SHRINK_RATIO * len(known):
+                self.quarantine(res.source_id, res, f"完整列表僅 {len(listed)} 筆，少於既有 {len(known)} 筆之 {int(SHRINK_RATIO*100)}%", stats)
+                return
+            ls = set(listed)
+            for sk in known:
+                if sk not in ls:
+                    r = self.interps.get(self.index[sk]["id"])
+                    if r and r["sources"][0].get("source_key") == sk and not r.get("source_missing_since"):
+                        r["source_missing_since"] = now_iso()
+                        self.interps.put(r)
+                        stats["missing"] += 1
+        res.notes.append(f"與既有函釋（字號＋日期相同）合併為同一筆並加註來源：{merged} 筆")
 
     # ------------------------------------------------------------------ local (county) laws
     def apply_local_laws(self, res: CollectResult, stats: Counter, county: dict) -> None:
