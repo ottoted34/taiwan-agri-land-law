@@ -1,0 +1,10 @@
+rmis_lawhistory_211.html=https://rmis.ardswc.gov.tw/Web/LawHistoryDetail.aspx?id=211
+rmis_lawhistory_68.html=https://rmis.ardswc.gov.tw/Web/LawHistoryDetail.aspx?id=68
+rmis_lawexp_2013.html=https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013
+rmis_lawexp_1001.html=https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001
+rmis_lawdetail_1001.html=https://rmis.ardswc.gov.tw/Web/LawDetail.aspx?id=1001
+rmis_newslist_p50.html=https://rmis.ardswc.gov.tw/Web/NewsList.aspx?page=50
+rmis_newsdetail_6069.html=https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6069
+datamoa_openapi.json=https://data.moa.gov.tw/openapi.json
+datamoa_apidocs.html=https://data.moa.gov.tw/apidocs.aspx
+datamoa_api.html=https://data.moa.gov.tw/api.aspx

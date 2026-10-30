@@ -1,0 +1,31 @@
+# 農業部及所屬機關（構）名錄
+# 依據：農業部「所屬機關(構)職掌」頁面 https://www.moa.gov.tw/ws.php?id=2514350（查核日 2026-10-30，列 25 個所屬機關構）
+# priority: 1=核心 2=相關 3=特定業務（只收錄與農地農用、容許使用有實質關聯者）
+# level 欄位依農業部組織法及各機關組織法之一般分類填寫；official_site 須經每月盤點確認。
+agencies:
+  - {id: moa, name: 農業部, level: 二級機關, priority: 1, official_site: https://www.moa.gov.tw/}
+  - {id: afa, name: 農業部農糧署, short: 農糧署, level: 三級機關, priority: 1, official_site: https://www.afa.gov.tw/}
+  - {id: ardswc, name: 農業部農村發展及水土保持署, short: 農村發展及水土保持署, level: 三級機關, priority: 1, official_site: https://www.ardswc.gov.tw/}
+  - {id: tari, name: 農業部農業試驗所, short: 農業試驗所, level: 三級機構, priority: 1, official_site: https://www.tari.gov.tw/}
+  - {id: tydares, name: 農業部桃園區農業改良場, short: 桃園區農業改良場, level: 四級機構, priority: 1, official_site: https://www.tydares.gov.tw/}
+  - {id: mdares, name: 農業部苗栗區農業改良場, short: 苗栗區農業改良場, level: 四級機構, priority: 1, official_site: https://www.mdares.gov.tw/}
+  - {id: tcdares, name: 農業部臺中區農業改良場, short: 臺中區農業改良場, level: 四級機構, priority: 1, official_site: https://www.tcdares.gov.tw/}
+  - {id: tndais, name: 農業部臺南區農業改良場, short: 臺南區農業改良場, level: 四級機構, priority: 1, official_site: https://www.tndais.gov.tw/}
+  - {id: kdais, name: 農業部高雄區農業改良場, short: 高雄區農業改良場, level: 四級機構, priority: 1, official_site: https://www.kdais.gov.tw/}
+  - {id: hdares, name: 農業部花蓮區農業改良場, short: 花蓮區農業改良場, level: 四級機構, priority: 1, official_site: https://www.hdares.gov.tw/}
+  - {id: ttdares, name: 農業部臺東區農業改良場, short: 臺東區農業改良場, level: 四級機構, priority: 1, official_site: https://www.ttdares.gov.tw/}
+  - {id: tbrs, name: 農業部茶及飲料作物改良場, short: 茶及飲料作物改良場, level: 四級機構, priority: 2, official_site: https://www.tbrs.gov.tw/}
+  - {id: tss, name: 農業部種苗改良繁殖場, short: 種苗改良繁殖場, level: 四級機構, priority: 2, official_site: https://www.tss.gov.tw/}
+  - {id: ia, name: 農業部農田水利署, short: 農田水利署, level: 三級機關, priority: 2, official_site: https://www.ia.gov.tw/}
+  - {id: forest, name: 農業部林業及自然保育署, short: 林業及自然保育署, level: 三級機關, priority: 2, official_site: https://www.forest.gov.tw/}
+  - {id: fiorc, name: 農業部花卉創新園區研究發展中心, short: 花卉創新園區研究發展中心, level: 四級機構, priority: 2, official_site: null, note: 官方網址待每月盤點確認}
+  - {id: fa, name: 農業部漁業署, short: 漁業署, level: 三級機關, priority: 3, official_site: https://www.fa.gov.tw/}
+  - {id: aphia, name: 農業部動植物防疫檢疫署, short: 動植物防疫檢疫署, level: 三級機關, priority: 3, official_site: https://www.aphia.gov.tw/}
+  - {id: tlri, name: 農業部畜產試驗所, short: 畜產試驗所, level: 三級機構, priority: 3, official_site: https://www.tlri.gov.tw/}
+  - {id: afb, name: 農業部農業金融署, short: 農業金融署, level: 三級機關, priority: 3, relevance: low}
+  - {id: atpmc, name: 農業部農業科技園區管理中心, short: 農業科技園區管理中心, level: 四級機構, priority: 3, relevance: low}
+  - {id: tfri, name: 農業部林業試驗所, short: 林業試驗所, level: 三級機構, priority: 3, relevance: low}
+  - {id: tfrin, name: 農業部水產試驗所, short: 水產試驗所, level: 三級機構, priority: 3, relevance: low}
+  - {id: nvri, name: 農業部獸醫研究所, short: 獸醫研究所, level: 三級機構, priority: 3, relevance: low}
+  - {id: acri, name: 農業部農業藥物試驗所, short: 農業藥物試驗所, level: 三級機構, priority: 3, relevance: low}
+  - {id: tbri, name: 農業部生物多樣性研究所, short: 生物多樣性研究所, level: 三級機構, priority: 3, relevance: low}
