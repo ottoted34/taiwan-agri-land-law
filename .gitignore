@@ -6,3 +6,8 @@ web/dist/
 .env
 *.local
 .cache/
+web/public/data/
+.secrets.json
+sync-output.json
+sync-exit
+health.txt

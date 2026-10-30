@@ -49,6 +49,7 @@ def build() -> dict:
         write_json(out / "laws" / f"{l['id']}.json", detail, compact=True)
         law_index.append({"id": l["id"], "n": l["name"], "lv": l.get("level"), "st": l.get("status"), "md": l.get("modified_date"),
                           "tp": l.get("topics", []), "core": bool(l.get("core")), "src": l.get("primary_source"),
+                          "h": [[h.get("date"), h.get("text", "")[:160]] for h in l.get("histories", []) if h.get("date")],
                           "a": [[a["key"], a.get("label"), a.get("chapter"), a["text"]] for a in l["articles"]]})
     write_json(out / "search-laws.json", law_index, compact=True)
 
