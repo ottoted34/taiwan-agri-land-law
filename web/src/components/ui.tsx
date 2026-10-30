@@ -1,5 +1,4 @@
 import { useEffect, useState, type ReactNode } from "react";
-import { Link } from "react-router-dom";
 import { highlight } from "../lib/search";
 
 export const DISCLAIMER = "本網站為非官方農業法規及技術資訊整理平台，並非農業部或其他政府機關官方網站。資料僅供檢索與研究參考，實際法律適用及行政處分仍應以主管機關現行正式資料與個案審認為準。";
@@ -18,7 +17,7 @@ export function useAsync<T>(fn: () => Promise<T>, deps: unknown[]): { data: T | 
 
 export function Loading({ what = "資料" }: { what?: string }) { return <div className="loading" role="status">載入{what}中…</div>; }
 export function ErrorBox({ msg }: { msg: string }) {
-  return <div className="callout danger" role="alert">資料載入失敗：{msg}。請稍後重新整理；若持續發生，請至 <Link to="/updates">更新紀錄</Link> 查看同步狀態。</div>;
+  return <div className="callout danger" role="alert">資料載入失敗：{msg}。請稍後重新整理。</div>;
 }
 
 export function Hl({ text, terms, max }: { text: string; terms: string[][]; max?: number }) {

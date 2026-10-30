@@ -5,12 +5,12 @@
 ## 1. 如何確認資料有持續更新
 
 - 打開網站首頁，看「最後成功同步」時間；正常情況應在 1 天內。
-- 網站「更新紀錄」頁列出每次作業結果；「資料來源」頁列出各來源最近成功時間。
+- 更新紀錄**不公開在網站**（2026-10-30 擁有者決定），只在 GitHub 查看：Actions 頁面列出每次執行結果；Repository 的 `data/updates/runs/` 有每次作業完整紀錄（各來源新增、異動、失敗數與錯誤訊息），`data/metadata/source-status.json` 有各來源最近成功時間。
 - 若超過 50 小時沒有成功同步，watchdog 會在 GitHub 開一個標題為「資料同步逾時警示」的 Issue，GitHub 會寄 Email 通知 Repository 擁有者。
 
 ## 2. 如何查看更新失敗原因
 
-1. 網站「更新紀錄」→ 展開該次紀錄，紅字為錯誤訊息。
+1. GitHub → `data/updates/runs/` → 開啟該次日期的檔案，`errors` 為錯誤訊息。
 2. 或 GitHub → Actions → 點選失敗（紅色 ✗）的執行 → 點 `sync` → 展開紅色步驟。
 3. 常見原因：官方網站維護中、改版（解析不到資料）、連線逾時。前兩者會自動保留舊資料，等官方恢復即可；若連續多日失敗，可能是官方改版，需要修改 `scripts/agrilaw/collectors/` 對應程式。
 
@@ -95,7 +95,7 @@ GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** →
 
 ## 9. 如何確認公開網站沒有使用過時資料
 
-- 首頁「最後成功同步」與「更新紀錄」最新一筆時間。
+- 首頁「最後成功同步」時間；GitHub `data/updates/runs/` 最新一筆。
 - 網站資料檔 `data/manifest.json` 的 `built_at` 為建置時間。
 - 每筆法規頁顯示「本站最後查核」；每筆函釋頁顯示「最後確認」。
 

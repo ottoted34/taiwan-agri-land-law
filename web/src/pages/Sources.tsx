@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { getManifest, getSources } from "../lib/data";
 import { dt } from "../lib/text";
 import { ErrorBox, ExtLink, Loading, Section, useAsync } from "../components/ui";
-import { SRC_NAME, SRC_STATUS } from "./Updates";
 
 export const AUDIT: Record<string, [string, string]> = {
   synced_full: ["已完整盤點且可自動同步", "ok"], synced_partial: ["已盤點但只能部分同步", "part"], manual: ["已盤點且需人工補充", "part"],
@@ -41,12 +40,6 @@ export default function Sources() {
       {s.local_candidates && Object.entries(s.local_candidates).map(([cty, v]) => v.candidates.length > 0 && <details key={cty} className="small">
         <summary>{cty}：系統自官方分類頁列出之待審核候選 {v.candidates.length} 筆（尚未收錄）</summary>
         <ul>{v.candidates.map((c) => <li key={c.law_system_id}><ExtLink href={c.url}>{c.name}</ExtLink>（{c.law_system_id}）</li>)}</ul></details>)}
-    </Section>
-    <Section title="自動同步來源狀態">
-      <div className="scroll-x"><table className="t"><thead><tr><th>來源</th><th>最近檢查</th><th>結果</th><th>最近成功同步</th><th>最近完整比對</th><th>最近資料異動</th></tr></thead>
-        <tbody>{Object.entries(s.status).map(([id, st]) => { const [l, c] = SRC_STATUS[st.last_status || ""] || [st.last_status, ""]; return <tr key={id}>
-          <td>{SRC_NAME[id] || id}</td><td>{dt(st.last_checked)}</td><td><span className={`status-dot ${c}`} /> {l}{st.last_errors && st.last_errors.length > 0 && <div className="tiny" style={{ color: "var(--danger)" }}>{st.last_errors[0].slice(0, 120)}</div>}</td>
-          <td>{dt(st.last_success)}</td><td>{dt(st.last_full_compare)}</td><td>{dt(st.last_changed)}</td></tr>; })}</tbody></table></div>
     </Section>
     <Section title="來源登錄與盤點結果">
       <div className="scroll-x"><table className="t"><thead><tr><th>來源</th><th>機關</th><th>盤點狀態</th><th>內容／限制</th><th>每月檢查</th></tr></thead>

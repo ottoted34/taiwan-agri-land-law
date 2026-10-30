@@ -90,22 +90,12 @@ def build() -> dict:
         if t.get("agency_id") in per_agency:
             per_agency[t["agency_id"]]["tech"] += 1
     write_json(out / "sources.json", {
-        "registry": src_reg, "status": status, "audit": audit_by, "audit_checked_at": audit.get("checked_at"),
+        "registry": src_reg, "audit": audit_by, "audit_checked_at": audit.get("checked_at"),
         "agencies": list(agencies.values()), "historical": reg["historical"], "per_agency": per_agency,
         "catalog": read_json(paths.META / "datamoa-catalog.json", None),
         "local_candidates": read_json(paths.META / "local-candidates.json", None)}, compact=True)
 
-    # ---- update log
-    runs = []
-    rdir = paths.UPDATES / "runs"
-    if rdir.exists():
-        for p in sorted(rdir.glob("*.json"), reverse=True)[:60]:
-            r = read_json(p)
-            for s in r.get("sources", []):
-                s["errors"] = [e.splitlines()[0][:300] for e in s.get("errors", [])][:10]
-            r["events"] = r.get("events", [])[:200]
-            runs.append(r)
-    write_json(out / "updates.json", runs, compact=True)
+    # 更新紀錄（data/updates）只留在 Repository 供維護者查看，不發布到網站
 
     counts = {"laws": len(laws), "articles": sum(len(l["articles"]) for l in laws), "interps": len(interps),
               "tech": len(techs), "law_versions": sum(1 for _ in (paths.LAWS / "versions").glob("*/*.json")) if (paths.LAWS / "versions").exists() else 0}
@@ -114,12 +104,10 @@ def build() -> dict:
         s = (r.get("validity") or {}).get("status")
         vcount[s] = vcount.get(s, 0) + 1
     last_success = {sid: (status.get(sid) or {}).get("last_success") for sid in status}
-    latest = runs[0] if runs else None
     manifest = {
         "built_at": now_iso(), "git_sha": os.environ.get("GITHUB_SHA", "")[:12], "counts": counts, "validity_counts": vcount,
-        "validity_labels": STATUS_LABELS, "last_success": last_success,
+        "validity_labels": STATUS_LABELS,
         "last_success_any": max([v for v in last_success.values() if v] or [None], key=lambda x: x or ""),
-        "latest_run": {k: latest.get(k) for k in ("run_id", "mode", "started_at", "finished_at", "result")} if latest else None,
         "law_names": law_names,
         "agency_names": {k: v.get("short") or v["name"] for k, v in agencies.items()},
         "topics": load_yaml(paths.CONFIG / "topics" / "topics.yaml"),

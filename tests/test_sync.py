@@ -210,7 +210,9 @@ def test_build_outputs(seeded):
     assert out["interps"] > 0 and out["laws"] > 0
     m = read_json(paths.WEB_DATA / "manifest.json")
     assert m["counts"]["interps"] == out["interps"]
-    assert m["latest_run"]["result"]
+    assert m["last_success_any"] and "latest_run" not in m
+    assert not (paths.WEB_DATA / "updates.json").exists()  # 更新紀錄不發布到網站
+    assert "status" not in read_json(paths.WEB_DATA / "sources.json")
     assert (paths.WEB_DATA / "laws" / "M0020022.json").exists()
 
 

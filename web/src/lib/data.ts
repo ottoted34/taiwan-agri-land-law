@@ -1,4 +1,4 @@
-import type { InterpDetail, InterpIdx, LawDetail, LawIdx, LawVersion, Manifest, RunLog, TechIdx } from "./types";
+import type { InterpDetail, InterpIdx, LawDetail, LawIdx, LawVersion, Manifest, TechIdx } from "./types";
 
 const cache = new Map<string, Promise<unknown>>();
 export const base = "./data/";
@@ -22,12 +22,10 @@ export const getTech = () => load<TechIdx[]>("search-tech.json");
 export const getLaw = (id: string) => load<LawDetail>(`laws/${encodeURIComponent(id)}.json`);
 export const getInterp = (id: string) => load<InterpDetail>(`interps/${encodeURIComponent(id)}.json`);
 export const getVersion = (law: string, v: string) => load<LawVersion>(`versions/${encodeURIComponent(law)}/${encodeURIComponent(v)}.json`);
-export const getUpdates = () => load<RunLog[]>("updates.json");
 export const getSources = () => load<SourcesData>("sources.json");
 
 export interface SourcesData {
   registry: { last_reviewed: string; sources: Record<string, unknown>[] };
-  status: Record<string, { last_checked?: string; last_status?: string; last_success?: string; last_full_compare?: string; last_changed?: string; last_errors?: string[] }>;
   audit: Record<string, { reachable: boolean | null; robots_allowed?: boolean; http_status?: number; error?: string; checked_at: string }>;
   audit_checked_at?: string;
   agencies: { id: string; name: string; short?: string; level: string; priority: number; official_site: string | null; relevance?: string; note?: string }[];
