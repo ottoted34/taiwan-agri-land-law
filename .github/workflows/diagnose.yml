@@ -1,0 +1,19 @@
+# 維護用：檢查 RMIS 函釋列表每頁筆數，異常頁面以 artifact 上傳（不提交到 Repository）
+name: diagnose
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  rmis:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - working-directory: scripts
+        run: python -m agrilaw.cli diagnose --out ../diagnostics
+      - uses: actions/upload-artifact@v4
+        with: {name: diagnostics, path: diagnostics, retention-days: 7}

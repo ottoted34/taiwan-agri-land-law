@@ -11,3 +11,4 @@ web/public/data/
 sync-output.json
 sync-exit
 health.txt
+web/tsconfig.tsbuildinfo
