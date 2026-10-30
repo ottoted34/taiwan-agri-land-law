@@ -1,0 +1,44 @@
+{
+ "robots": {
+  "talis.coa.gov.tw": {
+   "error": "ConnectionError: HTTPSConnectionPool(host='talis.coa.gov.tw', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='talis.coa.gov.tw', port=443): Failed to resolve 'talis.coa.gov.tw' ([Errno -2] Name or service not known)\"))"
+  },
+  "www.afa.gov.tw": {
+   "status": 200,
+   "text": "User-agent: *\r\nDisallow: /\r\nAllow: /$\r\nAllow: /index.php\r\nAllow: /cht/$\r\nAllow: /cht/index.php\r\nAllow: /eng/$\r\nAllow: /eng/index.php\r\nAllow: /sitemap.xml\r\nAllow: /*.html\r\n\r\nUser-Agent: W3C-checklink\r\nDisallow:"
+  },
+  "law.moa.gov.tw": {
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='law.moa.gov.tw', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='law.moa.gov.tw', port=443) at 0x7f32ee20e510>, 'Connection to law.moa.gov.tw timed out. (connect timeout=40)'))"
+  },
+  "rmis.ardswc.gov.tw": {
+   "status": 404,
+   "text": ""
+  }
+ },
+ "pages": [
+  {
+   "url": "https://talis.coa.gov.tw/ALRIS/LawDetail_Exp.asp?tID=2013&tOrder=ALL",
+   "depth": 0,
+   "error": "robots.txt unreachable for https://talis.coa.gov.tw"
+  },
+  {
+   "url": "https://www.afa.gov.tw/cht/index.php?code=list&ids=353",
+   "depth": 0,
+   "robots_disallowed": true
+  },
+  {
+   "url": "https://law.moa.gov.tw/index.aspx",
+   "depth": 0,
+   "error": "robots.txt unreachable for https://law.moa.gov.tw"
+  },
+  {
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsList.aspx?keyword=%E8%BE%B2%E7%B3%A7%E4%BC%81%E5%AD%97",
+   "depth": 0,
+   "status": 200,
+   "final_url": "https://rmis.ardswc.gov.tw/Web/NewsList.aspx?keyword=%E8%BE%B2%E7%B3%A7%E4%BC%81%E5%AD%97",
+   "file": "p03.html",
+   "bytes": 35467,
+   "content_type": null
+  }
+ ]
+}
