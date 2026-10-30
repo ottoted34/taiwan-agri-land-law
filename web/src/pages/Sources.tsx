@@ -10,7 +10,7 @@ export const AUDIT: Record<string, [string, string]> = {
   unreachable: ["來源暫時無法連線", "fail"], no_relevant_data: ["經查核沒有與本專案相關的公開資料", ""],
 };
 /** 擁有者建立 Google 表單後填入網址（見 docs/google-form.md）；留空則不顯示 */
-export const GOOGLE_FORM_URL = "";
+export const GOOGLE_FORM_URL = "https://forms.gle/UiC2xsxrAwgb5pns5";
 const PRI = ["", "第一優先（核心）", "第二優先", "第三優先（特定業務）"];
 
 export default function Sources() {

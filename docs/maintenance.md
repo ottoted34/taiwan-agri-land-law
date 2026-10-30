@@ -37,7 +37,7 @@ GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** →
 
 ### 5-1. 地方規定審核流程（收錄前必經）
 
-其他縣市同仁可在網站「資料來源」頁按「提供地方規定」，以 Google 表單提供（建立與設定方式見 `docs/google-form.md`；表單網址填入 `web/src/pages/Sources.tsx` 的 `GOOGLE_FORM_URL` 後按鈕才會出現）。回應只有表單擁有者看得到。**任何地方規定都必須經管理者審核才收錄**：
+其他縣市同仁可在網站「資料來源」頁按「提供地方規定」，以 Google 表單提供（https://forms.gle/UiC2xsxrAwgb5pns5；設定建議見 `docs/google-form.md`，網址設於 `web/src/pages/Sources.tsx` 的 `GOOGLE_FORM_URL`）。回應只有表單擁有者看得到。**任何地方規定都必須經管理者審核才收錄**：
 
 1. **確認無個資**：若回應含姓名、電話、身分證字號、地號或個案資料，處理完即刪除該筆回應（表單「回覆」頁與試算表都要刪）。
 2. **核對官方網址**：網址須為政府機關網域（`gov.tw`），且頁面可看到法規全文或發布令。非官方來源（新聞、部落格、私人整理）一律不收。

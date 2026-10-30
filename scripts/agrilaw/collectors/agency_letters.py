@@ -17,9 +17,8 @@ FOREST = "https://www.forest.gov.tw/"
 TALIS = "https://talis.moa.gov.tw/age/"
 TALIS_LIST = TALIS + "Page/List?group=Regulation&category=Explanation"
 
-# 林保署函釋以野生動物保育、林產等為多；只收錄與農地使用相關者（列表之法規名稱＋主旨比對）
-FOREST_KEYWORDS = ["山坡地", "林業用地", "農業用地", "農牧用地", "容許使用", "農業設施", "林業設施", "林地", "保安林",
-                   "造林", "回饋金", "變更編定", "變更使用", "土地使用", "區域計畫", "國土計畫", "森林法", "竹木", "林下經濟"]
+# 林保署函釋以野生動物保育、林產等為多；只收錄與農地審查相關者（列表之法規名稱＋主旨比對；2026-10-30 擁有者指定）
+FOREST_KEYWORDS = ["山坡地", "林業用地", "農業用地", "農牧用地", "容許使用", "林業設施", "農業設施", "回饋金"]
 
 
 def _lines(node) -> str:
