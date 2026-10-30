@@ -79,6 +79,13 @@ export function prepTech(rows: TechIdx[]): PreparedTech[] {
   return rows.map((r) => ({ r, t: norm(r.t), x: norm([r.se, r.au, r.is, r.ds].join(" ")) }));
 }
 
+/** normalised textual forms of an article number, e.g. "29-1" -> 第29條之1 / 第29-1條 / 第29之1條 */
+export function articlePatterns(key: string): string[] {
+  const [a, b] = key.split("-");
+  if (!b) return [norm(`第${a}條`)];
+  return [norm(`第${a}條之${b}`), norm(`第${a}-${b}條`), norm(`第${a}之${b}條`)];
+}
+
 export interface InterpFilter { agency?: string; from?: string; to?: string; topic?: string; validity?: string; law?: string; historical?: "only" | "exclude" }
 
 export function searchInterps(data: PreparedInterp[], q: ParsedQuery, f: InterpFilter = {}) {
@@ -94,7 +101,7 @@ export function searchInterps(data: PreparedInterp[], q: ParsedQuery, f: InterpF
     if (f.historical === "exclude" && r.h) continue;
     const lawFilter = f.law || q.lawHint;
     if (lawFilter && !r.rel.some(([l, a]) => l === lawFilter && (!q.article || a === q.article))) {
-      if (!(q.article && lawFilter && r.rel.some(([l]) => l === lawFilter) && p.c.includes(norm(`第${q.article.split("-")[0]}條`)))) continue;
+      if (!(q.article && r.rel.some(([l]) => l === lawFilter) && articlePatterns(q.article).some((pat) => p.c.includes(pat) || p.s.includes(pat)))) continue;
     } else if (!lawFilter && q.article && !r.rel.some(([, a]) => a === q.article)) continue;
     let score = 1;
     if (q.docno) {
@@ -133,8 +140,9 @@ export function searchArticles(data: PreparedArticle[], q: ParsedQuery, lawFilte
 
 export function searchTech(data: PreparedTech[], q: ParsedQuery, f: { agency?: string; topic?: string } = {}) {
   const hits: { r: TechIdx; score: number }[] = [];
-  if (q.docno || q.article) return hits;
+  if (q.docno || q.article || q.lawHint) return hits;
   for (const p of data) {
+    if (q.date && (!p.r.d || !q.date.startsWith(p.r.d))) continue;
     if (f.agency && p.r.ag !== f.agency) continue;
     if (f.topic && !p.r.tp.includes(f.topic)) continue;
     let score = 1;

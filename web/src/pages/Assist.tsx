@@ -57,7 +57,7 @@ function Report({ sc, facts, caseDate, man, laws, interps, tech }: { sc: Scenari
     {r.articles.length === 0 && <p className="muted small">本站尚未收錄情境所列法規，請至 <Link to="/laws">法規</Link> 查詢。</p>}
     {r.articles.map(({ law, items, amendments }) => <div key={law.id} style={{ marginBottom: 10 }}>
       <strong><Link to={`/law/${law.id}`}>{law.n}</Link></strong> <span className="small muted">（最新修正 {roc(law.md)}）</span>
-      {amendments.length > 0 && <div className="callout small" style={{ margin: "4px 0" }}>案件日期 {roc(caseDate)} 之後，本法規曾修正 {amendments.length} 次：{amendments.slice(0, 4).map((a) => `${roc(a.date)}（${a.text.replace(/^中華民國.*?(號令|號公告|號)/, "").slice(0, 40)}）`).join("；")}。請確認案件適用之法規版本（施行日期以官方公告為準）。</div>}
+      {amendments.length > 0 && <div className="callout small" style={{ margin: "4px 0" }}>案件日期 {roc(caseDate)} 之後，本法規曾修正 {amendments.length} 次：{amendments.slice(0, 4).map((a) => { const d = a.text.replace(/^中華民國.*?(號令|號公告|號)/, "").slice(0, 40); return d ? `${roc(a.date)}（${d}）` : roc(a.date); }).join("；")}。請確認案件適用之法規版本（施行日期以官方公告為準）。</div>}
       <ul className="small">{items.map(([k, label, , t]) => <li key={k}><Link to={`/law/${law.id}#${articleAnchor(k)}`}>{label || articleName(k)}</Link>：{t.replace(/\s+/g, "").slice(0, 90)}…</li>)}</ul>
     </div>)}
     <p className="tiny muted">條文係依情境關鍵字自收錄之官方條文中檢索，可能有遺漏或不相關條文，請逐條確認適用條件。設施分類與面積請查官方附表。</p>

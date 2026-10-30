@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { highlight, parseQuery, prepInterps, prepLaws, searchArticles, searchInterps } from "./search";
+import { highlight, parseQuery, prepInterps, prepLaws, prepTech, searchArticles, searchInterps, searchTech } from "./search";
 import type { InterpIdx, LawIdx } from "./types";
 import { articleKey, roc, rocToIso } from "./text";
 
@@ -41,6 +41,17 @@ describe("query parsing", () => {
   });
   it("filters historical agency letters", () => {
     expect(searchInterps(prepInterps([it1, it2]), parseQuery("", syn, names), { historical: "only" }).map((h) => h.r.id)).toEqual(["b"]);
+  });
+  it("sub-article queries do not match the parent article", () => {
+    const x: InterpIdx = { ...it2, id: "c", c: "依審查辦法第29條規定", rel: [["M0020022", null, "official"]] };
+    const y: InterpIdx = { ...it2, id: "d", c: "依審查辦法第29條之1規定", rel: [["M0020022", null, "official"]] };
+    const q = parseQuery("申請農業用地作農業設施容許使用審查辦法第29-1條", syn, names);
+    expect(searchInterps(prepInterps([x, y]), q).map((h) => h.r.id)).toEqual(["d"]);
+  });
+  it("date queries do not return every technical record", () => {
+    const t = { id: "t", t: "芒果健康管理技術", se: "技術專刊", is: "", ag: "tndais", au: "", d: "2025-11", u: null, tp: [] };
+    expect(searchTech(prepTech([t]), parseQuery("115/7/28", syn, names)).length).toBe(0);
+    expect(searchTech(prepTech([t]), parseQuery("114/11/3", syn, names)).length).toBe(1);
   });
   it("article keys", () => {
     expect(articleKey("第 8-1 條")).toBe("8-1");

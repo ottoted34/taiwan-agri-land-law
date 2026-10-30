@@ -9,6 +9,7 @@ import { CopyButton, ErrorBox, Hl, Loading, Pager, TypeTag, useAsync, VALIDITY_S
 
 type Tab = "all" | "law" | "interp" | "tech";
 const SIZE = 20;
+const FACILITY_WORDS = ["資材", "農機具", "溫室", "網室", "集貨", "育苗", "菇", "農路", "灌溉", "倉庫", "冷藏", "乾燥", "畜", "禽", "養殖", "綠能", "管理室", "設施"];
 const ALL_AGENCIES_INTERP = ["ardswc", "moa", "afa", "forest"];
 
 let prepared: { laws: ReturnType<typeof prepLaws>; interps: ReturnType<typeof prepInterps>; tech: ReturnType<typeof prepTech>; man: Manifest } | null = null;
@@ -109,6 +110,9 @@ export default function SearchPage() {
             <button key={k} role="tab" aria-selected={tab === k} className={tab === k ? "on" : ""} onClick={() => set("type", k === "all" ? null : k)}>{l}</button>)}
         </div>
         {counts.law + counts.interp + counts.tech === 0 && <NoResults q={q} />}
+        {showLaw && res.arts.length === 0 && pq.terms.length > 0 && FACILITY_WORDS.some((w) => q.includes(w)) && <div className="callout info small" style={{ marginBottom: 10 }}>
+          農業設施之種類、名稱、面積與條件多規定於「申請農業用地作農業設施容許使用審查辦法」<strong>附表一至附表五</strong>（官方 PDF），條文本文不一定出現設施名稱。
+          請至 <Link to="/law/M0020022">審查辦法</Link> 頁面下方「附表／附件」開啟官方附表查閱。</div>}
         {tab === "all" && <p className="small muted">搜尋結果僅表示文字相符，不代表該文件直接適用於個案。函釋、技術資料與法規條文分別標示。</p>}
         {showLaw && res.arts.length > 0 && <ResultBlock title="法規條文" total={res.arts.length} more={tab === "all" ? () => set("type", "law") : undefined}>
           {(tab === "all" ? res.arts.slice(0, 5) : res.arts.slice((page - 1) * SIZE, page * SIZE)).map(({ a }) =>
