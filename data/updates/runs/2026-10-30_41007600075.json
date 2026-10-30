@@ -1,0 +1,74 @@
+{
+ "run_id": "41007600075",
+ "mode": "daily",
+ "started_at": "2026-10-30T13:17:42+08:00",
+ "sources": [
+  {
+   "source_id": "moj-law-api",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 28,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 2,
+   "notes": [
+    "全國法規資料庫查無（名稱不符或已廢止）：農業動力用電範圍及標準、農業技術密集或資本密集類目標準、都市計畫法臺灣省施行細則",
+    "資料集更新日期：{'law': '2026/10/22 上午 12:00:00', 'order': '2026/10/22 上午 12:00:00'}"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-laws",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 24,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 25,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 3,
+   "notes": [
+    "列表頁數：172，本次讀取列表 30 筆（不重複）",
+    "明細擷取 0 筆"
+   ],
+   "errors": []
+  }
+ ],
+ "events": [],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 0,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 927,
+   "no_known_cessation": 3004,
+   "needs_review": 53,
+   "amended_by_later": 56
+  },
+  "relations_extracted": 6289,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-10-30T13:19:39+08:00",
+ "result": "success_no_change"
+}
