@@ -9,8 +9,8 @@
  "subject": "釋○○股份有限公司申辦農業動力用電案",
  "content": "依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定，有關農作物栽培、收穫後處理、冷藏等直接供農業所需者，並經該管直轄市或縣（市）主管機關核發證明文件者，得檢具應備之證明文件，向電力公司申辦基本電費減免手續，請貴公司依前揭規定辦理。",
  "memo": "",
- "agency_id": null,
- "agency_name": null,
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
  "historical_name": null,
  "is_historical": false,
  "year_hint": null,
@@ -60,5 +60,6 @@
    "kind": "extracted",
    "snippet": "司申辦農業動力用電案\n依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定,有關農作物栽培、收穫後處理、冷藏等直接供農業所需者,並經該管直轄市或縣(市"
   }
- ]
+ ],
+ "agency_inferred": true
 }

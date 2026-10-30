@@ -32,3 +32,12 @@ def test_historical_agency():
     assert r["historical_name"] == "行政院農業委員會水土保持局" and r["agency_id"] == "ardswc"
     r = resolve("農業部農村發展及水土保持署", "2026-01-01")
     assert not r["is_historical"] and r["agency_id"] == "ardswc"
+
+
+def test_afa_doc_prefix_inferred_when_issuer_missing():
+    from agrilaw.agencies import resolve
+    r = resolve("", "2025-07-23", "農糧資字第1141149457號")
+    assert r["agency_id"] == "afa" and not r["is_historical"] and r["agency_inferred"]
+    r = resolve("", "2015-01-01", "農糧企字第1040000001號")
+    assert r["agency_id"] == "afa" and r["is_historical"] and "農糧署" in r["historical_name"]
+    assert resolve("", "2016-11-14", "農授糧字第1051061342號")["agency_id"] != "afa"  # 授權函仍屬農委會／農業部名義

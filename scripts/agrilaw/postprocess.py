@@ -3,6 +3,7 @@ topic tags. Only writes records whose derived fields actually changed (small git
 from __future__ import annotations
 
 from . import paths
+from .agencies import resolve
 from .relations import extract_refs, law_name_map, manual_entries
 from .store import Store
 from .util import load_yaml, normalize_docno, now_iso, read_json, sha256, write_json
@@ -132,7 +133,14 @@ def postprocess() -> dict:
         if len(by_docno.get(r["docno"], [])) > 1 and "docno_shared" not in flags:
             flags.append("docno_shared")
         derived = {"validity": validity, "topics": topics, "flags": flags, "relations": uniq}
-        if sha256({k: r.get(k) for k in DERIVED}) != sha256(derived):
+        ag = {}
+        if not (r.get("agency_text") or "").strip():  # 原文未載機關：依最新字頭對照表重新推定
+            new_ag = resolve("", r.get("date"), r.get("docno", ""))
+            ag = {k: new_ag.get(k) for k in ("agency_id", "agency_name", "historical_name", "is_historical", "agency_inferred")}
+            if all(r.get(k) == v for k, v in ag.items()):
+                ag = {}
+        if ag or sha256({k: r.get(k) for k in DERIVED}) != sha256(derived):
+            r.update(ag)
             r.update(derived)
             it_store.put(r)
             changed += 1
