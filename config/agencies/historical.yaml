@@ -56,3 +56,8 @@ doc_prefixes:
   農保規字: {agency: ardswc, era: post-2023}
   農授農保字: {agency: moa, note: 農業部授權農村發展及水土保持署, era: post-2023}
   農農保字: {agency: moa, era: post-2023}
+  # 農糧署自行發文之字頭（「農授糧字」為農委會／農業部授權農糧署，仍屬農業部名義，不在此列）
+  農糧字: {agency: afa, historical_name: 行政院農業委員會農糧署}
+  農糧企字: {agency: afa, historical_name: 行政院農業委員會農糧署}
+  農糧資字: {agency: afa, historical_name: 行政院農業委員會農糧署}
+  農糧產字: {agency: afa, historical_name: 行政院農業委員會農糧署}

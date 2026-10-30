@@ -41,8 +41,10 @@ def resolve(agency_text: str, date_iso: str | None, docno: str = "") -> dict:
                 return {"agency_id": "moa" if "委員會" in info["historical"] else None, "agency_name": None,
                         "historical_name": info["historical"] + "（依字號字頭推定）", "is_historical": True}
             aid = info.get("agency")
+            old = bool(date_iso and date_iso < reorg and info.get("historical_name"))
             return {"agency_id": aid, "agency_name": (reg["agencies"].get(aid) or {}).get("name"),
-                    "historical_name": None, "is_historical": False, "agency_inferred": True}
+                    "historical_name": info["historical_name"] + "（依字號字頭推定）" if old else None,
+                    "is_historical": old, "agency_inferred": True}
     # no explicit agency text: before the reorganisation the issuer was the COA system
     if not t and date_iso and date_iso < reorg:
         return {"agency_id": None, "agency_name": None, "historical_name": "（原文未載發文機關；改制前文件）", "is_historical": True}
