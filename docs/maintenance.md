@@ -47,7 +47,8 @@ GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** →
    - 該縣市法規系統屬「主管法規共用系統」（網址含 `LawContent.aspx?id=GL…`），且 robots.txt 未限制：在 `counties.yaml` 該縣市下設 `law_system`、`source_id: local-縣市英文`、`auto_sync: true`、`checked: true`，並在 `laws:` 新增一筆（見下方範例）。不確定 robots 或頁面格式時，先執行 Actions → **diagnose**，在 `probe` 欄填入法規網址，結果在 `diagnostics` 分支的 `probe-report.json`。
    - 無法自動擷取者（robots 不允許、格式不同、只有 PDF）：設 `checked: true`、`auto_sync: false`，人工建立 `data/laws/<縣市代碼>-<編號>.json`（格式同 `data/laws/TXG-GL000357.json`，須含 `county`、`official_url`、`sources`），並在 `review` 欄註明人工輸入日期與核對人。
 6. **留下審核紀錄**：在該筆設定填 `reviewed_by`（單位或職稱即可）、`reviewed_at`、`basis`（核對之官方頁面）、`issue`（Issue 網址）。網站法規頁會顯示審核紀錄。
-7. **回覆並關閉 Issue**：說明已收錄（附網站連結）或不收錄之理由；不收錄者可將法規代碼加入該縣市 `rejected:`，候選清單即不再列出。
+7. **Google 表單來的資料**（若已建立，見 `docs/google-form.md`）：審核方式相同，結果記在回應試算表，`issue` 欄填「Google 表單第 N 筆回應」。
+8. **回覆並關閉 Issue**：說明已收錄（附網站連結）或不收錄之理由；不收錄者可將法規代碼加入該縣市 `rejected:`，候選清單即不再列出。
 
 ```yaml
       - law_system_id: GL000357          # 官方網址 id= 後面的代碼

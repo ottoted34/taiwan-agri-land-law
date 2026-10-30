@@ -37,6 +37,62 @@ counties:
         reviewed_by: 初始設定（待管理者複核）
         reviewed_at: 2026-10-30
         basis: 臺中市法規查詢系統法規內容頁（府授法規字第1150212413號令修正）
+      - law_system_id: GL000353
+        name: 臺中市農業設施高度及樓層審查標準
+        topics: [material_room, machinery_room, greenhouse, facility_use]
+        scenarios: [material, machinery, greenhouse, orchard, facility_change, local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
+      - law_system_id: GL000356
+        name: 臺中市申請農業用地整地審查作業要點
+        topics: [landfill, paving]
+        scenarios: [landfill, paving, local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
+      - law_system_id: GL000354
+        name: 臺中市政府辦理農業用地申請賦稅減免優惠案件抽查作業要點
+        topics: [tax, farm_use_cert]
+        scenarios: [farm_cert, partial, local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
+      - law_system_id: GL000850
+        name: 臺中市政府辦理農業設施栽培材料拆遷補償基準
+        topics: [greenhouse]
+        scenarios: [local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
+      - law_system_id: GL001263
+        name: 臺中市辦理徵收土地農作改良物水產養殖物及畜禽類補償遷移費查估基準
+        topics: []
+        scenarios: [local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
+      - law_system_id: GL001238
+        name: 臺中市陸上魚塭養殖漁業登記及管理自治條例
+        topics: [aquaculture]
+        scenarios: [local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
+      - law_system_id: FL035348
+        name: 臺中縣陸上魚塭養殖漁業登記及管理規則(原繼續適用)
+        topics: [aquaculture]
+        scenarios: [local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
+      - law_system_id: GL001239
+        name: 臺中縣陸上漁塭養殖漁業登記及管理規則(原繼續適用)
+        topics: [aquaculture]
+        scenarios: [local]
+        reviewed_by: Repository 擁有者指示收錄（系統候選清單）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類」分類列表候選
     rejected:
       - GL001919  # 官方標示「廢/停」（2026-10-30 首次同步發現），不收錄
       - GL000534  # 官方標示「廢/停」（2026-10-30 首次同步發現），不收錄

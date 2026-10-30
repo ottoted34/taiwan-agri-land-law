@@ -133,8 +133,11 @@ sources:
     formats: [HTML]
     robots: 無 robots.txt（HTTP 404），未限制
     license: 網站有「政府網站資料開放宣告」頁面，但頁尾另載「網站全部圖文版權係屬本署所有，非經本署正式書面同意，不得轉載」，兩者不一致
-    note: 技術上可自動擷取（?Do=Q&p=頁碼）。山坡地農業設施、回饋金與農地審查有部分關聯；建議 Repository 擁有者先向該署確認函釋利用方式（或依著作權法第9條公文不受保護之見解決定），確認後再新增 collector，並以主題篩選只收錄與農地相關者
-    audit_status: pending_license
+    note: 2026-10-30 Repository 擁有者同意收錄（公文依著作權法第9條不得為著作權之標的）。只收錄法規名稱或主旨含山坡地、林業用地、農業用地、容許使用、回饋金、保安林、森林法等關鍵字者（collectors/agency_letters.py FOREST_KEYWORDS），野生動物保育等不收錄
+    fulltext: true
+    auto_update: daily（前3頁）／weekly（全部列表）／monthly（全部明細重新比對）
+    audit_status: synced_partial
+    collector: agency_letters
   - id: talis-green-energy
     name: 農業綠能發展資訊網－農業綠能函釋查詢
     agency: 農業部
@@ -143,8 +146,11 @@ sources:
     formats: [HTML]
     robots: 無 robots.txt（HTTP 404），未限制
     license: 頁尾載「Copyright© 農業部 版權所有」，未見政府網站資料開放宣告
-    note: 與本站主題高度相關，技術上可自動擷取；抽查之函釋（農農保字第1142655512號）本站已自 RMIS 收錄，預期多數與 RMIS 重複，新增價值在於補足 RMIS 未列者及交叉比對。因未見開放授權宣告，評估為待授權確認；確認後建議優先新增 collector（依字號＋日期＋主旨與既有函釋合併）。talis.moa.gov.tw 首頁之「農地法規檢索系統」即 RMIS，已同步
-    audit_status: pending_license
+    note: 2026-10-30 Repository 擁有者同意收錄（公文依著作權法第9條不得為著作權之標的）。與既有函釋字號＋日期相同者（多為 RMIS 已收錄）只加註來源、不覆寫內容；其餘新增。talis.moa.gov.tw 首頁之「農地法規檢索系統」即 RMIS，已同步
+    fulltext: true
+    auto_update: daily（前2頁）／weekly（全部列表）／monthly（全部明細重新比對）
+    audit_status: synced_full
+    collector: agency_letters
   - id: local-taichung
     name: 臺中市政府主管法規共用系統（地方規定）
     agency: 臺中市政府

@@ -10,6 +10,8 @@ export const AUDIT: Record<string, [string, string]> = {
   unreachable: ["來源暫時無法連線", "fail"], no_relevant_data: ["經查核沒有與本專案相關的公開資料", ""],
 };
 export const ISSUE_URL = "https://github.com/ottoted34/taiwan-agri-land-law/issues/new?template=local-regulation.yml";
+/** 擁有者建立 Google 表單後填入網址（見 docs/google-form.md）；留空則不顯示 */
+export const GOOGLE_FORM_URL = "";
 const PRI = ["", "第一優先（核心）", "第二優先", "第三優先（特定業務）"];
 
 export default function Sources() {
@@ -21,7 +23,8 @@ export default function Sources() {
     <h1>資料來源與更新狀態</h1>
     <div className="callout" style={{ marginBottom: 16 }}>「已同步」不代表該機關所有歷史文件均已收錄；「查無資料」不代表官方沒有相關資料。本站未虛構任何涵蓋率百分比。
       來源盤點於 {s.registry.last_reviewed} 人工確認，之後每月自動重新檢查連線與 robots 規則（最近一次：{dt(s.audit_checked_at)}）。</div>
-    <Section title="地方規定（縣市）" right={<a id="local" className="btn small" href={ISSUE_URL} target="_blank" rel="noopener noreferrer">提供地方規定 ↗</a>}>
+    <Section title="地方規定（縣市）" right={<span className="row" id="local">{GOOGLE_FORM_URL && <a className="btn small" href={GOOGLE_FORM_URL} target="_blank" rel="noopener noreferrer">以 Google 表單提供 ↗</a>}
+      <a className={`btn small ${GOOGLE_FORM_URL ? "ghost" : ""}`} href={ISSUE_URL} target="_blank" rel="noopener noreferrer">提供地方規定{GOOGLE_FORM_URL ? "（GitHub）" : ""} ↗</a></span>}>
       <p className="small">地方自治法規、審查要點等地方規定<strong>依縣市分開收錄</strong>，只適用於該縣市。官方法規系統經確認 robots.txt 未限制擷取且資料可合法利用者才自動同步；
         其餘縣市顯示「尚未查核」。未收錄不代表該縣市沒有相關規定。</p>
       <div className="scroll-x"><table className="t"><thead><tr><th style={{ whiteSpace: "nowrap" }}>縣市</th><th>收錄數</th><th>同步方式</th><th>查核說明</th></tr></thead>
@@ -32,7 +35,7 @@ export default function Sources() {
       <p className="small"><span className="status-dot" /> <strong>尚未查核</strong>：{(man.counties || []).filter((c) => !c.checked).map((c) => c.name).join("、")}</p>
       <h3>其他縣市同仁：歡迎提供地方規定</h3>
       <ol className="small">
-        <li>按右上「提供地方規定」，在 GitHub 填寫表單：縣市、法規名稱、<strong>官方網址（必填）</strong>、發布或修正日期、施行日期、提供者單位（選填）。需有 GitHub 帳號（免費）。</li>
+        <li>按右上{GOOGLE_FORM_URL ? "「以 Google 表單提供」（不需帳號）或" : ""}「提供地方規定」，在 GitHub 填寫表單：縣市、法規名稱、<strong>官方網址（必填）</strong>、發布或修正日期、施行日期、提供者單位（選填）。需有 GitHub 帳號（免費）。</li>
         <li>表單內容會公開，請只提供已公開之官方資料，<strong>勿填寫個人姓名、身分證字號、地號或個案資料</strong>。</li>
         <li>管理者至官方網址核對名稱、日期與全文後才會收錄；核對結果會回覆在該 Issue。收錄不代表機關認可，網站仍以官方公告為準。</li>
       </ol>

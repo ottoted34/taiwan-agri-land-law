@@ -11,6 +11,9 @@ on:
         default: daily
         type: choice
         options: [daily, weekly, full]
+      only:
+        description: "只執行指定來源（以逗號分隔，留空＝全部），例：forest-interpretations,talis-green-energy"
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -37,9 +40,10 @@ jobs:
       - name: sync
         id: sync
         working-directory: scripts
+        env: {ONLY: "${{ inputs.only }}"}
         run: |
           set +e
-          python -m agrilaw.cli sync --mode ${{ steps.mode.outputs.mode }} | tee ../sync-output.json
+          python -m agrilaw.cli sync --mode ${{ steps.mode.outputs.mode }} --only "$ONLY" | tee ../sync-output.json
           code=${PIPESTATUS[0]}
           echo "result=$(python -c "import json;print(json.load(open('../sync-output.json'))['result'])")" >> "$GITHUB_OUTPUT"
           echo "exit code $code"
