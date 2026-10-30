@@ -1,0 +1,230 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta property ="og:type" content="website"/>
+<meta property ="og:url" content="/apidocs.aspx"/>
+<meta property ="og:image" content="/upload/20180710210956MK7EIP1Q.jpg"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta id="goosleSiteVerification" name="google-site-verification" content="rSWS3yAAKmIE_O2ppSqqUyLAANSVVlVVzZ19fD8DG5s"></meta>
+
+
+    <link rel="api" type="application/x.atom+xml" title="農業資料開放平臺" href="https://data.moa.gov.tw/openapi.json"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" rel="stylesheet">
+    <link href="/app.css" rel="stylesheet" />
+    <link href="/assets/build/app.bundle.css" rel="stylesheet" />
+    <!-- jQuery UI (前台共用) -->
+    <link rel="stylesheet" href="/javascript/jquery-ui/jquery-ui.min.css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R2CRY7L0BM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-R2CRY7L0BM');
+    </script>
+    <script src="/javascript/jquery.js"></script>
+    <script src="/javascript/jquery.barrating.min.js"></script>
+    <script src="/javascript/jquery-ui/jquery-ui.min.js"></script>
+    <script src="/javascript/jquery.blockUI.js"></script>
+    <script src="/javascript/Master.js"></script>
+     <!-- 全站共用工具函式庫 -->
+    <script src="/javascript/Base.js"></script>
+    
+    <title>API 文件 - 農業資料開放平臺</title>
+    <link href="/script.css" rel="stylesheet">
+    <link href="/script.bundle.css" rel="stylesheet">
+
+
+    <style>
+        .modal-close {
+            background-color: rgba( 35, 40, 22, 0.5)
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="main-header">
+        <div class="container full header-wrapper">
+            <span id="lbShowTitle"><font color="Red"></font></span>
+            <div class="logo-wrapper"><a class="logo" href="/index.aspx"></a></div>
+            <div id="menu-btn">
+                <div><span></span><span></span><span></span></div>
+            </div>
+            <div class="menu-wrapper">
+                <div id="closeMenu"></div>
+                <nav>
+                    <div class="nav-link user-func">
+                        
+                        <div><a href="/login.aspx">登入</a><span></span><a href="/join.aspx">註冊</a></div>
+                        
+                    </div>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  ">
+                            <i class="fas fa-th"></i><span>關於平台</span>
+                            <i class="last fas fa-angle-down"></i></a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/about.aspx">平台介紹</a>
+                            <a href="/PlatFrom.aspx">平台消息</a>
+                            <a href="https://data.gov.tw/license" target="_blank">授權條款</a>
+                            <a href="/terms.aspx">隱私權保護</a>
+
+                        </div>
+                    </div>
+                    <a class="nav-link " href="/application.aspx">
+                        <i class="fas fa-book"></i><span>應用範例</span>
+
+                    </a>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  active">
+                            <i class="fas fa-download"></i><span>API專區</span>
+                            <i class="last fas fa-angle-down"></i>
+                        </a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/api.aspx">API專區</a>
+                            <a href="/apidocs.aspx">API文件</a>
+
+                        </div>
+                    </div>
+                    
+                    <a class="nav-link " href="/HighValue.aspx"><i class="fas fa-comments"></i><span>高應用價值主題專區</span></a>
+                    <a class="nav-link " href="/Thematic.aspx"><i class="fas fa-comments"></i><span>主題式資料</span></a>
+                    <a class="nav-link " href="/open.aspx"><i class="fas fa-comments"></i><span>資料開放</span></a>
+                    <a class="nav-link " href="/History.aspx"><i class="fas fa-comments"></i><span>歷史資料</span></a>
+                    <a class="nav-link " href="/question.aspx"><i class="fas fa-comments"></i><span>常見問答</span></a>
+                    
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- button-->
+    <a href="#open-modal" class="btn problem-return btnErrrorReport">
+        <i class="fas fa-exclamation-triangle"></i>
+        問題回報
+    </a>
+    
+    <div id="open-modal" class="modal-window">
+        <div class="modal-body">
+            <a href="#" title="Close" class="modal-close"><span aria-hidden="false"></span></a>
+            <div class="data-search data-content">
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">填報時間</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportDate"></p>
+                        <input type="hidden" id="hdErrorReportDate" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題網址</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportAddress"></p>
+                        <input type="hidden" id="hdErrorReportAddress" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">姓名<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="text" id="ErrorReportName" placeholder="" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">電子郵件<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="email" id="ErrorReportEmail" placeholder="example@mail.com" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題描述<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <textarea class="textarea" id="ErrprReportDescription" placeholder="" required=""></textarea>
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">請輸入驗證碼<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <div class="field is-horizontal">
+                            <div class="field-body">
+                                <div class="field">
+                                    <div class="control">
+                                        <input class="input" type="password" id="ErrorCode" placeholder="請輸入圖像驗證碼" autocomplete="off" maxlength="4">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field-label is-input">
+                                <label class="label">
+                                    <img src="/api/ErrorReturn/ErrorCode.ashx?rnd=507668" alt="驗證碼" style="height: 40px; max-width: 100px" imgerrorcode="">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <a class="button is-success submit-btn ErrorReportbtn " onclick="">送出</a>
+                <a class="button submit-btn ErrorReportChannelbtn" onclick="">取消</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Header -->
+    <div class="content-area">
+        
+        <div class="page-banner-wrapper" style="background: url('/upload/20180710210956MK7EIP1Q.jpg') 50% 50% / cover;"></div>
+        
+  <div id="app">
+        <api-docs menu-url="openapi_doc.json?rnd=261030091603"></api-docs>
+      </div>
+
+        <!-- Footer -->
+        <footer class="main-footer bg-dark-green add-api-margin">
+            <div class="container full">
+                <div class="footer-logo">
+                    <img src="/images/footer-logo.png">
+                </div>
+                <div class="footer-info">
+                    
+                    <ul>
+                        <li>台北市中正區南海路37號</li>
+                        <li>服務時間：AM9:00~PM5:30</li>
+                        <li>服務電話：<a href="tel: 07-970-3898">(07)337-5153</a></li>
+                        <li>服務信箱：<a href="mailto:opendata@moa.gov.tw">opendata@moa.gov.tw</a></li>
+                    </ul>
+                    <p>※最佳瀏覽解析度為1024x768</p>
+                    
+                </div>
+                <div class="footer-declare">
+                    <nav><a href="https://data.gov.tw/license">授權條款</a><a href="/terms.aspx">隱私權保護宣告</a></nav>
+                    <p>除另有註明，網站之內容皆採用 政府資料開放平臺資料使用規範</p>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+    </div>
+
+    <script type="text/javascript" src="/assets/build/app.bundle.js"></script>
+    
+  <script type="text/javascript" src="/script.bundle.js"></script>
+
+</body>
+</html>

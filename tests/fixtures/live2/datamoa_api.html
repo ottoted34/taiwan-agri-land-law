@@ -1,0 +1,369 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta property ="og:type" content="website"/>
+<meta property ="og:url" content="/api.aspx"/>
+<meta property ="og:image" content="/upload/20180710191607BIT75SGI.jpg"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta id="goosleSiteVerification" name="google-site-verification" content="rSWS3yAAKmIE_O2ppSqqUyLAANSVVlVVzZ19fD8DG5s"></meta>
+
+
+    <link rel="api" type="application/x.atom+xml" title="農業資料開放平臺" href="https://data.moa.gov.tw/openapi.json"/>
+    <link href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" rel="stylesheet">
+    <link href="/app.css" rel="stylesheet" />
+    <link href="/assets/build/app.bundle.css" rel="stylesheet" />
+    <!-- jQuery UI (前台共用) -->
+    <link rel="stylesheet" href="/javascript/jquery-ui/jquery-ui.min.css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R2CRY7L0BM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-R2CRY7L0BM');
+    </script>
+    <script src="/javascript/jquery.js"></script>
+    <script src="/javascript/jquery.barrating.min.js"></script>
+    <script src="/javascript/jquery-ui/jquery-ui.min.js"></script>
+    <script src="/javascript/jquery.blockUI.js"></script>
+    <script src="/javascript/Master.js"></script>
+     <!-- 全站共用工具函式庫 -->
+    <script src="/javascript/Base.js"></script>
+    
+    <title>API 專區 - 農業資料開放平臺</title>
+
+
+    <style>
+        .modal-close {
+            background-color: rgba( 35, 40, 22, 0.5)
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="main-header">
+        <div class="container full header-wrapper">
+            <span id="lbShowTitle"><font color="Red"></font></span>
+            <div class="logo-wrapper"><a class="logo" href="/index.aspx"></a></div>
+            <div id="menu-btn">
+                <div><span></span><span></span><span></span></div>
+            </div>
+            <div class="menu-wrapper">
+                <div id="closeMenu"></div>
+                <nav>
+                    <div class="nav-link user-func">
+                        
+                        <div><a href="/login.aspx">登入</a><span></span><a href="/join.aspx">註冊</a></div>
+                        
+                    </div>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  ">
+                            <i class="fas fa-th"></i><span>關於平台</span>
+                            <i class="last fas fa-angle-down"></i></a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/about.aspx">平台介紹</a>
+                            <a href="/PlatFrom.aspx">平台消息</a>
+                            <a href="https://data.gov.tw/license" target="_blank">授權條款</a>
+                            <a href="/terms.aspx">隱私權保護</a>
+
+                        </div>
+                    </div>
+                    <a class="nav-link " href="/application.aspx">
+                        <i class="fas fa-book"></i><span>應用範例</span>
+
+                    </a>
+                    <div class="sub-menu">
+                        <a class="nav-link sub-menu-btn  active">
+                            <i class="fas fa-download"></i><span>API專區</span>
+                            <i class="last fas fa-angle-down"></i>
+                        </a>
+                        <div class="sub-menu-wrapper">
+                            <a href="/api.aspx">API專區</a>
+                            <a href="/apidocs.aspx">API文件</a>
+
+                        </div>
+                    </div>
+                    
+                    <a class="nav-link " href="/HighValue.aspx"><i class="fas fa-comments"></i><span>高應用價值主題專區</span></a>
+                    <a class="nav-link " href="/Thematic.aspx"><i class="fas fa-comments"></i><span>主題式資料</span></a>
+                    <a class="nav-link " href="/open.aspx"><i class="fas fa-comments"></i><span>資料開放</span></a>
+                    <a class="nav-link " href="/History.aspx"><i class="fas fa-comments"></i><span>歷史資料</span></a>
+                    <a class="nav-link " href="/question.aspx"><i class="fas fa-comments"></i><span>常見問答</span></a>
+                    
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- button-->
+    <a href="#open-modal" class="btn problem-return btnErrrorReport">
+        <i class="fas fa-exclamation-triangle"></i>
+        問題回報
+    </a>
+    
+    <div id="open-modal" class="modal-window">
+        <div class="modal-body">
+            <a href="#" title="Close" class="modal-close"><span aria-hidden="false"></span></a>
+            <div class="data-search data-content">
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">填報時間</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportDate"></p>
+                        <input type="hidden" id="hdErrorReportDate" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題網址</label>
+                    </div>
+                    <div class="search-input">
+                        <p id="ErrorReportAddress"></p>
+                        <input type="hidden" id="hdErrorReportAddress" />
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">姓名<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="text" id="ErrorReportName" placeholder="" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">電子郵件<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <input class="input" type="email" id="ErrorReportEmail" placeholder="example@mail.com" value="" required="">
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">問題描述<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <textarea class="textarea" id="ErrprReportDescription" placeholder="" required=""></textarea>
+                    </div>
+                </div>
+                <div class="data-search-list">
+                    <div class="search-input">
+                        <label class="label">請輸入驗證碼<span class="require">*</span></label>
+                    </div>
+                    <div class="search-input">
+                        <div class="field is-horizontal">
+                            <div class="field-body">
+                                <div class="field">
+                                    <div class="control">
+                                        <input class="input" type="password" id="ErrorCode" placeholder="請輸入圖像驗證碼" autocomplete="off" maxlength="4">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field-label is-input">
+                                <label class="label">
+                                    <img src="/api/ErrorReturn/ErrorCode.ashx?rnd=507668" alt="驗證碼" style="height: 40px; max-width: 100px" imgerrorcode="">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <a class="button is-success submit-btn ErrorReportbtn " onclick="">送出</a>
+                <a class="button submit-btn ErrorReportChannelbtn" onclick="">取消</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Header -->
+    <div class="content-area">
+        
+        <div class="page-banner-wrapper" style="background: url('/upload/20180710191607BIT75SGI.jpg') 50% 50% / cover;"></div>
+        
+    <article class="container">
+        <div class="top-info">
+            <h3 class="title-h3">API服務專區<span>API SERVICE</span></h3>
+            <div class="page-breadcrumb">
+                <a class="icon-logo" href="/index.html"></a><i class="fas fa-angle-right"></i><a href="#">API服務專區</a>
+            </div>
+        </div>
+        <hr />
+        <div class="select-container">
+            <div class="select-link-wrapper scroll-btn-container">
+                <div class="select-btn" data-toggle="active"><span>行動應用</span><i class="last fas fa-angle-down"></i></div>
+                <nav class="select-link scroll-btn" id="select-container" data-offset="57"></nav>
+            </div>
+            <div class="select-content-wrapper scroll-container">
+                <div class="explore-wrapper">
+                    <div class="explore-input">
+                        <div class="select is-fullwidth">
+                            <select>
+                                <option>https://data.moa.gov.tw/openapi.json</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="swagger-ui"></div>
+            </div>
+        </div>
+    </article>
+
+        <!-- Footer -->
+        <footer class="main-footer bg-dark-green ">
+            <div class="container full">
+                <div class="footer-logo">
+                    <img src="/images/footer-logo.png">
+                </div>
+                <div class="footer-info">
+                    
+                    <ul>
+                        <li>台北市中正區南海路37號</li>
+                        <li>服務時間：AM9:00~PM5:30</li>
+                        <li>服務電話：<a href="tel: 07-970-3898">(07)337-5153</a></li>
+                        <li>服務信箱：<a href="mailto:opendata@moa.gov.tw">opendata@moa.gov.tw</a></li>
+                    </ul>
+                    <p>※最佳瀏覽解析度為1024x768</p>
+                    
+                </div>
+                <div class="footer-declare">
+                    <nav><a href="https://data.gov.tw/license">授權條款</a><a href="/terms.aspx">隱私權保護宣告</a></nav>
+                    <p>除另有註明，網站之內容皆採用 政府資料開放平臺資料使用規範</p>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+    </div>
+
+    <script type="text/javascript" src="/assets/build/app.bundle.js"></script>
+    
+    <script src="/swagger/swagger-ui-bundle.js"></script>
+    <script src="/swagger/swagger-ui-standalone-preset.js"></script>
+    <script>
+        var mc;
+        var url = window.location.href, idx = url.indexOf("#")
+        var hash = idx != -1 ? decodeURIComponent(url.substring(idx + 1)) : "";
+
+        window.onload = function () {
+            var rnd = Math.random();
+            // Build a system
+            const ui = SwaggerUIBundle({
+                url: "https://data.moa.gov.tw/openapi.json?rnd=" + rnd,
+              dom_id: '#swagger-ui',
+              deepLinking: false,
+              presets: [
+                  SwaggerUIBundle.presets.apis,
+                  SwaggerUIStandalonePreset
+              ],
+              plugins: [
+                  SwaggerUIBundle.plugins.DownloadUrl
+              ],
+              layout: "BaseLayout",
+              onComplete: function () {
+                  //var hash = decodeURIComponent(window.location.hash.replace(/^#!/, ''));
+                  //if (hash) {
+
+                    //    $('html,body').animate({
+                    //        scrollTop: $(hash).offset().top - 80
+                    //    }, 500);
+                    //}
+                }
+            });
+
+            window.ui = ui;
+
+
+            (function () {
+                $.ajax({
+                    url: "/openapi_menu.json",
+                    dataType: 'json'
+                }).done(function (data) {
+                    if (data['menu'].length) {
+                        var selectContainer = document.getElementById('select-container');
+                        data['menu'].forEach(function (menu, index) {
+                            var child;
+                            if (menu.child.length) {
+                                child = document.createElement('div');
+                                child.className = "select-sub-link";
+                                var btn = document.createElement('a');
+                                btn.className = "select-link-btn";
+                                btn.id = "sub-link-" + index;
+                                btn.dataset.href = "#" + menu.position;
+                                btn.dataset.toggle = "is-opened";
+                                btn.innerHTML = "<span>" + menu.name + "</span> <i class='last fas fa-angle-down'></i>";
+
+                                var sub = document.createElement('div');
+                                sub.className = "select-sub-menu";
+                                var subHtml = "<div class='wrapper'>";
+                                menu.child.forEach((function (c) {
+                                    subHtml += "<a class='select-link-btn scroll-btn-a' data-href='#" + c.position + "' data-toggle-close='active' data-parent='.select-link-wrapper'";
+                                    subHtml += "data-btn-id='#sub-link-" + index + "'><span>" + c.name + "</span></a>";
+                                }));
+
+                                subHtml += "</div>";
+                                sub.innerHTML = subHtml;
+
+                                child.appendChild(btn);
+                                child.appendChild(sub);
+
+                            } else {
+                                child = document.createElement('a');
+                                child.className = "select-link-btn scroll-btn-a";
+                                child.dataset.href = "#" + menu.position;
+                                child.innerText = menu.name;
+
+                            }
+                            if (child) {
+                                selectContainer.appendChild(child);
+                            }
+                        });
+                    }
+
+                    $('#select-container [data-toggle]').click(function () {
+                        let className = $(this).data('toggle')
+                        $(this).toggleClass(className);
+                    });
+
+                    $('#select-container [data-toggle-close]').click(function () {
+                        let parent = $(this).data('parent');
+                        let className = $(this).data('toggle-close');
+                        $(this).parents(parent).find('[data-toggle=' + className + ']').removeClass(className);
+                    });
+
+
+                    $('.scroll-btn-a').click(function (e) {
+                        var headerHeight = $('.main-header').height();
+                        e.preventDefault();
+                        var curLink = $(this);
+                        var hash = $(this).data('href');
+                        var scrollPoint = $(hash).offset().top - headerHeight;
+                        $('body,html').animate({
+                            scrollTop: scrollPoint
+                        }, 500);
+                        if (history.pushState) {
+                            history.pushState(null, null, hash);
+                        }
+                        else {
+                            location.hash = hash;
+                        }
+                    })
+                });
+            })();
+
+        }
+
+
+    </script>
+
+
+</body>
+</html>

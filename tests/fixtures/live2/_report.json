@@ -1,0 +1,52 @@
+{
+ "rmis_lawhistory_211.html": {
+  "status": 200,
+  "bytes": 17656,
+  "final": "https://rmis.ardswc.gov.tw/Web/LawHistoryDetail.aspx?id=211"
+ },
+ "rmis_lawhistory_68.html": {
+  "status": 200,
+  "bytes": 62004,
+  "final": "https://rmis.ardswc.gov.tw/Web/LawHistoryDetail.aspx?id=68"
+ },
+ "rmis_lawexp_2013.html": {
+  "status": 200,
+  "bytes": 1534617,
+  "final": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+ },
+ "rmis_lawexp_1001.html": {
+  "status": 200,
+  "bytes": 226882,
+  "final": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+ },
+ "rmis_lawdetail_1001.html": {
+  "status": 200,
+  "bytes": 176240,
+  "final": "https://rmis.ardswc.gov.tw/Web/LawDetail.aspx?id=1001"
+ },
+ "rmis_newslist_p50.html": {
+  "status": 200,
+  "bytes": 33782,
+  "final": "https://rmis.ardswc.gov.tw/Web/NewsList.aspx?page=50"
+ },
+ "rmis_newsdetail_6069.html": {
+  "status": 200,
+  "bytes": 23207,
+  "final": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6069"
+ },
+ "datamoa_openapi.json": {
+  "status": 200,
+  "bytes": 166939,
+  "final": "https://data.moa.gov.tw/openapi.json"
+ },
+ "datamoa_apidocs.html": {
+  "status": 200,
+  "bytes": 11162,
+  "final": "https://data.moa.gov.tw/apidocs.aspx"
+ },
+ "datamoa_api.html": {
+  "status": 200,
+  "bytes": 17403,
+  "final": "https://data.moa.gov.tw/api.aspx"
+ }
+}
