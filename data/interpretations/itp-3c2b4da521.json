@@ -1,0 +1,51 @@
+{
+ "id": "itp-3c2b4da521",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1030703520號",
+ "date": "2014-02-24",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）本案現況農路係跨越數筆土地,建議貴府輔導鄰地土地所有權人一併提出該農路之容許使用申請,惟倘未能一併提出申請,則就受理○君",
+ "content": "103年2月24日農糧企字第1030703520號函本案現況農路係跨越數筆土地,建議貴府輔導鄰地土地所有權人一併提出該農路之容許使用申請,惟倘未能一併提出申請,則就受理○君申請案件,依「申請農業用地作農業設施容許使用審查辦法」規定核處。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1030703520號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "635b95c923afb1a76f3647e5ed276c9aa3a601d2095d08ebc686aab85c3e739f",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "容許使用申請,惟倘未能一併提出申請,則就受理○君申請案件,依「申請農業用地作農業設施容許使用審查辦法」規定核處。"
+  }
+ ]
+}

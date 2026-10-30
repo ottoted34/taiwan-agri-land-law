@@ -1,0 +1,46 @@
+{
+ "id": "itp-8a60f717dd",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1031009062號",
+ "date": "2014-06-16",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）民眾申請農業用地作農業資材室容許使用,興建於二筆農業用地上,農業資材室坐落之農業用地面積達0.1公頃以上者,即得依上揭規",
+ "content": "103年6月16日農糧企字第1031009062號函民眾申請農業用地作農業資材室容許使用,興建於二筆農業用地上,農業資材室坐落之農業用地面積達0.1公頃以上者,即得依上揭規定申請該設施之容許使用,尚無需先將坐落土地合併後再行申請。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1031009062號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "38abf463b1d7042680c66a1faae60cccb5fa35d99125038ee1afabe949d7bde6",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

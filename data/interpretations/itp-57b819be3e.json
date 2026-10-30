@@ -1,0 +1,44 @@
+{
+ "id": "itp-57b819be3e",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1131148646號",
+ "date": "2024-05-24",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）「溫網室擋水設施」:興設位置包括結合溫網室設施或設置於溫網室設施周圍,規格以砌磚牆或更高等級固定材料(如鋼筋混凝土等),",
+ "content": "113年5月24日農授糧字第1131148646號函「溫網室擋水設施」:興設位置包括結合溫網室設施或設置於溫網室設施周圍,規格以砌磚牆或更高等級固定材料(如鋼筋混凝土等),牆面厚度至少12公分、地面高度至少60公分,以不超過80公分為原則。位於溫網室設施周圍之「溫網室擋水設施」,得依容許辦法第13條附表1「其他農作產銷設施-其他(溫網室擋水設施)」細目提出申請。上開溫網室擋水設施倘結合溫網室者(即共構於溫網室結構中),則需依規定申請溫(網)室容許使用並依地方政府建築管理單位規定辦理。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農授糧字第1131148646號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "7b252a016e42e5fde9cd73046991321c6bb3859a53ca8d4c4c9b12a52450c0f7",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "course_summary"
+ ],
+ "relations": []
+}

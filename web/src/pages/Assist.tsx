@@ -6,7 +6,7 @@ import { CountySelect, countyInfo, LocalTag } from "../components/county";
 import { SCENARIOS, type Scenario } from "../lib/scenarios";
 import { articleAnchor, articleName, norm, roc, rocToIso } from "../lib/text";
 import type { InterpDetail, InterpIdx, LawIdx, Manifest, TechIdx } from "../lib/types";
-import { CopyButton, ErrorBox, Loading, TypeTag, useAsync, ValidityTag, VALIDITY_SHORT } from "../components/ui";
+import { CopyButton, COURSE_FLAG, CourseTag, ErrorBox, Loading, TypeTag, useAsync, ValidityTag, VALIDITY_SHORT } from "../components/ui";
 
 export default function Assist() {
   const d = useAsync(() => Promise.all([getManifest(), getLaws(), getInterps(), getTech()]), []);
@@ -74,7 +74,7 @@ function Report({ sc, facts, caseDate, county, man, laws, interps, tech }: { sc:
     <h3>D. 相關正式函釋 <TypeTag kind="interp" /></h3>
     {r.interps.length === 0 && <p className="muted small">未檢索到。可至 <Link to="/search?type=interp">函釋搜尋</Link> 調整關鍵字。</p>}
     <ol className="small">{r.interps.map(({ x, why }) => <li key={x.id} style={{ marginBottom: 6 }}>
-      <Link to={`/interp/${x.id}`}>{x.ag || "（機關未載）"} {roc(x.d, true)} {x.no}</Link> <ValidityTag status={x.v} />
+      <Link to={`/interp/${x.id}`}>{x.ag || "（機關未載）"} {roc(x.d, true)} {x.no}</Link> <CourseTag fl={x.fl} /><ValidityTag status={x.v} />
       <div>{x.s}</div><div className="tiny muted">檢索理由：{why}。與本案之相似與差異：請比對函釋所述前提事實（設施種類、經營內容、程序階段）是否與本案相同。</div></li>)}</ol>
     {r.interpTotal > r.interps.length && <Link className="small" to={`/search?type=interp&topic=${sc.interpTopics[0] || ""}`}>查看全部 {r.interpTotal} 件 →</Link>}
 
@@ -156,7 +156,7 @@ function draftText(sc: Scenario, r: Built): string {
 二、經查本案：（請填寫書面審查及現場勘查之客觀事實）。
 三、待申請人補正或說明事項：
 ${sc.facts.slice(0, 6).map((f, i) => `  (${i + 1}) ${f}。`).join("\n")}
-四、參考函釋：${r.interps.slice(0, 3).map((i) => `${i.x.no}（${roc(i.x.d, true)}）`).join("、") || "（無）"}；援用前應確認前提事實是否相同及效力查核資訊。
+四、參考函釋：${r.interps.slice(0, 3).map((i) => `${i.x.no}（${roc(i.x.d, true)}${i.x.fl.includes(COURSE_FLAG) ? "；課程摘錄，非原文，須先取得原文" : ""}）`).join("、") || "（無）"}；援用前應確認前提事實是否相同及效力查核資訊。
 五、審查意見：（承辦人依上述事實及法令自行研判填寫）
 ※本草稿由「農地法規函釋知識庫」案件審查輔助產生，非正式公文，不得逕行對外發文。`;
 }
@@ -165,7 +165,7 @@ function toText(sc: Scenario, facts: string, r: Built, caseDate: string | null, 
   return [`【草稿・非正式公文】案件審查輔助：${sc.title}`, county ? `縣市：${county}` : "", caseDate ? `案件日期：${roc(caseDate, true)}` : "",
     "A. 已知案件事實", facts || "（未輸入）", "B. 待釐清事項", ...sc.facts.map((f) => "・" + f),
     "C. 可能適用的法規條文", ...r.articles.flatMap((a) => [a.law.cty ? `${a.law.n}（${a.law.cty}地方規定）` : a.law.n, ...a.items.map((i) => `  ${(i[1] || articleName(i[0]))}：${i[3].replace(/\s+/g, "")}`)]),
-    "D. 相關正式函釋", ...r.interps.map((i) => `・${i.x.ag} ${roc(i.x.d, true)} ${i.x.no}：${i.x.s}（${VALIDITY_SHORT[i.x.v]}）`),
+    "D. 相關函釋", ...r.interps.map((i) => `・${i.x.ag} ${roc(i.x.d, true)} ${i.x.no}：${i.x.s}（${VALIDITY_SHORT[i.x.v]}${i.x.fl.includes(COURSE_FLAG) ? "；課程摘錄，非原文" : ""}）`),
     "E. 農業技術參考（不具法律效力）", ...r.tech.map((t) => `・${t.t}`),
     "F. 審查檢核表", ...sc.checklist.map((c) => "☐ " + c), "G. 初步研判", ...sc.cautions, "B 項事實未釐清前，不宜作成准駁結論。",
     "", "※本內容由非官方網站產生，僅供參考。"].filter((x) => x !== "").join("\n");
@@ -194,6 +194,7 @@ function AiCopy({ sc, facts, caseDate, county, man, r }: { sc: Scenario; facts: 
           else if (b.basis) notes.push(String(b.basis));
         }
         if (d?.source_missing_since) notes.push("官方來源已查無此筆，請至官方確認");
+        if (x.fl.includes(COURSE_FLAG)) notes.unshift("本筆為教育訓練資料之摘錄，非函釋原文，不得逕予引用，須先取得官方原文");
         return { docno: x.no, date: x.d, agency: x.ag, subject: x.s, content: x.c, officialUrl: d?.sources[0]?.url || null,
           siteUrl: `${SITE}/interp/${x.id}`, validity: VALIDITY_SHORT[x.v] || x.v, validityConfirmed: !!d?.validity.confirmed,
           validityNotes: Array.from(new Set(notes)).slice(0, 4), lastSynced: d?.last_synced || null };

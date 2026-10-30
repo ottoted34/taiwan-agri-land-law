@@ -1,0 +1,43 @@
+{
+ "id": "itp-70dd237498",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1070990728號",
+ "date": "2018-08-09",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）書函因此作為集貨運銷處理室或農糧產品加工室得採計農產品數量之基準範圍,宜循序依設施坐落土地所生產之農產品、申請人其他自有",
+ "content": "107年8月9日農授糧字第1070990728號書函因此作為集貨運銷處理室或農糧產品加工室得採計農產品數量之基準範圍,宜循序依設施坐落土地所生產之農產品、申請人其他自有或承租土地之農產品、契作或收購之農產品數量採計。至設施供為國外進口之農產品,或全數向農民收購之農產品使用,允難認屬連結農業生產經營之事實,不宜於農業用地上興設。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農授糧字第1070990728號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "47ba9d3d2cb6bfb55194969848c791341c9c35edeb86db000a05962a5bad5084",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

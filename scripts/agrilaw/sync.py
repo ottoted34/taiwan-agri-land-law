@@ -40,13 +40,14 @@ def counties() -> list[dict]:
 
 
 AGENCY_LETTERS = ["forest-interpretations", "talis-green-energy"]
+COURSE = "course-summaries"  # config/relations/course_summaries.yaml（課程摘錄，非原文；不需連網）
 
 PLANS = {
-    "daily": ["moj-law-api", "rmis-laws", "rmis-interpretations", *AGENCY_LETTERS, *local_sources()],
-    "weekly": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", *AGENCY_LETTERS, *local_sources()],
+    "daily": ["moj-law-api", "rmis-laws", "rmis-interpretations", *AGENCY_LETTERS, *local_sources(), COURSE],
+    "weekly": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", *AGENCY_LETTERS, *local_sources(), COURSE],
     "technical": ["datamoa-publications"],
-    "monthly": ["source-audit", "datamoa-publications", "rmis-interpretations", "rmis-laws", "rmis-lawexp", *AGENCY_LETTERS, *local_sources()],
-    "full": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", "datamoa-publications", "source-audit", *AGENCY_LETTERS, *local_sources()],
+    "monthly": ["source-audit", "datamoa-publications", "rmis-interpretations", "rmis-laws", "rmis-lawexp", *AGENCY_LETTERS, *local_sources(), COURSE],
+    "full": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", "datamoa-publications", "source-audit", *AGENCY_LETTERS, *local_sources(), COURSE],
 }
 
 
@@ -111,6 +112,11 @@ class Run:
 
     # ------------------------------------------------------------------ per source
     def run_source(self, sid: str) -> None:
+        if sid == COURSE:
+            res, stats = CollectResult(sid, "interpretation"), Counter()
+            self.apply_course_summaries(res, stats)
+            self.record_source(sid, res, stats)
+            return
         cfg: dict = {}
         if sid == "rmis-interpretations":
             cfg["_known"] = {k: {"list_hash": v.get("list_hash")} for k, v in self.index.items() if k.startswith("rmis:")}
@@ -535,6 +541,57 @@ class Run:
                         self.interps.put(r)
                         stats["missing"] += 1
         res.notes.append(f"與既有函釋（字號＋日期相同）合併為同一筆並加註來源：{merged} 筆")
+
+    # ------------------------------------------------------------------ course summaries
+    COURSE_AGENCY = (("營署", "內政部營建署"), ("內", "內政部"), ("台內", "內政部"), ("鄉農", "鄉公所"))
+
+    def apply_course_summaries(self, res: CollectResult, stats: Counter) -> None:
+        """課程摘錄之函釋：只在官方來源尚未收錄（字號＋日期）時存在；官方原文到位即移除摘錄。"""
+        p = paths.CONFIG / "relations" / "course_summaries.yaml"
+        items = (load_yaml(p) or {}).get("items", []) if p.exists() else []
+        official, mine = set(), {}
+        for r in self.interps.all():
+            if (r.get("sources") or [{}])[0].get("source_id") == COURSE:
+                mine[r["id"]] = r
+            else:
+                official.add((r["docno"], r.get("date")))
+                official.add((r["docno"], None))
+        keep = set()
+        for it in items:
+            docno = normalize_docno(it["docno"])
+            date = it.get("date")
+            if (docno, date) in official or (not date and (docno, None) in official):
+                res.notes.append(f"{docno} 已由官方來源收錄，不再使用課程摘錄")
+                continue
+            excerpt = (it.get("excerpt") or "").strip()
+            first = re.sub(r"^（[^）]*）", "", excerpt).strip()
+            first = re.sub(r"^[^。]{0,40}?號(函|令)?(釋)?[)）]?[：:\s]*(\([^)]*\))?\s*", "", first).strip() or first
+            first = re.split(r"[。；]", first.lstrip("，,、:：)） "))[0][:60]
+            agency = next((name for pre, name in self.COURSE_AGENCY if docno.startswith(pre)), "")
+            rid = interp_id(docno, date, "課程摘錄")
+            keep.add(rid)
+            rec = {"id": rid, "doc_class": "interpretation", "docno": docno, "date": date, "date_text": "", "agency_text": agency,
+                   "category": "課程摘錄", "subject": f"（課程摘錄）{first}", "content": excerpt,
+                   "memo": "摘自：" + "；".join(it.get("course") or []) + "。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+                   **resolve(agency, date, docno), "year_hint": None, "flags_in": ["course_summary"],
+                   "sources": [{"source_id": COURSE, "url": None, "source_key": f"course:{docno}", "fetched_at": now_iso()}]}
+            rec["content_hash"] = content_hash("interpretation", rec)
+            old = mine.get(rid)
+            if old is None:
+                rec.update({"first_seen": now_iso(), "last_synced": now_iso(), "version": 1,
+                            "validity": {"status": "no_known_cessation", "basis": [], "confirmed": False}})
+                self.interps.put(rec)
+                stats["added"] += 1
+            elif old.get("content_hash") != rec["content_hash"]:
+                self.interps.put({**old, **{k: v for k, v in rec.items() if k != "sources"}, "sources": rec["sources"],
+                                  "last_synced": now_iso(), "version": old.get("version", 1) + 1})
+                stats["modified"] += 1
+            else:
+                stats["unchanged"] += 1
+        for rid in set(mine) - keep:  # 已從設定移除或官方原文已收錄
+            self.interps.path(rid).unlink(missing_ok=True)
+            stats["status_changed"] += 1
+            self.event("course_summary_removed", id=rid, docno=mine[rid]["docno"])
 
     # ------------------------------------------------------------------ local (county) laws
     def apply_local_laws(self, res: CollectResult, stats: Counter, county: dict) -> None:

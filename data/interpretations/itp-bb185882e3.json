@@ -1,0 +1,53 @@
+{
+ "id": "itp-bb185882e3",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1090257377號",
+ "date": "2021-01-06",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）說明二:「 ......按農業設施係為輔助農業生產或經營管理需求而附屬設置之相關設施,且所請之設施須有連結農業生產經營之",
+ "content": "依據行政院農業委員會農糧署110年1月6日農糧企字第1090257377號函(如附件)說明二:「 ......按農業設施係為輔助農業生產或經營管理需求而附屬設置之相關設施,且所請之設施須有連結農業生產經營之事實,故農糧產品加工室係為農業生產之附屬設施,營運型態簡單,又實際經營以自家人力為主,人員進出單純,與休閒農場附設之農產品加工(釀造)廠具休閒觀光功能不同。......」爰有關非位於休閒農場遊客休憩分區內,依照申請農業用地作農業設施容許使用審查辦法申請之農糧產品加工室,應非屬供公眾使用建築物。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1090257377號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "ebcffc4c107bdc18ef9aa1ff369af97b9117548c659edb4ccc41a2143dbf2999",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "leisure"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "不同。......」爰有關非位於休閒農場遊客休憩分區內,依照申請農業用地作農業設施容許使用審查辦法申請之農糧產品加工室,應非屬供公眾使用建築物。"
+  }
+ ]
+}

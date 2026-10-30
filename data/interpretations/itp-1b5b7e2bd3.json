@@ -1,0 +1,43 @@
+{
+ "id": "itp-1b5b7e2bd3",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1070224744號",
+ "date": "2018-07-26",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）依據本會93年12月17日農企字第0930159038號函釋略以「所稱自產,應不限於申請興建農業設施之該筆土地,而可及於",
+ "content": "107年7月26日農授糧字第1070224744號函依據本會93年12月17日農企字第0930159038號函釋略以「所稱自產,應不限於申請興建農業設施之該筆土地,而可及於其他包括契作之農業用地。...」。復依本會",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農授糧字第1070224744號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "fa33b04d9d36bc20b2cf285bde30d7feabee4380938f46f846534d7e915856d8",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

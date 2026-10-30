@@ -1,0 +1,44 @@
+{
+ "id": "itp-150bdade1e",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1040200419號",
+ "date": "2015-01-23",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）豆乾、豆腐製作係屬利用大豆為原料從事加工之行為,惟得否申設「農糧產品加工室",
+ "content": "104年1月23日農糧企字第1040200419號函豆乾、豆腐製作係屬利用大豆為原料從事加工之行為,惟得否申設「農糧產品加工室",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1040200419號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "d51636c970bc299a831bff0d6565652697f583a16ea674764428e1a5c60d3a0f",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,48 @@
+{
+ "id": "itp-e1111506fc",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1081003386號",
+ "date": "2019-02-22",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）按農委會106年9月21日研商「農業設施附屬設置綠能設施之既有案件處理原則」第3 次會議紀錄決議(諒達)略以「基於容許辦",
+ "content": "108年2月22日農糧企字第1081003386號函按農委會106年9月21日研商「農業設施附屬設置綠能設施之既有案件處理原則」第3 次會議紀錄決議(諒達)略以「基於容許辦法於106年6月28日修正發布,故屬違規改善中案件,仍得依原經營計畫申請之農業設施類型進行改善。」本案依卷附貴縣○○鄉公所(以下簡稱該公所)108年1月30日○鄉農字第10830122800 號函說明,係領有該公所105年4月27及28日所核發之網室容許使用同意書,因未依原核定計畫內容使用,經該公所通知申請人限期改善在案,係屬違規改善中案件,依上開會議決議,仍得依原經營計畫之農業設施類型進行改善,適用容許辦法106年6月 28日修正前之規定辦理。又本案核定之網室既經該公所通知申請人限期改善,顯示該網室現有日照不足致影響作物生長及農業常態經營,後續改善倘為恢復網室栽培生產使用,應確保提供足夠日照以利種植作物生長,其太陽能板比例依網室面積40%以下為原則。 26",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1081003386號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "abe1a9e8f10ff0d9cbc37eaf53edd3939c11d42d3ebf4ac56fc5a2491245a2d8",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "greenhouse",
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

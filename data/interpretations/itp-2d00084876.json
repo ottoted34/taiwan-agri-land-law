@@ -1,0 +1,46 @@
+{
+ "id": "itp-2d00084876",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1110235938號",
+ "date": "2022-08-29",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）農機具室係以放置農機具為目的,農友依實際需求購置多輛農業機械自用、從事代耕或提供其他農民租賃,尚符合農業經營之必要,允可",
+ "content": "111年8月29日農糧企字第1110235938號函農機具室係以放置農機具為目的,農友依實際需求購置多輛農業機械自用、從事代耕或提供其他農民租賃,尚符合農業經營之必要,允可依前開規定審認核處。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧企字第1110235938號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "c6c71943c59dd9b2fa393c7ba7e8ab7642cc56c7aea84c376bf5c8dc0001e2b3",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "machinery_room"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

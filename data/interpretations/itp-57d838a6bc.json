@@ -1,0 +1,43 @@
+{
+ "id": "itp-57d838a6bc",
+ "doc_class": "interpretation",
+ "docno": "農糧生字第1041065630號",
+ "date": "2015-10-01",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）不同菇類品項的單位面積栽培數量、單位面積每期作產量及合理經濟規模之審認標準資料",
+ "content": "104年10月1日農糧生字第1041065630號函不同菇類品項的單位面積栽培數量、單位面積每期作產量及合理經濟規模之審認標準資料。作物每0.1公頃地單位面積栽培數量合理經濟規模備註品項每期作產量每包產量範圍200g~250g 香菇 40,000~45,000包/0.1公頃 8~11.25公噸 0.2公頃以上一年可生產2期每包產量範圍300g~500g 木耳 70,000~90,000包/0.1公頃 21~46公噸 0.1公頃以上一年可生產3期每包產量範圍250g~300g 秀珍菇 80,000包/0.1公頃 20~24公噸 0.1公頃以上",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧生字第1041065630號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "921705a8b63297d920e79b72c19e7042fd09dbf68c0881f4b370dce7cc06f183",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": []
+}

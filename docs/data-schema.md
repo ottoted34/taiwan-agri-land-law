@@ -25,6 +25,8 @@
 
 ## 函釋 `data/interpretations/<id>.json`
 
+課程摘錄：`sources[0].source_id = course-summaries`、`category = 課程摘錄`、`flags` 含 `course_summary`，內容取自 `config/relations/course_summaries.yaml`（教育訓練資料之文字，非函釋原文，無官方網址）。
+
 `id = itp-` + sha256(發文字號|發文日期) 前 10 碼。同一函釋由多個來源取得時合併為一筆，`sources[]` 保留全部來源。字號相同但日期不同者不合併，標示 `docno_shared`。
 
 | 欄位 | 說明 |

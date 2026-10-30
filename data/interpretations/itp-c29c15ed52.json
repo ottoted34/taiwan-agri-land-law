@@ -1,0 +1,50 @@
+{
+ "id": "itp-c29c15ed52",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1052909855號",
+ "date": "2016-06-08",
+ "date_text": "",
+ "agency_text": "內政部營建署",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）「合法房屋」認定之基準日期:1.在實施都市計畫地區,係指當地都市計畫公布實施之日期",
+ "content": "依內政部營建署105年6月8日營署建管字第1052909855號函,「合法房屋」認定之基準日期:1.在實施都市計畫地區,係指當地都市計畫公布實施之日期。2.在實施區域計畫地區,係指當地依區域計畫法第15條第1項劃定使用分區並編定各種使用地公布之日期。3.前2項以外地區,本部訂頒「都市計畫以外地區建築管理辦法」,依該辦法指定實施地區之日期亦適用之。",
+ "memo": "摘自：農業部農村發展及水土保持署「農業用地作農業使用認定之法令說明及行政實務」（115年6月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:營署建管字第1052909855號",
+   "fetched_at": "2026-10-30T16:40:40+08:00"
+  }
+ ],
+ "content_hash": "f5c4bb79ad18052467847d4d0ec8a8d9a77dd91acd8fbd23af9269d94b41c54d",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:40:40+08:00",
+ "version": 3,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "D0070030",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "地都市計畫公布實施之日期。2.在實施區域計畫地區,係指當地依區域計畫法第15條第1項劃定使用分區並編定各種使用地公布之日期。3.前2項以外地區,本部訂頒「都市"
+  }
+ ]
+}

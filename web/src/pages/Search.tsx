@@ -6,7 +6,7 @@ import { parseQuery, prepInterps, prepLaws, prepTech, searchArticles, searchInte
 import type { ParsedQuery } from "../lib/search";
 import { articleAnchor, letterDate, roc, rocToIso } from "../lib/text";
 import type { Manifest } from "../lib/types";
-import { CopyButton, ErrorBox, Hl, Loading, Pager, TypeTag, useAsync, VALIDITY_SHORT, ValidityTag } from "../components/ui";
+import { CopyButton, CourseTag, ErrorBox, Hl, Loading, Pager, TypeTag, useAsync, VALIDITY_SHORT, ValidityTag } from "../components/ui";
 
 type Tab = "all" | "law" | "interp" | "tech";
 const SIZE = 20;
@@ -130,7 +130,7 @@ export default function SearchPage() {
         {showInterp && res.interps.length > 0 && <ResultBlock title="函釋" total={res.interps.length} more={tab === "all" ? () => set("type", "interp") : undefined}>
           {(tab === "all" ? res.interps.slice(0, 8) : res.interps.slice((page - 1) * SIZE, page * SIZE)).map(({ r }) =>
             <div key={r.id} className="result">
-              <div className="meta"><TypeTag kind="interp" /><span>{letterDate(r.d, r.yh)}</span><span>{r.ag || "（未載機關）"}</span>{r.h && <span className="tag neutral">改制前</span>}<ValidityTag status={r.v} />
+              <div className="meta"><TypeTag kind="interp" /><span>{letterDate(r.d, r.yh)}</span><span>{r.ag || "（未載機關）"}</span>{r.h && <span className="tag neutral">改制前</span>}<CourseTag fl={r.fl} /><ValidityTag status={r.v} />
                 {r.cat && r.cat !== "解釋函" && <span className="tag neutral">{r.cat}</span>}</div>
               <h3><Link to={`/interp/${r.id}`}><Hl text={r.s || "（無主旨）"} terms={pq.terms} max={300} /></Link></h3>
               <div className="row tiny muted"><span>{r.no}</span><CopyButton text={r.no} label="複製字號" /></div>

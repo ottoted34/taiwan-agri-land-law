@@ -1,0 +1,54 @@
+{
+ "id": "itp-591659be2a",
+ "doc_class": "interpretation",
+ "docno": "農糧字第1060237036號",
+ "date": "2017-10-13",
+ "date_text": "",
+ "agency_text": "",
+ "category": "課程摘錄",
+ "subject": "（課程摘錄）查申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第6條規定略以「申請農業用地作農業設施容許使用,有下列情形之",
+ "content": "106年10月13日農糧字第1060237036號函查申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第6條規定略以「申請農業用地作農業設施容許使用,有下列情形之一者,不予同意:......九、違反其他土地使用管制相關法令規定。」又本會101 年8 月23 日農企字第10101270758號函略以「有關受理農業用地作農業使用證明案件或農業設施容許使用案件,該農業用地上有先行施作之設施物,倘確係為作農業使用之農業設施,符合容許辦法及相關審查規定者,應輔導補辦申請容許使用。」本案原合法集貨場為附屬設置綠能設施,依容許辦法第4條及第28條規定申請容許使用,如該筆土地上有其他未申請之農業設施,允依前開容許辦法及函釋規定,輔導補辦申請容許使用,以符法制。",
+ "memo": "摘自：農業部農糧署「申請農業用地作農作產銷設施容許使用之行政實務」（115年5月）。本筆為教育訓練資料之文字，非函釋原文，引用前請取得官方原文。",
+ "agency_id": "afa",
+ "agency_name": "農業部農糧署",
+ "historical_name": "行政院農業委員會農糧署（依字號字頭推定）",
+ "is_historical": true,
+ "agency_inferred": true,
+ "year_hint": null,
+ "flags_in": [
+  "course_summary"
+ ],
+ "sources": [
+  {
+   "source_id": "course-summaries",
+   "url": null,
+   "source_key": "course:農糧字第1060237036號",
+   "fetched_at": "2026-10-30T16:38:56+08:00"
+  }
+ ],
+ "content_hash": "bfa251e8616d437844e05d878fcd233f40850ec35f90b83ab25906c340e049af",
+ "first_seen": "2026-10-30T16:38:29+08:00",
+ "last_synced": "2026-10-30T16:38:56+08:00",
+ "version": 2,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "topics": [
+  "farm_use_cert",
+  "green_energy"
+ ],
+ "flags": [
+  "course_summary",
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "(課程摘錄)查申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第6條規定略以「申請農業用地作農業設施容許使用,有下列情形之"
+  }
+ ]
+}
