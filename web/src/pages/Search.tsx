@@ -1,3 +1,4 @@
+import { LocalTag } from "../components/county";
 import { useMemo, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { getInterps, getLaws, getManifest, getTech } from "../lib/data";
@@ -120,7 +121,7 @@ export default function SearchPage() {
         {showLaw && res.arts.length > 0 && <ResultBlock title="法規條文" total={res.arts.length} more={tab === "all" ? () => set("type", "law") : undefined}>
           {(tab === "all" ? res.arts.slice(0, 5) : res.arts.slice((page - 1) * SIZE, page * SIZE)).map(({ a }) =>
             <div key={a.law.id + a.key} className="result">
-              <div className="meta"><TypeTag kind={a.law.lv === "行政規則" ? "rule" : "law"} /><span>{a.law.n}</span>{a.chapter && <span>{a.chapter}</span>}<span>修正 {roc(a.law.md)}</span></div>
+              <div className="meta"><TypeTag kind={a.law.lv === "行政規則" ? "rule" : "law"} /><span>{a.law.n}</span>{a.law.cty && <LocalTag county={a.law.cty} />}{a.chapter && <span>{a.chapter}</span>}<span>修正 {roc(a.law.md)}</span></div>
               <h3><Link to={`/law/${a.law.id}#${articleAnchor(a.key)}`}>{a.law.n} {a.label}</Link></h3>
               <div className="snip"><Hl text={a.text} terms={pq.terms} /></div>
             </div>)}

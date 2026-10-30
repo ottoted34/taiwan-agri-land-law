@@ -79,7 +79,19 @@ def default_routes():
         B + r"LawExp\.aspx\?id=1001": _read("live2/rmis_lawexp_1001.html"),
         r"https://data\.moa\.gov\.tw/Service/OpenData/DataFileService\.aspx\?UnitId=740": _read("live/datamoa_svc_740.txt"),
         r"https://data\.moa\.gov\.tw/Service/OpenData/DataFileService\.aspx\?UnitId=B84": _read("live/datamoa_svc_B84.txt"),
+        TC + r"LawContent\.aspx\?id=(GL000357|GL002048|GL001919|GL000534)": lambda u: _read(f"local/taichung_lawcontent_{_tc(u)}.html"),
+        TC + r"LawContentSource\.aspx\?id=(GL000357|GL002048|GL001919|GL000534)": lambda u: _read(f"local/taichung_lawsource_{_tc(u)}.html"),
+        TC + r"LawCategoryContentList\.aspx\?CategoryID=\d+.*": _read("local/taichung_category_030903.html"),
     }
+
+
+TC = r"https://law\.taichung\.gov\.tw/"
+
+
+def _tc(url):
+    """Only two Taichung pages are recorded; the other configured rules reuse the same template."""
+    gid = url.rsplit("=", 1)[1]
+    return gid if gid in ("GL000357", "GL002048") else "GL002048"
 
 
 def _synthetic_detail(url):

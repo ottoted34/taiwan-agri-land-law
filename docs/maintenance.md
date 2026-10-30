@@ -17,7 +17,7 @@
 ## 3. 如何手動重跑
 
 GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** → mode 選 `daily`（快速）、`weekly`（完整列表比對）或 `full`（全部重抓，約 1 小時）→ Run。
-技術資料選 **update-technical**；來源盤點選 **source-audit**；只想重新部署網站選 **deploy**。
+技術資料選 **update-technical**；來源盤點選 **source-audit**；只想重新部署網站選 **deploy**；評估新來源（robots、頁面格式）選 **diagnose** 並在 `probe` 欄填網址。
 
 ## 4. 如何新增一個農業改良場來源
 
@@ -31,11 +31,46 @@ GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** →
 
 其他型式（網站 HTML、RSS）需新增一個 collector 程式（參考 `collectors/datamoa.py`）並在 `sync.py` 的 `PLANS` 與 `run_source` 登錄，同時更新 `config/sources/registry.yaml`。
 
-## 5. 如何新增地方政府法規
+## 5. 地方規定（縣市）
 
-1. 在 `config/sources/registry.yaml` 新增來源（`id: local-縣市代碼`），填寫網址與 `audit_status`。
-2. 若該縣市有開放資料或可合法擷取之法規系統，新增 collector；否則先人工建立 `data/laws/LOCAL-縣市-名稱.json`（格式同其他法規，`level: 地方自治法規`），並於 `sources` 填官方網址。
-3. 地方規定只適用該縣市，網站與案件輔助會標示縣市，不得視為全國適用。
+地方規定依縣市分開收錄，設定檔為 `config/local/counties.yaml`。網站「法規」頁與「案件審查輔助」之縣市選單依此檔產生：`checked: false` 的縣市一律顯示「尚未查核」。
+
+### 5-1. 地方規定審核流程（收錄前必經）
+
+其他縣市同仁可在網站「資料來源」頁按「提供地方規定」，以 GitHub Issue 表單提供（`.github/ISSUE_TEMPLATE/local-regulation.yml`），表單會自動加上 `local-regulation`、`needs-review` 標籤（第一次使用前請在 GitHub → Issues → Labels 建立這兩個標籤，否則標籤不會加上，但表單仍可使用）。**任何地方規定都必須經管理者審核才收錄**：
+
+1. **確認無個資**：Issue 內容公開。若含姓名、電話、身分證字號、地號或個案資料，先編輯刪除（或隱藏該留言）再處理。
+2. **核對官方網址**：網址須為政府機關網域（`gov.tw`），且頁面可看到法規全文或發布令。非官方來源（新聞、部落格、私人整理）一律不收。
+3. **核對內容**：名稱、發布／修正日期、發文字號、施行日期與官方頁面一致；確認是否仍有效（未廢止、未停止適用）、是否有更新版本。
+4. **判斷相關性**：限與農地農用、農業設施容許使用、農地變更使用、農舍、填土等本站主題直接相關者。
+5. **決定收錄方式**：
+   - 該縣市法規系統屬「主管法規共用系統」（網址含 `LawContent.aspx?id=GL…`），且 robots.txt 未限制：在 `counties.yaml` 該縣市下設 `law_system`、`source_id: local-縣市英文`、`auto_sync: true`、`checked: true`，並在 `laws:` 新增一筆（見下方範例）。不確定 robots 或頁面格式時，先執行 Actions → **diagnose**，在 `probe` 欄填入法規網址，結果在 `diagnostics` 分支的 `probe-report.json`。
+   - 無法自動擷取者（robots 不允許、格式不同、只有 PDF）：設 `checked: true`、`auto_sync: false`，人工建立 `data/laws/<縣市代碼>-<編號>.json`（格式同 `data/laws/TXG-GL000357.json`，須含 `county`、`official_url`、`sources`），並在 `review` 欄註明人工輸入日期與核對人。
+6. **留下審核紀錄**：在該筆設定填 `reviewed_by`（單位或職稱即可）、`reviewed_at`、`basis`（核對之官方頁面）、`issue`（Issue 網址）。網站法規頁會顯示審核紀錄。
+7. **回覆並關閉 Issue**：說明已收錄（附網站連結）或不收錄之理由；不收錄者可將法規代碼加入該縣市 `rejected:`，候選清單即不再列出。
+
+```yaml
+      - law_system_id: GL000357          # 官方網址 id= 後面的代碼
+        name: 臺中市申請農業用地作農業設施容許使用審查要點
+        topics: [material_room, greenhouse]   # config/topics/topics.yaml 之 legal_topics
+        scenarios: [material, greenhouse, local] # 案件審查輔助情境 id（web/src/lib/scenarios.ts）
+        reviewed_by: ○○縣政府農業處
+        reviewed_at: 2026-11-01
+        basis: 臺中市法規查詢系統法規內容頁（府授農地字第1130041756號令修正）
+        issue: https://github.com/ottoted34/taiwan-agri-land-law/issues/12
+```
+
+存檔後下次 update-laws（每日）即會擷取；要立即生效可手動執行 update-laws（mode `daily`）。
+
+### 5-2. 系統自動列出之候選
+
+自動同步之縣市，每次同步會讀取 `candidate_categories` 分類頁，把名稱含 `candidate_keywords` 且尚未收錄、未拒絕之法規寫入 `data/metadata/local-candidates.json`，網站「資料來源」頁亦會列出。**候選不會自動上線**，須依 5-1 審核後加入 `laws:`。
+
+### 5-3. 移除或更正
+
+- 不再收錄：自 `laws:` 移除該筆、加入 `rejected:`，並刪除 `data/laws/<代碼>-<編號>.json` 及 `data/laws/versions/<代碼>-<編號>/`。
+- 官方已廢止：系統會依官方頁面標示更新狀態；仍保留紀錄供查核舊案。
+- 地方規定只適用於該縣市，網站與案件輔助均會標示縣市，不得視為全國適用。
 
 ## 6. 如何修正錯誤函釋資料
 
@@ -68,7 +103,7 @@ GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** →
 
 - 函釋是否仍可援用（效力）、是否適用於個案。
 - 系統比對之法規關聯是否正確。
-- 地方自治法規之查核與收錄。
+- 地方規定之審核收錄（見第 5 節）與候選清單之審核。
 - 無法自動擷取之機關資料（農糧署、試驗研究機構官網）。
 - 修法後過渡條款、施行日期之判斷。
 - 案件審查輔助產出之草稿內容。

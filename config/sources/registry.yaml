@@ -115,6 +115,46 @@ sources:
   - {id: tss-site, name: 種苗改良繁殖場網站, agency: 農業部種苗改良繁殖場, url: "https://www.tss.gov.tw/", note: 海外主機網路不可達, audit_status: unreachable}
   - {id: kmweb, name: 農業知識入口網, agency: 農業部, url: "https://kmweb.moa.gov.tw/", note: "RSS 僅知識家、農情關注、活動；未提供改良場出版品機器可讀清單", audit_status: no_relevant_data}
   - {id: moa-site, name: 農業部全球資訊網（組織、所屬機關）, agency: 農業部, url: "https://www.moa.gov.tw/ws.php?id=2514350", note: "所屬機關名錄來源；全站未見函釋查詢專區", audit_status: manual}
-  - {id: ia-site, name: 農田水利署網站, agency: 農業部農田水利署, url: "https://www.ia.gov.tw/", note: "可連線；尚未確認有與容許使用相關之函釋專區", audit_status: not_identified}
-  - {id: forest-site, name: 林業及自然保育署網站, agency: 農業部林業及自然保育署, url: "https://www.forest.gov.tw/", note: "可連線；林業設施相關規範以容許使用審查辦法附表二為主，林保署函釋專區尚未確認", audit_status: not_identified}
-  - {id: local-taichung, name: 臺中市法規查詢系統（地方自治法規）, agency: 臺中市政府, url: "https://lawsearch.taichung.gov.tw/", note: 地方規定模組已建立資料結構，尚未完成查核, audit_status: not_identified}
+  - id: ia-interpretations
+    name: 農田水利署全球資訊網－農田水利相關函釋
+    agency: 農業部農田水利署
+    url: https://www.ia.gov.tw/zh-TW/open/ExecutiveList?a=129
+    content: 198 筆（2026-10-30 查核），發布日期 2008-09-26 至 2010-12-24，此後未再新增；內容多為改制前農田水利會之組織、人事、主計、財務函釋，與農地容許使用直接相關者極少（如排注廢污水於圳路）
+    formats: [HTML]
+    robots: 無 robots.txt（HTTP 404），未限制
+    license: 網站有「政府網站資料開放宣告」（政府資料開放授權條款第1版），但頁尾另載「網站全部圖文版權係屬本署所有，非經本署正式書面同意，不得轉載」，兩者不一致
+    note: 技術上可自動擷取（列表每頁10筆、明細頁含發文字號及全文）。因內容停更於2010年、與本站主題關聯低且授權文字不一致，評估不自動收錄；個別相關函釋（如搭排、排注廢污水）可人工補充
+    audit_status: no_relevant_data
+  - id: forest-interpretations
+    name: 林業及自然保育署全球資訊網－公文函釋
+    agency: 農業部林業及自然保育署
+    url: https://www.forest.gov.tw/0000062
+    content: 1,022 筆、103 頁（2026-10-30 查核），最新 115-10-01；以山坡地開發利用回饋金、森林法、野生動物保育等為主，明細頁含發佈日期、發文文號、全文
+    formats: [HTML]
+    robots: 無 robots.txt（HTTP 404），未限制
+    license: 網站有「政府網站資料開放宣告」頁面，但頁尾另載「網站全部圖文版權係屬本署所有，非經本署正式書面同意，不得轉載」，兩者不一致
+    note: 技術上可自動擷取（?Do=Q&p=頁碼）。山坡地農業設施、回饋金與農地審查有部分關聯；建議 Repository 擁有者先向該署確認函釋利用方式（或依著作權法第9條公文不受保護之見解決定），確認後再新增 collector，並以主題篩選只收錄與農地相關者
+    audit_status: pending_license
+  - id: talis-green-energy
+    name: 農業綠能發展資訊網－農業綠能函釋查詢
+    agency: 農業部
+    url: https://talis.moa.gov.tw/age/Page/List?group=Regulation&category=Explanation
+    content: 112 筆、14 頁（2026-10-30 查核），2015-02-12 至 2026-08-21；綠能設施容許使用、漁電共生、附屬設施審認原則等，明細頁含發文字號、發文日期、全文
+    formats: [HTML]
+    robots: 無 robots.txt（HTTP 404），未限制
+    license: 頁尾載「Copyright© 農業部 版權所有」，未見政府網站資料開放宣告
+    note: 與本站主題高度相關，技術上可自動擷取；抽查之函釋（農農保字第1142655512號）本站已自 RMIS 收錄，預期多數與 RMIS 重複，新增價值在於補足 RMIS 未列者及交叉比對。因未見開放授權宣告，評估為待授權確認；確認後建議優先新增 collector（依字號＋日期＋主旨與既有函釋合併）。talis.moa.gov.tw 首頁之「農地法規檢索系統」即 RMIS，已同步
+    audit_status: pending_license
+  - id: local-taichung
+    name: 臺中市政府主管法規共用系統（地方規定）
+    agency: 臺中市政府
+    url: https://law.taichung.gov.tw/
+    probe_url: https://law.taichung.gov.tw/LawContent.aspx?id=GL000357
+    content: 經管理者審核列入之農地相關地方規定（config/local/counties.yaml），含臺中市申請農業用地作農業設施容許使用審查要點；農業類分類頁之其他法規列為待審核候選
+    formats: [HTML]
+    robots: 無 robots.txt（HTTP 404），未限制（2026-10-30 自 GitHub Actions 確認；每次擷取前重新檢查）
+    license: 地方自治法規及行政規則依著作權法第9條第1項第1款不得為著作權之標的；系統未另載授權宣告
+    coverage: 只收錄審核列入者；舊網址 lawsearch.taichung.gov.tw/GLRSout 已失效（HTTP 404）
+    auto_update: daily
+    audit_status: synced_partial
+    collector: local_glrs

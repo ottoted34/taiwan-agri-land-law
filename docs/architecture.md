@@ -24,7 +24,9 @@
 
 ## 程式目錄
 
-- `scripts/agrilaw/collectors/`：各來源 Adapter（`moj_law.py`、`rmis.py`、`datamoa.py`、`audit.py`）。
+- `scripts/agrilaw/collectors/`：各來源 Adapter（`moj_law.py`、`rmis.py`、`datamoa.py`、`audit.py`、`local_glrs.py`＝縣市「主管法規共用系統」地方規定）。
+- `config/local/counties.yaml`：縣市地方規定設定（查核狀態、自動同步、審核列入之法規、候選分類頁）。
+- `web/src/lib/aiPrompt.ts`：「複製給 AI」提示詞產生與個資遮蔽（純前端，不呼叫任何外部服務）。
 - `scripts/agrilaw/sync.py`：中央同步流程，所有寫入都在這裡，確保失敗不會破壞資料。
 - `scripts/agrilaw/postprocess.py`、`relations.py`、`validity.py`：衍生資料（關聯、效力訊號、修法影響）。
 - `scripts/agrilaw/indexing.py`：產生網站資料；`health()` 供監控使用。

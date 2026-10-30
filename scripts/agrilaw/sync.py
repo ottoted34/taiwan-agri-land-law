@@ -17,6 +17,7 @@ from .articles import sort_key
 from .collectors.audit import SourceAudit
 from .collectors.base import CollectResult
 from .collectors.datamoa import DataMoaPublications
+from .collectors.local_glrs import GlrsLocalLaws
 from .collectors.moj_law import MojLawCollector
 from .collectors.rmis import RmisInterpretations, RmisLawExp, RmisLaws
 from .http import Client
@@ -27,12 +28,22 @@ from .validate import VALIDATORS
 
 SHRINK_RATIO = 0.8
 
+def local_sources() -> list[str]:
+    """縣市地方規定來源（config/local/counties.yaml 中 auto_sync=true 者）。"""
+    return [c["source_id"] for c in counties() if c.get("auto_sync") and c.get("source_id")]
+
+
+def counties() -> list[dict]:
+    p = paths.CONFIG / "local" / "counties.yaml"
+    return (load_yaml(p) or {}).get("counties", []) if p.exists() else []
+
+
 PLANS = {
-    "daily": ["moj-law-api", "rmis-laws", "rmis-interpretations"],
-    "weekly": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp"],
+    "daily": ["moj-law-api", "rmis-laws", "rmis-interpretations", *local_sources()],
+    "weekly": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", *local_sources()],
     "technical": ["datamoa-publications"],
-    "monthly": ["source-audit", "datamoa-publications", "rmis-interpretations", "rmis-laws", "rmis-lawexp"],
-    "full": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", "datamoa-publications", "source-audit"],
+    "monthly": ["source-audit", "datamoa-publications", "rmis-interpretations", "rmis-laws", "rmis-lawexp", *local_sources()],
+    "full": ["moj-law-api", "rmis-laws", "rmis-interpretations", "rmis-lawexp", "datamoa-publications", "source-audit", *local_sources()],
 }
 
 
@@ -122,6 +133,11 @@ class Run:
             col = DataMoaPublications(cfg, self.client)
         elif sid == "source-audit":
             col = SourceAudit(cfg, self.client)
+        elif sid.startswith("local-"):
+            county = next((c for c in counties() if c.get("source_id") == sid), None)
+            if county is None:
+                raise ValueError(f"{sid} 未在 config/local/counties.yaml 設定")
+            col = GlrsLocalLaws({"county": county}, self.client)
         else:
             raise ValueError(sid)
         before = self.client.requests_made
@@ -143,6 +159,8 @@ class Run:
             self.apply_technical(res, stats)
         elif sid == "source-audit":
             write_json(paths.META / "source-audit-latest.json", {"checked_at": now_iso(), "results": res.records})
+        elif sid.startswith("local-"):
+            self.apply_local_laws(res, stats, col.county)
         self.record_source(sid, res, stats)
 
     def record_source(self, sid: str, res: CollectResult, stats: Counter) -> None:
@@ -453,6 +471,34 @@ class Run:
             stats["status_changed"] += 0
         write_json(paths.RELATIONS / "official.json", {"generated_at": now_iso(), "relations": rels})
         res.notes.append(f"官方列示關聯 {len(rels)} 筆；本次新收錄僅見於法規對應頁之函釋 {created} 筆（官方頁面未載發文日期）")
+
+    # ------------------------------------------------------------------ local (county) laws
+    def apply_local_laws(self, res: CollectResult, stats: Counter, county: dict) -> None:
+        """地方規定只收錄 counties.yaml 審核列入者；官方頁面解析結果經驗證才寫入，失敗時保留舊資料。"""
+        for raw in res.records:
+            errs = VALIDATORS["law"](raw)
+            if errs:
+                stats["rejected"] += 1
+                res.errors.append(f"{raw.get('name')} 驗證失敗：{'；'.join(errs)}")
+                continue
+            item = raw["config"]
+            rec = {"id": f"{county['code']}-{raw['law_system_id']}", "name": raw["name"], "level": raw["level"],
+                   "category": f"{county['name']}／{raw['system_path']}", "official_url": raw["source"]["url"],
+                   "modified_date": raw["modified_date"], "published_date": raw["published_date"], "effective_date": None,
+                   "effective_note": "地方法規系統未提供施行日期欄位，施行日期以發布令或條文所定為準",
+                   "abandon_note": raw.get("status_note", ""), "status": raw["status"], "docno_text": raw["docno_text"],
+                   "system_path": raw["system_path"], "county": county["name"],
+                   "histories": [{"seq": i + 1, "text": h["text"], "date": h["date"]} for i, h in enumerate(raw.get("histories", []))],
+                   "articles": raw["articles"], "attachments": raw["attachments"], "foreword": raw.get("foreword", ""),
+                   "doc_class": "law", "sources": [raw["source"]], "primary_source": res.source_id,
+                   "topics": item.get("topics", []), "scenarios": item.get("scenarios", []), "core": False,
+                   "review": {k: item.get(k) for k in ("reviewed_by", "reviewed_at", "basis", "issue") if item.get(k)}}
+            self._save_law(rec, stats, f"{county['name']}法規查詢系統")
+        cands = read_json(paths.META / "local-candidates.json", {}) or {}
+        cands[county["name"]] = {"checked_at": now_iso(), "source_id": res.source_id, "candidates": res.extra.get("candidates", [])}
+        write_json(paths.META / "local-candidates.json", cands)
+        if res.extra.get("candidates"):
+            res.notes.append(f"{county['name']}有 {len(res.extra['candidates'])} 筆待管理者審核之候選法規（data/metadata/local-candidates.json）")
 
     # ------------------------------------------------------------------ technical
     def apply_technical(self, res: CollectResult, stats: Counter) -> None:

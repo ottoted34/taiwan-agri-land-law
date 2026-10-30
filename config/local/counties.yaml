@@ -1,0 +1,75 @@
+# 地方規定（縣市）設定。網站與案件審查輔助之縣市選單依本檔產生。
+#   checked: true    已由管理者查核（網站顯示收錄數）；false 一律顯示「尚未查核」
+#   auto_sync: true  已確認 robots.txt 未限制且資料可合法利用，才由 collector 自動同步；
+#                    false 時只收錄管理者人工建立之 data/laws/<code>-*.json
+#   laws:            經管理者審核列入之法規（law_system_id 為該縣市法規系統之法規代碼）
+#                    reviewed_by / reviewed_at / basis：審核紀錄（見 docs/maintenance.md「地方規定審核流程」）
+#                    scenarios：與案件審查輔助情境之對應（web/src/lib/scenarios.ts 的 id）
+#   candidate_categories / candidate_keywords：每次同步列出「待審核候選」（data/metadata/local-candidates.json），不會自動收錄
+#   rejected:        管理者審核後不收錄之法規代碼（候選清單不再列出）
+counties:
+  - name: 臺中市
+    code: TXG
+    checked: true
+    source_id: local-taichung
+    law_system: https://law.taichung.gov.tw/
+    auto_sync: true
+    audit: >-
+      2026-10-30 自 GitHub Actions 查核：robots.txt 不存在（HTTP 404，未限制擷取）；法規內容為臺中市政府發布之自治法規及行政規則，
+      依著作權法第9條第1項第1款不得為著作權之標的。本站僅擷取管理者審核列入之法規，每次擷取前重新檢查 robots.txt。
+    candidate_categories:
+      - LawCategoryContentList.aspx?CategoryID=030901
+      - LawCategoryContentList.aspx?CategoryID=030902
+      - LawCategoryContentList.aspx?CategoryID=030903
+    candidate_keywords: [農業用地, 農地, 農業設施, 農舍, 農業區, 容許使用, 休閒農, 畜牧, 養殖, 綠能, 填土, 土石方]
+    laws:
+      - law_system_id: GL000357
+        name: 臺中市申請農業用地作農業設施容許使用審查要點
+        topics: [material_room, machinery_room, greenhouse, facility_use, livestock, aquaculture]
+        scenarios: [material, machinery, greenhouse, orchard, consistency, not_per_plan, facility_change, local, container]
+        reviewed_by: 初始設定（待管理者複核）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統法規內容頁（府授農地字第1130041756號令修正）
+      - law_system_id: GL002048
+        name: 臺中市都市計畫保護區農業區土地使用審查辦法
+        topics: [land_change]
+        scenarios: [land_change, local]
+        reviewed_by: 初始設定（待管理者複核）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統法規內容頁（府授法規字第1150212413號令修正）
+      - law_system_id: GL001919
+        name: 臺中市政府農業局同意農業用地變更使用審查作業要點隔離綠帶或設施基準
+        topics: [land_change]
+        scenarios: [land_change, local]
+        reviewed_by: 初始設定（待管理者複核）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類／行政規則」分類列表
+      - law_system_id: GL000534
+        name: 臺中市都市計畫保護區農業區農地重劃土地變更非農業使用審查作業要點
+        topics: [land_change]
+        scenarios: [land_change, local]
+        reviewed_by: 初始設定（待管理者複核）
+        reviewed_at: 2026-10-30
+        basis: 臺中市法規查詢系統「農業類／行政規則」分類列表
+    rejected: []
+  - {name: 臺北市, code: TPE, checked: false}
+  - {name: 新北市, code: NWT, checked: false}
+  - {name: 桃園市, code: TAO, checked: false}
+  - {name: 臺南市, code: TNN, checked: false}
+  - {name: 高雄市, code: KHH, checked: false}
+  - {name: 基隆市, code: KEE, checked: false}
+  - {name: 新竹市, code: HSZ, checked: false}
+  - {name: 嘉義市, code: CYI, checked: false}
+  - {name: 新竹縣, code: HSQ, checked: false}
+  - {name: 苗栗縣, code: MIA, checked: false}
+  - {name: 彰化縣, code: CHA, checked: false}
+  - {name: 南投縣, code: NAN, checked: false}
+  - {name: 雲林縣, code: YUN, checked: false}
+  - {name: 嘉義縣, code: CYQ, checked: false}
+  - {name: 屏東縣, code: PIF, checked: false}
+  - {name: 宜蘭縣, code: ILA, checked: false}
+  - {name: 花蓮縣, code: HUA, checked: false}
+  - {name: 臺東縣, code: TTT, checked: false}
+  - {name: 澎湖縣, code: PEN, checked: false}
+  - {name: 金門縣, code: KIN, checked: false}
+  - {name: 連江縣, code: LIE, checked: false}

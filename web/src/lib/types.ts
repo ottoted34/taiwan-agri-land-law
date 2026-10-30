@@ -1,5 +1,5 @@
 export type Article = [key: string, label: string | null, chapter: string | null, text: string];
-export interface LawIdx { id: string; n: string; lv: string; st: string; md: string | null; tp: string[]; core: boolean; src: string; a: Article[]; h?: [string, string][] }
+export interface LawIdx { id: string; n: string; lv: string; st: string; md: string | null; tp: string[]; core: boolean; src: string; a: Article[]; h?: [string, string][]; u?: string | null; cty?: string | null; scn?: string[] }
 export interface InterpIdx {
   id: string; no: string; d: string | null; ag: string; agid: string | null; h: boolean; cat: string; s: string; c: string;
   tp: string[]; v: string; rel: [lawId: string, article: string | null, kind: string][]; fl: string[]; yh?: number | null;
@@ -18,7 +18,10 @@ export interface Manifest {
   topics: { legal_topics: Record<string, { label: string; keywords: string[] }>; technical_topics: Record<string, { group: string; label: string; keywords: string[] }> };
   synonyms: string[][];
   latest: { interps: string[]; tech: string[]; laws: string[] };
+  counties?: County[];
 }
+/** 縣市地方規定查核狀態。checked=false 時網站一律顯示「尚未查核」。 */
+export interface County { name: string; checked: boolean; laws: number; law_system?: string | null; auto_sync?: boolean; note?: string; reviewed_at?: string | null }
 export interface Relation { law_id: string; article: string | null; kind: "official" | "extracted" | "manual"; evidence?: string; snippet?: string; note?: string }
 export interface InterpDetail {
   id: string; docno: string; date: string | null; date_text: string; agency_text: string; agency_id: string | null; agency_name: string | null;
@@ -39,6 +42,7 @@ export interface LawDetail {
   flags?: string[]; former_names?: string[]; last_checked: string; last_changed: string; first_seen: string;
   change_log?: { at: string; from_modified: string | null; to_modified: string | null; articles: string[] }[];
   versions: LawVersionRef[]; foreword?: string;
+  county?: string | null; docno_text?: string; published_date?: string | null; system_path?: string; review?: { reviewed_by?: string; reviewed_at?: string; issue?: string; basis?: string } | null;
 }
 export interface LawVersion { law_id: string; version_id: string; name: string; modified_date: string | null; kind: string; is_full_text: boolean;
   articles: { key: string; label: string; chapter: string | null; text: string }[]; content?: string; entry?: string; url?: string; note?: string; captured_at: string }
