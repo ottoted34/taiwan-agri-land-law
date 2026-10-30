@@ -1,0 +1,52 @@
+{
+ "id": "itp-e9396a55b5",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150216003號",
+ "date": "2026-04-22",
+ "date_text": "115/4/22",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴公司函詢特定工廠申請變更編定為特定目的事業用地，其使用之毗連土地是否受農業發展條例第16條限制案，詳如說明，請查照。",
+ "content": "依據農業發展條例第16條第1項第2款規定，每宗耕地分割後每人所有面積未達0.25公頃者，不得分割，但有「部分依法變更為非耕地使用者，其依法變更部分及共有分管之未變更部分，得為分割」之情形者，不在此限。復依「特定工廠申請變更編定為特定目的事業用地審查辦法」第6條規定略以，申請範圍土地與相鄰農業用地應規劃隔離綠帶或設施；申請人必要時得使用毗連土地至多3公尺範圍內土地規劃為隔離綠帶，視同廠地面積納入申請範圍，並依法申請使用地編定。是以，特定工廠倘有使用毗連耕地外擴規劃作為隔離綠帶或設施，其經依法核准部分變更為非耕地使用者，其依法變更部分及共有分管之未變更部分，得為分割。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6089",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:59+08:00",
+   "source_key": "rmis:6089"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "051c2f34169f7971ec77c9134a742b243f9a9f0809ef1bf6b37bdce0ff81747f",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "定工廠申請變更編定為特定目的事業用地,其使用之毗連土地是否受農業發展條例第16條限制案,詳如說明,請查照。\n依據農業發展條例第16條第1項第2款規定,每宗耕地分"
+  }
+ ]
+}

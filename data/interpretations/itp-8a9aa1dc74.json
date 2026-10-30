@@ -1,0 +1,54 @@
+{
+ "id": "itp-8a9aa1dc74",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110207394號",
+ "date": "2022-03-11",
+ "date_text": "111/3/11",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "因相關法令致農舍建物物退縮之農舍配置疑義案",
+ "content": "主旨：有關所詢因相關法令致農舍建築物劃設深度20公尺，造成貴轄民眾申請之農舍面積配置受限疑義一案，復如說明，請查照。\n說明：\n一、復貴府111年2月21日屏府農企字第11105667500號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、至所詢本會水土保持局104年編製之「農舍執行疑義手冊」第73頁EX1重劃後農地深度不得超過20公尺之疑義，查該數值非為實際應退縮距離上限，而係為利理解農舍用地面積須配合指定建築線道路退縮規定之舉例參考，故建築物實際應退縮距離，以及退縮距離內是否得配置建物，仍須依建築管理相關法規辦理。\n四、另，查農業用地興建農舍辦法第2條第2項規定訂定之興建農舍經營計畫書已明定「農舍用地應矩形配置於農地之地界線側及臨接道路」，爰農舍因相關規定需退縮者，其道路與建築物間之農地面積須計入農舍用地面積，併予敘明。\n五、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，請貴府參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5912",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:51:22+08:00",
+   "source_key": "rmis:5912"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b19d6a50f9fa4c63c325349225a3409edf839463918c72b1c21700daf8c0f5c2",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "離內是否得配置建物,仍須依建築管理相關法規辦理。\n四、另,查農業用地興建農舍辦法第2條第2項規定訂定之興建農舍經營計畫書已明定「農舍用地應矩形配置於農地之地界線側及臨"
+  }
+ ]
+}

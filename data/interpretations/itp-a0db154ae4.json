@@ -1,0 +1,60 @@
+{
+ "id": "itp-a0db154ae4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050200911號",
+ "date": "2016-01-26",
+ "date_text": "105/1/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局函為興建自用農舍申請人資格條件審查涉「興建農舍之需求」疑義案，復請查照。",
+ "content": "一、復貴局105年1月7日中市農地字第1050000669號函。\n二、本會104年10月21日農水保字第1041866479號函送經營計畫書格式，並提供審查參考原則供各直轄市、縣(市)政府參考，其中有關申請人興建霞舍之需求部分，貴府得由興建農舍具農業經營與居住需求之合理性、必要性：包含中請人現有住宅與申請基地之遠近、現有住宅數目、申請基地與既有聚落之遠近、農舍之農業經營使用功能等予以審查。\n三、首揭函說明三敘及申請人已於相距8公尺之建地取得住宅建照，明顯已足夠申請人居住及就近照顧農作物，得否就興建農舍具農業經營與居住需求之合理性及必要性不足，認定不符合農業用地興建農舍辦法第2條第1項第5款及第2項，不予核定其興建資格一節，按農舍興建之立法意旨，係基於便於就近從事農作生產提供工作及居住場所，始得依規申請建築農舍。本案如經貴府審酌該申請案之合理性及必要性不足者，尚得認定不符農業發展條例第18條興建農舍之需求性及有影響農業生產環境及農村發展之虞不予核定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4013",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:41+08:00",
+   "source_key": "rmis:4013"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "766b1036dd3a6c10aa76a025a98dad27dcd55fcf2edb857c6d4c34f933ba594b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "興建農舍具農業經營與居住需求之合理性及必要性不足,認定不符合農業用地興建農舍辦法第2條第1項第5款及第2項,不予核定其興建資格一節,按農舍興建之立法意旨,係基於便於就"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "本案如經貴府審酌該申請案之合理性及必要性不足者,尚得認定不符農業發展條例第18條興建農舍之需求性及有影響農業生產環境及農村發展之虞不予核定。"
+  }
+ ]
+}

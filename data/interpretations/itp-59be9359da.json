@@ -1,0 +1,60 @@
+{
+ "id": "itp-59be9359da",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970174755號",
+ "date": "2008-12-31",
+ "date_text": "97/12/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "一、有關農業用地作農業使用證明書申請核發之審核，如為單獨所有之農業用地應就整筆農業用地是否符合作農業使用之認定予以審核；如為共有農業用地得依本會歷次會議結論及函釋規定，以共有人持分部分審認之，合先?明。\n二、旨揭原為單獨所有之農業用地，部分違規未作農業使用，經運用配偶相互贈與而為共有，因該農業用地於配偶互贈時， 貴部即依法逕予核准相關稅負之減免，並為共有之登記。嗣後該農業用地之共有人為辦理其持分部分土地之移轉，申請核發農業用地作農業使用證明書時，農業單位依前開規定，審核發給農業用地作農業使用證明書，並無不妥，本會前於97年1月10日以農企字第0970100974號函復 貴部在案。\n三、貴部倘認為旨揭配偶相互贈與依遺產及贈與稅法之規定有所疏漏，宜請本於權責妥處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4806",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:20+08:00",
+   "source_key": "rmis:4806"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c8ac23422826c6cb67e105b1c5e42fb945d571b738645e14ced5ea25016b9200",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

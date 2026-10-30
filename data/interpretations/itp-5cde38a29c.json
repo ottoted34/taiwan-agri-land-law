@@ -1,0 +1,61 @@
+{
+ "id": "itp-5cde38a29c",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070214411號",
+ "date": "2018-04-23",
+ "date_text": "107/4/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農牧用地整筆均為政府單位施設作農路及農業灌溉溝渠使用，申請核發農業用地作農業使用證明書疑義案，復請查照。",
+ "content": "一、復貴府107 年4 月10 日屏府農企字第10709982500 號函。\n二、農業用地上施設有與農業經營不可分離之農路或灌溉、排水設施，應依農業用地作農業使用認定及核發證明辦法第4條第2款規定，須檢附容許使用同意書或從來使用證明文件，俾得認定為作農業使用。對於政府施設供公眾使用之農路，或農田水利會施設之農田灌、排水設施，因具公益性質，本會歷年函釋得視為已取得農業設施容許使用，無須再由農民另案申請。\n三、又農路或灌溉、排水等農業設施既係與農業經營不可分離，始得申請興建，依申請農業用地作農業設施容許使用審查辦法第7條第1項規定，申設之農業設施總面積不得超過申請設施所座落之農業用地面積之40%，縱由政府單位施設者亦應符合上開辦法規定，始符合作農業使用之認定基準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5248",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:29+08:00",
+   "source_key": "rmis:5248"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "92e540a002c3db379fce44544cb1c9146898bb8b4a2fd6c341e2027228320797",
+ "topics": [
+  "farm_use_cert",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "業用地上施設有與農業經營不可分離之農路或灌溉、排水設施,應依農業用地作農業使用認定及核發證明辦法第4條第2款規定,須檢附容許使用同意書或從來使用證明文件,俾得認定為作農業使用。對於政"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "灌溉、排水等農業設施既係與農業經營不可分離,始得申請興建,依申請農業用地作農業設施容許使用審查辦法第7條第1項規定,申設之農業設施總面積不得超過申請設施所座落之農業用地面積之40%,縱"
+  }
+ ]
+}

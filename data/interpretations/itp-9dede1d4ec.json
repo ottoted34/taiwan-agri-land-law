@@ -1,0 +1,52 @@
+{
+ "id": "itp-9dede1d4ec",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030212723號",
+ "date": "2014-04-30",
+ "date_text": "103/4/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請人已取得農業用地作農業設施容許使用同意在案，可否於其他農業用地再次申請農業設施，以及其設施之面積是否須合併計算之審查疑義。",
+ "content": "主旨：有關申請人已取得農業用地作農業設施容許使用同意在案，可否於其他農業用地再次申請農業設施，以及其設施之面積是否須合併計算之審查疑義，復請查照。\n說明：\n一、復貴府103年4月17日府農管字第1030088476號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第11條規定：「已申請興建農業設施之農業用地上，申請設置相同項目之農業設施，該設施原有面積及申請新增面積之總和，不得超過本辦法所定各項農業設施設置面積之規定。」按其立法目的，應係指申請設置相同項目之農業設施，該設施原有面積及申請新增面積，係以累計方式計算，且不得超過該設施設置面積之上限。是以，申請人倘於同一筆或不同筆之農業用地，再次申請相同項目之農業設施，屬容許辦法各附表之申請基準或條件定有最大興建面積規定者，則其原有面積及申請新增之面積，合併計算仍不得超過該項設施之最大興建面積。\n三、本案申請人已取得農業用地作農業設施容許使用同意在案，擬於其他農業用地再次申請農業設施，仍請貴府審酌農業生產經營之需要，及再次設置相同農業設施之合理性、必要性，依容許辦法之規定及前開原則，予以核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4885",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:07+08:00",
+   "source_key": "rmis:4885"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a9ea78178aa7bda8d21e1b2ae5071d68f0268abbe9ae29db2f299d58bbbd6f47",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "3年4月17日府農管字第1030088476號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第11條規定:「已申請興建農業設施之農業用地上,申請設置相同"
+  }
+ ]
+}

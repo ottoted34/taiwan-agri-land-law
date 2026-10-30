@@ -1,0 +1,64 @@
+{
+ "id": "itp-053c399d7e",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1030060354號",
+ "date": "2014-09-17",
+ "date_text": "103/9/17",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "為民眾陳情有關申請興建農舍，其建造執照尚未准照前申請人死亡，可否核發建造執照疑義1案，復請 查照。",
+ "content": "一、依據行政院農業委員會水土保持局103年9月5日水保農字第1031820340號函(如附件)辦理，並復貴府103年8月18日府農務字第1030132531號函。\n二、按本署101年2月29日營署建管字第1010004749號函說明二所示：「有關農舍建造執照起造人死亡『除已給照施工者得由繼承人申請為變更起造人名義外，其未給照或給照尚未施工者，其繼承人應依同條項款所定要件始得為之。』、『農舍起造人於領得農舍建造執照施工期間死亡，該農舍既已在施工中，如繼承人繼承該農舍及其坐落土地繼續施工者，得由其繼承人辦理變更為起造人』本部73年3月17日台內營字第213390號函及92年7月11日台內營建管字第0920087592號函分別已有明示。」案據行政院農業委員會水土保持局前揭函說明三 (二)稱：「農業用地興建農舍辦法(以下簡稱本辦法)第8條第2項前段規定，申請興建農舍變更起造人時，除為繼承且在施工中者外，應依第2條第1項規定辦理。本案申請人於領得建造執照前已死亡，參照貴署上開函示及本辦法規定，該繼承人仍應符合本辦法第2條所定農舍興建資格要件。」請據以依照辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3828",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:39+08:00",
+   "source_key": "rmis:3828"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5dd7dbf3e51a3ad884132687899bf2a099b538cb5f83b263f1c87047d31a71a2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "示。」案據行政院農業委員會水土保持局前揭函說明三 (二)稱:「農業用地興建農舍辦法(以下簡稱本辦法)第8條第2項前段規定,申請興建農舍變更起造人時,除為繼承且在施"
+  }
+ ]
+}

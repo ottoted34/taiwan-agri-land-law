@@ -1,0 +1,65 @@
+{
+ "id": "itp-0b80e07323",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1051061342號",
+ "date": "2016-11-14",
+ "date_text": "105/11/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：有關貴局函為農業資材室面積計算疑義案，請查照。\n說明：\n一、依據本會農糧署案陳貴局105 年8 月19 日南市農務字第1050803017號函辦理。\n二、查申請農業用地作農業設施容許使用審查辦法第13條附表1所定農業資材室申請基準或條件略以，農業用地面積達0.1公頃以上者，每0.1公頃得興建33平方公尺，最大興建面積以330平方公尺為限。究其立法目的，係基於農業資材室作為申請土地從事農業生產活動所必須之肥料、農藥、種子、農具、器皿、農產品等存放使用性質，其所需空間與面積隨經營規模而有不同。故興建面積係總量規定，即以土地面積換算可興建設施面積，實已考量該設施用途及功能、可服務農業經營之最大空間。爰不論平面或立體使用，加計之設施總使用面積，自不宜超過所定標準。\n三、另考量農業資材室之用途，以及確保與農業經營之必要性及合理性，應具相當衡平關係。本案建議貴局審認時，可從現況經營規模和所需資材量堆置換算適當之設施面積，又該資材為何及是否適用種植之作物，以及堆置2樓之合理性及必要性，仍宜審慎核處，避免有違規使用之虞，並符合監察院相關調查結果就本設施應予檢討及管制之要求",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5476",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:22+08:00",
+   "source_key": "rmis:5476"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "09dedf7ddba2fa2243e39ad9322e375e1d9741627300cf59ea7e6721e1b05823",
+ "topics": [
+  "landfill",
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "月19 日南市農務字第1050803017號函辦理。\n二、查申請農業用地作農業設施容許使用審查辦法第13條附表1所定農業資材室申請基準或條件略以,農業用地面積達0.1公頃以上者,每0.1"
+  }
+ ]
+}

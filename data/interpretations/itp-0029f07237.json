@@ -1,0 +1,73 @@
+{
+ "id": "itp-0029f07237",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960168028號",
+ "date": "2007-12-04",
+ "date_text": "96/12/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "016 釋農業用地作農業使用認定及核發證明辦法從來使用之證明文件案",
+ "content": "有關農業用地作農業使用認定及核發證明辦法第5條第2款第2目「農業設施得為從來使用之證明文件」之執行疑義案，請依案附內政部82年3月5日台（82）內地字第8202898號函釋規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5495",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:39+08:00",
+   "source_key": "rmis:5495"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c8c959cd0ec6348c8471ce4d65edaa0d837413432b9d4743657dff7f6f029c1c",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "業用地作農業使用認定及核發證明辦法從來使用之證明文件案\n有關農業用地作農業使用認定及核發證明辦法第5條第2款第2目「農業設施得為從來使用之證明文件」之執行疑義案,請依案附內政部82年"
+  }
+ ]
+}

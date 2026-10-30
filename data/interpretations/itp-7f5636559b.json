@@ -1,0 +1,89 @@
+{
+ "id": "itp-7f5636559b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980100308號",
+ "date": "2009-01-13",
+ "date_text": "98/1/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋依「農業用地容許作農業設施使用審查辦法」第2條第3款規定，特定專用區農牧用地是否可申請農業設施之疑義案。",
+ "content": "主旨：有關台端函詢特定專用區農牧用地是否可申請農業設施之疑義案，復請查照。\n說明：\n一、復台端97年12月29日暨98年1月7日申請書。\n二、查非都市土地使用管制規則第6條附表一係以使用地類別管制，對於農牧用地(工業區、河川區除外)得作農業設施之容許使用項目。復依「農業用地容許作農業設施使用審查辦法」第2條第3款規定，依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區、森林區以外之分區內所編定之農牧用地，為本辦法之適用範圍。爰以，特定專用區農牧用地得依本辦法之規定，申請農業設施之容許使用。惟依台端來函檢附之土地登記簿謄本所示，該土地係為國有財產局之土地，依上開辦法第5條規定，應取得國有財產局出具之土地使用權同意書，始得申請容許使用。\n三、另依區域計畫法施行細則第13條第10款規定，其他使用區或特定專用區：為利各目的事業推動業務之實務需要，依有關法令，會同有關機關劃定並註明其用途。本案依法申請農業用地作農業設施之容許使用，是否符合該特定專用區之劃定用途，建議台端應洽請目的事業主管機關查明確認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5252",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:14+08:00",
+   "source_key": "rmis:5252"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "2",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "2",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f85f710c59f19a7e5eade1ae291144e66c118615f5079adf609a430af51d8e06",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "釋依「農業用地容許作農業設施使用審查辦法」第2條第3款規定,特定專用區農牧用地是否可申請農業設施之疑義案。\n主旨:有關台端函詢特"
+  }
+ ]
+}

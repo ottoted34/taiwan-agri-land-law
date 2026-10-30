@@ -1,0 +1,90 @@
+{
+ "id": "itp-3214f86c6f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990152022號",
+ "date": "2010-08-11",
+ "date_text": "99/8/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "020 釋與農業經營不可分離供農路使用之土地案",
+ "content": "主旨：有關貴轄壯圍鄉○○○地號非都市土地特定農業區農牧用地，早期既有一條農路供甲種建築用地出入之私設道路，可否核發農業用地作農業使用證明書疑義案，復請 查照。\n說明：\n一、復 貴府99年7月29日府農務字第0990103293號函。\n二、經查非都市土地使用管制規則附表一有關農牧用地、養殖用地得容許申請作「私設通路」使用之規定，係於93年3月5日所增訂，以有別於農業性質之農路使用。為避免農業用地依法申請非屬農業性質之容許使用，而影響其未來申請賦稅減免優惠之權益，故農業單位於會簽私設通路之容許使用申請案時，宜依本會94年3月15日農企字第0940111833號函示，加註提醒文字。\n三、另來函所稱本會95年11月16日農企字第0950164527號函示略以：「...所稱『私設道路』因非屬農業設施之範圍，故不符合作農業使用之認定，無法核發農業用地作農業使用證明書。惟倘其為與農業經營不可分離之農路，則應依農業用地容許作農業設施使用審查辦法之規定，申請農業設施容許使用，始符合法令規定。」準此，本案所稱「早期既有一條『農路』供甲種建築用地出入之『私設通路』」一節，宜請依本會前開函文後段意旨，核實審認是否具有與農業經營不可分離之農路功能，不宜僅因其具有供甲種建築用地出入之實，而否定其與兩旁農業經營不可分離之事實；倘經認定屬與農業經營不可分離之農路，自得依農業用地作農業使用認定及核發證明辦法第5條第2款之規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5457",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:44+08:00",
+   "source_key": "rmis:5457"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "6ce4aa21998ef66cb2553841851c01d33b387d08150261c8499af03b1dc92b7d",
+ "topics": [
+  "farm_use_cert",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地作農業使用證明書。惟倘其為與農業經營不可分離之農路,則應依農業用地容許作農業設施使用審查辦法之規定,申請農業設施容許使用,始符合法令規定。」準此,本案所稱「早期既有一條『農"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "營不可分離之事實;倘經認定屬與農業經營不可分離之農路,自得依農業用地作農業使用認定及核發證明辦法第5條第2款之規定辦理。"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-ad2ac21ef0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090216688號",
+ "date": "2020-05-04",
+ "date_text": "109/5/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關「農業用地興建農舍辦法」第 2條第 1項第 2款審認原則",
+ "content": "一、復貴府 109年4月27日府農農字第 1090074665號函。\n二、查農業用地興建農舍辦法第 2條第 1項第 2款規定：「申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。但參加興建集村農舍建築物坐落之農業用地，不受土地取得應滿二年之限制。」，係為符合農業發展條例第 18條立法意旨，確保該農舍為配合於農業用地上從事農業經營所需而興建之政策目的，爰興建個別農舍與集村農舍之農業經營用地之申請條件應相同，即應受土地取得及戶籍登記均應滿二年之規定，惟「興建集村農舍建築物坐落之農業用地」基於推動集村農舍政策考量，得不受土地取得應滿二年之限制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4735",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:46+08:00",
+   "source_key": "rmis:4735"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "63d859ad5fec81a36a8fec6daf0ff1a37bc441221ff5d21161e2753eab19729f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "有關「農業用地興建農舍辦法」第 2條第 1項第 2款審認原則\n一、復貴府 109年4月27日府農農字第 109007"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "築物坐落之農業用地,不受土地取得應滿二年之限制。」,係為符合農業發展條例第 18條立法意旨,確保該農舍為配合於農業用地上從事農業經營所需而興建之政策目的,爰興建個"
+  }
+ ]
+}

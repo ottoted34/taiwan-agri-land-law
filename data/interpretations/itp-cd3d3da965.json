@@ -1,0 +1,64 @@
+{
+ "id": "itp-cd3d3da965",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030080075號",
+ "date": "2014-12-19",
+ "date_text": "103/12/19",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府為農業用地因逕為分割後土地面積未達0.25公頃，不得依逕為分割前之面積申請興建農舍疑義案，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局103年12月4日水保農字第1031824387號函轉貴府103年10月14日府建計字第1030172392號函副本辦理。\n二、依據農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項規定略以，「依本條例第18條第1項規定申請興建農舍之申請人應為農民，且其資格應符合下列條件，並經直轄市、縣(市)主管機關核定：‧‧‧三、申請興建農舍之該筆農業用地面積不得小於0.25公頃。...」，先予敘明。\n三、有關貴府函說明四本案農舍合法興建完成後，因配合國強排水治理計畫及都市計畫變更辦理逕為分割，致該農舍座落之土地不足0.25公頃1節，按貴府所陳申請人當時係為合法興建農舍，該農舍得繼續為原來之使用。至於該農舍後續因故需拆除後重建，仍應依申請興建時本辦法相關規定申請興建農舍。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3875",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:52+08:00",
+   "source_key": "rmis:3875"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "37dd24d120b7e19706a48cf56416fc73991b9407d03779a63ead6d076f03ce99",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "14日府建計字第1030172392號函副本辦理。\n二、依據農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項規定略以,「依本條例第18條第1項規定申請興建農舍"
+  }
+ ]
+}

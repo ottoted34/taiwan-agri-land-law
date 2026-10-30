@@ -1,0 +1,38 @@
+{
+ "id": "tech-85c23d56972e",
+ "source_key": "datamoa:D97:89570fd6a0862c14",
+ "title": "技術專刊 48",
+ "series": "技術專刊",
+ "issue": "48",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=4987",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "48",
+  "出刊年月": "201201",
+  "期刊名稱": "臺東地區杭菊栽培與病蟲害管理",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=4987"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T10:26:56+08:00"
+  }
+ ],
+ "content_hash": "adf16c66644cd2fac136b03ec35f5ae0f4ad4a8735f25166a89fb21b8204f61f",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

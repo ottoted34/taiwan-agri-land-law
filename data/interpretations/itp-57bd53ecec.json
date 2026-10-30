@@ -1,0 +1,48 @@
+{
+ "id": "itp-57bd53ecec",
+ "doc_class": "interpretation",
+ "docno": "府商建字第1040255061B號",
+ "date": "2015-12-25",
+ "date_text": "104/12/25",
+ "agency_text": "苗栗縣政府",
+ "category": "解釋函",
+ "subject": "關於苗栗縣議會移請本府輔導舊有農舍就地合法登記1案，詳如說明，請 鑒核。",
+ "content": "一、依據苗栗縣議會104年12月4日104苗議事字第1041002588號決議案送請執行單辦理。\n二、經查旨揭案題「請縣政府輔導舊有農舍就地合法登記，以維護民眾權益。」，理由如下：\n(一)本縣舊有農舍因建築法、都市計畫法、區域計畫法等因素造成無法登記，甚至屢遭縣府取締、罰鍰，造成民怨四起。\n(二)為解決舊有農舍無法登記問題，其在符合消防、環保、水利、水保等條件下，應排除都市計畫、區域計畫及建築法之規定，在繳交回饋金後給予就地合法政府既收取回饋金又避免民怨，一舉數得。\n三、承前開定期會提案理由，惠請 貴局(署)於未來相關法令修訂之際，參採地方民意，納入相關修訂條文，以消彌民怨，利於合法管理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "苗栗縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3981",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:10+08:00",
+   "source_key": "rmis:3981"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "504c819edbd05999b9b62f80702d384c86abf414755f6fbfc4d7f371d39bd620",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

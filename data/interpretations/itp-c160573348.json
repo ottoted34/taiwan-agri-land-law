@@ -1,0 +1,46 @@
+{
+ "id": "itp-c160573348",
+ "doc_class": "interpretation",
+ "docno": "農輔字第1070022157A號",
+ "date": "2018-02-12",
+ "date_text": "107/2/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋令",
+ "subject": "訂定「實際耕作者從事農業生產工作認定作業要點」，並自中華民國一百零七年二月二十一日生效。附「實際耕作者從事農業生產工作認定作業要點」。",
+ "content": "無",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4358",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:34+08:00",
+   "source_key": "rmis:4358"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a68227f60b0434b583c1c2d68503079bb5ad3fa1be0494a4f8b91db9609fd50c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "itp-a94fd4f235",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010108258號",
+ "date": "2012-05-23",
+ "date_text": "101/5/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「屋簷突出建築物外牆範圍，是否可計入隔離綠帶及設施」疑義案。",
+ "content": "主旨：有關 貴府再次函詢「屋簷突出建築物外牆範圍，是否可計入隔離綠帶及設施」疑義案，復如說明，請　查照。\n說明：\n一、復　貴府101年5月1日屏府農企字第1010098207號函。\n二、查本會前於101年4月10日函復 貴府略以：「．．．本案建築物既屬其相關事業計畫所需之設施，其興建及使用管理係依其相關事業計畫之規範條件予以審認，與上開要點所稱隔離設施尚有扞格，故該屋簷突出建築物外牆之垂直投影面積，仍屬其事業設施使用範圍，不宜計入前開應留設之隔離綠帶或設施面積。」在案。爰倘屬尚未興建之建築物設置隔離綠帶或設施者，為避免影響緊臨農業用地之農業生產環境，建議貴府於審查該項時如有疑義，應請申請人提出說明，並視情要求其於所提土地使用配置圖作調整，後續倘同意變更使用，則可於同意函明敘隔離綠帶或設施之配置規定時，併提醒申請人「屋簷突出建築物外牆之垂直投影面積，係屬其事業設施使用範圍，不計入應留設之隔離綠帶或設施面積」，以避免發生 貴府所述建築物取得使用執照後，卻與本會前揭函示不一致之情形。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5564",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:36+08:00",
+   "source_key": "rmis:5564"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5efd0fcec2d45853b6b735b18b5232b57a766678311ab60ee3130b33cbfc71ee",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  }
+ ]
+}

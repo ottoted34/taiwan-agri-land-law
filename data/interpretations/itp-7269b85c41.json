@@ -1,0 +1,56 @@
+{
+ "id": "itp-7269b85c41",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960164641號",
+ "date": "2007-11-20",
+ "date_text": "96/11/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋「補辦登記寺廟位於特定農業區農地重劃土地輔導處理方案」之申請變更土地如有道路或溝渠所隔，是否從寬視為地號毗連案。",
+ "content": "主旨：有關臺南縣政府函詢「補辦登記寺廟位於特定農業區農地重劃土地輔導處理方案」之申請變更土地如有道路或溝渠所隔，是否從寬視為地號毗連一案，本會意見如說明，請　查照。\n說明：\n一、復　貴部96年11月13日內授中民字第○○○○○號函。\n二、按旨揭方案前由　貴部與本會協商訂定時，即以解決符合該方案輔導對象之補辦登記寺廟，其既存之宗教建築設施及既有之宗教使用土地變更問題，並兼顧維護農業生產環境之完整性作基礎，故該方案肆、輔導原則第3點及第4點所訂同意申請變更範圍及最大面積之計算規範，應以現有方案規定為限，不宜恣意擴張以往協商基礎及已建立之審查規範，以免影響農業生產環境。\n三、查土地登記依土地法第43條規定，具有絕對效力，故本會96年10月24日農企字第0960159015號函(如附)說明三：「．．．，且其所有使用土地須以地號毗連為原則」，宜配合　貴部上開協商基礎，以地籍圖謄本及土地登記謄本為審認基準，並依據旨揭方案肆、輔導原則第3點及第4點之同意申請變更範圍及最大面積計算規範，就個案既有之宗教使用土地及既存之宗教建築設施予以實質審核，以免違反訂定該方案之目的及宗旨。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5220",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:42+08:00",
+   "source_key": "rmis:5220"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "baadf80bf1dcf3e72013f3e6c7f63deb0bea7fd85e6096da344fd3739efae39a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  }
+ ]
+}

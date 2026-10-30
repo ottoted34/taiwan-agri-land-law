@@ -1,0 +1,73 @@
+{
+ "id": "itp-ec3b633d93",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980125731號",
+ "date": "2009-05-07",
+ "date_text": "98/5/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業設施經核定完工後，未依經營計畫內容使用或擴建，得否要求先行限期改善後，再依申請農業用地作農業設施容許使用審查辦法第26條規定辦理疑義案。",
+ "content": "主旨：有關農業設施經核定完工後，未依經營計畫內容使用或擴建，得否要求先行限期改善後，再依申請農業用地作農業設施容許使用審查辦法第26條規定辦理疑義案，請　查照。\n說明：\n一、併復臺北縣政府農業局98年4月29日北農林字第○○○○○號函。\n二、查申請農業用地作農業設施容許使用審查辦法第26條明定：「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用．．．未依計畫內容使用者，原核定機關得廢止其許可，並通知區域計畫或都市計畫主管機關依相關規定處理．．．」另行政程序法第7條明定：「行政行為應依下列原則為之：一、採取之方法應有助於目的之達成。二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。三、且採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。」。\n三、準此，經依法申請核准之農業設施，如未依經營計畫內容使用，倘於廢止其許可前，能給予限期改善之空間，使其恢復原核定計畫內容使用，既能達成行政目的，又能符合前開行政行為之原則，並無不妥。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5259",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:03+08:00",
+   "source_key": "rmis:5259"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "26",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d7e9dfeb2565d4d0d5b7742a9eb4a7c2c3dfcd8f5f329ca6d6e9dc7c12e7e941",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "26",
+   "kind": "extracted",
+   "snippet": "後,未依經營計畫內容使用或擴建,得否要求先行限期改善後,再依申請農業用地作農業設施容許使用審查辦法第26條規定辦理疑義案。\n主旨:有關農業設施經核定完工後,未依經營計畫內容使用或擴建,得"
+  }
+ ]
+}

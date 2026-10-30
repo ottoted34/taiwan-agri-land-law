@@ -1,0 +1,49 @@
+{
+ "id": "itp-340490b4d5",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051813109號",
+ "date": "2016-10-27",
+ "date_text": "105/10/27",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "為貴局辦理貴市路竹區○○○地號農舍基地調整變更使用執照申請解除套繪管制1案，其涉及不屬同一地號，得否適用本局105年8月23日水保農字第1050724045號函等事宜，復如說明，請查照。",
+ "content": "一、依據內政部營建署105年10月20日營署建管字第1050063265號書函暨貴局105年10月5日高市工務建字第10537763300號函辦理。\n二、有關本局105年8月23日水保農字第1050724045號函說明三係指申請興建農舍之該筆土地因現有道路通過時之計算方式及適用原則，與本案申請解除套繪管制有別。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3258",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:26+08:00",
+   "source_key": "rmis:3258"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "129c7b378b32ff8ee3f833abfb0b4c323f8b8b4838bb0669294a204c8c326ec8",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

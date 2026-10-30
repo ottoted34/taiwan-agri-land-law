@@ -1,0 +1,53 @@
+{
+ "id": "itp-f76464260d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110013125號",
+ "date": "2022-07-26",
+ "date_text": "111/7/26",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "作農路使用已編定為交通用地申請核發農用證明書5則函釋停止適用",
+ "content": "主旨：本會90年2月2日（90）農企字第900102896號函等5則函釋(如附件)，自即日停止適用，請查照轉知所屬。\n說明：查財政部依據司法院釋字第779號解釋，業於110年6月23日修正公布土地稅法，增訂第39條第3項規定：「非都市土地經需用土地人開闢完成或依計畫核定供公共設施使用，並依法完成使用地編定，其尚未被徵收前之移轉，經需用土地人證明者，準用第1項前段規定，免徵土地增值稅。」該部並依據同條第4項授權，訂定「非都市土地供公共設施使用認定及核發證明辦法」作為申請案件之審認依據。是以，作農路使用之土地倘已依法編定為交通用地，屬政府闢設供公眾通行使用，具公共設施性質，該土地所有權移轉時之相關稅賦減免，得逕依土地稅法相關規定申請證明辦理，已無須依農業用地作農業使用認定及核發證明辦法第2條規定認定為供農路使用之土地，而核發農用證明作為稅賦減免之必要，爰本會90年2月2日（90）農企字第900102896號函、94年7月5日農企字第0940134384號函、97年5月2日農企字第0970123121號書函、103年3月19日農企字第1030207404號函、103年5月9日農企字第1030214691號函，自即日停止適用。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5938",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:41+08:00",
+   "source_key": "rmis:5938"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5081f2e06bd58649e47be478f164f20dbf30e1a1860a50f4cddb2e3dfe26f641",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "之相關稅賦減免,得逕依土地稅法相關規定申請證明辦理,已無須依農業用地作農業使用認定及核發證明辦法第2條規定認定為供農路使用之土地,而核發農用證明作為稅賦減免之必要,爰本會90年2月2"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "itp-80b87a819e",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020230949號",
+ "date": "2013-09-25",
+ "date_text": "102/9/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴署為屏東縣政府函詢已領有農業設施使用執照之農業用地，是否可取其中一筆地號單獨申請興建農舍一案，涉及申請農業用地作農業設施容許使用審查辦法第8條規定適用之疑義案，復請查照。",
+ "content": "一、復貴署102年9月10日營署建管字第1020053104號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第8條第1項規定：「申請本辦法所定各項農業設施，其所有農業設施總面積除另有規定外，不得超過坐落該農業用地土地面積之40%。已興建農舍之農業用地，其農業設施及農舍之興建面積，應一併計算。」。\n三、依據容許辦法第13條附表規定，申請農業資材室或曬場等許可使用細目，申請人雖得以多筆自有農業用地面積合併計算得興建之農業設施面積，惟查本會前於98年4月7日以農企字第0980118584號函示(影本如附件)略以：「申請案倘自有農業用地面積合併計算後，興建於某一筆農業用地上，仍不得超過坐落該農業用地土地面積之40%。」有案。\n四、是以，有關農業設施坐落之農業用地，其農業設施及農舍之興建面積，應依容許辦法第8條之規定及上開函釋原則，一併計算。至於其他配合計算之農業用地，倘非為農業設施興建坐落之土地，則申請人於該筆農業用地單獨申請興建農舍，則與容許辦法第8條之規定無涉。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3752",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:27+08:00",
+   "source_key": "rmis:3752"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d13e6c6f705f00813085680ac82932df0fa245283ce30573f658dbec5be4fdec",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "照之農業用地,是否可取其中一筆地號單獨申請興建農舍一案,涉及申請農業用地作農業設施容許使用審查辦法第8條規定適用之疑義案,復請查照。\n一、復貴署102年9月10日營署建管字第10200"
+  }
+ ]
+}

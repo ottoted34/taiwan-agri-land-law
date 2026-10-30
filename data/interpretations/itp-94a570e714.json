@@ -1,0 +1,65 @@
+{
+ "id": "itp-94a570e714",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960130418號",
+ "date": "2007-06-06",
+ "date_text": "96/6/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋已取得容許使用同意書之農業設施於實際興建時，因應實需而作高度降低或縮小設施面積，得免重新辦理變更申請或審查者，其行政作業程序之疑義案。",
+ "content": "主旨：有關　貴府函詢已取得容許使用同意書之農業設施於實際興建時，因應實需而作高度降低或縮小設施面積，得免重新辦理變更申請或審查者，其行政作業程序之疑義案，復請　查照。\n說明：\n一、復　貴府96年6月4日府農務字第○○○○○號函。\n二、來函所詢作業程序事宜，查本會95年12月22日農企字第0950171387號函說明略以：「．．．如申請案所核准之經營內容、許可使用細目及設置地點不變，僅於實際興建設施時，因應實需而作高度降低或縮小設施面積，是否仍應重新辦理容許使用申請一節，考量農業設施於容許使用審查時已就設施高度、經營合理性，予以事先審核，於興建時將建築物高度降低或縮小設施面積，係屬降低農業設施之使用規模與強度，在不影響農業設施之實際經營使用內容及相關容許要件，為求簡政便民，得免再依上開辦法第10條規定重新辦理容許使用之變更申請或審查。」有案，惟其農業設施如有涉及需依建築關法令規定申請建築執照者，仍應於向建管單位申請核發建築執照時，會知原核定之農業單位備查或取得同意。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5290",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:44+08:00",
+   "source_key": "rmis:5290"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b48eac32e5b4507766e18fe904f5352c74c5dd5b7c5f595a7f4763ca636ae118",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

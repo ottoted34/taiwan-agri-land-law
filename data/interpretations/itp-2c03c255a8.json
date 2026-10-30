@@ -1,0 +1,49 @@
+{
+ "id": "itp-2c03c255a8",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090233574號",
+ "date": "2020-08-26",
+ "date_text": "109/8/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "水利用地維持自然林木核發農用證明原則",
+ "content": "主旨：有關貴局轉貴市三峽區公所函詢水利用地維持自然林木申請核發農業用地作農業使用證明書疑義，復如說明，請查照。\n說明：\n一、復貴局109年8月4日新北農牧字第1091461831號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。水利用地原則應作與農業經營不可分離之農田灌溉、排水使用，或符合本會102年3月5日農企字第1020202829號通函(諒達)之例外情形，始得認定為作農業使用，無關是否為水土保持法第3條第7款所定之保護帶。\n三、依案附三峽區公所函文所述，本案水利用地位於三峽河岸，現況為自然林木，且非供農田灌溉、排水使用。爰本案究符合前開水利用地例外得認定作農業使用之情形，抑或屬河川水道之使用，宜予釐明後，依前開原則審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5601",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:01+08:00",
+   "source_key": "rmis:5601"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8341bd9d989a2ee355fc6fc319a39cc1681d66dbc197704fe0ee93a6500942c9",
+ "topics": [
+  "farm_use_cert",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

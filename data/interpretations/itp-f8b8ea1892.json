@@ -1,0 +1,54 @@
+{
+ "id": "itp-f8b8ea1892",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041866585號",
+ "date": "2015-10-30",
+ "date_text": "104/10/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍辦法第三條之一規定「全民健康保險第三類被保險人」之認定，請惠示卓見，至紉公誼。",
+ "content": "一、依旨揭辦法第3條之1規定：「農民之認定，由農民於申請興建農舍時，檢附農業生產相關佐證資料，經直轄市、縣(市)主管機關會同專家、學者會勘後認定之。但屬農民健康保險被保险人或全民健康保险第三類被保险人者，不在此限。」，其中申請人屬全民健康保險第三類被保險人者，依本會水土保持局104年9月17日「農業用地興建農舍辦法修法第2條、第3條之1執行事宣第二次研商會議」紀錄，則由申請人向貴署各地辨事處取得投保證明，先予敘明。\n二、惟直轄市、縣(市)政府判釋貴署各地辦事處出具之投保證明上有下列疑義，敬請貴署惠示卓見，俾便本會轉請各直轄市、縣(市)政府參辦:\n(一)第三類被保險人之類目屬性代碼為何？敬請提供類目屬性代碼對照表，以資明確。\n(二)如何區別投保對象為被保險人或眷屬之身分別？\n(三)敬請提供貴署辦事業出具之投保證明、明細或歴史資料等相關報表格式俾利參考。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4067",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:02+08:00",
+   "source_key": "rmis:4067"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2369f0909a18232ad1458de7f867fa49e63db271ce451cab708be78cbc3eef98",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第三條之一規定「全民健康保險第三類被保險人」之認定,請惠示卓見,至紉公誼。\n一、依旨揭辦法"
+  }
+ ]
+}

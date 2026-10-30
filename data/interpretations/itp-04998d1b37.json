@@ -1,0 +1,65 @@
+{
+ "id": "itp-04998d1b37",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010117600號",
+ "date": "2012-07-17",
+ "date_text": "101/7/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "溫室、菇類栽培場、集貨運銷處理室、農產品加工室、農業資材室等農作產銷設施內部，可否設置廁所之疑義案。",
+ "content": "主旨：有關　貴府函詢溫室、菇類栽培場、集貨運銷處理室、農產品加工室、農業資材室等農作產銷設施內部，可否設置廁所之疑義案，復請　查照。\n說明：\n一、復　貴府101年7月10日屏府農企字第10122111400號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」之規定，農業用地雖無單獨申請興建廁所作為農業設施容許使用之相關規定，但農業設施內部倘因農業經營管理之需要，而需於農業設施內部設置廁所，查本會業於93年12月3日以農企字第0930156778號函說明有案，並於98年6月30日以農企字第0980010488號函再次請各直轄市、縣(市)政府，應審酌是否確屬經營所需，視個案實務及事實予以審認。故本案仍請　貴府依前開號函原則，予以核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5578",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:18+08:00",
+   "source_key": "rmis:5578"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "f0653b7f0ac0597fd5a1478194da5a0e64e6c2de1d7986a12db91adf0d1b35d6",
+ "topics": [
+  "material_room",
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "7月10日屏府農企字第10122111400號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」之規定,農業用地雖無單獨申請興建廁所作為農業設施容許使用之相關規定,但農業設施內"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "itp-fd7660dde1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100218521號",
+ "date": "2021-06-01",
+ "date_text": "110/6/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請興建農舍申請人名下持有其他農地違反土地使用管制規則，農舍興建資格審查疑義",
+ "content": "主旨：有關民眾申請興建農舍資格證明，名下持有其他農地違反土地使用管制規則，得否核發興建農舍資格疑義，復如說明，請查照。\n說明：\n一、復貴府110年5月10日府農務字第1100077427號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、查本會水土保持局以104年2月12日農授水保字第1031828198號函釋示農民申請興建農舍無自用農舍審查原則，其中申請人應檢具稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單、申請人房屋財產歸戶查詢清單之所有房屋使用執照影本、申請人切結無自用農舍等文件，以供查核。故查詢清單所列房屋或未列於查詢清單而經查核機關實地勘查確有建築物(以坐落農業用地上為限)，而無法提供使用執照影本者，均應\n請建築物所有權人先辦理「建築物第一次登記」或補辦建築物「使用執照」，並於建物所有權狀或建築物使用執照用途欄註明用途，以釐清是否為「農舍」。爰本案得否核發興建農舍資格，宜請先洽建築主管機關協助確認，該建築物依上開原則是否非屬農舍。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5675",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:02+08:00",
+   "source_key": "rmis:5675"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "03cf38ca0058014320d0c75b9644e6a8129b0fb3bb61c8a4575c4a7c360e5994",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

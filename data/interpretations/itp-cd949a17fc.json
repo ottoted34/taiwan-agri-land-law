@@ -1,0 +1,50 @@
+{
+ "id": "itp-cd949a17fc",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140239251號",
+ "date": "2025-09-09",
+ "date_text": "114/9/9",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢民眾申請農業設施容許使用，因其土地產權因素，致無法取得土地使用同意書，有無其他處理方式疑義案，復如說明，請查照。",
+ "content": "一、依據「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定：「申請農業用地作農業設施容許使用，應填具申請書及檢附下列文件各三份，向土地所在地之直轄市或縣(市)主管機關提出：五、土地使用同意書。但土地為申請人單獨所有者，免附。」是以，共有土地申請農業設施容許使用，原則應取得共有人全體之同意，倘個案無法徵得全體共有人之書面同意，改制前行政院農業委員會(下稱農委會)已多次函釋說明，依據內政部85年10月5日台(85)內地字第8588001號函，非都市土地申請容許使用，屬變更共有物用途之一，應有土地法第34條之1適用，至各目的事業主管機關(單位)審查容許使用案時，應依土地法第34條之1執行要點規定辦理。\n二、針對貴局來函所詢本案申請人倘無法取得全體共有人出具之土地使用同意書，依前開說明，得依土地法第34條之1規定辦理。至該共有土地涉及私權爭議，仍宜請申請人先行予以協調妥處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5961",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:01+08:00",
+   "source_key": "rmis:5961"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5e1fa8d1a7899aeb7203f3e6b9b47f1c0f074aacba70c8697f140229617bc01d",
+ "topics": [],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "同意書,有無其他處理方式疑義案,復如說明,請查照。\n一、依據「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定:「申請農業用地作農業設施容許使用,應填具申請書及檢附下列文件各三份,"
+  }
+ ]
+}

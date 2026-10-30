@@ -1,0 +1,60 @@
+{
+ "id": "itp-9ff815774d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080712001號",
+ "date": "2019-04-30",
+ "date_text": "108/4/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請興建農舍所臨未經徵收之道路用地是否符合經營計畫書格式規範案，復如說明，請查照。",
+ "content": "一、依據○○建築師事務所108年4月16日詹建字第108041601號函辦理兼復貴府108年4月19日府農務字第1080088937號函。\n二、有關農舍坐落用地之配置，應符合農業發展條例(以下簡稱本條例)第18條規定，不影響農業生產環境及農村發展之立法意旨，又依據農業用地興建農舍辦法第2條第2項規定，本會依該條規定訂定經營計畫書格式，供直轄市、縣(市)政府據以審認。為符合本條例之立法意旨，前開經營計畫書針對農舍整體配置，已明定「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」，故審查興建農舍用地應符合「臨側」及「臨路」之要件。針對「道路」之認定方式，本會業以107年7月26日以農企字第1070012917號通函上開所稱「道路」係指「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」在案，先予敘明。\n三、前述「道路」係以現況事實認定，貴府於個案審查時，應就道路存在事實及道路性質認定之。至於○○○陳述都市計畫道路用地遲未徵收開闢，損及人民權利一節，事屬都市計畫執行或檢討事宜，宜請民眾循都市計畫規定向該都市計畫主管機關反映。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4546",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:07+08:00",
+   "source_key": "rmis:4546"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "56b5608e9d6332f0c4a5d0d1ea6bfe7e608d0d8b29245f262c7a0fb7bdae1597",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "080088937號函。\n二、有關農舍坐落用地之配置,應符合農業發展條例(以下簡稱本條例)第18條規定,不影響農業生產環境及農村發展之立法意旨,又依據農"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "第18條規定,不影響農業生產環境及農村發展之立法意旨,又依據農業用地興建農舍辦法第2條第2項規定,本會依該條規定訂定經營計畫書格式,供直轄市、縣(市)政府據以審認。為"
+  }
+ ]
+}

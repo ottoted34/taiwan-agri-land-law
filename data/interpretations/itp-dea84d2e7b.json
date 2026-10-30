@@ -1,0 +1,64 @@
+{
+ "id": "itp-dea84d2e7b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1020244041號",
+ "date": "2013-12-25",
+ "date_text": "102/12/25",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾建議農舍作民宿使用，應容許周邊停車或一律變更為特定目的事業用地一案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴府102年12月18日屏府農企字第10278176900號函。\n二、以農舍作為民宿使用，其使用即應符合農業用地興建農舍辦法規定，有關旨揭民眾建議，該會102年12月4日農授水保字第1020241215號函復有案，請參酌辦理。\n三、至貴府所敘「觀光單位受理審查時，並未審核農舍周邊是否規劃停車場或停車位，導致無停車空間可使用」一節，係屬民宿主管機關審核民宿申請案之權責，是否應有調整或修改法令規定，請貴府逕洽民宿主管機關辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3727",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:25+08:00",
+   "source_key": "rmis:3727"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4f1c72fff1fbb49846872d92ef0bdde5edc2b022fa8c826fbdef87f711f12271",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "8176900號函。\n二、以農舍作為民宿使用,其使用即應符合農業用地興建農舍辦法規定,有關旨揭民眾建議,該會102年12月4日農授水保字第1020241215號"
+  }
+ ]
+}

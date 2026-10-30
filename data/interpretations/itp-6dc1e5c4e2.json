@@ -1,0 +1,47 @@
+{
+ "id": "itp-6dc1e5c4e2",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152600174號",
+ "date": "2026-01-13",
+ "date_text": "115/1/13",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢非都市土地農牧用地申請私設通路涉及農業用地變更使用審查執行疑義案，復請查照。",
+ "content": "一、查內政部主管之「非都市土地使用管制規則」（下稱管制規則）第6條附表1規定，農牧用地作私設通路之容許使用，其附帶條件為「限於以集村方式興建農舍者及甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。」又依據「非都市土地容許使用執行要點」規定之作業程序，非都市土地農牧用地擬申請私設通路，應由貴府建築主管機關就該私設通路有無符合管制規則第6條附表1及建築相關法令規定，本於職權審查，並徵詢貴局是否同意農業用地變更使用。合先敘明。\n二、次查「建築技術規則建築設計施工編」第1條第38款私設通路：基地內建築物之主要出入口或共同出入口（共用樓梯出入口）至建築線間之通路。是以，基於私設通路於建築相關法令規定亦有明確定義，僅為建築基地至建築線間之通路，故對於道路境界線至建築線間之道路退縮地作為通路使用，其適法性及退縮深度之檢討疑義，仍建請由貴府建築管理單位依法釐明。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6078",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:32+08:00",
+   "source_key": "rmis:6078"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "959f3afc1f299bbba546038341018137b337c85c03e3cb5afbaef4a5a1ce0637",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  }
+ ]
+}

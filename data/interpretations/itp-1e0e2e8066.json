@@ -1,0 +1,60 @@
+{
+ "id": "itp-1e0e2e8066",
+ "doc_class": "interpretation",
+ "docno": "農企字第1060235300號",
+ "date": "2017-09-11",
+ "date_text": "106/9/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業用地申請設置風力發電點狀使用之農業用地變更回饋金繳交之面積計算方式",
+ "content": "主旨：有關貴府函詢農業用地申請設置風力發電點狀使用，涉及繳交農業用地變更回饋金疑義一案，復請查照。\n說明：\n一、復106年9月6日府農管字第1060213483號函。\n二、依據農業發展條例(以下簡稱本條例)第12條第1項規定，農業用地變更使用，應視其事業性質，繳交回饋金，專供農業發展及農民福利之用。有關依據「非都市土地使用管制規則」第6條附表1規定，申請「再生能源相關設施」之容許使用，作風力發電設施之點狀使用，因係屬將農業用地變更作非農業使用性質之容許使用，故依據「農業用地變更回饋金撥繳及分配利用辦法」(以下簡稱農變回饋金辦法)第2條第1項第4款規定，應繳交回饋金。合先敘明。\n三、復查非都市土地容許使用執行要點第11點第2款已明定，依據非都市土地使用管制規則規定，容許使用作為再生能源相關設施，其點狀使用面積之計算，設施物為立體使用者，除地面使用部分外，應加計該設施物上空及地下構造外緣垂直投影使用面積。\n四、是以，有關農變回饋金辦法第3條第1項第1款第4目規定，其回饋金之繳交基準，就風力發電設施之「變更使用面積」，應請就地面使用部分，加計該設施物上空及地下構造外緣垂直投影使用面積，予以核算。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5480",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:46+08:00",
+   "source_key": "rmis:5480"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "913f7b5377f96ee554b56aab439becf0bfa2a7d1287e4e113ee97ccab83aeec2",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "06年9月6日府農管字第1060213483號函。\n二、依據農業發展條例(以下簡稱本條例)第12條第1項規定,農業用地變更使用,應視其事業性質,繳交回饋"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "使用,因係屬將農業用地變更作非農業使用性質之容許使用,故依據「農業用地變更回饋金撥繳及分配利用辦法」(以下簡稱農變回饋金辦法)第2條第1項第4款規定,應繳交回饋金。合先敘明。\n三、"
+  }
+ ]
+}

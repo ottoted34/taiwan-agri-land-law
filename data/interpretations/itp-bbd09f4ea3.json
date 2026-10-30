@@ -1,0 +1,62 @@
+{
+ "id": "itp-bbd09f4ea3",
+ "doc_class": "interpretation",
+ "docno": "農糧字第1020236737號",
+ "date": "2013-12-24",
+ "date_text": "102/12/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「申請農業用地作農業設施容許使用審查辦法」第13條附表1所定農糧產品加工室，得否於該加工室出售所加工之農糧產品疑義案。",
+ "content": "主旨：有關貴府函詢「申請農業用地作農業設施容許使用審查辦法」第13條附表1所定農糧\n產品加工室，得否於該加工室出售所加工之農糧產品疑義案，復請查照。\n說明：\n一、復貴府102年10月24日屏府農企字第10272331900號函。\n二、依本會102年10月9日修正發布「申請農業用地作農業設施容 許使用審查辦法」規定，\n農業設施係與農業經營有關，並應依 其經營計畫使用；復依該辦法第13條附表1「農\n產運銷加工設 施-農糧產品加工室」所定申請基準或條件略以，得包含管理 區、冷藏\n(凍)貯存區、加工作業區、包裝區、出貨區、倉儲區、污染防治處理區等附屬設施所\n需空間，尚無涵蓋販售農糧加 工產品之使用內涵，爰於農糧產品加工室販售農糧加工\n產品，有所未宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5520",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:28+08:00",
+   "source_key": "rmis:5520"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "33514b53ec62b67478eceb78dc3e51b98fde1a21a56c95e636adf72f92fc5c53",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "「申請農業用地作農業設施容許使用審查辦法」第13條附表1所定農糧產品加工室,得否於該加工室出售所加工之農糧產品疑義案。\n主旨:有關"
+  }
+ ]
+}

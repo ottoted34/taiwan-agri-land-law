@@ -1,0 +1,53 @@
+{
+ "id": "itp-820b6492a3",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140227888號",
+ "date": "2025-07-21",
+ "date_text": "114/7/21",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢水產養殖設施容許使用(室內漁電共生)申請變更案件，案場內已建置綠能設施之附屬設施審認疑義案，復如說明，請查照。",
+ "content": "一、有關依申請農業用地作農業設施容許使用審查辦法申請綠能設施之附屬設施(變電箱、電桿)容許使用審認原則，農業部業以114年1月23日農農保字第1142655512號函(諒達)及114年7月3日農農保字第1142656005號函(諒達)說明在案。又針對水產養殖設施容許使用(室內漁電共生第一階段)申請變更，其申請範圍內已建置未申請容許使用之綠能設施附屬設施者，查農業部已於114年6月6日以農授漁字第1141545902號函(諒達)復貴府有案。\n二、針對貴府所詢相關個案，倘符合農業部前開2函之基準條件者，請貴府輔導業者辦理第一階段經營計畫變更及第二階段補辦申請綠能設施附屬設施之容許使用，尚無需移除第一階段已先設置之附屬設施；至已設置之綠能設施附屬設施未符農業部前開2函之基準條件者，則請貴府輔導業者配合修正及調整，或依前開114年7月3日函說明三規定，即附屬設施設置規模超過45平方公尺者，得在660平方公尺以下依非都市土地使用管制規則規定向能源主管機關申請容許使用方式辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5976",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:16+08:00",
+   "source_key": "rmis:5976"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "74ae34eb5b8f5051b6d03d99330e2ef151815262725ed2ada67eccc03a5a8863",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "綠能設施之附屬設施審認疑義案,復如說明,請查照。\n一、有關依申請農業用地作農業設施容許使用審查辦法申請綠能設施之附屬設施(變電箱、電桿)容許使用審認原則,農業部業以114年1月2"
+  }
+ ]
+}

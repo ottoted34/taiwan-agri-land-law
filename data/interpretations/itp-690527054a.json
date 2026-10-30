@@ -1,0 +1,48 @@
+{
+ "id": "itp-690527054a",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1030701393號",
+ "date": "2014-01-29",
+ "date_text": "103/1/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地作「農作產銷設施-農業資材室」容許使用案件所涉興建面積計算之疑義案。",
+ "content": "主旨：有關貴府函詢申請農業用地作「農作產銷設施-農業資材室」容許使用案件所涉興建面積計算之疑義案，復請查照。\n說明：\n一、復貴府103年1月8日府農務字第1020240417號函。\n二、有關本案坐落農業用地界址內作道路使用之部分，倘經地方主管機關審認係為農業經營所需之農路，則仍屬農業使用範疇，於核計農業資材室興建面積時，其面積得免予扣除；至該道路倘經審認非屬農業使用部分，仍宜參依本會96年1月14日農企字第950174078號函說明三先行扣除「非農業使用」之設施面積後，再予核算農業資材室可興建之面積。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5543",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:29+08:00",
+   "source_key": "rmis:5543"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8cee41991fa2792357ebc9b8fb3d31c8b3feb74f77fad7c387bfbc73a7dfdd23",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

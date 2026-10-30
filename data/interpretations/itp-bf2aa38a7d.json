@@ -1,0 +1,56 @@
+{
+ "id": "itp-bf2aa38a7d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080200189號",
+ "date": "2019-01-07",
+ "date_text": "108/1/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府建議修正農業用地興建農舍辦法第9條第2項第5款規定，復如說明，請查照。",
+ "content": "一、依據貴府農業局108年1月2日新北農牧字第1072498083號函辦理。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關農舍之放流水相關疑義，本會前於107年5月23日以農授水保字第1070219981號函復(諒達)在案，為避免農舍放流水滯留或於農業用地範圍漫流或溢流至附近農地，致影響農業生產環境、農產品品質及安全，而明定農舍之放流水應排入排水溝渠，以利「安全農業」之政策目標，爰放流水應符合農業用地興建農舍辦法第9條第2項第5款規定，排離該農業用地並排入排水溝渠。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4535",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:46+08:00",
+   "source_key": "rmis:4535"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ddbfaaee806201d394c40bd42e5c2c60e58eb4144e6eece48af1568543c13d59",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關貴府建議修正農業用地興建農舍辦法第9條第2項第5款規定,復如說明,請查照。\n一、依據貴府農業局108年1月2日新北農牧"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "itp-89cc543645",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080221854號",
+ "date": "2019-06-12",
+ "date_text": "108/6/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關興建農舍鄰接道路，其道路性質可否為政府養護之人行步道案，復如說明，請查照。",
+ "content": "一、復貴事務所108年5月26日瑞豐字第1080000033號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、查有關「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性」所指之「道路」，係以「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」並採認「成立公用地役關係之既成道路」，得視為臨接道路之審認原則。又前開所指應臨接「道路」，除考量其性質應以供公眾通行使用為原則，以兼具農舍出入及避免影響農業經營用地之完整性。基於農舍之審認尚須依現況事實認定，故上開之道路亦應就道路存在事實及是否確為道路性質認定之。\n四、次查有關人行步道用地，係指都市計畫地區內，設於街道旁，專供行人使用的通道或任何專供行人使用之通路用地，與上開為供農舍出入口及從事農業經營時所需使用之道路性質不同。\n五、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，倘有任何疑義，宜請洽所在地直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4608",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:46+08:00",
+   "source_key": "rmis:4608"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a3ba3972384c681555423140dbe2eb38030ea24ec0549151b382a892dfb508c1",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

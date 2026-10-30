@@ -1,0 +1,56 @@
+{
+ "id": "itp-d7a4d38662",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090221740號",
+ "date": "2020-06-02",
+ "date_text": "109/6/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農舍用地配置於地界線側事宜",
+ "content": "一、復貴局 109年5月27日新北農牧字第 1090976302號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業用地興建農舍辦法第 2條第 2項規定：「前項第 5款規定確供農業使用與不影響農業生產環境及農村發展之認定，由申請人檢附依中央主管機關訂定之經營計畫書格式，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣(市)主管機關審查。」有關經營計畫書格式，經本會於 104年10月21日以農水保字第 1041866479號函送各直轄市、縣(市)政府有案，其中針對農舍整體配置，已明定「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」，又所稱「地界線側」係指提出申請興建農舍之農業用地之邊界，「臨接道路」係以臨接「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」並採認「成立公用地役關係之既成道路」之認定原則，惟因現地如地形高低(如農業用地與路面形成高低落差)、坡度陡峭、地質結構不良等因素，確有配置之困難，經貴局認屬特殊地形者，始得例外考量。\n四、針對貴局所詢個案疑義，請依上開原則予以實際認定，且其配置結果亦不得造成農業經營用地切割而影響完整性之情形。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4740",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:37+08:00",
+   "source_key": "rmis:4740"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b44dae705d7dce3a2e376f1d85fde22035a321f36baf3d16f5b3b4a1ef43393c",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法第 2條第 2項規定:「前項第 5款規定確供農業使用與不影響農業生產環境及農村發展之認定"
+  }
+ ]
+}

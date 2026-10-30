@@ -1,0 +1,73 @@
+{
+ "id": "itp-a0398e26b2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030202211號",
+ "date": "2014-01-29",
+ "date_text": "103/1/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "自然人申請農業用地變更作為路外停車場使用，得否適用農業用地變更回饋金撥繳及分配利用辦法第2條第3款規定案。",
+ "content": "主旨：有關自然人申請農業用地變更作為路外停車場使用，得否適用農業用地變更回饋金撥繳及分配利用辦法第2條第3款規定案，復請查照。\n說明：\n一、復貴府103年1月17日府農企字第1030010908號函。\n二、查旨揭辦法第2條第3款規定：「依本條例第12條規定應繳交回饋金者，除依第3條及第4條規定辦理者外，其回饋金之繳交基準如下：．．．三、因開發供汽車駕駛訓練班、汽車運輸業停車場(站)、客(貨)運站及其附屬設施申請變更編定為非都市土地交通用地者，以變更編定面積與獲准變更編定當期公告土地現值乘積百分之十為計算基準。．．．」依該規定，尚無明定申請人之資格，爰宜就開發使用之性質予以審認核處。至涉及申請人之資格或農業用地變更申辦主體之規範條件等，應屬興辦事業之目的事業主管機關法令規定事宜，係屬另事，與上開辦法無涉。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5276",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:31+08:00",
+   "source_key": "rmis:5276"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "2",
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "456b645b3b4872189afc0c72dc913fe4e24451c730ae3fa16a69c1f207b3d8d2",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "自然人申請農業用地變更作為路外停車場使用,得否適用農業用地變更回饋金撥繳及分配利用辦法第2條第3款規定案。\n主旨:有關自然人申請農業用地變更作為路外停車場使用,得否適用農業"
+  }
+ ]
+}

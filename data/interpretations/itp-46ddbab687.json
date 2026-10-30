@@ -1,0 +1,58 @@
+{
+ "id": "itp-46ddbab687",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990172733號",
+ "date": "2010-12-02",
+ "date_text": "99/12/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "071 釋林業用地及都市計畫保護區林地目土地如何認定作農業使用案",
+ "content": "主旨：有關本會91年3月7日農企字第0910110875號函釋適用範圍是否包括「天然草地（或雜草）覆蓋良好」之情形疑義案，復請　查照。\n說明：\n一、復 貴院99年10月26日院立良股97訴03208字第0990018165號暨同年11月18日院立良股97訴03208字第0990019521號函。\n二、有關農業用地依法實際供森林使用之認定，本會旨揭函業已釋明。惟倘若農業用地上有「天然草地（或雜草）覆蓋良好」之情形，如該天然草地（或雜草）係受森林生態演替或森林生長界線等而形成之自然地景（諸如八通關與合歡山之草原、大霸尖山之草地等生態系）；或崩塌地演替初期自生草地等，係為維護生態環境而不作人為干擾，非因土地所有人未予造林或疏於經營管理致生雜草者，得視為保育使用，亦屬農業使用之一種。\n三、又農業用地上如種植牧草以飼養禽畜或種植草皮販賣供園藝使用，仍屬畜牧或農作使用之範疇；惟如閒置不用致雜草叢生，則不符合前開農業使用之定義，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5466",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:14+08:00",
+   "source_key": "rmis:5466"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5f7376345b01537d47727856fba8c7300acc50c081a213b221db4f216961595e",
+ "topics": [
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

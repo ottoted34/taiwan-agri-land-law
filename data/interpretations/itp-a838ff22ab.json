@@ -1,0 +1,59 @@
+{
+ "id": "itp-a838ff22ab",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030010481號",
+ "date": "2014-03-06",
+ "date_text": "103/3/6",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關本部102年9月19日修正非都市土地使用管制規則第6條附表1，林業用地不得容許作農舍使用，惟經領有使用執照之農舍，得否許可作民宿使用疑義1案，請查照。",
+ "content": "一、依據本部103年2月18日內授中辦地字第1036650314號函辦理。\n二、有關貴司建議基於發展觀光並兼顧國土保安(育)政策前提下，似得規範於林業用地上一定期間內取得使用執照之農舍，得許可作民宿使用，並建議修正非都市土地使用管制規則(以下簡稱管制規則)，第6條附表1於林業用地上增訂容許使用項目「農舍」及其許可使用細目「民宿」(列為需經目的事業主管機關、使用地主管機關及有關機關之細目)與附帶條件「限於民宿管理辦法第6條第1項但書規定之原住民保留地、經農業主管機關劃定之休閒農業區或核發經營許可登記證之休閒農場、觀光地區、偏遠地區及離島地區等之農舍，並僅限於本規則92年3月28日修正生效前取得使用執照之農舍」，本署提供意見如下：\n(一)本案涉及民宿管理辦法(第5條、第6條、第10條)、管制規則(第6條附表1)及林業用地主管機關政策，如經貴司洽商民宿主管機關交通部及林業主管機關行政院農業委員會釐清該作法不致影響林業用地供營林及其設施使用之目的，本署無意見。\n(二)有關貴司建議林業用地容許作農舍並許可作民宿之附帶條件「...僅限於本規則92年3月28日修正生效前取得使用執照之農舍」，惟本部92年3月26日配合民宿管理辦法修正管制規則前尚未有農舍容許使用細目得許可作民宿之相關規定，故訂定該時點以前取得使用執照之農舍方得許可作民宿使用之目的及理由為何？建請貴司予以釐清。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3523",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:53+08:00",
+   "source_key": "rmis:3523"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c548cecbf1678edab4d50d68e3b6a71b97f5b906bde25e9c476b955315125de5",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-3d02b55d08",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140715553號",
+ "date": "2025-07-22",
+ "date_text": "114/7/22",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴所函詢承租國有土地分管範圍擬補辦農業設施「集貨場」容許使用，涉及同筆未承租部分土地有違規使用情事之法規適用疑義案，復如說明，請查照。",
+ "content": "一、按農業設施係輔助其坐落農業用地之農業生產使用，須基於該農業用地生產事實，與生產行為相連結，始可設置，故申請農業設施容許使用，係以所請整筆農業用地予以審認，故屬共有農業用地或租用部分農業用地者，應就同筆農業用地之其他部分一併審查；又整筆農業用地有違反其他土地使用管制相關法令規定之情形，應依申請農業用地作農業設施容許使用審查辦法第6條第1項第9款規定予以核處。查貴所案附之財政部國有財產署北區分署113年8月9日函，亦已說明相關處理原則在案。\n二、農業用地申請農業設施容許使用，係屬變更用途之一種，與分管契約係各就其權利範圍從事農耕分別管理之性質有別，故有關農業用地申請農業設施容許使用，仍宜依前開原則，就整筆農業用地予以審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5958",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:14+08:00",
+   "source_key": "rmis:5958"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f0658c5d7aeb8da9e1bd3894de75924f57ef9baff608a27a83263cd136097bbd",
+ "topics": [
+  "partial_use"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "又整筆農業用地有違反其他土地使用管制相關法令規定之情形,應依申請農業用地作農業設施容許使用審查辦法第6條第1項第9款規定予以核處。查貴所案附之財政部國有財產署北區分署113年8月9日函"
+  }
+ ]
+}

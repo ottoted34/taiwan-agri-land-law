@@ -1,0 +1,64 @@
+{
+ "id": "itp-e8666d6d94",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020240084號",
+ "date": "2013-12-04",
+ "date_text": "102/12/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請人於89年繼承部分持分土地，於89年後拍賣取得剩餘持分土地而成為全部所有，可否就修法前持分面積申請興建自用農舍疑義案，復請查照。",
+ "content": "一、復貴府102年11月20日屏府農企字第10274069200號函。\n二、查本會101年6月29日農水保字第1011865000號核釋:「有關『農業發展條例』」第18條所稱取得農業用地，應以土地登記簿所有權部認定之，其土地取得時點除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。與前開意旨未符之相關函釋，自即日停止適用。」，次查本會102年10月25日農水保字第1021866046號令補充前揭號令略以：「‧‧‧有關『農業發展條例』第十八條所稱取得農業用地，應以土地登記簿所有權部認定之，除下列情形外，其取得時點以登記日期為基準：‧‧‧」，而農業用地屬農業發展條例修正前取得之共有耕地，而於修正施行後分割為單獨所有者，其土地取得時點雖已變動，仍得依農業發展條例第18條第3項後段規定辦理(本會102年10月25日農水保字第1020215007號函參照) ，併予敘明。\n三、本案農業用地尚非屬修正前取得之共有耕地於修正施行後分割為單獨所有，爰申請興建農舍之取得時點認定應依本會上開解釋令辦理，請貴府就個案事實本權責審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3720",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:47+08:00",
+   "source_key": "rmis:3720"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "de5c65578a48c63bc147d623b33b64a6306aa40bd0db9cc51e7d30f160ea9a5c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "保字第1021866046號令補充前揭號令略以:「‧‧‧有關『農業發展條例』第十八條所稱取得農業用地,應以土地登記簿所有權部認定之,除下列情形外,其取得時點以登記日"
+  }
+ ]
+}

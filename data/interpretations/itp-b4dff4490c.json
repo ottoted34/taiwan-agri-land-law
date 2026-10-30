@@ -1,0 +1,58 @@
+{
+ "id": "itp-b4dff4490c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960160866號",
+ "date": "2007-11-02",
+ "date_text": "96/11/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業發展條例於89年1月26日修正公布前既有而未被舉發之農地違規案件，其是否適用農業用地違規使用檢舉獎勵辦法之規定案。",
+ "content": "主旨：有關農業發展條例於89年1月26日修正公布前既有而未被舉發之農地違規案件，其是否適用農業用地違規使用檢舉獎勵辦法之規定一案，復請　查照。\n說明：\n一、復　貴府96年10月29日府建農字第○○○○○號函。\n二、查本會95年9月11日農企字第0950010792號函(如附件1)檢送95年9月7日研商農業用地違規使用涉及檢舉獎勵之相關執行事宜會議紀錄，案由一如何辦理農業用地違規使用檢舉案件之行政處理，決議略以：「檢舉案件之處理程序，配合非都市土地或都市土地違反使用管制查處作業規定，依其程序處理；至裁處罰鍰有案後，符合檢舉獎金發給條件者，再依農業用地違規使用檢舉獎勵辦法辦理。」並配合依據本會95年8月10日農企字第0950010772號函、95年9月13日農企字第0950151594號函(如附件2)及96年1月5日農企字第0960100090號函(如附件3)釋示規定辦理，並不因該案件於農業發展條例89年1月26日修正公布前既有未被舉發，而得以免依上開規定處理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4831",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:48+08:00",
+   "source_key": "rmis:4831"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "33158c3d85489edb8a988c9f64f92ec38aeea511ba133a52733acdc25db37d63",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋農業發展條例於89年1月26日修正公布前既有而未被舉發之農地違規案件,其是否適用農業用地違規"
+  },
+  {
+   "law_id": "RMIS-2010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "1月26日修正公布前既有而未被舉發之農地違規案件,其是否適用農業用地違規使用檢舉獎勵辦法之規定案。\n主旨:有關農業發展條例於89年1月26日修正公布前既有而未被舉發之農"
+  }
+ ]
+}

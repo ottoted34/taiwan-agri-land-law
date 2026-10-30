@@ -1,0 +1,61 @@
+{
+ "id": "itp-73f8ac1bbe",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1060034918號",
+ "date": "2017-06-14",
+ "date_text": "106/6/14",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關民眾因政府辦理公共建設，徵收部分農業用地面積，得否於徵收後剩餘農業用地上，無須考量農舍面積僅得佔該筆地號10%之規定疑義案，請查照。",
+ "content": "一、依據奉交下行政院農業委員會水土保持局106年6月5日水保農字第1061805880號函轉貴府106年5月31日府農務字第1060183263號函辦理。\n二、查農業用地興建農舍辦法（以下簡稱本辦法）第4條訂有89年1月26日農業發展條例修正前取得之農業用地依法被徵收得於一定期間內於同一直轄市、縣（市）內取得農業用地申請興建農舍，本案如符合該條規定，自得以徵收後剩餘農地提出申請，尚無需重新購置，惟其農舍用地面積仍不得超過該剩餘農業用地面積10%。另本案被徵收之剩餘農業用地倘屬89年1月26日前取得者，亦得逕依本辦法第3條規定辦理，如屬89年1月26日後取得者，則應符合本辦法第2條規定。\n三、鑑於行政院農業委員會解釋農舍定義係與農業經營不可分離，而非以保障其居住權利為主，且土地徵收之權益保障，即應回歸土地徵收條例相關規定辦理，有關本案陳情事項仍建議貴府於辦理土地徵收作業時妥予考量合理之徵收補償或訂定安置計畫，以保障被徵收人權益。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4303",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:55+08:00",
+   "source_key": "rmis:4303"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6a3a328ba629894d2d4dbe909d2f37c23d26083804a3947aa32c69653eeba99e",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年5月31日府農務字第1060183263號函辦理。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第4條訂有89年1月26日農業發展條例修正前取得之農業用地依法"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用地興建農舍辦法(以下簡稱本辦法)第4條訂有89年1月26日農業發展條例修正前取得之農業用地依法被徵收得於一定期間內於同一直轄市、縣(市)內取得農業用地"
+  }
+ ]
+}

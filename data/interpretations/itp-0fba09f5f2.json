@@ -1,0 +1,71 @@
+{
+ "id": "itp-0fba09f5f2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021818651號",
+ "date": "2013-09-09",
+ "date_text": "102/9/9",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局為辦理農業用地興建農舍案件，復請查照。",
+ "content": "一、復貴局102年8月12日北農牧字第1022409480號函。\n二、按農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定「該農業用地應確供農業使用」之資格要件，係為落實申請人興建農舍確為農業經營所需之立法目的；而本辦法第9條第2項第3款「供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十」之規定，則係規範農舍用地及農業經營用地比例，及其配置之該農業經營用地應為完整之要求，二者之立法目的並不相同。\n三、依「農業用地作農業使用認定及核發證明辦法」規定發給之農業用地作農業使用證明書僅係作為本辦法第2條第1項第5款認定要件之一，無涉本辦法第9條第2項第3款之認定。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3745",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:39+08:00",
+   "source_key": "rmis:3745"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "9c46cc34480786e585a1e92faf2cb11cce32652727a8d7c7f0605f0cc5b5efa8",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "02年8月12日北農牧字第1022409480號函。\n二、按農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定「該農業用地應確供農業使用」之資格要件,"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業經營用地應為完整之要求,二者之立法目的並不相同。\n三、依「農業用地作農業使用認定及核發證明辦法」規定發給之農業用地作農業使用證明書僅係作為本辦法第2條第1項第5款認定要件之一,"
+  }
+ ]
+}

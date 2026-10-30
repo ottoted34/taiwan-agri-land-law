@@ -1,0 +1,62 @@
+{
+ "id": "itp-faccb9fb45",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020705829號",
+ "date": "2013-03-11",
+ "date_text": "102/3/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○○申請農業用地作農業設施-農路容許使用之審查疑義案。",
+ "content": "主旨：有關 貴府函詢○○○申請農業用地作農業設施-農路容許使用之審查疑義案，復請 查照。\n說明：\n一、復 貴府102年2月20日府農保字第1020029649號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第5條第6款規定：「申請農業用地作農業設施容許使用，應填具申請書及檢附下列文件，向土地所在地之直轄市或縣(市)主管機關申請：6、土地使用同意書。但土地為申請人單獨所有者，免附。」其立法目的係在確認申請人就其申請作農業設施容許使用之農業用地，是否具有「合法使用該土地權限」之相關證明文件。是以，倘以他人之農業用地設置「農路」供農作通行使用，應依上開規定檢附該他人出具之土地使用同意書。\n三、依卷附資料本案相鄰土地因袋地通行權致生私權紛爭，經提起法院訴訟並經判決確認他人之土地應提供通行使用，考量該袋地之土地所有權人，既被賦予合法通行使用權限，則該法院判決文件得視為前開規定，認屬為他人出具之「土地使用同意書」。惟查法院判決內容已有明確寬度及使用面積，則逾越該使用範圍之部分，自無上開準用規定之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4927",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:35+08:00",
+   "source_key": "rmis:4927"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "51efe537f46c59c714f50ff83a3ff68cbf68dbbf642125eb388d2511cb53081c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "02年2月20日府農保字第1020029649號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第5條第6款規定:「申請農業用地作農業設施容許使用,應填具申"
+  }
+ ]
+}

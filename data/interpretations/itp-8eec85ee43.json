@@ -1,0 +1,53 @@
+{
+ "id": "itp-8eec85ee43",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1120727781號",
+ "date": "2023-11-14",
+ "date_text": "112/11/14",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴公司申請彰化縣鹿港鎮○○○地號農業用地作綠能設施容許使用疑義案，復如說明，請查照。",
+ "content": "一、有關已興建農舍之農業用地，屬土壤及地下水污染整治法公告之污染控制場址、污染整治場址或污染管制區（以下簡稱受污染土地），得否再依申請農業用地作農業設施容許使用審查辦法（以下簡稱容許辦法）第30條規定申請免與農業經營使用相結合之綠能設施，查改制前行政院農業委員會已函釋說明在案，即農舍坐落之農業用地應積極從事具經濟性農業生產使用，並無申設免與農業經營使用相結合綠能設施之合理性，又屬受污染土地者，應儘速辦理整治復育，以恢復農業生產使用，仍無申設免與農業經營使用相結合綠能設施之情形。另，上開農舍坐落用地係指農舍坐落之該筆農業用地及其配合耕地。\n二、依貴公司來函及附件，旨揭受污染土地經環保主管機關審查符合土壤及地下水污染整治法相關規定，惟該土地經彰化縣政府審查係農舍之配合耕地，應儘速辦理整治復育，以恢復農業生產使用，故該府以112年9月23日函依容許辦法第6條第1項第9款規定不予同意該土地設置免與農業經營使用相結合綠能設施之申請，與前開原則尚無不符。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5970",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:04+08:00",
+   "source_key": "rmis:5970"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "26a012b47d46158f708c3124f2eb07e44bbfd81ee4a626e2f4d03dd5d3376ee7",
+ "topics": [
+  "farmhouse",
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "址、污染整治場址或污染管制區(以下簡稱受污染土地),得否再依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第30條規定申請免與農業經營使用相結合之綠能設施,查改制前行"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-9918bcf8d8",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080723007號",
+ "date": "2019-08-19",
+ "date_text": "108/8/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關○○○詢問林地保護區是否可興建農舍案，復如說明，請查照。",
+ "content": "一、依據○○○108年8月12日林地保護區建農舍請益書辦理(影附如後)。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、依農業用地興建農舍辦法規定，申請興建農舍時，除申請人身分認定以外，均須審查經營計畫書及該筆農業用地自申請日往前起算至少2年經營實績，以確認該筆農業用地確供農業使用與不影響農業生產環境及農村發展。又有關興建農舍經營計畫書審查項目「經營現況」應敘明過去2年內經營實績、現況情形等，其目的在於審查申請人在該筆土地至少有2年積極從事具經濟性之農業生產事實，以確認該農舍係為從事農業經營所需而興建，爰有關○○○申請興建農舍資格認定疑義，涉及個案事實認定及申請程序，係屬貴轄，敬請協處逕復。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4672",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:43+08:00",
+   "source_key": "rmis:4672"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "30f9ec231d8401623c2a52f1397941aa1c700e9418645024933ce2e7fb5a2f75",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n\n三、依農業用地興建農舍辦法規定,申請興建農舍時,除申請人身分認定以外,均須審查經營計畫書及該筆農業用地自申"
+  }
+ ]
+}

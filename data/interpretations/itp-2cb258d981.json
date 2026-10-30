@@ -1,0 +1,62 @@
+{
+ "id": "itp-2cb258d981",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070231729號",
+ "date": "2018-08-15",
+ "date_text": "107/8/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關都市計畫法臺灣省施行細則第27條規定由何單位認定解釋案，復如說明，請查照。",
+ "content": "一、復貴府農業局107年7月31日桃農管字第1070023776號函。\n二、查農業用地申請興建農舍，係依農業發展條例第18條與農業用地興建農舍辦法(以下簡稱本辦法)等相關規定辦理。復查都市計畫法臺灣省施行細則第27條第1項規定略以:「保護區為國土保安、水土保持、維護天然資源與保護環境及生態功能而劃定，在不妨礙保護區之劃定目的下，經縣(市)政府審查核准，得為下列之使用:．．．19.都市計畫發布實施前，原有依法實際供農作、養殖、畜牧生產且未停止其使用者，得比照農業區之有關規定及條件，申請建築農舍及農業產銷必要設施。．．．」故都市計畫「保護區」擬依本辦法規定申請興建農舍，應由貴府都市計畫主管機關就該土地是否符合上開施行細則規定事項，予以審認。貴府倘就都市計畫法臺灣省施行細則施行規定，仍有執行疑義，建請洽內政部營建署解釋釐明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4430",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:10+08:00",
+   "source_key": "rmis:4430"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "23944f82554f57470bdf4186cd0642a82d304d21079c68d35a00f74d791cc7e6",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "1070023776號函。\n二、查農業用地申請興建農舍,係依農業發展條例第18條與農業用地興建農舍辦法(以下簡稱本辦法)等相關規定辦理。復查都市計畫法臺灣省施行"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "函。\n二、查農業用地申請興建農舍,係依農業發展條例第18條與農業用地興建農舍辦法(以下簡稱本辦法)等相關規定辦理。復查都市計畫法臺灣省施行細則第27條第1項規定"
+  }
+ ]
+}

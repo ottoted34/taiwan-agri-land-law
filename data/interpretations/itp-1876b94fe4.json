@@ -1,0 +1,74 @@
+{
+ "id": "itp-1876b94fe4",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020205357號",
+ "date": "2013-03-07",
+ "date_text": "102/3/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上有興建中之集村農舍，因尚未竣工無法檢附使用執照，得否核發農業用地作農業使用證明書疑議案。",
+ "content": "主旨：有關 貴府函詢農業用地上有興建中之集村農舍，因尚未竣工無法檢附使用執照，得否核發農業用地作農業使用證明書疑議案，復請 查照。\n說明：\n一、復 貴府102年2月19日屏府農企字第10204165700號函。\n二、有關依法申請核准興建中之農舍，因尚未竣工無法取得使用執照，於辦理所有權移轉時，如該農舍係依建造執照規定興建，且尚未超過建造執照所核准興建之面積及高度，仍得認定該建造執照係符合農業用地作農業使用認定及核發證明辦法第5條第3款所定之建築執照，並據以申請農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5044",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:38+08:00",
+   "source_key": "rmis:5044"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "86f69a08b15111651f3d287899b5cdd5b58a3eec0ad14a0df3c9990b9316da93",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "超過建造執照所核准興建之面積及高度,仍得認定該建造執照係符合農業用地作農業使用認定及核發證明辦法第5條第3款所定之建築執照,並據以申請農業用地作農業使用證明書。"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-fa90d7731a",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第1036030048號",
+ "date": "2014-01-21",
+ "date_text": "103/1/21",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "有關共有農地經法院判決共有物分割，致分割後農地與其地上農舍所有人不一，得否受理登記1案，復請查照。",
+ "content": "一、依據行政院農業委員會102年12月31日農授水保字第1020244021號函(如附件)辦理，兼復貴府同年11月25日府地籍字第1020188557號函。\n二、查農業發展條例(以下簡稱條例)第18條第4項規定所稱「移轉」，並未排除因法院判決所為之移轉。又本部93年11月2日內授中辦地字第0930015211號函釋，係針對農地與其地上農舍於條例89年修正施行前已分屬不同所有權人，即農舍屬條例89年修正施行前已興建完成，且農舍與農地分屬不同人之情形所為之釋示，與本案農舍係條例89年修正施行前已興建完成，該農舍與農地迄今仍屬同一人所有之情形不同。爰本案因法院判決所為之共有物分割移轉登記，仍應受上開條例第18條第4項關於農舍應與其坐落用地併同移轉規定之限制。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3778",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:37+08:00",
+   "source_key": "rmis:3778"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6e75822f652cbe8f3efadafd71d320f69e355857d6dd083d3462dea6665e8ead",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "同年11月25日府地籍字第1020188557號函。\n二、查農業發展條例(以下簡稱條例)第18條第4項規定所稱「移轉」,並未排除因法院判決所為之移轉。又"
+  }
+ ]
+}

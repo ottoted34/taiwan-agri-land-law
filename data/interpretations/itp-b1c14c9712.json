@@ -1,0 +1,61 @@
+{
+ "id": "itp-b1c14c9712",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960143913號",
+ "date": "2007-08-10",
+ "date_text": "96/8/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "057 釋農業設施供釀酒等營利事業登記或農舍供家庭理髮使用，不符合作農業使用之認定案",
+ "content": "本案所稱「他人以前所設立虎山行營利事業登記證」究係旨揭○○○承受該畜牧場前原土地所有權人所遺留，抑或○○○同意他人設置？該虎山行是否仍有在該地營業？宜請先予查明。倘該虎山行之登記係前人所遺留而未辦理註銷或變更手續，且亦未於該地營業，與○○○無涉，則原核發之農業用地作農業使用證明書仍不宜予以撤銷。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4938",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:12+08:00",
+   "source_key": "rmis:4938"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b670b41a47228a6c82061ee5dc5656f54908c2a576e1086d7b2689e853e43234",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

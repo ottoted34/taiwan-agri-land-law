@@ -1,0 +1,64 @@
+{
+ "id": "itp-261f19ee02",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020707987號",
+ "date": "2013-03-20",
+ "date_text": "102/3/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "私人所有農業用地現況為公所管理之「現有農路」，供不特定人員通行，該農路得否免申請農業設施容許使用之審查疑義案。",
+ "content": "主旨：有關　貴府函詢私人所有農業用地現況為公所管理之「現有農路」，供不特定人員\n通行，該農路得否免申請農業設施容許使用之審查疑義案，復請　查照。\n說明：\n一、復　貴府102年3月11日府農務字第1020038268號函。\n二、有關農業用地上施設之「農路」除得依「申請農業用地作農業設施容許使用審查辦法\n」之規定，取得農業用地作農業設施容許使用同意書；或檢附得為從來使用之證明文\n件，得認定作農業使用者外；查本會亦於97年10月2日以農企字第0970153973號函說\n明，政府機關為利農產運輸施設供當地農產運銷使用且屬與農業經營不可分離之農\n路，因非為該土地所有權人個人之農業生產需要，且係由政府機關主導施設，倘經該\n施設機關認定，亦得免由農民另案申請農路之容許使用，以簡化行政作業在案，合先\n敘明。\n三、有關本案之農路，雖無法確認係由政府機關主導施設，但依來函所述該農路之管理機\n關為該地方公所，且依據現地通行狀況，係供不特定人員使用。考量該農路倘非僅為\n該土地所有權人個人之農業生產需要，且確已有政府機關進行管理或養護等事實，則\n依前開函釋原則，可得免由農民申請農路之容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4958",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:32+08:00",
+   "source_key": "rmis:4958"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "eadb8dc416d46588ce08438f80a9f9ef964ea44684c789a9993a2309a85687ec",
+ "topics": [
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0038268號函。\n二、有關農業用地上施設之「農路」除得依「申請農業用地作農業設施容許使用審查辦法\n」之規定,取得農業用地作農業設施容許使用同意書;或檢附得為從來使用之證明文\n件"
+  }
+ ]
+}

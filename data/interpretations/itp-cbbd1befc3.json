@@ -1,0 +1,86 @@
+{
+ "id": "itp-cbbd1befc3",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1000167869號",
+ "date": "2011-12-05",
+ "date_text": "100/12/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為農業發展條例修法前取得之特定農業區特定目的事業用地，於修法後變更編定為同區農牧用地，其土地取得時點疑義案，復請 查照。",
+ "content": "1.復貴府100年10月20日府農務字第1000338086號函。\n2.揆諸農業用地興建農舍辦法，申請興建農舍資格條件須符合土地取得滿兩年之規定，係為符合農業發展條例第18條立法意旨，確保該農舍為配合於農業用地上從事農業經營所需而興建之政策目的。因此，如變更前之分區或使用地類別並非農業用地，嗣因土地辦理用地編定變更為農業用地，其始符合興建農舍之相關規定者，該農業用地之取得時點應自完成變更為農業用地登記日為計算時點。\n3.依農業發展條例第18條第1項、第3項規定，均須以取得「農業用地」為要件，本案特定農業區特定目的事業用地並非農業發展條例施行細則第2條所定農業用地之範圍，於100年9月28日始變更為同區農牧用地，故其農業用地之土地取得時點應自100年9月28日完成變更為農牧用地登記日起算。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2785",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:14+08:00",
+   "source_key": "rmis:2785"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4038d5b5d66f36a19502eb00106d04c0411619a430e873c5d04e28e27ea54c57",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年10月20日府農務字第1000338086號函。\n2.揆諸農業用地興建農舍辦法,申請興建農舍資格條件須符合土地取得滿兩年之規定,係為符合農業發展條例第18條立"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "法,申請興建農舍資格條件須符合土地取得滿兩年之規定,係為符合農業發展條例第18條立法意旨,確保該農舍為配合於農業用地上從事農業經營所需而興建之政策目的。因此,如"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "以取得「農業用地」為要件,本案特定農業區特定目的事業用地並非農業發展條例施行細則第2條所定農業用地之範圍,於100年9月28日始變更為同區農牧用地,故其農業用地之土地"
+  }
+ ]
+}

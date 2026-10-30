@@ -1,0 +1,52 @@
+{
+ "id": "itp-c598a63e8f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030712036號",
+ "date": "2014-04-18",
+ "date_text": "103/4/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "台中農業設施總面積不得超過40%之通函解釋",
+ "content": "主旨：有關貴局函詢「申請農業用地作農業設施容許使用審查辦法」第7條所有農業設施總面積，不得超過坐落農業用地土地面積40%之審查疑義案，復請查照。\n說明：\n一、復貴局103年4月15日中市農地字第1030011333號函。\n二、依據本會102年10月9日修正發布之「申請農業用地作農業設施容許使用審查辦法」第7條規定：「申請本辦法所定各項農業設施，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之40%。但有下列情形之一者，不受40%之限制：……」是以，申請本辦法所定各項農業設施，其所有農業設施總面積，除但書規定之情形者外，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之40%；又農業設施倘有跨越坐落數筆農業用地之情形，則其農業設施之總面積應不得超過所坐落該數筆農業用地土地總面積之40%；至農業設施未坐落之農業用地，則不得納入農業用地之面積計算。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4886",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:16+08:00",
+   "source_key": "rmis:4886"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cda526eb6e24cd003d6df817d0d59887cec7ea59dc53da1dde6f2535a3c4bd66",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "中農業設施總面積不得超過40%之通函解釋\n主旨:有關貴局函詢「申請農業用地作農業設施容許使用審查辦法」第7條所有農業設施總面積,不得超過坐落農業用地土地面積40%之審查疑義案,復請查照。\n"
+  }
+ ]
+}

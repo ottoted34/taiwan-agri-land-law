@@ -1,0 +1,79 @@
+{
+ "id": "itp-f14e4970ac",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030225351號",
+ "date": "2014-08-18",
+ "date_text": "103/8/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為依「農業用地興建農舍辦法」第15條規定，辦理興建農舍之農業用地稽查作業，建議於「農業發展條例」明訂強制進入農舍及其毗連農業經營用地檢查權之法源一案，復請查照。",
+ "content": "一、復貴府103年7月21日屏府農企字第10321918300號函。\n二、有關農舍建築物稽查，請依內政部營建署103年8月11日營署綜字第1032913602號函(正本諒達)說明三、四辦理。\n三、另依旨揭辦法第9條第1項第1款規定：「農舍興建圍牆，以不超過農舍用地面積範圍為限。」，爰倘貴府認定貴轄多數農舍之圍牆已設置於農業經營用地範圍，自應以違反旨揭辦法規定積極查處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3830",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:01+08:00",
+   "source_key": "rmis:3830"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "15",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c1e2152e500b582f32b8e4da7a59e903a50e710663d47e85556c0a4372716321",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "有關貴府函為依「農業用地興建農舍辦法」第15條規定,辦理興建農舍之農業用地稽查作業,建議於「農業發展條例」明訂強制進入農舍及其"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍辦法」第15條規定,辦理興建農舍之農業用地稽查作業,建議於「農業發展條例」明訂強制進入農舍及其毗連農業經營用地檢查權之法源一案,復請查照。\n一、復貴府10"
+  }
+ ]
+}

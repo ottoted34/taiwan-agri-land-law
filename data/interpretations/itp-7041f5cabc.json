@@ -1,0 +1,58 @@
+{
+ "id": "itp-7041f5cabc",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990108683號",
+ "date": "2010-03-04",
+ "date_text": "99/3/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○○陳請退還先前已繳納之農業用地變更回饋金，或得免重新繳納農業用地變更回饋金之疑義案。",
+ "content": "主旨：有關○○○陳請退還先前已繳納之農業用地變更回饋金，或得免重新繳納農業用地變更回饋金之疑義案，復請 查照。\n說明：\n一、復 貴府99年2月3日府農管字第0990045192號函。\n二、有關農業用地變更回饋金申請退還之審認原則，查本會前於98年8月10日以農企字第0980147196號函引述本會97年12月2日農企字第0970167702號函(諒達)說明略以：「申請個案之土地，倘尚未依核定計畫開始開發使用，經目的事業主管機關依『非都市土地使用管制規則』第37條，廢止該事業計畫，回復原編定為農業用地，且該農業用地自始仍維持作農業使用，始得退還已繳納之農業用地變更回饋金」有案，本案依 貴府來函所述，○○○原申請農業用地變更作幼稚園使用，且已完成興建，因未能於一定時效內取得設立許可，經目的事業主管機關撤銷原核定計畫，並經土地管制機關回復原編定為農業用地，故本案與上開函所敘仍維持作農業使用之情形不同，尚難逕予引用。\n三、本案再次申請用地變更，如認屬新申請案件，應依新案審定農業用地變更回饋金繳交事宜；惟倘經 貴府目的事業主管單位認屬辦理程序尚未終結之續辦案件，得免予重新繳納農業用地變更回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5394",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:14+08:00",
+   "source_key": "rmis:5394"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8c1b21a30692e4694638d357eeb817dcd36fde94f2d1bbc311658c772b81f9b8",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  }
+ ]
+}

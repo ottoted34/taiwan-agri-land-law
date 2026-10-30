@@ -1,0 +1,61 @@
+{
+ "id": "itp-ba8a38d04a",
+ "doc_class": "interpretation",
+ "docno": "內授營綜字第1050018940號",
+ "date": "2016-03-24",
+ "date_text": "105/3/24",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "有關民眾原有一般農業區農牧用地（內有部分水利用地），後被經濟部水利署徵收部分土地作堤防工程，是否符合農業用地興建農舍辦法第4條規定疑義，復請查照。",
+ "content": "一、復貴府105年3月9日府農保字第1050045361號函。\n二、查農業用地興建農舍辦法（以下簡稱本辦法）第4條規定之立法目的，係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益，以配合政府興辦公共事業，爰訂有相關依法被徵收或依法為得徵收之農業用地得準用本辦法第3條規定申請興建農舍之保障措施，上開「既有權益」係指農業用地被徵收或協議價購前，土地所有權人原得依本辦法相關規定申請興建農舍之狀態，倘該農業用地原屬本辦法第5條規定不得申請興建農舍之區位，自無本辦法第4條規定之適用。\n三、有關本案得否適用本辦法第4條規定，請貴府參依本部營建署104年10月12日營署綜字第1040063481號函及本部97年4月11日台內營字第0970802546號函（如附件）本於權責認定，並建議貴府就民眾76年取得本案土地時，謄本註記一般農業區農牧用地內有部分水利用地之位置是否即嗣後光復鄉○○○地號（編定為河川區水利用地）之範圍，以釐清本案土地是否自始即屬本辦法第5條規定不得申請興建農舍之情形。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4215",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:28+08:00",
+   "source_key": "rmis:4215"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "08ebba248f4e87d4b882efc35b7066cec14dfb34451ce3d7628ca5ef1aafa938",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "水利用地),後被經濟部水利署徵收部分土地作堤防工程,是否符合農業用地興建農舍辦法第4條規定疑義,復請查照。\n一、復貴府105年3月9日府農保字第1050045361號"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "下簡稱本辦法)第4條規定之立法目的,係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興辦公共事業,爰訂有相關依"
+  }
+ ]
+}

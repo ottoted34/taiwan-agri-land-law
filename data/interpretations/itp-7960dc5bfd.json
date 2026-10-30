@@ -1,0 +1,58 @@
+{
+ "id": "itp-7960dc5bfd",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000145425號",
+ "date": "2011-08-05",
+ "date_text": "100/8/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "002 釋申請農用證明收取規費案",
+ "content": "主旨：有關 貴會建議農業用地作農業使用證明書規費應以土地筆數為計算基準一案，復如說明，請 查照。\n說明：\n一、復 貴會100年7月7日全地公(6)字第1006306號函。\n二、查本會100年1月24日農企字第1000103700號函釋核發農業用地作農業使用證明書規費之收取，係針對共有農業用地之共有人倘擬就其持分部分辦理所有權移轉時，為利審查並依所申請之持分範圍核發上開證明書，爰規定農業用地作農業使用申請書或證明書上之土地所有權人欄位，應將土地所有權人個人擬申請賦稅減免優惠之持分權利範圍土地分筆填列，並依所填之筆數收取審查費，故非以共有人人數作為審查費計算基準，特予說明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5080",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:47+08:00",
+   "source_key": "rmis:5080"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "a786eeafd1fd0ea1f8bf6085cc96595fbf439281377c04aff507ac3564cd748f",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

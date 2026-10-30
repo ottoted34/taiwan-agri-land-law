@@ -1,0 +1,48 @@
+{
+ "id": "itp-f1a8a22ee4",
+ "doc_class": "interpretation",
+ "docno": "能技字第11200615560號",
+ "date": "2023-08-25",
+ "date_text": "112/8/25",
+ "agency_text": "經濟部能源局",
+ "category": "解釋函",
+ "subject": "有關農舍屋頂申設光電設備程序疑義一案，詳如說明，請查照。",
+ "content": "一、、查「再生能源發電設備設置管理辦法」（以下簡稱設置管理辦法）第7條第1項相關規定如下：\n（一）第3款第2目規定：「申請人依第4條第1項規定申請再生能源發電設備認定時，應依規定格式填具同意備案申請表，並按設備型別及使用能源種類，分別檢附下列文件：三、第三型再生能源發電設備：（二）設置廠址之土地或建物使用說明文件。」\n（二）附件1「第三型再生能源發電設備申請同意備案申請表填寫及檢附文書說明」第3點第2項規定略以，設備設置於建物者，應另檢附最近3個月內之建物登記謄本影本或足資證明該建物所有權等證明文件。\n二、有關農業部於112年7月14日函復意旨，有關農舍屋頂申設光電設備程序，建議依行政院鄭副院長文燦於112年5月29日綠能加速會議裁示，得視其作非農業使用行為之違規情節輕重分別處理。其中，違規情節較重者（如經營超商等），未進行改善前不予同意附設太陽光電發電設備；違規情節較輕（未經申請設置農業設施如溫室、集貨包裝處理場或作庭園造景等），可有條件同意附設太陽光電發電設備、列為重點輔導對象，並限期取得農業設施容許使用。\n三、綜上，農舍所座落之農業用地倘涉及違規使用，請貴府主管農業機關審酌是否為非農業使用行為，並予以判認違規情節輕重，以利後續再生能源發電設備認定機關（單位）審查再生能源發電設備認定事宜。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "經濟部能源局",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5985",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:10+08:00",
+   "source_key": "rmis:5985"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "970973f64c8c74ff8d33aa592a239d5964e776237b6bbcc59e8ba16726531350",
+ "topics": [
+  "greenhouse",
+  "farmhouse",
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

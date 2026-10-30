@@ -1,0 +1,47 @@
+{
+ "id": "itp-fdfa6feb3b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110223092號",
+ "date": "2022-06-14",
+ "date_text": "111/6/14",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "農舍是否得申請商業登記作蔬果批發業使用案",
+ "content": "主旨：有關貴府函詢農牧用地之農舍是否得申請「商業登記」作蔬果批發業(登記營業項目代碼F101130)案，復如說明，請查照。\n說明：\n一、復貴府111年5月26日府農畜二字第1112518947號函。\n二、按非都市土地使用管制規則第6條附表一規定，農舍許可使用細目包括「農舍及農舍附屬設施」、「農產品之零售」、「農作物生產資材及日用品零售」及「民宿」等四項。有關農舍是否得申請「商業登記」作蔬果批發業，查內政部96年5月23日內授中辦字第0960046212號函略以，「．．．農舍之興建應與農業經營有密切關聯。．．．此處所稱之買賣僅限於零售買賣，不宜擴大解釋為農產品、農作物生產資材及日常用品批發買賣場所，否則將與政府因農業經營因素准予農民興建農舍之目的有違。」解釋有案。是以，蔬果批發業非屬農舍之適法使用，本案請依上開說明及個案實情審認核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5923",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:56+08:00",
+   "source_key": "rmis:5923"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "508fbde3caecfb642f7283d51837cd50dbdf0dfbb949fd323cefcd6e504c20e1",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

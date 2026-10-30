@@ -1,0 +1,53 @@
+{
+ "id": "itp-bd0b95ec32",
+ "doc_class": "interpretation",
+ "docno": "農農保字第1132655742號",
+ "date": "2024-10-07",
+ "date_text": "113/10/7",
+ "agency_text": "農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "申請農業用地作農業設施容許使用案件審查簽辦",
+ "content": "主旨：檢送修正「申請農業用地作農業設施容許使用案件審查簽辦單」，請查照。\n說明：為利辦理申請變更原核定畜牧設施容許使用案件之審查，爰於旨揭審查簽辦單註三新增第13款「既有畜牧場申請畜牧設施容許使用變更時得簡化部分會審作業」之原則。又貴府倘有依申請農業用地作農業設施容許使用審查辦法第35條規定，將執行該辦法規定事項權限之一部分，委任或委辦所轄鄉（鎮、市、區）公所辦理者，請併將旨揭審查簽辦單轉知公所，俾利公所實務執行，以確達簡政便民目的。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5943",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:52+08:00",
+   "source_key": "rmis:5943"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6e251413bcde8998ba1b03fe4904933fb998bb312f8fd856561bbd8dbf06b0b9",
+ "topics": [
+  "partial_use",
+  "livestock"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "35",
+   "kind": "extracted",
+   "snippet": "牧設施容許使用變更時得簡化部分會審作業」之原則。又貴府倘有依申請農業用地作農業設施容許使用審查辦法第35條規定,將執行該辦法規定事項權限之一部分,委任或委辦所轄鄉(鎮、市、區)公所辦理者"
+  }
+ ]
+}

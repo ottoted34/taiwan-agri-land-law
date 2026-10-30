@@ -1,0 +1,55 @@
+{
+ "id": "itp-ead36e7a0c",
+ "doc_class": "interpretation",
+ "docno": "農企字第1050243409號",
+ "date": "2016-12-14",
+ "date_text": "105/12/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "原單獨所有土地以贈與加入共有人再簽訂分管契約不宜核發農用證明",
+ "content": "主旨：有關貴府函詢農業用地上有非農業使用之設施，原土地所有權人以贈與方式增加土地所有權人數，再藉由訂立分管契約書圖，分請農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴府105年11月4日府農務二字第1052524095號函。\n二、依農業用地作農業使用認定及核發證明辦法第6條第6款及第8條第1項第1款規定，針對有違規使用之共有農業用地，申辦農業用地作農業使用證明書(以下簡稱農用證明)，得檢附全體共有人簽署之分管契約書圖，就申請人分管部分查核是否符合農業使用認定基準。其目的係農業用地在共有之前提下，為釐清實際違規行為人之責任，避免因他共有人之違規行為而影響合法共有人之權益，所作之適法措施。爰該分管契約書圖應為共有人間之合意且該違規使用部分為實際之違規行為者所分管，以落實獎勵農地農用之立法意旨。\n三、依貴府來函所述，本案土地原為1人單獨所有，其地上存在非農業使用之設施，未符農業使用之認定基準，貴縣西螺鎮公所於105年1月26日駁回農用證明申請有案，則本案倘經貴府查證該非農業使用設施確屬原土地所有權人所為者，縱其以贈與方式移轉部分土地持分，形成2人共有土地情形，亦無法改變原土地所有權人為違規使用行為人之事實。故本案違規使用情形如未排除前，不宜核發農用證明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5414",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:16+08:00",
+   "source_key": "rmis:5414"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9be03608efd656b43168103ed393e31f9eb7315b430d1637908fc975faec2d42",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "5年11月4日府農務二字第1052524095號函。\n二、依農業用地作農業使用認定及核發證明辦法第6條第6款及第8條第1項第1款規定,針對有違規使用之共有農業用地,申辦農業用地作農業"
+  }
+ ]
+}

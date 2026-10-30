@@ -1,0 +1,49 @@
+{
+ "id": "itp-75f86affab",
+ "doc_class": "interpretation",
+ "docno": "農企字第1040012894號",
+ "date": "2015-11-27",
+ "date_text": "104/11/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "修正「農業用地農業使用證明申請書」及「農業用地作農業使用證明書」格式如附件，並自即日生效，請查照並轉知所屬。",
+ "content": "一、查農業用地興建辦法業於104年9月4日修正發布施行，其中第2條第2項規定:「前項第五款規定確供農業使用與不影響農業生產環境及農村發展之認定，由申請人檢附依中央主管機關訂定之經營計畫書格式，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣（市）主管機關審查。」及配合本會104年10月21日農水保字第1041866479號函修正之「申請興建農舍之申請人資格條件審查表(範本)」，針對申請興建農舍，該農業用地是否確供農業使用與不影響農業生產環境及農村發展之認定文件，改以須檢附經營計畫書取代，不再以農業用地作農業使用證明書作為佐證文件。爰修正本會之「農業用地農業使用證明申請書」及「農業用地作農業使用證明書」格式，刪除用途欄之申請興建農舍部分及相關補辦建築執照之附註文字等內容。 二、為利業務執行，請惠轉知貴轄鄉(鎮、市、區)公所更新採行，最新書表格式並置於本會農地法規檢索系統供下載使用(http://talis.coa.gov.tw/ALRIS/)。又因不再以農舍之興建或補辦建築執照作為農業用地作農業使用證明書之核發用途，倘日後民眾表明為申請興建農舍用途而申請農業用地作農業使用證明書，宜加以宣導已改以須檢附經營計畫書取代，不再以此證明書作為佐證文件，避免民眾誤為申請而衍生規費退費爭議。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2944",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:38+08:00",
+   "source_key": "rmis:2944"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4092b9587e62a87cc12205288392ba353100626b34081cc7e47dbecfc34e1637",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

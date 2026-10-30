@@ -1,0 +1,59 @@
+{
+ "id": "itp-a5bfdd36bf",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990145143號",
+ "date": "2010-07-08",
+ "date_text": "99/7/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "059 釋法院拍賣農業用地後，申請核發農業用地作農業使用證明書事宜案",
+ "content": "主旨：有關貴轄燕巢鄉○○○地號山坡地保育區農牧用地，經法院拍賣後，因現所有權人阻礙原土地所有權人進入，致無法會勘而影響農業用地作農業使用證明書核發 案，復請 查照。\n說明：\n一、依據財政部99年7月1日台財稅字第09900278140號函（影本如附件）辦理，並復 貴府99年6月24日府農務字第0990119612號函。\n二、依據財政部前開函說明二，作農業使用之農業用地經法院拍賣，如符合土地稅法不課徵土地增值稅之規定，權利人或義務人其中之一於法定期限內申請不課徵土地增值稅，並檢附土地稅法施行細則第58條規定之證明文件，稽徵機關即應依規定受理\n三、有關法院拍賣土地，現土地所有權人（拍定人）如已申請取得該土地之農業用地作農業使用證明書，原土地所有權人另提出該土地之農業用地作農業使用證明書之申請時，倘有旨揭影響現勘及核發該證明書情事，得以公文併附原核發之農業用地作農業使用證明書影本函復申請人，並副知稽徵機關，俾稽徵機關得依法核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5456",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:51+08:00",
+   "source_key": "rmis:5456"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "51f30fd9973fb99b2d236bbece8f63a64d97af2b35da322ddcde6fe16a421079",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

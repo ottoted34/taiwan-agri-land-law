@@ -1,0 +1,58 @@
+{
+ "id": "itp-9ffa7bfdd5",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960161748號",
+ "date": "2007-11-06",
+ "date_text": "96/11/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "一、查本會90年7月31日(90)農企字第900010341號函釋有關共有農業用地之部分共有人，為申請其持分部分之農業用地作農業使用證明書，該農業用地倘有部分違規使用情事時，得依據全體共有人合意之分管契約書，就申請人分管部分查核是否符合農業使用認定基準，作為是否核發農業用地作農業使用證明書之依據一節，係基於善意認定申請人並無欺瞞、耍詐之情事，並兼顧法令規定及農業用地共有人之權益，所作之適法措施，合先敘明。\n二、本案當事人原以該筆農業用地之共有人身分，與他共有人簽有分管契約書，確認其與另2共有人分管持分部分有違規使用情事，即應就其原分管部分審認，不應以其先前已確認且屬他共有人所分管之未違規使用部分審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4808",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:47+08:00",
+   "source_key": "rmis:4808"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "0ad73e869f63cac2ae93ffd3859361c169cbfa8dafa2310a5022498926241896",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

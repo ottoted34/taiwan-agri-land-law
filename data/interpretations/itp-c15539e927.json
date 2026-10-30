@@ -1,0 +1,50 @@
+{
+ "id": "itp-c15539e927",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1121818324號",
+ "date": "2024-05-31",
+ "date_text": "113/5/31",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢貴市學甲區○○○地號農業用地申請農業設施容許使用，涉及農村再生計畫工程疑義案，復請查照。",
+ "content": "按農業設施係輔助其坐落農業用地之農業生產，須基於該農業用地農業生產事實，與生產行為相連結，始可設置，如整筆農業用地均興建管理型農業設施，即已失去應有農業生產事實之前提，故申請農業用地作農業設施容許使用審查辦法第7條規定，申請本辦法所定各項農業設施，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之40％。針對貴局所詢申請農業設施容許使用之農業用地倘存在農村再生計畫工程之設施物，為確保農業用地應有農業生產使用之事實，則該工程之設施物面積應計入上開所坐落農業用地土地面積之40％予以核算，爰本案請貴局依上開原則及辦法相關規定予以審認核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5954",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:29+08:00",
+   "source_key": "rmis:5954"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4e666d572baeb4c4b4cf76308d747f89f29e67207e3bc77c49f25d5e55aadfce",
+ "topics": [],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "用地均興建管理型農業設施,即已失去應有農業生產事實之前提,故申請農業用地作農業設施容許使用審查辦法第7條規定,申請本辦法所定各項農業設施,其所有農業設施總面積,不得超過申請設施所坐落之"
+  }
+ ]
+}

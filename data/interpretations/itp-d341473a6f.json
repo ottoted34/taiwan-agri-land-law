@@ -1,0 +1,62 @@
+{
+ "id": "itp-d341473a6f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990133965號",
+ "date": "2010-05-21",
+ "date_text": "99/5/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "私人土地擬捐贈鄉(鎮)公所並由公所提出農業用地申請變更為交通用地時，是否得免繳交農業用地變更回饋金案。",
+ "content": "主旨：有關 貴府函詢私人土地擬捐贈鄉(鎮)公所並由公所提出農業用地申請變更為交通用地時，是否得免繳交農業用地變更回饋金案，復請 查照。\n說明：\n一、復 貴府99年5月18日府農務字第0990069613號函。\n二、農業用地之變更，應視其事業性質，繳交回饋金，以供農業發展及農民福利之用，為農業發展條例第12條第1項之規定；同條第4項亦明定得免繳交農業用地變更回饋金之情形，其中第1款規定「政府興辦之公共建設及公益性設施」得免繳交回饋金。有關私人所有之農業用地擬捐贈政府機關作為道路等公共建設供公眾通行，並由縣(市)政府或鄉(鎮)公所等政府機關作為主體，提出農業用地申請變更為交通用地，應符合「政府興辦」及「公共建設及公益性設施」之要件，適用上開得免繳農業用地變更回饋金之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5398",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:59+08:00",
+   "source_key": "rmis:5398"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e8545ebc61d8e5398c993f3d0cf71f1638263c7d796f7143de112c2b6b66b53a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": ",應視其事業性質,繳交回饋金,以供農業發展及農民福利之用,為農業發展條例第12條第1項之規定;同條第4項亦明定得免繳交農業用地變更回饋金之情形,其中第1款規定「"
+  }
+ ]
+}

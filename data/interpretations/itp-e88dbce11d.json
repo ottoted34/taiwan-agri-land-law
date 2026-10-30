@@ -1,0 +1,54 @@
+{
+ "id": "itp-e88dbce11d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060213614號",
+ "date": "2017-04-26",
+ "date_text": "106/4/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農業用地興建農舍辦法第2條第1項第3款規定之執行疑義，復如說明，請查照。",
+ "content": "一、復貴府106年4月10日府商都字第1060066261號函。\n二、依據農業用地興建農舍辦法第2條第1項第3款規定，申請興建農舍之該筆農業用地面積不得小於0.25公頃，所稱之「該筆」係指土地登記之單1筆地號農業用地而言，僅得以單一筆地號申請，不得多筆土地合併計算，先予敘明。\n三、上開最小面積不得小於0.25公頃規定之立法目的，在於維持農業使用之最小面積，避免原申請興建農舍之農業用地再不當細分，影響農業用地使用管制及農業生產效率。有關興建農舍之農業用地，仍應請依上揭原則辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3375",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:58+08:00",
+   "source_key": "rmis:3375"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ab7fae006c4a6c175ccc7f4a5bc4eefd23b74b02ef2fec96152e5c3b3513f5a5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "有關貴府函詢農業用地興建農舍辦法第2條第1項第3款規定之執行疑義,復如說明,請查照。\n一、復貴府106年4月10日府商"
+  }
+ ]
+}

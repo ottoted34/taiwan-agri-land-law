@@ -1,0 +1,55 @@
+{
+ "id": "itp-50cfac122b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020233723號",
+ "date": "2013-10-08",
+ "date_text": "102/10/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "仁德區○○○地號土地申請核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關貴局函詢貴轄仁德區○○○地號土地申請核發農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴局102年10月1日南市農務字第1020858899號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第3款規定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：．．．三、農業用地存在．．．或屬依法應徵收而未徵收性質之其他公共設施」其執行重點在於「部分面積」、「是否影響農業使用」及「依法應徵收而未徵收」。爰本案所稱「鐵路軌道」，倘屬前開設施性質及條件者，則符合農業使用認定基準，得核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5090",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:15+08:00",
+   "source_key": "rmis:5090"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7bec84f5f0ede291c7789c6a74174421c1b3b8c18d3779439d3da0dc5e94b835",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "2年10月1日南市農務字第1020858899號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第3款規定略以:「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為"
+  }
+ ]
+}

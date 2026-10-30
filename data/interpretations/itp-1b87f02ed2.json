@@ -1,0 +1,64 @@
+{
+ "id": "itp-1b87f02ed2",
+ "doc_class": "interpretation",
+ "docno": "漁四字第1041268397號",
+ "date": "2015-12-18",
+ "date_text": "104/12/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "水產養殖設施查核標準依漁業統計年報產量7成估認。",
+ "content": "主旨：有關查核申請農業用地作水產養殖設施容許使用案件是否符合原核定計畫內容之審認，請依說明事項辦理，請查照轉知。\n說明：\n一、依據行政院農業委員會104年12月15日農企字第1040247817號函辦理。\n二、有關取得農業用地作農業設施容許使用之水產養殖設施查核作業，請依「申請農業用地作農業設施容許使用審查辦法」第32條及第33條及行政院農業委員會104年8月25日農企字第1040012614號函(如附件)辦理。\n三、至查核是否符合原核定計畫內容之審認作業，請以申請人所提經營計畫之養殖種類，依漁業統計年報該種類近三年產量平均值之7成估認最低生產量；另屬室內水產養殖之生產經營能力(包括單位面積放養量及收成量)，不得低於室外水產養殖集約式養殖水準，作為合理水產養殖經營事實之判定參考。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5378",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:14+08:00",
+   "source_key": "rmis:5378"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "32",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "eb4ef027918ff3f62ea41f4f4a79b32f4d4fd6a72166472361a6f42e72843728",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "32",
+   "kind": "extracted",
+   "snippet": "關取得農業用地作農業設施容許使用之水產養殖設施查核作業,請依「申請農業用地作農業設施容許使用審查辦法」第32條及第33條及行政院農業委員會104年8月25日農企字第1040012614號函("
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": "itp-9c8aba54b2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041813119號",
+ "date": "2015-07-15",
+ "date_text": "104/7/15",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函詢民眾辦理土地合併異動後，由兩人共同申請興建農舍，得否適用農業發展條例第18條第3項及農業用地興建農舍辦法第3條規定1案，請查照。",
+ "content": "一、復貴府104年7月1日府農保字第1040124722號函。\n二、依農業發展條例第18條第3項規定，農業發展條例修正施行前之共有耕地，於農業發展條例修正施行後分割為單獨所有，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。倘上開土地進行合併異動，即不屬前開規定所指之土地態樣，自不適用農業發展條例第18條第3項後段及農業用地興建農舍辦法第3條規定。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3493",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:34+08:00",
+   "source_key": "rmis:3493"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "e72ae04e18a2f16b3add96aef49c03ff5da427f5842d54fe092f1624ceb30bfa",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "函詢民眾辦理土地合併異動後,由兩人共同申請興建農舍,得否適用農業發展條例第18條第3項及農業用地興建農舍辦法第3條規定1案,請查照。\n一、復貴府104年7月1日"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "由兩人共同申請興建農舍,得否適用農業發展條例第18條第3項及農業用地興建農舍辦法第3條規定1案,請查照。\n一、復貴府104年7月1日府農保字第1040124722號函"
+  }
+ ]
+}

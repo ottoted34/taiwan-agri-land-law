@@ -1,0 +1,89 @@
+{
+ "id": "itp-0d872f991c",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000162691號",
+ "date": "2011-10-07",
+ "date_text": "100/10/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "048 釋農業設施申請農業用地作農業使用證明書",
+ "content": "主旨：有關 貴局函請釋示申請人檢附非本人之農業設施容許使用同意書，得否核發農業用地作農業使用證明書疑義案，復如說明，請 查照。\n說明：\n一、復 貴局100年9月29日高市鳳山農務字第1001023111號函。\n二、查農業用地作農業使用認定及核發證明辦法第5條第2款規定，農業用地上施設有農業設施，應檢附容許使用同意書及建築執照，並未規範該農業設施容許使用同意書之申請人須為土地所有權人。次查本會100年7月19日農企字第1000143240號通函（諒達）示略以：「申請農業用地作農業設施容許使用審查辦法」係針對農業用地興建農業設施之使用內容進行審查，並非對申請人之資格要件查核，故農業設施於取得農業用地作農業設施容許使用同意書建築完成後，如僅因使用人變更，而該農業設施仍依原核定之計畫內容使用，該使用人尚無申請變更同意書之必要。\n三、綜上，申請核發農業用地作農業使用證明書，檢具非本人之農業設施容許使用同意書，仍得據以受理申請核發農業用地作農業使用證明書，惟其仍應依原核定之農業設施經營計畫內容使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5104",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:27+08:00",
+   "source_key": "rmis:5104"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "e79841793ff6cef440683f34514c9ff014aee46a0d512c35f644f491399bfa88",
+ "topics": [
+  "farm_use_cert",
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "9月29日高市鳳山農務字第1001023111號函。\n二、查農業用地作農業使用認定及核發證明辦法第5條第2款規定,農業用地上施設有農業設施,應檢附容許使用同意書及建築執照,並未規範該"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "7月19日農企字第1000143240號通函(諒達)示略以:「申請農業用地作農業設施容許使用審查辦法」係針對農業用地興建農業設施之使用內容進行審查,並非對申請人之資格要件查核,故農業"
+  }
+ ]
+}

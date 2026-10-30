@@ -1,0 +1,59 @@
+{
+ "id": "itp-bf2854699e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970138770號",
+ "date": "2008-07-14",
+ "date_text": "97/7/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "一、有關共有農業用地之共有人為申請其持分部分之農業用地作農業使用證明書，其檢附之分管契約書應否檢附印鑑證明一節，本會前於91年3月11日以農企字第0910110950號函復 貴府等略以：「查本會90年7月31日(90)農企字第900010341號函係彙整多次會議之結論，該結論雖未明訂分管契約書或違規使用切結書是否須蓋印鑑章及檢附印鑑證明等事項。惟於會中，據基層與會機關反映，該等分管契約書之用章，多有代書統一刻印情事，無法分辨真偽，為保障其他共有人之權益，宜以印鑑章為準；但亦有基於簡政便民立場持不同意見，認為只要共有人或切結人現場簽章或經核對確認其身分即可。因此，會中未有決議，而得由縣（市）政府本於權責酌處。」（諒達）在案。\n二、至該分管契約書是否應取得法院公證一節，因考量農業用地之移轉頗為頻繁，倘每次共有人有所變更，即需再次辦理分管及公證，恐仍有前開不同意見之爭議。故如有必要， 貴府自得本於權責，將民眾所檢附分管契約書造冊列管，以供審核之參考。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4807",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:06+08:00",
+   "source_key": "rmis:4807"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "324046190824d0cb4a46eeb5137d2fcf9d842c2f38798ec961c3b3a3337b84a9",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

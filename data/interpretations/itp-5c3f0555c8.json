@@ -1,0 +1,64 @@
+{
+ "id": "itp-5c3f0555c8",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960990258號",
+ "date": "2007-07-30",
+ "date_text": "96/7/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋有關都市計畫農業區土地，依都市計畫法臺灣省施行細則第29條之1規定，設置加氣站使用，是否須設置1.5公尺寬隔離綠帶或設施疑義案。",
+ "content": "主旨：有關都市計畫農業區土地，依都市計畫法臺灣省施行細則第29條之1規定，設置加氣站使用，是否須設置1.5公尺寬隔離綠帶或設施疑義案，復請 查照。\n說明：\n一、復 台端96年7月18日致本會申請書。\n二、依都市計畫法臺灣省施行細則第29條之1規定申請於都市計畫農業區核准設置之各項設施(包括加氣站等)，本會曾通函各縣(市)政府略以：「．．．復依都市計畫法臺灣省施行細則第29條之1第3項及第4項規定，農業區設置加油(氣)站等設施之申請，縣(市)政府於辦理審查時，應依據地方實際情況，對於其使用面積、使用條件及有關管理維護事項，作必要之規定．．．有關該細則第29條之1規定之各項設施，宜配合貴府都市計畫機關對貴縣轄區之都市計畫保護區、農業區所訂定相關土地使用審查自治法規中辦理。至貴府對農業用地之審查，可配合上開細則第29條之1第3項規定，參考『農業主管機關同意農業用地變更使用審查作業要點』相關規定，就隔離綠帶設置等管理維護事項，認為有必要規範者，予以納入相關審查自治法規中作必要之規定。」\n三、有關旨揭依都市計畫法臺灣省施行細則第29條之1規定，設置加氣站使用，是否須設置1.5公尺寬隔離綠帶或設施一節，倘縣(市)政府依本會前函另有規定者，應依其規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5229",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:18+08:00",
+   "source_key": "rmis:5229"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b760f863aae7a613ab2ae40756c71bd331774ae7b3cc9564bbd4b74ff06efee0",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "對農業用地之審查,可配合上開細則第29條之1第3項規定,參考『農業主管機關同意農業用地變更使用審查作業要點』相關規定,就隔離綠帶設置等管理維護事項,認為有必要規範者,予以納入相關審查自治法"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-5d31223c4c",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1142616538號",
+ "date": "2025-11-06",
+ "date_text": "114/11/6",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府所詢申請農業用地作農業設施容許使用審查辦法第32條第1項規定之行政審查事宜疑義案，復如說明，請查照。",
+ "content": "一、按申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第32條第1項及第2項規定，依法得免申請建築執照之農業設施應於1年內完成興建使用，且報請原核定機關進行完工檢查。倘屆期未興建或未報請完工檢查，或經檢查不合格，原核定機關得廢止其許可。\n二、針對貴府所詢個案，依案附資料，申請人已報請完工檢查，並補充說明未能於期限內完工之事由，則貴府仍得衡酌個案情形進行完工檢查。至倘經檢查不合格，貴府亦得衡酌個案實情，於廢止許可前，給予申請人限期改善之機會，爰本案請貴府依上開原則就個案實情予以核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5964",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:55+08:00",
+   "source_key": "rmis:5964"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "10d09afc88a570f3378375bf357d7c33f3aaefb129fadf5e832ca431eda6d1ca",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "32",
+   "kind": "extracted",
+   "snippet": "有關貴府所詢申請農業用地作農業設施容許使用審查辦法第32條第1項規定之行政審查事宜疑義案,復如說明,請查照。\n一、按申請農業用地作農業設施"
+  }
+ ]
+}

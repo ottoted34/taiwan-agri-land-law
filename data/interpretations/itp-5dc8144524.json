@@ -1,0 +1,73 @@
+{
+ "id": "itp-5dc8144524",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970109727號",
+ "date": "2008-02-27",
+ "date_text": "97/2/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "029 釋辦法第11條通知土地所有權人或其代理人到場指界案",
+ "content": "主旨：有關農業用地作農業使用證明書之申請人非土地所有權人，會勘時無土地所有權人 委託書或該所有權人經通知後未到場，應如何處理疑義案，復請 查照。\n說明：\n一、復 貴府97年2月21日基府產農貳字第0970014797號函。\n二、查農業用地作農業使用認定及核發證明辦法第11條第3項明定「申請人非土地所有權人時，應通知土地所有權人到場。」其目的除讓該土地所有權人瞭解有申請人為前開辦法第3條各款情形之一，擬申請其所有土地之農業用地作農業使用證明書外，並請其至現場指界，以協助確認其土地之界址範圍，以利審核。如其因故無法親自到場時，亦得委託他人代理，以保障其權益。\n三、至土地所有權人是否親自到場或委託他人代理宜由其自行衡酌，該農業用地作農業使用證明書之審核作業仍宜繼續遂行。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5430",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:17+08:00",
+   "source_key": "rmis:5430"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "11",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "18797dfb817a80a9b724eddad16e527decbe8c6fc80cf0fbc9e19a63f0c2c708",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "年2月21日基府產農貳字第0970014797號函。\n二、查農業用地作農業使用認定及核發證明辦法第11條第3項明定「申請人非土地所有權人時,應通知土地所有權人到場。」其目的除讓該土地所"
+  }
+ ]
+}

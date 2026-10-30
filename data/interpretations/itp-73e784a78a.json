@@ -1,0 +1,64 @@
+{
+ "id": "itp-73e784a78a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031828775號",
+ "date": "2014-12-05",
+ "date_text": "103/12/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關桃園縣政府函轉臺灣桃園地方法院民事執行處函詢配合建築農舍之農地須否與農舍併同移轉疑義案，因涉移轉登記，請貴部卓處逕復，請查照。",
+ "content": "一、依據本會水土保持局案陳桃園縣政府103年11月28日府農管字第1030290371號函辦理，並檢討原函影本乙份。\n二、農業發展條例第18條第4項規定農舍應與其坐落用地併同移轉或併同設定抵押權，爰以多筆相毗鄰農地合併興建個別農舍或以集村方式申請興建農舍者，均應受前述規定規範，本會前以103年11月27日農授水保字第1030237929號函提供意見在案。\n三、至若農業發展條例89年修正前以十公里範圍內之農業用地提出申請興建農舍之案件，其配合耕地須否與農舍併同移轉，本會則無意見。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3592",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:02+08:00",
+   "source_key": "rmis:3592"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5028d695fb6127b0fd675de5cc9bf01500aa76f1cf45153bf0ba81939703015d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "字第1030290371號函辦理,並檢討原函影本乙份。\n二、農業發展條例第18條第4項規定農舍應與其坐落用地併同移轉或併同設定抵押權,爰以多筆相毗鄰農地合併興建"
+  }
+ ]
+}

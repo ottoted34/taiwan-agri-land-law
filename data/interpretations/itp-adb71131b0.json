@@ -1,0 +1,50 @@
+{
+ "id": "itp-adb71131b0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070244745號",
+ "date": "2018-11-13",
+ "date_text": "107/11/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋公同共有與分別共有之共有人申請其他共有人持分之作法",
+ "content": "主旨：有關貴府函詢共有農業用地申請核發農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴府107 年10 月24 日府農林二字第1070560297 號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書(以下簡稱農用證明)，俾供持憑辦理申請不課徵土地增值稅或免徵遺產稅、贈與稅等賦稅減免優惠。\n三、有關公同共有農業用地申請農用證明，其申請人欄位填列一節，對於公同共有之農業用地，農用證明係視為一整體審認，申請人得為土地所有權人或權利關係人，故本會99年3月25日農企字第0990117058號函釋(如附)，已敘明該類案件無需將全體共有人均列為申請人。\n四、至分別共有者，因分別共有得個別申請賦稅優惠，爰農用證明係就其應有部分審認核發，申請人亦得為土地所有權人或權利關係人。惟如擬申請土地其他部分之農用證明，則應檢具相關文件證明為其他應有部分土地所有權人之權利關係人，以供審核。\n五、另，農用證明之申請得由申請人授權代理人辦理，其不涉及前開說明之權利關係，惟須檢附申請人授權書據以辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5136",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:56+08:00",
+   "source_key": "rmis:5136"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "626975bd4d019d71753c01cb6f625348eb87561c5a64ec877db8d30d2312dca8",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

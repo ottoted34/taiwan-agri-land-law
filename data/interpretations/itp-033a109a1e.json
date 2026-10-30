@@ -1,0 +1,54 @@
+{
+ "id": "itp-033a109a1e",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020233586號",
+ "date": "2013-10-11",
+ "date_text": "102/10/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "都市計畫主管機關依農業發展條例第38條之1規定審核發給證明文件疑義案。",
+ "content": "主旨：檢送內政部說明都市計畫主管機關依農業發展條例第38條之1規定審核發給證明文件疑義案之函文1份(如附件1)，請查照。\n說明：\n一、依據內政部102年9月30日內授營都字第1020810305號函副本辦理。\n二、查農業發展條例第38條之1(以下簡稱本條)於99年12月8日公布施行，其主要內容係參依同條例施行細則第14條之1，以提升其法律位階，並修正相關內容俾利實務執行；復依本條立法說明，土地是否符合第1項第1款或第2款規定，係由都市計畫主管機關認定並核發審認文件。則依該部前揭函說明，適用本條規定得申請賦稅減免之土地，應以符合本條第1項第1款或第2款規定情形為限，並由都市計畫主管機關會同建築管理機關認定後，於其所核發之「土地使用分區證明書」內註明，合先敘明。\n三、至申請土地應以現行或歷次都市計畫符合本條第1項第1款或第2款並據以認定，查內政部前揭函援引本會99年4月22日農企字第0990010197號函一節，經查該項認定係依財政部99年6月28日台財稅字第09900174700號函略以：「原為農業用地，經多次變更為非農業用地者，應以歷次變更後均符合該細則第1款或第2款規定之要件時始有其適用。」之函示規定辦理，併予澄明(附財政部上開函影本供參，如附件2)。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5041",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:14+08:00",
+   "source_key": "rmis:5041"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "08ee1a866a9ee5dbbd397540f2a8293d22624bd8ce78e104c815c5d2f3b08688",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "38-1",
+   "kind": "extracted",
+   "snippet": "都市計畫主管機關依農業發展條例第38條之1規定審核發給證明文件疑義案。\n主旨:檢送內政部說明都市計畫主管機關依農業發展條例"
+  }
+ ]
+}

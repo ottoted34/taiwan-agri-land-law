@@ -1,0 +1,64 @@
+{
+ "id": "itp-5df0bb9c89",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000176146號",
+ "date": "2011-12-07",
+ "date_text": "100/12/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "已興建農舍有案之都市計畫農業區土地，經分割後再行申請農業設施容許使用之審查疑義案",
+ "content": "主旨：有關 貴府函詢已興建農舍有案之都市計畫農業區土地，經分割後再行申請農業設施容許使用之審查疑義案，復請 查照。\n說明：\n一、復 貴府100年11月28日屏府農企字第1000297803號函。\n二、依都市計畫法臺灣省施行細則第29條第2項規定：「都市計畫農業區內之農業用地，其已申請建築者(包括10%農舍面積及90%之農業用地)，主管建築機關應於都市計畫及地籍套繪圖上著色標示之，嗣後不論該90%農業用地是否分割，均不得再行申請興建農舍」，按上開規定係規範都市計畫農業區內之農業用地興建農舍後，不得再行重複申請興建農舍，至其餘農業用地擬申請興建農業設施，貴府則應依「申請農業用地作農業設施容許使用審查辦法」之規定，視農業生產經營之必要性及合理性，依個案生產之實務需要及事實，本於職權予以核處，查本會前於100年11月10日以農企字第1000168843號函復 貴府有案，合先敘明。\n三、至本案 貴府來函所詢之甲地號建有合法農舍，另乙、丙地號申請農業設施容許使用，倘甲地號之農舍已有增建、擴建，乙地號已建有未經申請之住宅房舍，而有違反都市計畫法規定之情形，貴府自應依該規定予以裁處，至丙地號擬申請農業設施容許使用，仍請 貴府依「申請農業用地作農業設施容許使用審查辦法」之規定，予以審查，倘有違反相關法令規定之情形，自應依前開審查辦法第7條第9款規定，不予同意。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5102",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:11+08:00",
+   "source_key": "rmis:5102"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "2c791e382dea23766543f203feb89a8ed0bf20cb5a927953a24e1f40acb3522e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "複申請興建農舍,至其餘農業用地擬申請興建農業設施,貴府則應依「申請農業用地作農業設施容許使用審查辦法」之規定,視農業生產經營之必要性及合理性,依個案生產之實務需要及事實,本於職權予以"
+  }
+ ]
+}

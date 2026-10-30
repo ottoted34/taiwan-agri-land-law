@@ -1,0 +1,56 @@
+{
+ "id": "itp-05978b1fca",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090722893號",
+ "date": "2020-08-18",
+ "date_text": "109/8/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農舍及其坐落用地移轉之法令規定案",
+ "content": "一、復貴學會 109年8月7日109天道字第 06號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，爰農業發展條例(以下簡稱本條例)第 18條規定，無自用農舍而需興建者，得申請興建農舍，又農舍應與其坐落用地併同移轉或併同設定抵押權，以確保農業經營之合理與效率，先予敘明。\n三、至有關農舍坐落農業用地及其農舍之併同移轉對象資格條件，本會 95年12月27日農企字第 0950172203號已函示應為無自用農舍之現耕農或農民身分，而依本條例第 3條第 3款規定，農民係指直接從事農業生產之自然人；另本會 96年3月14日農授水保字第 0961848173號函重申農舍承受人應符合無自用農舍條件，爰農舍移轉對象須符合上開之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4755",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:05+08:00",
+   "source_key": "rmis:4755"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "08b57d70f28dd02afa8729bdc4e86515e93078267a74722deec176429fdd7348",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ";且於農業用地興建農舍係為許可之行為,應有積極農用之事實,爰農業發展條例(以下簡稱本條例)第 18條規定,無自用農舍而需興建者,得申請興建農舍,又農舍應"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "itp-ceaf2b846b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990114518號",
+ "date": "2010-03-31",
+ "date_text": "99/3/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "太麻里地區農會依本會農糧署農糧產業重建計畫之補助，於都市計畫農業區申請興建集貨場及倉庫之核准使用案，是否須繳交農業用地變更回饋金之疑義案。",
+ "content": "主旨：有關 貴府函詢太麻里地區農會依本會農糧署農糧產業重建計畫之補助，於都市計畫農業區申請興建集貨場及倉庫之核准使用案，是否須繳交農業用地變更回饋金之疑義案，復請 查照。\n說明：\n一、復 貴府99年3月3日府農務字第0993007495號函。\n二、依據農業發展條例第12條規定：「第10條第1項用地之變更，應視其事業性質，繳交回饋金」，查同條例第10條第1項所稱用地之變更，係農業用地於劃定或變更為非農業使用時均屬之。至於同條例第12條第4項第2款所稱之「政府興辦之農村建設及農民福利設施」，得免繳交回饋金，係限定由「政府興辦」，且為「農村建設及農民福利設施」者，方能適用。\n三、對於都市計畫農業區申請核准作為農業設施容許使用項目外之農業產銷必要設施，因該類設施已非農業設施容許使用之範疇，查本會前於98年12月3日農企字第0980172541號函說明略以：「...應依農業用地變更回饋金撥繳及分配利用辦法規定第3條之規定，繳交回饋金」有案。本案雖為本會農糧署補助太麻里地區農會興辦之補助案件，然因集貨場與倉庫興建之申請及後續經營管理之主體均為該農會，無法認屬「政府興辦」之農村建設及農民福利設施，故本案仍請依法繳交農業用地變更回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5396",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:06+08:00",
+   "source_key": "rmis:5396"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "40c54717dcb405323f1846f41e11f61accff9ad60db150187717775ee038c9fe",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "99年3月3日府農務字第0993007495號函。\n二、依據農業發展條例第12條規定:「第10條第1項用地之變更,應視其事業性質,繳交回饋金」,查同條例第10條"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月3日農企字第0980172541號函說明略以:「...應依農業用地變更回饋金撥繳及分配利用辦法規定第3條之規定,繳交回饋金」有案。本案雖為本會農糧署補助太麻里地區農會興辦之補"
+  }
+ ]
+}

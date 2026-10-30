@@ -1,0 +1,81 @@
+{
+ "id": "itp-b1b67eaa28",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020222257號",
+ "date": "2013-08-09",
+ "date_text": "102/8/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "山坡地舊有砌石駁坎是否應補辦農業設施容許使用之疑義案。",
+ "content": "主旨：有關貴局函詢山坡地舊有砌石駁坎是否應補辦農業設施容許使用之疑義案，復請查照。\n說明：\n一、復貴局102年7月4日北農牧字第1022185854號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」第3條規定之農業設施種類，並無包括水土保持設施。復查農業發展條例第3條第12款明定「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、『保育』及設置相關之農業設施或農舍使用者。」所稱「保育」應係指為維護國土保安、水土保持等需要而設置之設施，是以，本會前於98年4月22日以農企字第0980123169號(如附件)函釋略以：「山坡地施設之駁坎或擋土牆如係經縣府審認核准之水土保持設施，仍得認定符合作農業使用之審認，無須另行申請農業設施容許使用」在案。故本案貴府所詢山坡地舊有砌石駁坎，倘經認屬為水土保持設施，得認定符合作農業使用，無須另行申請農業設施容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4920",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:54+08:00",
+   "source_key": "rmis:4920"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "3",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "aca2a9aced356715eb33293ea69d94fb8b73b5ff7b2392b7d5ff28017c8e2932",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "102年7月4日北農牧字第1022185854號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」第3條規定之農業設施種類,並無包括水土保持設施。復查農業發展條例第3條第12款明定「農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "查辦法」第3條規定之農業設施種類,並無包括水土保持設施。復查農業發展條例第3條第12款明定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、『保育』及設"
+  }
+ ]
+}

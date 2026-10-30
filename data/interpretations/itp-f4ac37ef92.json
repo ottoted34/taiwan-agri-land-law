@@ -1,0 +1,66 @@
+{
+ "id": "itp-f4ac37ef92",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030244367號",
+ "date": "2014-12-25",
+ "date_text": "103/12/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "法院選任為管理人(公司法人)申請核發農業用地作農業使用證明書，其申請人資格疑義案。",
+ "content": "主旨：有關貴府函詢法院選任為管理人(公司法人)申請核發農業用地作農業使用證明書，其申請人資格疑義案，復請查照。\n說明：\n一、依據財政部賦稅署103年12月15日臺稅財產字第10304656810號函辦理。\n二、依農業用地作農業使用認定及核發證明辦法第3條規定，農業用地作農業使用證明書(以下簡稱農用證明)係作為不課徵土地增值稅、免徵遺產贈與稅或申請興建自用農舍之用途。另依第10條第4項規定「申請人非土地所有權人時，應通知土地所有權人到場。」即農用證明之申請核發，申請人得為土地所有權人、承受人或其他權利關係人均得依規定申請。為避免農用證明任意申請引發後續爭議，本案所稱法院選任之管理人，得否認屬上開權利關係人，倘依相關稅法規定得為上開賦稅優惠申請主體，自得申請核發農用證明，爰建請貴府逕洽該管稅捐稽徵機關協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5343",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:47+08:00",
+   "source_key": "rmis:5343"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "3",
+    "amended_on": "2016-02-15",
+    "history": "中華民國105年02月15日農委會農企字第1050012067A號令修正發布第3條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "5eaa57e0aef0c4dc538960a6873291d051ab33361896db0a3ab9adf5322d8b3c",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "月15日臺稅財產字第10304656810號函辦理。\n二、依農業用地作農業使用認定及核發證明辦法第3條規定,農業用地作農業使用證明書(以下簡稱農用證明)係作為不課徵土地增值稅、免徵遺"
+  }
+ ]
+}

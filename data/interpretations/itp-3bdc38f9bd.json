@@ -1,0 +1,58 @@
+{
+ "id": "itp-3bdc38f9bd",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1030011498號",
+ "date": "2014-03-03",
+ "date_text": "103/3/3",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關農舍配用農地解除套繪執行疑義1案，請 查照。",
+ "content": "一、依據行政院農業委員會水土保持局103年2月21日水保農字第1031803550號函(諒達)辦理。\n二、本案前經本署103年2月14日營署建管字第1030008043號函復貴府在案，按「查本案○○○建議應修法禁止農舍與農地分開買賣1節，本案如屬10公里範圍內耕地合併計算建築面積之農舍案件，其配合耕地移轉規範，本會尚無意見......。」為行政院農業委員會102年3月18日農授水保字第1021865272號函(如附件)所示，如有疑義，請逕向該會洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3839",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:59+08:00",
+   "source_key": "rmis:3839"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "2368a9449d2d99f806ca9766ffd9ceffaaf52ba3b2cbc7d09d62bd5687633158",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

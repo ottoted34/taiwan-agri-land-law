@@ -1,0 +1,54 @@
+{
+ "id": "itp-8df03b5f97",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051803995號",
+ "date": "2016-04-18",
+ "date_text": "105/4/18",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關「農業用地興建農舍辦法」第9條第2項第5款農舍放流水規定審查疑義案，請查照。",
+ "content": "一、復貴府105年4月8日屏府農企字第10504457300號函。\n二、旨揭辦法第9條第2項第5款規定所稱之農舍放流水係指經建築物污水處理設施處理過，且應排入排水溝渠，是以並無以集水池(私人水體)提供農舍放流水排入之情形。\n三、另有關審查單位為何，應屬貴府內部業務劃分範疇。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3241",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:19+08:00",
+   "source_key": "rmis:3241"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d1bc51803445bef66adc3d034f5e3a34c9477f959790e550cbd493e0b7005b54",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關「農業用地興建農舍辦法」第9條第2項第5款農舍放流水規定審查疑義案,請查照。\n一、復貴府105年4月8日屏府農"
+  }
+ ]
+}

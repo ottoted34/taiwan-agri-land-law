@@ -1,0 +1,54 @@
+{
+ "id": "itp-545ffbddd6",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051830521號",
+ "date": "2016-06-24",
+ "date_text": "105/6/24",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局依農業用地興建農舍辦法會同專家、學者會勘，認貴市美濃區○○○地號之申請人○○○是否為農民一案，復如說明，請查照。",
+ "content": "一、復貴局105年5月30日高市農務字第10531426200號函暨○○○105年6月4日陳情書。\n二、依本會104年10月21日農水保字第1041866479號所提供之審查參考原則及注意事項，有關「既有農業經營現況及規模，依規定農地取得應滿2年始得申請，其目的在於要求申請人應有2年實際從事農業事實，須有實績始得認定有農業經營需要而申請。」，爰申請興建農舍之申請人具2年實際從事農業事實確為審查要件。\n三、依貴局來函說明二，該案會勘結果「農地現況經營與興建農舍經營計畫書不符...未能具體、正確述明作物之栽培管理情形，歉難判定地主係實際從事農業生產耕作者」，其是否即認定過去2年內均無經營實績等情形，應視審查當時情形及駁回之具體事由而定，爰該案得否補正、得立即或一段時間後再予以重新受理申請，係屬貴局之權責。另建議貴局後續審查案件時，得一併敘明審認結果、駁回事由及申請人不服得予以續處等事項。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3370",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:58+08:00",
+   "source_key": "rmis:3370"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2fd84feaa0b829697fb05c96b39a1a04c663f1323788068fb5912745b6df4ed6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴局依農業用地興建農舍辦法會同專家、學者會勘,認貴市美濃區○○○地號之申請人○○○是否為農民一案,復如說明"
+  }
+ ]
+}

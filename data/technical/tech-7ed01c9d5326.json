@@ -1,0 +1,42 @@
+{
+ "id": "tech-7ed01c9d5326",
+ "source_key": "datamoa:740:e2108681555971b0",
+ "title": "芽苗菜培育及食譜利用",
+ "series": "技術專刊",
+ "issue": "技術專刊85-2(NO.66)",
+ "agency_id": "tndais",
+ "authors": "方新政、李月寶、魏怡菁",
+ "date": "1996-12",
+ "url": "http://book.tndais.gov.tw/Brochure/tech66.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "67頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊85-2(NO.66)",
+  "題目": "芽苗菜培育及食譜利用",
+  "作者": "方新政、李月寶、魏怡菁",
+  "出版日期年月": "08512",
+  "頁數": "67頁",
+  "定價": "100",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech66.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech66.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T10:26:45+08:00"
+  }
+ ],
+ "content_hash": "b61a54e3f5125a8d9ab35c35ea62348ee4d3211d5f2ad5e5d749592983e88bd8",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

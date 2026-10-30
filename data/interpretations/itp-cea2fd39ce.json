@@ -1,0 +1,64 @@
+{
+ "id": "itp-cea2fd39ce",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030057359號",
+ "date": "2014-09-03",
+ "date_text": "103/9/3",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府建議辦理興建農舍之農業用地稽查作業相關事宜1案，復如，說明。",
+ "content": "一、復 貴府103年8月22日屏府農企字第10325842300號函。\n二、本案前以103年8月11日營署綜字第1032913602號函(已諒達)就本署業管法令，提供相關執行方式供 貴府參考。至於貴府建議於「農業發展條例」明定強制進入建物與其毗連農業經營用地檢查權之法源，因該法令主管機關為行政院農業委員會，仍請依該會相關意見辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3804",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:49+08:00",
+   "source_key": "rmis:3804"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "76720dbf7239da6b8bd2e38de50bb79fa93d30be8ffdaf892dff4de1f8c41f45",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "就本署業管法令,提供相關執行方式供 貴府參考。至於貴府建議於「農業發展條例」明定強制進入建物與其毗連農業經營用地檢查權之法源,因該法令主管機關為行政院農業委"
+  }
+ ]
+}

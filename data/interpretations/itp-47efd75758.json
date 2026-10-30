@@ -1,0 +1,80 @@
+{
+ "id": "itp-47efd75758",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1031008135號",
+ "date": "2014-05-29",
+ "date_text": "103/5/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：貴局函詢申請農業用地作農作產銷設施「農事操作及管理設施-曬場」容許使用審查疑義案，復請查照。\n說明：\n一、依據本會103年5月22日農企字第1030216009號函、本會水土保持局103年5月26日水保農字第1031810771號函辦理，並復貴局103年5月6日北農牧字第1030819719號函。\n二、查申請農業用地作農業設施容許使用審查辦法第13條附表1所定曬場申請基準或條件規定：「最大興建面積660平方公尺。」有關申請人申請設置曬場，允由貴局依其經營計畫內容，審酌其合理性及必要性，就個案事實本權責核處。\n三、另查農業用地興建農舍辦法第9條第2項第3款規定略以，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積之10%，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積之90%。爰農業用地上農舍為連接現有道路所鋪設之硬鋪面，倘僅作為農舍通行之用，而非農業生產所需者，不宜認屬為農作產銷設施，應歸為「農舍附屬設施」，其面積應併入農舍用地面積檢討。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5477",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:41+08:00",
+   "source_key": "rmis:5477"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "743cd8acf417b3a57d4f371a1deb7bb0a9fe08e63166f4f7f0249bf12008802b",
+ "topics": [
+  "paving",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "103年5月6日北農牧字第1030819719號函。\n二、查申請農業用地作農業設施容許使用審查辦法第13條附表1所定曬場申請基準或條件規定:「最大興建面積660平方公尺。」有關申請人申請"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "內容,審酌其合理性及必要性,就個案事實本權責核處。\n三、另查農業用地興建農舍辦法第9條第2項第3款規定略以,申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地面"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "id": "itp-a39d522be6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000112080號",
+ "date": "2011-03-16",
+ "date_text": "100/3/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請興建農舍之農業用地，因尚未辦理徵收之鄉道佔用部分土地，致扣除道路佔用面積後，該宗農業用地面積小於0.25公頃，是否符合「農業用地興建農舍辦法」第3條規定疑義乙案，復請 查照。",
+ "content": "一、復 貴府100年2月24日屏府農務字第1000048720號函。\n二、本會100年2月23日農授水保字第1000108635號函略以：「單筆農業用地原有面積0.25公頃以上，因現有道路通過，致該筆土地扣除道路面積後未達0.25公頃者，得由縣市主管機關依個案事實審認受理興建農舍之申請。提出申請之農業用地，仍應依「農業用地興建農舍辦法」第9條規定註記列管，且道路用地不得提供農舍興建（計算建築面積佔農業用地面積之比例）」。係基於現有道路確供公眾通行必要之事實，考量保障土地所有權人依地籍現況原得申請興建農舍之權益，認該等土地所有權人申請興建農舍時，得於道路佔用面積不計入提供農舍興建之農地面積前提下申請興建，惟個案狀況不一，仍宜由縣市主管機關依個案事實審認之。\n三、另農業發展條例89年1月28日修正施行後取得之農業用地，因公共設施需要徵收土地，致面積小於0.25公頃者申請興建農舍，因政府已依土地徵收條例規定，發給原地主徵收補償金（地價、建築改良物、農作改良物、土地改良物等），基於公平原則及內政部93年8月2日台內營字第0930009288號函示：「農業發展條例89年1月28日修正施行後取得之農業用地，依法被徵收，並無農業用地興建農舍辦法第3條第3項、第4項之適用」意旨，申請興建農舍仍應依前開辦法規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=1861",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:05+08:00",
+   "source_key": "rmis:1861"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "0cc38ca661b53df79dac85adce12b0bc55e3c1a81a0b255e1638cb81d1a531c1",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "除道路佔用面積後,該宗農業用地面積小於0.25公頃,是否符合「農業用地興建農舍辦法」第3條規定疑義乙案,復請 查照。\n一、復 貴府100年2月24日屏府農務字第10000"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "依個案事實審認受理興建農舍之申請。提出申請之農業用地,仍應依「農業用地興建農舍辦法」第9條規定註記列管,且道路用地不得提供農舍興建(計算建築面積佔農業用地面積之比例)」。"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "惟個案狀況不一,仍宜由縣市主管機關依個案事實審認之。\n三、另農業發展條例89年1月28日修正施行後取得之農業用地,因公共設施需要徵收土地,致面積小於0."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-3715fe9ae6",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100200456號",
+ "date": "2021-01-19",
+ "date_text": "110/1/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請興建農舍之農業用地土地取得時點，得否追溯至共有物持有最早時間疑義",
+ "content": "一、復貴府 110年1月5日屏府農企字第 10961251600號函。\n二、因辦理共有物分割致使土地登記謄本所有權部登記日期異動，其農舍興建資格審查疑義，本會前於 109年11月20日以農企字第 1090249539號函 (諒達 )說明在案，先予敘明。\n三、依貴府來文及所附土地謄本資料顯示，旨揭地號土地於分割前已有興建農舍，且套繪管制有案；查農業發展條例第 18條第4項規定：「．．．已申請興建農舍之農業用地不得重複申請。」，次查農業用地興建農舍辦法第 2條第 5款規定：「申請人為該農業用地之所有權人，且該農業用地應確供農業使用及屬未經申請興建農舍者；．．．」、同辦法第 9條第 6款規定：「同一筆農業用地僅能申請興建一棟農舍，．．．」。綜上，農業用地興建農舍不得重複申請，且一筆土地以一棟農舍為限，請貴府依上開原則審核興建農舍資格；至旨揭地號土地有否仍受套繪管制，請貴府洽建築及地政相關單位洽詢。\n四、基於個案審查係屬直轄市、縣 (市 )政府之權責，請貴府參照上開原則，依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5651",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:22+08:00",
+   "source_key": "rmis:5651"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "421d4ee185064b160bb28a1c2980dfdae557081b4af071ebffa44d0ced406552",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "料顯示,旨揭地號土地於分割前已有興建農舍,且套繪管制有案;查農業發展條例第 18條第4項規定:「...已申請興建農舍之農業用地不得重複申請。」,次查農業用地興建農"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "規定:「...已申請興建農舍之農業用地不得重複申請。」,次查農業用地興建農舍辦法第 2條第 5款規定:「申請人為該農業用地之所有權人,且該農業用地應確供農業使用及屬未經"
+  }
+ ]
+}

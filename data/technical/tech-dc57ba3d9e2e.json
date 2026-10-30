@@ -1,0 +1,38 @@
+{
+ "id": "tech-dc57ba3d9e2e",
+ "source_key": "datamoa:D97:a47da9f5e968c077",
+ "title": "技術專刊 59",
+ "series": "技術專刊",
+ "issue": "59",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=6933",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "59",
+  "出刊年月": "201510",
+  "期刊名稱": "有機柑桔多元利用",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=6933"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T10:26:56+08:00"
+  }
+ ],
+ "content_hash": "e80ed0be24d5ec6d89a83213c33ef46f8e68e5e1477beb8d24e8957f5a244f91",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

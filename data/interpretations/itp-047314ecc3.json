@@ -1,0 +1,73 @@
+{
+ "id": "itp-047314ecc3",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970174396號",
+ "date": "2009-01-07",
+ "date_text": "98/1/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "008 釋農業發展條例施行細則第14條之1土地之農業設施應如何審理",
+ "content": "查內政部營建署97年4月1日營署都字第0970017141號函釋略以：「按符合農業發展條例施行細則第14條之1規定之土地，已變更為非農業區或保護區之其他使用分區，如擬作新使用或設置新設施，不得違反該變更後之土地使用分區管制規定...」。是以，旨揭土地得否申請興建農業設施宜請逕洽 貴府都市計畫單位。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5004",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:18+08:00",
+   "source_key": "rmis:5004"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d50452604ef29c55683a8cbc2ab6c50bee260e8ceb5445f6cfc829e6e49f09b2",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "14-1",
+   "kind": "extracted",
+   "snippet": "008 釋農業發展條例施行細則第14條之1土地之農業設施應如何審理\n查內政部營建署97年4月1日營署都字第09700171"
+  }
+ ]
+}

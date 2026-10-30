@@ -1,0 +1,68 @@
+{
+ "id": "itp-92c13a30f1",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960135142號",
+ "date": "2007-07-04",
+ "date_text": "96/7/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農牧用地興建畜牧設施，為穩固基礎及防止雨季積水等之填土疑義案。",
+ "content": "主旨：有關　貴府函詢農牧用地興建畜牧設施，為穩固基礎及防止雨季積水等之填土疑義案，復請　查照。\n說明：\n一、復　貴府96年6月25日屏府農畜字第○○○○○號函辦理。\n二、查本會於94年6月16日農企字第0940130614號函說明略以：「．．．本案遭挖取土石方後再載運建工程賸餘廢棄土填造一節，為確保農業生產環境之完整，避免地下水或土壤污染，本會多次函釋農地填土之來源應為適合種植農作物之土壤，不得為砂、石、磚、瓦、混凝土、營建賸餘土石方或其他有害物質等，．．．」有案，合先敘明。\n三、至於　貴府已核准同意興建畜牧設施之農業用地，因建築整地之需要，有墊高地基回填土石方之需求，以穩固基礎等情，仍應請依　貴府建築管理相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5287",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:32+08:00",
+   "source_key": "rmis:5287"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "246dcad017419ce19ffba8c4819d852551a6285c426e84cc6b68becc21a0d8be",
+ "topics": [
+  "landfill",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

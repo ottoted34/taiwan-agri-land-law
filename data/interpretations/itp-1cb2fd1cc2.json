@@ -1,0 +1,48 @@
+{
+ "id": "itp-1cb2fd1cc2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040734270號",
+ "date": "2015-11-19",
+ "date_text": "104/11/19",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴轄民眾陳情申請興建農舍之該筆地號有無償提供施作農再設施，其農舍面積計算疑義案，請查照。",
+ "content": "一、依據○○○104年11月4日陳情書辦理，兼復貴府104年11月11日府農農字第1040232166號函。\n二、有關農舍及其附屬設施應設置在10%農舍用地上，係為維持90%供農業生產使用面積，以維持農業經營規模及避免徒有農舍卻無供農業經營面積之不合理情形。\n三、至於興建農舍之該筆農地上有無償提供供公眾使用之農再設施者，參照行政院農業委員會100年2月23日農授水保字第1000108635號函意旨，農業用地因現有道路通過，扣除道路面積後未達0.25公頃，得由縣市主管機關依個案事實審認受理興建農舍之申請，且道路用地應不得提供農舍興建計算建築面積佔農業用地面積之比例，以及本會104年10月13日水保農字第1041887154號函(正本諒達)，略以：「...至申請地號基地內有供公眾使用之擋土設施。且未與建築物共構者，與前述擋土牆性質不同，尚無須計入農舍用地面積內計算。」等函釋，有關申請興建農舍之該筆農業用地其面積在0.25公頃以上，如因無償提供施設農再設施，該農再設施之面積尚無須計入農舍用地面積內計算，惟應先扣除農再設施所占面積後，再以賸餘面積計算農舍比例。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3628",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:43+08:00",
+   "source_key": "rmis:3628"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fc1a867f175109ef79c5cf6faed0679bdff2755be394510744da796ba241f20c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "itp-a6db147b72",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020218953號",
+ "date": "2013-06-18",
+ "date_text": "102/6/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地設定不動產役權供停車場通行使用，是否符合土地使用管制疑義案。",
+ "content": "主旨：有關農業用地設定不動產役權供停車場通行使用，是否符合土地使用管制疑義案，復請查照。\n說明：\n一、依據內政部102年6月10日內授中辦地字第1026035309號函(如附件)辦理並復貴府102年5月8日府農農字第1020085891號函。\n二、依內政部前開號函說明略以：「不動產役權為用益物權之一種，用益物權係以支配標的物之用益價值為內容，亦即占有標的物為使用或收益，故該設定不動產役權登記之使用目的仍不得違反非都市土地使用管制相關法令之規定。」復依非都市土地使用管制規則第6條第3項附表一規定，農路為農牧用地容許使用項目之一，並僅限於農業經營所需，爰未符農路設置之容許使用規定，亦不得以設定不動產役權登記達其使用目的。\n三、綜上，本案擬於農牧用地上設置農路供作停車場通行使用，既經貴府101年12月14日府農農字第1010250370號函說明，核與農路係為配合當地農牧業發展所必要者且為所經營之農牧業生產有直接關係者之用途及目的未合，故依法應不予同意容許使用，則無以設定不動產役權設置農路使用之適法性。爰本案倘有違反前開管制規則規定，自得依農業發展條例第69條規定處理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4919",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:12+08:00",
+   "source_key": "rmis:4919"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "83169ef74b6be7034842b4b54603b01d59f893aef7541ef055df4e45723f0183",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "69",
+   "kind": "extracted",
+   "snippet": "設置農路使用之適法性。爰本案倘有違反前開管制規則規定,自得依農業發展條例第69條規定處理。"
+  }
+ ]
+}

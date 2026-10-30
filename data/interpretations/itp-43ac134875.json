@@ -1,0 +1,53 @@
+{
+ "id": "itp-43ac134875",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132607196號",
+ "date": "2024-05-21",
+ "date_text": "113/5/21",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢依申請農業用地作農業設施容許使用審查辦法第30條申請免與農業經營使用相結合之綠能設施疑義案，復如說明，請查照。",
+ "content": "一、查申請農業用地作農業設施容許使用審查辦法（以下簡稱容許辦法）第27條第3項規定：「依第29條及第30條規定申請綠能設施之容許使用者，搭建基樁應以點狀方式施作，不得改變原地形地貌，並維持適當日照穿透，以避免影響土壤地力，且不得影響鄰地之農業使用與生產環境。」，其立法意旨係為避免綠能設施搭建方式影響該農地之土壤地力及周遭鄰地之農業經營使用，同時為兼顧未來綠能設施移除後恢復農業使用之可行性。\n二、依貴府來函及附件，依容許辦法第30條申請免與農業經營使用相結合綠能設施之土地與鄰地係為共通水域或魚塭，則應請申請人就綠能設施之設置是否影響鄰地之養殖使用與生產環境、因應措施、如何確保鄰地之土地所有權人權益等事項於經營計畫敘明，並由貴府就其合理性及必要性予以審認。如有影響者，貴府自得依容許辦法第6條第1項第2款及第4款規定予以核處。\n三、至於來函附件所提「申請人是否應負有義務確保其申請土地範圍內不可有農業經營之情事」一節，查容許辦法第30條係規範於該條所定區位內之綠能設施，不限應與農業經營使用相結合，尚非綠能設施不得結合農業經營使用。倘申請人依該條規定申設綠能設施，並於其土地範圍內從事農業生產經營使用，尚無違反容許辦法相關規定之情形，併予敘明。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5973",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:32+08:00",
+   "source_key": "rmis:5973"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3370f60be35b569fdc385936ebbafb437b51c97d235ea2da5ae95cc47cfbb9c1",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "有關貴府函詢依申請農業用地作農業設施容許使用審查辦法第30條申請免與農業經營使用相結合之綠能設施疑義案,復如說明,請查照。\n一、查申請農業用"
+  }
+ ]
+}

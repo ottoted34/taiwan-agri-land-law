@@ -1,0 +1,54 @@
+{
+ "id": "itp-1e7445918f",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041884588號",
+ "date": "2015-09-17",
+ "date_text": "104/9/17",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "關於依農業用地興建農舍辦法審查申請人之農業用地取得時間認定疑義案，復請查照。",
+ "content": "一、復貴局104年7月30日中市農地字第1040025176號函。\n二、有關申請興建農舍之土地取得時點，行政院農業委員會依據民法及土地法規定，前以101年6月29日農水保字第1011865000號令核釋有案，其後並以102年10月25日農水保字第1021866046號令補充規定，先予敘明。\n三、至於共有物之分割，依民法824條之1規定:「共有人自共有物分割之效力發生時起，取得分得部分之所有權。」，是以共有農業用地分割為單獨所有者，其土地取得時點均採移轉主義，即應自分割效力發生時生效，而不溯及於共有關係發生時。惟如本條例89年1月28日修正施行前之共有耕地，於修正施行後分割為單獨所有者，雖其土地所有權部登記日期已變動為辦理共有物分割之日期，仍得適用本條例第18條第3項規定申請興建農舍。然上述例外規定僅就完全符合該項條文規定條件者適用之，如於共有耕地辦理分割為單獨所有後，續又進行其他土地處分者，應回歸前述說明二原則辦理審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3502",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:45+08:00",
+   "source_key": "rmis:3502"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "206f5da1bd57559dd2b708f0c3158d734d0c3555dbcf4300f602bf76d3abbabb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "關於依農業用地興建農舍辦法審查申請人之農業用地取得時間認定疑義案,復請查照。\n一、復貴局104年7月30日"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "itp-082d07995e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960149929號",
+ "date": "2007-09-14",
+ "date_text": "96/9/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關提供規劃平地砂石開發之高雄縣○○農場土地，因屬「特定專用區農牧用地」，需以容許使用或變更用地方式採取土石案。",
+ "content": "主旨：有關○○股份有限公司提供規劃平地砂石開發之高雄縣○○農場土地，因屬「特定專用區農牧用地」，需以容許使用或變更用地方式採取土石一案，復如說明，請　查照。\n說明：\n一、復　貴部96年9月4日經授務字第○○○○○號函。\n二、按區域計畫法第15條第1項規定，「非都市土地使用管制規則」由中央主管機關內政部定之，作為非都市土地分區編定、限制使用並予管制之依據。依據內政部92年8月4日內授中辦地字第0920012011號函示：「農牧用地雖容許採取土石，惟所採取之土石應與當地農業生產或設施使用有關，並應徵得農業主管機關同意後始可辦理，否則應循變更編定程序辦理。」上開農牧用地並不限位於何種使用分區，均有適用。\n三、惟「特定專用區農牧用地」辦理變更使用，並不須受到本會訂頒「農業主管機關同意農業用地變更使用審查作業要點」第6點及第7點之規範，故如經目的事業主管機關核准其事業計畫者，得同意申請變更使用。另有關隔離綠帶或隔離設施之設置寬度，如各目的事業主管機關訂有審查規範，依其規範應留設綠地或保育地等，其具有隔離效果者，依其規定辦理；未有規定者，比照一般農業區之配置原則辦理，以適用較寬鬆之規定及徵詢農業主管機關同意程序。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5225",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:04+08:00",
+   "source_key": "rmis:5225"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "cef2739235a0ae394c72052c146cbd3985544d1424ed675a543fe6e4ab51e4b6",
+ "topics": [
+  "landfill",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "三、惟「特定專用區農牧用地」辦理變更使用,並不須受到本會訂頒「農業主管機關同意農業用地變更使用審查作業要點」第6點及第7點之規範,故如經目的事業主管機關核准其事業計畫者,得同意申請變更使用"
+  }
+ ]
+}

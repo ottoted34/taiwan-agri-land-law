@@ -1,0 +1,82 @@
+{
+ "id": "itp-d93c143c5a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990163096號",
+ "date": "2010-10-08",
+ "date_text": "99/10/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "取得農業用地容許作農業設施使用同意書，並經申請建築執照後又自行申請撤銷建築執照，其容許使用同意書得否廢止之疑義案。",
+ "content": "主旨：有關 貴局函詢○○○於○年○月○日取得農業用地容許作農業設施使用同意書，並經申請建築執照後又自行申請撤銷建築執照，其容許使用同意書得否廢止之疑義案，復請 查照。\n說明：\n一、復 貴局○年○月○日北農牧字第○○○○○號函。\n二、依據 貴府來函所述，本案○○○之農業用地容許作農業設施使用同意書(以下簡稱使用同意書)係於○年○月○日核發，○君雖係依規定在6個月屆期前，於○年○月○日提出建築執照之申請，惟後於同年○月○日經 貴府依其申請准予撤銷該申請案。該案既經「撤銷」則溯及自始無效，非能認定○○○符合於6個月內提出建築執照之申請。先予敘明。\n三、次言之，本案若未於6個月內提出建築執照之申請，則應再論是否有依規向 貴府申請展延6個月，且依時限內完成建築執照之申請。若未依規定申請展延使用同意書或未於期限內申請建築執照，依現行「申請農業用地作農業設施容許使用審查辦法」第25條第1項(修正前辦法第22條)於使用同意書明敘上開規定，屬附有期限附款之行政處分，則無待主管機關另為廢止之行政處分，於期限屆滿即失其效力。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5423",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:26+08:00",
+   "source_key": "rmis:5423"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "25",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "25",
+    "amended_on": "2020-11-12",
+    "history": "中華民國109年11月12日行政院農業委員會農企字第1090013497A號令修正發布第25、29條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d33e8707d78eee1775049e75d0a616db31557f79bd432716be63ef5a558b3e37",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "25",
+   "kind": "extracted",
+   "snippet": "若未依規定申請展延使用同意書或未於期限內申請建築執照,依現行「申請農業用地作農業設施容許使用審查辦法」第25條第1項(修正前辦法第22條)於使用同意書明敘上開規定,屬附有期限附款之行政處分,"
+  }
+ ]
+}

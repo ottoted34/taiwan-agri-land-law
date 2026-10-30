@@ -1,0 +1,57 @@
+{
+ "id": "itp-554f4a532d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100702501號",
+ "date": "2021-02-09",
+ "date_text": "110/2/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "受農業資材室套繪之農業用地申請興建農舍資格疑義",
+ "content": "一、復貴府 110年1月19日府農務字第 1100012793號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍。又依申請農業用地作農業設施容許使用審查辦法規定，農業用地已興建農舍者，不得申請興建農業資材室，其立法理由考量農舍已有農業資材室及管理室之使用性質，先予敘明。\n三、經查本案農業資材室 (坐落土地：○○○地號 )可興建面積係合併計算鹿港鎮○○○、○○○及○○○地號等 3筆地號土地，如申請人擬於其中 1筆土地 (○○○地號 )上興建農舍，基於農舍可涵蓋農業資材室與管理室等 2種農業設施之功能，爰建議貴府應請申請人確依農業用地之農業經營需求，重新評估原農業資材室經營計畫內容合理性；至本案倘有於上述其中 1筆地號農業用地興建農舍需求，仍應視其與農業經營之連結，就既有農業資材室之容許使用面積檢討修正外，並應審核案內農舍興建申請之必要性為妥。\n四、基於個案審查係屬直轄市、縣 (市 )政府之權責，請貴府就其申請興建農舍之必要性、合理性，參照上開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5668",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:20+08:00",
+   "source_key": "rmis:5668"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d68cfcadf65fc0690ca858fbe996b37682ee2be64d7078ea17b1aaa193ef2f7e",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "行為,應有積極農用之事實,並非擁有農業用地即可興建農舍。又依申請農業用地作農業設施容許使用審查辦法規定,農業用地已興建農舍者,不得申請興建農業資材室,其立法理由考量農舍已有農業資"
+  }
+ ]
+}

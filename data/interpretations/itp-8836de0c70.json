@@ -1,0 +1,59 @@
+{
+ "id": "itp-8836de0c70",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040232693號",
+ "date": "2015-08-28",
+ "date_text": "104/8/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴府函為興建農舍資格審查疑義案，復請查照。",
+ "content": "一、復貴府104年8月20日府農輔字第1040130177號函。\n二；依農業用地興建農舍法第9條第2項第3款規定：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，扣除農舍用地面積後，供農業生產使用部分之農業經營用地為完整區塊，且其面積不得低於該農業用地面積90%。」，其目的在於確保農舍用地與農業經營用地面積應維持一定比例，以避免徒有農舍卻無農業經營面積之不合理情形發生。\n三；有關單筆農業用地土地登記謄本登載面積超過0.25公頃，雖符合申請興建農舍之形式條件，然因現有道路通過，爰應先予扣除道路面積後，再計算其農舍用地與農業經營用地面積之比例。\n四、次查本會102年9月18日農企字第1020229003號函，已明釋僅就申請稅賦減免時得不予扣除該公共設施之部分面積，與前開申請興建農舍二者所規範之目的不同，並無扞格之處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3609",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:56+08:00",
+   "source_key": "rmis:3609"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "81e60b3dfb94f3c5bd765b13b7bcd0412bb4457ad4ff9cae866d12e700f51549",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

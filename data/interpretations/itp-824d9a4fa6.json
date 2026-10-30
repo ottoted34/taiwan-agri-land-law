@@ -1,0 +1,80 @@
+{
+ "id": "itp-824d9a4fa6",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031829021號",
+ "date": "2014-12-17",
+ "date_text": "103/12/17",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關申請興建農舍資格案件為預告登記土地權利移轉請求權之農業用地，是否符合農業發展條例第18條之意旨得核發興建農舍資格證明案，復請查照。",
+ "content": "一、復貴府103年12月2日府農務字第1030196830號函。\n二、農業發展條例(以下簡稱本條例)第18條規範農業用地上准許興建農舍，係提供有心經營農業卻無自用農舍者於自有農地上興建具有放置農機具兼具居住需求之構造物，以便利其從事農事工作，即農舍之興建以農地所有權人因農業經營所需為前提，先予敘明。\n三、本案土地雖為申請人所有，然已於土地登記簿所有權部預告登記土地權利移轉，且於他項權利部亦設定有擔保前開預告登記請求權人與申請人間約定土地價款、建物工程造價及費用之抵押權，顯有利用申請人係本條例修正施行前取得土地之資格申請興建農舍，並於農舍興建完成後即移轉請求權人之情事。則本案申請人是否確為農業經營所需而申請興建農舍，不無疑義，且請求權人得因此取得農舍，亦有規避本條例第18條第1項、第2項及農業用地興建農舍辦法第2條、第6條就本條例修正施行後取得土地者興建農舍資格及移轉限制規定之嫌，實有違本條例第18條規範農舍係確供農業經營需要而興建之立法目的，爰請貴府衡酌並依個案事實審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3883",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:56+08:00",
+   "source_key": "rmis:3883"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "0819171e8e0a67d90d0e02b38295605f3feac22e625a4c46a540170fbe93ba69",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農舍資格案件為預告登記土地權利移轉請求權之農業用地,是否符合農業發展條例第18條之意旨得核發興建農舍資格證明案,復請查照。\n一、復貴府103年12月2日府農務字"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "求權人得因此取得農舍,亦有規避本條例第18條第1項、第2項及農業用地興建農舍辦法第2條、第6條就本條例修正施行後取得土地者興建農舍資格及移轉限制規定之嫌,實有違本條例"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "itp-df93889063",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080257540號",
+ "date": "2020-01-07",
+ "date_text": "109/1/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "復花蓮政縣府太陽光電如有編號供公眾通行之農路得適用有聯外道路之審認",
+ "content": "主旨：有關貴府為辦理農業用地變更使用案，函詢「聯外道路規劃與寬度及對農路通行之影響」事項之相關審查疑義案，復如說明，請查照。\n說明：\n一、復貴府108年12月30日府農保字第1080277868號函。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱農變要點)第3點第1項第7款規定，農業用地變更使用說明書應對聯外道路規劃與寬度及對農路通行之影響詳予說明。至太陽光電興辦事業計畫基地周邊若已有既有聯絡通路，應於農業用地變更使用說明書敘明，以符合農變要點第3點相關規定，惟不得利用農地另新設通路，又現有巷道位於農業用地上，倘該巷道經道路主管機關認屬具有前開說明係可配合辦理交通用地變更使用之條件者，得認定具有聯外道路規劃使用，為本會108年12月17日農企字第1080734441號函所明示，合先敘明。\n三、針對貴府來函所詢有一農業用地變更使用案，其所規劃之聯外道路屬供公眾通行之編號農路，可否作為聯外道路規劃使用一節，倘該編號農路經道路主管機關認屬具有上開說明係可配合辦理交通用地變更使用之條件者，得依上開函示認定辦理。是以，本案所稱之供公眾通行之編號農路，仍請貴府依上開說明就個案事實進行審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5598",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:20+08:00",
+   "source_key": "rmis:5598"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d6aa8d969e6d95c5fdcfb2afd7257eebe07271ee1d1c04d207a1552d87eaa1c7",
+ "topics": [
+  "land_change",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "8年12月30日府農保字第1080277868號函。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱農變要點)第3點第1項第7款規定,農業用地變更使用說明書應對聯外道路規"
+  }
+ ]
+}

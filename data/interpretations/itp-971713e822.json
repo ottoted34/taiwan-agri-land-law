@@ -1,0 +1,65 @@
+{
+ "id": "itp-971713e822",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990119303號",
+ "date": "2010-04-01",
+ "date_text": "99/4/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "065 釋非都市土地一般農業區養殖用地且實際作養殖使用，申請農業用地作農業使用證明書時，無需檢附養殖漁業登記證案",
+ "content": "主旨：有關土地使用分區為一般農業區，使用地類別為養殖用地，其地上之漁塭如未領有陸上養殖漁業登記證者，是否符合作農業使用之認定案，復請 查照。\n說明：\n一、復 貴府99年3月23日府農務字第0990035053號函。\n二、查養殖漁業登記證係為陸上魚塭養殖經營管理之目的，依漁業法之規定，授權由直轄市、縣（市）主管機關訂定其登記及管理規則，並依該規定審核發給者，非屬農業用地作農業使用認定及核發證明辦法所規範應檢附之必要文件。\n三、有關非都市土地一般農業區養殖用地且實際從事養殖使用，申請核發農業用地作農業使用證明書時，是否需檢附養殖漁業登記證一節，本會前於92年5月16日以農企字第0920123089號函復 貴府略以：「...養殖用地除興建有養殖設施需依規定申請容許使用外，其作養殖使用應即符合農業使用之認定基準，其申請農業用地作農業使用證明書尚無須以養殖漁業登記證為審核要件。」故其認定要件仍以該養殖用地是否確作「養殖使用」審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5454",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:05+08:00",
+   "source_key": "rmis:5454"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "2c0b3d6710cbc24421674faa23a741dad34cc7a44e2d3b59b64eb14ffe3f3fd5",
+ "topics": [
+  "farm_use_cert",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "市)主管機關訂定其登記及管理規則,並依該規定審核發給者,非屬農業用地作農業使用認定及核發證明辦法所規範應檢附之必要文件。\n三、有關非都市土地一般農業區養殖用地且實際從事養殖使用"
+  }
+ ]
+}

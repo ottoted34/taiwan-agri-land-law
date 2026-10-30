@@ -1,0 +1,47 @@
+{
+ "id": "itp-2d8d631a17",
+ "doc_class": "interpretation",
+ "docno": "農授農保字第1120242989號",
+ "date": "2023-09-28",
+ "date_text": "112/9/28",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "有關貴府所詢申請設置露營設施案，涉及農牧用地審查疑義案，復如說明，請查照。",
+ "content": "一、有關非都市土地農牧用地或林業用地申請設置露營場，倘係以部分土地範圍進行申請，依據本部(改制前)業於112年6月26日農企字第1120713624號函說明，應經貴府目的事業主管機關確認為露營場土地使用計畫書之劃定範圍；惟該筆地號所餘之部分土地，如已存在既有設施物，應由貴府目的事業主管機關先就該既有設施物，是否為露營場之關聯性使用，予以認定是否應納入露營場土地使用計畫書之申請範圍內整體規劃，以一併審認是否符合露營場管理要點之規定。合先敘明。\n二、有關貴府來函所詢同一筆地號之農牧用地上部分劃入露營場申請範圍，部分未劃入申請範圍之情形，針對未劃入申請範圍之土地上，存在既有設施非農業使用亦非目的事業主管機關認屬與露營場關聯使用，如住家、水泥舖面…等，倘該類既有設施，未能提供相關合法證明文件，而經貴府審認有違反土地使用管制規定之情形者，自應依區域計畫法規定處理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6025",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:08+08:00",
+   "source_key": "rmis:6025"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7d1b4ff73d5a2702bf0669c769a5e69b38d3bd210535360d094c623cc10f3406",
+ "topics": [
+  "partial_use",
+  "paving"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  }
+ ]
+}

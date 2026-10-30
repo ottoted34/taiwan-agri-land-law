@@ -1,0 +1,71 @@
+{
+ "id": "itp-aec165a6e1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000157029號",
+ "date": "2011-09-08",
+ "date_text": "100/9/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "都市計畫農業區之農路，申請農業用地作農業設施容許使用，是否受「申請農業用地作農業設施容許使用審查辦法」第8條規定「不得超過坐落該農業用地土地面積40%之限制」之審查",
+ "content": "主旨：有關 貴府再次函詢都市計畫農業區之農路，申請農業用地作農業設施容許使用，是否受「申請農業用地作農業設施容許使用審查辦法」第8條規定「不得超過坐落該農業用地土地面積40%之限制」之審查疑義案，復請 查照。\n說明：\n一、復 貴府100年9月5日府農管字第1000359844號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第8條第1項規定：「申請本辦法所定各項農業設施，其所有農業設施總面積除另有規定外，不得超過坐落該農業用地土地面積之40%。」同條文第2項規定：「有下列情形之一者，不受前項40%之限制：．．．二、依都市計畫法申請農業產銷必要設施。．．．」。是以，都市計畫農業區申請農業產銷必要設施，已明定不受「不得超過坐落該農業用地土地面積之40%」之限制。\n三、至於都市計畫農業區申請農業產銷必要設施，倘整筆土地均作農路或曬場使用，貴府應依上開辦法之規定，就個案農業經營之情況、農業設施設置之合理性、必要性，本於職權審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5470",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:39+08:00",
+   "source_key": "rmis:5470"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "83a9637a80518a2eca3a2956945d8797d1c04ec460fb56f01cc1922f5064fa23",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "都市計畫農業區之農路,申請農業用地作農業設施容許使用,是否受「申請農業用地作農業設施容許使用審查辦法」第8條規定「不得超過坐落該農業用地土地面積40%之限制」之審查\n主旨:有關 貴府再次函"
+  }
+ ]
+}

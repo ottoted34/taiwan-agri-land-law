@@ -1,0 +1,91 @@
+{
+ "id": "itp-c37ec3a77e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1010108825號",
+ "date": "2012-05-17",
+ "date_text": "101/5/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關「農業用地興建農舍辦法」執行疑義案，復請 查照。",
+ "content": "一、復 貴府101年5月7日府建管字第1010080570號函。\n二、按農業用地興建農舍辦法第6條第1款規定：「農舍興建圍牆，以不超過法定基層建築面積範圍為限。」該法定基層建築面積於非都市土地應依「實施區域計畫地區建築管理辦法」規定，以最大基層建築面積330平方公尺為上限，農舍圍牆自應設置於前開範圍內。\n三、次按農業用地興建農舍辦法第6條第3款規定：「申請興建農舍之該宗農業用地，扣除興建農舍土地面積後，供農業生產使用部分應為完整區塊，且其面積不得低於該宗農業用地面積百分之九十。」爰農業用地扣除興建農舍及其附屬設施之面積後，應留供農業生產使用，並應保留完整，農舍及其附屬設施不得造成農業生產使用部分之分離破碎。\n四、請貴府本於權責依上開規定意旨就農舍興建之配置予以審核。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2888",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:38+08:00",
+   "source_key": "rmis:2888"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "6",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "6",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "fc73d19591338fefd4e57864d9e3a6bb9a233f4bcafadef0e3b6c6fe79c9c6e6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "101年5月7日府建管字第1010080570號函。\n二、按農業用地興建農舍辦法第6條第1款規定:「農舍興建圍牆,以不超過法定基層建築面積範圍為限。」該法定基層建築面"
+  }
+ ]
+}

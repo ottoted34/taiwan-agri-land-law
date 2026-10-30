@@ -1,0 +1,65 @@
+{
+ "id": "itp-ace1390fb8",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1021866021號",
+ "date": "2013-09-04",
+ "date_text": "102/9/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「農業用地興建農舍辦法」業經內政部及本會會銜修正發布施行，請貴府依修正後辦法規定加強審查及監督管理，請查照。",
+ "content": "1.按農業用地上准許興建農舍之制度，係提供有心經營農業者於該農地上興建具有居住兼具放置農機具需求之構造物，以便利其從事農事工作，與一般家居住宅性質不同。然農地開放自由買賣後，逐漸演變為欲經營農業者少，想興建農舍者眾之異常現象。「農業用地興建農舍辦法」自90年訂定發布後，以農舍為名興建住宅隨處可見，其影響農業生產及生態環境甚鉅，社會各界迭有檢討之聲，監察院更於民國99年時兩次糾正本會及內政部。為期解決興建農舍之執行相關疑義，確保農舍係為配合於農地上從事農業活動所需而興建之目的，內政部會同本會積極進行修法作業，並於本102年7月1日修正發布施行，合先敘明。\n2.本次辦法修法，修正及新增相關規定，如興建資格、許可條件、限制興建區位、農舍最小面積限制、集村農舍各起造人持有之農業用地應位於同一使用分區、地方政府應組成審查小組審查集村農舍申請案件、變更起造人之資格審查、應具備書圖文件、提前註記列管及定期檢查與處理機制等，請貴府應切實依修正後規定加強審查及監督管理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2833",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:42+08:00",
+   "source_key": "rmis:2833"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "01dc695be7f5a55371379692f40c2788cd6d6afd3c56c43d20f8f81a3600b7cf",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「農業用地興建農舍辦法」業經內政部及本會會銜修正發布施行,請貴府依修正後辦法規定加強審查及監督管理,請查"
+  }
+ ]
+}

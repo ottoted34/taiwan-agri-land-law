@@ -1,0 +1,57 @@
+{
+ "id": "itp-5895651bb0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030231011號",
+ "date": "2014-09-15",
+ "date_text": "103/9/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "都市計畫保護區土地申請核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關貴府函詢都市計畫保護區土地申請核發農業用地作農業使用證明書疑義案，復請\n查照。\n說明：\n一、復貴府103年7月10日府建農字第1030058571號函。\n二、參照都市計畫法臺灣省施行細則第27條第1項規定略以，保護區為國土保安、水土保\n持、維護天然資源與保護環境及生態功能而劃定。復參照內政部90年3月19日台內營字\n第9082895號函略以：「台灣省都市計畫保護區土地，無論何種地目，均得准予農業使\n用，惟其使用仍應符合上開施行細則第28條及各該都市計畫書之規定，以落實保護區之\n國土保安、水土保持、維護天然資源及保護生態功能。」合先敘明。\n三、次查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。所\n稱農業使用於農業發展條例(以下簡稱本條例)第3條第12款業有明文定義，「指農業用\n地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」\n其中「保育」使用，本會歷年函釋係指維護國土保安、水土保持等使用及設置相關之設\n施。\n四、本案土地倘經貴府現況審認係維持原有地形地貌，且未有人為利用及設置設施情形，尚\n可認屬為前開具維護國土保安之保育使用性質，得申請核發農業用地作農業使用證明\n書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5336",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:44+08:00",
+   "source_key": "rmis:5336"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ee8488041772d8dc1982a7087de3bc6a9bf67a13c190e60b1f17f104a372c574",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "認定基準,始得核發農業用地作農業使用證明書。所\n稱農業使用於農業發展條例(以下簡稱本條例)第3條第12款業有明文定義,「指農業用\n地依法實際供農作、森林"
+  }
+ ]
+}

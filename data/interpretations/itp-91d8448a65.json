@@ -1,0 +1,50 @@
+{
+ "id": "itp-91d8448a65",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080702916號",
+ "date": "2019-02-15",
+ "date_text": "108/2/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴縣農友○○○擬申請興建農舍之農民資格，得否依特殊土地予以核准興建案，復如說明，請查照。",
+ "content": "一、復貴府108年1月19日府農務字第1080022199號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、查本會104年10月21日農水保字第1041866479號通函(諒達)，已說明有關農業生產佐證資料包含「領取調整耕作制度活化農地計畫轉(契)作補貼之證明文件(不含休耕給付)」，其中「不含休耕給付」係因領取休耕補貼期間，已無農業經營事實。復查本會106年7月28日農水保字第1061856255號函(諒達)，亦說明申請興建農舍時，須認定申請人身分及審查經營計畫書及2年內生產相關佐證資料，以確認該筆農業用地確有積極農用之事實。\n四、綜上，本案既有休耕給付之事實，並經貴府聯合審查會審認不符合積極農業生產原則，並決議應予駁回其申請，尚屬適法，爰無來函所詢得否就土地特殊情形予以核准興建農舍農民資格之適用規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4543",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:34+08:00",
+   "source_key": "rmis:4543"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fa71420246323a514af6661c7391b781d2a086a455eefe9bac0077baa9ef10ac",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "itp-1e441bd525",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010121916號",
+ "date": "2012-08-23",
+ "date_text": "101/8/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "土地上有實施建築管理前之建築物，並經辦竣建物所有權第一次登記，得否核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關 貴府函詢貴轄吉安鄉○○○地號土地上有實施建築管理前之建築物，並經辦竣建物所有權第一次登記，得否核發農業用地作農業使用證明書疑義案，復如說明，請 查照。\n說明：\n一、復 貴府101年7月23日府農保字第1010134197號函，並復立法委員王廷升國會辦公室101年7月20日為民服務案件紀錄表。\n二、依據農業用地作農業使用認定及核發證明辦法第5條第3款規定，農業用地上興建農舍者，應檢附農舍之建築執照，且無第6條及第7條不得認定作農業使用之情形者，始得認定為作農業使用。惟針對實施建築管理前之建築物認定是否為農舍一節，查內政部營建署於99年11月10日邀集相關單位會商，結論略以「有關實施建築管理前之建築物如何認定是否為農舍一節，應請建築物所有權人先辦理建築物第一次登記或補辦建築物使用執照，並於建物所有權狀或建築物使用執照用途欄註明用途，以釐清是否為農舍。．．．」，本會並據以於同年12月17日以農授水保字第0990178539號函釋(諒達)在案。爰農業用地有實施建築管理前之建築物，倘該建築物經辦竣建物所有權第一次登記，且於建物登記簿上用途記載為農舍者，得以建物登記謄本作為其合法證明文件。\n三、檢附本會前開號函影本供參。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5566",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:06+08:00",
+   "source_key": "rmis:5566"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d13744e461ee6e489e66c7136bafcb370f55d078ed7b503375861e3e04bd3acd",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "升國會辦公室101年7月20日為民服務案件紀錄表。\n二、依據農業用地作農業使用認定及核發證明辦法第5條第3款規定,農業用地上興建農舍者,應檢附農舍之建築執照,且無第6條及第7條不得認"
+  }
+ ]
+}

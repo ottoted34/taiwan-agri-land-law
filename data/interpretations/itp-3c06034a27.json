@@ -1,0 +1,73 @@
+{
+ "id": "itp-3c06034a27",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960130632號",
+ "date": "2007-06-08",
+ "date_text": "96/6/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "069 釋依非都市土地使用管制規則第6條規定，於農牧用地上申請私設通路使用，可否核發農業用地作農業使用證明書案",
+ "content": "一、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。所稱「農業使用」於農業發展條例第3條第12款業有明文定義「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」本會並訂頒有農業用地作農業使用認定及核發證明辦法一種，以為執行之依據。\n二、另財政部93年8月20日台財稅字第09300390870號函釋略以：「為配合農業政策，鼓勵農地農用，現行相關法令對於農業用地有賦予租稅減免之優惠規定，惟應以『作農業使用』為要件，以符減免優惠之意旨。另有關『農業使用』有其法定意涵，其與符合土地使用管制法令之容許使用仍屬有間，似不宜予以一致之認定。」且來函援引本會94年3月15日函釋，經查該函說明略以：「四、綜上，有關農業用地如依法申請作私設通路容許使用時，宜於會簽加註提醒有關未來恐有影響農業用地申請賦稅減免優惠之意見，俾農業用地所有權人自行衡酌。」故本案仍請依前開規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4980",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:41+08:00",
+   "source_key": "rmis:4980"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4b5ce2cbbb7c1bc3064dc79b4bbe68076a81ab28ce00ac4792ed7d9061aeed96",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "定基準,始得核發農業用地作農業使用證明書。所稱「農業使用」於農業發展條例第3條第12款業有明文定義「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "畜牧、保育及設置相關之農業設施或農舍等使用者。」本會並訂頒有農業用地作農業使用認定及核發證明辦法一種,以為執行之依據。\n二、另財政部93年8月20日台財稅字第093003908"
+  }
+ ]
+}

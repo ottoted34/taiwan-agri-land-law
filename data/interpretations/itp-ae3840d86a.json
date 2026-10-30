@@ -1,0 +1,73 @@
+{
+ "id": "itp-ae3840d86a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020721078號",
+ "date": "2013-07-08",
+ "date_text": "102/7/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴院受理101年度簡上字第114號請求確認通行權存在等事件一案，涉及農舍議題，復請查照。",
+ "content": "一、復貴院102年6月26日南院勤民河101簡上114字第1020029242號函。\n二、農業用地因現有道路通過，但尚未分割，該筆土地扣除道路面積後，未達0.25公頃，得由縣市主管機關依個案事實審認受理興建農舍之申請，提出申請之農業用地，仍應依「農業用地興建農舍辦法」第12條規定註記列管，且道路用地應不得提供農舍興建計算建築面積占農業用地面積之比例。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3732",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:11+08:00",
+   "source_key": "rmis:3732"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "12",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "1393b95aa9bf529fa3349f712bbdc652eab675fc1a48735f3b2935e867ee114b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "依個案事實審認受理興建農舍之申請,提出申請之農業用地,仍應依「農業用地興建農舍辦法」第12條規定註記列管,且道路用地應不得提供農舍興建計算建築面積占農業用地面積之比例。"
+  }
+ ]
+}

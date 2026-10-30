@@ -1,0 +1,68 @@
+{
+ "id": "itp-5e41cfbe70",
+ "doc_class": "interpretation",
+ "docno": "農輔字第1000050671號",
+ "date": "2011-05-31",
+ "date_text": "100/5/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關「農舍」之許可使用細目「農產品零售」是否包含「休閒農場販售自家生產農產品之風味餐」，復如說明，請查照。",
+ "content": "一、復貴府100年3月31日府農銷字第100082293號函。\n二、查「非都市土地使用管制規則」第6條之附表一規定，非都市土地農牧用地容許作「農舍」項目使用，該項目之許可細目「農產品零售」並不包括「休閒農場販售自家生產農產品之風味餐」。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=474",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:00+08:00",
+   "source_key": "rmis:474"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "78910b41839ff3763062ad7ee43bd2eeb276252b130eb60d19a180f7d4c7d2ae",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-14c327724b",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132610665號",
+ "date": "2024-07-22",
+ "date_text": "113/7/22",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢隔離綠帶或設施範圍內有非建築且非地上物之物件或設備，是否符合「農業主管機關同意農業用地變更使用審查作業要點」規定疑義案，復請查照。",
+ "content": "一、查「農業主管機關同意農業用地變更使用審查作業要點」（下稱本要點）第11點規定，隔離設施之認定，指具有隔離效果之通路、水路、空地、廣場、平面停車場、開放球場、蓄水池及滯洪池等非建築之開放性設施。\n二、針對○○有限公司所詢建物附掛之電箱、天線、支架或其他非建築且非地上物之物件或設備，得否於隔離綠帶或設施範圍設置之疑義，考量該設施係屬建築物之附屬設施，依上開規定，仍不得於應留設之隔離綠帶或設施範圍內設置。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6033",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:08+08:00",
+   "source_key": "rmis:6033"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f1d8a2dab0a9e1deda9af841fc7c83526503afdf040176fbe9671b800c629368",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "隔離綠帶或設施範圍內有非建築且非地上物之物件或設備,是否符合「農業主管機關同意農業用地變更使用審查作業要點」規定疑義案,復請查照。\n一、查「農業主管機關同意農業用地變更使用審查作業要點」("
+  }
+ ]
+}

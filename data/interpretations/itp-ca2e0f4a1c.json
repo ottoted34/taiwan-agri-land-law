@@ -1,0 +1,99 @@
+{
+ "id": "itp-ca2e0f4a1c",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021807598號",
+ "date": "2013-04-10",
+ "date_text": "102/4/10",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為農業用地全部或一部分設定農育權，該農業用地所有權人得否經農育權人同意申請興建農舍或逕行申請疑義案，復請查照。",
+ "content": "1.復貴府102年4月3日府農輔字第1020042842號函。\n2.農業用地上准許興建農舍，目的係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作。\n3.查農業用地興建農舍辦法第3條第1項第5款規定，申請人為該農業用地之所有權人，且該農業用地應確供農業使用，惟本案農地所有權人已將農地設定農育權，對該農業用地並無實際使用之權，亦即，該農業用地已非供土地所有權人農業使用。\n4.本案倘土地所有權人尚未終止農育權，收回農業用地自任耕作，則未能符合農業發展條例申請興建農舍之立法意旨，不宜同意其農舍興建之申請。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2829",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:27+08:00",
+   "source_key": "rmis:2829"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "7f98dc5e7043d65e7c8c81f7f082976a30d1ebf003f591078af3519f295439b8",
+ "topics": [
+  "partial_use",
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "具有居住兼具放置農機具之需求,以便利其從事農事工作。\n3.查農業用地興建農舍辦法第3條第1項第5款規定,申請人為該農業用地之所有權人,且該農業用地應確供農業使用,惟本"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地所有權人尚未終止農育權,收回農業用地自任耕作,則未能符合農業發展條例申請興建農舍之立法意旨,不宜同意其農舍興建之申請。"
+  }
+ ]
+}

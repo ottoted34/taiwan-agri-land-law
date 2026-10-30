@@ -1,0 +1,85 @@
+{
+ "id": "itp-48c8ac1aee",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000140398號",
+ "date": "2011-07-04",
+ "date_text": "100/7/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○○所有之鄉村區農牧用地申請變更為同區乙種建築用地，得否免依「農業主管機關同意農業用地變更使用審查作業要點」規定，檢具農地變更使用說明書及可否免繳交農業用地變更回饋金之疑義案。",
+ "content": "主旨：有關　貴局函詢○○○所有之鄉村區農牧用地申請變更為同區乙種建築用地，得否免依「農業主管機關同意農業用地變更使用審查作業要點」規定，檢具農地變更使用說明書及可否免繳交農業用地變更回饋金之疑義案，復請　查照。\n說明：\n一、復　貴局100年6月24日高市鳳山農務字第1001013507號函。\n二、依據「農業主管機關同意農業用地變更使用審查作業要點」第14點第1款規定，「申請非都市土地鄉村區範圍內之農業用地變更者」由目的事業主管機關逕依相關作業規定徵詢直轄市或縣(市)政府農業主管機關審核同意，免再依本要點審查規定辦理。是以，鄉村區農牧用地申請變更為同區乙種建築用地，得由　貴府目的事業主管機關逕徵詢　貴局審核同意。\n三、至於農業用地經依法變更為非農業用地，除符合農業發展條例第12條第4項各款得免繳交回饋金之情形者，始得免予繳交外，其餘案件均應依「農業用地變更回饋金撥繳及分配利用辦法」之規定，繳交農業用地變更回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5403",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:54+08:00",
+   "source_key": "rmis:5403"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "12a7944cbb5f09a28635f8d08e216f5afd07ff3ba2b35ff1947cee18c1949fb9",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○○所有之鄉村區農牧用地申請變更為同區乙種建築用地,得否免依「農業主管機關同意農業用地變更使用審查作業要點」規定,檢具農地變更使用說明書及可否免繳交農業用地變更回饋金之疑義案。\n主旨:有關"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "局審核同意。\n三、至於農業用地經依法變更為非農業用地,除符合農業發展條例第12條第4項各款得免繳交回饋金之情形者,始得免予繳交外,其餘案件均應依「農業用地變更回"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "項各款得免繳交回饋金之情形者,始得免予繳交外,其餘案件均應依「農業用地變更回饋金撥繳及分配利用辦法」之規定,繳交農業用地變更回饋金。"
+  }
+ ]
+}

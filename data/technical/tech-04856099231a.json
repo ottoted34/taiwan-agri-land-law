@@ -1,0 +1,38 @@
+{
+ "id": "tech-04856099231a",
+ "source_key": "datamoa:D97:fa50128af36208fa",
+ "title": "技術專刊 4",
+ "series": "技術專刊",
+ "issue": "4",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2327",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "4",
+  "出刊年月": "200806",
+  "期刊名稱": "培育水稻秧苗的方法",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2327"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T10:26:56+08:00"
+  }
+ ],
+ "content_hash": "176190b8a2e59a0995aebddf88a8982616a618ae101d79b2a79d8d481f753958",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

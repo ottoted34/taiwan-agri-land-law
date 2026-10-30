@@ -1,0 +1,64 @@
+{
+ "id": "itp-4819e843e6",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1020236265號",
+ "date": "2013-11-20",
+ "date_text": "102/11/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「申請農業用地作農業設施容許使用審查辦法」第13條附表1「農事操作及管理設施-農業資材室」之申請基準或條件審核疑義案。",
+ "content": "主旨：有關貴府函詢「申請農業用地作農業設施容許使用審查辦法」第13條附表1「農事操作及管理設施-農業資材室」之申請基 準或條件審核疑義案，復請查照。\n說明：\n一、復貴府102年10月22日屏府農企字第10271430900號函。\n二、查本會102年10月9日修正發布「申請農業用地作農業設施容 許使用審查辦法」，有關該辦法第13條附表1所定農業資材室 之修正說明略以「改以設施所坐落之農業用地面積換算得興建 面積」。爰此，有關農業資材室未坐落之農業用地，自不宜納入併計面積及換算得興建面積。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5518",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:12+08:00",
+   "source_key": "rmis:5518"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a6a790332d115c97cb7f026edb4922843c570e2c7f7d8bb24a93ddde0fc1dded",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "「申請農業用地作農業設施容許使用審查辦法」第13條附表1「農事操作及管理設施-農業資材室」之申請基準或條件審核疑義案。\n主旨:有關"
+  }
+ ]
+}

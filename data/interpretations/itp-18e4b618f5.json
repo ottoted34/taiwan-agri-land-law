@@ -1,0 +1,78 @@
+{
+ "id": "itp-18e4b618f5",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960136937號",
+ "date": "2007-07-12",
+ "date_text": "96/7/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "020 釋與農業經營不可分離供農路使用之土地案",
+ "content": "一、查都市計畫法第42條明定：「都市計畫地區範圍內，應視實際情況，分別設置左列公共設施用地：一、道路、公園......」又都市計畫公共設施用地並非農業用地，且其功能定位亦非屬「與農業經營不可分離之農路」。\n二、本案土地既經分割，且完成道路開闢，並編有道路名稱，倘屬前開都市計畫之「道路」，即不宜核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4878",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:28+08:00",
+   "source_key": "rmis:4878"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5510",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:29+08:00",
+   "source_key": "rmis:5510"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 2,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "25396b706eaaa7b9c3390ce24032ae9e8542395c083be68dacadd5750ea2c613",
+ "history": [
+  {
+   "at": "2026-10-30T10:20:58+08:00",
+   "previous_hash": "8aeb78ca936e7d7be40aab9c07e9fe7f880d293bae46f971d416b0205504af7b",
+   "changed_fields": [
+    "subject"
+   ],
+   "previous": {
+    "subject": "008 釋都市計畫之「道路」不符合農業使用之認定案"
+   }
+  }
+ ],
+ "topics": [
+  "farm_use_cert",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

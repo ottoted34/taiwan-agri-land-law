@@ -1,0 +1,52 @@
+{
+ "id": "itp-7ee701ded6",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152604332號",
+ "date": "2026-04-08",
+ "date_text": "115/4/8",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關○○○申請籌設「路外停車場」，涉及農業用地變更回饋金應繳交金額之疑義案，詳如說明，請查照。",
+ "content": "查「農業用地變更回饋金撥繳及分配利用辦法」第3條第1項第2款規定，開發供汽車駕駛訓練班、汽車運輸業停車場(站)、客(貨)運站及附屬設施使用申請變更為交通用地，農業用地變更回饋金之計算，係以變更使用面積與獲准變更當期公告土地現值乘積百分之四十為計算基準，是以，農牧用地申請變更為交通用地，倘非供汽車運輸業使用之路外停車場，則非屬前開得適用40%計算基準之情形，應依本辦法第3條第1項第1款規定，以變更使用面積與獲准變更當期公告土地現值乘積50%為計算基準。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6086",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:05+08:00",
+   "source_key": "rmis:6086"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bfc596ef62d33047053396f8434b22de7f7240cf897f3a008beb07a8441155b7",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "農業用地變更回饋金應繳交金額之疑義案,詳如說明,請查照。\n查「農業用地變更回饋金撥繳及分配利用辦法」第3條第1項第2款規定,開發供汽車駕駛訓練班、汽車運輸業停車場(站)、客(貨)運站及附"
+  }
+ ]
+}

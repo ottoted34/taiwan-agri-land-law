@@ -1,0 +1,55 @@
+{
+ "id": "itp-f4b7c78f6e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960140930號",
+ "date": "2007-07-27",
+ "date_text": "96/7/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋有關原住民於原住民保留地之耕地取得耕作權滿5年，辦理所有權移轉登記時，涉及農業發展條例第31條規定執行疑義案。",
+ "content": "主旨：有關原住民於原住民保留地之耕地取得耕作權滿5年，辦理所有權移轉登記時，涉及農業發展條例第31條規定執行疑義案，復請　查照。\n說明：\n一、復　貴會96年7月23日原民地字第○○○○○號函。\n二、查農業發展條例第31條明定：「耕地之使用及違規處罰，應依據區域計畫相關法令規定；其所有權之移轉登記依據土地法及民法之規定辦理。」換言之，有關耕地所有權之移轉登記，得於完納應繳稅賦(包括：土地增值稅、遺產稅或贈與稅)後，辦理所有權移轉登記，並無須檢附農業用地作農業使用證明書或耕地符合土地使用管制規定證明書，且無須有符合土地使用管制規定之相關註記；惟耕地倘擬依該條例第37條或第38條之規定，申請不課徵土地增值稅或免徵遺產稅、贈與稅者，仍須檢具農業用地作農業使用證明書，向稅捐稽徵主管機關申請。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4833",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:20+08:00",
+   "source_key": "rmis:4833"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ce19ffc0f6fe118468c2ac884a5c4ffdb91fbc563b965e2c332fe21fbadd74ea",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "31",
+   "kind": "extracted",
+   "snippet": "住民保留地之耕地取得耕作權滿5年,辦理所有權移轉登記時,涉及農業發展條例第31條規定執行疑義案。\n主旨:有關原住民於原住民保留地之耕地取得耕作權滿5年,辦理所有"
+  }
+ ]
+}

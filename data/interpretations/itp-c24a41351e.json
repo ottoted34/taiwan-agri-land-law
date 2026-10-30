@@ -1,0 +1,64 @@
+{
+ "id": "itp-c24a41351e",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020231726號",
+ "date": "2013-09-27",
+ "date_text": "102/9/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴市金山區○○○地號土地申請興建農舍疑義一案，復請查照。",
+ "content": "一、復貴局102年9月14日北農牧字第1022638634號函。\n二、按中央法規標準法第18條前段規定：「各機關受理人民聲請許可案件適用法規時，除依其性質應適用行為時之法規外，如在處理程序終結前，據以准許之法規有變更者，適用新法規。但舊法規有利於當事人而新法規未廢除或禁止所聲請之事項者，適用舊法規。」，先予敘明。\n三、本案雖於90年完成共有物分割，惟並未提出興建農舍之申請，僅屬「預期」之利益，難謂申請人已取得實體法上的地位或利益(取得興建農舍之權利)，而申請人於102年7月30日始提出申請興建農舍，自應依現行法規辦理，農業發展條例第18條第3項後段規定適用之標的為本條例定義之耕地，於本案處理程序中並未有變更，況都市計畫農業區田地目土地納屬耕地之規定於本條例90年修正時已廢除，爰本案尚難適用前開規定申請興建農舍。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3710",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:23+08:00",
+   "source_key": "rmis:3710"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "38be2a254d48e3fe1fa3eef1b36bf8e7f9259f1abf6ce4fc3c85c30a34d10998",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "於102年7月30日始提出申請興建農舍,自應依現行法規辦理,農業發展條例第18條第3項後段規定適用之標的為本條例定義之耕地,於本案處理程序中並未有變更,況都市計"
+  }
+ ]
+}

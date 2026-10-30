@@ -1,0 +1,52 @@
+{
+ "id": "itp-1220ab2e9e",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030242138號",
+ "date": "2014-12-15",
+ "date_text": "103/12/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "復新北市擋土牆認定為水土保持設施之審認程序。",
+ "content": "主旨：有關於山坡地範圍內之農業用地申請施作擋土牆之行政執行疑義案，復請查照。\n說明：\n一、復貴局103年11月27日北農牧字第1032239605號函。\n二、有關農業設施之申請程序，係依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)之規定辦理；而水土保持設施則係應水土保持法相關規定辦理，故農業設施與水土保持設施適用之法令規定及程序，並不相同，合先敘明。\n三、有關本案擬於山坡地範圍內之農業用地上種植蔬菜，為「預防邊坡滑落」之水土保持所需，而向貴局申設擋土牆，自應由水土保持義務人擬具水土保持計畫或簡易水土保持申報書，依水土保持法相關規定辦理；復查「水土保持計畫審核監督辦法」第6條規定略以：「水土保持義務人應依中央主管機關規定格式，擬具水土保持計畫或簡易水土保持申報書六份及抄件若干份…，由目的事業主管機關受理後，送請主管機關審核。」故本會前於103年5月2日農企字第1030212387號通函說明略以:「…得免再由申請人重複依容許辦法之規定，申請農業設施之容許使用。惟仍應由目的事業主管機關受理後，再送請水土保持計畫主管機關審核」有案。\n四、綜上，本案仍請貴局依據前揭規定及函釋，送請水土保持主管機關逕依水土保持法相關規定，予以審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5310",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:59+08:00",
+   "source_key": "rmis:5310"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d65d931176db7f96c253cd2d4cd6f1d6b44576716baaa4dfc6e7dbc976be2f17",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "032239605號函。\n二、有關農業設施之申請程序,係依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)之規定辦理;而水土保持設施則係應水土保持法相關規定辦理,故農"
+  }
+ ]
+}

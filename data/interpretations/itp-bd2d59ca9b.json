@@ -1,0 +1,58 @@
+{
+ "id": "itp-bd2d59ca9b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031820495號",
+ "date": "2014-09-02",
+ "date_text": "103/9/2",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為民眾詢問興建農舍審查疑義案，復請查照。",
+ "content": "一、復貴局103年8月28日府農輔字第1030140308號函。\n二、有關申請興建農舍之土地取得時點，行政院農業委員會依據民法及土地法規定，前以101年6月29日農水保字第1011865000號令，核釋有案，其後並以102年10月25日農水保字第1021866046號令補充規定有案，請參考辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3576",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:50+08:00",
+   "source_key": "rmis:3576"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8fc6d7205b8a3e8e7507867fa0abce9057ec2042e4968602672b8758c90ab75a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

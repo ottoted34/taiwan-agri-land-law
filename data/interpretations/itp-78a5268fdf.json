@@ -1,0 +1,74 @@
+{
+ "id": "itp-78a5268fdf",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031821507號",
+ "date": "2014-09-18",
+ "date_text": "103/9/18",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "為依民宿管理辦法登記為民宿之農舍設置溫泉井疑義案，本局意見如說明，請鑒核。",
+ "content": "一、復鈞會103年9月10日農輔字第1030229727號函。\n二、有關休閒農業區或休閒農場內，依民宿管理辦法登記為民宿之農舍，依非都市土地使用管制規則第6條附表一規定及鈞會103年7月7日農輔字第1030022634號函釋，設置溫泉井及溫泉儲槽得視為農舍附屬設施，本局敬表認同。爰溫泉井及溫泉儲槽於前開要件下既得視為農舍附屬設施，依農業用地興建農舍辦法第8條第3項規定，應設置於農舍用地面積內，而農舍用地面積不得超過該農業用地面積10%。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3869",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:35+08:00",
+   "source_key": "rmis:3869"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "53da19a4ebf2a6cd763d6412cf005dde1bd43f11c624987c05c65e9f08250243",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "認同。爰溫泉井及溫泉儲槽於前開要件下既得視為農舍附屬設施,依農業用地興建農舍辦法第8條第3項規定,應設置於農舍用地面積內,而農舍用地面積不得超過該農業用地面積10%。"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-309a48f307",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1040064587號",
+ "date": "2015-10-16",
+ "date_text": "104/10/16",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍辦法第9條第2項第6款規定：「同一筆農業用地僅能申請興建一棟農舍」認定疑義1案，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局104年9月30日水保農字第1041887106號函(如附件)辦理，並復貴府104年9月4日府經建字第1040108241號函。\n二、案據行政院農業委員會水土保持局前揭函說明二稱：「旨案依嘉義縣政府函該棟建築物有雙入口、雙電梯預留口、雙樓梯等設施，似有一棟實為二戶共同使用之疑慮一節，似已違反內政部上揭函釋(內政部81年8月17日(81)內營字第8104300號函)。」同函說明三所載：「本案建築物位於該筆農業用地中央位置，與本辦法第9條第2項第3款『供農業生產使用部份之農業經營用地應為完整區塊』之意旨有違」，本案請貴府依行政院農業委員會水土保持局上開函示就個案情形審慎核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4191",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:13+08:00",
+   "source_key": "rmis:4191"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f00a4857554ed8bc4c96d2c2d3af3c21317e38de89c2180f9f34a72471b0115b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第9條第2項第6款規定:「同一筆農業用地僅能申請興建一棟農舍」認定疑義1案,請查照。\n"
+  }
+ ]
+}

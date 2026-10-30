@@ -1,0 +1,70 @@
+{
+ "id": "itp-6e74c15c15",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990144290號",
+ "date": "2010-07-02",
+ "date_text": "99/7/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "029 釋辦法第11條通知土地所有權人或其代理人到場指界案",
+ "content": "主旨：有關函詢農業用地作農業使用認定及核發證明辦法相關執行疑義案，復請 查照。\n說明：\n一、復 貴院99年6月29日基院慧刑忠98訴781字第07204號函。\n二、查農業用地作農業使用證明書僅係證明該農業用地確係作農業使用，以供農地所有權人依據農業發展條例第39條第1項之規定，持憑向稅捐稽徵機關辦理賦稅減免優惠。因此，農業機關受理申請農業用地作農業使用證明書，於現場會勘時雖未通知土地所有權人到場，倘該農業用地確符合作農業使用之認定，其核發之農業用地作農業使用證明書具有證明該農業用地符合作農業使用之確認效力。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5455",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:53+08:00",
+   "source_key": "rmis:5455"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "9b6424231c4151a1e28ad7f4c6070512bb3880c16228c9acd01fdda3f6ca27d8",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第11條通知土地所有權人或其代理人到場指界案\n主旨:有關函詢農業用地作農業使用認定及核發證明辦法相關執行疑義案,復請 查照。\n說明:\n一、復 貴院99年6月29日基院慧刑忠98"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "39",
+   "kind": "extracted",
+   "snippet": "證明書僅係證明該農業用地確係作農業使用,以供農地所有權人依據農業發展條例第39條第1項之規定,持憑向稅捐稽徵機關辦理賦稅減免優惠。因此,農業機關受理申請農業用地"
+  }
+ ]
+}

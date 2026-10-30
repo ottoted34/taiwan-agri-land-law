@@ -1,0 +1,73 @@
+{
+ "id": "itp-c084c4e216",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020012108號",
+ "date": "2013-01-31",
+ "date_text": "102/1/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業設施未依原核准內容使用，經農業主管機關廢止該容許使用許可後，內政部針對該設施之建築執照可否併予廢止之處理原則。",
+ "content": "主旨：有關農業設施未依原核准內容使用，經農業主管機關廢止該容許使用許可後，內政部針對該設施之建築執照可否併予廢止之處理原則(如附件)，請　查照轉知。\n說明：\n一、查申請農業用地作農業設施容許使用審查辦法第26條規定：「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，並不得作為住宅、工廠或其他非農業使用。直轄市或縣(市)主管機關應對取得容許使用之農業設施及其坐落之農業用地造冊列管，並視實際需要抽查是否依核定計畫內容使用；未依計畫內容使用者，原核定機關得廢止其許可，並通知區域計畫或都市計畫主管機關依相關規定處理。但配合政策休耕、休養、停養者，不在此限。」故農業設施倘經查有上開規定之情形，農業主管機關即應本職權廢止其許可，並通知區域計畫或都市計畫主管機關分別依區域計畫法第21條或都市計畫法第79條等規定辦理。\n二、至農業設施之容許使用經農業主管機關廢止後，該建築物之建築執照處理原則，查內政部營建署前於101年11月19日以營署建管字第1012926008號函說明主管建築機關應配合辦理事宜有案(如附件)，故農業設施經廢止其許可者，為利該建築物之建築執照註銷或廢止，農業主管機關除依前開規定通知區域計畫或都市計畫主管機關依相關規定處理外，亦請併送主管建築機關依內政部營建署上開號函惠予審認卓處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4912",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:45+08:00",
+   "source_key": "rmis:4912"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "26",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ace0d763810136f682373352b673df8b7d7ea7f69153a755c7c35413d8446863",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "26",
+   "kind": "extracted",
+   "snippet": "併予廢止之處理原則(如附件),請 查照轉知。\n說明:\n一、查申請農業用地作農業設施容許使用審查辦法第26條規定:「依本辦法取得農業用地作農業設施容許使用者,應依原核定之計畫內容使用,並不"
+  }
+ ]
+}

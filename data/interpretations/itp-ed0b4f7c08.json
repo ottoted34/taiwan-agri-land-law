@@ -1,0 +1,64 @@
+{
+ "id": "itp-ed0b4f7c08",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000167557號",
+ "date": "2011-11-07",
+ "date_text": "100/11/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上先行施作之農業設施，移請相關單位裁處之疑義案。",
+ "content": "主旨：有關 貴局函詢農業用地上先行施作之農業設施，移請相關單位裁處之疑義案，復請 查照。\n說明：\n一、復 貴局100年10月21日北農牧字第1001459809號函。\n二、有關農業用地上存在未經申請，即先行施作之農業設施，是否違反非都市土地使用管制之審認原則，查內政部前於94年8月1日以內授中辦地字第09400050212號函 (如附件)釋略以：「依『非都市土地使用管制規則』第6條附表1，農牧用地容許作農業設施使用，其許可使用細目...各款附帶條件規定『依建築法規規定應申請建築執照者，應先向農業主管機關申請同意使用』...，否則即違反非都市土地使用管制，應依區域計畫法相關規定處罰...」有案。又本會前於94年8月1日以內授中辦地字第09400050212號函復 貴府略以：「受理農業用地作農業使用證明案件或農業設施容許使用申請案件，該農業用地上如有先行施作之設施物，倘確係為作農業使用之農業設施，符合「申請農業用地作農業設施容許使用審查辦法」及相關審查規定者，仍請貴府依上開函釋辦理，輔導補辦申請容許使用。至於無法符合相關審查規定之申請補正案件，如經 貴府要求限期改善，仍未符規定，則應移請區域計畫或都市計畫主管機關依法裁處。」爰本案仍請依上開函釋原則辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5098",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:23+08:00",
+   "source_key": "rmis:5098"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "fd19b15cc3ca5032d3b9ce360eb4e590e4670ceb5f5f9f1b8d10d156d17d1806",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地上如有先行施作之設施物,倘確係為作農業使用之農業設施,符合「申請農業用地作農業設施容許使用審查辦法」及相關審查規定者,仍請貴府依上開函釋辦理,輔導補辦申請容許使用。至於無法符合相關"
+  }
+ ]
+}

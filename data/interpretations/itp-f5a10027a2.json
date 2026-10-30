@@ -1,0 +1,64 @@
+{
+ "id": "itp-f5a10027a2",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040722050號",
+ "date": "2015-07-20",
+ "date_text": "104/7/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農舍依「民宿管理辦法」申請民宿登記，其民宿經營者如為農舍及其所坐落土地所有權人之配偶，是否違反農業發展條例規定一案，復請查照。",
+ "content": "一、復貴府104年7月6日府旅行字第1041102797號函。\n二、民宿之定義依發展觀光條例第2款第9款，係指利用自用住宅空閒房間，結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動，以家庭副業方式經營，提供旅客鄉野生活之住宿處所。\n三、依農業發展條例第18條規定，無自用農舍而需興建者，得申請興建農舍。爰申請民宿使用之農舍，於民宿定義所指之利用自用住宅，與農舍應供自用之原則下，其經營者自應為農舍及其坐落土地之所有權人。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3382",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:32+08:00",
+   "source_key": "rmis:3382"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6e56cd619be0f8a42afaf2ab68d41401ee34101843ae4711b1533879fd9d788d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "動,以家庭副業方式經營,提供旅客鄉野生活之住宿處所。\n三、依農業發展條例第18條規定,無自用農舍而需興建者,得申請興建農舍。爰申請民宿使用之農舍,於民宿定義所指"
+  }
+ ]
+}

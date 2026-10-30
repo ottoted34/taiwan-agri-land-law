@@ -1,0 +1,80 @@
+{
+ "id": "itp-dfb849a692",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990100508號",
+ "date": "2010-01-18",
+ "date_text": "99/1/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○有限公司申請於台東市○○○地號土地，以容許方式採取土石之農業用地變更回饋金繳交疑義案。",
+ "content": "主旨：有關 貴府函詢○○有限公司申請於台東市○○○地號土地，以容許方式採取土石之農業用地變更回饋金繳交疑義案，復請 查照。\n說明：\n一、復 貴府98年12月31日府農務字第0983047415號函。\n二、依農業發展條例第10條及第12條規定之意旨，農業用地變更為非農業使用，應視其事業性質，繳交回饋金。本案於非都市土地以容許方式採取土石，實質上已非屬農業使用範疇，依其土地變更使用之性質，係作為礦業用地使用，故本會於95年5月22日農企字第0950125313號函說明略以：「...應比照變更為礦業用地，依『農業用地變更回饋金撥繳及分配利用辦法』第2條第7款規定，以變更編定面積與獲准變更編定當期公告土地現值乘積12%為計算基準」在案。\n三、又鑒於申請採取土石之事業計畫面積，涵蓋依法應留設之隔離綠帶範圍，故農業用地變更回饋金，應以申請容許使用之全部面積(含隔離綠帶或設施面積)計算之，查本會亦於97年1月3日以農企字第0970010600號說明有案。是以，本案仍請 貴府依上開規定及計算基準，核算農業用地變更回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5393",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:27+08:00",
+   "source_key": "rmis:5393"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "2",
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f5e348aff52cbbf4a26be27da2553814dd40d6edd9d9eb982a35ccafdbfbe23b",
+ "topics": [
+  "landfill",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "8年12月31日府農務字第0983047415號函。\n二、依農業發展條例第10條及第12條規定之意旨,農業用地變更為非農業使用,應視其事業性質,繳交回饋金。本案"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "0125313號函說明略以:「...應比照變更為礦業用地,依『農業用地變更回饋金撥繳及分配利用辦法』第2條第7款規定,以變更編定面積與獲准變更編定當期公告土地現值乘積12%為計算基準」在"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-5609f7c2cb",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100207444號",
+ "date": "2021-03-08",
+ "date_text": "110/3/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請興建農舍之土地因合併，其取得時點認定",
+ "content": "一、復貴府 110年2月26日府農務字第 1100065338號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業用地興建農舍辦法第 2條第 1項第 3款規定：「申請興建農舍之該筆農業用地面積不得小於 0.25公頃。．．．」。所稱「該筆」，係指單一筆地號，且面積須超過 0.25公頃，並不得以多筆相毗鄰地號面積合併計算，併予敘明。\n四、又依民法第 758條規定：「不動產物權，依法律行為而取得、設定、喪失及變更者，非經登記，不生效力。」暨土地法第 43條規定：「依本法所為之登記，有絕對效力。」，爰本會依前開規定，對於申請興建農舍之土地取得時點以 102年10月25日農水保字第 1021866046號令及 101年6月29日農水保字第1011865000號令 (諒達 )核釋在案。\n五、基於農舍之個案審查係屬直轄市、縣 (市 )政府之權責，仍請貴府參照上開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5654",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:14+08:00",
+   "source_key": "rmis:5654"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "112e9f2dcdd144072165e5cc17539c98c21a6f44e1938252e6f59236b9d1bf4f",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法第 2條第 1項第 3款規定:「申請興建農舍之該筆農業用地面積不得小於 0.25公頃。."
+  }
+ ]
+}

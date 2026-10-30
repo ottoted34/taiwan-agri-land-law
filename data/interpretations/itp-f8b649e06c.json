@@ -1,0 +1,53 @@
+{
+ "id": "itp-f8b649e06c",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1141545851號",
+ "date": "2025-06-03",
+ "date_text": "114/6/3",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "有關貴府所詢同一地號土地範圍內並存地面型綠能設施(地面型漁電共生)及屋頂型綠能設施(屋頂型漁電共生)疑義案，復如說明，請查照。",
+ "content": "一、依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第7條規定，申請本辦法所定各項農業設施，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之40％，但依本辦法申請之室內水產養殖生產設施(以下簡稱室內設施)，不受40％之限制，惟容許辦法第21條附表4規定，室內設施面積與其他類別設施面積加總面積不得超過申請設施所坐落之農業用地土地面積之80％。又依容許辦法第29條規定申請之地面型綠能設施，其面積仍應符合上開不得超過申請設施所坐落之農業用地土地面積之40％。\n二、針對同一筆農地倘已設置室內設施，擬再申請地面型綠能設施者，該地面型綠能設施之設置面積，得以該筆農業用地扣除室內設施面積後，剩餘面積之40%範圍內予以設置，惟室內設施與地面型綠能設施之面積加總，仍不得超過申請設施坐落農業用地土地面積之80％。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5975",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:20+08:00",
+   "source_key": "rmis:5975"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "776998566103ea83870c5a624753f98f98c7fc088f74cd85e54f8f087230ee9e",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "能設施(屋頂型漁電共生)疑義案,復如說明,請查照。\n一、依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第7條規定,申請本辦法所定各項農業設施,其所有農業設施總面積"
+  }
+ ]
+}

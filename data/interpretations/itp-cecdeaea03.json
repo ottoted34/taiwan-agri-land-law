@@ -1,0 +1,46 @@
+{
+ "id": "itp-cecdeaea03",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132604975號",
+ "date": "2024-04-19",
+ "date_text": "113/4/19",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢民眾陳情申請興建農舍之農地與道路間夾雜尚未開闢之計畫道路用地審查疑義案，復如說明，請查照。",
+ "content": "一、復貴局113年4月3日中市農地字第1130013350號函。\n二、查改制前行政院農業委員會107年7月26日農企字第1070012917號通函有關農業用地興建農舍經營計畫書針對農舍整體配置，已明定「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」，其中「道路」係以「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」方式審認之。爰此，其道路應符合由政府「施設」或「養護」，並供「公眾通行」之構成要件始得認定為農舍應臨接之道路。\n三、針對貴局來函所述民眾依臺中市政府建設局自治規定申請都市計畫道路自闢，並由該局接管，是否符合前開農舍臨接道路之認定，仍請貴局逕洽臺中市政府建設局，並參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5996",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:40+08:00",
+   "source_key": "rmis:5996"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "98f43750fc7a13ad5f4f7ae559fa710115c71e4d289eaef2caa20e1fc2b3190f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

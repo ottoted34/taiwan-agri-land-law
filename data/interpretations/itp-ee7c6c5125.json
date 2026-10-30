@@ -1,0 +1,64 @@
+{
+ "id": "itp-ee7c6c5125",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990179287號",
+ "date": "2010-12-27",
+ "date_text": "99/12/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "民眾以非都市土地林業用地申請變更編定為農牧用地，農政單位審認疑義案。",
+ "content": "主旨：有關 貴府函詢民眾以非都市土地林業用地申請變更編定為農牧用地，農政單位審認疑義案，復請 查照。\n說明：\n一、復 貴府○○年○○月○○日府農務字第○○○○○號函。\n二、查區域計畫法施行細則第15條規定，經編定林業用地者係供營林或其設施使用。復查森林法第6條第2項規定，經編為林業用地之土地，不得供其他用途使用。但經徵得直轄市、縣（市）主管機關同意，報請中央主管機關會同中央地政主管機關核准者，不在此限。故本案林業用地得否變更為農牧用地，涉及編定用途改變，宜依上開森林法程序規定辦理；合先敘明。\n三、至林業用地變更為農牧用地書面審認部分，貴府擬請申請人檢具「農業經營計畫書」就申請目的、用地現況及未來使用計畫等提出說明，以審認是否合於「農業發展條例」所定農業使用之法意，並據以回應地政機關針對案涉用地是否合適農牧使用，本會認為尚無不妥；又用地現況倘有違規使用情形者，本會亦支持 貴府意見，宜先請權責單位妥處，並確認排除違規使用後，再依上開原則條件予審認辦理，以確保農業生產環境之完整。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5391",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:10+08:00",
+   "source_key": "rmis:5391"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "300dfb1e20edefe0cd119c7874e19fb9ccf612add89b8d16af7d8c9789ef5d45",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "就申請目的、用地現況及未來使用計畫等提出說明,以審認是否合於「農業發展條例」所定農業使用之法意,並據以回應地政機關針對案涉用地是否合適農牧使用,本會認為尚無"
+  }
+ ]
+}

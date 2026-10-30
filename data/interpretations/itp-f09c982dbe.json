@@ -1,0 +1,61 @@
+{
+ "id": "itp-f09c982dbe",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152600508號",
+ "date": "2026-01-21",
+ "date_text": "115/1/21",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關○○股份有限公司擬規劃「氣候韌性基礎建設公益綠能促參計畫」，涉及農業發展條例規定免繳回饋金疑義及農地變更程序案，復如說明，請鑒核。",
+ "content": "一、依農業發展條例第12條第1項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，以供農業發展及農民福利之用；除有符合第4項之例外規定者，原則上均應依規定繳交。本案雖位於嚴重地層下陷地區範圍，但因經濟部業於106年8月30日經授水字第10620210670號令公告廢止，實務執行上其得免繳交回饋金之法定構成要件已無法該當，而無從適用免繳交回饋金之規定。\n二、又依據「農業主管機關同意農業用地變更使用審查作業要點」第2點規定略以，農業用地變更使用，有所列情形之一者，應徵得農業主管機關同意：「．．．(二)依區域計畫法編定為非都市土地農牧用地、養殖用地、水利用地、林業用地、生態保護用地、國土保安用地變更為其他使用地類別。．．．」是以，本案倘經主辦機關認定為促進民間參與公共建設法第3條所稱之公共建設，依據該法第14條明定，其涉及非都市土地使用變更者，仍應依區域計畫法令辦理變更，其有涉及農業用地變更使用者，仍應依據上開要點之規定及作業程序，徵得農業主管機關同意。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6080",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:26+08:00",
+   "source_key": "rmis:6080"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ef4ff9d14ead3f4a38038ccb2947cb92fb06e1020986892efe480ba61fb7fde3",
+ "topics": [
+  "facility_use",
+  "land_change",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "定免繳回饋金疑義及農地變更程序案,復如說明,請鑒核。\n一、依農業發展條例第12條第1項規定,屬農業用地之變更,應視其事業性質,繳交回饋金,以供農業發展及農民福利"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "成要件已無法該當,而無從適用免繳交回饋金之規定。\n二、又依據「農業主管機關同意農業用地變更使用審查作業要點」第2點規定略以,農業用地變更使用,有所列情形之一者,應徵得農業主管機關同意:「."
+  }
+ ]
+}

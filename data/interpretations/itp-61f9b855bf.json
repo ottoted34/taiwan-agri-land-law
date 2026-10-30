@@ -1,0 +1,80 @@
+{
+ "id": "itp-61f9b855bf",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040223559號",
+ "date": "2015-06-30",
+ "date_text": "104/6/30",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關「農業用地興建農舍辦法」擬修正農舍興建及承買資格，是否有增加法律所無之限制，而有違「法律保留原則」疑義案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴府104年6月22日屏府農企字第10419537200號函。\n二、按農業發展條例第3條、第18條及農業用地興建農舍辦法第2條、第3條規定意旨，申請興建農舍之農民應為實際從事農業生產之自然人，爰於本辦法部分條文修正草案規範農舍申請人應為經直轄市、縣(市)主管機關認定為實際從事農業生產或農民健康保險、全民健康保險第三類被保險人。\n三、又農舍興建與使用係與農業經營不可分離，則農舍移轉之承受人亦應為農業生產經營而需取得農舍之農民，確保農舍興建及移轉後均為從事農業生產者所用，避免已興建農舍及其農業用地續遭投機炒作後不當利用，以落實本條例第一條「確保農業永續發展，因應農業國際化及自由化，促進農地合理利用...」及第十八條農舍興建應「不影響農業生產環境與農村發展」之立法目的。爰於本條例第18條第5項授權得訂定「其他應遵行事項」下，針對本辦法於90年4月26日訂定發布後申請興建之農舍及其農業用地予以規範，增訂農舍移轉之承受人應符合上開農民條件，尚無違反「法律保留原則」之虞。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3914",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:49+08:00",
+   "source_key": "rmis:3914"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "511e87393bfb6b9735a8c109c2347976ce65b83f1d6009089bc0faa8c4527a59",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "年6月22日屏府農企字第10419537200號函。\n二、按農業發展條例第3條、第18條及農業用地興建農舍辦法第2條、第3條規定意旨,申請興建農舍之農民應為實"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "19537200號函。\n二、按農業發展條例第3條、第18條及農業用地興建農舍辦法第2條、第3條規定意旨,申請興建農舍之農民應為實際從事農業生產之自然人,爰於本辦法部分"
+  }
+ ]
+}

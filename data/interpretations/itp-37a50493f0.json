@@ -1,0 +1,64 @@
+{
+ "id": "itp-37a50493f0",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1042902812號",
+ "date": "2015-02-24",
+ "date_text": "104/2/24",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢興建集村農舍疑義1案，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局104年1月22日水保農字第1041801107號函副本轉貴府104年1月13日農務字第1040007378號函辦理。\n二、有關農業用地興建農舍辦法(以下簡稱本辦法)第11條第1項第9款規定「應設置之公共設施附表」如附件1；又本辦法第14條規定:「直轄市、縣(市)主管建築機關得依本辦法規定，訂定符合城鄉風貌及建築景觀之農舍標準圖樣。採用農舍標準圖樣興建農舍者，得免由建築師設計。」是有關農舍標準圖樣請逕向當地主管建築機關洽詢。另本部前以98年2月27日台內營字第0980800113號令，訂定「鄉村地區住宅標準建築圖樣及說明書」、「鄉村地區住宅標準建築圖樣及說明書選用說明」及「鄉村地區住宅標準建築圖樣及說明書簡易修改原則」，並依建築法第19條規定於89年間制訂住宅及附屬建築物建築工程標準圖(住宅15種及附屬建築物1種，如附件2)提供民眾選用。\n三、有關集村農舍之興建方式、農舍建築面積、農舍用地面積、建蔽率及容積率等，本辦法第11條已有相關規定，次查建築面積、建築物高度及容積總樓地板面積之計算，建築技術規則建築設計施工編第1條第3款、第9款及同編第162條另有明定，隨文並檢附相關條文供參(如附件3)。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3368",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:16+08:00",
+   "source_key": "rmis:3368"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "83f113e3c44ee959d09e37f7f734c431ce3b7de60da03fb6145a2e513cf084f9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年1月13日農務字第1040007378號函辦理。\n二、有關農業用地興建農舍辦法(以下簡稱本辦法)第11條第1項第9款規定「應設置之公共設施附表」如附件1;又本"
+  }
+ ]
+}

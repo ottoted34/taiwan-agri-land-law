@@ -1,0 +1,79 @@
+{
+ "id": "itp-11d5bc0132",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030018907號",
+ "date": "2014-04-11",
+ "date_text": "103/4/11",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府所詢農業用地興建農舍辦法第9條第2項第6款疑義，復請 查照。",
+ "content": "一、復貴府103年3月25日府農務字第1030046377號函。\n二、農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款有關「…農舍建築面積應超過45平方公尺，但經直轄市、縣(市)農業單位或其他主管機關同意者，不在此限。」係為杜絕非為農業經營所需之小面積興建農舍造成農業用地破壞之規定，惟為保留彈性，因「農業經營需要」者(詳前開條文立法說明，如附件)，直轄市、縣(市)政府得就個案事實予以同意得不受最小面積之限制。至於所稱准駁依據或經營需要審查原則，自應符合農業發展條例相關規定，並屬農政主管機關權責。因涉個案事實認定，仍請貴府依本辦法規定予以裁量認定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3845",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:23+08:00",
+   "source_key": "rmis:3845"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "765bd16a0178a998bb313b6c2a8af611d82f91a2b1233b7003b8181d3958f38d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關貴府所詢農業用地興建農舍辦法第9條第2項第6款疑義,復請 查照。\n一、復貴府103年3月25日府農務字第10300"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "最小面積之限制。至於所稱准駁依據或經營需要審查原則,自應符合農業發展條例相關規定,並屬農政主管機關權責。因涉個案事實認定,仍請貴府依本辦法規定予以裁量認"
+  }
+ ]
+}

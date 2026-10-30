@@ -1,0 +1,80 @@
+{
+ "id": "itp-872ddc18d7",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960147936號",
+ "date": "2007-08-29",
+ "date_text": "96/8/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "查共有農業用地之共有人為申請其持分部分土地之農業用地作農業使用證明書時，該共有農業用地倘有部分違規使用情事，應檢附全體共有人之分管契約書，以證明申請移轉部分為申請人所分管且無違規使用情事，為本會90年7月31日（90）農企字第900010341號函釋（諒達）所明示，其目的在於兼顧法律規定之前提下，保障各共有人之權益。另參酌耕地分割執行要點之規定，依農業發展條例第16條第1項第4款申請分割之共有耕地，其分割後之土地宗數不得超過共有人數，故分管契約之分管區域數亦應不得超過共有人數，始為合理。換言之，每一共有人之分管區域應集中，且不得分散為數塊。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4809",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:09+08:00",
+   "source_key": "rmis:4809"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3010",
+    "law_name": "耕地分割執行要點",
+    "article": null,
+    "amended_on": "2016-05-06",
+    "history": "中華民國105年05月06日內政部台內地字第1051303449號令修正發布全文14點",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "e47a89599da49d64a95e63b7e9bced80f878f8a2e34d15f1406776201c68afaa",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-3010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",其目的在於兼顧法律規定之前提下,保障各共有人之權益。另參酌耕地分割執行要點之規定,依農業發展條例第16條第1項第4款申請分割之共有耕地,其分割後之土地宗數"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "前提下,保障各共有人之權益。另參酌耕地分割執行要點之規定,依農業發展條例第16條第1項第4款申請分割之共有耕地,其分割後之土地宗數不得超過共有人數,故分管契約之"
+  }
+ ]
+}

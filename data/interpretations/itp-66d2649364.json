@@ -1,0 +1,46 @@
+{
+ "id": "itp-66d2649364",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132600504號",
+ "date": "2024-02-27",
+ "date_text": "113/2/27",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府再次函詢共有農業用地部分作露營場使用，得否檢具分管契約書圖，申請核發農業用地作農業使用證明書疑義案，復請查照。",
+ "content": "一、查旨案本署業於112年11月29日以農保規字第1120252300號函復貴府在案，即依非都市土地使用管制規則於農牧用地申請露營相關設施使用，係非屬農業設施性質，該整筆農業用地不符作農業使用之認定，亦無以分管契約書圖方式辦理之情形。\n二、針對貴府來函所提共有人就權利範圍申請作非農業使用，其他共有人土地倘符合農作，可否檢附全體共有人簽署之分管契約書圖申請核發農業用地作農業使用證明書(以下簡稱農用證明)疑義部分，考量農用證明之核發，係以整筆土地予以審認，倘部分範圍提供作露營相關設施使用，因該設施非屬農業設施性質，該整筆農業用地不得認定作農業使用，縱全體共有人簽署分管契約，仍不符整筆農業用地作農業使用之情形，爰仍請貴府依前揭函及上開審認原則予以核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6026",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:50+08:00",
+   "source_key": "rmis:6026"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c34ca48f65658d78903962bbb315e583a3863b8ec69dd541c5ceafbc1873400b",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  }
+ ]
+}

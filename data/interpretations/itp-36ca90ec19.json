@@ -1,0 +1,80 @@
+{
+ "id": "itp-36ca90ec19",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030221749號",
+ "date": "2014-07-17",
+ "date_text": "103/7/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為依「農業用地興建農舍辦法」第15條規定，辦理興建農舍之農業用地稽查作業，建請參考水利法第93條之6規定一案，復請查照。",
+ "content": "一、復貴府103年6月25日屏府農企字第1031924300號函。\n二、依農業發展條例第40條及其施行細則第15條規定，作農業使用之農業用地，經核准不課徵土地增值稅或免徵遺產稅、贈與稅、田賦稅，直轄市或縣(市)主管機關應會同有關機關定期檢查或抽查。直轄市、縣(市)政府執行前開規定多年，並無窒礙，先予敘明。\n三、貴府得參照上開作法就已興建農舍農業用地之農業經營用地部分進行檢查，應無疑義，至農舍建築物部分請洽內政部營建署核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3791",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:13+08:00",
+   "source_key": "rmis:3791"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "15",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "3a042c19d9629f6d630cbbdd19800cd0c02d0125715d85c3a48b2ad1de3fd8ba",
+ "topics": [
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "有關貴府函為依「農業用地興建農舍辦法」第15條規定,辦理興建農舍之農業用地稽查作業,建請參考水利法第93條之6規定一案,復請查"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "40",
+   "kind": "extracted",
+   "snippet": "3年6月25日屏府農企字第1031924300號函。\n二、依農業發展條例第40條及其施行細則第15條規定,作農業使用之農業用地,經核准不課徵土地增值稅或免徵遺產"
+  }
+ ]
+}

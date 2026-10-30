@@ -1,0 +1,66 @@
+{
+ "id": "itp-70845d8d99",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1030005034號",
+ "date": "2014-02-12",
+ "date_text": "103/2/12",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "關於領有使用執照之農作產銷設施(農產品加工室)經廢止容許使用，後經取得興建農舍資格審查許可，得否循變更使用執照程序申請變更為農舍使用1案，復請查照。",
+ "content": "一、依據本部營建署案陳行政院農業委員會103年1月20日農授水保字第1020240001號函及貴局102年11月8日高市工務建字第10238360000號函辦理。\n二、案據行政院農業委員會102年7月31日農授水保字第1020222094號函及前揭號函示，略以:「農舍與農業設施之性質不同，所依據之法令規範及管制規定亦不同，不宜逕行互為變更使用。爰農業設施擬變更為農舍，仍應依農業用地興建農舍辦法重新申請辦理，並廢止原農業設施容許使用同意書。」是以，本案所詢旨揭情節不得以變更使用執照程序為之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3781",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:20+08:00",
+   "source_key": "rmis:3781"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "bc22bbdc65b1220494e80efd982eaeff23e886cbb54bfab683dfb436a13d5269",
+ "topics": [
+  "facility_use",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "亦不同,不宜逕行互為變更使用。爰農業設施擬變更為農舍,仍應依農業用地興建農舍辦法重新申請辦理,並廢止原農業設施容許使用同意書。」是以,本案所詢旨揭情節不得以變更"
+  }
+ ]
+}

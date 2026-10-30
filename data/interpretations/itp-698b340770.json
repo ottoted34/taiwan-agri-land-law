@@ -1,0 +1,56 @@
+{
+ "id": "itp-698b340770",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020233996號",
+ "date": "2013-10-28",
+ "date_text": "102/10/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請核發農業用地作農業使用證明書涉及農業設施之從來使用疑義案。",
+ "content": "主旨：有關貴府函詢申請核發農業用地作農業使用證明書涉及農業設施之從來使用疑義案，復請查照。\n說明：\n一、依據內政部102年10月2日內授中辦地字第1026037972號函辦理並復貴府102年8月16日府農農字第1020167213號函。\n二、查農業用地作農業使用認定及核發證明辦法第4條第2款第2目規定，農業用地上施設有農業設施者，倘該設施係土地使用編定公告前即已存在者，得檢具從來使用證明文件，據以認定為作農業使用。次查非都市土地使用管制規則第8條第1項規定：「土地使用編定後，其原有使用或原有建築物不合土地使用分區規定者，在政府令其變更使用或拆除建築物前，得為從來之使用。原有建築物除准修繕外，不得增建或改建。」合先敘明。\n三、復依前開內政部函釋說明三略以：「．．．本案申請核發農業用地作農業使用證明書之系爭土地，倘經權責單位認定於編定公告前(苗栗縣係73年3月31日辦理編定公告)已存在6間雞舍，且繼續作從來之使用(養殖雞禽)部分，得視其為合法使用；．．．」析其意旨，「從來使用」係就既存農業設施主體有無增建或改建予以判斷，至該土地倘有其他新增違規設施，則與該既存農業設施主體是否仍得認定為從來使用情形係屬二事。爰本案請依上開原則，並就土地現況是否符合農業使用之認定基準予以審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5091",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:47+08:00",
+   "source_key": "rmis:5091"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "910a30c33bacdb35f76d1423c1f0ba14c269dda9e23dfcac6db9c2f4f36cdd91",
+ "topics": [
+  "farm_use_cert",
+  "land_change",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "02年8月16日府農農字第1020167213號函。\n二、查農業用地作農業使用認定及核發證明辦法第4條第2款第2目規定,農業用地上施設有農業設施者,倘該設施係土地使用編定公告前即已存"
+  }
+ ]
+}

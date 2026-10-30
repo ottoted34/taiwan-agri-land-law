@@ -1,0 +1,52 @@
+{
+ "id": "itp-2b747af96e",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020739917號",
+ "date": "2014-01-07",
+ "date_text": "103/1/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "依民法第850條之1規定，設定農育權之農業用地，農育權人擬依「申請農業用地作農業設施容許使用審查辦法」規定，申請農業設施之容許使用，得否免附土地使用同意書之疑義案。",
+ "content": "主旨：有關貴府函詢依民法第850條之1規定，設定農育權之農業用地，農育權人擬依「申請農業用地作農業設施容許使用審查辦法」規定，申請農業設施之容許使用，得否免附土地使用同意書之疑義案，復請查照。\n說明：\n一、復貴府102年12月24日府農務字第1020207143號函。\n二、查民法第850條之6第1項規定:「農育權人應依設定之目的及約定之方法，為土地之使用收益；未約定使用方法者，應依土地之性質為之，並均應保持其生產力或得永續利用。」合先敘明。\n三、復依「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定，申請農業用地作農業設施容許使用，應檢附土地所有權人出具之土地使用同意書。爰以，為避免爭議，農育權人擬於設定農育權之農業用地申請農業設施，倘其檢附農育權設定之書面契約內容，具體載明該土地所有權人同意農育權人得為農業設施使用之意思表示，則得以該書面契約視為上開規定所稱之土地使用同意書，免再檢附土地所有權人出具之土地使用同意書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4789",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:02+08:00",
+   "source_key": "rmis:4789"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "895493bf9c5765901ef7db39ec2f05181ddecf9637a0af5b549e369220eec313",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "為之,並均應保持其生產力或得永續利用。」合先敘明。\n三、復依「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定,申請農業用地作農業設施容許使用,應檢附土地所有權人出具之土地使用同意"
+  }
+ ]
+}

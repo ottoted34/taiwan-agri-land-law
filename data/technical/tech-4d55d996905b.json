@@ -1,0 +1,37 @@
+{
+ "id": "tech-4d55d996905b",
+ "source_key": "datamoa:E17:bf56a83d2bdaa83d",
+ "title": "高雄區農業改良場研究彙報",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "url": "https://www.kdais.gov.tw/ws.php?id=410",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "E17",
+  "title": "高雄區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=E17"
+ },
+ "raw": {
+  "名稱": "高雄區農業改良場研究彙報",
+  "連結": "https://www.kdais.gov.tw/ws.php?id=410",
+  "資料日期": "21-十一月-2022"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=E17",
+   "fetched_at": "2026-10-30T10:26:48+08:00"
+  }
+ ],
+ "content_hash": "dc8b335382d6585585bba4f3f357c7e506f03e57677b156be52b4810adc61422",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

@@ -1,0 +1,79 @@
+{
+ "id": "itp-81f9c1bdfe",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020222818號",
+ "date": "2013-08-14",
+ "date_text": "102/8/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關依「農業用地興建農舍辦法」申請農舍興建，惟其農地上已有98年3月16日前興建合法之農業設施，則農舍興建是否應受「申請農業用地作農業設施容許使用審查辦法」第8條規定限制一案，復請查照。",
+ "content": "一、復貴府102年7月10日屏府農企字第10220736700號函。\n二、依本會98年4月7日農企字第0980118584號函(諒達)說明三：「農業用地於受理申請農業設施之容許使用時，未申請興建農舍者，應依辦法第8條規定，所有農業設施總面積除另有規定外，應以不得超過坐落該農業用地土地面積之百分之四十之規定審理，至於已建有農業設施之農業用地，後續倘擬再申請興建農舍，則應依『農業用地興建農舍辦法』規定辦理。」，爰已興建合法農業設施之農業用地，再申請興建農舍，其農舍興建面積比例限制，應依 「農業用地興建農舍辦法」規定辦理，無涉「申請農業用地作農業設施容許使用審查辦法」規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3705",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:50+08:00",
+   "source_key": "rmis:3705"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f4a480a7e45e76abe4469229cf56a5b47fe31a2941442969e9ee80dc1a24ed68",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關依「農業用地興建農舍辦法」申請農舍興建,惟其農地上已有98年3月16日前興建合法之農業設施,則農舍興建是否"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "已有98年3月16日前興建合法之農業設施,則農舍興建是否應受「申請農業用地作農業設施容許使用審查辦法」第8條規定限制一案,復請查照。\n一、復貴府102年7月10日屏府農企字第1022073"
+  }
+ ]
+}

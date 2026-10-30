@@ -1,0 +1,51 @@
+{
+ "id": "itp-c551b4d3be",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090720844號",
+ "date": "2020-08-12",
+ "date_text": "109/8/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關109年度簡上字第 16號確認通行權存在事件一案",
+ "content": "一、復貴院 109年7月20日苗院○○○ 109簡上 16字第 17435號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供農民於該農地上興建具有放置農機具兼具居住之需求，與一般自用住宅性質不同，並非擁有農地即可興建。基於上開意旨， 10%農舍用地與 90%應積極農用之農業經營用地具有不可分離之關係，應維持興建農舍坐落用地之基本農業經營規模及其完整性，避免徒有農舍卻無供農業經營用地之不合理現象。另，上開所謂坐落用地係指農舍所坐落之該筆農業用地及其配合耕地，先予敘明。\n三、又農舍及其農業用地應符合前開積極作農業使用之規定，經查來函說明所列，非與農業經營相關之私設通路、鋪設柏油或水泥等通行設施等項目，即不符合作農業使用之認定，自不得於農舍之農業經營用地上設置。\n四、至苗栗縣後龍鎮○○○地號土地是否屬農舍之農業經營用地或有無受套繪管制，倘未經套繪管制得否申請私設通路，請逕向土地所在地之直轄市、縣(市)政府建築主管單位洽詢。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4753",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:17+08:00",
+   "source_key": "rmis:4753"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4f56ee8d5d6d1ef8c8aa09af2805ae9cb33ad7d9a891fd3f08dda411eb3529d8",
+ "topics": [
+  "paving",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

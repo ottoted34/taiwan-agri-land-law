@@ -1,0 +1,62 @@
+{
+ "id": "itp-a98a89e930",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040247084號",
+ "date": "2015-12-08",
+ "date_text": "104/12/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴部函為已興建農舍之耕地申請依農業發展條例第16條第1項第1款前段規定辦理分割合併，分割合併後原管制耕地面積增加1案，涉及農業發展條例第18條第4項規定適用疑義案，復請查照。",
+ "content": "一、復貴部104年11月30日台內地字第1041356323號函。\n二、本會104年5月13日農水保字第1030244431號函釋有關農業發展條例第18條第4項所稱坐落用地之範圍，應為所有提供興建農舍之農業用地，且就本會農業政策立場而言，其係為避免徒有農舍卻無供農業經營用地之不合理現象，先予敘明。\n三、本案關於已興建農舍之耕地依農業發展條例第16條第1項第1款規定分割部分面積予未興建農舍毗鄰耕地，但同時合併毗鄰耕地部分面積，倘依貴部營建署104年11月19日營署建管字第1040071737號書函說明三意旨，略以 「...分割合併前後原管制耕地面積已增加，未變更農舍位置或基地地號，且農舍用地面積與農業經營用地面積比例符合法定規定時，建議無涉及解除套繪管制事宜，依相關法令得逕向地政機關申請分割合併，並於分割合併後，依變更使用執照程序配合調整套繪管制範圍。」，其增加原管制耕地面積，且農舍用地與農業經營用地符合比例，未有前述說明二之不合理現象者，於此前提下，就貴部營建署建議事項，本會敬表支持。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3619",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:28+08:00",
+   "source_key": "rmis:3619"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2ff50c930bf28a2bac7174a58c50ddf091fa899da333d5cb00b95bb6fdf06372",
+ "topics": [
+  "partial_use",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "有關貴部函為已興建農舍之耕地申請依農業發展條例第16條第1項第1款前段規定辦理分割合併,分割合併後原管制耕地面積增加1案,涉及農業發展"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "前段規定辦理分割合併,分割合併後原管制耕地面積增加1案,涉及農業發展條例第18條第4項規定適用疑義案,復請查照。\n一、復貴部104年11月30日台內地字第104"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "itp-9f36f550c0",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040212376號",
+ "date": "2015-08-27",
+ "date_text": "104/8/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴部營建署104年3月27日營署綜字第10429004452號函104年3月12日研商農業用地興建農舍辦法修正座談會紀錄案，復請查照。",
+ "content": "一、復貴部104年4月7日內授中辦地字第1041302782號函。\n二、依農業用地興建農舍辦法第12條第3項規定：「已申請興建農舍領有使用執照之農業用地經套繪管制，除符合下列情形之一者外，不得解除：一、農舍坐落之農業用地已變更為非農業用地。二、非屬農舍坐落之農業用地已變更為非農業用地。三、農舍用地面積與農業用地面積比例符合法令規定，經依變更使用執照程序申請解除套繪管制後，該農業用地面積仍達0.25公頃以上。」，先予敘明。\n三、爰建議貴部審查已興建農舍之農業用地部分土地依法申請變更為非農業用地時，應審酌下列原則，以符合農舍之立法意旨：\n(一)該筆農業用地農業經營面積不得低於90%。\n(二)農業發展條例89年1月28日修正生效後取得之農業用地興建農舍者，變更後該筆農業用地面積仍應達0.25公頃以上。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3904",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:58+08:00",
+   "source_key": "rmis:3904"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "12",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "6942f7dd46ed679666eb41eb11a956113de0b340d6493107be684998898a9966",
+ "topics": [
+  "partial_use",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "4年4月7日內授中辦地字第1041302782號函。\n二、依農業用地興建農舍辦法第12條第3項規定:「已申請興建農舍領有使用執照之農業用地經套繪管制,除符合下列情形之一"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "旨:\n(一)該筆農業用地農業經營面積不得低於90%。\n(二)農業發展條例89年1月28日修正生效後取得之農業用地興建農舍者,變更後該筆農業用地面積仍應達"
+  }
+ ]
+}

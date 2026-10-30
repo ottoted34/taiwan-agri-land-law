@@ -1,0 +1,64 @@
+{
+ "id": "itp-abb0ac139a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031810232號",
+ "date": "2014-05-15",
+ "date_text": "103/5/15",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關新北市政府就「行政院農業委員會103年4月25日農授林務字第1031721075號函復有關○○○為興建農舍，申請1筆山坡地保育區林業用地變更作非林業使用案，因相關法規修正，已無從依森林法第6條第2項規定辦理」一案，復請查照。",
+ "content": "一、復貴局103年5月7日林政字第1030214427號函。\n二、有關新北市政府函詢本案係於「農業用地興建農舍辦法」(以下簡稱本辦法)102年7月1日修正發布前即受理申請，得否續辦農舍申請相關程序一節，按「(一)本辦法第16條補救措施規定之適用對象，指於本辦法101年12月14日預告前已取得興建農舍資格核定文件者，無論是否涉及本辦法第5條之禁止事項，於向直轄市、縣(市)主管建築機關申請建造執照時，得適用本辦法102年7月3日修正生效前規定辦理。(二)非屬本辦法第16條規定適用對象，而屬本辦法102年7月3日修正生效前已提出申請興建農舍之案件，其新、舊規定適用應依中央法規標準法第18條規定辦理，即原則適用新法規，惟舊法規有利於申請人且申請案件未涉及本辦法第5條禁止興建農舍之情形者，得依本辦法102年7月3日修正生效前規定辦理。」為內政部102年12月2日台內營字第1020812072號令(如附件)釋有案，爰本案請貴局依內政部前開號令卓處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3847",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:55+08:00",
+   "source_key": "rmis:3847"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "eb36ffdb54f77ffae9bbb707edbe6effec88baa57332ac0afe09106987687588",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第1030214427號函。\n二、有關新北市政府函詢本案係於「農業用地興建農舍辦法」(以下簡稱本辦法)102年7月1日修正發布前即受理申請,得否續辦農舍申請相關程序"
+  }
+ ]
+}

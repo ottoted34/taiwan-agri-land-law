@@ -1,0 +1,64 @@
+{
+ "id": "itp-e022d69958",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070244102號",
+ "date": "2018-11-02",
+ "date_text": "107/11/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋整筆農業用地作農村再生設施認定疑義",
+ "content": "主旨：有關貴府函詢貴轄太保市○○○地號土地申請核發農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴府107年10月19日府農務字第1070207955號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書(以下簡稱農用證明)。所稱農業使用於農業發展條例第3條第12款業有明文定義，「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、查前開辦法第6條第5款規定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：五、農業用地上存在由中央主管機關興建或補助供農村社區使用之農村再生相關公共設施，且符合下列各目規定：(一)位於已核定農村再生計畫範圍內。 (二)該筆農業用地為私人無償提供且具公眾使用之公共設施。(三)經中央主管機關出具符合前二目之證明文件。」爰農業用地施設有農村再生設施者，除應符合該款各目條件外，亦須符合「部分面積」、「不影響供農業使用」，始得認定為作農業使用。倘整筆土地均作為農村再生相關公共設施使用，自未符上開規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5133",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:01+08:00",
+   "source_key": "rmis:5133"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9679272566ff3fb008c0b526eb1f59a656f377f8b647023617574f3a6fb89787",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "農業用地作農業使用證明書(以下簡稱農用證明)。所稱農業使用於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、畜牧、保育及設置相關之農業設施或農舍等使用者。」本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、查前開辦法第6條第5款規定略以:「農業用地部分面積有下列情形"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-312524c26f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080227462號",
+ "date": "2019-07-08",
+ "date_text": "108/7/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府所詢審查農民資格時，得否因休耕多年而往前彙集2年生產經營實績疑義案，復如說明，請查照。",
+ "content": "一、復貴府108年6月28日府農農字第1080124464號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關旨案涉及農業用地興建農舍辦法(以下簡稱本辦法)第2條、第3條及第3條之1之執行疑義，本會前於106年7月28日以農水保字第1061856255號函(諒達)說明在案。意即申請興建農舍時，除申請人身分認定以外，均須審查經營計畫書及該筆農業用地自申請日往前起算至少2年經營實績，以確認該筆農業用地確有積極農用之事實，併予敘明。\n四、又農業用地因休耕而未實際供農作，因已無農業經營之事實，故未符本辦法明定可興建農舍之意旨，請參照本會102年10月16日農水保字第1020232325號函、108年2月26日農企字第1080704481號函(請至農舍解釋函查詢系統查詢)。爰旨案是否有農業經營之事實且衍生興建農舍輔助農事之需求不無疑義，請貴局仍應就申請個案審認是否符合上開積極農用之意旨，並就其興建農舍之必要性予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4616",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:22+08:00",
+   "source_key": "rmis:4616"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "92ca0d811fd8d9001634349c6a11c9152352c79302ad552609ffb3ea30fd12c6",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",並非擁有農業用地即可興建農舍,先予敘明。\n三、有關旨案涉及農業用地興建農舍辦法(以下簡稱本辦法)第2條、第3條及第3條之1之執行疑義,本會前於106年7月28"
+  }
+ ]
+}

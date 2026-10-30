@@ -1,0 +1,81 @@
+{
+ "id": "itp-fc9b37f733",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020227579號",
+ "date": "2013-10-14",
+ "date_text": "102/10/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "非都市土地特定農業區或養殖漁業生產區範圍內之農業用地申請作休閒農場，得否依「農業主管機關同意農業用地變更使用審查作業要點」規定辦理土地變更疑義案。",
+ "content": "主旨：有關貴府函詢非都市土地特定農業區或養殖漁業生產區範圍內之農業用地申請作休閒農場，得否依「農業主管機關同意農業用地變更使用審查作業要點」規定辦理地變更疑義案，復如說明，請查照。\n說明：\n一、復貴府102年8月15日府農輔字第1020130578號函。\n二、查農業主管機關同意農業用地變更使用審查作業要點(以下簡稱變更作業要點)第6點第8款規定：「非都市土地特定農業區之農業用地，不同意變更使用。但符合下列情形之一，且無前點各款情形之ㄧ者，得申請變更使用： (八)經『中央農業主管機關』專案核准或輔導之休閒等農業相關設施之所需用地」，爰貴府受理特定農業區農業用地變更作休閒農場相關設施使用之申請案，需先經本會審核同意後，始得依休閒農業輔導管理辦法第14條規定辦理。\n三、至非屬特定農業區之農業用地變更作休閒農場之相關設施使用者，倘涉及變更作業要點第7點第6款規定：「經政府核定之養殖漁業生產區範圍內之農業用地，不同意變更使用。但符合下列情形之一，且無第五點各款情形之ㄧ者，得申請變更使用：(六)農業主管機關核准或輔導之．．．休閒等農業相關設施之所需用地。」則經本會或直轄市、縣(市)政府主管機關依休閒農業輔導管理辦法審核同意設置者，得有該款規定之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5015",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:09+08:00",
+   "source_key": "rmis:5015"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": "14",
+    "amended_on": "2018-05-18",
+    "history": "中華民國107年05月18日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": "14",
+    "amended_on": "2020-07-10",
+    "history": "中華民國109年07月10日行政院農業委員會農輔字第 1090023080A 號令修正發布第 10、14、19、20、24、25、27、29、43、44 條條文，並增訂第 39-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "9aa64cb94917c594998d850739c881d45c5d933dd2c9999ebebc3e901504a201",
+ "topics": [
+  "land_change",
+  "aquaculture",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業區或養殖漁業生產區範圍內之農業用地申請作休閒農場,得否依「農業主管機關同意農業用地變更使用審查作業要點」規定辦理土地變更疑義案。\n主旨:有關貴府函詢非都市土地特定農業區或養殖漁業生產區"
+  },
+  {
+   "law_id": "RMIS-2002",
+   "article": "14",
+   "kind": "extracted",
+   "snippet": "作休閒農場相關設施使用之申請案,需先經本會審核同意後,始得依休閒農業輔導管理辦法第14條規定辦理。\n三、至非屬特定農業區之農業用地變更作休閒農場之相關設施使用者,倘涉及"
+  }
+ ]
+}

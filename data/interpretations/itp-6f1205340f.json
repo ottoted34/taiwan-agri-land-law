@@ -1,0 +1,64 @@
+{
+ "id": "itp-6f1205340f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960158892號",
+ "date": "2007-10-25",
+ "date_text": "96/10/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋○○有限公司申請特定農業區農牧用地變更作廢棄物回收設施使用之隔離設施寬度審查疑義。",
+ "content": "主旨：有關○○有限公司申請特定農業區農牧用地變更作廢棄物回收設施使用之隔離設施寬度審查疑義一案，復請　查照。\n說明：\n一、復　貴府96年10月18日府農企字第○○○○○號函。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」第11點及第12點規定，隔離綠帶或隔離設施之規劃配置，應分別以各該申請變更編定之事業面積為審認範圍，如與毗鄰農業用地相緊臨者，應設置一定寬度之隔離綠帶或設施，合先敘明。\n三、依來函說明所敘，本案屬同一開發行為，而旨揭公司因申請新增湖口鄉○○○及○○○地號2筆土地變更使用，致面積合計達1公頃以上，故建議貴府先查明92年間已同意變更之興辦事業計畫有無變動，如已變更為特定目的事業用地未涉及原核准興辦事業計畫之變更，得維持原核定之隔離設施寬度；惟如已涉及原核准興辦事業計畫之變更，宜併同新申請變更事業面積重新檢討、分別計算其隔離綠帶或隔離設施規定，再考量整體事業計畫範圍與四鄰土地之相容使用情形，予以配置寬度。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5223",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:50+08:00",
+   "source_key": "rmis:5223"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "2baace332c9194de29774e143c7a4ea1ed7e64258bbe3b2adc73be1b0d33c357",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "復 貴府96年10月18日府農企字第○○○○○號函。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」第11點及第12點規定,隔離綠帶或隔離設施之規劃配置,應分別以各該申請變更編定之"
+  }
+ ]
+}

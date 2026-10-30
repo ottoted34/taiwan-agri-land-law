@@ -1,0 +1,55 @@
+{
+ "id": "itp-332da41d32",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040242003號",
+ "date": "2015-11-02",
+ "date_text": "104/11/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為農業用地興建農舍辦法相關疑義案，復請查照。",
+ "content": "一、復貴府104年10月26日府農農字第1040223500號函。\n二、貴府依轄區特性訂定申請人應檢附之佐證文件，倘日後查有資料不實者，自得依農業用地興建農舍辦法(以下簡稱本辦法)第13條規定撤銷其核定，並由主管建築機關撤銷其建築許可。\n三、另首揭函提及申請人將其房屋移轉予其配偶，是否得以同意興建農舍一節，查本辦法業於104年9月4日修正，增加第2條第2項申請人應檢附經營計畫書，以供審認確供農業使用與不影響農業生產環境及農村發展。上開經營計畫書格式業經本會於104年10月21日農水保字第1041866479號函送在案，該經營計畫書應請申請人敘明興建農舍之需求，貴府得依其興建農舍具農業經營與居住需求之合理性、必要性進行審查，又依民法第1001條「夫妻互負同居義務」，請貴府本於權責覈實審認興建農舍要件並依規辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3613",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:58+08:00",
+   "source_key": "rmis:3613"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a0e33b02df2fb8a9a3c324ccad56fec0a944572a9316669e4da1413eededc176",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函為農業用地興建農舍辦法相關疑義案,復請查照。\n一、復貴府104年10月26日府農農字第10402235"
+  }
+ ]
+}

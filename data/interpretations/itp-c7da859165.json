@@ -1,0 +1,54 @@
+{
+ "id": "itp-c7da859165",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1041013028號",
+ "date": "2015-09-17",
+ "date_text": "104/9/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：貴府函為○○○申請農業用地作菇類栽培場併附屬設置綠能設施容許使用案，復請查照。\n說明：\n一、復貴府104年7月17日府農務字第1040131744號函。\n二、案依貴府函附申請書件，應請申請人釐清補充，由貴府就個案事實核實審認：\n(一)其中經營計畫3.生產計畫敘明黑木耳菌種來源為○○股份有限公司，惟經查證該公司未生產黑木耳菌種；另10.農業事業廢棄物處理及再利用計畫僅敘明利用菇類栽培場空檔期間拆卸部分菇包架作為廢棄菇包處理場，未敘明處理量。\n(二)另所涉有機菇類栽培一節，查○○○之菇類栽培場尚未通過有機驗證，倘欲生產有機菇菌類產品，其栽培場應先予輔導通過有機驗證，且本案栽培使用之菌種、場地及分裝流通過程均通過有機驗證，所生產之菇類產品始得以有機名義販售。併予說明。\n三、至有關以太陽能光電板取代鐵皮浪板作為農業設施之屋頂一節，依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第28條規定略以：「本辦法附表所定之各類農業設施，得附屬設置綠能設施。」其應指於農業設施屋頂附屬設置者而言，又該農業設施應屬可申領建造執照及使用執照之建物型態，始可依再生能源發電設備設置管理辦法申請屋頂型太陽能光電發電設備，並歸類為屋頂型綠能設施。爰直接以太陽能板作為屋頂，允難認屬合於上開規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5441",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:41+08:00",
+   "source_key": "rmis:5441"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a4ee548220d45662ca5c0e8ed77de636340e64e7af5e39431d1582dae622867b",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請農業設施容許使用審查辦法-農糧署解釋函\n主旨:貴府函為○○○申請農業用地作菇類栽培場併附屬設置綠能設施容"
+  }
+ ]
+}

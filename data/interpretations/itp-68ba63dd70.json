@@ -1,0 +1,73 @@
+{
+ "id": "itp-68ba63dd70",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970105803號",
+ "date": "2008-02-05",
+ "date_text": "97/2/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "016 釋農業用地作農業使用認定及核發證明辦法從來使用之證明文件案",
+ "content": "一、查農業用地作農業使用認定及核發證明辦法第5條第2款明定：「農業用地上施設有農業設施，並檢附下列各款文件之一：（一）容許使用同意書及建築執照。但依法免申請建築執照者，免附建築執照。（二）農業設施得為從來使用之證明文件。」所稱「農業設施得為從來使用之證明文件」一節，本會前已函 貴府等請依內政部82年函釋規定辦理在案，該函釋內容略以：「...可由縣市政府主動查證或由土地所有權人（或使用人）檢具下列文件之一：（一）編定公告前已作該項使用之航照圖或基本圖，（二）編定公告前，其地目足以顯示作該項使用之地籍謄本，（三）編定公告前相關機關核准或證明已作該項使用之文件，（四）其他足堪證明在編定公告前已作該項使用之相關文件。經當地縣市政府認定確為編定前已作該項使用後，准予維持從來之使用...」\n二、本案當事人檢附門牌證明、設籍證明及用電證明等文件，得否依前開規定認定為從來使用，請本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5494",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:24+08:00",
+   "source_key": "rmis:5494"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a92c57998710c2d02c839b624df60913e096d1b2ff39d91846db378c91b7cb4f",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "用地作農業使用認定及核發證明辦法從來使用之證明文件案\n一、查農業用地作農業使用認定及核發證明辦法第5條第2款明定:「農業用地上施設有農業設施,並檢附下列各款文件之一:(一)容許使用同"
+  }
+ ]
+}

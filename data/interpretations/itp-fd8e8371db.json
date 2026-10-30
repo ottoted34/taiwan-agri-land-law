@@ -1,0 +1,64 @@
+{
+ "id": "itp-fd8e8371db",
+ "doc_class": "interpretation",
+ "docno": "內授營建管字第1040426214號",
+ "date": "2015-08-03",
+ "date_text": "104/8/3",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "有關農業發展條例89年修正前，依原「臺灣省申請自用農舍補充注意事項」規定以10公里範圍內未毗鄰農業用地合併檢討興建農舍之案件，申請農舍原使用執照內附加註記之配合耕地地號之變更疑義1案，復請查照。",
+ "content": "一、復貴府104年7月14日府建管字第1040109304號函。\n二、本部99年9月21日內授營建管字第0990807865號函示略以:「......該條例(農業發展條例)修正前，依原『臺灣省申請自用農舍補充注意事項』規定，以10公里範圍內之耕地合併申請興建農舍領得使用執照之案件......其申請農舍原使用執照內附加註記之配合耕地地號之變更......得依該農舍申請興建當時之法令依據及許可條件，以及現行申請變更使用執照程序，以其10公里範圍內之耕地檢討辦理......。」故有關農業發展條例89年修正前，依原「臺灣省申請自用農舍補充注意事項」規定以10公里範圍內未毗鄰農業用地合併檢討興建農舍之案件，申請農舍原使用執照內附加註記之配合耕地地號之變更，該用以交換之土地，應為農舍坐落土地之所有權人所有。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3340",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:17+08:00",
+   "source_key": "rmis:3340"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-0d3ae48122",
+    "by_docno": "農企字第1090216292號",
+    "by_date": "2020-05-21",
+    "kind": "amend",
+    "phrase": "三、有關貴部 99年9月21日內授營建管字第 0990807865號函釋雖表示:「...以 10公里範圍內之耕地合併申請興建農舍領得使用執照之案件,...該條例修正前原提供興建農舍之配合耕地之檢討,得依該農舍申請興建當時之法令依據及許可條件,以及現行申請變更使用執照程序,以其 10公里範圍內耕地檢討辦理...」,但為落實本條第 4項立法目標,引導農舍與農地經營結合,且減少後續農舍管理糾紛,貴部亦於"
+   }
+  ]
+ },
+ "content_hash": "9bcc00ecf93cae377c4829988e0b00169071d04f7a1e7b45adc2511d8bf9a9da",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例89年修正前,依原「臺灣省申請自用農舍補充注意事項」規定以10公里範圍內未毗鄰農"
+  }
+ ]
+}

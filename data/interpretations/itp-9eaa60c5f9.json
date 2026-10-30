@@ -1,0 +1,48 @@
+{
+ "id": "itp-9eaa60c5f9",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051804309號",
+ "date": "2016-04-19",
+ "date_text": "105/4/19",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關雲林縣政府詢問土地編定公告前已設置之農舍及其附屬設施之審認疑義案，因涉及區域計畫建築管理辦法規定，應請貴署主政回復，請查照。",
+ "content": "依據行政院農業委員會農糧署105年4月14日農糧企字第1051036266號函轉雲林縣政府105年4月8日府農務二字第1052507046號函辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3242",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:14+08:00",
+   "source_key": "rmis:3242"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "58163b8202731ff321e0806b1ae3d29d82410e2207e4d6937edecd52bc6dcb18",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

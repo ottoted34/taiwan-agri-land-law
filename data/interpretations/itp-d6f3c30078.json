@@ -1,0 +1,61 @@
+{
+ "id": "itp-d6f3c30078",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080222071號",
+ "date": "2019-06-14",
+ "date_text": "108/6/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請變更範圍內有夾雜未申請變更之農業用地者原則上不同意變更使用",
+ "content": "主旨：有關○○股份有限公司申請貴縣新園鄉○○○、○○○及○○○地號等3筆土地變更太陽光電發電設施使用興辦事業計畫一案，復如說明，請查照。\n說明：\n一、復貴府108 年5 月27 日屏府農企字第10819436000 號函。\n二、查農業發展條例第10條明定，農業用地劃定或變更為非農業使用時，應以不影響農業生產環境之完整；復依據「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款規定：「農業用地變更使用，應避免影響農業生產環境之完整。有下列情形之一者，不同意變更使用：(三)申請變更範圍內夾雜未申請變更之農業用地且妨礙其農業經營者。」，又所稱「夾雜」係指未申請變更之農業用地為新申請變更編定之用地與原已變更編定之用地所包圍，致該農業用地無通路與外界聯絡等情形，故申請變更範圍內有夾雜未申請變更之農業用地者，原則上不同意變更使用，合先敘明。\n三、旨案貴府來函所附文件，顯示申請變更範圍內夾雜未申請變更之農業用地，且留設於隔離綠帶或設施範圍內，並無通路與外界聯絡，恐妨礙其農業經營外，亦造成農地零碎使用情形，原則上不同意變更使用，倘本案仍有變更使用之需要，應以不影響農業生產環境之完整下，調整原申請變更範圍，或取得該夾雜農業用地之所有權人同意，合併辦理用地變更為宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5588",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:44+08:00",
+   "source_key": "rmis:5588"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5470ac7787bf485dadc7cdce5ba67ea49f07b5eaf71913eedf186a3337a1a01f",
+ "topics": [
+  "land_change",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "月27 日屏府農企字第10819436000 號函。\n二、查農業發展條例第10條明定,農業用地劃定或變更為非農業使用時,應以不影響農業生產環境之完整;復依據「農"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定或變更為非農業使用時,應以不影響農業生產環境之完整;復依據「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款規定:「農業用地變更使用,應避免影響農業生產環境之完整。有下列情形之"
+  }
+ ]
+}

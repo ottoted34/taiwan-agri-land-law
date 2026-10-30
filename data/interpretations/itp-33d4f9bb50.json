@@ -1,0 +1,65 @@
+{
+ "id": "itp-33d4f9bb50",
+ "doc_class": "interpretation",
+ "docno": "台內營字第1030806572號",
+ "date": "2014-07-01",
+ "date_text": "103/7/1",
+ "agency_text": "內政部",
+ "category": "解釋令",
+ "subject": "有關農業發展條例八十九年修正前，依原「臺灣省申請自用農舍補充注意事項」規定以十公里範圍內未毗鄰農業用地合併檢討興建農舍之案件辦理解除套繪，該農舍坐落之農業用地面積及其符合規定比例之多筆農業用地面積合計大於零點二五公頃，其餘超出規定比例部分之農業用地得免經其他土地所有權人之同意，逕依變更使用執照程序解除套繪管制，且不論農舍坐落地號或提供興建農舍所有地號之土地所有權人，均得提出申請變更使用執照解除套繪管制，自即日生效。",
+ "content": "無",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2821",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:31+08:00",
+   "source_key": "rmis:2821"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "20c2c4dd6e310d000828e1412710d102ed729686322c04eaf130ec67a3caa9df",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例八十九年修正前,依原「臺灣省申請自用農舍補充注意事項」規定以十公里範圍內未毗鄰農"
+  }
+ ]
+}

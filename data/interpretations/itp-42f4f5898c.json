@@ -1,0 +1,66 @@
+{
+ "id": "itp-42f4f5898c",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020706536號",
+ "date": "2013-03-13",
+ "date_text": "102/3/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "法院共有物分割判決書、確定證明及分割複丈通知書等文件，申辦農業用地作農業使用證明書一案。",
+ "content": "主旨：有關 台端函詢法院共有物分割判決書、確定證明及分割複丈通知書等文件，申辦農業用地作農業使用證明書一案，復如說明，請 查照。\n說明：\n一、復 台端102年2月27日申請書。\n二、查農業用地應作農業使用，始得核發農業用地作農業使用證明書(以下簡稱農用證明)，俾供持憑辦理申請興建自用農舍或相關稅賦減免優惠，本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據(請逕至本會農地法規檢索系統查詢，網址http://talis.coa.v.tw/ALRIS/）。\n三、依前開辦法第9條第1項所規範應檢具之文件資料，包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」，爰農用證明之核發，依法應就該土地登記簿謄本所載地號查核是否作農業使用。惟按民法第759條規定，不動產物權因法院判決而取得者，不以須經登記為生效要件，所稱法院判決係指分割共有物之形成判決。又同法第824條之1第1項規定，共有人自共有物分割之效力發生時起，取得分得部分之所有權。所稱「效力發生時」，於裁判分割，則指在分割之形成判決確定時。換言之，共有土地分割判決倘經法院確定者，即取得分割部分土地所有權之效力，自得以地政機關配合判決結果核發之成果圖作為上開查核是否作農業使用之範圍依據，申請核發農用證明。\n四、綜上，台端所提問題因涉及個案執行事宜，建議可逕向高雄市政府洽詢協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5115",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:33+08:00",
+   "source_key": "rmis:5115"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4cb7b8bcb263e09383e155ecebd448d2b2ce853f370b3830ab2f6be5e795378d",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",俾供持憑辦理申請興建自用農舍或相關稅賦減免優惠,本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據(請逕至本會農地法規檢索系統查詢,網址http://talis.co"
+  }
+ ]
+}

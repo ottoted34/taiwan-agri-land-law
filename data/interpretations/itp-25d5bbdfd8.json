@@ -1,0 +1,61 @@
+{
+ "id": "itp-25d5bbdfd8",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041891422號",
+ "date": "2015-12-23",
+ "date_text": "104/12/23",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關桃園市政府農業局函詢該轄民眾於山坡地保育區農牧用地已設置休閒農場後是否可再興建農舍一案，事涉休間農業輔導管理辦法及申請農業用地作農業設施容許使用審查辦法相關規定，請鑒核。",
+ "content": "一、依據桃園市政府農業局104年12月11日桃農管字第1040032053號函辦理。\n二、依農業用地興建農舍辦法第9條第1項及同條第2項第3款規定，興建農舍起造人應為該農舍坐落土地之所有權人，且其農舍用地面積不得超過該筆農業用地面積10%，先予敘明。\n三、本案已設置休間農場，其各項設施面積未達30%，得否再興建農舍，因涉休間農業輔導管理辦法及申請農業用地作農業設施容許使用審查辦法有關最大農業設施面積之限制，敬請鈞會核釋。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4005",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:11+08:00",
+   "source_key": "rmis:4005"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cdca5828fca747d1223a016229ecba0fe284a2c4a08ce09e0f7c7b15a9ce2140",
+ "topics": [
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "置休閒農場後是否可再興建農舍一案,事涉休間農業輔導管理辦法及申請農業用地作農業設施容許使用審查辦法相關規定,請鑒核。\n一、依據桃園市政府農業局104年12月11日桃農管字第104"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "12月11日桃農管字第1040032053號函辦理。\n二、依農業用地興建農舍辦法第9條第1項及同條第2項第3款規定,興建農舍起造人應為該農舍坐落土地之所有權人,且其農"
+  }
+ ]
+}

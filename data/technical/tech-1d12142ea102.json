@@ -1,0 +1,45 @@
+{
+ "id": "tech-1d12142ea102",
+ "source_key": "datamoa:740:97ea621b6f4e0f2f",
+ "title": "果園草生栽培管理",
+ "series": "技術專刊",
+ "issue": "技術專刊99-3(NO.149)",
+ "agency_id": "tndais",
+ "authors": "張汶肇、吳建銘、吳昭慧",
+ "date": "2010-12",
+ "url": "http://book.tndais.gov.tw/Brochure/tech149.htm",
+ "isbn": "978-986-02-6597-2",
+ "gpn": "1009904816",
+ "pages": "83頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊99-3(NO.149)",
+  "題目": "果園草生栽培管理",
+  "作者": "張汶肇、吳建銘、吳昭慧",
+  "出版日期年月": "09912",
+  "頁數": "83頁",
+  "定價": "120",
+  "政府出版品編號GPN": "1009904816",
+  "ISBN": "978-986-02-6597-2",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech149.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T10:26:45+08:00"
+  }
+ ],
+ "content_hash": "c96b1bde168983a7b5ee51e04b0dcd21b580d45b3a3ba20b2d117a3a4272e4a2",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": [
+  "mgmt"
+ ]
+}

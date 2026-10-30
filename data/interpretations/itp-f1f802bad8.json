@@ -1,0 +1,52 @@
+{
+ "id": "itp-f1f802bad8",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010115139號",
+ "date": "2012-07-11",
+ "date_text": "101/7/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業發展條例修正施行前訂定之耕地租約租佃雙方另有約定終止租約要件者，是否屬該條例第20條第2項之除外規定疑義一案。",
+ "content": "主旨：有關農業發展條例修正施行前訂定之耕地租約租佃雙方另有約定終止租約要件者，是否屬該條例第20條第2項之除外規定疑義一案，復如說明，請 查照。\n說明：\n一、復 貴部101年6月22日內授中辦地字第1016651110號函。\n二、查農業發展條例第20條第1項後段及第2項規定略以：「...本條例未規定者，適用土地法、民法及其他有關法律之規定。」、「本條例中華民國八十九年一月四日修正施行前已依耕地三七五減租條例，或已依土地法及其他法律之規定訂定租約者，除出租人及承租人另有約定者外，其權利義務關係、租約之續約、修正及終止，悉依該法律之規定。」，按其立法意旨，係規定本條例修正施行前已依耕地三七五減租條例，或依土地法及其他法律規定訂定租約者，涉及權利義務關係、租約之續約、修正及終止等事項，仍應依該法律規定辦理。即原已訂有租約之業佃雙方權益不因本條例之新規定而受影響。至非屬上開法律規定事項者，始得由出租人及承租人另行約定之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4787",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:21+08:00",
+   "source_key": "rmis:4787"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7b06f1e3b8fbb9265abf509c7567c36da4604a80b711ee7f362274d1e5a4bac2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "20",
+   "kind": "extracted",
+   "snippet": "年6月22日內授中辦地字第1016651110號函。\n二、查農業發展條例第20條第1項後段及第2項規定略以:「...本條例未規定者,適用土地法、民法及其他有關法"
+  }
+ ]
+}

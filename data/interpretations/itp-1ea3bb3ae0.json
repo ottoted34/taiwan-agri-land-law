@@ -1,0 +1,106 @@
+{
+ "id": "itp-1ea3bb3ae0",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970171413號",
+ "date": "2008-12-25",
+ "date_text": "97/12/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "055 釋經核定休閒農業區範圍內之休閒農業設施，符合作農業使用之認定案",
+ "content": "一、查農業發展條例第3條第12款明定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」所稱「農業設施」於農業用地容許作農業設施使用審查辦法第3條及第19條分別明定：「本辦法所稱之農業設施種類如下：一、...五、休閒農業設施。」、「農業用地容許作為休閒農業設施使用，應依休閒農業輔導管理辦法規定提出申請。」因此，本會95年4月25日農企字第0950121233號函釋（諒達）略以：「...倘該休閒農業區範圍內之各項公共設施經認定為休閒農業設施經依休閒農業相關法規規定，申請核准施設，且取得相關證明文件者，該農業用地得依前開規定認定為作農業使用。」\n二、又依休閒農場輔導管理辦法第19條第3項規定，應辦理容許使用之休閒農業設施，經依法申請核准，並取得相關證明文件者，仍得有前開函釋之適用。另同辦法第23條明定：「休閒農場應依公司法、商業登記法、發展觀光條例、食品衛生管理法、營利事業統一發證辦法、營利事業登記規則、營業稅法、所得稅法、房屋稅條例及土地稅法等相關規定辦理營業登記及納稅。」併予敘明。\n三、綜上，旨揭休閒農場及其相關休閒農業設施倘依前開規定依法申請核准，仍得認定其符合作農業使用，並不因其已辦理營業登記而否定前開認定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4935",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:24+08:00",
+   "source_key": "rmis:4935"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "3",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "3",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": null,
+    "amended_on": "2018-05-18",
+    "history": "中華民國107年05月18日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "6791bd190912381bfb0259d926051b180d445093b09fd2a117d04937c0c034c8",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "閒農業區範圍內之休閒農業設施,符合作農業使用之認定案\n一、查農業發展條例第3條第12款明定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "保育及設置相關之農業設施或農舍等使用者。」所稱「農業設施」於農業用地容許作農業設施使用審查辦法第3條及第19條分別明定:「本辦法所稱之農業設施種類如下:一、...五、休閒農業設施。"
+  },
+  {
+   "law_id": "RMIS-2002",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、休閒農業設施。」、「農業用地容許作為休閒農業設施使用,應依休閒農業輔導管理辦法規定提出申請。」因此,本會95年4月25日農企字第0950121233號函釋(諒"
+  }
+ ]
+}

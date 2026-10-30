@@ -1,0 +1,54 @@
+{
+ "id": "itp-e21363f776",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1031004147號",
+ "date": "2014-04-07",
+ "date_text": "103/4/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "生產綠豆芽所涉之農業設施，依申請農業用地作農業設施容許使用審查辦法規定，其適用之設施類別及許可使用細目疑義案。",
+ "content": "主旨：有關貴府函詢生產綠豆芽所涉之農業設施，依申請農業用地作農業設施容許使用審查辦法規定，其適用之設施類別及許可使用細目疑義案，復請查照。\n說明：\n一、復貴府103 年3 月20 日屏府農企字第10308385900 號函。\n二、查綠豆芽栽培所需配置空間包括植物栽培區、採收作業區、分級包裝處理區等，除植物栽培區不需光源外，其餘作業所需空間仍需要光源，俾利相關處理作業。因此，生產綠豆芽之農業設施，允以「農業生產設施-溫室及植物環控栽培設施」提出申請。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4889",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:28+08:00",
+   "source_key": "rmis:4889"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "904a844e2b5c3bc5126e72f686b45f018b22a6ba654cee0cdba91312c1fa3226",
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "生產綠豆芽所涉之農業設施,依申請農業用地作農業設施容許使用審查辦法規定,其適用之設施類別及許可使用細目疑義案。\n主旨:有關貴府函詢生產綠豆芽所涉之"
+  }
+ ]
+}

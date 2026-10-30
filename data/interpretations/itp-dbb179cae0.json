@@ -1,0 +1,70 @@
+{
+ "id": "itp-dbb179cae0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020226011號",
+ "date": "2013-09-03",
+ "date_text": "102/9/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "三芝區農會理事會會議建議放寬農地可放置貨櫃貯存農業生產用具，依農業發展條例第8條之1認屬無固定基礎設施一案。",
+ "content": "主旨：有關貴府函為三芝區農會理事會會議建議放寬農地可放置貨櫃貯存農業生產用具，依農業發展條例第8條之1認屬無固定基礎設施一案，復請查照。\n說明：\n一、復貴府102年8月2日北府農牧字第1022380543號函。\n二、依據農業發展條例第8條之1第2項規定:「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用．．．」。鑒於貨櫃屋得為農業設施之一種施設方式，又農業用地上放置貨櫃貯存農業生產用具，亦應與農業經營使用相關，爰貴府仍應依「申請農業用地作農業設施容許使用審查辦法」之規定，就農業設施之許可使用細目、興建面積與高度及條件等相關規定，予以審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4921",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:44+08:00",
+   "source_key": "rmis:4921"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "29b1f65168ea4e1f1096b9790091f7cf0834b1027e99938eb20b8d8399049422",
+ "topics": [
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "芝區農會理事會會議建議放寬農地可放置貨櫃貯存農業生產用具,依農業發展條例第8條之1認屬無固定基礎設施一案。\n主旨:有關貴府函為三芝區農會理事會會議建議放寬農地可放"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "置貨櫃貯存農業生產用具,亦應與農業經營使用相關,爰貴府仍應依「申請農業用地作農業設施容許使用審查辦法」之規定,就農業設施之許可使用細目、興建面積與高度及條件等相關規定,予以審認核處。"
+  }
+ ]
+}

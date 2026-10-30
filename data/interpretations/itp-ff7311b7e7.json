@@ -1,0 +1,57 @@
+{
+ "id": "itp-ff7311b7e7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090236038號",
+ "date": "2020-09-11",
+ "date_text": "109/9/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有農舍且違規，申請農用證明不可用分管方式辦理",
+ "content": "主旨：有關貴市樹林區公所函詢農業用地作農業使用認定採分管契約之疑義，詳如說明，請查照。\n說明：\n一、依據貴市樹林區公所109年8月18日新北樹經字第1092522898號函辦理。\n二、依案附貴市樹林區公所函文所述，申請人係為申請貴市樹林區○○○地號土地之農業用地作農業使用證明書，又依附件資料所示，上開土地為共有農業用地，並興建有農舍，經樹林區公所現勘後農地有建物、水泥地坪等違規情形。基於農舍為與農業經營不可分離之建築物，其10%農舍用地與90%農業經營用地具有不可分離之關係，爰本會104年4月16日以農企字第1040209001號函說明，共有農業用地興建農舍倘有違規使用，須以整筆土地違規使用論處，尚無依「農業用地作農業使用認定及核發證明辦法」第6條第6款及第8條規定得以分管契約等方式辦理，即不得將農舍與其餘農業經營用地之使用情形分開視之，而僅就農舍或其餘農業經營用地核發農業用地作農業使用證明書。爰本案倘屬上開共有農業用地已興建農舍而有違規使用情事，自無法以分管契約等方式辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5602",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:53+08:00",
+   "source_key": "rmis:5602"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bd5dcfa77ff1125942b6e37bc4edff0771ffe0257cf1257001ee03fa60f6c87d",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "業用地興建農舍倘有違規使用,須以整筆土地違規使用論處,尚無依「農業用地作農業使用認定及核發證明辦法」第6條第6款及第8條規定得以分管契約等方式辦理,即不得將農舍與其餘農業經營用地之使用情"
+  }
+ ]
+}

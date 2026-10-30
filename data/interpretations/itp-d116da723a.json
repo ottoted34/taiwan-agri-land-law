@@ -1,0 +1,62 @@
+{
+ "id": "itp-d116da723a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041886779號",
+ "date": "2015-10-20",
+ "date_text": "104/10/20",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾申請自用農舍之申請人身分疑義案，復請查照。",
+ "content": "一、復貴府104年9月10日府農農字第1040187566號函。\n二、依農業發展條例第18條規定，無自用農舍而需興建者，得申請興建農舍，爰申請人應確實為農業經營所需而興建農舍，並符合農業用地興建農舍辦法相關規定，先予敘明。\n三、農業用地上准許興建農舍，係提供有心經營農業卻無自用農舍者於該農地上興建具有放置農機具兼具居住需求之構造物，以便利其從事農事工作。爰此，農業發展條例第18條第4項規定「農舍起造人應為該農舍坐落土地之所有權人」乃考量農舍係與農業經營不可分離之前提下興建，為確保農業經營之合理與效率，規範起造人應與坐落農業用地同一人。\n四、依農業用地興建農舍辦法第3條之1規定:「農民之認定，由農民於申請興建農舍時，檢附農業生產相關佐證資料，經直轄市、縣(市)\n主管機關會同專家、學者會勘後認定之。但屬農民健康保險被保險人或全民健康保險第三類被保險人者，不在此限。」，惟個案認定係屬直轄市、縣市政府權責，請貴府依前開規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3504",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:08+08:00",
+   "source_key": "rmis:3504"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "40d9f9fadc28d43e183bd389adbb06649334c8af5d70fa2aed963ca85d2917eb",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "04年9月10日府農農字第1040187566號函。\n二、依農業發展條例第18條規定,無自用農舍而需興建者,得申請興建農舍,爰申請人應確實為農業經營所需而興建農"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "經營之合理與效率,規範起造人應與坐落農業用地同一人。\n四、依農業用地興建農舍辦法第3條之1規定:「農民之認定,由農民於申請興建農舍時,檢附農業生產相關佐證資料,經直轄市、"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "itp-e6d4902b4f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070251329號",
+ "date": "2019-02-22",
+ "date_text": "108/2/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢參與平地造林計畫之平地造林檢測合格資料，得否據以認定符合農業用地興建農舍辦法第2條、第3條及第3條之1之資格規定疑義案，復如說明，請查照。",
+ "content": "一、依貴府107 年12 月6 日屏府農企字第10783945500 號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求；且於農業用地上興建農舍係為許可之行為，應有積極農業經營生產之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關興建農舍經營計畫書審查項目「既有農業經營現況及規模」，申請人應敘明過去2年內經營實績、農產物種類、產量、銷售情形等，其目的在於審認申請人確有實際從事農業事實，並確保該農舍為特許農民於農業用地上從事積極性、經濟性農業生產活動所需而興建。爰農業用地參與平地造林計畫，亦應檢具上開符合過去2年經營實績等證明文件，以及從林業經營管理得認定具積極使用之事實予以審認。\n四、又查平地造林係依本會「平地造林直接給付及種苗配撥實施要點」(以下簡稱本要點)辦理，平地造林計畫之之法律性質係屬準負擔授益行政處分，倘造林人有違反本要點規定或未履行平地造林之義務，依本要點第13點規定，應廢止原授益行政處分，並命造林人返還已領取之造林費用。\n五、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，請貴府參照前開意見並就個案事實予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4533",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:29+08:00",
+   "source_key": "rmis:4533"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ad641209bbd0145c651439e8d81429939601c9f537af98517c959d0e93c47928",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "函詢參與平地造林計畫之平地造林檢測合格資料,得否據以認定符合農業用地興建農舍辦法第2條、第3條及第3條之1之資格規定疑義案,復如說明,請查照。\n一、依貴府107 年1"
+  }
+ ]
+}

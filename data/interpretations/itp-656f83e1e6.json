@@ -1,0 +1,58 @@
+{
+ "id": "itp-656f83e1e6",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031804236號",
+ "date": "2014-03-03",
+ "date_text": "103/3/3",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為分次取得持分土地其申請興建農舍疑義案，復請查照。",
+ "content": "一、復貴府103年2月24日府農農字第1030038408號函。\n二、有關申請興建農舍之土地取得時點，行政院農業委員會依據民法及土地法規定，前以101年6月29日農水保字第1011865000號令，核釋有案，其後並以102年10月25日農水保字第1021866046號令補充規定。至分次取得土地持分者，應以申請地號最後取得所有權狀態認定之。\n三、檢還原卷1份，並附上開2號令影本各1份供參。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3550",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:58+08:00",
+   "source_key": "rmis:3550"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "1bf3d975635af9714945bac359ab290ba9ffe791b298b22a56b6d934c1f6fcef",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

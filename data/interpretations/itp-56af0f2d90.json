@@ -1,0 +1,64 @@
+{
+ "id": "itp-56af0f2d90",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031822934號",
+ "date": "2014-09-30",
+ "date_text": "103/9/30",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為農業發展條例89年1月4日修正施行前共有耕地，二共有人於農業發展條例修正施行後分割仍為二人共有之耕地，其申請興建農舍疑義案，復請查照。",
+ "content": "一、復貴府103年9月25日府農管字第1030230010號函。\n二、依農業發展條例第18條第3項後段：「本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」，因此，農業發展條例89年修正施行前之共有耕地，於修正施行後辦理分割仍維持共有者，並不符合前開規定，其土地取得時點之認定，應依行政院農業委員會101年6月29日農水保字第1011865000號令規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3582",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:26+08:00",
+   "source_key": "rmis:3582"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "1147ff37a4eabedc2c2d81f9cede76c27e1af1841bd950460bbd9e048e15735b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "03年9月25日府農管字第1030230010號函。\n二、依農業發展條例第18條第3項後段:「本條例中華民國89年1月4日修正施行前共有耕地,而於本條例中華民國"
+  }
+ ]
+}

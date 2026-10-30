@@ -1,0 +1,107 @@
+{
+ "id": "itp-96e0ed3987",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970147417號",
+ "date": "2008-08-27",
+ "date_text": "97/8/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "012 釋環保單位參與審核之機制案",
+ "content": "一、本案宜請先查明該污染控制場址是否經劃定、公告為污染管制區，並依法管制其使用。又其限制使用之項目是否包括農耕及農舍或農業設施之新建、增建、改建、修建等。\n二、本案所稱污染控制場址如有經環保單位限制農耕之行為，則有關農業用地作農業使用證明書之核發宜請依本會89年10月13日(89)農企自第890010356號函釋（諒達）規定辦理。另該場址如未經環保單位限制新建、增建、改建、修建農舍或農業設施，則得依農業用地興建農舍辦法或農業用地容許作農業設施使用審查辦法之規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4882",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:51+08:00",
+   "source_key": "rmis:4882"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a6bca253703a61b84e2661abfb4d1da2b516ad1389a40519d0379661612a515c",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "未經環保單位限制新建、增建、改建、修建農舍或農業設施,則得依農業用地興建農舍辦法或農業用地容許作農業設施使用審查辦法之規定辦理。"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "增建、改建、修建農舍或農業設施,則得依農業用地興建農舍辦法或農業用地容許作農業設施使用審查辦法之規定辦理。"
+  }
+ ]
+}

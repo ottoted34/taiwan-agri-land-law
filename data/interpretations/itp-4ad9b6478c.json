@@ -1,0 +1,53 @@
+{
+ "id": "itp-4ad9b6478c",
+ "doc_class": "interpretation",
+ "docno": "農農保字第1142655512號",
+ "date": "2025-01-23",
+ "date_text": "114/1/23",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "有關依申請農業用地作農業設施容許使用審查辦法申請綠能設施之附屬設施(如變電箱、電桿)容許使用之審認原則，請依說明配合辦理，請查照轉知。",
+ "content": "一、依據申請農業用地作農業設施容許使用審查辦法第27條規定，綠能設施屬地面型者，其搭建基樁應以點狀方式施作，不得改變原地形地貌，並維持適當日照穿透，以避免影響土壤地力，且不得影響鄰地之農業使用與生產環境。基於綠能設施設置之土地為農業用地，須維護土壤地力之永續利用，故對於綠能設施之太陽能設施，係指太陽能板及其附屬設施(如變電箱、電桿)，並不包含輸配電設施(如變電站、升壓站)等建築物或雜項工作物。\n二、前開附屬設施（變電箱、電桿）之基準條件如下：\n(一)綠能設施面積1公頃以下者，得配置1座面積45平方公尺以下之附屬設施。\n(二)綠能設施面積超過1公頃者，以每公頃得配置1座45平方公尺之附屬設施予以計算，惟每座附屬設施不得毗鄰集中設置。\n(三)附屬設施均僅限於自用，並納入綠能設施之總面積計算，不得納入水產養殖設施之電力室、室外養殖電力箱之面積計算。\n三、副本抄送經濟部，請協助於審查時，把關前開附屬設施須以各案場自行使用而非供其他案場使用者，始得納入該案場之綠能設施容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6059",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:31+08:00",
+   "source_key": "rmis:6059"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ed07b78088db58e70069e3d5934f2985439a5c15c890c46bc45322524b57ddb3",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "27",
+   "kind": "extracted",
+   "snippet": "容許使用之審認原則,請依說明配合辦理,請查照轉知。\n一、依據申請農業用地作農業設施容許使用審查辦法第27條規定,綠能設施屬地面型者,其搭建基樁應以點狀方式施作,不得改變原地形地貌,並維持"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "itp-a063973d42",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080254004號",
+ "date": "2019-12-16",
+ "date_text": "108/12/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關參加小地主大專業農計畫(出租人)期間申請興建農舍案，復如說明，請查照。",
+ "content": "一、復貴局108年12月9日南市農工字第1081413063號函。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、復查「小地主大專業農」政策係為促進農業勞動結構年輕化及擴大農業經營規模，輔導老農或無暇耕作之農地所有權人，將自有土地長期出租給有意願擴大農場經營規模之農業經營者，爰農地出租期間，非由地主經營該筆農地，不符合農舍為特許農民於農業用地上從事積極性、經濟性農業生產活動所需興建之立法意旨。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4688",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:32+08:00",
+   "source_key": "rmis:4688"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9c5d73e5aa86d52fb4bfc6e99982b142f3bdeba11d463ed8f8273af1835bfd80",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

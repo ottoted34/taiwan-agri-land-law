@@ -1,0 +1,53 @@
+{
+ "id": "itp-64e13ef8ab",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150702349號",
+ "date": "2026-02-23",
+ "date_text": "115/2/23",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關取得容許使用同意書之綠能設施經買賣移轉後，承受人應否依申請農業用地作農業設施容許使用審查辦法規定，申請經營計畫變更疑義案，詳如說明，請查照。",
+ "content": "一、依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第33條第1項規定：「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，並不得作為住宅、工廠或其他非農業使用。」所謂原核定之計畫內容，應涵蓋容許辦法所定之經營計畫內容。故申請人倘因經營計畫變更，亦應依容許辦法規定，提出變更之申請，並由受理之直轄市、縣(市)政府就其經營計畫變更之合理性及必要性予以審認核處。\n二、至於改制前行政院農業委員會100年7月19日農企字第1000143240號函，係基於簡政便民，倘農業設施符合「已建築完成」、「僅因使用人變更」、「仍依原核定計畫內容使用」之要件，尚無須要求該使用人提出變更同意書之申請。針對貴公司來函所提經取得容許使用同意書之農業設施，因產權移轉需辦理申請人變更，以利設施使用及管理，自得敘明理由向直轄市、縣(市)政府提出申請。至涉及再生能源相關法規規定，建議逕向能源主管機關洽詢。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6071",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:17+08:00",
+   "source_key": "rmis:6071"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9f7878c5ee12f3925ffba97d9b24aa8f7921a94f3b7fb02e285684a7fd92847d",
+ "topics": [
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關取得容許使用同意書之綠能設施經買賣移轉後,承受人應否依申請農業用地作農業設施容許使用審查辦法規定,申請經營計畫變更疑義案,詳如說明,請查照。\n一、依申請農業用地作農業設施容"
+  }
+ ]
+}

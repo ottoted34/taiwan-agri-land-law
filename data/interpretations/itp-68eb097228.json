@@ -1,0 +1,98 @@
+{
+ "id": "itp-68eb097228",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000130832號",
+ "date": "2011-06-02",
+ "date_text": "100/6/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為興建自用農舍之申請人身分疑義案，復請 查照。",
+ "content": "一、復貴府100年5月11日府商建字第1000092533號函暨100年5月24日府農農字第1000102236號函。\n二、農業用地上准許興建「農舍」，係為提供有心經營農業者於該農地上興建具有放置農用機具兼具居住之需求，以便利其農事工作，與一般家居為主之住宅性質不同，若基於「住宅」之目的興建，與前述意旨不符，先予敘明。\n三、農業用地興建農舍辦法第2條規定：「依本條例第18條第3項規定申請興建農舍之申請人應為農民，並符合第3條第1項第4款及第5款規定，…」，亦即農業發展條例89年修法前取得農地之農民無自用農舍而需興建者，不受土地取得及戶籍登記應滿2年之規定。惟仍應符合農業發展條例及農業用地興建農舍辦法之相關規定。\n四、農舍係與農業經營不可分離之構造物，本案申請人未設籍於台灣，如何從事農業經營不無疑義，申請興建農舍非謂具備農業用地興建農舍辦法規定之形式要件，直轄市、縣市即應為許可，仍須經實質審認個案方得否准。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=471",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:59+08:00",
+   "source_key": "rmis:471"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f88d4e5c518c135b42bb5a9fdb1245d7aa9b8d733d50a67ba9f8f839e3acc0eb",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": ",若基於「住宅」之目的興建,與前述意旨不符,先予敘明。\n三、農業用地興建農舍辦法第2條規定:「依本條例第18條第3項規定申請興建農舍之申請人應為農民,並符合第3條第1"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "為農民,並符合第3條第1項第4款及第5款規定,...」,亦即農業發展條例89年修法前取得農地之農民無自用農舍而需興建者,不受土地取得及戶籍登記應滿2年之"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-469c4fc7d4",
+ "doc_class": "interpretation",
+ "docno": "農授農保字第1120252931號",
+ "date": "2023-11-23",
+ "date_text": "112/11/23",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "有關貴府函詢自用農業用地興建農舍滿五年始得移轉案，復如說明，請查照",
+ "content": "一、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，亦非為解決民眾居住空間不足問題，先予敘明。\n二、查農業發展條例(以下簡稱本條例)第18條第1項規定略以：「本條例中華民國89年1月4日修正施行後取得農業用地之農民，無自用農舍而需興建者」，同條第2項規定：「前項農業用地應確供農業使用；其在自有農業用地興建農舍滿五年始得移轉。但因繼承或法院拍賣而移轉者，不在此限。」爰此，農舍興建後應滿5年始得移轉之適用對象，係指89年1月28日後取得農業用地興建農舍者。\n三、惟為規範本條例修正前取得農業用地之農民，其於修正後申請興建農舍，係具合理性且符合農舍興建立法目的，，農業用地興建農舍辦法第6條規定申請興建農舍之申請人五年內曾取得個別農舍或集村農舍建造執照，且無法定例外排除情形者，直轄市、縣（市）主管機關或其他主管機關應不予許可興建農舍，併予敘明。\n四、基於農舍審查係屬直轄市、縣(市)政府之權責，請貴府參照前開原則依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5987",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:02+08:00",
+   "source_key": "rmis:5987"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "14e44725c943ae54e9e021c28b7ecefbcb8b2aa8acdaad80eb3278aef653769c",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建農舍,亦非為解決民眾居住空間不足問題,先予敘明。\n二、查農業發展條例(以下簡稱本條例)第18條第1項規定略以:「本條例中華民國89年1月4日修正施行"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "其於修正後申請興建農舍,係具合理性且符合農舍興建立法目的,,農業用地興建農舍辦法第6條規定申請興建農舍之申請人五年內曾取得個別農舍或集村農舍建造執照,且無法定例外排除"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "itp-e5d4d01d68",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020240001號",
+ "date": "2014-01-20",
+ "date_text": "103/1/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關高雄市政府工務局函領有使用執照之農作產銷設施經廢止容許使用，後經取得興建農舍資格審查許可，得否申請變更為農舍使用一案，復請查照。",
+ "content": "一、復貴署102年11月19日營署建管字第1020075510號函。\n二、從農業用地興建農舍辦法第8條農業用地配置檢討、第9條建築物污水處理設施及放流水規定、第12條造冊列管及套繪管制等規定觀之，農舍興建、管理等規範均與農業設施有所不同，爰本案既經高雄市政府廢止農業設施容許使用同意書並核准興建農舍資格，則原農產品加工室無論循變更使用執照程序變更為農舍或依前開辦法重新申請農舍建造執照，均應符合前開辦法相關規定，至究應循何種方式為之，因屬建築管理規定，請貴署本權責卓處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3719",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:40+08:00",
+   "source_key": "rmis:3719"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "6fe45b70d60db159b052eb044760f95949c8bd756af608e456f6d2f62cb812f6",
+ "topics": [
+  "facility_use",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "年11月19日營署建管字第1020075510號函。\n二、從農業用地興建農舍辦法第8條農業用地配置檢討、第9條建築物污水處理設施及放流水規定、第12條造冊列管及套繪管"
+  }
+ ]
+}

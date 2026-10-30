@@ -1,0 +1,67 @@
+{
+ "id": "itp-3de6738bbf",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0961848569號",
+ "date": "2007-07-23",
+ "date_text": "96/7/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "本會96年3月14日農授水保字第0961848173號函釋：「農舍與其坐落用地併同移轉時，其承受人資格應符合無自用農舍條件」，如係繼承移轉，不在此限，請查照。",
+ "content": "一、按民法第1147條規定，繼承，因被繼承人死亡而開始，又同法第1148條規定，繼承人自繼承開始時，除本法另有規定外，承受被繼承人財產上之一切權利、義務。雖農舍與其坐落用地併同移轉時，承受人資格應符合無自用農舍條件，但基於繼承係自然發生，為避免產生無法繼承之困擾，可排除繼承移轉。\n二、兼復○○○96年5月23日書函。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=318",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:23+08:00",
+   "source_key": "rmis:318"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "57675c432a99f7d568a5c77bc828c7a24f873b5aefb12e4256e10d48fa0ac25a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

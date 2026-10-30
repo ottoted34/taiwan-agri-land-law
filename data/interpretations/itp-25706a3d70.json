@@ -1,0 +1,54 @@
+{
+ "id": "itp-25706a3d70",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080212415號",
+ "date": "2019-04-09",
+ "date_text": "108/4/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢合法興建農舍之農地，是否可再對其他鄰地提出袋地通行之請求，請查照。",
+ "content": "一、依據陳○○○108年3月20日書函辦理暨復貴府108年3月25日屏府農企字第10810677100號函。\n二、依農業用地興建農舍辦法第2條第2項規定，申請人檢附之經營計畫書，應載明該筆農業用地之農業經營現況、農業用地整體配置等，其中農舍用地應矩形配置於農地之地界線側及鄰接道路，且不得影響農業經營用地之完整性。又上開辦法第9條亦規定，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積90%。故興建農舍之坐落農業用地，倘有設置供該農舍使用之道路，應計入10%農舍用地面積檢討，先予敘明。\n三、本案依卷附資料顯示已取得農舍之建築執照，倘依前開說明，何以仍須對鄰地提出袋地通行權之需求，建議宜先釐明。復查民法第787條所稱之袋地通行權，係指土地因與公路無適宜之聯絡，致不能為通常使用時之主張，故以農舍為由容有未妥，至得否就該筆農業用地對鄰地提出袋地通行之請求，因涉民法之規定，建請洽詢貴府法制單位協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4538",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:14+08:00",
+   "source_key": "rmis:4538"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "620d9b3e7826e922ffb1e91e04331ecf96d4f5e3a6456362b2e0558aa762af73",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "年3月25日屏府農企字第10810677100號函。\n二、依農業用地興建農舍辦法第2條第2項規定,申請人檢附之經營計畫書,應載明該筆農業用地之農業經營現況、農業用地整"
+  }
+ ]
+}

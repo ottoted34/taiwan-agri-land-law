@@ -1,0 +1,64 @@
+{
+ "id": "itp-73dcef40a1",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031826153號",
+ "date": "2014-12-04",
+ "date_text": "103/12/4",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "貴局函為農業用地興建農舍辦法無自用農舍認定疑義案，復請查照。",
+ "content": "一、復貴局103年10月31日中市農地字第1030034903號函。\n二、查信託法第1條規定：「稱信託者，謂委託人將財產權移轉或為其他處分，始受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係。」土地登記規則第128條第1項規定：「信託財產依第125條辦理信託登記後，於信託關係消滅時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」準此，由委託人依信託法規定將財產權移轉受託人管理，須辦理信託登記；信託關係消滅，亦應申請塗銷信託登記觀之，信託關係成立後，信託財產經由登記，即發生所有權移轉之法律效果。\n三、有關本案，依循上述信託關係成立後，信託財產經由登記，即發生所有權移轉法律效果觀之，本案申請人名下有他人信託之農舍，且從其房屋財產歸戶查詢清單內亦列有該受託之農地，因此，既已發生所有權移轉效果，自不應認定無自用農舍而申請興建農舍。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3589",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:04+08:00",
+   "source_key": "rmis:3589"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e0693e61745f919255a3f180899e077a1985cd7d7623ff69d0a264564269ab41",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴局函為農業用地興建農舍辦法無自用農舍認定疑義案,復請查照。\n一、復貴局103年10月31日中市農地字第10"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-155dd93cc6",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1020215007號",
+ "date": "2013-10-25",
+ "date_text": "102/10/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農舍申請人之農業用地依公職人員財產申報法規定辦理信託後，再塗銷信託回復所有權，其申請興建農舍之取得時點認定基準一案，復請查照。",
+ "content": "1.復貴府102年5月10日府建農字第1020038415號函。\n2.旨揭取得時點認定基準請依本會102年10月25日農水保字第1021866046號令規定辦理。\n3.副本抄送各直轄市、縣（市）政府，有關申請興建農舍農業用地時點之認定，應依上開解釋令規定辦理，又該農業用地屬農業發展條例修正前取得之共有耕地，而於修正施行後分割為單獨所有者，其土地取得時點雖已變動，仍得依農業發展條例第18條第3項後段規定辦理，請各直轄市、縣（市）政府受理相關申請案件時一併注意。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2819",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:56+08:00",
+   "source_key": "rmis:2819"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "9c8836117a59b2d4145f46b3a56a875698c8db439def1a53216b009c0366d17d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "於修正施行後分割為單獨所有者,其土地取得時點雖已變動,仍得依農業發展條例第18條第3項後段規定辦理,請各直轄市、縣(市)政府受理相關申請案件時一併注意。"
+  }
+ ]
+}

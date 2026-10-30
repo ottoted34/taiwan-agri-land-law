@@ -1,0 +1,58 @@
+{
+ "id": "itp-f80f81cf53",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152607658號",
+ "date": "2026-06-09",
+ "date_text": "115/6/9",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢民眾於貴縣番路鄉○○地號土地之農作產銷設施未依計畫內容興建之處分疑義案，復請查照。",
+ "content": "一、依92年12月15日訂定發布之農業用地容許作農業設施使用審查辦法第22條規定，依本辦法取得同意容許使用之農業設施，如依建築相關法令規定需申請建築執照者，應於6個月內向建築主管機關提出申請，逾期得敘明理由向原申請機關申請展延，並以一次6個月為限。又第23條規定，依本辦法取得農業用地容許作農業設施使用，未依計畫內容使用者，原核定機關得廢止其許可。是以，貴府來函所詢95年及97年依上開辦法核給之農業設施容許使用，屬應申請建築執照者，縱未於上開期限內申請建築執照，倘該同意書未經貴府廢止，則仍具其效力，尚無逾期即失其效力之情形。\n二、復依申請農業用地作農業設施容許使用審查辦法第33條第1項及第2項規定，依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用；未依計畫內容使用者，得通知其限期改善，屆期仍未改善，原核定機關得廢止其許可。是以，貴府來函所提95年及97年核發之農業設施容許使用同意書，經貴府勘查，其現況有未依計畫內容使用之情形，貴府自應依上開辦法第33條規定予以核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6068",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:43+08:00",
+   "source_key": "rmis:6068"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "35e04967bc62458fee6b2d0f4e4fa9bf0c31a79c66ee530e7fc231936b7fc2de",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "22",
+   "kind": "extracted",
+   "snippet": "之處分疑義案,復請查照。\n一、依92年12月15日訂定發布之農業用地容許作農業設施使用審查辦法第22條規定,依本辦法取得同意容許使用之農業設施,如依建築相關法令規定需申請建築執照者,"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "貴府廢止,則仍具其效力,尚無逾期即失其效力之情形。\n二、復依申請農業用地作農業設施容許使用審查辦法第33條第1項及第2項規定,依本辦法取得農業用地作農業設施容許使用者,應依原核定之計畫內"
+  }
+ ]
+}

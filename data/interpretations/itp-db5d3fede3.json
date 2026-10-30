@@ -1,0 +1,63 @@
+{
+ "id": "itp-db5d3fede3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030703221號",
+ "date": "2014-02-27",
+ "date_text": "103/2/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○○所詢農業用地上設有農業設施，得否併同興建農舍時申請建築執照，核發農業用地作農業使用證明書一案。",
+ "content": "主旨：有關○○○所詢農業用地上設有農業設施，得否併同興建農舍時申請建築執照，核發農業用地作農業使用證明書一案，惠請協處逕復，請查照。\n說明：\n一、依據○○○103年1月23日申請書辦理(詳如附件)。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書(以下簡稱農用證明)。所稱「農業使用」於農業發展條例第3條第12款業有明文定義，「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、依前開辦法第4條第2款規定農業用地施設之農業設施倘屬依法應申請建築執照者，須檢附容許使用同意書及建築執照。易言之，受理機關須於書面審查及現場勘查時，確認該設施均符上開文件之許可內容，始得認定為合法使用，再據以核發農用證明。爰建築執照未取具前，難以佐證設施之合法性，農用證明先行核發恐有疑義。惟○○○所提建築執照併同農舍興建申請之議，倘於農用證明受理後，於會辦建管單位時，由其審認並出具建築執照供農業單位續審，於實務執行是否可行，會否造成案件處理之困擾等，惠請貴府考量實務作業及一致性作法，依個案實情妥處逕復。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5271",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:02+08:00",
+   "source_key": "rmis:5271"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1bb135af8c7845bbcf339167ce2a769cc95fe55f24b9076422a2f2896c11f1b4",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "用地作農業使用證明書(以下簡稱農用證明)。所稱「農業使用」於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "殖、畜牧、保育及設置相關之農業設施或農舍使用者。」本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、依前開辦法第4條第2款規定農業用地施設之農業設施倘屬依法應申"
+  }
+ ]
+}

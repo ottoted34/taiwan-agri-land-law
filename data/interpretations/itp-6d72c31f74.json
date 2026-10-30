@@ -1,0 +1,54 @@
+{
+ "id": "itp-6d72c31f74",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020229922號",
+ "date": "2013-09-26",
+ "date_text": "102/9/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「農業主管機關同意農業用地變更使用審查作業要點」第6點及第14點規定疑義案。",
+ "content": "主旨：有關貴府函詢「農業主管機關同意農業用地變更使用審查作業要點」第6點及第14點規定疑義案，復如說明，請查照。\n說明：\n一、復貴府102年9月2日府農農字第1020178660號函。\n二、查「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱變更作業要點)第14點規定略以：「符合下列情形之一者，由目的事業主管機關逕依相關作業規定徵詢直轄市或縣(市)農業主管機關審核同意，免再依本要點審查規定辦理．．．。」其立法意旨係考量農業用地倘有該點明列之各款變更情形者，因已有其他專法規定或屬現況審認之案件，基於行政簡化，爰規定其審查程序涉及農業用地變更應徵詢農業主管機關同意者，逕由直轄市或縣(市)政府審查同意即可，故其適用範圍亦含括特定農業區農業用地，合先敘明。\n三、綜上，符合變更作業要點第6點第6款：「符合非都市土地使用管制規則規定，為自然地形或合法建築用地包圍、夾雜之零星農業用地。」及第7款：「供公眾通行且具有公用地役關係之既成道路，或公立公墓更新計畫之所需用地。」，得變更使用特定農業區農業用地之情形者，因亦符合變更作業要點第14點第2款及第3款之規定，爰其審查程序即可免再依本要點審查規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5017",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:26+08:00",
+   "source_key": "rmis:5017"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "75b98f3eec0c7b4385b5aeb6774bd528f640134fb41eaa5ee0e444276fd4d264",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「農業主管機關同意農業用地變更使用審查作業要點」第6點及第14點規定疑義案。\n主旨:有關貴府函詢「農業主管機關同意農業用地變更使"
+  }
+ ]
+}

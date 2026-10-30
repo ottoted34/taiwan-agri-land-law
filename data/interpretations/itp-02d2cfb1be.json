@@ -1,0 +1,55 @@
+{
+ "id": "itp-02d2cfb1be",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041887328號",
+ "date": "2015-10-12",
+ "date_text": "104/10/12",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為申請農業用地作農業使用證明書(供興建農舍），其土地使用現況是否得以核發農業用地作農業使用證明書疑義案，復請查照。",
+ "content": "一、復貴府104年9月22曰府農農字第1040193257號函。\n二、農業用地上申請興建農舍就該筆農業用地是否確供農業使用，過去實務上雖以農業用地作農業使用證明書為佐證文件，惟農業用地興建農舍辦法（以下簡稱本辦法）業於104年9月4日修正，增列申請人麾檢附依中央主管機關訂定之經營計畫書格式，以審認確供農業使用與不影響農業生產環境及農村發展等事項。\n三、目前經營計畫書格式刻正辦理發函作業，該筆農業用地應有持續之農業經營及具一定規模之政策方向不變，況本辦法已規定土地取得應滿2年始得申請興建農舍，其目的在於要求申請人應有2年實際從事農業事實，亦即須有實績始得認定有農業經營需要而申諳，並非僅純作居住使用，爰若民眾申請農業用地作農業使用證明書之目的係為申請興建農舍者，請貴府依前開原則併審。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4001",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:17+08:00",
+   "source_key": "rmis:4001"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e4597601565d410207990f62c76c4e73a00ef760107b8dc0ba76e07761475853",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業使用,過去實務上雖以農業用地作農業使用證明書為佐證文件,惟農業用地興建農舍辦法(以下簡稱本辦法)業於104年9月4日修正,增列申請人麾檢附依中央主管機關訂定之"
+  }
+ ]
+}

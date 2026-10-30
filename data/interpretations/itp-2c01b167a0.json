@@ -1,0 +1,52 @@
+{
+ "id": "itp-2c01b167a0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020737360號",
+ "date": "2013-12-10",
+ "date_text": "102/12/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業設施興建高度之法令疑義案。",
+ "content": "主旨：有關臺端函詢農業設施興建高度之法令疑義案，復請查照。\n說明：\n一、復臺端102年12月1日申請書。\n二、有關本會102年10月9日修正發布之「申請農業用地作農業設施容許使用審查辦法」第8條規定：「農業設施興建高度及樓層應依本辦法規定辦理；未規定高度之農業設施，其高度不得超過14公尺。」將原條文但書「但直轄市、縣(市)主管機關另有較嚴格之規定者，從其規定。」之規定刪除，其修正理由，係鑒於各直轄市、縣(市)政府因地方農業經營特性而有因地制宜之管理考量，倘須另定特殊性規範，於未牴觸中央法規之原則下，依地方制度法第三章規定制定自治法規，自屬適法，故無需本辦法再為但書規定，而得回歸地方制度法之規定辦理。\n三、綜上，容許辦法之地方主管機關即直轄市、縣市政府，倘因地方特殊需要，依地方制度法規定擬訂定農業設施高度及樓層之相關裁量審認基準或審查作業要點等自治法規，尚無適法疑慮。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5014",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:43+08:00",
+   "source_key": "rmis:5014"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "21e2cdeebeaaeef9e19f6e0a289ddf659f99c9ef2699be59c762434077656c69",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "12月1日申請書。\n二、有關本會102年10月9日修正發布之「申請農業用地作農業設施容許使用審查辦法」第8條規定:「農業設施興建高度及樓層應依本辦法規定辦理;未規定高度之農業設施,其高度不"
+  }
+ ]
+}

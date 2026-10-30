@@ -1,0 +1,71 @@
+{
+ "id": "itp-8e4a7ec489",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970174073號",
+ "date": "2009-01-07",
+ "date_text": "98/1/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋示「農業發展條例」第8條之1第2項規定得免申請建築執照之農業設施執行疑義案。",
+ "content": "主旨：有關　貴府函詢「農業發展條例」第8條之1第2項規定得免申請建築執照之農業設施執行疑義案，復請　查照。\n說明：\n一、復　貴府97年12月24日府農務字第○○○○號函。\n二、有關農業發展條例第8條之1第2項但書所規範，符合相關要件之農業設施面積在45平方公尺或250平方公尺以下，得免申請建築執照之執行疑義，查本會前於94年6月23日農企字第0940131813號函(如附)解釋，仍請參酌內政部90年9月14日台90內營字第9012691號函辦理有案。按內政部上開函釋略以：「．．．經農業主管機關認定之農業必要設施面積在45平方公尺以下免申請建築執照，係指其總樓地板面積在45平方公尺以下，且以1層樓為限。如設置1處以上，其總樓地板面積應合併檢討。」是以，農業發展條例第8條之1第2項規定，本條例中華民國92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照，應以1層樓為限，如設置1處以上，其總樓地板面積應合併檢討。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5255",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:15+08:00",
+   "source_key": "rmis:5255"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6d3479e466930dbeb32d5c05b32b352148b9b77ef122d63a6641c3ce8b30991f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "釋示「農業發展條例」第8條之1第2項規定得免申請建築執照之農業設施執行疑義案。\n主旨:有關 貴府函詢「農業發展"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "itp-e08eb2e3bf",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080717622號",
+ "date": "2019-06-27",
+ "date_text": "108/6/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺端函詢農業用地興建農舍辦法第4條規定疑義案，復如說明，請查照。",
+ "content": "一、復臺端108年6月19日申請函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、復查農業用地興建農舍辦法(以下簡稱本辦法)第4條規定，係為農業發展條例修正生效前取得之農業用地配合政府興辦公共事業，而保障其興建農舍之既有權益，爰訂有依法被徵收或依法為得徵收之農業用地，得準用本辦法第3條規定申請興建農舍。惟臺端所述情節，並無上開規定之適用，併予敘明。\n四、另，有關申請興建農舍之土地取得時點認定，本會前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。爰此，農地辦理合併分割，是否影響土地所有權部之登記日期一節，宜請先洽土地所在地之地政機關瞭解。\n五、因農舍個案審認係屬直轄市、縣(市)政府權責，有關農舍興建資格等疑義，建議就近洽詢直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4627",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:29+08:00",
+   "source_key": "rmis:4627"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c649e2fae489690e6bea72eb192e9f54dd9bd22941d4328954a35653da8b05d2",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "有關臺端函詢農業用地興建農舍辦法第4條規定疑義案,復如說明,請查照。\n一、復臺端108年6月19日申請函。\n二、查「農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、復查農業用地興建農舍辦法(以下簡稱本辦法)第4條規定,係為農業發展條例修正生效前取得之農業用地配合政府興辦公共事業,而保障其興建農舍之既有權益,爰訂有"
+  }
+ ]
+}

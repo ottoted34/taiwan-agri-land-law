@@ -1,0 +1,75 @@
+{
+ "id": "itp-3e8a99c1e4",
+ "doc_class": "interpretation",
+ "docno": "農輔字第1030718136號",
+ "date": "2014-07-08",
+ "date_text": "103/7/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關函詢以農舍做為套繪管制空地比之農業用地申請籌設休閒農場，其申請休閒農場及相關設施是否符合法令規定案，復如說明，請查照。",
+ "content": "一、復貴府103年6月10日屏府農輔字第10315524300號函。\n二、依據休閒農業輔導管理辦法(以下簡稱本辦法)第10條第1項規定略以「設置休閒農場，其農業用地面積不得低於休閒農場面積百分之90，且不得小於0.5公頃，並應符合下列規定：一、休閒農場應以整筆土地面積提出申請。‧‧‧。」；同法第19條第10項規定略以「休閒農場內非農業用地面積、農舍及農業用地內各項設施之面積合計不得超過休閒農場總面積百分之40。‧‧‧。」，另本辦法對被套繪管制為與農舍不可分離之農業用地申請籌設休閒農場並無相關限制條款，先予敘明。\n三、依貴府來函所敘，申請人擬以潮州鎮○○○地號申請籌設休閒農場，該筆土地面積為10,669.36平方公尺，使用地類別為農牧用地，並以整筆土地面積提出申請，符合本辦法第10條第1項之規定，得依相關規定申請籌設休閒農場，惟該筆土地既經套繪管制，爰不得於休閒農場籌設範圍內再行申請興建農舍。\n四、另本辦法第19條第10項前段所敘之合計面積，係以休閒農場籌設範圍內為計算基準，現該農舍所在地號(潮州鎮○○○地號)無納入休閒農場籌設範圍，該農舍自無須計入前開合計面積計算。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3824",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:20+08:00",
+   "source_key": "rmis:3824"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": null,
+    "amended_on": "2018-05-18",
+    "history": "中華民國107年05月18日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "73ca40ad29a7afb2072bf053031fedd93de7f4801e83f93179f04a30742f179c",
+ "topics": [
+  "farmhouse",
+  "leisure",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2002",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "6月10日屏府農輔字第10315524300號函。\n二、依據休閒農業輔導管理辦法(以下簡稱本辦法)第10條第1項規定略以「設置休閒農場,其農業用地面積不得低於休"
+  }
+ ]
+}

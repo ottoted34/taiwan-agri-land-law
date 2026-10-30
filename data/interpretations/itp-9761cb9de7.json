@@ -1,0 +1,49 @@
+{
+ "id": "itp-9761cb9de7",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041887154號",
+ "date": "2015-10-13",
+ "date_text": "104/10/13",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關申請興建自用農舍涉及農舍用地面積計算疑義案，復請查照。",
+ "content": "一、復貴府104年9月17日府農農字第1040192089號函。\n二、查本局104年6月29日水保農字第104I882278號函稱與建築物共構之擋土牆應屬建築物不可分割之構造物，其回填土區與擋土牆均應計入農舍用地面積一節，其意旨在於該與建築物共構之擋土牆係屬與建築物不可分割之構造物，自應計入農舍用地面積內。至申請地號基地內有供公眾使用之擋土設施，且未與建築物共構者，與前述檔土牆性質不同，尚無須計入農舍用地面積內計算。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4000",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:16+08:00",
+   "source_key": "rmis:4000"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1d1b02d5bbcd027156580f44414bd285152a9a75552e58ba1856a18c3cd36b2d",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

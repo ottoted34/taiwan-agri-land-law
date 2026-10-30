@@ -1,0 +1,54 @@
+{
+ "id": "itp-a92c4bae55",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080718445號",
+ "date": "2019-07-04",
+ "date_text": "108/7/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "綠能設施容許使用經營計畫變更之行政審查程序",
+ "content": "主旨：有關貴公司向雲林縣政府申請於本會公告不利農業經營區第9區設置綠能設施之容許使用變更相關疑義，復如說明，請查照。\n說明：\n一、復貴公司永宙能字第1070626001號函。\n二、針對本案已取得地方農業主管機關同意綠能設施之容許使用，後向經濟部能源局申請施工許可，涉及原綠能設施容許使用面積變更，倘綠能設施總面積未超過申請設施所坐落之農業用地土地面積70%，應無需以新案重新申請容許使用，惟本案總面積及總容量異動係涉及經營計畫書內容之變更，仍須按「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第4條規定儘速向地方農業主管機關辦理容許使用變更事宜，為本會108年5月14日農企字第1080713245號函(諒達)所明示，至上開綠能設施總面積包括太陽能板及其附屬設施(如變壓器、配電箱等)，合先敘明。\n三、又有關申請農業用地作農業設施容許使用，依據容許辦法第4條規定，係由直轄市或縣(市)主管機關依權責審查，故針對本案貴公司所詢因原核准容許使用經營計畫變更，擬依容許辦法第4條規定申請容許使用變更時，得否免辦理現勘，涉個案審查事宜，如有疑義，請逕洽雲林縣政府。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5628",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:25+08:00",
+   "source_key": "rmis:5628"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9049ad4bdd6bbd7037f1b66e81fb3360847e22cee1a97ad32ac5e77920e728b2",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",惟本案總面積及總容量異動係涉及經營計畫書內容之變更,仍須按「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第4條規定儘速向地方農業主管機關辦理容許使用變更事宜,為本會"
+  }
+ ]
+}

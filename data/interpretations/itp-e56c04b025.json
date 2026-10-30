@@ -1,0 +1,89 @@
+{
+ "id": "itp-e56c04b025",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020213838號",
+ "date": "2013-05-23",
+ "date_text": "102/5/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請核發農業用地作農業使用證明書，是否應配合農業用地興建農舍辦法第6條第3款規定審認供農業生產使用部分須為完整區塊一案。",
+ "content": "主旨：有關貴府函詢申請核發農業用地作農業使用證明書，是否應配合農業用地興建農舍辦法第6條第3款規定審認供農業生產使用部分須為完整區塊一案，復如說明，請查照。\n說明：\n一、復貴府102年5月1日府農務字第1025509095號函。\n二、查農業用地作農業使用證明書係審認該申請之農業用地確作農業使用無誤，俾供持憑辦理申請賦稅減免優惠或申請興建自用農舍。本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、復查農業用地興建農舍辦法係為興建農舍之農民資格及興建方式等規定而訂定，故於該辦法第6條第3款規定「供農業生產使用部分須為完整區塊」意即農業用地扣除興建農舍及其附屬設施之面積後，應保留完整區域，以利農業經營。上開規定之踐行係於興建農舍時即應予注意，換言之，倘同意該筆農業用地可興建農舍，即應就是否符合上開規定予以審認方符立法意旨。至申請核發農業用地作農業使用證明書時，就合法農舍及其附屬設施自無須就原核准設置之相關規定予以重複審認之必要。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5045",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:18+08:00",
+   "source_key": "rmis:5045"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "6",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "6",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ee1056034902ae5f5f3b2194908360ff37a7524ee2a78d34c42e51d4032a00e9",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "申請核發農業用地作農業使用證明書,是否應配合農業用地興建農舍辦法第6條第3款規定審認供農業生產使用部分須為完整區塊一案。\n主旨:有關貴府函詢申請核發農"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",俾供持憑辦理申請賦稅減免優惠或申請興建自用農舍。本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。\n三、復查農業用地興建農舍辦法係為興建農舍之農民資格及興建方式等規"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-24b56d9f25",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970104736號",
+ "date": "2008-01-30",
+ "date_text": "97/1/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋○○股份有限公司為辦理「○○電廠擴充暨○○分廠水力發電計畫」，使用土地擬依農業發展條例第16條第1項第7款規定申請專案核准分割一案。",
+ "content": "主旨：有關貴部所屬○○股份有限公司為辦理「○○電廠擴充暨○○分廠水力發電計畫」，使用土地擬依農業發展條例第16條第1項第7款規定申請專案核准分割一案，本會意見復如說明，請　查照。\n說明：\n一、復　貴部97年1月21日經授營字第○○○○○號函。\n二、依92年2月7日修正公布之「農業發展條例」第16條第7款規定「其他因執行土地政策、農業政策或配合國家重大建設之需要，經中央目的事業主管機關專案核准者，得為分割。」意即符合土地政策、農業政策或配合國家重大建設之耕地分割事項者，得不受分割後需達0.25公頃之面積限制，惟是否符合上開事項，已授權由中央目的事業主管機關依其相關法令或作業規定辦理，故本案如擬適用上開條款有關配合國家重大建設需要之規定，宜由　貴部先予認定。惟依來函說明分割之理由，係作為道路及電廠用地使用，如涉及用地變更使用，則應可援引上開條例同條文第1項第2款「部分依法變更為非耕地使用者，其依法變更部分及共有分管之未變更部分，得為分割。」之規定，即可不受耕地分割面積之限制，相關執行事宜可請○○電力股份有限公司逕洽南投縣政府地政局。\n三、檢還本案附件原卷。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4829",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:29+08:00",
+   "source_key": "rmis:4829"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "55e6d8076940f89a21eecdf3b95d2e15ac9a94399e170e5ad2f91cea6b598116",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "司為辦理「○○電廠擴充暨○○分廠水力發電計畫」,使用土地擬依農業發展條例第16條第1項第7款規定申請專案核准分割一案。\n主旨:有關貴部所屬○○股份有限公司為辦理"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "itp-7cfc10f7af",
+ "doc_class": "interpretation",
+ "docno": "農永字第1130032863號",
+ "date": "2024-07-10",
+ "date_text": "113/7/10",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "農業用地經依法變更編定為國土保安用地者，涉及稅賦優惠疑義案，請查照。",
+ "content": "一、依據監察院113年5月10日院台財字第1132230204號函及第1132230205號函辦理，並依本部113年6月28日農永字第1130220589號函說明具體改進情形續辦。\n二、查農業發展條例（以下簡稱本條例）第3條第10款規定，於89年1月26日修正之立法說明已揭櫫，農業用地之範圍應涵蓋非都市土地或都市土地農業區、保護區範圍內土地，其土地使用性質應已依法指定供農業相關，並做為農地變更使用、農業生產輔導、土地增值稅、遺產稅及贈與稅優惠之準據。\n三、農業用地倘經區域計畫法等相關規定完成用地變更編定者，即非屬本條例第3條第10款規定之農業用地，換言之，經核定後之開發計畫範圍內之國土保安用地已非屬本條例所稱農業用地，爰請貴府依本條例第10條規定辦理同意農業用地變更使用審查作業時，於審核同意之函文載明該開發計畫未來倘經許可開發而變更編定之國土保安用地，已非屬本條例所稱之農業用地或農業使用，不適用同條例所定相關稅賦減免之優惠措施，以避免開發單位及民眾誤解。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5944",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:14+08:00",
+   "source_key": "rmis:5944"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "326783b43395beb96c5dc8e4fe0ef8e9a2c8bde01c5dce3aafb36edd00584e99",
+ "topics": [
+  "land_change",
+  "tax"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "永字第1130220589號函說明具體改進情形續辦。\n二、查農業發展條例(以下簡稱本條例)第3條第10款規定,於89年1月26日修正之立法說明已揭櫫,農"
+  }
+ ]
+}

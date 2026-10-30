@@ -1,0 +1,54 @@
+{
+ "id": "itp-a429c1be6d",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050200579號",
+ "date": "2016-01-08",
+ "date_text": "105/1/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴府函為已興建農舍之該筆農業用地得否設置供他人使用之私設通路疑義案，復請查照。",
+ "content": "一、復貴府105年1月6日府農管字第1050000907號函。\n二、農舍興建須依「農業用地興建農舍辦法」辦理，該辦法第9條第2項第3款規定略以：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積90%。」，爰「公用事業設施」、「戶外廣告物設施」、「私設通路」、「再生能源相關設施」、「溫泉井」等非農業使用設施均不得設置於己興建農舍之農業經營用地上。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4011",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:59+08:00",
+   "source_key": "rmis:4011"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "66216613ca3d67d951fe6a43bd43876176740fdc15bd78acdd1125d4101875e5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月6日府農管字第1050000907號函。\n二、農舍興建須依「農業用地興建農舍辦法」辦理,該辦法第9條第2項第3款規定略以:「申請興建農舍之農業用地,其農舍用地面積"
+  }
+ ]
+}

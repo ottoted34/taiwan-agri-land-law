@@ -1,0 +1,55 @@
+{
+ "id": "itp-a24821e135",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030738121號",
+ "date": "2015-01-23",
+ "date_text": "104/1/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "共有農地申請農用證明時，所提之切結書應以一案一用為原則。",
+ "content": "主旨：有關貴府函詢共有農業用地以原違規使用共有人之切結書申請核發農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴府103年12月12日府農農字第1030265853號函。\n二、查共有農業用地部分面積有違反使用管制規定者，得依農業用地作農業使用認定及核發證明辦法第8條第1項第2款規定檢附違規使用之共有人切結書，俾據以認定其申請之應有部分作農業使用。其立法意旨係為釐清違規使用者之責任，倘違規使用之共有人願出面切結該違規使用部分為其造成，始得以切結書作為上開規定應檢附之文件。考量農業用地作農業使用證明書(以下簡稱農用證明)之有效期限為6個月，該切結書既為農用證明得否核發之審認文件之一，爰其法律效果自附麗於農用證明，故倘擬重新申請農用證明，其檢附之切結書自宜重新申請，俾符規定並避免衍生爭議。\n三、至切結書之用途及切結內容既作為申請核發農用證明之目的，除應符合前開一案一用原則外，不宜作為其他申辦目的之援用。另，為維持共有農地之共有關係及違規使用責任之穩定性及明確性，此類案件應就該違規使用人及事實內容加強列管，爰為利後續申辦案件之勾稽與查核，請貴府轉知所轄公所確實於「農地管理資訊系統」予以註記列管。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5347",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:29+08:00",
+   "source_key": "rmis:5347"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6a1f8e4a94db81b1827b335886084a5f9445e44f96ec1ae458a2c41b80c19f9e",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "號函。\n二、查共有農業用地部分面積有違反使用管制規定者,得依農業用地作農業使用認定及核發證明辦法第8條第1項第2款規定檢附違規使用之共有人切結書,俾據以認定其申請之應有部分作農業使用"
+  }
+ ]
+}

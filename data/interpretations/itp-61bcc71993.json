@@ -1,0 +1,62 @@
+{
+ "id": "itp-61bcc71993",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050204572號",
+ "date": "2016-02-18",
+ "date_text": "105/2/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍辦法第5條第1項第4款規定執行疑義，復請查照。",
+ "content": "一、復貴府105年2月1日府農務字第1050026835號函。\n二、有關貴府建請考量農地農用證明可作為農民資格佐證文件，本會104年11月27日農企字第1040012894號函說明一略以：「...針對申請興建農舍，該農業用地是否確供農業使用與不影響農業生產環境及農村發展之認定文件，改以須檢附經營計畫書取代，不再以農業用地作農業使用證明書作為佐證文件。...」，意旨甚明。\n三、另本會105年1月7日農企字第1040250902 號函說明五略以：「...104年9月4日修正發布之『農業用地興建農舍辦法』第2條明定，興建農舍須提送經營計畫，以確保該農業用地確供農業使用，並不得影響農業生產環境及農村發展，又同辦法第5條第1項第4款亦明定，申請興建農舍之農業用地，有其他違反土地使用管制規定者，不得申請興建。爰除加強申請農舍興建之經營計畫審核外，針對本案之農業設施已違規作住宅使用，擬逕將設施直接以申請興建農舍方式取得合法化之情形，依容許辦法及上開農舍辦法規定，在違規情節未排除前，應不得同意農舍之申請，亦無就違反農業設施容許使用或經廢止容許使用之設施物，同意得予補辦作農舍使用，...」，本會水土保持局105年1月11日水保農字第1051800276號函已通函各直轄市、縣（市）政府有案。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4217",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:35+08:00",
+   "source_key": "rmis:4217"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fb10b461e6933177cbf9a38a983829f635a418c04492eb3f2da424e4924d69ce",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第5條第1項第4款規定執行疑義,復請查照。\n一、復貴府105年2月1日府農務字第105"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "0902 號函說明五略以:「...104年9月4日修正發布之『農業用地興建農舍辦法』第2條明定,興建農舍須提送經營計畫,以確保該農業用地確供農業使用,並不得影響農業生產環"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-f0e44cd5ee",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070726193號",
+ "date": "2018-10-12",
+ "date_text": "107/10/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關民眾申請興建農舍之農舍用地臨接道路疑義案，復如說明，請查照。",
+ "content": "一、復貴府107年9月13日府農輔字第1070169691號函。\n二、有關農舍坐落農業用地之配置，應符合農業發展條例第18條規定，不影響農業生產環境及農村發展之立法意旨，故本會於104年10月21日以農水保字第1041866479號函送興建農舍經營計畫書規定「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」，復於107年7月26日以農企字第1070012917號通函上開所稱「道路」係指「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」在案。爰本案所稱之農路應具備上開道路性質，始符合規定，先予敘明。\n三、至前開農舍經營計畫書明定「農舍用地應矩形配置於農地之地界線側及臨接道路，但屬特殊地形者，不在此限。」，係指個案現況已有符合前開規定之道路，但因地形特殊導致農舍用地無法矩形配置於農地之地界線側及臨接道路時，方得例外考量；惟倘道路性質未符合本會前開通函之規定，即無上開是否為特殊地形判斷之餘地。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4456",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:07+08:00",
+   "source_key": "rmis:4456"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "31f9e0b8e3bbd75606ec95b2994cb470c930a6192de5aae1c8e6319054fe4fa8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "0169691號函。\n二、有關農舍坐落農業用地之配置,應符合農業發展條例第18條規定,不影響農業生產環境及農村發展之立法意旨,故本會於104年10月21日以農水"
+  }
+ ]
+}

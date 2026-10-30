@@ -1,0 +1,64 @@
+{
+ "id": "itp-f9389fe54d",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041881163號",
+ "date": "2015-06-08",
+ "date_text": "104/6/8",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局函為申請興建農舍之土地取得時點疑義案，復請查照。",
+ "content": "一、復貴局104年5月26日桃農管字第1040012463號函。\n二、有關農業發展條例修正施行前之共有耕地，而於修正施行後分割為單獨所有者，其土地取得時點，本會前於103年12月15日農授水保字第1031829690號函釋有案(副本諒達)，有關共有物之分割，依民法824條之1規定：「共有人自共有物分割之效力發生時起，取得分得部分之所有權。」，是以共有農業用地分割為單獨所有者，其土地取得時點均採移轉主義，即應自分割效力發生時生效，而不溯及於共有關係發生時。惟如農業發展條例修正施行前之共有耕地，於修正施行後分割為單獨所有者，雖其土地所有權部登記日期已變動為辦理共有物分割之日期，仍得適用本條例第18條第3項規定申請興建農舍。\n三、至於個案之審查係屬直轄市、縣(市)政府權責，請貴局依權責審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3986",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:16+08:00",
+   "source_key": "rmis:3986"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d8e4b2ea49f7474e25fe48dcc7a7940625f038de806b39d423a60fa5ba80e630",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "4年5月26日桃農管字第1040012463號函。\n二、有關農業發展條例修正施行前之共有耕地,而於修正施行後分割為單獨所有者,其土地取得時點,本會前於1"
+  }
+ ]
+}

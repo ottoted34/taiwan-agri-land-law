@@ -1,0 +1,73 @@
+{
+ "id": "itp-afb582b05a",
+ "doc_class": "interpretation",
+ "docno": "府農務字第1030065872號",
+ "date": "2014-04-28",
+ "date_text": "103/4/28",
+ "agency_text": "宜蘭縣政府",
+ "category": "解釋函",
+ "subject": "有關本縣○○○陳情依據農業用地興建農舍辦法第四條申請興建農舍疑義，詳如說明，陳請釋示，請 鑒核。",
+ "content": "一、本案申請人原所有本縣羅東鎮○○○地號(面積331.00平方公尺)於101年11月15日由本府公告徵收，並於102年1月31日購置他筆土地申請興建農舍，由本府103年3月18日府農務字第1030026447號函核發興建農舍資格證明在案。\n二、「農業用地興建農舍辦法」於102年7月1日修法後增修第九條第二項第六款，依據前開條文，本府基於農業生產規模及建築居住合理性，小於45平方公尺以下農舍興建不予同意， 爰本案因被征收土地面積不足450平方公尺，故無法取得興建小面積農舍同意。\n三、綜上，因本案土地為辦法修正前公告徵收，其權利是否可基於信賴保護原則適用於修法前之規定，陳請釋示。\n四、檢附本案相關申請資料乙份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "宜蘭縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3774",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:08+08:00",
+   "source_key": "rmis:3774"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "4",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "cd40cfd1829e2f5d84cc49842df68ecd1fa5d8ec66e50db8f3f1dc2df854d0f5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "有關本縣○○○陳情依據農業用地興建農舍辦法第四條申請興建農舍疑義,詳如說明,陳請釋示,請 鑒核。\n一、本案申請人原所有本縣羅東鎮"
+  }
+ ]
+}

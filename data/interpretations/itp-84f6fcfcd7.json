@@ -1,0 +1,70 @@
+{
+ "id": "itp-84f6fcfcd7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020243126號",
+ "date": "2013-12-27",
+ "date_text": "102/12/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴署函現有農舍擬變更原提供該筆興建農舍配合耕地適法性疑義案，本會意見如說明，復請查照。",
+ "content": "一、復貴署102年12月12日營署建管字第1020076287號函。\n二、有關農舍坐落農業用地及其農舍之併同移轉對象資格條件，本會95年12月27日農企字第0950172203號函已明定應為無自用農舍之現耕農或農民身分，而依農業發展條例第3條第3款規定，農民係指直接從事農業生產之自然人；另本會96年3月14日農授水保字第0961848173號函重申農舍承受人資格應符合無自用農舍條件，爰農舍移轉對象須依上述二號函規定辦理。\n三、至本會102年11月13日農授水保字第1020237439號函所稱「有關變更配合耕地一節，本會認為倘配合興建農舍之農業用地得予以取代，例如興建集村農舍之情形者，將產生相關土地管理與權利義務劃分之疑義，不可不慎。」一節，係就依農業用地興建農舍辦法申請興建集村農舍之案件，認不應變更其配合耕地，惟如屬農業發展條例89年修正前依「臺灣省申請自用農舍補充注意事項」規定，以10公里範圍之耕地合併申請興建農舍領得使用執照之案件，本會前開函說明三已表示本會無意見，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3310",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:19+08:00",
+   "source_key": "rmis:3310"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7ea51b295bb75dda14f107137c79fa1b838cf5dab3eaa9b36e7deca204a0d92c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "172203號函已明定應為無自用農舍之現耕農或農民身分,而依農業發展條例第3條第3款規定,農民係指直接從事農業生產之自然人;另本會96年3月14日農授水保字第"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "生相關土地管理與權利義務劃分之疑義,不可不慎。」一節,係就依農業用地興建農舍辦法申請興建集村農舍之案件,認不應變更其配合耕地,惟如屬農業發展條例89年修正前依「"
+  }
+ ]
+}

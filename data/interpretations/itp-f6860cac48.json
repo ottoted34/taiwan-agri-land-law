@@ -1,0 +1,82 @@
+{
+ "id": "itp-f6860cac48",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990120860號",
+ "date": "2010-05-12",
+ "date_text": "99/5/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "非都市土地山坡地保育區農牧用地申請農路之容許使用疑義案。",
+ "content": "主旨：有關 貴府函詢非都市土地山坡地保育區農牧用地申請農路之容許使用疑義案，復請 查照。\n說明：\n一、復 貴府99年3月26日府農農字第0990052829號函。\n二、查農業用地上申請興建農路，依據「申請農業用地作農業設施容許使用審查辦法」第13條附表規定：「其他農作產銷設施-農路，應依生產需要核定」故如 貴府所提之案例，申請人表示將種植香蕉、番石榴等一節，經本會產業輔導單位提供意見認為，該二作物適於熱帶及亞熱帶地區栽培，雖適應性廣，但經濟栽培仍以中南部氣候較為適宜，北部及海拔高地區因冬季低溫多雨影響品質，且目前產銷平衡，對於新開發土地之種植需審慎評估；再者，貴府倘經審查亦認為申請案未具經營效益及經營計畫之合理性，自可依本辦法第7條第2款規定，以經營計畫內容顯不合理，或設施與農業經營之必要性顯不相當之情形，不予同意。\n三、另山坡地之農路申請案件，農路之工程規劃、設計等工程層面事項，應符合依「水土保持技術規範」第75條第2項及「農路設計規範」第2、第5、第6條之規定。 貴府於申請准駁階段，若有合理懷疑申請人乃是利用法規漏洞，以迂迴手段規避農路、農舍相關法規之規定，應依職權調查之，建議得善用行政程序法第93條、第123條、第125條所定附附款行政處分之效能，視個案實務及事實自為處分，以達農地農用與山坡地水土保持之目的。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5405",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:00+08:00",
+   "source_key": "rmis:5405"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "20d72efa11d3e1abaec9d1dd14957d9de5d159b1f221bbbfe68a1c29e1d484e5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "990052829號函。\n二、查農業用地上申請興建農路,依據「申請農業用地作農業設施容許使用審查辦法」第13條附表規定:「其他農作產銷設施-農路,應依生產需要核定」故如 貴府所提之案例,申請"
+  }
+ ]
+}

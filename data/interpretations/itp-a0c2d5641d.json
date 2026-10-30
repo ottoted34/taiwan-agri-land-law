@@ -1,0 +1,73 @@
+{
+ "id": "itp-a0c2d5641d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990101346號",
+ "date": "2010-01-14",
+ "date_text": "99/1/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請農業用地作農業設施-農路之容許使用及申請補辦農舍建築執照之疑義案。",
+ "content": "主旨：有關 貴府函詢○○○申請農業用地作農業設施-農路之容許使用及申請補辦農舍建築執照之疑義案，復請 查照。\n說明：\n一、復 貴府○年○月○日府農農字第○○○○○號函。\n二、依本會98年3月16日農企字第0980010695號令修正發布之「申請農業用地作農業設施容許使用審查辦法」第8條規定，「申請本辦法所定各項農業設施，其所有農業設施總面積除另有規定外，不得超過坐落該農業用地土地面積之40%。已興建農舍之農業用地，其農業設施及農舍之興建面積，應一併計算。．．．於本辦法中華民國98年3月16日修正施行前，已依法取得容許使用之農業設施，得不受第一項所定40%之限制。」是以，除第2項例外規定情形者，以及本辦法98年3月18日修正生效日前，已依法取得容許使用之農業設施，得不受第1項所定40%之限制者外，凡於98年3月18日後受理容許使用之申請個案(含迄今始提出補辦容許使用之申請者)，均應適用本辦法第8條第1項規定。故本案農路及農舍總面積，仍不得超過坐落該筆農業用地面積40%之限制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5384",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:29+08:00",
+   "source_key": "rmis:5384"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "755dc3a90d348f8afe9f8972c492d103f8c490607b2929b11b3432e86b7b7096",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "會98年3月16日農企字第0980010695號令修正發布之「申請農業用地作農業設施容許使用審查辦法」第8條規定,「申請本辦法所定各項農業設施,其所有農業設施總面積除另有規定外,不得超過坐"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "itp-60e3ea7811",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041881544號",
+ "date": "2015-06-18",
+ "date_text": "104/6/18",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴署函為興建農舍之農業用地即將遭徵收闢建道路，農地所有權人得否申請興建農舍疑義1案，復請查照。",
+ "content": "一、復貴署104年6月2日營署綜字第1042908632號函。\n二、依農業用地興建農舍辦法第2條或第3條審查其興建資格並經核定後，若所依據之事實發生變更，查行政程序法第123條第4款規定：「行政處分所依據之法規或事實事後發生變更，致不廢止該處分對公益將有危害者。」得由原處分機關依職權為全部或一部分之廢止，本案申請興建農舍之農業用地遭徵收，致面積減少，依上開行政程序法意旨，應衡酌若不廢止已核定之行政處分是否對公益將有危害，若經評估對於公益沒有危害，該興建資格核定既未廢止，自仍屬有效。至於農舍建築面積則應依徵收後之剩餘面積予以檢討為妥。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3987",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:05+08:00",
+   "source_key": "rmis:3987"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b2580a11d67161da3381ad169f27bb1d6fc08c49025753c6e844b339a72d6281",
+ "topics": [
+  "partial_use",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "104年6月2日營署綜字第1042908632號函。\n二、依農業用地興建農舍辦法第2條或第3條審查其興建資格並經核定後,若所依據之事實發生變更,查行政程序法第123條"
+  }
+ ]
+}

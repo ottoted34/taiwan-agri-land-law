@@ -1,0 +1,57 @@
+{
+ "id": "itp-94434e7c51",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100234640號",
+ "date": "2021-09-10",
+ "date_text": "110/9/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農舍作為農產品集貨共同運銷場所，是否符合農舍自用原則",
+ "content": "主旨：有關所詢農舍作為農產品集貨共同運銷場所，是否符合農舍應自用原則疑義一案，復如說明，請查照。\n說明：\n一、復貴局110 年8 月23 日高市農務字第11032438000 號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、次查非都市土地使用管制規則第6條附表1「各種使用地容許使用項目及許可使用細目表」之規定，容許使用項目之農舍，其免經申請許可使用細目限於「農舍及農舍附屬設施、農產品之零售、農作物生產資材及日用品零售」使用，需經目的事業主管機關、使用地主管機關及有關機關許可細目為「民宿」使用，並無許可農舍作農業產銷班班員生產之農產品集貨共同運銷場所使用，併予敘明。\n四、又，查非都市土地使用管制規則第6條附表1規定，農牧用地得依「申請農業用地作農業設施容許使用審查辦法」設置農作產銷設施。倘本案因農業經營所需，衍生興建農作產銷設施需求，則應依上開規定申請，並以自用為原則。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5680",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:51:53+08:00",
+   "source_key": "rmis:5680"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cab2a2d7476e9b17932d63f60564fcb076e744a47b44f5e529e4ce2048c4c343",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、又,查非都市土地使用管制規則第6條附表1規定,農牧用地得依「申請農業用地作農業設施容許使用審查辦法」設置農作產銷設施。倘本案因農業經營所需,衍生興建農作產銷設施需求,則應依上開規定"
+  }
+ ]
+}

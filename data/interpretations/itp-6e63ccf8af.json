@@ -1,0 +1,50 @@
+{
+ "id": "itp-6e63ccf8af",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080252956號",
+ "date": "2019-12-13",
+ "date_text": "108/12/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺端建議修正「民宿管理辦法」第8條涉及農舍供作民宿使用之規定一案，復如說明，請查照。",
+ "content": "一、依據交通部觀光局108年12月2日觀宿字第1080017597號函辦理。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同，且農舍應以自用為原則。復依發展觀光條例第2條第9款規定，民宿指利用自用住宅空閒房間，結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動，以家庭副業方式經營，提供旅客鄉野生活之住宿處所。\n綜上，自用農舍如作為民宿者，應以家庭副業方式經營，其農業經營用地亦應維持農業生產使用，先予敘明。\n\n三、又查農舍興建之立法精神，係強調「無自用農舍」而需興建者，得依相關規定申請興建農舍，故農業用地興建農舍之申請人，應為該筆農業用地之所有權人且為農民；而該棟農舍之後續使用行為，亦應以農舍所有權人為主體，始符農舍應供自用之原則。是以，依法核准興建之農舍雖得依非都市土地使用管制規則、民宿管理辦法申請作為民宿使用，其經營者亦應為農舍及其坐落土地之所有權人。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4687",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:34+08:00",
+   "source_key": "rmis:4687"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "30bb0a7f4a5071f0d2d4b8772df4cf59b955a41ac66b68b5432adf910e4e39ed",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

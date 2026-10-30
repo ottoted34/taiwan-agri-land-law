@@ -1,0 +1,71 @@
+{
+ "id": "itp-c68ff8e0ef",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980173191號",
+ "date": "2009-11-26",
+ "date_text": "98/11/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請變更已核發之農業用地容許作農業設施使用同意書之育苗作業室使用面積疑義案。",
+ "content": "主旨：有關貴苗圃申請變更已核發之農業用地容許作農業設施使用同意書之育苗作業室使用面積疑義案，復請 查照。\n說明：\n一、復 貴苗圃○年○月○日申請書函。\n二、依本會98年3月16日修正發布之「申請農業用地作農業設施容許使用審查辦法」第12條規定，「申請農作產銷設施之容許使用，其經營計畫應敘明下列事項：一、設施名稱。二、設置目的。三、生產計畫。應敘明作物種類、生產週期、預估產量及行銷通路等。四、興建設施之基地地號及興建面積。...」查本辦法修正條文對照表之說明欄說明略以：「申請人倘因經營計畫變更，亦應依本辦法之規定，再提出申請，由直轄市或縣(市)主管機關視經營計畫變更之程度，同意變更或重新審查。」有關台端因施工誤差導致已興建完工之建築物尺寸與原農業用地容許作農業設施使用同意書所核發容許興建之育苗作業室之設施面積尺寸不符一節，因已涉及興建面積異動之經營計畫變更情形，故 貴苗圃應依本辦法第12條之規定，提出經營計畫變更之申請，由直轄市或縣(市)主管機關視經營計畫變更之程度，就個案之實務情形，予以審認得否同意變更或重新審查。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5371",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:36+08:00",
+   "source_key": "rmis:5371"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "12",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "1ab1f757134a8fbdbf3feda1207f1e7761d5f1702337eb47c40c0ba4028b0585",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "○年○月○日申請書函。\n二、依本會98年3月16日修正發布之「申請農業用地作農業設施容許使用審查辦法」第12條規定,「申請農作產銷設施之容許使用,其經營計畫應敘明下列事項:一、設施名稱。二、"
+  }
+ ]
+}

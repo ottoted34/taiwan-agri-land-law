@@ -1,0 +1,71 @@
+{
+ "id": "itp-1a49dfd1af",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990159903號",
+ "date": "2010-09-23",
+ "date_text": "99/9/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業用地作農業設施容許使用審查辦法之執行疑義案。",
+ "content": "主旨：有關 貴局函詢申請農業用地作農業設施容許使用審查辦法之執行疑義案，復請 查照。\n說明：\n一、復 貴府99年9月2日府農地字第0990277595號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第7條第9款規定，申請農業用地作農業設施容許使用，申請案件有未符合本辦法規定或違反其他法令規定，不予同意。是以，本會前於98年7月1日農企字第0980139157號函解釋略以：「農業用地違反區域計畫法、都市計畫法或水土保持法之規定，倘個案於裁處行政程序尚未終結，或違反區域計畫法、都市計畫法及水土保持法之違規情節尚未排除前，農業用地申請農業設施之容許使用，均應依上開辦法之規定，不予同意」，合先敘明。\n三、查水土保持法第12條規定，於山坡地從事開發利用行為，水土保持義務人應先擬具水土保持計畫，違反者，除依同法第33條規定處罰鍰外，應就違規地點，依同法第8條規定，要求水土保持義務人於一定期限內實施必要之水土保持處理與維護，經檢查合格後，方可認定「違規情節排除」及「裁處行政程序終結」。本案 貴府來函說明略以「經水土保持單位認定違反水土保持法並裁處罰鍰」，但未敘明違規地點之水土保持處理與維護是否經檢查合格，尚難認定符合本會上揭號函之審認原則；故本案仍請 貴府就其個案之違規情節是否排除，及是否回復作農業使用等情，依本辦法等相關法令規定，予以審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5426",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:29+08:00",
+   "source_key": "rmis:5426"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4728935a476a2e6641e9cbd0a1183fed5313cd98ea793286fe5734900c351075",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "99年9月2日府農地字第0990277595號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第7條第9款規定,申請農業用地作農業設施容許使用,申請案件有未符合本辦法規定或違反其他"
+  }
+ ]
+}

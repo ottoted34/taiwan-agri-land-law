@@ -1,0 +1,55 @@
+{
+ "id": "itp-744aeae517",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1050078276號",
+ "date": "2016-12-30",
+ "date_text": "105/12/30",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府函轉貴縣埔里鎮公所辦理埔里鎮○○○、○○○地號等2筆土地變更農舍用地設計面積認定疑義案，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局105年12月9日水保農字第1050734013號函轉貴府105年11月24日府農務字第1050241899號函辦理。\n二、為確保農業生產環境及農業經營用地之完整性，農舍用地面積檢討有別於建築技術規則之建築面積計算方式，本部102年12月6日台內營字第1020812243號函(諒達)已明示「有關個別農舍之外牆或其替代柱...或其他水泥地坪，均應依本辦法規定將其水平投影面積全部納入農舍用地面積檢討，...。」是農業用地興建農舍辦法第8條第3項規定及本部上開函所稱水平投影面積，係指農舍建築物及其附屬設施之外緣投影面積，不因建築物或附屬設施本身有部分無須計入建築面積或總樓地板面積而個別予以扣除計算。貴府來函所述情形係農舍建物內部規劃之天井與挑空空間，依上開規定自應納入農舍用地面積檢討。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3207",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:10+08:00",
+   "source_key": "rmis:3207"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "249f15743baa7b6390467558bcd5acd398908738a3244e0f6d246e79d0c8057d",
+ "topics": [
+  "paving",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "法規定將其水平投影面積全部納入農舍用地面積檢討,...。」是農業用地興建農舍辦法第8條第3項規定及本部上開函所稱水平投影面積,係指農舍建築物及其附屬設施之外緣投影面積"
+  }
+ ]
+}

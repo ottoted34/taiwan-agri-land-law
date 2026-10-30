@@ -1,0 +1,57 @@
+{
+ "id": "itp-19833a5c8b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030226996號",
+ "date": "2014-09-15",
+ "date_text": "103/9/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "嚴重地層下陷地區農地，作為涵養水源、國土保安之濕地使用，得否認定為作農業使用疑義案。",
+ "content": "主旨：有關貴府函詢嚴重地層下陷地區農地，作為涵養水源、國土保安之濕地使用，得否認定為作農業使用疑義案，復請查照。\n說明：\n一、復貴府103年8月1日屏府農企字第10323510600號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義，「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」其中「保育」使用，本會歷年函釋係指維護國土保安、水土保持等使用及設置相關之設施。本案土地倘經貴府審酌作為濕地使用具涵養水源、國土保安之性質，自得認定符合上開農業使用之規定。\n三、另查內政部制定之濕地保育法業於102年7月3日公布，並明定於104年2月2日施行，其立法目的係為確保濕地天然滯洪等功能，以維護生物多樣性，促進濕地生態保育及明智利用。爰農地作為濕地使用，貴府亦可參照該法規定，衡酌個案實情予以審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5313",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:43+08:00",
+   "source_key": "rmis:5313"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6c91271e87f9a3238d7c558d49b316a304b58b34c229af8ecfb5b823e27b8f38",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "之認定基準,始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  }
+ ]
+}

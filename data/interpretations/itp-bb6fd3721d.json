@@ -1,0 +1,54 @@
+{
+ "id": "itp-bb6fd3721d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090217024號",
+ "date": "2020-05-11",
+ "date_text": "109/5/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "既有農舍申請拆除重建是否須依農業用地興建農舍辦法申請農舍申請人資格審查",
+ "content": "一、復貴局 109年4月29日北市產業農字第 10960146531號函。\n二、依據內政部 109年1月13日營署綜字第 1080097935號通函(諒達)說明三略以：「．．．按建築法第 9條規定，原有建築物全部拆除而重行建築者，係屬新建築行為，應依建築法第 25條、第 30條、第 31條及第 32條重新申請建築執照。．．．」，故針對農業用地所有權人擬申請農舍拆除重建者，自應依農業用地興建農舍辦法相關規定，辦理興建農舍申請人之資格審查等作業。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4736",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:43+08:00",
+   "source_key": "rmis:4736"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "420f63767da83a281aab655944622b4031af26259c28a8fa4e3874cdfc338126",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "既有農舍申請拆除重建是否須依農業用地興建農舍辦法申請農舍申請人資格審查\n一、復貴局 109年4月29日北市產業農字第 10960"
+  }
+ ]
+}

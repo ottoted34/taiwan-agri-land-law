@@ -1,0 +1,74 @@
+{
+ "id": "itp-d84a33844c",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041883556號",
+ "date": "2015-07-27",
+ "date_text": "104/7/27",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為已領有建造執照之農舍，因土地合併分割，重新審認農民資格疑義案，復請查照。",
+ "content": "一、復貴局104年7月10日中市農地字第1040022722號函。\n二、有關興建中之農舍因與鄰地辦理分割合併，其所依循之審查許可條件已生變動，其農民資格應依規定重新審認，本局103年11月28日水保農字第1031826957號函釋有案，先予敘明。\n三、次依農業用地興建農舍辦法第2條第4款規定：「申請人無自用農舍者。申請人已領有個別農舍或集村農舍建造執照者，視為已有自用農舍。但該建造執照屬尚未開工且已撤銷或原申請案件重新申請者，不在此限。」，本案已領有建造執照，如該建照執照符合上開但書規定者，得認定符合無自用農舍條件。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3990",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:26+08:00",
+   "source_key": "rmis:3990"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "66bc50de7273b6164181ba23cf70ded4eef3755d93ecf2a8180abaac83cc3809",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "保農字第1031826957號函釋有案,先予敘明。\n三、次依農業用地興建農舍辦法第2條第4款規定:「申請人無自用農舍者。申請人已領有個別農舍或集村農舍建造執照者,視為"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-a4d8964419",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960129274號",
+ "date": "2007-05-30",
+ "date_text": "96/5/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "018 釋都市計畫農業區作農業使用之認定案",
+ "content": "查農業發展條例第3條第10款有關農業用地之定義：「指非都市土地或『都市土地農業區、保護區範圍內』，依法供下列使用之土地．．．」換言之，『都市土地農業區、保護區範圍內』之土地應屬農業用地之範圍。因此，倘其利用現況符合作農業使用之認定基準，應得核發農業用地作農業使用證明書。（釋都市計畫農業區內「墓」地目土地，現況作農業使用）",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5504",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:48+08:00",
+   "source_key": "rmis:5504"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "76b419441c940502418cd940e680a48f7525e59dea221b5ac122dcbd63b00ca9",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "018 釋都市計畫農業區作農業使用之認定案\n查農業發展條例第3條第10款有關農業用地之定義:「指非都市土地或『都市土地農業區、保護區範圍內』,依"
+  }
+ ]
+}

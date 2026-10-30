@@ -1,0 +1,54 @@
+{
+ "id": "itp-90510ee451",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1040077969號",
+ "date": "2015-12-04",
+ "date_text": "104/12/4",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴局所詢農舍分期興建，其建築面積是否應超過45平方公尺，復請查照。",
+ "content": "一、復貴局104年11月27日中市農字第1040039917號函兼復臺中市政府都市發展局104年11月30日中市都建字第1040196941號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，且農舍建築面積應超過45平方公尺。但經直轄市、縣(市)農業單位或其他主管機關同意者，不在此限。」係為杜絕非為農業經營所需之小面積興建農舍造成農地破壞，故規定農舍建築面積應超過45平方公尺，且無論農舍新建或增建，均應受該最小建築面積之規範，惟如因農業經營需要經地方農業單位同意者，依上開但書規定得不受限制。\n三、依貴局相關說明，本案農舍建築面積24平方公尺，係本辦法102年7月1日增訂上開規定前核准建造執照之案件，並已取得使用執照在案，原申請人復於104年5月27日申請增建，自應符合上開規定，請貴局依前揭立法意旨就個案事實審認辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4194",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:31+08:00",
+   "source_key": "rmis:4194"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1f1468d5fc4a98ea9eb43243386b0e803d2f8cdb6148caaa466d5d9fb199439b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年11月30日中市都建字第1040196941號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定「同一筆農業用地僅能申請興建一棟農舍,採"
+  }
+ ]
+}

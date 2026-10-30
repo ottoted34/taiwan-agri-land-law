@@ -1,0 +1,64 @@
+{
+ "id": "itp-8eae34f4ec",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030205141號",
+ "date": "2014-02-21",
+ "date_text": "103/2/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴部函為林業用地上領有使用執照之農舍，得否許可作民宿使用疑義案，復請查照。",
+ "content": "一、復貴部103年2月18日內授中辦地字第1036650314號函。\n二、依「變更臺灣北、中、南、東部區域計畫(第一次通盤檢討)-因應莫拉克颱風災害檢討土地使用管制規定」及區域計畫第一次通盤檢討規定，森林區屬限制發展地區，除國防與國家重大建設外或因生活環境品質與安全考量，不允許作非保育目的之發展及任何開發行為，而考量林業用地係供營林及其設施使用，其比照森林區劃設目的，於102年7月1日修正發布之「農業用地興建農舍辦法」中，將前述森林區及林業用地列為不得申請集村農舍或個別農舍之區位，先予敘明。\n三、至首揭函所述林業用地上領有使用執照之農舍，得否許可作民宿使用一節，係屬目的事業主管機關權責，本會無意見。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3521",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:10+08:00",
+   "source_key": "rmis:3521"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "db92ea116b456aeb89edf4bd3d235c3770913662e82a2c24e846e146f964a1f3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "設施使用,其比照森林區劃設目的,於102年7月1日修正發布之「農業用地興建農舍辦法」中,將前述森林區及林業用地列為不得申請集村農舍或個別農舍之區位,先予敘明。\n三、"
+  }
+ ]
+}

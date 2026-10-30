@@ -1,0 +1,83 @@
+{
+ "id": "itp-89e314ef56",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970141934號",
+ "date": "2008-08-01",
+ "date_text": "97/8/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "005 釋土地鋪設有水泥地面，覆土後種植果樹得否認定為作農業使用案",
+ "content": "主旨：有關貴轄彰化市「特定農業區、農牧用地」現況為公眾使用之既成柏油道路(彰化市三竹路)，覆土後種植果樹得否認定為作農業使用疑義案，復請查照。\n說明：\n一、復 貴府97年7月25日府農務字第○○○○○號函。\n二、查作農業使用之農業用地得申請不課徵土地增值稅或免徵遺產稅、贈與稅，為農業發展條例第37條及第38條所明定，其立法目的係以賦稅減免之優惠措施，獎勵農業用地作農業使用，以落實農地農用政策，並維護農業生產資源。又農業用地作農業使用認定及核發證明辦法第7條明定：「農業用地有下列各款情形之一者，不得認定為作農業使用．．．二、現場堆置與農業經營無關或妨礙耕作之障礙物、砂石、廢棄物者。三、現場舖設有非農業經營必要之柏油、水泥等情事者．．．」其意旨係因農業用地上堆置與農業經營無關之砂石、廢棄物或鋪設柏油、水泥，確已影響農業之經營，並破壞農業資源之永續利用，故不宜予以賦稅減免優惠之獎勵。\n三、本案土地鋪設有水泥地面，作道路使用，為達到前開享有賦稅減免優惠之目的，雖於該水泥鋪面上覆土，然該土地鋪設有水泥地面之事實仍然存在，與前開規定有違，故不宜核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5246",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:58+08:00",
+   "source_key": "rmis:5246"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "7",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "169247d0507655ae51ad5c699b7eccee415e52309175dbcd27c6bdece9075806",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "landfill",
+  "orchard",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "使用之農業用地得申請不課徵土地增值稅或免徵遺產稅、贈與稅,為農業發展條例第37條及第38條所明定,其立法目的係以賦稅減免之優惠措施,獎勵農業用地作農業使用,以落"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "業用地作農業使用,以落實農地農用政策,並維護農業生產資源。又農業用地作農業使用認定及核發證明辦法第7條明定:「農業用地有下列各款情形之一者,不得認定為作農業使用...二、現場堆置與農"
+  }
+ ]
+}

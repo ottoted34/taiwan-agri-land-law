@@ -1,0 +1,59 @@
+{
+ "id": "itp-484ef4c991",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990150897號",
+ "date": "2010-08-05",
+ "date_text": "99/8/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○○申請退還農業用地變更回饋金之執行疑義一案。",
+ "content": "主旨：有關 貴府函詢○○○申請退還農業用地變更回饋金之執行疑義一案，復請 查照。\n說明：\n一、復 貴府99年7月27日府農地字第0990234379號函。\n二、依據非都市土地使用管制規則第54條規定：「非都市土地依目的事業主管機關核定事業計畫編定或變更編定、或經目的事業主管機關同意使用者，由目的事業主管機關檢查是否依原核定計畫使用；...。」復查申請退還農業用地變更回饋金之審認原則，查本會前以97年7月29日農企字第0970140351號函說明，略以：「...申請個案之土地，倘尚未依核定計畫開始開發使用，屬自始皆未作非農業使用，且經目的事業主管機關依『非都市土地使用管制規則』第37條，廢止該事業計畫，並依同條第3款，回復原編定為農業用地，案經 貴府審認確屬自始仍維持作農業使用者，應得由 貴府就該土地所繳納之回饋金金額，予以核處退還。」。\n三、本案為都市計畫農業區申請核准變更作非農業使用，依上開說明意旨，倘經都市計畫主管機關或目的事業主管機關廢止或撤銷原核准該土地作非農業使用之同意文件，並經 貴府審認該申請個案之土地，尚未依原核定計畫開始開發使用，且確屬自始仍維持作農業使用者，應得依上開函釋之原則，由 貴府就該土地所繳納之回饋金金額，予以核處退還。\n四、至自始有無維持作農業使用之審認一節，可依據申請個案有無違反都市計畫法土地使用管制規定及是否依原核定計畫開始開發使用，配合土地利用現況之實務及事實處理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5399",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:47+08:00",
+   "source_key": "rmis:5399"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "bfaf1fa9fe6c6b3c0672b4728c0f345aad1a91ea70df760da97c8564ff3d2652",
+ "topics": [
+  "facility_use",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  }
+ ]
+}

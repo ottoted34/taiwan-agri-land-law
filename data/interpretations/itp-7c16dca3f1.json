@@ -1,0 +1,54 @@
+{
+ "id": "itp-7c16dca3f1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020206750號",
+ "date": "2013-03-21",
+ "date_text": "102/3/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地違規使用檢舉獎勵辦法執行疑義案。",
+ "content": "主旨：有關所詢農業用地違規使用檢舉獎勵辦法執行疑義案，復請查照。\n說明：\n一、復 貴府102年3月4日府農農字第1020041462號函。\n二、依據農業用地違規使用檢舉獎勵辦法(以下稱本辦法)第2條規定，檢舉人於稽查單位未 發現前，檢舉農業用地違規使用事實，經主管機關查證屬實並裁罰有案者，得發給檢舉獎金、獎牌或獎勵狀。故有關農業用地違規檢舉案件，主管機關得依據個案實際狀況予以裁量，倘就獎勵核發認有疑慮者，自應於釐清疑點後，再依本辦法規定辦理；復案件經主管機關確認得發給獎勵，並擬以發給獎金方式為之者，本會亦分別於95年、96年通函說明獎金核發之審核要件有案(如附件)。\n三、綜上，本案就農業用地違規檢舉案件所為之行政處分，經內政部訴願委員會審議決定撤銷並另為適法之處分者，主管機關得否於另為適法處分前核發檢舉獎金，依據前開\n規定意旨，貴府倘認為該檢舉案件仍宜待進一步查證及裁罰確定，並經審核符合獎金核發要件後，始得發給者，尚屬適法。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5038",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:30+08:00",
+   "source_key": "rmis:5038"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cfd7daaaa7d65ec564cccd2fd2140482d5bff4d67a0d5402075c0a523477dccf",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2010",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2010"
+  },
+  {
+   "law_id": "RMIS-2010",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地違規使用檢舉獎勵辦法執行疑義案。\n主旨:有關所詢農業用地違規使用檢舉獎勵辦法執行疑義案,復請查照。\n"
+  }
+ ]
+}

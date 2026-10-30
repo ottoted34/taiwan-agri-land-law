@@ -1,0 +1,55 @@
+{
+ "id": "itp-80d9ca6e30",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080250649號",
+ "date": "2019-11-22",
+ "date_text": "108/11/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關104年10月21日以前農舍配置無臨側臨路限制，農舍應如何出入，復如說明，請查照。",
+ "content": "一、復貴府108 年11 月19 日府農林二字第1082527971 號函。\n\n二、查本會100 年12 月21 日農授水保字第1000179120 號函略以：「．．．農地上農舍為連接現有道路所需之農路，倘經認定僅作為農舍通行之用，而非生產所需者，應將此作為農舍通行用途之設施，歸納為「農舍附屬設施」，於申請興建農舍時一併提出，其面積應併入興建農舍土地面積10%檢討；惟如係具農業生產功能者，得依『申請農業用地作農業設施容許使用審查法』規定辦理」，故申請興建農舍之農業用地上之道路，宜先釐清該道路性質，倘為私設通路者，非屬農業使用範圍，與本辦法第2條第1項第5款該農業用地應確供農業使用規定不符；倘為與農業經營不可分離之農路，得依申請農業用地作農業設施容許使用審查辦法規定辦理；倘為農舍通行用途者，應歸納為農舍附屬設施，一併計入農舍用地\n面積檢討。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4683",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:40+08:00",
+   "source_key": "rmis:4683"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9721e4b78935f1eb664261baab339dca68e16b5cb4d93c80315b44074524d205",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地應確供農業使用規定不符;倘為與農業經營不可分離之農路,得依申請農業用地作農業設施容許使用審查辦法規定辦理;倘為農舍通行用途者,應歸納為農舍附屬設施,一併計入農舍用地\n面積檢討。"
+  }
+ ]
+}

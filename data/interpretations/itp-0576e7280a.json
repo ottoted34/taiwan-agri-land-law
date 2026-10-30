@@ -1,0 +1,65 @@
+{
+ "id": "itp-0576e7280a",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000130229號",
+ "date": "2011-05-20",
+ "date_text": "100/5/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○修道院申請農地變更，部分土地隔離設施寬度不足1.5公尺一案。",
+ "content": "主旨：有關 貴市○○修道院申請農地變更，部分土地隔離設施寬度不足1.5公尺一案，復如說明，請 查照。\n說明：\n一、復 貴局100年5月11日高市鳳山農務字第1001010932號函。\n二、查「農業主管機關同意農業用地變更使用審查作業要點」有關隔離綠帶或隔離設施規範意旨，係為保護周遭農業生產環境避免因鄰地變更使用而遭受污染，或因相互影響而肇致農作物日照不足等問題，故申請農業用地變更作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或隔離設施，以兼顧產業之永續發展，合先敘明。\n三、依據前開要點第11點第1項規定，申請變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，並與毗鄰農業用地相緊臨，設置寬度除依同要點第12點規定外，以1.5公尺為原則，以發揮隔離效果。故本案變更後之土地倘未有毗鄰農業用地，則配合個案實務審認後可免配置隔離綠帶或設施；惟如仍有毗鄰農業用地情形，則隔離綠帶或設施之配置原則及設置寬度，自應依上開要點第11點及第12點規定辦理。\n四、另 貴局來函說明本案土地周圍之農地已存在舊有房屋一節，建議 貴局可協助瞭解有無內政部主管之「製定非都市土地使用分區及編定各種使用地作業須知」第9點規定之適用，而得辦理更正編定為建築用地，倘經依法得予更正，致本案變更之土地周遭已未有毗鄰農業用地情形，自無須依前開要點配置隔離綠帶或設施之必要。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5392",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:02+08:00",
+   "source_key": "rmis:5392"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "0d767f1acd0cd72f7affc2833e46c8de68ad5dc1a1f59795ad1e703b1ed3afff",
+ "topics": [
+  "partial_use",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "5月11日高市鳳山農務字第1001010932號函。\n二、查「農業主管機關同意農業用地變更使用審查作業要點」有關隔離綠帶或隔離設施規範意旨,係為保護周遭農業生產環境避免因鄰地變更使用而遭受"
+  }
+ ]
+}

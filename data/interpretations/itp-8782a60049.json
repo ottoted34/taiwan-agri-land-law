@@ -1,0 +1,63 @@
+{
+ "id": "itp-8782a60049",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020240577號",
+ "date": "2013-12-20",
+ "date_text": "102/12/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農舍供他人作營利事業登記得否核發農用證明疑義釋示。",
+ "content": "主旨：有關貴府函詢農舍供他人設立營利事業登記，是否符合農業用地作農業使用規定疑義案，復如說明，請查照。\n說明：\n一、復貴府102年11月22日府農務字第1020220543號函。\n二、依農業發展條例第18條規定，強調「無自用農舍」而需興建者，得依相關規定申請辦 理，爰農舍應以「自用」為原則。復依非都市土地使用管制規則第6條附表一規定，農舍為農牧用地之容許使用項目之一，其許可使用細目包括農產品之零售、農作物生產資材及日用品零售等項目。爰農舍於自用前提下，附帶經營上開使用項目，該營利事業登記亦應與使用項目相關，始符農舍之用途使用。\n三、綜上，本案申請人所有農舍，涉及營利事業登記之疑義，仍請依前開原則，視個案實情審認核處，如有未符者，依農業用地作農業使用認定及核發證明辦法第5條第1款規定，農舍未依核定用途使用者，不得認定為作農業使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5348",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:31+08:00",
+   "source_key": "rmis:5348"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "43aadde20afa81491c981a6a6a81104fc66cec86ccc6b9708c1394995145b520",
+ "topics": [
+  "farm_use_cert",
+  "material_room",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "2年11月22日府農務字第1020220543號函。\n二、依農業發展條例第18條規定,強調「無自用農舍」而需興建者,得依相關規定申請辦 理,爰農舍應以「自用」為"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "記之疑義,仍請依前開原則,視個案實情審認核處,如有未符者,依農業用地作農業使用認定及核發證明辦法第5條第1款規定,農舍未依核定用途使用者,不得認定為作農業使用。"
+  }
+ ]
+}

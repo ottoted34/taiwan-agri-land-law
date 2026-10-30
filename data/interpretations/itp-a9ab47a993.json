@@ -1,0 +1,55 @@
+{
+ "id": "itp-a9ab47a993",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1081203778號",
+ "date": "2019-03-12",
+ "date_text": "108/3/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺南市○○公司申請直接以太陽能板為作為室內水產養殖設施屋頂",
+ "content": "主旨：有關○○有限公司申請直接以太陽能板為材質，建造作為室內水產養殖設施之屋頂疑義案，復如說明，請查照。\n說明：\n一、依貴府108年2月26日南市農漁字第1080257574號函副本辦理。\n二、旨揭直接以太陽能板作為設施屋頂之材質，在不影響設施用途及養殖生產情況下，同意辦理，並請依申請農業用地作農業設施容許使用審查辦法第33條規定辦理。\n三、另申請農業設施附屬綠能設施者，採二階段審查，本案僅為原則同意該公司直接以太陽能板直接作為設施屋頂建材使用，貴府仍應依規定辦理二階段審查，並於第一階段審查註明「在\\未具有養殖或營運事實前，該農業設施之附屬綠能設施不得核發附加綠能之農業設施容許使用同意書」，以落實農地農用之原則。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5615",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:22+08:00",
+   "source_key": "rmis:5615"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "240ef8ae42555c6d558f0accdde5934f65dd3cf3961dd883f4852bbf616548d3",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "頂之材質,在不影響設施用途及養殖生產情況下,同意辦理,並請依申請農業用地作農業設施容許使用審查辦法第33條規定辦理。\n三、另申請農業設施附屬綠能設施者,採二階段審查,本案僅為原則同意該公"
+  }
+ ]
+}

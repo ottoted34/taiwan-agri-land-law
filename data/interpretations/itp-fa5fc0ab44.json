@@ -1,0 +1,88 @@
+{
+ "id": "itp-fa5fc0ab44",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990990333號",
+ "date": "2010-04-13",
+ "date_text": "99/4/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "土地申請興建農舍，因基地內尚有通行多年之水泥路面是否尚須辦理農路之容許使用，以申請核發農業用地作農業使用證明書案。",
+ "content": "主旨：有關○○○陳情擬於所有之○○縣○○鄉○○○地號土地申請興建農舍，因基地內尚有通行多年之水泥路面是否尚須辦理農路之容許使用，以申請核發農業用地作農業使用證明書案，復請 查照。\n說明：\n一、依據立法委員○○○服務處○年○月○日康服工字第○○○○○號函轉台端未列日期陳情書辦理。\n二、有關農業用地上已存有興闢多年之農路，倘確為土地使用編定前即已存在，於申請核發農業用地作農業使用證明時，依農業用地作農業使用認定及核發證明辦法第5條第2款第2目規定，檢附得為從來使用之認明文件者，可無需補辦農路之容許使用。另查本會97年10月2日農企字第0970153973號函釋，農業用地上配合政府施設供當地農產運銷使用且屬與農業經營不可分離之農路，因非為該土地所有權人個人之農業生產需要，且係由政府機關主導施設，倘經該施設機關認定，亦得免申請農路之容許使用。\n三、又農業用地之農路，倘非屬上開情形者，依農業發展條例第8條之1第2項規定，有固定基礎之農業設施應申請容許使用，且為避免土地所有權人零星闢設與農業經營無關之通路，故仍應依「申請農業用地作農業用地容許使用審查辦法」規定申請容許使用，始符法制。\n四、副本抄送○○○政府，請協助查明本案農路是否屬從來使用或政府施設，或儘速協助補辦農路之容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5417",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:02+08:00",
+   "source_key": "rmis:5417"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "e8d0b87f9cf8434e938e4f982bd39a47a5d0264d8a280f9f1132fd3104486043",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "地使用編定前即已存在,於申請核發農業用地作農業使用證明時,依農業用地作農業使用認定及核發證明辦法第5條第2款第2目規定,檢附得為從來使用之認明文件者,可無需補辦農路之容許使用。另查本"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "農路之容許使用。\n三、又農業用地之農路,倘非屬上開情形者,依農業發展條例第8條之1第2項規定,有固定基礎之農業設施應申請容許使用,且為避免土地所有權人零星闢設與農"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "星闢設與農業經營無關之通路,故仍應依「申請農業用地作農業用地容許使用審查辦法」規定申請容許使用,始符法制。\n四、副本抄送○○○政府,請協助查明本案農路是否屬從"
+  }
+ ]
+}

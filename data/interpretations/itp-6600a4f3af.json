@@ -1,0 +1,58 @@
+{
+ "id": "itp-6600a4f3af",
+ "doc_class": "interpretation",
+ "docno": "府建管字第1040083696號",
+ "date": "2015-06-26",
+ "date_text": "104/6/26",
+ "agency_text": "花蓮縣政府",
+ "category": "解釋函",
+ "subject": "有關實施區域計畫地區個別農舍之總樓地板面積、建築物高度、樓層數、最大基層建築面積等修訂事宜案，復如說明，請查照。",
+ "content": "一、復大部104年5月1日內授營建管字第1040807220號函。\n二、查本縣轄內非都市土地個別農舍申請建築執照時，其總樓地板面積、建築物高度、樓層數、最大基層建築面積檢討皆依據實施區域計畫地區建築管理辦法規定審核，然現今農業用地未落實作為農業生產使用，其興建農舍作為私人豪宅使用，已失去其法規精神層面，建議大部研商訂定明確標準規定，避免社會輿論爭議及遏止不法炒作農業用地之憤格，以維護農業用地興建農舍之法規精神。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "花蓮縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3603",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:52+08:00",
+   "source_key": "rmis:3603"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d55608cd88d4063ebade06f43fee0c5772deafd848918a7d17d19823112ac839",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

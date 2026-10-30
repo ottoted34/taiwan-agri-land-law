@@ -1,0 +1,58 @@
+{
+ "id": "itp-21b345c03e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980129458號",
+ "date": "2009-05-20",
+ "date_text": "98/5/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "主旨：有關貴轄新莊市公所為辦理農業用地作農業使用證明書核發疑義案，復請 查照。\n說明：\n一、復 貴局98年5月13日北農牧字第0980366396號函。\n二、查民法第819條第1項所謂各共有人得自由處分其應有部分，應係指「分別共有」，即同法第817條第1項規定數人按其應有部分，對於一物有所有權者而言。準此，則該第817條第2項所定「各共有人之應有部分不明者，推定其為均等。」應係規範該條之「分別共有」者而言。\n三、又民法有關公同共有之成立、消滅、公同共有人之權利義務關係、公同共有物之分割 限制等分別定於同法第827條至第830條。因此，不宜將公同共有之案件套用於規範分別共有之相關條文。\n四、本案公同共有農業用地成立之原因，似為因未辦理分割遺產，致依民法第1151條之規定而成為公同共有，故其申請核發農業用地作農業使用證明書，應就該公同共有之農業用地視為一整體審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5451",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:59+08:00",
+   "source_key": "rmis:5451"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "604cea28eaf24aff82a98091991a64e5e4fe52806b4d86c04f3d7cf5c2268a98",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

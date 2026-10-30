@@ -1,0 +1,52 @@
+{
+ "id": "itp-ab3b173bf1",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1142614773號",
+ "date": "2025-10-02",
+ "date_text": "114/10/2",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "為貴縣義竹鄉公所函詢有關於農業用地上存有墳墓，其農作產銷設施容許使用之審查疑義案，復如說明，請查照。",
+ "content": "一、查申請農業用地作農業設施容許使用審查辦法（下稱容許辦法）第6條第1項第9款規定，農業用地有違反其他土地使用管制相關法令規定之情形，不予同意容許使用之申請。是以，申請農業設施容許使用之該整筆土地，倘有違反其他土地使用管制相關法令規定之情形，應依上開容許辦法規定核處，尚無僅就土地之一部分予以審認之情形。\n二、至申請農業設施之農業用地上存有墳墓一節，查改制前行政院農業委員會農糧署前以93年4月6日農糧企字0931070367號函說明審認原則，略以：「依非都市土地使用管制規則(下稱管制規則)第6條附表1規定，農牧用地不得作為墳墓設施使用；但屬非都市土地使用分區及用地編定前已存在之墳墓設施，依上開管制規則第8條第1項規定可得為從來使用，故無違反區域計畫法問題。至於非都市土地使用編定後所興建之墳墓，明顯已違反非都市土地使用管制規則規定。」。\n三、綜上，本案既存墳墓倘符合前開函釋規定屬得為從來使用者，得檢具相關證明文件，申請農業設施之容許使用，惟應於配置圖上標示墳墓位置；至非屬得為從來使用者，則仍應容許辦法第6條第1項第9款規定辦理，爰請貴府依上開原則指導公所就個案實情予以審認核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5963",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:58+08:00",
+   "source_key": "rmis:5963"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5803d8be5ed13b19b310b85d012b95669f1fd044be8237731c32e8b3e7d0531f",
+ "topics": [
+  "partial_use"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農作產銷設施容許使用之審查疑義案,復如說明,請查照。\n一、查申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第6條第1項第9款規定,農業用地有違反其他土地使用管制相關法令規"
+  }
+ ]
+}

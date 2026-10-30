@@ -1,0 +1,52 @@
+{
+ "id": "itp-87736774b4",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1031000996號",
+ "date": "2014-02-25",
+ "date_text": "103/2/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上之農業設施附屬設置配電場所所涉審查疑義案。",
+ "content": "主旨：有關貴局函詢農業用地上之農業設施附屬設置配電場所所涉審查疑義案，復請查照。\n說明：\n一、依據行政院農業委員會103年1月17日農企字第1030200929號書函辦理，並復貴局103年1月3日南市農務字第1021156370號函。\n二、依據行政院農業委員會102年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條第3項規定「第1項第1款至第4款設施，得依實際需求，配置車輛運(迴)轉空間、附屬設施所需空間及衛生設備。但車輛運(迴)轉空間，不列計於興建面積。」另參依該會102年10月17日農授糧字第1020723962號函略以，農業設施倘為經營需要而有線接電之需求，依臺灣電力公司營業規則規定，須配合設置配電場所，始可供電，尚得依上開規定配置配電場所作為附屬設施辦理容許使用。合先敘明。\n三、按附屬設施亦為農業設施之部分，除符合容許辦法第7條第1項但書規定之情形者外，其所有農業設施總面積，依同項規定，仍不得超過申請設施所坐落之農業用地土地面積之40%。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4794",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:05+08:00",
+   "source_key": "rmis:4794"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2cadef862c60c54afae0d94a4e7120e55450e4a61e85cc3a039b46487dfbaba2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0號函。\n二、依據行政院農業委員會102年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條第3項規定「第1項第1款至第4款設施,得依實際需求,"
+  }
+ ]
+}

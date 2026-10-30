@@ -1,0 +1,54 @@
+{
+ "id": "itp-6385febd21",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080220944號",
+ "date": "2019-07-24",
+ "date_text": "108/7/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關已有農舍，嗣因分割繼承取得另一農舍與其坐落用地部分持分，得否再受贈取得該農舍與其坐落用地之他共有人持分案，復如說明，請查照。",
+ "content": "一、復貴部108年5月20日台內地字第1080032801號函。\n二、查農業發展條例第18條規定：「本條例中華民國89年1月4日修正施行後取得農業用地之農民，無自用農舍而需興建者，經直轄市或縣(市)主管機關核定，於不影響農業生產環境及農村發展，得申請以集村方式或在自有農業用地興建農舍。．．．」之立法意旨，故農舍應以自用為原則。農舍承受人須符合無自用農舍，查本會水土保持局已於96年3月14日以農授水保字第0961848173號函說明在案。\n三、至本會水土保持局96年7月17日農授水保字第0961848639號函復貴部有關案由六及案由七農舍承受人，查係指農舍所有權人原有農舍持分1/2，經取得他共有人農舍持分1/2後，合併為所有權全部，仍應符合農舍承受人無自用農舍原則，非指未增加農舍棟數即可承受2棟農舍，併予敘明。四、綜上，旨案農舍之承受人，無論贈與、買賣或拍賣，均須符合無自用農舍條件，始可承受農舍，且應符合農舍自用之原則，並就該筆農業用地從事積極農用等立法規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4607",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:07+08:00",
+   "source_key": "rmis:4607"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e5f130c8acf5df1397eff1813808f076e85ae8ff422fada136e73a45ab0ae81b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "08年5月20日台內地字第1080032801號函。\n二、查農業發展條例第18條規定:「本條例中華民國89年1月4日修正施行後取得農業用地之農民,無自用農舍而需"
+  }
+ ]
+}

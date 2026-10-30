@@ -1,0 +1,100 @@
+{
+ "id": "itp-5f8cd3e777",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010119155號",
+ "date": "2012-08-07",
+ "date_text": "101/8/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "民眾以同一結構之一棟建築物，同時申請核發僅供補辦農舍建築執照農用證明及申請補辦農業設施(農業資材室)容許使用之疑義案。",
+ "content": "主旨：有關　貴府函詢民眾以同一結構之一棟建築物，同時申請核發僅供補辦農舍建築執照農用證明及申請補辦農業設施(農業資材室)容許使用之疑義案，復請　查照。\n說明：\n一、復　貴府101年7月24日府農農字第1010148324號函。\n二、查農業設施係屬與農業經營不可分離之設施，應依「申請農業用地作農業設施容許使用審查辦法」之規定，申請農業設施之容許使用；而農舍係基於農業經營之目的始附帶提供居住使用，應依「農業用地興建農舍辦法」規定辦理，兩者之性質及法令依據不相同，且申請要件及管制規定亦不相同。故本案依來函所詢，係同一結構之一棟建築物，該棟建築物之使用內涵，究應屬農舍或農業設施，仍請　貴府先予釐清，並依該棟建築物應適用之法令規定，予以核處。\n三、有關核發「僅供申請補辦農舍建築執照使用」之農業用地作農業使用證明書一節，查本會業於101年3月29日農企字第1010103449號函復　貴府再次明敘，上開證明書之核發係指「未經申請建築許可即先行動工興建之農舍」，且經「建設或工務單位審查認定」者，始予以適用有案。本案該棟建築物之使用內涵，倘確屬農舍，涉及農業用地作農業使用證明書之核發事宜，仍請　貴府本於職權依前開號函原則辦理。\n四、另依據「申請農業用地作農業設施容許使用審查辦法」第7條第9款規定，申請農業用地作農業設施容許使用，申請案件有未符合本辦法規定或違反其他法令規定，不予同意。是以，農業用地倘確有違反區域計畫法或建築法令規定之情形，於裁處行政程序尚未終結，或違規情節尚未排除前，農業用地申請農業設施之容許使用，均應依上開辦法之規定辦理。併予陳明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5579",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:12+08:00",
+   "source_key": "rmis:5579"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "30ecf9207f5e5f6f064a07b547eca7ddd98eefa63c74e29679605191e51d01ca",
+ "topics": [
+  "farm_use_cert",
+  "material_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "容許使用;而農舍係基於農業經營之目的始附帶提供居住使用,應依「農業用地興建農舍辦法」規定辦理,兩者之性質及法令依據不相同,且申請要件及管制規定亦不相同。故本案依來函"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "核發事宜,仍請 貴府本於職權依前開號函原則辦理。\n四、另依據「申請農業用地作農業設施容許使用審查辦法」第7條第9款規定,申請農業用地作農業設施容許使用,申請案件有未符合本辦法規定或違反其他"
+  }
+ ]
+}

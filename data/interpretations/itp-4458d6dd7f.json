@@ -1,0 +1,56 @@
+{
+ "id": "itp-4458d6dd7f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090230282號",
+ "date": "2020-07-21",
+ "date_text": "109/7/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "合法建物之農舍得否提供社會福利項目使用，並申請社區式長期照顧機構疑義案",
+ "content": "一、復貴府 109年7月15日府農務字第 1090115015號函。\n二、按農業發展條例第 18條規定立法意旨，「農舍」係與農業經營不可分離性質，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之建築物，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍。\n三、由於長期照顧事業或其他社會福利項目並非屬農業範疇，是類事業體本體亦為非農業使用性質，爰非為農業經營之用途使用，自不符合農業發展條例之農舍規定，故不應以農舍作為長照設施或提供其他社會福利項目使用。\n四、基於農舍問題屢為外界所關注，為監察院歷次糾正標的，並持續要求檢討相關規定及從嚴處理，又為解決農舍浮濫與零星興建導致農地破碎，影響農業生產環境等問題，未來將依據全國國土計畫土地使用指導原則，逐步引導農業經營衍生之居住需求朝農村集中，合理規劃農業生產區與生活區，創造宜農適居且不會產生衝突或互相干擾的空間。\n五、至偏鄉地區倘有設置長期照顧服務設施需求，建議結合社區閒置空間，俾周延考量整體照護環境及所需配套資源。倘確無可避免使用農業用地者，仍應依法變更為適當土地使用分區或用地別，以維護農業生產環境，並符合土地使用管制原則。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4741",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:23+08:00",
+   "source_key": "rmis:4741"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4cf015783f7ab1454c0ae31bf15b1f9bb38fa0ea9ddba07fc82929f856a0e670",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "9年7月15日府農務字第 1090115015號函。\n二、按農業發展條例第 18條規定立法意旨,「農舍」係與農業經營不可分離性質,提供有心經營農業者於該農地上興建"
+  }
+ ]
+}

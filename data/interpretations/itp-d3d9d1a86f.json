@@ -1,0 +1,58 @@
+{
+ "id": "itp-d3d9d1a86f",
+ "doc_class": "interpretation",
+ "docno": "觀賓字第1030000129號",
+ "date": "2014-03-07",
+ "date_text": "103/3/7",
+ "agency_text": "交通部觀光局",
+ "category": "解釋函",
+ "subject": "有關貴府函請就農舍作民宿使用，應容許周邊設置停車空間一案，請查照。",
+ "content": "一、依據交通部102年12月31日交路字第1020044530號函轉貴府102年12月26日屏府農企字第10279410800號函辦理。\n二、有關貴府表示「觀光單位受理審查時，並未審核農舍周邊是否規劃停車場或停車位，導致無停車空間可使用。」一節，查民宿管理辦法並無規定停車空間為申請民宿之必要條件，於實務面，宜推廣旅客以大眾運輸方式代替自行開車，再以「臺灣好行」或短程接駁從事旅遊，是以民宿尚無全面強制自備停車空間之必要性。貴府如對所轄民宿發展區域有公共停車之需求，宜請逕依權責規劃辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "交通部觀光局",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3783",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:50+08:00",
+   "source_key": "rmis:3783"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "799919931c5b29dd156e5beb1f7a15a01a59d93518cfe6b6149ac4059d0d3f86",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

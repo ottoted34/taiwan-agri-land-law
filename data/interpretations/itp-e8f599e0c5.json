@@ -1,0 +1,53 @@
+{
+ "id": "itp-e8f599e0c5",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152626753號",
+ "date": "2026-02-25",
+ "date_text": "115/2/25",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢○○○君擬於中寮鄉○○○地號，申請興建農舍農民資格疑義案，復請查照。",
+ "content": "一、依「農業用地興建農舍辦法」（下稱本辦法）第5條第1項規定略以：「申請興建農舍之農業用地，有下列情形之一者，不得依本辦法申請興建農舍：…四、其他違反土地使用管制規定者。」，另查「非都市土地使用管制規則」第8條規定：「土地使用編定後，其原有使用或原有建築物不合土地使用分區規定者，在政府令其變更使用或拆除建築物前，得為從來之使用。」次查內政部82年3月5日台（八二）內地字第8202898號函略以：「…依管制規則第8條規定作從來之使用者，可由縣市政府主動查證或由土地所有權人（或使用人）檢具下列文件之一：（一）編定公告前已作該項使用之航照圖或基本圖，（二）編定公告前，其地目足以顯示作該項使用之地籍謄本，（三）編定公告前相關機關核准或證明已作該項使用之文件，（四）其他足堪證明在編定公告前已作該項使用之相關文件。經當地縣市政府認定確為編定前已作該項使用後，准予維持從來之使用。至縣市政府無法查證且土地所有權人（或使用人）亦無法檢附上列證明文件之一或所檢附之證明文件經縣市政府認定非為原有使用者，為避免浮濫起見，自不宜同意其得為從來之使用。」先予敘明。\n二、爰此，有關貴府所述農業用地上存有土地公廟倘依現有之航照圖資尚難清楚辨識，得依上開函釋說明，提出相關佐證資料以資證明，併請貴府參照函釋審酌核處。\n三、檢還相關申請附件1份。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6083",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:16+08:00",
+   "source_key": "rmis:6083"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "85396c35a14d59f0d05f07a51ae9e147f7fbeca53ae26b5b0caf4d4f08e215ee",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "鄉○○○地號,申請興建農舍農民資格疑義案,復請查照。\n一、依「農業用地興建農舍辦法」(下稱本辦法)第5條第1項規定略以:「申請興建農舍之農業用地,有下列情形之一者,"
+  }
+ ]
+}

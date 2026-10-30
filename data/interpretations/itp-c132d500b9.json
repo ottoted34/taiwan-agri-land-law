@@ -1,0 +1,56 @@
+{
+ "id": "itp-c132d500b9",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080231073號",
+ "date": "2019-09-10",
+ "date_text": "108/9/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋共有農地興建農舍可否以分管契約或切結書方式審認疑義",
+ "content": "主旨：有關貴府函詢共有農業用地興建農舍有違規使用，其未違規使用部分得否依農業用地作農業使用認定及核發證明辦法第6條第6款及第8條規定辦理疑義案，復請查照。\n說明：\n一、復貴府108年7月22日府農管字第1080182073號函。\n二、查本會104年4月16日農企字第1040209001號函釋共有農業用地興建農舍有違規使用，須以整筆土地違規使用論處，無農業用地作農業使用認定及核發證明辦法第6條第6款及第8條規定得以分管契約方式辦理之適用，係因農舍為與農業經營不可分離之建築物，其10%農舍用地與90%農業經營用地具有不可分離之關係，故不得以上開辦法第8條規定之分管契約書等方式，將農舍與其餘農業經營用地之使用情形分開視之，而僅就農舍或其餘農業經營用地核發農業用地作農業使用證明書。\n三、至本會前開號函敘及共有農業用地申請興建農舍，且徵得共有人之同意一節，係說明共有土地於申請興建該農舍時，須徵得共有人同意之原則，此亦為涉及共有關係時，應踐行之法定程序，其與前開辦法第6條第6款及第8條規定無關，併予澄明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5585",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:22+08:00",
+   "source_key": "rmis:5585"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "955bddae2b14a8fae2c7c2897c7bf78f852030b57d7bffd3abc7c19fe69cdee1",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "府函詢共有農業用地興建農舍有違規使用,其未違規使用部分得否依農業用地作農業使用認定及核發證明辦法第6條第6款及第8條規定辦理疑義案,復請查照。\n說明:\n一、復貴府108年7月22日府"
+  }
+ ]
+}

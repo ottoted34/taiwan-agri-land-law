@@ -1,0 +1,56 @@
+{
+ "id": "itp-7473487860",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080990832號",
+ "date": "2019-08-20",
+ "date_text": "108/8/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關○○○所有貴市瑞芳區○○○地號土地興建農舍之申請人資格條件審查疑義案，復如說明，請查照。",
+ "content": "一、依據立法委員○○○國會辦公室函轉○○○108年8月14日陳情書辦理。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，又農舍之申請人資格、許可條件、最大基層建築面積與高度、興建方式等申請要件，於實施區域計畫地區建築管理辦法或農業用地興建農舍辦法(以下簡稱農舍辦法)均有明確規範。旨案農舍之申請人資格條件審查疑義，本會前於108年6月21日以農企字第108022290號函、108年8月1日以農企字第1080230035號函復貴局在案(諒達)，故旨案倘屬合法房屋擬認定為農舍，應符合現行農舍辦法之規定，始為適法。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4677",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:40+08:00",
+   "source_key": "rmis:4677"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6454c33946f0bee475f290cde8d91b873c4b1639cd6450eb537623b7e1b9d928",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "與高度、興建方式等申請要件,於實施區域計畫地區建築管理辦法或農業用地興建農舍辦法(以下簡稱農舍辦法)均有明確規範。旨案農舍之申請人資格條件審查疑義,本會前於10"
+  }
+ ]
+}

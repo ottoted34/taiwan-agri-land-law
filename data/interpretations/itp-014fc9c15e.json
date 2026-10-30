@@ -1,0 +1,54 @@
+{
+ "id": "itp-014fc9c15e",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1040070351號",
+ "date": "2015-11-13",
+ "date_text": "104/11/13",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府所詢農業用地興建農舍辦法第9條第2項第6款執行疑義，復請　查照。",
+ "content": "一、復貴府104年10月26日府農農字第1040223500號函。\n二、查農業用地興建農舍辦法第9條第2項第6款有關「…農舍建築面積應超過45平方公尺。但經直轄市、縣（市）農業單位或其他主管機關同意者，不在此限。」係為杜絕非為農業經營所需之小面積興建農舍，造成農業用地破壞之規定，惟為保留彈性，因「農業經營需要」者，直轄市、縣（市）政府得就個案事實予以同意得不受最小面積之限制。\n三、本案依貴府說明，申請人申請興建農舍之建築面積45平方公尺以下，原於貴轄內有房屋1棟，與所附「農舍建築面積45平方公尺以下切結書」（按：該切結書內容似屬貴府所訂）不符，經貴府駁回其申請在案，惟申請人復將所有房屋以夫妻贈與方式移轉，衍生貴府是否得以同意興建農舍之疑義，因涉個案事實認定，請貴府按前揭本辦法規定意旨本權責審認。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3976",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:49+08:00",
+   "source_key": "rmis:3976"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0a277e2e8c26821105bc947206f1406e7d204ed3600994910acee5a3d877d5b0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關貴府所詢農業用地興建農舍辦法第9條第2項第6款執行疑義,復請 查照。\n一、復貴府104年10月26日府農農字第10"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "itp-3b4e2ee4c9",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1040073123號",
+ "date": "2015-11-20",
+ "date_text": "104/11/20",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關花蓮縣政府函詢農舍邊牆搭農業資材室或組織培養生產場等農業設施，是否尚須考量農舍該面牆有無門窗，邊牆相連及防火間隔等問題案1案，復請查照。",
+ "content": "一、復大會104年11月6日農授水保字第1040239189號函。\n二、旨案前經本署104年10月6日營署建管字第1040061937號函復大會在案，有關已興建之農舍得否與農業設施相連，查建築法尚無限制規定，惟是否符合農業發展條例立法意旨，請大會卓處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3322",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:41+08:00",
+   "source_key": "rmis:3322"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "88d41974f6ea26245d0ed8d450f2b802cd691e93370a0663e0aa6078936d2082",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "建之農舍得否與農業設施相連,查建築法尚無限制規定,惟是否符合農業發展條例立法意旨,請大會卓處。"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "itp-fbee2b3933",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110247553號",
+ "date": "2022-10-31",
+ "date_text": "111/10/31",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "釋依據「露營場管理要點」申請非都市土地作露營場之容許使用，涉及農業用地變更使用審查作業之疑義案",
+ "content": "主旨：有關貴局函詢依據「露營場管理要點」申請非都市土地作露營場之容許使用，涉及農業用地變更使用審查作業之疑義案，復請查照。\n說明：\n一、復貴局111年10月19日觀技字第1114002347號函。\n二、按露營場管理要點第6點附件3「非都市土地許可使用申請書」規定，申請案件應檢附使用計畫書(包含土地使用配置圖及位置示意圖)。復按同要點第6點附件4「非都市土地許可使用審查表」規定，目的事業主管機關受理露營場之許可使用案件，已於該審查表將露營場設置應避免影響周遭環境之相關審查事項，納入審查內容及查核事項欄，並分工明定應送會農業單位及有關單位共同會審。是以，針對「農業主管機關同意農業用地變更使用審查作業要點」第3點第2項規定，就農業用地變更使用說明書(以下簡稱農變說明書)應說明事項，經查已可於貴管上開附件及審查表予以查核確認，爰基於簡政，不再由申請人另行擬具農變說明書。\n三、副本副知直轄市、縣(市)政府農業主管機關及本會相關單位，考量交通部針對露營場之管理，已建立完整之審查機制，亦能適度簡化審查程序與書件，以加速協助露營場合法化之推動作業，爰就露營場申請之審查流程等事宜，依露營場管理要點之規定辦理，併予敘明。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5940",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:25+08:00",
+   "source_key": "rmis:5940"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1ba773fa76f46d3db436d364d247e4c724703d29d7dfeec5ec4e243d28d0de72",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "項欄,並分工明定應送會農業單位及有關單位共同會審。是以,針對「農業主管機關同意農業用地變更使用審查作業要點」第3點第2項規定,就農業用地變更使用說明書(以下簡稱農變說明書)應說明事項,經查"
+  }
+ ]
+}

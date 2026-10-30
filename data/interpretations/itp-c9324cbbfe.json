@@ -1,0 +1,64 @@
+{
+ "id": "itp-c9324cbbfe",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041881313號",
+ "date": "2015-06-16",
+ "date_text": "104/6/16",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "為臺南市政府農業局函詢有關辦理興建農舍資格審查之農業用地取得時點疑義案，敬請惠示卓見賜復，至紉公誼。",
+ "content": "一、依據臺南市政府農業局104年5月27日南市農工字第1040524295號函(附件一)辦理。\n二、依行政院農業委員會101年6月29日農水保字第1011865000號令(附件二)核釋略以：「有關『農業發展條例』第十八條所稱取得農業用地，應以土地登記薄所有權部認定之，其土地取得時點除民法第七百五十九條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。...」，係依據民法第758條、第759條規定意旨認定農業用地之物權取得基準，先予敘明。\n三、惟臺南市政府農業局就本案安南區○○○、○○○及○○○地號等三筆土地不同所有權人之合併，認為非屬法律行為且未涉及所有權屬之變動。\n四、然依土地登記規則第88條規定，二宗以上所有權人不同之土地辦理合併時，各所有權人之權利範圍依其協議定之；各所有權人既有協議行為約定各自權利範圍，似已屬民法第758條所稱之法律行為，依行政院農業委員會上開號令，二宗以上所有權人不同之土地合併後，農業用地取得時點應以所有權部登記日期為基準。本局前開見解是否妥適，敬請貴部惠示卓見。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4071",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:10+08:00",
+   "source_key": "rmis:4071"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "29c592c42a94d89b0d8df6900d1ffb3fc3b300e6387b91eac4bddb9bdadcabc0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "農水保字第1011865000號令(附件二)核釋略以:「有關『農業發展條例』第十八條所稱取得農業用地,應以土地登記薄所有權部認定之,其土地取得時點除民法第七百五十九"
+  }
+ ]
+}

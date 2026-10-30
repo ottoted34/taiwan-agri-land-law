@@ -1,0 +1,48 @@
+{
+ "id": "itp-4e03918c95",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080726039號",
+ "date": "2019-09-24",
+ "date_text": "108/9/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關○○○陳情貴市東勢區○○○地號農業用地興建自用農舍之申請人資格條件審查，農舍用地配置疑義案，復如說明，請查照。",
+ "content": "一、復貴局108年9月6日中市農地字第1080030730號函。\n\n二、針對農舍用地應矩形配置於農地之地界線側及臨接道路之「道路」審認相關原則，本會前以108年5月17日農企字第1080713444號函、108年6月14日農企字第1080716169號書函復貴局在案(諒達)，並經貴局多次協處有案。\n\n三、基於農舍審查係屬直轄市、縣（市）政府之權責，請貴局參照前開說明予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4675",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:07+08:00",
+   "source_key": "rmis:4675"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ce8818610906d4d0ab53ac52bcb013818c489a9d61da13331c8f81ecfa66b24c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

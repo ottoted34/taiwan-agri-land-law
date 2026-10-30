@@ -1,0 +1,67 @@
+{
+ "id": "itp-dce9fdfce4",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第1026039747號",
+ "date": "2013-10-28",
+ "date_text": "102/10/28",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "關於屏東縣政府函為○○○建議農舍作民宿使用，應容許周邊停車或一律變更編定為特定目的事業用地，以符實際1案，茲就涉及本部主管非都市土地使用管制業務部分提供意見如說明，復請查照。",
+ "content": "一、復貴會102年10月23日農授水保字第1020235357號函。\n二、本案有關建議農舍供民宿使用時，其坐落土地應一律變更編定為特定目的事業用地1節，查依非都市土地使用管制規則第6條附表一「各種使用地容許使用項目及許可使用細目表」規定，農牧、養殖及鹽業等3種用地容許興建農舍(部分使用分區除外，又該規則102年9月19日修正，已配合「農業用地興建農舍辦法」規定，刪除林業用地得興建農舍之規定)，其許可使用細目包括「民宿」，惟需符合附帶條件規定，且需經目的事業主管機關、使用地主管機關及有關機關許可。按「農舍」為與農業經營不可分離之房舍，而特定目的事業用地則係供各種特定目的事業使用者，二者之土地使用性質有別，爰如已依上開容許使用規定及農舍興建相關規定合法興建之農舍，其坐落土地尚不宜變更編定為特定目的事業用地。\n三、另本案建議農舍供民宿使用時，其坐落土地應變更編定為特定目的事業用地之理由，依屏東縣政府來函所敘，主要係基於農舍作為民宿使用，已與原先期待多餘房間出租之立法意旨悖離，其性質接近旅宿業，並造成9成以上之民宿違規。爰此，「農舍」得作「民宿」使用之規定，是否有檢討限縮(或刪除)或更嚴格規範之必要？併請貴會審酌。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3715",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:48+08:00",
+   "source_key": "rmis:3715"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "085e551fc5c707cc5b5e2164d515b30cc5d91d1022f9970d8e3103c81ab5ecee",
+ "topics": [
+  "land_change",
+  "farmhouse",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍(部分使用分區除外,又該規則102年9月19日修正,已配合「農業用地興建農舍辦法」規定,刪除林業用地得興建農舍之規定),其許可使用細目包括「民宿」,惟需符合附帶條"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "itp-1ab5451a23",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1040063410號",
+ "date": "2015-10-05",
+ "date_text": "104/10/5",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關農舍之配合耕地是否可以交換以解除套繪管制疑義1案，復請查照。",
+ "content": "一、復貴府104年9月17日府商建字第1040195625號函。\n二、依據內政部103年7月1日台內營字第1030806572號令示：「有關農業發展條例89年修正前,依原『臺灣省申請自用農舍補充注意事項』規定以10公里範圍內未毗鄰農業用地合併檢討興建農舍之案件辦理解除套繪,該農舍坐落之農業用地面積及其符合規定比例之多筆農業用地面積合計大於0.25公頃，其餘超出規定比例部分之農業用地得免經其他土地所有權人之同意，逕依變更使用執照程序解除套繪管制，且不論農舍坐落地號或提供興建農舍所有地號之土地所有權人，均得提出申請變更使用執照解除套繪管制。自即日生效。」\n三、另有關農業發展條例89年修正前，依原「臺灣省申請自用農會補充注意事項」規定以10公里範圍內未毗鄰農業用地合併檢討興建農舍之案件，申請農舍原使用執照內附加註記之配合耕地地號之變更事宜，前經內政部99年9月21日內授營建管字第0990807865號、104年8月3日內授營建管字第1040426214號函、本署99年12月27日營署建管字第0990079931號、103年3月6日營署建管字第1030011157號函(如附件)示有案。本案農舍之配合耕地交換及解除套繪管制事宜，因涉個案事實認定，請本於權責依法認定核處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3611",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:22+08:00",
+   "source_key": "rmis:3611"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5d0fd2cd0aa3cd47373d93d9915f9f2f91f98cede91da189cdffe8465d403454",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "103年7月1日台內營字第1030806572號令示:「有關農業發展條例89年修正前,依原『臺灣省申請自用農舍補充注意事項』規定以10公里範圍內未毗鄰農"
+  }
+ ]
+}

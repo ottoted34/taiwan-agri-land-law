@@ -1,0 +1,55 @@
+{
+ "id": "itp-4ee676590e",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080248277號",
+ "date": "2019-11-18",
+ "date_text": "108/11/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "嘉義政府施設之農路、蓄水池得否以切結書或首長裁決認定",
+ "content": "主旨：有關貴府函詢申請核發農業用地作農業使用證明書，其農地上有政府施設之農路、蓄水池等相關設施疑義案，復請查照。\n說明：\n一、復貴府108年11月4日府農村字第1080235090號函。\n二、農業用地上如施設有與農業經營不可分離之農路、蓄水池等農業設施，依農業用地作農業使用認定及核發證明辦法第4條第2款規定，應取得農業設施容許使用同意書；如該農業設施於土地使用編定前即存在者，須檢具從來使用證明文件；如為配合政府施設供公眾使用之農路等農業設施，本會歷年函釋其得視為已取得農業設施容許使用，無須由農民另案申請。\n三、對於政府施設供公眾使用之農路，查本會99年11月9日農企字第0990172677號函釋略以：「．．．三、有關旨揭配合政府施設供公眾使用農路之認定，其既係配合政府施設，理應由政府審認，且公文書之保存亦為政府權責，似不宜由當事人切結。建議由公所依實際情況確認並註明：『該路係配合政府施設供當地農產運銷之公眾使用無誤。』」爰貴府所提以切結書替代設施證明一節，倘為當事人切結者，自有未宜。至由地方機關首長裁決一節，倘認為與上開函釋所建議，由受理機關(貴府或公所)依實際情況確認並註明意見之作法相同，似無不可。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5589",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:43+08:00",
+   "source_key": "rmis:5589"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "307dfc15d84b34341867a3b825c3d77126375685132f12c606a111629e3ebb96",
+ "topics": [
+  "farm_use_cert",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "用地上如施設有與農業經營不可分離之農路、蓄水池等農業設施,依農業用地作農業使用認定及核發證明辦法第4條第2款規定,應取得農業設施容許使用同意書;如該農業設施於土地使用編定前即存在者,"
+  }
+ ]
+}

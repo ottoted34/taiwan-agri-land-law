@@ -1,0 +1,74 @@
+{
+ "id": "itp-fe43ccf96b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031803322號",
+ "date": "2014-03-24",
+ "date_text": "103/3/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為興建農舍之申請人資格條件審查，其檢附農業用地作農業使用證明，如於審查期間失其效力，是否仍得作為核定資格時之依據疑義案，復請查照。",
+ "content": "一、復本會水土保持局案陳貴府103年2月12日府農農字第1030029839號函。\n二、依「農業用地興建農舍辦法」第2條第1項第5款規定：「申請人為該農業用地之所有權人，且該農業用地應確供農業使用，並屬未經申請興建農舍之農業用地。」，申請人須檢具農業用地作農業使用證明等文件，以為審查該農業用地是否確供農業使用之佐證，行政院農業委員會102年9月30日農授水保字第1021866060號函釋有案(正本諒達)，先予敘明。\n三、經查農業用地作農業使用證明書明定有效期間6個月，係課予申請證明書者需於6個月內完成賦稅減免之申請或申請興建自用農舍等手續。是以如因相關審查作業程序冗長，而至農用證明逾期，此應不宜歸責於申請人，請貴府衡酌。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3549",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:40+08:00",
+   "source_key": "rmis:3549"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "29415d4e64317c05a2d3c47eb6aceb5089f8a087f36a516d07dcb95bc6345b19",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "03年2月12日府農農字第1030029839號函。\n二、依「農業用地興建農舍辦法」第2條第1項第5款規定:「申請人為該農業用地之所有權人,且該農業用地應確供農業使用,並"
+  }
+ ]
+}

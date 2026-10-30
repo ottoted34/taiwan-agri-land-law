@@ -1,0 +1,64 @@
+{
+ "id": "itp-c623ce8356",
+ "doc_class": "interpretation",
+ "docno": "屏府農企字第10402005600號",
+ "date": "2015-01-28",
+ "date_text": "104/1/28",
+ "agency_text": "屏東縣政府",
+ "category": "解釋函",
+ "subject": "有關農民申請興建農舍無自用農舍審查原則案，本府疑義如說明，請查照。",
+ "content": "一、復貴局104年1月19日水保農字第1041865110號函。\n二、查貴局103年12月25日研商農舍相關議題會議紀錄案由二決議三，敘明申請人所有農地上經查若確有建築物存在，該建築物未列於房屋財產歸戶清單上，未能檢附相關建物合法證明仍符合無自用農舍原則。次查說明一函文說明三第二項，敘明申請人所有坐落農業用地上卻未列於查詢清單之建築物，均應提出證明文件，以釐清是否為「農舍」。承上所述，前後審查原則尚不一致，宜請貴局釐清。\n三、另有關農舍之認定，係指符合「農業用地興建農舍辦法」規定提出申請興建者，若未經申請而於農地私自建造可供居住之房屋，所有人得依前開辦法補辦農舍使用執照，係屬程序違規之農舍，惟申請人尚未提出補辦申請之前，其供居住之建築物，是否仍屬農舍之範疇，又其准予補照之認定依據為何？併請貴局釋示。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "屏東縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3968",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:26+08:00",
+   "source_key": "rmis:3968"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "581c6873f69485c87ddf9a5711dcd56890c726ffbb3313c7bcbadedf5b276416",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "原則尚不一致,宜請貴局釐清。\n三、另有關農舍之認定,係指符合「農業用地興建農舍辦法」規定提出申請興建者,若未經申請而於農地私自建造可供居住之房屋,所有人得依前開辦法"
+  }
+ ]
+}

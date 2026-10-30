@@ -1,0 +1,71 @@
+{
+ "id": "itp-c2269e83f9",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990153181號",
+ "date": "2010-08-13",
+ "date_text": "99/8/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地之共有人未滿二十歲，得否同意其他共有人申辦農業設施之容許使用疑義案。",
+ "content": "主旨：有關農業用地之共有人未滿二十歲，得否同意其他共有人申辦農業設施之容許使用疑義案，復請 查照。\n說明：\n一、復台端99年8月4日申請書。\n二、查民法第13條規定：「未滿七歲之未成年人，無行為能力。滿七歲以上之未成年人， 有限制行為能力。」第76條規定：「無行為能力人由法定代理人代為意思表示，並代受意思表示。」第77條規定：「限制行為能力人為意思表示及受意思表示，應得法定代理人之允許。但純獲法律上之利益，或依其年齡及身份、日常生活所必需者，不在此限。」第1086條第1項規定：「父母為其未成年子女之法定代理人。」第1088條規定：「未成年子女之特有財產，由父母共同管理。父母對於未成年子女之特有財產，有使用、收益之權。但非為子女之利益，不得處分之。」第1089條第一項規定：「對於未成年子女之權利義務，除法律另有規定外，由父母共同行使或負擔之。父母之一方不能行使權利時，由他方行使之。父母不能共同負擔義務時，由有能力者負擔之。」第1091條規定：「未成年人無父母，或父母均不能行使、負擔對於其未成年子女之權利、義務時，應置監護人。」有關共有農業用地擬申請農業設施之容許使用，依「申請農業用地作農業設施容許使用審查辦法」第5條第6款規定，須檢附共有人出具之土地使用同意書，如共有人未成年，得依前開民法相關規定，由未成年人之法定代理人或監護人，行使相關權利、義務，出具土地使用同意書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5404",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:41+08:00",
+   "source_key": "rmis:5404"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "5",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ca76c1950b186857daa99c9a295813d9c4b9cf4db7466b0d8c41af885ae06d5c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": ",應置監護人。」有關共有農業用地擬申請農業設施之容許使用,依「申請農業用地作農業設施容許使用審查辦法」第5條第6款規定,須檢附共有人出具之土地使用同意書,如共有人未成年,得依前開民法相關規"
+  }
+ ]
+}

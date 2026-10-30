@@ -1,0 +1,64 @@
+{
+ "id": "itp-e417a8b7a1",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030019952號",
+ "date": "2014-04-11",
+ "date_text": "103/4/11",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府所詢申請興建農舍資格審查疑義案，復請查照。",
+ "content": "一、復貴府103年3月28日府農輔字第1030049217號函。\n二、為杜絕非為農業經營所需之小面積興建農舍造成農業用地破壞，爰農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定農舍「建築面積」應超過45平方公尺。有關貴府所提農舍是否比照本部101年12月28日台內營字第1010811800號令所訂之住宅基本居住水準，以平均每人最小居住「樓地板面積」13.07平方公尺予以規範1節，本署將納入本辦法後續修法時研議。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3558",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:22+08:00",
+   "source_key": "rmis:3558"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c7800e1aef0424208b6344863d6cd6e749f6d11427ce3bf8a46ad21c24857cf1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、為杜絕非為農業經營所需之小面積興建農舍造成農業用地破壞,爰農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定農舍「建築面積」應超過45平方公尺。有關"
+  }
+ ]
+}

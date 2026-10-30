@@ -1,0 +1,64 @@
+{
+ "id": "itp-e5f097535f",
+ "doc_class": "interpretation",
+ "docno": "屏府農企字第10377738100號",
+ "date": "2014-12-23",
+ "date_text": "103/12/23",
+ "agency_text": "屏東縣政府",
+ "category": "解釋函",
+ "subject": "有關國家公園區農業用地申請興建農舍農民資格之執行疑義，詳如說明，請釋示。",
+ "content": "一、復貴署103年12月10日營署綜字第1030078871號函。\n二、「農業用地興建農舍辦法」由貴署及行政院農業委員會會銜修正發布，其「興建農舍之申請人資格條件審查表」明列各審認標準，並由各主管單位依權責予以認定。查前開審查表第四之一項及第八項審查項目，係審核申請人是否曾依相關建築法規取得農舍或集村農舍建造執照，先予敘明。\n三、另依據「建築法」第2條規定，主管建築機關，在中央為內政部；在直轄市為直轄市政府；在縣(市)為縣(市)政府。在第三條規定之地區，如以特設之管理機關為主管建築機關者，應經內政部之核定。\n四、綜上所述，若申請土地位屬國家公園區內，說明二之審查項目應由何主管建築管理機關予以審認？敬請責署釋示。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "屏東縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3893",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:50+08:00",
+   "source_key": "rmis:3893"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "a77fa093d6cd18f3bdc1c639eb76b52af60f10b9c3588b98b45f633e5d9a34d5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "03年12月10日營署綜字第1030078871號函。\n二、「農業用地興建農舍辦法」由貴署及行政院農業委員會會銜修正發布,其「興建農舍之申請人資格條件審查表」明列各"
+  }
+ ]
+}

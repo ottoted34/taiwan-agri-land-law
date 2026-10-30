@@ -1,0 +1,61 @@
+{
+ "id": "itp-4f1e940c7f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000113251號",
+ "date": "2011-03-21",
+ "date_text": "100/3/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "主旨：有關貴轄溪湖鎮○○○地號土地建有農舍，未與農舍坐落一併移轉而分二次移轉，能否核發農業用地作農業使用證明書疑義案，復請 查照。\n說明：\n一、復 貴府100年3月2日府農務字第1000046800號函。\n二、查本會90年7月31日（90）農企字900010341號函釋有關共有農業用地之部分共有人，為申請其持分部分之農業用地作農業使用證明書，該農業用地倘有部分違規使用情事時，得依據全體共有人合意之分管契約書，就申請人分管部分查核是否符合農業使用認定基準，作為是否核發農業用地作農業使用證明書之依據一節，係就農業用地在共有之前提下，為釐清實際違規行為人之責任，避免因他共有人之違規行為而影響合法共有人之權益，所作之適法措施，合先敘明。\n三、又作農業使用之農業用地得申請不課徵土地增值稅或免徵遺產稅、贈與稅係以賦稅減免優惠，以獎勵農地農用。本案依案附說明，旨揭土地原為○○○個人所有，其申請興建之農舍有違規使用情事，不符合作農業使用之認定，致無法取得農業用地作農業使用證明書；惟其先行移轉小部分面積（土地面積之27%）農地及農舍，並繳交該部分之應負稅賦，形成共有情事。今擬再移轉其剩餘之73%土地，是否得就其持分分管部分認定符合作農業使用一節，宜請先釐清該農地之「實際違規行為者」為何人？倘實際違規行為人嗣後仍得藉共有分管而規避其應負之責任，恐有違以賦稅優惠獎勵農地農用之立法意旨。故本案宜請先查明實際違規使用者後，本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5460",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:03+08:00",
+   "source_key": "rmis:5460"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "0d5cd39adbcc0db1629bd7153693b918aec76ddcb404ba33f6ae602233e4dacd",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

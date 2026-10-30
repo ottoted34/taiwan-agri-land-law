@@ -1,0 +1,54 @@
+{
+ "id": "itp-f2deeffcfc",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070222504號",
+ "date": "2018-06-11",
+ "date_text": "107/6/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農舍之所有權人非原申請人，擬將原有一層農舍增建為二層樓是否需審查農民資格及該筆農業用地是否需達0.25公頃以上，復如說明，請查照。",
+ "content": "一、復貴府107年6月1日府農農字第1070105808號函。\n二、依據「農業用地興建農舍辦法」第9條第2項第6款規定略以：「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，．．．。」爰農舍辦理分期興建者，其申請人如為原申請人，自無須重新審查其農民資格條件；惟如非原申請人，應依上開辦法第2條第1項規定辦理農民資格審查，故其申請分期興建農舍之該筆農業用地面積自不得小於0.25公頃。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4425",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:19+08:00",
+   "source_key": "rmis:4425"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1651241d31609231b6e738fd0dabbb3dd8bb30d3758de3d59d857cc0f371b7fe",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "07年6月1日府農農字第1070105808號函。\n二、依據「農業用地興建農舍辦法」第9條第2項第6款規定略以:「同一筆農業用地僅能申請興建一棟農舍,採分期興建方式辦理者"
+  }
+ ]
+}

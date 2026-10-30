@@ -1,0 +1,70 @@
+{
+ "id": "itp-874e0a3293",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021865868號",
+ "date": "2013-08-05",
+ "date_text": "102/8/5",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾○○○詢問農業用地興建農舍辦法疑義案，本局意見如說明，請貴署主政彙復，請查照。",
+ "content": "一、依據○○○102年7月11日信函(正本諒達)辦理。\n二、按農業用地興建農舍辦法(以下簡稱本辦法)第6條規定申請人5年內曾取得農舍建造執照應不予許可興建農舍之意旨。係為杜絕申請人申請興建農舍後隨即移轉他人並再次申請農舍之不合理現象，在此立法考量下，○○○所提本辦法第4條與第6條競合問題，宜因申請過去5年內取得農舍建造執照之情形不同，容有分別，茲分述如次，請貴署參酌：\n(一)申請人於5年內就他筆土地曾取得農舍建造執照並移轉他人，而其原有農業發展條例89年1月28日修正施行前取得之農業用地上本無農舍，因遭徵收始擬申請興建農舍，應認不符本辦法第6條規定。\n(二)另申請人5年內於農業發展條例89年1月28日修正施行前取得之農業用地上興建農舍，因遭徵收致農舍滅失之情形，與上開流於炒作之情形有別，基於本辦法第4條規定係為保障農業發展條例89年1月28日修正施行前取得之農業用地興建農舍既有權利之意旨，宜予特別考量，又本辦法第6條第2款規定「興建農舍因天災害致全倒、或自行拆除、或滅失」所稱之滅失似宜包含因徵收致滅失之情形，較為妥適，併請貴署審酌。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3773",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:59+08:00",
+   "source_key": "rmis:3773"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "db2ab0ea95f3eadaa35ce20cb933c843876c674026b5cfe077eb9ab5dbba0318",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關民眾○○○詢問農業用地興建農舍辦法疑義案,本局意見如說明,請貴署主政彙復,請查照。\n一、依據○○○102年7月11"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請人於5年內就他筆土地曾取得農舍建造執照並移轉他人,而其原有農業發展條例89年1月28日修正施行前取得之農業用地上本無農舍,因遭徵收始擬申請興建農舍,應"
+  }
+ ]
+}

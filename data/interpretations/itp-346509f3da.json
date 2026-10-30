@@ -1,0 +1,58 @@
+{
+ "id": "itp-346509f3da",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152606583號",
+ "date": "2026-05-22",
+ "date_text": "115/5/22",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府辦理屏東縣轄內枋寮鄉○○○地號土地民眾申請農舍疑義案，詳如說明，請查照。",
+ "content": "一、查農業用地興建農舍辦法第2條第2項規定，申請興建農舍之申請人應檢附經營計畫書，並載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，以確保農業用地興建農舍符合農業發展條例第18條之立法意旨。又查改制前行政院農業委員會104年10月21日農水保字第1041866479號函附之經營計畫書格式，明定「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」，故農舍用地仍應符合「臨地界線側」及「臨接道路」之要件，以兼具農舍出入及避免影響農業生產環境之原則。\n二、所稱「地界線」之認定原則，改制前行政院農業委員會108年3月20日農企字第1080210331號及108年7月3日農企字第1080227590號函業已說明在案，係為提出申請興建農舍之整筆農業用地之邊界，而非該筆農業用地內共有人所協議之耕作或分管界線在案。是以，本案仍請貴府依據上開函示原則核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6093",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:49+08:00",
+   "source_key": "rmis:6093"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "54887c8c62b1bbac69c6c8dc81a6a41dc95e79348207fb42f9baa53ff82ab80d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "○○○地號土地民眾申請農舍疑義案,詳如說明,請查照。\n一、查農業用地興建農舍辦法第2條第2項規定,申請興建農舍之申請人應檢附經營計畫書,並載明該筆農業用地農業經營現況"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "現況、農業用地整體配置及其他事項,以確保農業用地興建農舍符合農業發展條例第18條之立法意旨。又查改制前行政院農業委員會104年10月21日農水保字第104186"
+  }
+ ]
+}

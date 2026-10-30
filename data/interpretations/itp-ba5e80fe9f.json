@@ -1,0 +1,55 @@
+{
+ "id": "itp-ba5e80fe9f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080255528號",
+ "date": "2019-12-30",
+ "date_text": "108/12/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地興建農舍辦法第12條申請解除套繪，其農業用地面積檢討案",
+ "content": "一、復貴部108年12月17日內授營建管字第1080821741號函。\n\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第12條第3項規定：「．．．已申請興建農舍領有使用執照之農業用地經套繪管制，除符合下列情形之一者外，不得解除：一、農舍坐落之農業用地已變更為非農業用地。二、非屬農舍坐落之農業用地已變更為非農業用地。三、農舍用地面積與農業用地面積比例符合法令規定，經依變更使用執照程序申請解除套\n繪管制後，該農業用地面積仍達0.25公頃以上。．．．」，及本會102年11月26日農水保字第1020229253號函略以：「．．．其立法目的在於規範已領有農舍使用執照之農業用地扣除超出規定比例之農業用地面積後，應不小於0.25公頃，以避免原申請興建農舍之農業用地再不當細分，影響農業用地使用管制及農業生產效率．．．」，爰依本辦法第12條規定辦理解除套繪管制，應考量解除套繪管制後之農舍用地面積與農業用地面積比例及是否影響農業生產環境及農村發展，先予敘明。\n\n三、依貴部來文所述原部分農業用地已變更編定為交通用地，該交通用地得否納入農業用地面積檢討解除套繪管制一節，倘已變更為非農業用地，已與農業使用無涉，應先就非農業使用部分檢討，再就剩餘部分之農業用地檢討是否符合本辦法第12條規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4689",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:25+08:00",
+   "source_key": "rmis:4689"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "550519047607c914d954993e5fc8f92119db2597fd8ffba5503b63bff3f8ecf9",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "農業用地興建農舍辦法第12條申請解除套繪,其農業用地面積檢討案\n一、復貴部108年12月17日內授營建管字第"
+  }
+ ]
+}

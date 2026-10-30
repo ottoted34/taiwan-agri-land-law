@@ -1,0 +1,58 @@
+{
+ "id": "itp-4aeb82c87a",
+ "doc_class": "interpretation",
+ "docno": "府農農字第1020246485號",
+ "date": "2013-12-12",
+ "date_text": "102/12/12",
+ "agency_text": "苗栗縣政府",
+ "category": "解釋函",
+ "subject": "有關本縣通霄鎮公所來函洽詢核發農業用地無自用農舍證明疑義乙案，移請目的事業機關(貴處)核處逕復，如說明，請查照。",
+ "content": "一、依據本縣通霄鎮公所102年12月3日通鎮建字第1020018717號函辦理。\n二、依「非都市土地容許使用執行要點」第四點：本規則附表一許可使用細目之適用範圍，由其目的事業主管機關(單位)認定。及依上開要點第六點規定：各級目的事業主管機關受理土地所有權人或合法使用人申請許可使用，依附件一表內所列。本案「農舍」依上開規定其目的事業主管機關於縣市級機關(單位)為工務局、建設局(本府為貴處)；於鄉鎮市、區級單位為建設課(財經)；先予敘明。\n三、次查「無自用農舍」係申請興建農舍之法定要件之一。縣(市)主管機關於核駁農舍興建申請案時，依法應檢視申請者是否符合此一要件。至於「無自用農舍」此一社會生活事實(或概念)究應由何單位以何種文件或何種方式予以證明，現行農業法規並無明文規定；且本府(農業處)亦無授權地方公所(農業單位)核發「無自用農舍證明」，是以目前本府受理農舍申請人資格審查，就申請人是否已持有自用農舍部分係由貴處查明審查，併予敘明。\n四、爰此，本案涉及「無自用農舍證明」認定疑義，仍應移請目的事業主管機關(貴處)主政核處逕復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "苗栗縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3512",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:40+08:00",
+   "source_key": "rmis:3512"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "f0fe66f1c535ceac0fddf2466f1e873ee63650817a28325f611ce52e3eebd7e0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

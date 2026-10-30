@@ -1,0 +1,55 @@
+{
+ "id": "itp-edd99a0760",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050204608號",
+ "date": "2016-02-18",
+ "date_text": "105/2/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局函為農業用地興建農舍辦法第3條之1證明文件疑義案，復請查照。",
+ "content": "一、復貴局105年2月1日中市農地字第1050004072號函。\n二、有關農業用地興建農舍辦法第3條之1規定，申請人應檢附農業生產相關佐證資料一節，本會前以104年10月21日農水保字第1041866479號函釋有案，前開號函說明三第7項「其他從事農業生產事實之證明文件，係就所列各項證明文件未盡事宜提供各直轄市、縣(市)政府因地制宜之裁量空間，有關農業資材採購之證明文件，業經本會邀集相關產業單位及各直轄市、縣(市)政府研商討論，認其易於取得而不足採證，爰未採納列入。惟尚申請人提出農業資材採購之證明文件，建議貴府仍可配合其作物生產狀態及銷售情形，以審查其文件內容之合理性。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4017",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:37+08:00",
+   "source_key": "rmis:4017"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "439469ecfb44bc332dcc1a2c32aa3b54b3dfbd8cd7e75565e5fa831984840d26",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "有關貴局函為農業用地興建農舍辦法第3條之1證明文件疑義案,復請查照。\n一、復貴局105年2月1日中市農地字第1050004"
+  }
+ ]
+}

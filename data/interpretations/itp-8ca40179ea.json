@@ -1,0 +1,54 @@
+{
+ "id": "itp-8ca40179ea",
+ "doc_class": "interpretation",
+ "docno": "內地司字第1051354518號",
+ "date": "2016-08-22",
+ "date_text": "105/8/22",
+ "agency_text": "內政部地政司",
+ "category": "解釋函",
+ "subject": "有關○○○所承購農地因未即時註記登記「已提供興建農舍」致其權益受損，盼修法及補救1案，因涉農業用地興建農舍辦法第12條規定，係屬貴管，移請貴署主政辦理，請查照。",
+ "content": "依據行政院農業委員會105年8月10日農授水保字第1050228758號函辦理（諒達）。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部地政司",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3238",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:44+08:00",
+   "source_key": "rmis:3238"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ce88400bfd726954bfcad8933af5e11c2cb5fd9e63d7eeb365542f340412d54a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "記登記「已提供興建農舍」致其權益受損,盼修法及補救1案,因涉農業用地興建農舍辦法第12條規定,係屬貴管,移請貴署主政辦理,請查照。\n依據行政院農業委員會105年8月10"
+  }
+ ]
+}

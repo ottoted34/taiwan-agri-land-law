@@ -1,0 +1,62 @@
+{
+ "id": "itp-a3456ccce0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010703604號",
+ "date": "2012-01-31",
+ "date_text": "101/1/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "面積在45平方公尺以下且屬一層樓建築或屬農路、曬場、駁崁等免申請建築執照之農業設施，於審查時得否免會簽工務單位意見之疑義案",
+ "content": "主旨：有關 貴府函詢面積在45平方公尺以下且屬一層樓建築或屬農路、曬場、駁崁等免申請建築執照之農業設施，於審查時得否免會簽工務單位意見之疑義案，復請 查照。\n說明：\n一、復 貴府101年1月13日府農管字第1010014555號函。\n二、本會依據「申請農業用地作農業設施容許使用審查辦法」規定，於98年3月18日以農企字第0980010707號函送「申請農業用地作農業設施容許使用案件審查簽辦單」之書表格式，作為直轄市、縣(市)政府受理申請案件之審查簽辦依據。依該簽辦單內訂定第14項及第15項之工務審查(查證)項目，係為避免農業用地上申請農業設施，因地籍圖謄本上未標繪既成道路或已公告劃設計畫道路等，抑或該農業用地依建築法規定不得作建築使用，爰須審認農業設施興建是否妨礙道路通行或違反建築相關法令規定之情形。又按上開辦法第7條第5款及第9款規定，倘有妨礙道路通行或違反其他法令規定者，應不予同意農業設施容許使用。爰此，考量部分農業設施依法雖免申請建築執照，惟避免上開審查事項有所疏漏，建議 貴府仍宜依據審查簽辦單內容會簽工務單位意見為宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5107",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:00+08:00",
+   "source_key": "rmis:5107"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "ea1ed239d851db04d56ea6913e557ca489dcf5fb6980cac28e00a1736457c0c2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "1月13日府農管字第1010014555號函。\n二、本會依據「申請農業用地作農業設施容許使用審查辦法」規定,於98年3月18日以農企字第0980010707號函送「申請農業用地作農業"
+  }
+ ]
+}

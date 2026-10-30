@@ -1,0 +1,50 @@
+{
+ "id": "itp-72c3edcf97",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080220193號",
+ "date": "2019-05-27",
+ "date_text": "108/5/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴縣農民資格審認疑義，復如說明，請查照。",
+ "content": "一、復貴府108年5月14日府農林二字第1082511509號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關興建農舍經營計畫書審查項目「既有農業經營現況及規模」，申請人應敘明過去2年內經營實績、農產物種類、產量、銷售情形等，其目的在於審認申請人確有實際從事農業事實，並確保該農舍為特許農民於農業用地上從事積極性、經濟性農業生產活動所需而興建。故除應考量該農業使用之內涵、當地農業經營發展、有無影響農業生產環境及農村發展外，應審酌該農業生產經營，其興建農舍之必要性及合理性。\n四、至旨案為配合水土保持而種植林木部分，應從林業經營管理是否具積極農用之事實予以審認，請貴府參照前開意見並就個案事實予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4599",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:53+08:00",
+   "source_key": "rmis:4599"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d2d047761787840dfd7ebd1ca860fdcdd74518e211e394e18ac77a3beaa6a1ed",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "id": "itp-82f8f6ec36",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960172581號",
+ "date": "2008-01-09",
+ "date_text": "97/1/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業用地從事蜜蜂養殖及蜂蜜生產，能否申請興建農作產銷設施-自產農產品加工室、管理室及農業資材室疑義案。",
+ "content": "主旨：有關　貴府函詢農業用地從事蜜蜂養殖及蜂蜜生產，能否申請興建農作產銷設施-自產農產品加工室、管理室及農業資材室之疑義案，復請　查照。\n說明：\n一、復　貴府96年12月14日府農務字第○○○○○號函。\n二、查養蜂屬於本會(農糧署)輔導之農業生產事業之一，蜂農目前之養蜂作業為逐蜜粉源植物遷移，養蜂場一般均在室外為主，惟蜂蜜、蜂王漿、蜂花粉等產品之採集、包裝等在室內操作亦屬養蜂生產及衛生管理之一環，有其必要性。本案是否興建農作產銷設施，由　貴府依「農業用地容許作農業設施使用審查辦法」第11條第20款規定，本於產業輔導立場，視實際產銷情形及需求秉職權核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5261",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:33+08:00",
+   "source_key": "rmis:5261"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "315998035b98b2f54a8cd76fe2e80fa1fe481bebc233d10bb077a2c6f813b6e4",
+ "topics": [
+  "material_room",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "管理之一環,有其必要性。本案是否興建農作產銷設施,由 貴府依「農業用地容許作農業設施使用審查辦法」第11條第20款規定,本於產業輔導立場,視實際產銷情形及需求秉職權核處。"
+  }
+ ]
+}

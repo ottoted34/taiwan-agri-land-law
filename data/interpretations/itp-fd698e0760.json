@@ -1,0 +1,65 @@
+{
+ "id": "itp-fd698e0760",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1051037685號",
+ "date": "2016-05-27",
+ "date_text": "105/5/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：臺端函詢農業資材室面積計算疑義案，復請查照。\n說明：\n一、復臺端105年5月17日申請書。\n二、查申請農業用地作農業容許使用審查辦法第13條第2項附表1所定農業資材室申請基準或條件\n略以：「農業用地面積達0.1公頃以上者，每0.1公頃得興建33平方公尺，最大興建面積以\n330平方公尺為限。」，另同條第3項規定略以：「第1項第1款至第4款設施，得依實際需\n求，配置車輛運(迴)轉空間、附屬設施所需空間及衛生設備。」合先敘明。\n三、臺端擬於興設農業資材室之基地填土後搭建，其面積計算之疑義，查行政院農業委員會100\n年8月24日農企字第1000148141號函釋略以「農業設施容許使用同意書核准農業設施面積之\n計算方式，應依建築相關法令予以計算，俾利於行政管理及勾稽」有案。至農業資材室外基\n地填土面積，允納入該農業資材室附屬設施所需空間面積，同時併入農業資材室之申請基準\n或條件檢討。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5475",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:07+08:00",
+   "source_key": "rmis:5475"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "5eed277ba32994453ddde97afec07e31d8d614aae249faca11d82eddcf228cca",
+ "topics": [
+  "landfill",
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "、復臺端105年5月17日申請書。\n二、查申請農業用地作農業容許使用審查辦法第13條第2項附表1所定農業資材室申請基準或條件\n略以:「農業用地面積達0.1公頃以上者"
+  }
+ ]
+}

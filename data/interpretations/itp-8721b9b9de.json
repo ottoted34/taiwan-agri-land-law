@@ -1,0 +1,46 @@
+{
+ "id": "itp-8721b9b9de",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150230515號",
+ "date": "2026-07-28",
+ "date_text": "115/7/28",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局所詢申請農業用地作綠能設施之「綠能附屬設施(變電箱)」審認原則疑義案，復如說明，請查照。",
+ "content": "一、按農業設施倘為經營需要而有接電之需求，依台灣電力公司營業規則規定，須配合設置配電場所，始可供電者，改制前行政院農業委員會前以102年10月7日農授糧字第1020723962號函說明，尚得配置配電場所作為附屬設施辦理容許使用。至綠能設施之附屬設施審認原則，農業部於114年1月23日農農保字第1142655512號函及114年7月3日農農保字第1142656005號函(諒達)已說明，綠能設施之附屬設施不包含輸配電設施(如變電站、升壓站)等建築物或雜項工作物，且每座間隔距離應超過10公尺。\n二、針對貴局來函所提台灣電力公司之配電設施(箱)究屬前開農業設施用電使用之附屬設施，抑或屬綠能設施之附屬設施，宜請貴局先予釐清，復依前開原則分別予以核處。至所提綠能設施之附屬設施具建築法第4條所稱建築物構造一節，與農業部前開函釋綠能設施之附屬設施不包含建築物之規定未符，併予敘明。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6075",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:34+08:00",
+   "source_key": "rmis:6075"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6ab0937eb7181260dd2dafb12153ee795130c3e404c6849184a5eb6db30dfa30",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

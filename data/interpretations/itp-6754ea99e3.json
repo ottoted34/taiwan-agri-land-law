@@ -1,0 +1,50 @@
+{
+ "id": "itp-6754ea99e3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090212619號",
+ "date": "2020-04-06",
+ "date_text": "109/4/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地申請興建自用農舍資格條件審查疑義",
+ "content": "一、復貴局 109年3月31日中市農地字第 1090011422號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關土地取得時點之認定，本會前以 101年6月29日農水保字第1011865000號令及 102年10月25日農水保字第 1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第 759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。請貴局參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4731",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:55+08:00",
+   "source_key": "rmis:4731"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "de572b2b897bf78871f1b40740b372c94011319356fca88e0a3c664be394bbe3",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-92907fd697",
+ "doc_class": "interpretation",
+ "docno": "農企字第1060213824號",
+ "date": "2017-04-26",
+ "date_text": "106/4/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農地上設有十字架得否依第6條第2款規定申請核發農用證明",
+ "content": "主旨：有關貴府函詢農業用地上設有十字架，得否依農業用地作農業使用認定及核發證明辦法第6條第2款規定核發農業用地作農業使用證明書疑義案，復如說明，請查照。\n說明：\n一、復貴府106年4月13日府農保字第1060065165號函。\n二、依農業用地作農業使用認定及核發證明辦法(以下簡稱農用證明辦法)第6條第2款規定：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：二、農業用地存在之土地公廟、有應公廟等，其面積在10平方公尺以下。」查其立法意旨，係在92年11月28日農用證明辦法修正發布日前，農業用地上蓋有土地公廟、有應公廟等，因屬民間信仰之一部分，如其興建面積極小(10平方公尺以下)，且不影響整宗農業用地之農業經營者，得認定作農業使用。又上開面積之計算，應包括該廟體及廟前廣場或其周邊設施之面積而言，合先敘明。\n三、依貴府來函所詢，本案土地上有設置十字架及水泥鋪面得否認屬農用證明辦法第6條第2款規定之設施一節，倘該十字架係因民間信仰而設置者，得依該款規定據以審查之，其設置期限及面積之計算，亦須符合上開92年11月28日以前存在，面積10平方公尺以下之條件，且無其他不得認定為作農業使用情形者，始得核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5489",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:59+08:00",
+   "source_key": "rmis:5489"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "42cbbba68ccbea1c0c6cb2b91dbced3d549a55ba682d92702ba9c46fbdcf4405",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "paving"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "核發農用證明\n主旨:有關貴府函詢農業用地上設有十字架,得否依農業用地作農業使用認定及核發證明辦法第6條第2款規定核發農業用地作農業使用證明書疑義案,復如說明,請查照。\n說明:\n一、復"
+  }
+ ]
+}

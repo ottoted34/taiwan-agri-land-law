@@ -1,0 +1,52 @@
+{
+ "id": "itp-d2c325289c",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132613843號",
+ "date": "2024-09-16",
+ "date_text": "113/9/16",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關申請興建農舍之坐落農地因共有物分割之取得日期認定疑義，復如說明，請查照。",
+ "content": "一、按「農業發展條例」（下稱本條例）第18條第3項規定，本條例中華民國89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。即依土地取得時點認定為修法後取得之農業用地，倘有本條例第18條第3項後段規定之情形，仍得依該項前段規定申請興建農舍。\n針對土地取得時點之認定原則，改制前行政農業委員會於101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，係以土地登記簿所有權部登記日期認定之。又修法前之共有耕地，於本條例89年1月4日修正施行後再辦理產權變動，致生土地所有權部登記日期有異動者，則無本條例第18條第3項後段規定之適用。\n二、爰此，針對貴府所詢個案，申請人於共有物分割前，先辦理土地標示部及所有權部之合併、調解分割作業，再辦理調解共有物分割登記，倘已致產權範圍變動情形，則無本條例第18條第3項後段規定之適用，故本案請貴府參照前開原則依個案實情予以核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6009",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:56+08:00",
+   "source_key": "rmis:6009"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ce951f145e7566a0fb22f7a258d0d87a6ce8556b732f58d76b80f751d7429749",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地因共有物分割之取得日期認定疑義,復如說明,請查照。\n一、按「農業發展條例」(下稱本條例)第18條第3項規定,本條例中華民國89年1月4日修正施行前取得農業"
+  }
+ ]
+}

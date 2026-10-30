@@ -1,0 +1,57 @@
+{
+ "id": "itp-1e0f7414b4",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1001866169號",
+ "date": "2011-06-16",
+ "date_text": "100/6/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "本會96年3月14日農授水保字第0961848256號函、98年2月11日農授水保字第0981842113號函及98年8月3日農授水保字第0980990722號函（詳附件），停止適用，請 查照。",
+ "content": "一、有關興建農舍之『該宗』農業用地如何認定及合併計算問題，本會前於95年8月16日邀集內政部等相關單位研商，確認所稱『該宗』農業用地係指土地登記之單1筆地號農業用地而言；若有毗連2筆地號以上農業用地因單筆地號面積不符最小申請規模者，仍應依現行法令如『地籍測量實施規則』規定辦理合併為單筆地號，使其面積達0.25公頃以上，方符申請興建農舍之條件。\n二、旨揭3函釋對興建農舍之申請面積，查與前開規定不符，爰停止適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=1951",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:57+08:00",
+   "source_key": "rmis:1951"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-41c38013fc",
+    "by_docno": "台內地字第1010322139號",
+    "by_date": "2012-10-11",
+    "kind": "cease",
+    "phrase": "』;此所稱『該宗』農業用地,系指土地單一筆地號農業用地而言...本會爰於100年6月16日農授水保字第1001866169號函停止適用得依政府公權力作為前之面積或作為後之殘餘面積申請興建農舍之相關函釋如附件 "
+   }
+  ]
+ },
+ "content_hash": "7747b88e7fed34a1bb1062dfe9ade18152789f803537e26bd07872d6b0329db9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

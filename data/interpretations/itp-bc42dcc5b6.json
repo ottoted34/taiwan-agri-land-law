@@ -1,0 +1,82 @@
+{
+ "id": "itp-bc42dcc5b6",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000167662號",
+ "date": "2011-10-26",
+ "date_text": "100/10/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地申請農業資材室之容許使用，得否於「農業資材室」室內施設廁所之疑義案",
+ "content": "主旨：有關 貴府函詢農業用地申請農業資材室之容許使用，得否於「農業資材室」室內施設廁所之疑義案，復請 查照。\n說明：\n一、復 貴府100年10月21日府農企字第1000140912號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第13條附表規定，農業資材室之申請基準或條件：「限供存放肥料、農藥、種子、農具、器皿、農產品等使用...。」而同辦法第5條規定，申請農業用地作農業設施容許使用，應填具申請書及檢附經營計畫、設施配置圖等書表文件，向土地所在地之直轄市或縣（市）主管機關申請。復按同辦法第7條第2款規定，申請農業用地作農業設施容許使用，有經營計畫內容顯不合理，或設施與農業經營之必要性顯不相當之情形，不予同意。故農業用地申請農業資材室之容許使用，擬於內部設置廁所使用，應請申請人提出合理性、必要性之理由說明，由 貴府就是否確屬經營所需，本於職權予以審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5099",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:24+08:00",
+   "source_key": "rmis:5099"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "501de865831e64ecc54f5ae9613b295bce763d54a4e9f64b4e4d1b42a187bd09",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "年10月21日府農企字第1000140912號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第13條附表規定,農業資材室之申請基準或條件:「限供存放肥料、農藥、種子、農具、器皿、農"
+  }
+ ]
+}

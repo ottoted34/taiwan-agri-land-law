@@ -1,0 +1,52 @@
+{
+ "id": "itp-c7e7bf1105",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132601265號",
+ "date": "2024-02-16",
+ "date_text": "113/2/16",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢非都市土地開發審議作業規範規定之不可開發區留設隔離綠帶或設施審認疑義案，復如說明，請查照。",
+ "content": "一、依農業主管機關同意農業用地變更使用審查作業要點(以下簡稱農變要點)第9點規定，變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或隔離設施，其配置區位應與毗鄰農業用地相緊臨；復依農變要點第10點規定，山坡地保育區：各目的事業主管機關訂有審查規範，依其規範應留設綠地或保育地等，其具有隔離效果者，依其規定辦理；未有規定者，比照第1項第2款一般農業區之配置原則辦理。故山坡地保育區農業用地變更作工業區使用者，毗鄰農業用地之區位，應配置隔離綠帶或隔離設施寬度至少20公尺。\n二、有關「非都市土地開發審議作業規範」總編第16、17、19點，針對基地內之原始地形在坵塊圖上之平均坡度在40%以上之地區，應列為不可開發區及保育區，且應編定為國土保安用地部分，其得否認定為隔離綠帶或設施，或應否再予退縮留設隔離綠帶或設施等事宜，宜由該規範之主管機關予以釐清。\n三、至於貴府來函所詢隔離綠帶或設施之規劃配置，倘屬農業主管機關依據農變要點規定審認隔離綠帶或設施者，應請貴府農業單位依據農變要點規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6049",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:53+08:00",
+   "source_key": "rmis:6049"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7ee982866838902574d7cf6ff1f8fc81f75ac57a5e7c31c99387df76fea81038",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "發區留設隔離綠帶或設施審認疑義案,復如說明,請查照。\n一、依農業主管機關同意農業用地變更使用審查作業要點(以下簡稱農變要點)第9點規定,變更農業用地作與農業生產性質不相容之目的事業使用"
+  }
+ ]
+}

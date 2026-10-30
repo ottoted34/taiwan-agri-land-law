@@ -1,0 +1,54 @@
+{
+ "id": "itp-17954a8b63",
+ "doc_class": "interpretation",
+ "docno": "北市產業農字第10530855200號",
+ "date": "2016-02-26",
+ "date_text": "105/2/26",
+ "agency_text": "臺北市政府產業發展局",
+ "category": "解釋函",
+ "subject": "有關農舍建造涉及本府工務局大地工程處施作供公眾通行步道及水保排水設施，是否可免計入農舍用地面積疑義，惠請釋復，請查照。",
+ "content": "一、依據本市建築管理工程處105年2月23日北市都建照字第10576567000號函辦理。\n二、本市農民於本市士林區○○○地號土地申請農舍建造執照，該基地旁山溝因本府工務局大地工程處辦理溪溝整治後，土地所有權人無償提供該處施作供公眾通行之登山步道及水保排水設施(詳附件照片)，該步道及水保排水設施面積是否可免計入「農業用地興建農舍辦法」第9條農舍用地面積，惠請釋復。\n三、檢送現況照片1式供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "臺北市政府產業發展局",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4102",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:34+08:00",
+   "source_key": "rmis:4102"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "51a71af79e7b99846787f5bf5caaffd44484144ff0cc57a680a4d9b063cbc806",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "排水設施(詳附件照片),該步道及水保排水設施面積是否可免計入「農業用地興建農舍辦法」第9條農舍用地面積,惠請釋復。\n三、檢送現況照片1式供參。"
+  }
+ ]
+}

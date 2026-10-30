@@ -1,0 +1,52 @@
+{
+ "id": "itp-d3ff686e4e",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1130224375號",
+ "date": "2024-06-14",
+ "date_text": "113/6/14",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢特定工廠使用外擴1.5公尺規劃為隔離綠帶得否設置變電箱設施案，復請查照。",
+ "content": "一、依農業主管機關同意農業用地變更使用審查作業要點(以下簡稱農變要點)第9點規定略以，變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，其配置區位應與毗鄰農業用地相緊臨，且隔離綠帶或設施之設置最小寬度，除第10點規定有配置寬度者外，至少應為1.5公尺。復依農變要點第11點規定：「隔離設施之認定，指具有隔離效果之通路、水路、空地、廣場、平面停車場、開放球場、蓄水池及滯洪池等非建築之開放性設施。直轄市或縣（市）農業主管機關得依轄區農業用地特性增列具隔離效果之隔離設施項目，報中央農業主管機關備查。」其立法意旨係為避免農業用地變更使用，對毗鄰農地之農業生產環境造成衝擊。\n二、針對政府興辦之公共建設或公用設施，變更農業用地作與農業生產性質不相容之目的事業使用者，亦應留設隔離綠帶或設施，故本案所詢之台電公司之變電箱或其他設施，既非屬開放性設施，又與農業生產性質不相容，尚難審認為具有隔離效果之隔離綠帶或設施項目，不得設置於隔離綠帶範圍內。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6029",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:22+08:00",
+   "source_key": "rmis:6029"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e25b74977ef60b81aab0bdd062d5b88cb179dd831deb7da14bef6f78b5afcf78",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "5公尺規劃為隔離綠帶得否設置變電箱設施案,復請查照。\n一、依農業主管機關同意農業用地變更使用審查作業要點(以下簡稱農變要點)第9點規定略以,變更農業用地作與農業生產性質不相容之目的事業"
+  }
+ ]
+}

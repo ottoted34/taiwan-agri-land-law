@@ -1,0 +1,80 @@
+{
+ "id": "itp-668c2b94f8",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960119292號",
+ "date": "2007-05-03",
+ "date_text": "96/5/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋申請農業用地容許作農業設施使用之疑義案。",
+ "content": "主旨：有關 貴府函詢○○○申請農業用地容許作農業設施使用之疑義案，復請 查照。\n說明：\n一、復 貴府96年4月9日府農務字第○○○○○號函。\n二、查本會於95年12月25日農企字第0950171591號函(如附)說明略以：「．．．本案依 貴府所述自用農舍現已無居住之事實，倘僅供農場生產經營管理之用，且尚符合農業用地容許作農業設施使用審查辦法規定之農業資材室申請要件及農業經營之必要性、合理性，應得依法規規定申請農業用地容許作農業資材室使用。又依農業發展條例第18條第4項規定，已申請興建農舍之農業用地不得重復申請，本案農業用地仍不得重複申請興建農舍，原已經地政主管機關套繪、註記列管之土地登記資料，仍應予以維持。」有案，合先敘明。\n三、至於消毒室之設置，依本會農糧署表示，「查種子消毒所需設備包括浸藥、調配、乾燥(或露天乾燥)作業等，一般多設於1樓以利搬運及清理，本案申請種子消毒室設於2樓，除考量作業方便性外，其是否具有升降設備以節省搬運勞力、樓層地板強度是否得以支撐所需設施及消毒溶液之重量等安全性考量，應以現場狀況評估為宜。」爰以，本案原作農舍使用之2樓建物，擬變更作為育苗作業室及2樓消毒室一節，該建物倘確已無居住之事實，僅供農業生產經營之用，除其使用變更已涉及原有農舍之使用應依建築法令規定處理外，尚須依農業用地容許作農業設施使用審查辦法之規定辦理，即本案由農舍使用改為農業設施使用，宜請 貴府就相關法令之適用慎予研處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5292",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:54+08:00",
+   "source_key": "rmis:5292"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "0a9ee8daf679dbf330855af32137560efda1f759c6ffa91188b3c4c8e37018b2",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用農舍現已無居住之事實,倘僅供農場生產經營管理之用,且尚符合農業用地容許作農業設施使用審查辦法規定之農業資材室申請要件及農業經營之必要性、合理性,應得依法規規定申請農業用地容"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "合理性,應得依法規規定申請農業用地容許作農業資材室使用。又依農業發展條例第18條第4項規定,已申請興建農舍之農業用地不得重復申請,本案農業用地仍不得重複申請興建"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "id": "itp-43d4776f22",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960141792號",
+ "date": "2007-08-20",
+ "date_text": "96/8/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋政府機關或農民團體作為農產品展售及農業展示需要，是否得於農業用地申請搭建無固定基礎之臨時性攤棚或臨時性展演場所之疑義案。",
+ "content": "主旨：有關　貴府函詢政府機關或農民團體作為農產品展售及農業展示需要，是否得於農業用地申請搭建無固定基礎之臨時性攤棚或臨時性展演場所之疑義案，復請　查照。\n說明：\n一、復 貴府96年7月26日屏府農務字第○○○○○號函。\n二、依農業發展條例第8條之1第1項及農業用地容許作農業設施使用審查辦法第4條之規定，搭建無固定基礎之臨時性設施，得免申請容許使用，所稱臨時性設施係指「與農業生產有關之設施」而言。\n三、有關本案為農產品展售及農業展示需要，搭建無固定基礎之臨時性攤棚或臨時性展演場所等，並非屬「與農業生產有關之設施」，且不符非都市土地使用管制規則第6條附表一之容許使用項目，故本案宜請另尋其他得搭建該臨時建築物之土地。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5285",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:11+08:00",
+   "source_key": "rmis:5285"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "4",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "4",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "dd4faefa76cc79de7ffd4b470ea3b984d4faa2e97524966b0d1aa57476ee99a4",
+ "topics": [
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "復 貴府96年7月26日屏府農務字第○○○○○號函。\n二、依農業發展條例第8條之1第1項及農業用地容許作農業設施使用審查辦法第4條之規定,搭建無固定基礎之臨時性設"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "務字第○○○○○號函。\n二、依農業發展條例第8條之1第1項及農業用地容許作農業設施使用審查辦法第4條之規定,搭建無固定基礎之臨時性設施,得免申請容許使用,所稱臨時性設施係指「與農業"
+  }
+ ]
+}

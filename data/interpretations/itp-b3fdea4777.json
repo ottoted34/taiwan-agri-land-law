@@ -1,0 +1,64 @@
+{
+ "id": "itp-b3fdea4777",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020224103號",
+ "date": "2013-07-30",
+ "date_text": "102/7/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關本會建請內政部修正非都市土地使用管制規則第6條附表一容許使用項目「農舍」應先依農業用地興建農舍辦法申請同意一案，復請查照。",
+ "content": "一、復貴府102年7月18日屏府農企字第10221539900號函。\n二、查本會以102年7月12日農水保字第1021865710號函請內政部於非都市土地使用管制規則第6條附表一農牧用地容許使用項目「農舍」之免經申請許可使用細目「農舍及農舍附屬設施」一欄，增訂附帶條件「本款各目限於依農業用地興建農舍辦法申請核准興建之農舍」在案，貴府倘有疑義或相關建議，得請洽內政部辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3695",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:02+08:00",
+   "source_key": "rmis:3695"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d8f288f2f2f06b0eaa0b6f55b79522d33a9e91b27d89527294705d630c044aaa",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "非都市土地使用管制規則第6條附表一容許使用項目「農舍」應先依農業用地興建農舍辦法申請同意一案,復請查照。\n一、復貴府102年7月18日屏府農企字第1022153"
+  }
+ ]
+}

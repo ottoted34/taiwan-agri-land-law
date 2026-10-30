@@ -1,0 +1,54 @@
+{
+ "id": "itp-54ded3f565",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041887037號",
+ "date": "2015-09-30",
+ "date_text": "104/9/30",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局函為申請興建農舍面積疑義案，復請查照。",
+ "content": "一、復貴局104年9月16日桃農管字第1040023466號函。\n二、有關申請興建農舍之該筆農地內如有既有道路通過，應先扣除該道路面積後再計算農舍用地面積（行政院農業委員會99年7月19日農授水保字第0990145397號函參照），其目的在於維持農舍與農業經營用地面積之比例，避免僅有農舍卻無農業經營面積之不合理現象，先予敘明。\n三、至於經扣除道路面積後致使農舍面積不足45平方公尺，不符農舍興建最小面積之規定一節，查農業用地興建農舍辦法第9條第2項第6款規定，略以：「農舍建築面積應超過45平方公尺。但經直轄市、縣（市）農業單位或其他主管機關同意者不在此限。」，爰貴局如經考量確有特殊需求而須辦理者，得依上開辦法規定就是類案件訂定審查原則后據以辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3999",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:25+08:00",
+   "source_key": "rmis:3999"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bc9de7791ea742ac8df2e945b24ee9a715f448dd27fb9674d18ff4b29d5b48a5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "農舍面積不足45平方公尺,不符農舍興建最小面積之規定一節,查農業用地興建農舍辦法第9條第2項第6款規定,略以:「農舍建築面積應超過45平方公尺。但經直轄市、縣(市)農"
+  }
+ ]
+}

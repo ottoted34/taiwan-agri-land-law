@@ -1,0 +1,64 @@
+{
+ "id": "itp-a8b2e27b2e",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021832148號",
+ "date": "2014-01-10",
+ "date_text": "103/1/10",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為核發農業用地無自用農舍證明疑義案，復請查照。",
+ "content": "一、復貴府102年12月31日府商建字第1020268099號函。\n二、有關農業用地申請興建農舍者，申請人須依「農業用地興建農舍辦法」(以下簡稱本辦法)第2條或第3條規定取得核定文件後，續向直轄市、縣(市)主管建築機關申請建造執照，至貴府所詢無自用農舍部分為本辦法第2條及第3條所列應符合條件之一，先予敘明。\n三、次因本辦法於102年7月1日修正發布施行，行政院農業委員會為配合修法條文及規定，業以102年9月30日農授水保字第1021866061號函修正申請興建農舍之申請人資格條件審查表(正本諒達)，其中有關申請人是否無自用農舍審查項目，申請人應檢具1、稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。2、申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。3、申請人切結無自用農舍等文件，以供審查。上開審查表備註欄並註明農業單位得會同建管單位查明申請人是否無自用農舍，惟各直轄市、縣(市)政府得視業務屬性自行調整分工，爰請貴府依業務管轄分工辦理審查事宜。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3516",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:46+08:00",
+   "source_key": "rmis:3516"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b1cfa95d6ed30e823f6c6118c7da1169766100692c89dd5b47230cdc187f0155",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "68099號函。\n二、有關農業用地申請興建農舍者,申請人須依「農業用地興建農舍辦法」(以下簡稱本辦法)第2條或第3條規定取得核定文件後,續向直轄市、縣(市)主管建築"
+  }
+ ]
+}

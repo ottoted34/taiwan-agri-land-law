@@ -1,0 +1,54 @@
+{
+ "id": "itp-9c28f80969",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090219170號",
+ "date": "2020-06-17",
+ "date_text": "109/6/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關興建農舍資格，因申請建照時調整部分建築配置，是否須重新提出申請農舍興建資格一案",
+ "content": "一、復貴局 109年5月12日高市農務字第 10931095700號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)規定，申請興建農舍者，應先取得農民資格核定後，再向建築主管機關申請建築許可。針對農舍興建資格之審查，本會業於 108年10月28日農企字第 1080013307號函(諒達)說明三表示，申請人於取得農民資格核定後，建築主管機關受理農舍建造執照之申請時，應依照農業主管機關核定內容據以續審，倘建造執照申請資料與農業主管機關資格審查事項核定內容不一致時，應請申請人依照農業主管機關核定內容修正建造執照申請內容，\n或申請人再依本辦法第 2條或第 3條規定重新提出興建資格之申請，方符本辦法之規定，先予敘明。\n三、有關本案建造執照申請內容與農舍興建資格核定內容有所縮減之原因，係因農舍用地面積須配合指定建築線道路退縮之規定，惟該縮減之規定似與內政部營建署 102年10月22日營署綜字第 1020067770號函不一致，故該農舍用地面積是否須配合退縮，建請逕向內政部釐清。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4737",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:32+08:00",
+   "source_key": "rmis:4737"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a58879ee41347b5c6873a49088ed2a7a038b201ee16611575aa93e5454ab717b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "5月12日高市農務字第 10931095700號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)規定,申請興建農舍者,應先取得農民資格核定後,再向建築主管機關"
+  }
+ ]
+}

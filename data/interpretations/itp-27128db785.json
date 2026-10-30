@@ -1,0 +1,49 @@
+{
+ "id": "itp-27128db785",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070200312號",
+ "date": "2018-01-08",
+ "date_text": "107/1/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "林業用地種植果樹是否符合林業使用疑義釋示",
+ "content": "主旨：有關貴府函詢於山坡地保育區林業用地種植文旦果樹，得否認定為林業使用而核發農業用地作農業使用證明書疑義案，復如說明，請查照。\n說明：\n一、依據本會林務局107年1月3日林企字第1061666193號函辦理，兼復貴府106年9月29日基府產農貳字第1060244272號函。\n二、有關農業用地種植植物如何區分「農作使用」或「林業使用」一節，查林業使用需視其林業經營方式判斷，例如，倘以斷根移植作景觀造園，或採矮化、嫁接、淨耕、使用農藥等非屬林業經營方式，則尚難認定作林業使用，合先敘明。\n三、至林業用地作林業使用亦應符合前開判斷標準，並參酌「國有林事業區租地造林樹種表」及「獎勵造林樹種及每公頃栽植株樹基準表」之規定，種植密度為平均每公頃約需栽植1500株，且經完成造林者、造林木已達3年生以上、成活率在70%以上者，始符合森林使用。是以，貴府來函所詢林業用地上種植文旦果樹得否認定為林業使用一節，仍請依上開說明予以審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5488",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:40+08:00",
+   "source_key": "rmis:5488"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bc4586193304691b6ec7d0846bfa79b02e57021cb75958c92ecc082b6d28b0ee",
+ "topics": [
+  "farm_use_cert",
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

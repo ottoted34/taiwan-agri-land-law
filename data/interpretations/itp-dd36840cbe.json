@@ -1,0 +1,48 @@
+{
+ "id": "itp-dd36840cbe",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080229284號",
+ "date": "2019-07-24",
+ "date_text": "108/7/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴縣○○○申請興建農舍之農民資格審查認定疑義案，復如說明，請查照。",
+ "content": "一、復貴府108年7月10日府農輔字第1084014236號函。\n二、有關旨案之處理意見，本會前於108年6月17日以農企字第1080714930號函復貴府在案，針對本次來函詢問上開號函所稱「非屬該公司之專職人員等相關佐證文件」為何一節，尚無指定應為何種證明文件，如申請人檢附該公司出具之在職證明等資料，足供貴府審認判斷均無不可，又該項文件主要由當事人舉證其非屬該公司之專職人員，始有併同切結為之，爰申請人倘無法自行提出相關佐證證明，貴府亦得就申請興建農舍之合理性及必要性，依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4621",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:04+08:00",
+   "source_key": "rmis:4621"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a86427f2801768cb177d1d85c514e2c52f49d932262170ad80c6130b8e0334d5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

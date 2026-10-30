@@ -1,0 +1,79 @@
+{
+ "id": "itp-648d4645cd",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960132736號",
+ "date": "2007-06-20",
+ "date_text": "96/6/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋電信股份有限公司申請於山坡地保育區農牧用地設置行動電話基地臺，其農業用地變更之回饋金應如何計算之疑義案。",
+ "content": "主旨：有關　貴府函詢和信電信股份有限公司申請於山坡地保育區農牧用地設置行動電話基地臺，其農業用地變更之回饋金應如何計算之疑義案，復請　查照。\n說明：\n一、復　貴府96年6月13日府農企字第○○○○○號函。\n二、查本會93年2月19日農企字第0930107816號函，說明略以：「農牧用地上容許使用項目．．．，其性質已屬非農業使用者，參照農業發展條例第12條規定意旨，．．．應依『農業用地變更回饋金撥繳及分配利用辦法』規定辦理。至其計算標準與收取回饋金，應請比照特定目的事業用地之收取規定辦理。」有案，合先敘明。\n三、本案於農牧用地申請設置行動電話基地臺，應請比照農業用地變更回饋金撥繳及分配利用辦法第4條第5款規定，以變更編定為可建築使用面積與獲准變更編定當期公告土地現值乘積5%為計算基準。至「可建築使用面積」應以目的事業主管機關核定之建築使用面積為計算基準，惟目的事業主管機關未能核定可建築使用面積，或其使用性質非以建築為要件者，應由農業主管機關以土地面積乘以特定目的事業用地建蔽率60%之乘積計算「可建築使用面積」。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5122",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:38+08:00",
+   "source_key": "rmis:5122"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "4",
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "3b223cd3d8377174838a441d4c65375e76564e631e91ea63e8ee7c98846b7e3a",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "「農牧用地上容許使用項目...,其性質已屬非農業使用者,參照農業發展條例第12條規定意旨,...應依『農業用地變更回饋金撥繳及分配利用辦法』規定辦理。至其計算標"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "先敘明。\n三、本案於農牧用地申請設置行動電話基地臺,應請比照農業用地變更回饋金撥繳及分配利用辦法第4條第5款規定,以變更編定為可建築使用面積與獲准變更編定當期公告土地現值乘積5%為計"
+  }
+ ]
+}

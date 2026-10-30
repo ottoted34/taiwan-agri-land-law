@@ -1,0 +1,74 @@
+{
+ "id": "itp-24aaac45fd",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021816615號",
+ "date": "2013-07-29",
+ "date_text": "102/7/29",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾函詢持有農舍建造執照並已申報開工，如未興建且因逾期撤銷執照，是否符合「農業用地興建農舍辦法」第2條及第6條規定一案，敬請惠予提供卓見，請查照。",
+ "content": "一、依據○○○102年7月17日函辦理。\n二、本案申請人持有之農舍建造執照雖已申報開工，如逾期未興建而遭撤銷，日後同筆農業用地再行申請興建農舍，應有符合旨揭辦法第2條第1項第4款但書所稱「原申請案件重新申請」及第6條第1款「建造執照已撤銷」之情形，且未違反第2條第1項第5款「屬未經申請興建農舍之農業用地」之規定，惟本案涉及條文多與建造執照規定有關，請貴署惠示卓見，俾利彙辦，以資妥適。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3743",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:05+08:00",
+   "source_key": "rmis:3743"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "3f7dda264d032ecc918c07082167ba1e3acacefaabbd8f1af3d49ffa68f06352",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農舍建造執照並已申報開工,如未興建且因逾期撤銷執照,是否符合「農業用地興建農舍辦法」第2條及第6條規定一案,敬請惠予提供卓見,請查照。\n一、依據○○○102年7月17日函"
+  }
+ ]
+}

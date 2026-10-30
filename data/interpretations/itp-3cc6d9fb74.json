@@ -1,0 +1,71 @@
+{
+ "id": "itp-3cc6d9fb74",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000153758號",
+ "date": "2011-09-09",
+ "date_text": "100/9/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "祭祀公業土地之管理人，於管理之農業用地申請農業設施之容許使用，倘該祭祀公業土地並未訂章程，且無法取得過半數共有人之土地使用同意書，得否依「派下全員證明」及管理人出具之同意書辦理",
+ "content": "主旨：有關 貴府函詢祭祀公業土地之管理人，於管理之農業用地申請農業設施之容許使用，倘該祭祀公業土地並未訂章程，且無法取得過半數共有人之土地使用同意書，得否依「派下全員證明」及管理人出具之同意書辦理之疑義案，復請 查照。\n說明：\n一、復 貴府100年8月18日屏府農務字第1000216725號函。\n二、查本會前就祭祀公業土地承租人於承租之農業用地上申請農業設施之容許使用，得否管理人出具土地使用同意書，而免再依土地法第34條之1規定辦理之疑義，分別於98年7月21日以農企字第0980140684號函及98年8月4日以農企字第0980146095號函說明(諒達)有案，合先敘明。\n三、復依「申請農業用地作農業設施容許使用審查辦法」第5條第6款規定，申請農業用地作農業設施容許使用，應檢附土地使用同意書。但土地為申請人單獨所有者，免附。有關祭祀公業農業用地之管理人申請農業設施容許使用，倘確為其對祭祀公業法人財產管理之範圍且符合利用及改良目的之行為，應無須再由管理人出具土地使用同意書。\n四、至於管理人就祭祀公業法人財產之管理，申請辦理相關作業，是否尚需檢附「派下全員證明」或其他證明文件，始得辦理一節，因涉及祭祀公業條例規定之執行，倘有疑義建議宜洽祭祀公業條例之主管機關釐清。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5472",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:38+08:00",
+   "source_key": "rmis:5472"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "5",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "7d8347411cd3bab9d84aeee821f8f43bdb386fa924bedbfef9b90f2ed0be3dd2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "980146095號函說明(諒達)有案,合先敘明。\n三、復依「申請農業用地作農業設施容許使用審查辦法」第5條第6款規定,申請農業用地作農業設施容許使用,應檢附土地使用同意書。但土地為申請人"
+  }
+ ]
+}

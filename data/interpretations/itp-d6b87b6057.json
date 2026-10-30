@@ -1,0 +1,77 @@
+{
+ "id": "itp-d6b87b6057",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970108716號",
+ "date": "2008-02-19",
+ "date_text": "97/2/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "003 釋公地放領土地毋需申請核發農業用地作農業使用證明書案",
+ "content": "一、查農業發展條例第39條第1項明定：「依前二條規定申請不課徵土地增值稅或免徵遺產稅、贈與稅、田賦者，應檢具農業用地作農業使用證明書，向該管稅捐稽徵機關辦理。」準此，作農業使用之農業用地為依農業發展條例第37條及第38條之規定，申請賦稅減免優惠，始需申請核發農業用地作農業使用證明書。至農業用地是否符合作農業使用之認定，本會訂頒有農業用地作農業使用認定及核發證明辦法一種，以為執行之依據。\n二、本案○○○為承領坐落臺中縣霧峰鄉○○○及○○○地號二筆山坡地保育區農牧用地，並已繳清地價，該公地放領案件並未涉及土地增值稅之徵免，尚無申請核發農業用地作農業使用證明書之必要。有關公地放領業務仍請依公地放領相關法規之規定，本於權責核處。（97-008）",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4875",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:19+08:00",
+   "source_key": "rmis:4875"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b01614e7d56cf39fa50c719e25229e0d8c7a9da4d9c19220cc4e1e0a7353e02b",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "39",
+   "kind": "extracted",
+   "snippet": "釋公地放領土地毋需申請核發農業用地作農業使用證明書案\n一、查農業發展條例第39條第1項明定:「依前二條規定申請不課徵土地增值稅或免徵遺產稅、贈與稅、田賦者,應檢"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "書,向該管稅捐稽徵機關辦理。」準此,作農業使用之農業用地為依農業發展條例第37條及第38條之規定,申請賦稅減免優惠,始需申請核發農業用地作農業使用證明書。至農業"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業使用證明書。至農業用地是否符合作農業使用之認定,本會訂頒有農業用地作農業使用認定及核發證明辦法一種,以為執行之依據。\n二、本案○○○為承領坐落臺中縣霧峰鄉○○○及○○○地號二"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "itp-d4f66cde95",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990172677號",
+ "date": "2010-11-09",
+ "date_text": "99/11/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "020 釋與農業經營不可分離供農路使用之土地案",
+ "content": "主旨：有關民眾配合政府施設供當地農產運銷且屬與農業經營不可分離之農路（產業道路），經該設施機關認定，得免申請農業設施（農路）容許使用執行疑義案，復請查照。\n說明：\n一、復 貴府99年10月26日府農務字第09901784230號函。\n二、有關農業用地上施設有與農業經營不可分離之「農路」，得認定符合作農業使用之方式，包括：\n(一)依申請農業用地作農業設施容許使用審查辦法之規定，取得農業設施（農路）容許使用同意書。\n(二)如為土地使用編定前即已存在之「農路」，經檢具相關證明文件者，亦得認定符合作農業使用。\n(三)配合政府施設供公眾使用之「農路」，得視為已取得農業設施容許使用同意，無須再由農民另案申請農業設施容許使用，且得認定符合作農業使用。\n三、有關旨揭配合政府施設供公眾使用農路之認定，爰其既係配合政府施設，理應由政府審認，且公文書之保存亦為政府權責，似不宜由當事人切結。建議由公所依實際情況確認並註明：「該路係配合政府施設供當地農產運銷之公眾使用無誤。」即能符合前開說明二、（三）之意旨。惟如僅註明係供公眾通行使用，恐與該意旨有違，不宜採認。另 貴府基於實務執行確需當事人協同處理事項，請本權責依實際需要卓處。\n四、又本案前經本會函詢各縣（市）政府（包括貴府）意見及實務執行情形，多數縣（市）政府均表示無意見或建議應維持現行作法，本會並於98年9月14日以農企字第0980010542號函（諒達）各縣（市）政府依現行規定辦理在案，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5459",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:20+08:00",
+   "source_key": "rmis:5459"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "5a93e4f43a6e6acd1da5c16a72bab03ff7e0ef148278e31a7aecd9fc24403b4f",
+ "topics": [
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "分離之「農路」,得認定符合作農業使用之方式,包括:\n(一)依申請農業用地作農業設施容許使用審查辦法之規定,取得農業設施(農路)容許使用同意書。\n(二)如為土地使用編定前即已存在之"
+  }
+ ]
+}

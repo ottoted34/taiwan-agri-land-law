@@ -1,0 +1,55 @@
+{
+ "id": "itp-25a63f20d3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000184432號",
+ "date": "2012-01-19",
+ "date_text": "101/1/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○公司徵收之農牧用地經撤銷徵收後，涉及非都市土地使用管制規則第37條之法令疑義案。",
+ "content": "主旨：有關 貴部函詢○○公司徵收之農牧用地經撤銷徵收後，涉及非都市土地使用管制規則第37條之法令疑義案，復如說明，請 查照。\n說明：\n一、復 貴部100年12月28日內授中辦地字第1000049913號函。\n二、查農業發展條例第33條規定，私法人除符合同條例第34條所定農業企業法人外，不得承受耕地，查該「承受」依其立法意旨係指受讓或購買之意。耕地因用地變更編定後已屬非耕地範圍，經移轉登記予非農業企業法人之私法人，再經撤銷編定而回復農牧用地編定，因非屬受讓或購買性質，故無涉違反上開條例第33條私法人不得承受耕地之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5109",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:02+08:00",
+   "source_key": "rmis:5109"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "03bd56628aae7f934bd8d69df9599b450627359dd03311d7b5c0ee634b069722",
+ "topics": [
+  "facility_use",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2011",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "12月28日內授中辦地字第1000049913號函。\n二、查農業發展條例第33條規定,私法人除符合同條例第34條所定農業企業法人外,不得承受耕地,查該「承受」依"
+  }
+ ]
+}

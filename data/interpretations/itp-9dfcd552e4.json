@@ -1,0 +1,69 @@
+{
+ "id": "itp-9dfcd552e4",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1031865030號",
+ "date": "2014-02-14",
+ "date_text": "103/2/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋令",
+ "subject": "核釋有關農業用地興建農舍辦法第二條及第三條之農業用地為共有時，其申請興建農舍處理原則",
+ "content": "核釋有關農業用地興建農舍辦法第二條及第三條之農業用地為共有時，其申請興建農舍處理原則如下：\n一、興建農舍之申請人應符合農業用地興建農舍辦法興建農舍資格條件。\n二、應取得全部共有人之同意，並訂有分管契約。但共有人全部提出申請者，不在此限。\n三、其可興建面積以申請人應有部分之面積計算，須興建於所分管土地範圍內。\n四、申請之該筆農業用地係農業發展條例八十九年一月二十八日修正施行後取得者，其面積應超過零點二五公頃，惟申請人應有部分之面積雖未達零點二五公頃者，仍得依本原則辦理。\n五、與前開意旨未符之相關函釋，自即日停止適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2807",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:19+08:00",
+   "source_key": "rmis:2807"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-7a8542c7e2",
+    "by_docno": "營署建管字第1040068817號",
+    "by_date": "2015-11-11",
+    "kind": "cease",
+    "phrase": "據行政院農業委員會水土保持局前揭函說明:「有關共有農業用地申請興建農舍處理原則,行政院農業委員會於103年2月14日農水保字第1031865030號令核釋有案,與前開意旨未符之相關函釋已停止適用,......農業發展條例第18條第3項係針對89年1月28日修正施行前取得農業用地申請興建農舍所定之規定,至於已興建農舍之農業用地申請解除套繪管制者,則須依農業用地興建農舍辦法第12條規定辦理......"
+   }
+  ]
+ },
+ "content_hash": "ef020b6e00280e5e8f5d4f7a201e570d8a7be9b633671a1398f4211df1043a2e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "核釋有關農業用地興建農舍辦法第二條及第三條之農業用地為共有時,其申請興建農舍處理原則\n核釋有關農業用地興建農舍辦法"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "積計算,須興建於所分管土地範圍內。\n四、申請之該筆農業用地係農業發展條例八十九年一月二十八日修正施行後取得者,其面積應超過零點二五公頃,惟申請人應有部分"
+  }
+ ]
+}

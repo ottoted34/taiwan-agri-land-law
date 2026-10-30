@@ -1,0 +1,60 @@
+{
+ "id": "itp-bde14e4c1f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970153973號",
+ "date": "2008-10-02",
+ "date_text": "97/10/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "059 釋法院拍賣農業用地後，申請核發農業用地作農業使用證明書事宜案",
+ "content": "一、查農路係屬與農業經營不可分離之設施，農民如因農業經營之必要，得依農業用地容許作農業設施使用審查作業要點之規定，申請農路之容許使用。惟配合政府施設供當地農產運銷使用、且屬與農業經營不可分離之農路，因非為該土地所有權人個人之農業生產需要，且係由政府機關主導施設，倘經該施設機關認定，得免申請農路之容許使用。\n二、又農業用地作農業使用證明書之申請人得為土地所有權人、承受人或其他權利關係人，本案土地經法院拍賣，稅捐稽徵主管機關既同時通知「原」土地所有權人及「現」土地所有權人（拍定人），均可持該筆土地之農業用地作農業使用證明書，申請退還法院預為扣繳之土地增值稅，前開二人依規定申請核發該筆土地之農業用地作農業使用證明書，並無不可；至該土地增值稅究應退還予「原」土地所有權人或「現」土地所有權人（拍定人），應由稅捐稽徵主管機關依法核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4945",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:44+08:00",
+   "source_key": "rmis:4945"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "9510400984e51db981630e29f74181a9fa33f7d5fde308e9b057cc00878396aa",
+ "topics": [
+  "farm_use_cert",
+  "tax",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

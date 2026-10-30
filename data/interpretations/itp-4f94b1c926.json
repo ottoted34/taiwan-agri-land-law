@@ -1,0 +1,94 @@
+{
+ "id": "itp-4f94b1c926",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1010100525號",
+ "date": "2012-03-16",
+ "date_text": "101/3/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢有關集村興建農舍依農業用地興建農舍辦法第3條規定檢附之「農業用地作農業使用證明書」上土地所有權人非農舍申請人，是否得視為有效之農用證明文件案，復請 查照。",
+ "content": "一、復貴府101年2月22日屏府農企字第1010050712號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作。又「農業用地興建農舍辦法」第3條第1項第5款規定：「申請人為該農業用地之所有權人，且該農業用地應確供農業使用，並屬未經申請興建農舍之農業用地。」，其立法意旨係為規範農舍申請人在所有土地上須作農業使用，而以檢附「農業用地作農業使用證明書」為佐證之一，爰申請興建農舍檢具之農業用地作農業使用證明書所載土地所有權人應與農舍申請人一致。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2890",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:54+08:00",
+   "source_key": "rmis:2890"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "293711363c21bf518b5775dafecdcfb2ffd5a4d084f523a50774e815a7463cd2",
+ "topics": [
+  "farm_use_cert",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "有關貴府函詢有關集村興建農舍依農業用地興建農舍辦法第3條規定檢附之「農業用地作農業使用證明書」上土地所有權人非農舍申請人,是否得視為有效"
+  }
+ ]
+}

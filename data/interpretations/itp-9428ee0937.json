@@ -1,0 +1,55 @@
+{
+ "id": "itp-9428ee0937",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030204891號",
+ "date": "2014-02-25",
+ "date_text": "103/2/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地作農業使用認定及核發證明辦法第6條第3款適用疑義案。",
+ "content": "主旨：有關貴府函詢農業用地作農業使用認定及核發證明辦法第6條第3款適用疑義案，復請查照。\n說明：\n一、復貴府103 年2 月14 日屏府農企字第10304719000 號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第3款規定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：…三、農業用地存在私人無償提供政府施設供公眾使用之道路或屬依法應徵收而未徵收性質之其他公共設施。」爰農業用地在「部分面積」、「不影響農業使用」之前提條件下，倘有上開規定屬「無償提供政府施設且供公眾使用之道路」或「依法應徵收而未徵收性質之公共設施」之情形者，始得認定為作農業使用。本案依來函所提電力鐵塔及行動電話業務基地臺，倘具備前提條件，則其既非屬道路性質，自宜審認是否符合後者得依土地徵收條例認定具應徵收性質之公共設施。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5267",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:04+08:00",
+   "source_key": "rmis:5267"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8b7a879a92c9cc1ac5c6ed8eb726a8ac97569230577ff9638ff56962c527e979",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "農業用地作農業使用認定及核發證明辦法第6條第3款適用疑義案。\n主旨:有關貴府函詢農業用地作農業使用認定及核發證明辦法第6條"
+  }
+ ]
+}

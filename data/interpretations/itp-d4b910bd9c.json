@@ -1,0 +1,65 @@
+{
+ "id": "itp-d4b910bd9c",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1040040497號",
+ "date": "2015-06-30",
+ "date_text": "104/6/30",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關以農舍經營農藥資材零售辦理營利事業登記之申請人疑義1案，請查照。",
+ "content": "˙說明:\n一、依據行政院農業委員會水土保持局104年6月17日水保農字第1041882136號函(如附件)辦理，並復貴所104年6月1日雲動防六字第1040004387號函。\n二、按內政部65年9月22日台內營字第694076號函示略以：「農舍申請營利事業登記必須為合法農舍且申請人必須為農舍之所有權人」，該函示因缺乏法律依據，業經內政部93年2月17日台內營字第0930081833號函停止適用在案，先予敘明。\n三、另有關可否由農舍所有權人之親屬或租賃農舍之承租人擔任商行負責人1案，據行政院農業委員會水土保持局前揭104年6月17日函說明二稱：「依非都市土地使用管制規則第6條附表一規定，農舍許可使用細目包括『農舍及農舍附屬設施』、『農產品之零售』、『農作物生產資材及日用品零售』及『民宿』等四項。農舍雖得以經營農作物生產資材之零售販賣，惟揆諸農舍興建立法精神，係強調『無自用農舍』而需興建者，得依相關規定申請興建農舍，是以若其經營者非農舍坐落土地之所有權人或出租他人經營者，則不符農舍應供自用之原則，與農業發展條例規定允許農業用地得興建農舍之立法目的有違。」本案如有疑義，請逕向行政院農業委員會水土保持局洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4034",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:47+08:00",
+   "source_key": "rmis:4034"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "88bdf95c24dab7fb139df3174420bd7abca42775d74565578211bc9f5be6c465",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地之所有權人或出租他人經營者,則不符農舍應供自用之原則,與農業發展條例規定允許農業用地得興建農舍之立法目的有違。」本案如有疑義,請逕向行政院農業委員會"
+  }
+ ]
+}

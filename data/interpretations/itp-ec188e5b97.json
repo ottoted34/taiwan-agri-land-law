@@ -1,0 +1,65 @@
+{
+ "id": "itp-ec188e5b97",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1020237303號",
+ "date": "2013-11-29",
+ "date_text": "102/11/29",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾擬於農舍販賣並製作農產品手工皂是否適法一案，復請查照。",
+ "content": "一、復貴局102年10月30日北農牧字第1022971745號函。\n二、依非都市土地使用管制規則第6條附表一規定，農舍許可使用細目包括「農舍及農舍附屬設施」、「農產品之零售」、「農作物生產資材及日用品零售」及「民宿」等四項。民眾僅販賣自產櫻花及香草植物加工製作之手工皂，其販賣行為應得以「農產品之零售」、「農作物生產資材及日用品零售」細目辦理之。\n三、惟涉及農產品加工即非屬農舍許可使用細目，本案倘擬於農業用地上辦理農產品製作，其所涉及之加工行為，應依「申請農業用地作農業設施容許使用審查辦法」之農作產銷設施附表規定，申請設置「農糧產品加工室」以為合法使用。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2838",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:57+08:00",
+   "source_key": "rmis:2838"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "002be3a3cd067db7fe7fa8648936e3eb8d8913fb6e468cfcc19df023162973fe",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "本案倘擬於農業用地上辦理農產品製作,其所涉及之加工行為,應依「申請農業用地作農業設施容許使用審查辦法」之農作產銷設施附表規定,申請設置「農糧產品加工室」以為合法使用。"
+  }
+ ]
+}

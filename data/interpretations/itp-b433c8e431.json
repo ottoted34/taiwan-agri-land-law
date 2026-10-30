@@ -1,0 +1,60 @@
+{
+ "id": "itp-b433c8e431",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040232734號",
+ "date": "2015-09-23",
+ "date_text": "104/9/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關新北市三芝區座落於國家公園區域內之農業用地申請興建農舍申請人資格審查作業執行疑義一案，請惠示卓見憑辦，請查照。",
+ "content": "一、依據新北市政府農業局104年8月20日新北農牧字第1041573144號函(如附)辦理。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第2款規定略以：「申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。… 」，次查陽明山國家公園保護利用管制原則第20點規定略以：「...新建農舍之申請人其戶籍所在地及其農業用地，須在本園區且為同一直轄市內，其土地取得應滿2年及戶籍登記應滿5年。...」，合先敘明。\n三、今新北市政府農業局就農舍申請人資格審查作業之疑義，涉及上開不同規範間之衝突問題，按本辦法係農業發展條例授權訂定之「法規命令」，具有一定之法拘束力、經發布生效後，自有拘束行政機關與人民之效力；至上開管制原則制訂之法源依據及法律位階為何？是否具有法律上之強制力？敬請貴機關釋示，俾便本會參處釋復新北市政府農業局。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3920",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:29+08:00",
+   "source_key": "rmis:3920"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d71fa921fc30f7bb15b6d7f395752e7ab9331ed2ddc6dc6e7504e9d07eda51f4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "日新北農牧字第1041573144號函(如附)辦理。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第2款規定略以:「申請人之戶籍所在地及其農業用地,"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "資格審查作業之疑義,涉及上開不同規範間之衝突問題,按本辦法係農業發展條例授權訂定之「法規命令」,具有一定之法拘束力、經發布生效後,自有拘束行政機關與人民"
+  }
+ ]
+}

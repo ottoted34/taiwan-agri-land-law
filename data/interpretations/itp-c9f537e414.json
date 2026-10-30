@@ -1,0 +1,67 @@
+{
+ "id": "itp-c9f537e414",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080013249號",
+ "date": "2019-10-08",
+ "date_text": "108/10/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺端所詢以農用證明申請興建農舍之適用時點，復如說明，請查照。",
+ "content": "一、復臺端108年9月24日請示函。\n二、查農業發展條例及相關配套法案於89年1月26日公布實施，為利該條例之實務執行，於89年2月15日訂頒農業用地作農業使用證明核發暫行處理原則，並於89年7月26日訂定農業用地作農業使用認定及核發證明辦法。至90年4月26日由內政部會銜本會訂定農業用地興建農舍辦法，該辦法第2條於104年9月4日修正施行，並明定申請興建農舍之農業用地是否確供農業使用與不影響農業生產環境及農村發展，係以由申請人檢附經營計畫書供審查之方式辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4664",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:01+08:00",
+   "source_key": "rmis:4664"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "de5acd4c6b42c18294cf2ddbd8b1670c89f89883996a5cf948cdcf258b51e1c3",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "說明,請查照。\n一、復臺端108年9月24日請示函。\n二、查農業發展條例及相關配套法案於89年1月26日公布實施,為利該條例之實務執行,於89年2月15"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用地作農業使用證明核發暫行處理原則,並於89年7月26日訂定農業用地作農業使用認定及核發證明辦法。至90年4月26日由內政部會銜本會訂定農業用地興建農舍辦法,該辦法第2條於10"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用認定及核發證明辦法。至90年4月26日由內政部會銜本會訂定農業用地興建農舍辦法,該辦法第2條於104年9月4日修正施行,並明定申請興建農舍之農業用地是否確供農"
+  }
+ ]
+}

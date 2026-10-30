@@ -1,0 +1,73 @@
+{
+ "id": "itp-ea205ba2cf",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040213908號",
+ "date": "2015-05-05",
+ "date_text": "104/5/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關高雄市政府水利局受理所轄永安區○○○地號土地申請建造農舍排水事宜1案，復請查照。",
+ "content": "一、復貴署104年4月16日移署移販和字第1040044931號函。\n二、依據農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準，並排入排水溝渠。放流水流經屬灌排系統或私有水體者，並應符合下列規定:(一)排入灌排系統者，應經該管理機關(構)同意及水利主管機關核准。(二)排入私有水體者，應經所有人同意。」，倘貴署為該灌排系統之管理機關(構)，則有權決定同意提供與否。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3325",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:38+08:00",
+   "source_key": "rmis:3325"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "978483b1c88bac7c94f46fb72a3bb794b8e278a84090dda2b4d6d44f0922b394",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "4月16日移署移販和字第1040044931號函。\n二、依據農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準,並排入排水溝渠。放流水流經屬灌"
+  }
+ ]
+}

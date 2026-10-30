@@ -1,0 +1,58 @@
+{
+ "id": "itp-5ed1ffada2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041891392號",
+ "date": "2015-12-16",
+ "date_text": "104/12/16",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴縣議會第18屆第2次定期會，建請輔導農舍興建圍牆合法化案，復請查照。",
+ "content": "一、復貴府104年12月10日府農農字第1040258952號函。\n二、有關農業用地申請興建之農舍，而附屬設置圍牆，應係屬農舍之附屬設施，查「農業用地興建農舍辦法」第9條第2項第1款已明定，農舍興建圍牆，以不超過農舍用地面積範圍為限。內政部營建署89年12月12日89營署建管字第47774號函，說明略以:「...(1)修法前已興建之農舍圍牆，於法定基層建築面積範圍內，應准予補辦雜項執照後，或依其使用執照上登載已提出圍牆峻工圖，據以辦理查核發給農業用地作農業使用證明。(2)農業用地周邊，原則上不得興建與農業經營無關之圍牆，惟因基於農業經營管理之特殊需要，有須於農業用地周邊興建圍牆，各縣市政府應將其視同農業、畜牧及養殖設施之一部分併同容許使用申請案辦理。」有案。請貴府依此原則審認。\n三、貴府多次函文建議就違規建物或農舍興建圍牆部分予以就地合法，免受區域計畫法或都市計畫法等規定裁罰，建議貴府應加強法規宣導，避免民眾受罰，且對於違規使用者，應加強稽查。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4004",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:19+08:00",
+   "source_key": "rmis:4004"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ca7f049b0a4ef0c29ca41d721210d010bc6f2f64df59925d3e219c4de0f7c135",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "用地申請興建之農舍,而附屬設置圍牆,應係屬農舍之附屬設施,查「農業用地興建農舍辦法」第9條第2項第1款已明定,農舍興建圍牆,以不超過農舍用地面積範圍為限。內政部營建署89"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "itp-0267c94d31",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040246820號",
+ "date": "2015-12-04",
+ "date_text": "104/12/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴縣議會建議輔導舊有農舍就地合法，排除區域計畫法及都市計畫法等相關規定，復請查照。",
+ "content": "一、復貴府104年11月26日府農農字第1040248265號函。\n二、農舍係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求之構造物，以便利其農事工作，目前有農業發展條例其及授權訂定之農業用地興建農舍辦法以為申請興建農舍之依循。\n三、貴府首揭函建請輔導舊有農舍就地合法一節，有關農地上之違規建物，在未依相關規定申請前，其屬性未明，不得稱之為農舍，請貴府依其所提出之目的及條件依相關法令予以審查；至農地違規及違章建物，仍須依區域計畫法、都市計畫法、建築法等規定依法裁處，以避免藉由投機行為而達到「違規使用」之目的。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3618",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:29+08:00",
+   "source_key": "rmis:3618"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "faf78d9ce5e9250ddc7a7230b0852d174bdc3979ce0a93dba34dc1fd88cc1a16",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "具有放置農機具兼具居住需求之構造物,以便利其農事工作,目前有農業發展條例其及授權訂定之農業用地興建農舍辦法以為申請興建農舍之依循。\n三、貴府首揭函建請輔"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之構造物,以便利其農事工作,目前有農業發展條例其及授權訂定之農業用地興建農舍辦法以為申請興建農舍之依循。\n三、貴府首揭函建請輔導舊有農舍就地合法一節,有關農地上"
+  }
+ ]
+}

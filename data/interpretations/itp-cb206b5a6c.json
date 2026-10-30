@@ -1,0 +1,58 @@
+{
+ "id": "itp-cb206b5a6c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990117058號",
+ "date": "2010-03-25",
+ "date_text": "99/3/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
+ "content": "主旨：有關貴縣○○○申請核發農業用地作農業使用證明書核發疑義案，復請 查照。\n說明：\n一、復 貴局99年3月15日北農牧字第0990183959號函。\n二、查農業用地作農業使用證明書之核發僅係認定該農業用地確作農業使用，以供持憑向稅捐稽徵機關申請賦稅減免優惠，並非核發前開證明書即有處分物權之效果，因此，並無所稱土地法第34條之1規定適用與否之問題。\n三、有關公同共有之農業用地申請核發農業用地作農業使用證明書，應就該公同共有之農業用地視為一整體審認之，本會前於98年5月20日業已函復 貴局在案。至申請人得為土地所有權人或權利關係人，並無需將全體共有人均列為申請人，惟該申請書及農業用地作農業使用證明書之土地所有權人欄位，應明列全體共有人之姓名。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5432",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:09+08:00",
+   "source_key": "rmis:5432"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "edb93840fb2f654de47dd31306cb32771ddb1b8b9570f7ae640facf5b5abbf94",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

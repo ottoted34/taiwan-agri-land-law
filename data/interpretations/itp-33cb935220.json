@@ -1,0 +1,70 @@
+{
+ "id": "itp-33cb935220",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020234807號",
+ "date": "2013-10-28",
+ "date_text": "102/10/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "台中農舍農業設施面積40%之計算建議。",
+ "content": "主旨：有關貴府函為「申請農業用地作農業設施容許使用審查辦法」中有關農業設施及農舍面積併計之建議案，復請查照。\n說明：\n一、復貴府102年10月9日府授農地字第1020192817號函。\n二、查98年3月16日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第8條規定之立法意旨，係考量農業設施之興建，為輔助農業生產或經營，因此就其設置項目，應與農業經營密切相關。惟農業設施其使用主要多以建築為要件，因此無法避免對生產之農業用地造成影響，爰予訂定所有農業設施總面積除另有規定者外，不得超過坐落農業用地土地面積40%之規定，並考量農舍之興建，亦為農業用地上之建築行為，而予以規範農業設施及農舍之興建面積，應一併計算。\n三、本會檢討容許辦法修正案時，經召開多次中央與各直轄市、縣(市)政府研商會議，對本案亦經討論並獲共識，即仍維持 原條文意旨(酌修文字)。爰請貴府依本會102年10月9日修正發布之容許辦法第7條第1項規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5547",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:50+08:00",
+   "source_key": "rmis:5547"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "547c8125390a26389660107caae153ddbf0cc5d47c03400224079c3b0f59fe34",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "台中農舍農業設施面積40%之計算建議。\n主旨:有關貴府函為「申請農業用地作農業設施容許使用審查辦法」中有關農業設施及農舍面積併計之建議案,復請查照。\n說明:\n一、復貴府102年10"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": "itp-175d46cdcd",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980103113號",
+ "date": "2009-01-20",
+ "date_text": "98/1/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋依「農業用地變更回饋金撥繳及分配利用辦法」第5條第1款規定，得否以分期付款或捐贈土地抵充方式繳納農業用地變更回饋金之疑義案。",
+ "content": "主旨：有關 貴府函為○○股份有公司陳情「南投縣集集鎮○○○等地號九二一震災鄉村區重建開發計畫案」，得否以分期付款或捐贈土地抵充方式繳納農業用地變更回饋金案，復請 查照。\n說明：\n一、復 貴府98年1月15日府農務字第○○○○○號函。\n二、依農業發展條例第10條及第12條規定，農業用地於劃定或變更為非農業使用時，應視其事業性質繳交回饋金，本會並依據同條例第12條第3項之授權規定，訂有「農業用地變更回饋金撥繳及分配利用辦法」之規定，規範回饋金之繳交基準及繳交方式等。按「農業用地變更回饋金撥繳及分配利用辦法」第5條第1款規定，申請農業用地變更使用之申請人，所應繳納之回饋金，應繳交時限，屬非都市土地者，應於向直轄市或縣(市)政府辦理土地變更編定之異動登記前繳納。換言之，○○股份有公司辦理「南投縣集集鎮○○○等地號九二一震災鄉村區重建開發計畫案」，應於向 貴府辦理土地變更編定之異動登記前，即全數繳納農業用地變更回饋金，貴府始能辦理土地變更編定之異動手續，查並無得同意分期付款或捐贈土地抵充方式繳納農業用地變更回饋金之相關法令規範。\n三、另來函所詢之開發影響費及公共設施不足部分之代金，得否以分期付款或捐贈土地抵充方式繳納，請 貴府另洽詢目的事業主管機關(內政部)。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5072",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:12+08:00",
+   "source_key": "rmis:5072"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "5",
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4ef3325d0128eb58ea27e6e90519af2952681c07a6d91b7612d51b99c73ed470",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "釋依「農業用地變更回饋金撥繳及分配利用辦法」第5條第1款規定,得否以分期付款或捐贈土地抵充方式繳納農業用地變更回饋金之疑義案。\n主"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "、復 貴府98年1月15日府農務字第○○○○○號函。\n二、依農業發展條例第10條及第12條規定,農業用地於劃定或變更為非農業使用時,應視其事業性質繳交回饋金,本"
+  }
+ ]
+}

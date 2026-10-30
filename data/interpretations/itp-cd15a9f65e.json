@@ -1,0 +1,52 @@
+{
+ "id": "itp-cd15a9f65e",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150713095號",
+ "date": "2026-06-12",
+ "date_text": "115/6/12",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴縣新園鄉公所函詢農業發展條例92年1月13日修正施行前既存之水產養殖設施，經取得專業技師簽證後，得否免申請建築執照疑義案，復請查照。",
+ "content": "一、有關農業發展條例第8條之1第2項後段所定「本條例中華民國92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照。」其審認原則，查案附貴縣新園鄉公所函援引之改制前行政院農業委員會92年12月15日農授中字第0921070708號令已說明在案。\n二、針對貴府來函所詢92年1月13日前既存之水產養殖設施，經取得專業技師簽證後，得否免申請建築執照一節，仍請貴府依前開令原則協助公所予以審認核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6069",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:41+08:00",
+   "source_key": "rmis:6069"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "212cbc4901ed3387235b414e7b093ebd0ca6a713c0c5dea72019e12f9bba01af",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "業技師簽證後,得否免申請建築執照疑義案,復請查照。\n一、有關農業發展條例第8條之1第2項後段所定「本條例中華民國92年1月13日修正施行前,已興建有固定基礎之農業"
+  }
+ ]
+}

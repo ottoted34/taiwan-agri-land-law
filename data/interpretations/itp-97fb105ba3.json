@@ -1,0 +1,77 @@
+{
+ "id": "itp-97fb105ba3",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1041866160號",
+ "date": "2015-06-25",
+ "date_text": "104/6/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "請貴府加強申請興建農舍資格審查，請查照。",
+ "content": "一、農業用地興建農舍辦法(以下簡稱本辦法)第2條及第3條規定，申請興建農舍之申請人應為農民，且其資格應分別符合第2條第1項所列條件，而依農業發展條例第3條第3款規定，農民指直接從事農業生產之自然人，爰申請興建農舍之申請人除須為農民外，同時應符合農民資格條件，先予敘明。\n二、次依本辦法第2條第1項第5款規定，該農業用地應確供農業使用，雖認定上有須檢附農業用地作農業使用證明之要求，然而申請興建農舍之資格條件訂有須符合土地取得滿兩年之規定，其係為符合農業發展條例第18條立法意旨，確保該農舍為配合於農業用地上從事農業活動所需而興建之政策目的，因此，宜先確認該申請興建農舍之農業用地確實有從事農業生產事實。\n三、目前對於農舍興建資格之審查常流於側重所有權人之形式審查，而申請人是否直接從事農業生產之審查則付之闕如，本會及內政部刻正修正本辦法相關規定，對於興建農舍之農民身分訂定具體條件及要求應檢附經營計畫書，惟為避免本辦法修正發布前造成搶建情形，請貴府依現行規定加強實質審認，如於審查時有疑義者，請依本辦法第2條第2項規定組成審查小組審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3985",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:56+08:00",
+   "source_key": "rmis:3985"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d2765b989f9111396732465bc59d150fc2b663f265a9193ed2cf383dea3d6414",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請貴府加強申請興建農舍資格審查,請查照。\n一、農業用地興建農舍辦法(以下簡稱本辦法)第2條及第3條規定,申請興建農舍之申請人應為農民,且其資格應分"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "申請人應為農民,且其資格應分別符合第2條第1項所列條件,而依農業發展條例第3條第3款規定,農民指直接從事農業生產之自然人,爰申請興建農舍之申請人除須為農民外,"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "興建農舍之資格條件訂有須符合土地取得滿兩年之規定,其係為符合農業發展條例第18條立法意旨,確保該農舍為配合於農業用地上從事農業活動所需而興建之政策目的,因此,宜"
+  }
+ ]
+}

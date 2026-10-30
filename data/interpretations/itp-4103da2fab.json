@@ -1,0 +1,54 @@
+{
+ "id": "itp-4103da2fab",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080713444號",
+ "date": "2019-05-17",
+ "date_text": "108/5/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴市民眾申請坐落貴市東勢區○○○地號農業用地興建自用農舍之申請人資格條件審查疑義，復如說明，請查照。",
+ "content": "一、復貴局108年5月6日中市農地字第1080015166號函。\n二、依農業用地興建農舍辦法第2條第1項第3款規定，「申請興建農舍之該筆農業用地面積不得小於0.25公頃．．．」，所稱該筆，係指單一筆地號，不得以多筆相毗鄰地號土地合併計算，先予敘明。\n三、針對農舍用地應矩形配置於農地之地界線側及臨接道路之「道路」定義，本會前於107年7月26日農企字第1070012917號、108年1月16日農企字第1070253990號函、108年5月6日農企字第1080206692號函說明在案，爰該道路係以「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定，並得採認成立公用地役關係之既成道路」。\n四、綜上，本案農舍之配置，是否符合上開原則，請貴局再予衡酌。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4601",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:01+08:00",
+   "source_key": "rmis:4601"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f3dd45c86eb1e9e305d38849d53d6bbf84f6ad57cbebecdbc2c4225f63cc2f24",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "08年5月6日中市農地字第1080015166號函。\n二、依農業用地興建農舍辦法第2條第1項第3款規定,「申請興建農舍之該筆農業用地面積不得小於0.25公頃...」,"
+  }
+ ]
+}

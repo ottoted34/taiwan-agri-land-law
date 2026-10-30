@@ -1,0 +1,64 @@
+{
+ "id": "itp-b5618d0155",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1030236665號",
+ "date": "2014-12-01",
+ "date_text": "103/12/1",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業用地已依「農業用地興建農舍辦法」申請興建農舍，其餘面積是否可依「非都市土地使用管制規則」申請私設通路案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴府103年10月20日府農務字第1030170487號函辦理。\n二、依旨揭辦法第9條第1項第3款規定略以：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」，又同辦法第15條第1項規定略以：「依本辦法申請興建農舍之該農業用地應維持作農業使用。」，合先敘明。 三、本案私設通路非屬農業設施，不具農業生產使用功能，爰依前揭規定，應不得於已興建農舍之農業用地設置。貴府首揭號函說明四意見，本局敬表認同。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3807",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:07+08:00",
+   "source_key": "rmis:3807"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "49a82b9ed294733acfbf21acd7c2dce63af04713b1e3b0f47b583c147bb2be06",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業用地已依「農業用地興建農舍辦法」申請興建農舍,其餘面積是否可依「非都市土地使用管制規則」申請私設通路案,復請查照"
+  }
+ ]
+}

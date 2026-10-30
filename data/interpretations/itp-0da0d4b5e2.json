@@ -1,0 +1,46 @@
+{
+ "id": "itp-0da0d4b5e2",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152606603號",
+ "date": "2026-05-22",
+ "date_text": "115/5/22",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢申請興建農舍之無自用農舍審查原則疑義案，詳如說明，請查照。",
+ "content": "一、查改制前行政院農業委員會以104年2月12日農授水保字第1031828198號函釋示農民申請興建農舍無自用農舍審查原則，其中申請人應檢具稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單、申請人房屋財產歸戶查詢清單之所有房屋使用執照影本、申請人切結無自用農舍等文件，以供查核。故查詢清單所列房屋或未列於查詢清單而經查核機關實地勘查確有建築物(以坐落農業用地上為限)，而無法提供使用執照影本者，均應請建築物所有權人先辦理「建築物第一次登記」或補辦建築物「使用執照」，並於建物所有權狀或建築物使用執照用途欄註明用途，以釐清是否為「農舍」。爰倘申請人無相關證明文件可供確認該建物之用途，自無可認屬符合無自用農舍條件。\n二、另，倘申請興建農舍用地以外之其他農業用地上，存有他人持有或占用之建物，應檢附相關證明文件及切結書等，經貴局審認該建築物確非申請人所有，自非屬該申請人無自用農舍之查核範疇，惟該建築物如涉及違反土地使用管制或建築管理等情，貴局仍應通知都市計畫、區域計畫或建築主管機關依相關法令規定查處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6094",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:50+08:00",
+   "source_key": "rmis:6094"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bdba756a68a2c51be507de707184e93fa8584c6b3289ddf3be47b45f4e6b2ead",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

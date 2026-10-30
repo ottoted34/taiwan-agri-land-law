@@ -1,0 +1,71 @@
+{
+ "id": "itp-cffe967c69",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960130523號",
+ "date": "2007-06-07",
+ "date_text": "96/6/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋有關「農業用地容許作農業設施使用審查辦法」修正相關事宜第3次會議紀錄刪除修正條文第34條，執行本辦法所需之書表格式，未來執行是否衍生無法源依據之疑義一案。",
+ "content": "主旨：有關「農業用地容許作農業設施使用審查辦法」修正相關事宜第3次會議紀錄刪除修正條文第34條，執行本辦法所需之書表格式，未來執行是否衍生無法源依據之疑義一案，復請查照。\n說明：\n一、復　貴府96年6月4日府農務字第○○○○○號函。\n二、依行政程序法第159條第1項及第2項規定，「本法所稱行政規則，係指上級機關對下級機關，或長官對屬官，依其權限或職權為規範機關內部秩序及運作，所為非直接對外發生法規範效力之一般、抽象之規定。」「行政規則包括下列各款之規定︰1.關於機關內部之組織、事務之分配、業務處理方式、人事管理等一般性規定。2.為協助下級機關或屬官統一解釋法令、認定事實、及行使裁量權，而訂頒之解釋性規定及裁量基準。」爰執行本辦法所需之書表格式，係屬前開行政規則，核屬機關本於職權即可訂定，無需有法規授權，合先敘明。\n三、復依同法第160條第1項及第161條規定，「行政規則應下達下級機關或屬官。」「有效下達之行政規則，具有拘束訂定機關、其下級機關及屬官之效力。」是以，執行本辦法所需之書表格式等行政規則，由主管機關本於職權訂定後可依行政程序法函知，應無　貴府所提未來執行無法源依據之疑慮。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5289",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:42+08:00",
+   "source_key": "rmis:5289"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "3a7135e546553ffa414bef3aa1da3cc03480d32d8118e143c75464140f0b97f8",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "釋有關「農業用地容許作農業設施使用審查辦法」修正相關事宜第3次會議紀錄刪除修正條文第34條,執行本辦法所需之書表格式,未來執"
+  }
+ ]
+}

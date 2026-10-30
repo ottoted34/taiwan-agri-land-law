@@ -1,0 +1,63 @@
+{
+ "id": "itp-d9f2930e4d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070242138號",
+ "date": "2018-10-31",
+ "date_text": "107/10/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請興建農舍之農民資格審查二年生產佐證資料一案，復如說明，請查照。",
+ "content": "一、復貴府107年10月8日府農保字第1070199189號函。\n二、依農業發展條例第3條第12款規定，農業使用係指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。農舍係屬農地上與農業經營不可分離之建築物，故審核時除應考量該農業使用之內涵、當地農業經營發展外，應審酌該農業生產經營，其興建農舍之必要性及合理性，依農業用地興建農舍辦法等相關規定，視個案實務予以審認。\n三、次查本會104年10月21日農水保字第1041866479號函示生產實績之證明文件，尚非均屬農糧類〔如第(一)、(五)、(六)及(七)項〕。另，審查時倘有直接交易出售、自行販售等難以取得相關單據，或難以分辨其單據之真實與合理性之狀況時，得以戶口名簿、配合現地訪談鄰近耕作戶、居民或糧商及農會等人員，以證明或確認該申請人是否有農業經營事實，而非僅以書面資料判斷決定該申請案件之核駁，應配合現地查證及抽檢所提文件是否屬實。\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，建議得由貴府邀請相關單位組成審查小組依事實審認，另相關審查實務及標準得參考其他縣市政府作法規範之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4480",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:02+08:00",
+   "source_key": "rmis:4480"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e411ab818d768c99cfaad1768d9dc38e30986ba6fae295cd047061fd40d0ff7b",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "07年10月8日府農保字第1070199189號函。\n二、依農業發展條例第3條第12款規定,農業使用係指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "發展外,應審酌該農業生產經營,其興建農舍之必要性及合理性,依農業用地興建農舍辦法等相關規定,視個案實務予以審認。\n三、次查本會104年10月21日農水保字第10"
+  }
+ ]
+}

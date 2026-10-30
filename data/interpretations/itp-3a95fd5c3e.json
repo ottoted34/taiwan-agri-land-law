@@ -1,0 +1,59 @@
+{
+ "id": "itp-3a95fd5c3e",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150708994號",
+ "date": "2026-04-27",
+ "date_text": "115/4/27",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關臺端所詢都市計畫內農業區農業用地可否適用比照內政部103年6月23日內授中辦地字第1036651336號函辦理，詳如說明，請查照。",
+ "content": "一、基於農舍為農業經營不可分離之設施物，為避免已興建農舍後之農地如得自由分割或移轉予他人，至原供申請興建農舍之農地脫離農舍所有權人之支配管理範圍，無法落實已興建農舍後其他90%之農業用地仍供積極農業生產使用，故農業用地興建農舍辦法(下稱本辦法)第12條第2項明定，已申請興建農舍之農業用地，直轄市、縣（市）主管建築機關應於地籍套繪圖上，將已興建及未興建農舍之農業用地分別著色標示，未經解除套繪管制不得辦理分割，先予敘明。\n二、另依農業發展條例(下稱本條例)第3條第1項第11款規定耕地範圍，為依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地，故臺端所詢桃園市蘆竹區○○○地號之都市計畫農業區農業用地，非屬耕地範圍，不適用本條例第16條規範耕地分割之相關規定；惟因該農業用地已興建農舍，對於該農業用地之分割，仍應符合本辦法第12條第2項未經解除套繪管制不得辦理分割之規定。又基於農舍套繪管制係屬內政部主管權責，且來函所詢係為內政部之函釋，故臺端如有疑義，建議逕洽該部說明釐清。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6090",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:56+08:00",
+   "source_key": "rmis:6090"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4e3a1a9d2cdd77b8a204a907a7c8fbd0ed149ace5008dc5bf1733bc0808c282b",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "落實已興建農舍後其他90%之農業用地仍供積極農業生產使用,故農業用地興建農舍辦法(下稱本辦法)第12條第2項明定,已申請興建農舍之農業用地,直轄市、縣(市)主管"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "著色標示,未經解除套繪管制不得辦理分割,先予敘明。\n二、另依農業發展條例(下稱本條例)第3條第1項第11款規定耕地範圍,為依區域計畫法劃定為特定農業區、"
+  }
+ ]
+}

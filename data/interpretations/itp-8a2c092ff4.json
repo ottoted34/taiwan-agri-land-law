@@ -1,0 +1,73 @@
+{
+ "id": "itp-8a2c092ff4",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030026268號",
+ "date": "2014-05-02",
+ "date_text": "103/5/2",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府所詢申請興建農舍資格審查疑義案涉農業用地興建農舍辦法第9條第2項第6款規定，復請查照。",
+ "content": "一、復貴府103年4月23日府農輔字第1030062061號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第6款規定農舍建築面積應超過45平方公尺之立法意旨，係為杜絕非為農業經營所需之小面積興建農舍造成農業用地破壞，惟如因「農業經營」需要經地方農業單位同意者，依該款但書規定得不受限制。\n三、有關貴府前以103年3月28日府農輔字第1030049217號函建議農舍是否比照本部101年12月28日台內營字第1010811800號令所訂之住宅基本居住水準，以平均每人最小居住樓地板面積13,07平方公尺予以規範1節，係考量農舍供農業經營外之居住需求旦非現行興建農舍資格審查所須符合之條件，故本署後續將會同行政院農業委員會納入修法研議。至依現行規定應如何審認(但書之情形)1節，自應符合農業發展倏例相關規定，且是否因「農業經營需要」，並屬農政主管機關權責，仍請貴府依本辦法規定就個案事實予以裁量認定。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3562",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:02+08:00",
+   "source_key": "rmis:3562"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "7f3ff0644fab7a4797786a8e1319126db6ae9ff1e9f4f81ea83cc6b925628c96",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關貴府所詢申請興建農舍資格審查疑義案涉農業用地興建農舍辦法第9條第2項第6款規定,復請查照。\n一、復貴府103年4月23日府農輔字第103006"
+  }
+ ]
+}

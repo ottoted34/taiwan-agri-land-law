@@ -1,0 +1,54 @@
+{
+ "id": "itp-4fac8ceb1e",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1020243219號",
+ "date": "2014-01-20",
+ "date_text": "103/1/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：有關貴縣○○○申請農業用地作「農作產銷設施-農糧產品加工室」容許使用案件所涉審查疑義案，復請查照。\n說明：\n一、復貴府102年12月12日府農保字第1020226579號函。\n二、本會102年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條附表1所定農糧產品加工室申請基準或條件規定，未對使用之農產品原料來源有所限制，爰本案擬以自產或收購之農產品進行加工，尚無不妥。\n三、至農糧產品加工室是否應辦理工廠登記一節，依容許辦法第33條第1項規定略以「取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，並不得作為住宅、工廠或其他非農業使用。但經核准工廠登記之農業設施，不在此限。」爰依容許辦法興設之農業設施自應按原核定之計畫內容使用，倘需辦理工廠登記者，亦得按工業主管機關相關法令規定申請。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5442",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:41+08:00",
+   "source_key": "rmis:5442"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a4e73af78ab40019060b310ba9874c4f20df9d672aba90d364f30e78ad135abc",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請農業設施容許使用審查辦法-農糧署解釋函\n主旨:有關貴縣○○○申請農業用地作「農作產銷設施-農糧產品加工室"
+  }
+ ]
+}

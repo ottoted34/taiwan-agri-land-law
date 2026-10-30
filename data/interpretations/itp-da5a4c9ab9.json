@@ -1,0 +1,73 @@
+{
+ "id": "itp-da5a4c9ab9",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1020072283號",
+ "date": "2013-11-07",
+ "date_text": "102/11/7",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關申請興建農舍建築執照，其放流水請依農業用地興建農舍辦法第9條規定落實辦理一案，請 查照。",
+ "content": "一、依據屏東縣政府102年10月29日屏府農企字第10272532800號函(如附件)辦理。\n二、按農業用地興建農舍辦法第9條第2項規定:「興建農舍應符合下列規定:......四、興建之農舍，應依建築技術規則之規定，設置建築物污水處理設施。其為預鑄式建築物污水處理設施者，應於申報開工時檢附該設施依預鑄式建築物污水處理設施管理辦法取得之審定登記文件影本，並於安裝時，作成現場安裝紀錄。五、農舍之放流水應符合放流水標準，並排入排水溝渠，放流水流經屬灌排系統或私有水體者，並應符合下列規定: (一)排入灌排系統者，應經該管理機關(構)同意及水利主管機關核准。(二)排入私有水體者，應經所有人同意。......」是貴管核發農舍建築執照時，請確實依據上開規定落實辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3717",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:36+08:00",
+   "source_key": "rmis:3717"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "87dfe15cb1c95aac400154bbeb2958e6dcfc5cd8f8ff62f9b555f14d70c2d3a1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關申請興建農舍建築執照,其放流水請依農業用地興建農舍辦法第9條規定落實辦理一案,請 查照。\n一、依據屏東縣政府102年10月29日屏府農企字第"
+  }
+ ]
+}

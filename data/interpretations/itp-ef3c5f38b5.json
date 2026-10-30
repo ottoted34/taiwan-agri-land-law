@@ -1,0 +1,54 @@
+{
+ "id": "itp-ef3c5f38b5",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040220029號",
+ "date": "2015-12-11",
+ "date_text": "104/12/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例第18條第3項後段規定本條例修正施行前共有耕地於修正施行後分割為單獨所有者申請興建農舍之疑義案，請查照。",
+ "content": "一、依據新北市政府農業局104年5月26日新北農牧字第1040959371號函、屏東縣政府104年3月26日屏府農企字第10409232500號函、宜蘭縣政府104年1月16日府農務字第1040008912號函辦理暨花蓮縣政府103年10月7日府農保字第1030189952號函辦理。\n二、查農業發展條例第18條第3項後段規定：「本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」，有關前開規定之認定原則，本會水土保持局102年12月30日水保農字第1021831544號函釋有案，其意旨係指「未按修正施行前之持分比例分割者，因持分權屬已發生異動」，其土地取得時點已屬修正施行後取得。惟以權利價值分割，倘分割前後權利價值相當者，是否得適用上開規定，本會已彙整部分直轄市、縣(市)政府執行疑義，刻正研析相關法令中，將儘速通函釋示。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3907",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:22+08:00",
+   "source_key": "rmis:3907"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d6ddabb1d97ee41ac0bb73fec739139385ed0779f62efc00f7b18c8263224b92",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關農業發展條例第18條第3項後段規定本條例修正施行前共有耕地於修正施行後分割為單獨所有者申請興建農舍之"
+  }
+ ]
+}

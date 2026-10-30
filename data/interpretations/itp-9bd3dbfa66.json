@@ -1,0 +1,54 @@
+{
+ "id": "itp-9bd3dbfa66",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080210331號",
+ "date": "2019-03-20",
+ "date_text": "108/3/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢可否依共有土地之分管界線配置農舍案，復如說明，請查照。",
+ "content": "一、復貴府108年3月13日府農務字第1080046744號函。\n二、查農業用地興建農舍辦法於104年9月4日修正發布施行，增列申請興建農舍之農民認定，以及申請人應檢附依中央主管機關訂定之經營計畫書格式，以供直轄市、縣（市）政府審認確供農業使用與不影響農業生產環境及農村發展等事項。\n本會並於104年10月21日以農水保字第1041866479號函檢送經營計畫書格式，其中針對農舍整體配置，明訂農舍用地應矩形配置於農地之地界線側及臨接道路，以避免影響農業經營用地之完整性。所稱「地界線」提出申請興建農舍之整筆農業用地之邊界，而非該筆農業用地內共有人所協議之耕作或分管界線。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4596",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:19+08:00",
+   "source_key": "rmis:4596"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2d4f1869039b8373b096b6cefa31d2172c2206663193ff6fef605e2fe5f102f5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "08年3月13日府農務字第1080046744號函。\n二、查農業用地興建農舍辦法於104年9月4日修正發布施行,增列申請興建農舍之農民認定,以及申請人應檢附依中"
+  }
+ ]
+}

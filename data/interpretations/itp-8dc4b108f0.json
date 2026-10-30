@@ -1,0 +1,48 @@
+{
+ "id": "itp-8dc4b108f0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080209317號",
+ "date": "2019-04-17",
+ "date_text": "108/4/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺端詢問自有農地上遭他人占用且有他人之違法建物，得否申請私設通路一案，復如說明，請查照。",
+ "content": "一、依據本會水土保持局108年3月7日水保農字第1081831441號函轉臺端108年3月5日申請書辦理。\n二、查本會103年12月1日水保農字第1030236665號函，係針對已興建農舍之農業用地依規定不得設置私設通路，惟臺端所述情節，係屬違法建物，並無上開號函之適用。另有涉及違反土地使用或建築管理情事者，仍應依區域計畫法或建築法相關規定處理。\n三、另依非都市土地使用管制規則第6條附表一規定為「私設通路」為農牧用地容許使用項目之一，又該項目之附帶條件規定為「限於以集村方式興建農舍或甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。」，至旨案情形得否申請私設通路，請逕向土地所在地之直轄市、縣(市)政府建築主管單位洽詢。\n四、又民法第765條規定「所有人，於法令限制之範圍內，得自由使用、收益、處分其所有物，並排除他人之干涉。」及第767條第1項規定「所有人對於無權占有或侵奪其所有物者，得請求返還之。對於妨害其所有權者，得請求除去之。有妨害其所有權之虞者，得請求防止之。」，對於不動產物權均有明文排除他人無權使用之規定，故土地所有權人基於善盡保管、利用之權責，土地如有遭他人侵奪之情事，自得依前開民法規定排除之，以符法制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4537",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:13+08:00",
+   "source_key": "rmis:4537"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e8e16d8782744369122e671afa3e49055352f7050dc1db755c691078b6034340",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

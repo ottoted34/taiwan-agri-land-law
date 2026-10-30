@@ -1,0 +1,43 @@
+{
+ "id": "tech-c0e0e6290f6d",
+ "source_key": "datamoa:740:2b4f3230b22f7a1e",
+ "title": "睡蓮栽培與利用",
+ "series": "技術專刊",
+ "issue": "技術專刊89-10(NO.108)",
+ "agency_id": "tndais",
+ "authors": "張錦興、林棟樑、楊藹華、蔡承良、王仕賢",
+ "date": "2000-12",
+ "url": "http://book.tndais.gov.tw/Brochure/tech108.pdf",
+ "isbn": null,
+ "gpn": "25369890140",
+ "pages": "14頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊89-10(NO.108)",
+  "題目": "睡蓮栽培與利用",
+  "作者": "張錦興、林棟樑、楊藹華、蔡承良、王仕賢",
+  "出版日期年月": "08912",
+  "頁數": "14頁",
+  "定價": "40",
+  "政府出版品編號GPN": "25369890140",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech108.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech108.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T10:26:45+08:00"
+  }
+ ],
+ "content_hash": "18209e2979949d5d96c51713c0da4f429509f40c04041a4eb62ba07adb824a19",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

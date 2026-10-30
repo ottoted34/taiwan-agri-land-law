@@ -1,0 +1,64 @@
+{
+ "id": "itp-b8248c6511",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031866212號",
+ "date": "2014-11-03",
+ "date_text": "103/11/3",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關宜蘭縣政府函為農業用地已依「農業用地興建農舍辦法」申請興建農舍，其餘面積是否可依「非都市土地使用管制規則」申請私設通路案，請貴署惠示卓見，俾便彙辦，請查照惠復。",
+ "content": "一、依據行政院農業委員會交下宜蘭縣政府103年10月20日府農務字第1030170487號函(如附)辦理。\n二、依旨揭辦法第8條第3項規定略以：「農舍用地面積為法定基層建築面積，且為農舍與農舍附屬設施之水平投影面積用地總和；農業經營用地面積為申請興建農舍之農業用地扣除農舍用地之面積，又同辦法第9條第1項第3款規定略以：「申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十，扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積百分之九十。」。本案私設通路非屬農業設施，不具農業生產使用功能，爰依前揭規定，不得設置於申請興建農舍農業用地之農業經營用地範圍，至為明確，先予敘明。\n三、另依「非都市土地使用管制規則」第6條附表一規定，農牧用地容許設置私設通路，係「限於以集村方式興建農舍或甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者」，窺其意旨，本案私設通路應供他人土地通過本案農地以連接道路，非屬供農舍通行之用，依其使用性質，究否得認屬農舍附屬設施而依上開規定允許設置於農舍用地範圍，敬請貴署惠示卓見，俾利憑辦。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3889",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:19+08:00",
+   "source_key": "rmis:3889"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "29d40ff544381a8901240a09f5b842fa5f6104d00f1a69f00a03f9c0e57f55ef",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關宜蘭縣政府函為農業用地已依「農業用地興建農舍辦法」申請興建農舍,其餘面積是否可依「非都市土地使用管制規則」申請私設通路案,請貴署惠"
+  }
+ ]
+}

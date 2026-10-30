@@ -1,0 +1,52 @@
+{
+ "id": "itp-25c3803fa1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030702021號",
+ "date": "2014-01-23",
+ "date_text": "103/1/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "訂有三七五租約之農業用地，佃農擬依「申請農業用地作農業設施容許使用審查辦法」規定，申請農業設施之容許使用，得否以三七五租約之文件，視為土地使用同意書之審查疑義案。",
+ "content": "主旨：有關貴府函詢訂有三七五租約之農業用地，佃農擬依「申請農業用地作農業設施容許使用審查辦法」規定，申請農業設施之容許使用，得否以三七五租約之文件，視為土地使用同意書之審查疑義案，復請查照。\n說明：\n一、復貴府103年1月14日府農務字第1030007865號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定，申請農業用地作農業設施容許使用，應檢附土地所有權人出具之土地使用同意書，查並未排除訂有三七五租約之佃農無須檢附。爰以，為避免租佃雙方私權爭議，佃農擬於訂有三七五租約之農業用地申請農業設施，並主張以三七五租約文件，視為土地使用同意書者，則回歸該租約內容，倘有約定得作相關之使用，始得據以審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4792",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:32+08:00",
+   "source_key": "rmis:4792"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c7d253cccba9f1d9805b9af22b285c6af1e6c2aa97e7eb0fadf56c9c8feeb063",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "03年1月14日府農務字第1030007865號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定,申請農業用地作農業設施容許使用,應檢附土地所有權人出具之土地使用同意"
+  }
+ ]
+}

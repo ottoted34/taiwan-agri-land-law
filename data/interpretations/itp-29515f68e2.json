@@ -1,0 +1,54 @@
+{
+ "id": "itp-29515f68e2",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1020242645號",
+ "date": "2014-01-17",
+ "date_text": "103/1/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "相毗鄰農地分屬父子二人，分別申請農業資材室各45平方公尺，可否以共同牆壁方式共同興建農 業資材室疑義案，復請查照。",
+ "content": "主旨：有關貴市東勢區公所函詢相毗鄰農地分屬父子二人，分別申請農業資材室各45平方公尺，可否以共同牆壁方式共同興建農 業資材室疑義案，復請查照。\n說明：\n一、復貴局102年12月9日中市農地字第1020038747號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」尚無規定設施不得共用牆壁。本案仍請貴局就個案經營計畫，參依上開 辦法相關規定本權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5521",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:43+08:00",
+   "source_key": "rmis:5521"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d7bd97561225b1c2feebb3bba2c8d58b3e21d830dbda6e2c2d1fa82bac1b70bb",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "2年12月9日中市農地字第1020038747號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」尚無規定設施不得共用牆壁。本案仍請貴局就個案經營計畫,參依上開 辦法相關規定本權"
+  }
+ ]
+}

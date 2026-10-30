@@ -1,0 +1,110 @@
+{
+ "discovered_at": "2026-10-30T10:26:16+08:00",
+ "datasets": [
+  {
+   "unit_id": "801",
+   "title": "桃園區農業改良場品種研發成果",
+   "organ": "桃園區農業改良場",
+   "agency_id": "tydares",
+   "series": "品種研發成果"
+  },
+  {
+   "unit_id": "809",
+   "title": "桃園區農業改良場研究彙報",
+   "organ": "桃園區農業改良場",
+   "agency_id": "tydares",
+   "series": "研究彙報"
+  },
+  {
+   "unit_id": "D53",
+   "title": "臺中區農業改良場研究彙報",
+   "organ": "台中區農業改良場",
+   "agency_id": "tcdares",
+   "series": "研究彙報"
+  },
+  {
+   "unit_id": "D57",
+   "title": "臺中區農業改良場常見問答",
+   "organ": "台中區農業改良場",
+   "agency_id": "tcdares",
+   "series": "常見問答"
+  },
+  {
+   "unit_id": "D54",
+   "title": "臺中區農業改良場農業技術專刊",
+   "organ": "台中區農業改良場",
+   "agency_id": "tcdares",
+   "series": "農業技術專刊"
+  },
+  {
+   "unit_id": "740",
+   "title": "臺南區農業改良場技術專刊目錄",
+   "organ": "台南區農業改良場",
+   "agency_id": "tndais",
+   "series": "技術專刊目錄"
+  },
+  {
+   "unit_id": "107",
+   "title": "高雄區農業改良場休耕地復耕生產技術服務團名冊",
+   "organ": "高雄區農業改良場",
+   "agency_id": "kdais",
+   "series": "休耕地復耕生產技術服務團名冊"
+  },
+  {
+   "unit_id": "E17",
+   "title": "高雄區農業改良場研究彙報",
+   "organ": "高雄區農業改良場",
+   "agency_id": "kdais",
+   "series": "研究彙報"
+  },
+  {
+   "unit_id": "875",
+   "title": "高雄區農業改良場建場百週年紀念專刊",
+   "organ": "高雄區農業改良場",
+   "agency_id": "kdais",
+   "series": "建場百週年紀念專刊"
+  },
+  {
+   "unit_id": "115",
+   "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+   "organ": "高雄區農業改良場",
+   "agency_id": "kdais",
+   "series": "轄區常見農業相關問題(問答Q&A)"
+  },
+  {
+   "unit_id": "109",
+   "title": "高雄區農業改良場研發新技術轉移品項",
+   "organ": "高雄區農業改良場",
+   "agency_id": "kdais",
+   "series": "研發新技術轉移品項"
+  },
+  {
+   "unit_id": "B86",
+   "title": "臺東區農業改良場常見問答集",
+   "organ": "台東區農業改良場",
+   "agency_id": "ttdares",
+   "series": "常見問答集"
+  },
+  {
+   "unit_id": "D97",
+   "title": "臺東區農業改良場技術專刊",
+   "organ": "台東區農業改良場",
+   "agency_id": "ttdares",
+   "series": "技術專刊"
+  },
+  {
+   "unit_id": "B83",
+   "title": "臺東區農業改良場農情月刊",
+   "organ": "台東區農業改良場",
+   "agency_id": "ttdares",
+   "series": "農情月刊"
+  },
+  {
+   "unit_id": "B84",
+   "title": "臺東區農業改良場農業專訊",
+   "organ": "台東區農業改良場",
+   "agency_id": "ttdares",
+   "series": "農業專訊"
+  }
+ ]
+}

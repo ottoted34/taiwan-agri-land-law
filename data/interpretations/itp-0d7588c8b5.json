@@ -1,0 +1,66 @@
+{
+ "id": "itp-0d7588c8b5",
+ "doc_class": "interpretation",
+ "docno": "農企字第1040216415號",
+ "date": "2015-05-12",
+ "date_text": "104/5/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局函詢審查興建農舍申請人資格，涉及農業用地作農業使用證明書有效期限6個月審認疑義案，復請查照。",
+ "content": "一、復貴局104年5月5日桃農管字第1040010576號函。\n二、查農業用地作農業使用證明書(以下簡稱農用證明)係審認該申請之農業用地確作農業使用無誤，俾供持憑辦理申請稅賦減免優惠或興建自用農舍。參酌土地稅法第39條之3、遺產及贈與稅法第23條、第24條等對於土地移轉或贈與行為發生後1個月內申報、繼承開始後6個月內申報，以及行政程序法第51條人民申請案處理期限最多為4個月之規定，爰農業用地作農業使用認定及核發證明辦法第14條明定，農用證明之有效期限為6個月，業充分考量辦理各該業務之準備期限，尚屬妥適。\n三、至農用證明於有效期限內作為申辦前開稅賦減免或興建自用農舍之審認文件，即屬有效文件，無因稅賦或農舍受理審查機關之處理時間而致失效問題，故與農用證明之有效期限規定無涉。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3978",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:35+08:00",
+   "source_key": "rmis:3978"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4a97de62dd8545de5eb2156a41266b224909794e28873d3005973107dbd274a2",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "14",
+   "kind": "extracted",
+   "snippet": "及行政程序法第51條人民申請案處理期限最多為4個月之規定,爰農業用地作農業使用認定及核發證明辦法第14條明定,農用證明之有效期限為6個月,業充分考量辦理各該業務之準備期限,尚屬妥適。\n"
+  }
+ ]
+}

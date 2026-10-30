@@ -1,0 +1,64 @@
+{
+ "id": "itp-918b4e01f1",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040229462號",
+ "date": "2015-08-10",
+ "date_text": "104/8/10",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "貴府函有關申請興建農舍之土地取得時點疑義案，復請查照。",
+ "content": "一、復貴府104年7月30日府農管字第1040199436號函及貴府農業局104年7月29日桃農管字第1040017906號函。\n二、按農業發展條例第3條第11款規定，耕地係指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地，而依同條例第18條第3項後段「本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同」，其適用對象僅限前述之法定耕地範圍，先予敘明。\n三、有關非屬農業發展條例修正施行前取得之共有耕地，於修正施行後分割為單獨所有者，其土地取得時點認定，查行政院農業委員會前於102年2月26日農授水保字第1021804217號函釋有案(副本諒達)，請參照辦理。\n四、次按中央法規標準法第18條前段規定：「各機關受理人民聲請許可案件適用法規時，除依其性質應適用行為時之法規外，如在處理程序終結前，據以准許之法規有變更者，適用新法規。但舊法規有利於當事人而新法規未廢除或禁止所聲請之事項者，適用舊法規。」，經查都市計畫農業區田地目土地納屬耕地之規定於農業發展條例92年修正時已廢除，爰申請興建農舍應依現行規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3606",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:14+08:00",
+   "source_key": "rmis:3606"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "900a31ece624419381ae25563f38c30d5c4a582aecc3d47a054b6f890967d134",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "04年7月29日桃農管字第1040017906號函。\n二、按農業發展條例第3條第11款規定,耕地係指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "itp-d6d9a308b3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1010731431號",
+ "date": "2012-10-11",
+ "date_text": "101/10/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴縣民眾函詢新建農舍建築物地坪抬高是否需申請農業回填土疑義案，復請查照。",
+ "content": "一、復貴府101年8月14日府農保字第1010146647號函。\n二、本會相關函釋農業用地不得回填砂、石、磚、瓦、營建剩餘土石等或其他有害物質，主要係考量水土污染具傳導性，為確保農業生產環境，避免農地有遭受污染之虞而定。惟申請興建農舍農業用地經核准之興建農舍面積內，因需抬高地坪之填土，尚須考量農舍建築安全，應由直轄市、縣（市）政府綜合土地客觀環境，予以審酌有無填土必要性或填土物質、工法之安全性，請貴府會同建築主管單位在不影響農業生產環境及兼顧農舍建築安全原則下，依相關自治法規本於權責卓處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2882",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:51+08:00",
+   "source_key": "rmis:2882"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8afa40c6388f6dde4a3c153506df452db0bc198aa9ab1a419a8d645c4f193b76",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

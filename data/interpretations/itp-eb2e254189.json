@@ -1,0 +1,97 @@
+{
+ "id": "itp-eb2e254189",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971810518號",
+ "date": "2008-06-06",
+ "date_text": "97/6/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例修正施行後取得之共有農業用地申請興建農舍之申請人之資格審核等疑義案，復請查照。",
+ "content": "一、復 貴府97年6月2日北府農牧字第0970402551號函。\n二、農業用地興建農舍辦法第3條第1項及第3款明定，農業發展條例修正施行後取得之農業用地，申請興建農舍之該宗農業用地面積不得小於0.25公頃，此所稱「該宗」農業用地，係指土地登記之單一筆農業用地而言，合先敘明。\n三、以共有土地申請興建農舍者，依上開規定，該宗土地面積自不得小於0.25公頃，另共有人之一申請興建農舍，除其他共有人同意書外，應檢附分管契約，其可興建面積以其持分面積計算，並需興建在所分管土地範圍內，並未限制共有人之一申請興建農舍持分之農業用地面積需達0.25公頃。\n四、共有人之一申請興建農舍，應依本會96年3月14日農授水保字第0961848173號函送之共有農業用地申請興建農舍態樣一處理原則2辦理，其他共有人不得將其持分面積提供申請人計算建築面積，自無審查資格條件之疑慮。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2321",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:09+08:00",
+   "source_key": "rmis:2321"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4e6054dd4259964b7d3e95b2254711b15373bb32fa64d79bf708e26b9726ebb7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正施行後取得之共有農業用地申請興建農舍之申請人之資格審核等疑義案,復請查照。\n"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "府97年6月2日北府農牧字第0970402551號函。\n二、農業用地興建農舍辦法第3條第1項及第3款明定,農業發展條例修正施行後取得之農業用地,申請興建農舍之該宗農業"
+  }
+ ]
+}

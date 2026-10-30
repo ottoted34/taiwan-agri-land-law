@@ -1,0 +1,56 @@
+{
+ "id": "itp-d2ec5b4c66",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080732993號",
+ "date": "2019-12-02",
+ "date_text": "108/12/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府所詢夫妻分別申請興建農舍疑義案，復如說明，請查照。",
+ "content": "一、復貴府 108年11月19日府農務字第 1080398812號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業用地興建農舍辦法第 2條第 2項規定，申請人應檢附經營計畫書，該計畫書應敘明興建農舍之需求，又依據民法第 1001條規定：「夫妻互負同居之義務。但有不能同居之正當理由者，不在此限。」，本案申請人是否有興建農舍之必要，貴府得由申請人之現居住地及夫妻互負同居義務之條件本於職權覈實審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4726",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:37+08:00",
+   "source_key": "rmis:4726"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "66ac17fa765db64e7dda35174d7f083691b0a7b4e1fbcc12a175e2ae63e67cb5",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法第 2條第 2項規定,申請人應檢附經營計畫書,該計畫書應敘明興建農舍之需求,又依據民法第"
+  }
+ ]
+}

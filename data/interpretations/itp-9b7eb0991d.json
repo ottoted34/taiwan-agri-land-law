@@ -1,0 +1,65 @@
+{
+ "id": "itp-9b7eb0991d",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030060910號",
+ "date": "2014-09-19",
+ "date_text": "103/9/19",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關函請本署就依民宿管理辦法登記為民宿之農舍設置溫泉井疑義提供意見1案，復請查照。",
+ "content": "一、依據大會103年9月10日農輔字第1030229727號函辦理。\n二、依農業發展條例第18條規定，農業用地興建農舍應不影響農業生產環境及農村發展，故農舍之興建及其是否確供農業使用，與農業用地管理政策密不可分。另依大會歷來就農業發展條例所揭示「農舍」之定義「農舍係與農業經營不可分離之建築物」，先予敘明。\n三、有關依法登記為民宿之農舍設置溫泉井及溫泉儲槽得否視為農舍之附屬設施，因涉及有無違反農舍與農業經營不可分離之立法目的及上開農業發展條例立法意旨，仍請依大會水土保持局意見辦理。\n四、副本抄送本部地政司(檢附首揭函及附件影本一份)，請就本案涉及非都市土地容許使用規定部分卓處逕復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3829",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:34+08:00",
+   "source_key": "rmis:3829"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d4109cb87c6fbbd2ce6ad0f175415ab4199d6669e2323f597f8c23a731a2ce32",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "3年9月10日農輔字第1030229727號函辦理。\n二、依農業發展條例第18條規定,農業用地興建農舍應不影響農業生產環境及農村發展,故農舍之興建及其是否確供農"
+  }
+ ]
+}

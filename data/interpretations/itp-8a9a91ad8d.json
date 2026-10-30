@@ -1,0 +1,48 @@
+{
+ "id": "itp-8a9a91ad8d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070204127號",
+ "date": "2018-02-01",
+ "date_text": "107/2/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋各縣市府依產業創新條例核定設置產業園區因全區廢止退還回饋金事宜",
+ "content": "主旨：有關依產業創新條例核定設置之產業園區因全區廢止，退還已繳交回饋金一案，涉及核退撥交至農業發展基金之回饋金1/2事宜，請依經濟部107年1月25日經授工字第10620434910號函示配合辦理，請查照。\n說明：依據經濟部107年1月25日經授工字第10620434910號函辦理，隨文檢附來函及其附件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5481",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:37+08:00",
+   "source_key": "rmis:5481"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f57ad39f16f602cf3f686f4d9b8d6244a2a86c522fb6f90a195b9182948f20b8",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-285167951e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980146095號",
+ "date": "2009-08-04",
+ "date_text": "98/8/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關祭祀公業土地承租人於承租之農業用地上申請農業設施之容許使用，倘該祭祀公業土地並未訂章程，得否由管理人出具土地使用同意書，而免再依土地法第34條之1規定辦理之疑義案。",
+ "content": "主旨：有關 貴府再次函詢祭祀公業土地承租人於承租之農業用地上申請農業設施之容許使用，倘該祭祀公業土地並未訂章程，得否由管理人出具土地使用同意書，而免再依土地法第34條之1規定辦理之疑義案，復請 查照。\n說明：\n一、貴府○年○月○日屏府農畜字第○○○○○號函。\n二、有關祭祀公業農業用地申請農業設施，查本會業於98年7月21日農企字第0980140684號函說明：「鑑於祭祀公業土地產權複雜，且已有祭祀公業條例特別規範，對於祭祀公業之農業用地，如有申請興建農業設施之需求，且該行為經認係符合章程規定或屬農業用地之利用及改良行為，為管理人對祭祀公業法人財產管理範圍，申請農業設施之容許使用時，經申請人檢附祭祀公業管理人出具之土地使用同意書，免再依土地法第34條之1規定辦理。」有案。是以，如該祭祀公業農業用地無訂定章程，且該農業設施之申請，係屬依法應申請建築執照者，無法認屬符合祭祀公業條例第36條規定，僅得為保全及以利用或改良為目的之行為者，自應依上揭函釋說明二，請申請人檢附全數共有人之土地使用同意書，或依土地法第34條之1規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5364",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:56+08:00",
+   "source_key": "rmis:5364"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e33e031ca866868f83ba5a83c1a94fbc8996b16f7c603213e42d2abe2ff65a55",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

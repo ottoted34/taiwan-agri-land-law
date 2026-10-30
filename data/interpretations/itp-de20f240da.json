@@ -1,0 +1,71 @@
+{
+ "id": "itp-de20f240da",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030702763號",
+ "date": "2014-01-29",
+ "date_text": "103/1/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關坐落於都市計畫住宅區之建物(農舍)是否須與其坐落土地併同移轉一案，復請查照。",
+ "content": "一、復貴處103年1月17日南院崑102司執實字第103196號函。\n二、按本會98年12月10日農授水保字第0981843635號函(如附)略以：「...原申請農舍之農業用地若經變更使用分區為住宅區，其已非屬農業發展條例及農業用地興建農舍辦法管轄範疇，其移轉自不受農業發展條例之限制。」，爰本案請依本會前揭號函辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3814",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:28+08:00",
+   "source_key": "rmis:3814"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b1d0434d07a69736dee206ca1ed0686bfaf954c9f91c1a2da8b0815b8191c9b9",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "...原申請農舍之農業用地若經變更使用分區為住宅區,其已非屬農業發展條例及農業用地興建農舍辦法管轄範疇,其移轉自不受農業發展條例之限制。」,爰本案請依本"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍之農業用地若經變更使用分區為住宅區,其已非屬農業發展條例及農業用地興建農舍辦法管轄範疇,其移轉自不受農業發展條例之限制。」,爰本案請依本會前揭號函辦理。"
+  }
+ ]
+}

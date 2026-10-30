@@ -1,0 +1,96 @@
+{
+ "id": "itp-35f365ecfc",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1040222992號",
+ "date": "2015-08-20",
+ "date_text": "104/8/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為集村農舍配合耕地是否可申請休閒農場疑義案，復請查照。",
+ "content": "一、復貴府104年6月16日府農輔字第1040155545號函。\n二、休閒農業輔導管理辦法及農業用地興建農舍辦法未限制已興建農舍之農業用地不得申請納入休閒農場籌設範圍，惟對於休閒農場之申請人或經營主體，若非農舍或其坐落土地之所有權人，乃以承租配合耕地方式申請，將與農舍須為自用原則之立法精神有違。\n三、次按農業用地上得興建農舍之立法意旨，係與農業經營不可分離，而集村興建農舍，係參酌引用土地發展權觀念，使所有權人間之土地使用權利，得透過農業用地興建農舍辦法之設計機制進行交換移轉以集中興建，達到保護農業生產環境與確保生活品質之目的，故農舍與其配合耕地之使用應有密不可分之關聯性。因此，農舍應與其配合耕地併同處理，並無配合耕地可單獨作為處分、變更、設定等管理之標的，此亦為農業發展條例第18條第5項所明定。\n四、綜上，集村農舍之坐落基地與配合耕地既具密不可分之關連性，應併同處理，故若非位於同一區域，並未符休閒農業輔導管理辦法第10條第1項第3款所定設置休閒農場之條件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3600",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:07+08:00",
+   "source_key": "rmis:3600"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": "10",
+    "amended_on": "2018-05-18",
+    "history": "中華民國107年05月18日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": "10",
+    "amended_on": "2020-07-10",
+    "history": "中華民國109年07月10日行政院農業委員會農輔字第 1090023080A 號令修正發布第 10、14、19、20、24、25、27、29、43、44 條條文，並增訂第 39-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "905bbe8909f3f4ad088f8d7ca5090d10061c6c9e304443e68c8d598d1badad60",
+ "topics": [
+  "farmhouse",
+  "leisure",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "輔字第1040155545號函。\n二、休閒農業輔導管理辦法及農業用地興建農舍辦法未限制已興建農舍之農業用地不得申請納入休閒農場籌設範圍,惟對於休閒農場之申請人或"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ",並無配合耕地可單獨作為處分、變更、設定等管理之標的,此亦為農業發展條例第18條第5項所明定。\n四、綜上,集村農舍之坐落基地與配合耕地既具密不可分之關連性,應併"
+  },
+  {
+   "law_id": "RMIS-2002",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "既具密不可分之關連性,應併同處理,故若非位於同一區域,並未符休閒農業輔導管理辦法第10條第1項第3款所定設置休閒農場之條件。"
+  }
+ ]
+}

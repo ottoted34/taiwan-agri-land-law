@@ -1,0 +1,54 @@
+{
+ "id": "itp-6a1e7b4467",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051806658號",
+ "date": "2016-06-16",
+ "date_text": "105/6/16",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函詢為農業用地興建農舍辦法第3條之1證明文件之審查疑義案，復請查照。",
+ "content": "一、復貴府105年6月2日府農務二字第1052512052號函。\n二、旨揭證明文件審查疑義，本局刻正審慎研議中，俟獲具體結論後另行函復。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3247",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:02+08:00",
+   "source_key": "rmis:3247"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "68ca01662d115292d29cec83f1aa258c22e641f56fb8b5294b772e88ce17f4d4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "有關貴府函詢為農業用地興建農舍辦法第3條之1證明文件之審查疑義案,復請查照。\n一、復貴府105年6月2日府農務二字第1052"
+  }
+ ]
+}

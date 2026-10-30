@@ -1,0 +1,55 @@
+{
+ "id": "itp-16abe49c2d",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041891882號",
+ "date": "2016-01-08",
+ "date_text": "105/1/8",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "貴府函為農業用地興建農舍資格審查執行疑義案，復請查照。",
+ "content": "一、復貴府104年12月21日府農農字第1040266342號函。\n二、有關興建農舍經營計畫書審查項目「經營現況」應敘明過去2年內經營實績、現況情形及提出相關照片，其目的在於要求申請人應有2年實際從事農業事實，確保該農舍為配合於農業用地上從事農業活動所需而興建，爰請貴府仍應查核申請人於該地是否具有2年實際從事農業之事實。至於經營計畫書內有關經營規模一節，農舍係與農業經營不可分離之構造物，是以申請興建農舍之農業用地應以積極利用為目的，倘維持原始林貌者，則須以該農業用地是否有供森林經營使用(如造林、撫育等利用行為)及前述積極利用之意旨為判斷依據。\n三、另外，所謂農業，按其意旨，係以農為業，無分專業農或兼業農，而自給自足者得否認定以農為業則不無疑義，然目前規定並無限制自給自足者不得申請興建農舍，惟貴府得由申請人有無興建農舍之需求及必要性進行審查。\n四、農業用地興建農舍辦法於104年9月4日修正，請貴府蒐集實務執行上所遇困難、問題及建議，本局將擇期邀請直轄市、縣(市)政府召開座談討論。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4006",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:58+08:00",
+   "source_key": "rmis:4006"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1b94246202bdbc85359c34a5266a18bc1d2d0328678ad6807e1c71fcbd6cb728",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",惟貴府得由申請人有無興建農舍之需求及必要性進行審查。\n四、農業用地興建農舍辦法於104年9月4日修正,請貴府蒐集實務執行上所遇困難、問題及建議,本局將擇期邀請"
+  }
+ ]
+}

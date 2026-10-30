@@ -1,0 +1,74 @@
+{
+ "id": "itp-466a2475b1",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1020062451號",
+ "date": "2013-09-26",
+ "date_text": "102/9/26",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關○○○函為農業用地興建農舍辦法第12條第3項規定疑義一案，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局102年9月17日水保農字第1020729136號函(如附件)轉○○○申請書辦理。\n二、按「......已申請興建農舍領有使用執照之農業用地經套繪管制，除符合下情形之一者外，不得解除:......三、農舍用地面積與農業用地面積比例符合法令規定，經依變更使用執照程序申請解除套繪管制後，該農業用地面積仍達零點二五公頃以上。前項第三款農舍坐落該筆農業用地面積大於零點二五公頃，且二者面積比例符合法令規定，其餘超出規定比例部分之農業用地得免經其他土地所有權人之同意，逕依變更使用執照程序解除套繪管制。......」農業用地興建農舍辦法第12條已有明文，次按「本辦法第12條第2項規定:『已申請興建農舍之農業用地，......未經解除套繪管制不得辦理分割。』係針對已興建農舍之農業用地所為之管制事項，是不論取得農業用地時點在本條例修正前、後，申請興建農舍時點在本辦法修正前、後均受本辦法第12條第2項之限制」，本署102年9月16日營署建管字第1020060150號函已有明示，至本案位於貴府轄內之農舍申請解除套繪管制事宜，因涉個案事實認定，係屬貴管，移請查明卓處逕復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3305",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:24+08:00",
+   "source_key": "rmis:3305"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "12",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "7412512196a2ab197a6affd8c129721532e5dba4dddaa8ca2cb8c34b7f9653fd",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "有關○○○函為農業用地興建農舍辦法第12條第3項規定疑義一案,請查照。\n一、依據行政院農業委員會水土保持局102年9月17"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": "itp-71476baf94",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1041866407號",
+ "date": "2015-08-31",
+ "date_text": "104/8/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關「農業用地興建農舍辦法」第2條、第3條之1、第16條之1條文修正草案，復請查照。",
+ "content": "一、復貴部104年8月31日台內營字第1040813511號函。\n二、為旨揭修正草案預告期間，各界質疑第16條之1農舍移轉承受人資格之規定有逾越法律授權疑義，本會為求周延，爰調整旨揭修正草案如附，並刪除原先之第16條之1增修條文。\n三、又農舍移轉承受人資格之訂定係為導正農舍濫建、炒作亂象之措施，有其必要性與急迫性，爰本會將另案辦理農業發展條例修正案，增訂農舍承受人資格。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4065",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:52+08:00",
+   "source_key": "rmis:4065"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "8df0c5a4176e429215e56cdde04f0e2befa493636861c7f64e60d28722c5dfd9",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "有關「農業用地興建農舍辦法」第2條、第3條之1、第16條之1條文修正草案,復請查照。\n一、復貴部104年8月31日"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍濫建、炒作亂象之措施,有其必要性與急迫性,爰本會將另案辦理農業發展條例修正案,增訂農舍承受人資格。"
+  }
+ ]
+}

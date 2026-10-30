@@ -1,0 +1,80 @@
+{
+ "id": "itp-c48c35f407",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010107706號",
+ "date": "2012-05-11",
+ "date_text": "101/5/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「農業發展條例」暨「申請農業用地作農業設施容許使用審查辦法」之農業使用審認疑義案。",
+ "content": "主旨：有關　貴府函詢「農業發展條例」暨「申請農業用地作農業設施容許使用審查辦法」之農業使用審認疑義案，復請　查照。\n說明：\n一、復　貴府101年4月27日府農企字第1010055632號函。\n二、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」故農業用地申請興建農業設施，均需實際供與農業使用相關者。本會並依據農業發展條例第8條之1訂定之「申請農業用地作農業設施容許使用審查辦法」，據以執行。\n三、按前開辦法於審查農業設施容許使用申請案件時，應考量申請農業設施之使用性質、當地農業經營發展、設施與農業生產經營之必要性及合理性，視個案實務予以審認，例如溫室、網室、育苗作業室等設施，係直接供農業生產使用所需，須經依法興建完成，始能於設施內部進行農業生產利用，其設施容許使用之准駁自須依其生產計畫與該設施是否為農業生產經營之設置需求予以審定，又其興建完成後，倘確依計畫用途使用，始得符合農業使用之認定；至如集貨運銷處理室、農產品加工室、農業資材室等設施，係為輔助農業生產之經營管理所需，則須基於農業生產之事實，始有輔助經營管理需求而附屬設置相關設施之必要。是以，仍請 貴府依上開原則就申請農業設施之使用性質，視個案實情予以核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5110",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:42+08:00",
+   "source_key": "rmis:5110"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "194845f26472b02c78e46623d3b681b6eb20f73ca84731c396dd27c82d470543",
+ "topics": [
+  "material_room",
+  "greenhouse",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「農業發展條例」暨「申請農業用地作農業設施容許使用審查辦法」之農業使用審認疑義案。\n主旨:有關 貴府函詢「農業發展條例」暨「申請農業用地作農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "01年4月27日府農企字第1010055632號函。\n二、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "用地申請興建農業設施,均需實際供與農業使用相關者。本會並依據農業發展條例第8條之1訂定之「申請農業用地作農業設施容許使用審查辦法」,據以執行。\n三、按前開辦法於審"
+  }
+ ]
+}

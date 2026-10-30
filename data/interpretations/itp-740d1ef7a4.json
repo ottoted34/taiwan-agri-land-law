@@ -1,0 +1,48 @@
+{
+ "id": "itp-740d1ef7a4",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1030711090號",
+ "date": "2014-04-24",
+ "date_text": "103/4/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "可否變更農舍用途，並增建農作產銷設施「農業生產設施-菇類栽培場」使用案。",
+ "content": "主旨：有關貴府函詢可否變更農舍用途，並增建農作產銷設施「農業生產設施-菇類栽培場」使用案，復請查照。\n說明：\n一、復貴府103年4月7日府授農地字第1030062395號函。\n二、有關申請人擬將原有農舍變更為農業設施並增建作為菇類栽培場使用一節，查類案本會業以97年5月27日農企字第0970010742號函釋(正本諒達)在案，請貴府依上開函釋規定辦理。本案倘該農舍依法獲准變更為農業設施，應請申請人後續應變更其農舍使用執照用途別。\n三、另接菌、養菌等作業係屬菇類栽培之一環，申請人擬依生產需要，以獨棟建築申請菇類栽培場作為操作場、接菌室、養菌室使用，本會無意見。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4911",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:11+08:00",
+   "source_key": "rmis:4911"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "22fe36f4a7182ce7e0f82bd23e5ed9b249556cf8474c593c6dd8739c4d985e94",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

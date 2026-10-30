@@ -1,0 +1,54 @@
+{
+ "id": "itp-9232c5f8c2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041889345號",
+ "date": "2015-11-09",
+ "date_text": "104/11/9",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局函為辦理○○○申請興建農舍資格審查涉土地取得時點一案，復請查照。",
+ "content": "一、復貴局104年11月3日中市農地字第1040037046號。\n二、貴局所詢問題涉及農業發展條例89年1月28日修正施行前之多筆共有耕地，而於修正施行後就其持分部分分割合併為單獨所有者，農委會目前刻正就是類分割情形，依政策、法律及實務各面向進行評估，於定案後將以通令函各直轄市、縣(市)，請俟結果再行辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4002",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:53+08:00",
+   "source_key": "rmis:4002"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "549405732359e704ffd88d264dab913d5495a27547e84899820db0b5ea7c5e55",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "日中市農地字第1040037046號。\n二、貴局所詢問題涉及農業發展條例89年1月28日修正施行前之多筆共有耕地,而於修正施行後就其持分部分分割合併為單"
+  }
+ ]
+}

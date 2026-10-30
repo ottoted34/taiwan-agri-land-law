@@ -1,0 +1,73 @@
+{
+ "id": "itp-52151b6b5f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010727648號",
+ "date": "2012-07-30",
+ "date_text": "101/7/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋示原農業用地涉及違規使用，經合併分割登記完畢之多筆新地號，倘符合作農業使用認定基準，得否核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關 貴府函請釋示原農業用地涉及違規使用，經合併分割登記完畢之多筆新地號，倘符合作農業使用認定基準，得否核發農業用地作農業使用證明書疑義案，復請 查照。\n說明：\n一、復 貴府101年7月9日府農農字第1010131392號函。\n二、依「農業用地作農業使用認定及核發證明辦法」第9條第1項規定，申請核發農業用地作農業使用證明書應檢具之文件資料包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」，俾據以查核所申請之土地是否作農業使用。又上開證明書之審核係以申請之土地會勘當時認定現場情形，是否符合作農業使用之認定基準，以作為准駁之依據，至該土地是否為違規使用裁處之標的，尚非上開辦法明定應予審認之條件，故 貴府倘有疑慮，建議於該證明書核發之正式函文內載明，不得據以對抗已有違規使用裁處之行政處分等內容，詳實文字可洽請 貴府法制單位協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5565",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:14+08:00",
+   "source_key": "rmis:5565"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "9",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "20fa6bc216edaa14ebeae29145a8793d41c6e63feded36482469e531ecd72696",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "101年7月9日府農農字第1010131392號函。\n二、依「農業用地作農業使用認定及核發證明辦法」第9條第1項規定,申請核發農業用地作農業使用證明書應檢具之文件資料包括「最近一個月內核"
+  }
+ ]
+}

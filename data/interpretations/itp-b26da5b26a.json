@@ -1,0 +1,61 @@
+{
+ "id": "itp-b26da5b26a",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110207932號",
+ "date": "2022-03-14",
+ "date_text": "111/3/14",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "已興建農舍之農牧用地得否設定不動產役權供毗鄰土地通行使用疑義案",
+ "content": "主旨：有關所詢已興建農舍之農牧用地，得否設定不動產役權供毗鄰甲種建築用地通行使用疑義一案，復如說明，請查照。\n說明：\n一、復貴部111年2月24日台內地字第1110260915號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，其整筆農業用地均須以自用為原則，不得有部分土地供他人使用之情形，先予敘明。\n三、經查本會108年8月7日農企字第1080226054號函(副本諒達)已說明不動產役權之設定，與農舍或農業設施之持有須有從事農業經營事實及供自用之原則有別，爰無論農業發展條例89年1月28日修正前或後取得農業用地申請興建農舍之農業用地，自應依農業發展條例第18條及農業用地興建農舍辦法第2條第1項第5款規定，確實供農業使用與不影響農業生產環境及農村發展，並無疑義，倘允其該項權利設定，有違上開規定之立法意旨。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5913",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:51:21+08:00",
+   "source_key": "rmis:5913"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f1f0ba9a5ad648d853a954111e6ab19df1250cbdee855fb51407aa69616f5408",
+ "topics": [
+  "partial_use",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "月28日修正前或後取得農業用地申請興建農舍之農業用地,自應依農業發展條例第18條及農業用地興建農舍辦法第2條第1項第5款規定,確實供農業使用與不影響農業生產環境"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農業用地申請興建農舍之農業用地,自應依農業發展條例第18條及農業用地興建農舍辦法第2條第1項第5款規定,確實供農業使用與不影響農業生產環境及農村發展,並無疑義,倘允其"
+  }
+ ]
+}

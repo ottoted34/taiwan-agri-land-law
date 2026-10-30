@@ -1,0 +1,73 @@
+{
+ "id": "itp-7860e66549",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021801291號",
+ "date": "2013-02-21",
+ "date_text": "102/2/21",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴園計畫特別景觀區之耕地，因國家公園計畫通盤檢討變更為一般管制區農業用地，該土地申請興建農舍是否受0.25公頃面積之限制案，復請查照。",
+ "content": "一、復貴處102年1月14日墾企字第1022900085號函。\n二、按行政院農業委員會101年6月29日農水保字第1011865000號令核釋「有關『農業發展條例』第十八條所稱取得農業用地，應以土地登記簿所有權部認定之，其土地取得時點除民法第七百五十九條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準。與前開意旨未符之相關函釋，自即日停止適用。」，爰申請興建農舍農業用地其取得時點認定請依前開號令辦理。惟若屬農業發展條例（以下簡稱本條例）89年1月28日修正施行前取得之共有耕地於修正施行後分割為單獨所有，得依本條例第18條第3項規定申請興建農舍。\n三、次按本條例於92年2月7日修正第3條第11款耕地之定義，將「國家公園區內，依國家公園法劃定之分區別及使用性質，經該法主管機關會同有關機關認定屬田、旱地目之土地」改列為「耕地以外之農業用地」，而本案土地屬國家公園區，非屬本條例規定之耕地範圍，自難謂為本條例第18條第3項後段所稱修正施行前取得之共有耕地。爰本案土地申請興建農舍，其取得時點請依本會上開號令辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2891",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:44+08:00",
+   "source_key": "rmis:2891"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "a5ddd396f952e89a6d7925e7523511cee3c0b9593648c31f211446906b14ba28",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "01年6月29日農水保字第1011865000號令核釋「有關『農業發展條例』第十八條所稱取得農業用地,應以土地登記簿所有權部認定之,其土地取得時點除民法第七百五十九"
+  }
+ ]
+}

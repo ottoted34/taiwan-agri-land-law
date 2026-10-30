@@ -1,0 +1,62 @@
+{
+ "id": "itp-a8888932d7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090234744號",
+ "date": "2020-08-18",
+ "date_text": "109/8/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農地因政府辦理公共工程逕為分割致使條件改變而影響申請興建農舍疑義案",
+ "content": "一、復貴府 109年8月10日府農務字第 1090130431號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業用地興建農舍辦法(以下簡稱本辦法)第 2條第 1項第 3款規定：「申請興建農舍之該筆農業用地面積不得小於 0.25公頃．．．」。所稱「該筆」，係指單一筆地號，且面積須超過 0.25公頃，並不得以多筆相毗鄰地號面積合併計算，爰無論係農業發展條例 89年1月28日修正前或後取得農業用地申請興建農舍者，均僅能以單一筆地號申請，不得多筆土地合併計算，惟倘為修正施行前取得農業用地者，始有不受面積須達 0.25公頃之限制。又查本辦法第第 9條第 2項規定略以：「(第 3款)申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積 10%，．．．供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積 90%。．．．(第 6款)同一筆農業用地僅能申請興建一棟農舍，．．．且農舍建築面積應超過 45平方公尺。」，爰農舍用地面積不得超過該農業用地面積 10%，且農舍建築面積應超過 45平方公尺。\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，請貴府參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4745",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:07+08:00",
+   "source_key": "rmis:4745"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2b170373e7314851cb04c83e057c6d5534fc39edc2c2568648a94582f7522c24",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "許可之行為,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法(以下簡稱本辦法)第 2條第 1項第 3款規定:「申請興建農舍之該筆農業用地面積"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": " 0.25公頃,並不得以多筆相毗鄰地號面積合併計算,爰無論係農業發展條例 89年1月28日修正前或後取得農業用地申請興建農舍者,均僅能以單一筆地號申請,"
+  }
+ ]
+}

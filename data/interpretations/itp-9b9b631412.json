@@ -1,0 +1,48 @@
+{
+ "id": "itp-9b9b631412",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041891557號",
+ "date": "2016-01-11",
+ "date_text": "105/1/11",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局受理民眾申請農舍申請人資格審查，所涉經營計劃書及檢附農業生產相關佐證資料審查疑義案，復請查照。",
+ "content": "一、復貴局104年12月15日北市產業農字第10434166720號函。\n二、查行政院農業委員會104年10月21日農水保字第1041866479號函釋申請人應檢附申請日往前至少二年內每年之農業生產佐證資料，所稱二年係指申請日回溯達二年之日曆天期間。\n三、次查行政院農業委員會上開號函就申請人檢附之「銷售自產農產品相關證明文件或單據」，並未排除以申請人自填之農民出售農產物收據。惟貴局可對應申請人經營計畫書說明之既有農業經營現況及規模，併專家學者實地會勘情形，查核申請人檢附之「銷售自產農產品相關證明文件或單據」所列之農產種類、數量是否與前開資料相當，亦得參考部分縣市政府作法，就相關證明文件或單據之買受關係人進行簡易查證。\n四、至有關得否以農作物遺失警局報案聯單作為其他從事農業生產事實之證明文件，缺乏可供查證之內容，不宜作為其他證明文件。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4080",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:52+08:00",
+   "source_key": "rmis:4080"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f1a8bd2fe63d1ee27ac0319977b4493a973a8ee9709a95adf23ae972917722b7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "itp-e897393962",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150228130號",
+ "date": "2026-07-10",
+ "date_text": "115/7/10",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關配合行政院重啟公地放領政策之國有出租農牧(養殖)用地補辦農業設施容許使用事宜，請依說明事項配合辦理並轉知轄內公所，請查照。",
+ "content": "一、依據申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第4條第5款規定，申請農業設施容許使用之農業用地非申請人單獨所有者，應檢附土地使用同意書，向土地所在地之直轄市或縣（市）主管機關提出。\n二、復配合行政院重啟公地放領政策，針對國產署經管已出租之國有農牧(養殖)用地，前開號函表示，經內政部公地放領審議會審議原則同意放領，並經財政部完成處分程序，地方政府於公告放領後通知承租人辦理現場調查時，倘認定該土地上有未依容許辦法取得容許使用同意書之農業相關設施者，國產署通案同意承租人免向該署各分署(辦事處)申請發給土地同意使用證明書，而得由承租人依容許辦法逕向地方政府農業主管機關提出補辦農業設施容許使用之申請。\n三、綜上，針對配合公地放領政策之國有已出租農牧(養殖)用地，補辦申請農業設施容許使用，免檢附國產署出具之土地同意使用證明部分，請貴府依前開原則及容許辦法，就是類申請案件予以協處，以加速公地放領作業時程。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6070",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:35+08:00",
+   "source_key": "rmis:6070"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "346c72fcce2b8678d7a461fce52fb0eed9841a73b99d9a44fb93600ce0b4bd64",
+ "topics": [
+  "facility_use",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "事宜,請依說明事項配合辦理並轉知轄內公所,請查照。\n一、依據申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第4條第5款規定,申請農業設施容許使用之農業用地非申請人單獨所有"
+  }
+ ]
+}

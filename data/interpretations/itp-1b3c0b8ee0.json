@@ -1,0 +1,55 @@
+{
+ "id": "itp-1b3c0b8ee0",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1020244490號",
+ "date": "2014-01-22",
+ "date_text": "103/1/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "大雅區公所函詢申請農業資材室、乾燥處理設施及農機具室等3種設施可否合併興建於一棟農業設施案。",
+ "content": "主旨：為貴市大雅區公所函詢申請農業資材室、乾燥處理設施及農機具室等3種設施可否合併興建於一棟農業設施案，復請查照。\n說明：\n一、復貴局102年12月23日中市農地字第1020040567號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)尚無限制各項設施不得合併興建於同一棟建築物之規範，惟申請合併興建於同一棟建築物，雖其各項設施之興建面積得合併加總計算，但受理審查單位仍應就各項設施之功能用途是否重疊，有無合併申設之需要，依個案經營計畫之必要性及合理性，予以核處。\n三、另查容許辦法第13條附表1尚無旨揭設施項目之高度規定，是以，仍應回歸依容許辦法第8條規定，其高度不得超過14公尺。至所涉貴市訂定之「臺中市農業設施高度及樓層審查基準」審查疑義一節，允由貴局依個案申請設施高度之合理性，本權責裁量核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5524",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:34+08:00",
+   "source_key": "rmis:5524"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1e763521c736e2c6f64bbbf46e67c96c29af1f34a4de42620f970ec69980eca4",
+ "topics": [
+  "material_room",
+  "machinery_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年12月23日中市農地字第1020040567號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)尚無限制各項設施不得合併興建於同一棟建築物之規範,惟申請合併"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-4127d5a45c",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051806141號",
+ "date": "2016-06-22",
+ "date_text": "105/6/22",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾函詢農舍用地範圍內補辦雜項工作物圍牆建照執照，是否需辦理興建農舍資格審查疑義案，復請查照。",
+ "content": "一、復貴府農業局105年5月24日南市農工字第1050524310號函。\n二、依據農業用地興建農舍辦法第9條第2項第6款規定略以：「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，且農舍建築面積應超過45平方公尺。...」，先予敘明，請貴府先行釐清。\n三、本案已取得農舍使用執照在案，爰除上開規定外，得否補辦雜項工作物(圍牆)建照執照，自應由貴府依其相關規定予以卓處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4227",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:01+08:00",
+   "source_key": "rmis:4227"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "dd5b47037add84df77f6b250b48dcce1661247d2adf8e21a131d215960c54463",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "年5月24日南市農工字第1050524310號函。\n二、依據農業用地興建農舍辦法第9條第2項第6款規定略以:「同一筆農業用地僅能申請興建一棟農舍,採分期興建方式辦理者"
+  }
+ ]
+}

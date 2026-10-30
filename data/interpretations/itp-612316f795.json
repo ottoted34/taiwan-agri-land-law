@@ -1,0 +1,64 @@
+{
+ "id": "itp-612316f795",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020220526號",
+ "date": "2013-07-29",
+ "date_text": "102/7/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關宜蘭縣蘭陽平原之農舍家庭污水影響農業生產環境問題一案，復請查照。",
+ "content": "一、復貴署102年6月21日環署水字第1020052871B號函。\n二、按目前農舍放流水排入農田水利會所轄「灌排系統」之管理方式，係依農舍放流水排入渠道屬性，訂定不同之水質要求，排入灌排兼用或迴歸利用渠道者。(尚有灌溉用途之渠道)，需符合「灌溉用水水質標準」，排入「農田排水」者，需符合「放流水標準」。\n三、又為導正農業用地興建農舍執行上之偏差，內政部與本會修正「農業用地興建農舍辦法」，甫於102年7月1日發布施行，本次修法為避免農舍放流水影響農業生產環境，加強農舍放流水管制，業依水污染防制法第7條第1項意旨修正本辦法第9條第2項第5款規定略以：「農舍之放流水應符合放流水標準，並排入排水溝渠，放流水流經屬灌排系統...，並應符合下列規定：排入灌排系統者，應經該管理機關(構)同意及水利主管機關核准...。」。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3692",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:03+08:00",
+   "source_key": "rmis:3692"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d09c58f69896350cb475d6a4bc195c1e206d09dbbb78abf28075f2bca9b5c8e0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "\n三、又為導正農業用地興建農舍執行上之偏差,內政部與本會修正「農業用地興建農舍辦法」,甫於102年7月1日發布施行,本次修法為避免農舍放流水影響農業生產環境,加強農"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "id": "itp-979263c8e2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000148141號",
+ "date": "2011-08-24",
+ "date_text": "100/8/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「申請農業用地作農業設施容許使用審查辦法」規定農業設施「興建面積」之計算",
+ "content": "主旨：有關 貴府函詢「申請農業用地作農業設施容許使用審查辦法」規定農業設施「興建面積」之計算疑義案，復請 查照。\n說明：\n一、復 貴府100年7月28日屏府農務字第1000192985號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第25條規定：「依本辦法取得同意容許使用之農業設施，依建築相關法令規定須申請建築執照者，應於六個月內向建築主管機關提出申請。」是以，農業設施容許使用同意書核准農業設施興建面積之計算方式，應依建築相關法令予以計算，俾利於行政管理及勾稽。\n三、本案農業設施依 貴府傳真檢附之陳情資料所示，係財政部國有財產局所屬機關經管之國有土地，查該局主管法規對於出租耕地同意興建農業設施之面積認定原則另有規範，陳情人就上開土地倘有疑義，建議宜洽國有財產局核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5467",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:42+08:00",
+   "source_key": "rmis:5467"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "25",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "25",
+    "amended_on": "2020-11-12",
+    "history": "中華民國109年11月12日行政院農業委員會農企字第1090013497A號令修正發布第25、29條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "e09d844272e9cf65bc7dc8cab3370dcf98d983693fc48df18761ad17edf4de01",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "25",
+   "kind": "extracted",
+   "snippet": "0年7月28日屏府農務字第1000192985號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第25條規定:「依本辦法取得同意容許使用之農業設施,依建築相關法令規定須申請建築執照者,"
+  }
+ ]
+}

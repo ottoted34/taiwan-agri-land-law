@@ -1,0 +1,48 @@
+{
+ "id": "itp-7ebdf7aa27",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110238044號",
+ "date": "2022-09-06",
+ "date_text": "111/9/6",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "申請興建農舍之農地與道路間夾雜其他土地之審查疑義案",
+ "content": "主旨：有關申請興建農舍之農業用地與道路間夾雜其他土地之審查疑義案，復如說明，請查照。\n說明：\n一、復貴府111年8月24日府農農字第1110154408號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、有關「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性」所指之「道路」，本會前於107年7月26日農企字第1070012917號、108年1月16日農企字第1070253990號、108年5月6日農企字第1080206692號函(諒達)說明在案，該道路係以「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」並採認「成立公用地役關係之既成道路」，又倘農地現況有農田灌溉、排水路沿上開道路設置，且道路與農舍用地僅間隔水路者，得視為臨接道路之審認原則，先予敘明。\n四、基於農舍之審認尚須依現況事實認定，故本案依貴府陳述，申請興建農舍之農業用地與道路間尚夾有1筆水利用地一節，貴府應就道路存在事實、是否符合前揭「道路」性質以及現況是否已有水路使用之事實，予以認定；至農舍用地與道路間如夾雜水路以外之其他使用，尚難認屬符合「臨接道路」之要件。針對涉及個案審查係屬直轄市、縣(市)政府之權責，仍請參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5928",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:37+08:00",
+   "source_key": "rmis:5928"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5418de5a8290ebe336fe46ec5c00341f805afdadc4d0507ee6bc9bd24b4cd6fc",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

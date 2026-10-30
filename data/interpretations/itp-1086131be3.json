@@ -1,0 +1,53 @@
+{
+ "id": "itp-1086131be3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100253338號",
+ "date": "2022-03-09",
+ "date_text": "111/3/9",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "農舍坐落農地得否與鄰近農舍、農業設施坐落土地辦理分割合併疑義案",
+ "content": "主旨：有關貴府函詢農舍興建後，其坐落之農業用地，倘需與鄰近農舍、農業設施坐落土地辦理分割合併疑義一案，復如說明，請查照。\n說明：\n一、復貴府110年12月9日屏府農企字第11058385100號函。\n二、查農舍興建之立法目的，係以從事農業使用為目的並不破壞農業生產環境前提下，申請興建農舍供農業經營者得作居住使用，其與一般住宅性質不同。基此，農舍興建後，為避免農地再不當細碎分割，並考量維持前述農業經營規模，爰有農業用地興建農舍辦法第12條未經解除套繪不得辦理分割之規定，先予敘明。\n三、至於取得農業設施容許使用之農業設施，應依原核定計畫內容使用。申請人倘因農業生產經營有變更經營計畫之需要者，應向原核定機關提出變更之申請，故本案經核准農業設施之農業用地，倘有土地之異動，申請人自應依上開規定提出經營計畫變更之申請，由原核定機關予以審認核處，併予敘明。\n四、綜上，農舍與農業設施之興建各有其立法目的，且二者所依據之法令規範及管制規定亦有別；爰所詢倘涉及農舍或農業設施與毗鄰農地須辦理交換位置分割後合併等事宜，自應先核認是否符合農舍或農業設施適用之法規為前提。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5899",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:51:26+08:00",
+   "source_key": "rmis:5899"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "64f2a8f21d2f9af524b14a5858025bd74ba157e5b9b39925e136bda2288993de",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": ",為避免農地再不當細碎分割,並考量維持前述農業經營規模,爰有農業用地興建農舍辦法第12條未經解除套繪不得辦理分割之規定,先予敘明。\n三、至於取得農業設施容許使用之農業設"
+  }
+ ]
+}

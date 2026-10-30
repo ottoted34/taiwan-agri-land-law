@@ -1,0 +1,54 @@
+{
+ "id": "itp-c384927978",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1031003704號",
+ "date": "2014-03-24",
+ "date_text": "103/3/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "豐原區公所函詢○○○申請農業用地作農業資材室容許使用審查疑義案。",
+ "content": "主旨：有關貴府函為豐原區公所函詢○○○申請農業用地作農業資材室容許使用審查疑義案，復請查照。\n說明：\n一、復貴府103年3月13日府授農地字第1030046551號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定略以，申請農業用地作農業設施容許使用，應檢附土地使用同意書。但土地為申請人單獨所有者，免附。合先敘明。\n三、本案依貴府來函所述，系爭設施疑坐落於貴市豐原區○○○地號及○○○地號(非申請人所有)土地。本案倘經確認系爭設施部分坐落於他人所有土地，建議貴府輔導申請人依上開規定，取得土地使用同意書後併同提出申請，貴府再予核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4888",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:38+08:00",
+   "source_key": "rmis:4888"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "44cae2aa785984dd7604f743227b5ee4773d8a02f5200df67ad8a479f3e72c35",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "3年3月13日府授農地字第1030046551號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定略以,申請農業用地作農業設施容許使用,應檢附土地使用同意書。但土地為申"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-c465fbb2a3",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132629879號",
+ "date": "2024-07-19",
+ "date_text": "113/7/19",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴公司函詢升壓站或開關站，是否非屬於「農業主管機關同意農業用地變更使用審查作業要點」中所指太陽光電設施，得不受變更使用面積未達2公頃限制之疑義案，復請查照。",
+ "content": "一、依據「農業主管機關同意農業用地變更使用審查作業要點」(以下簡稱農變要點)第7點之1規定，非都市土地農牧用地、林業用地、養殖用地及都市計畫農業區、保護區之農業用地變更作太陽光電設施使用，除符合但書規定者外，其變更使用面積未達2公頃，不同意變更使用。\n二、有關貴公司再次函詢之升壓站或開關站等設施，倘其設置於太陽光電設施案場內，應併同納入太陽光電設施之開發計畫一併提出申請，而應有農變要點第7點之1規定之適用；至倘係獨立規劃設置於太陽光電案場外，經能源主管機關審認非屬太陽光電設施者，得依「非都市土地使用管制規則」第6條附表1之「公用事業設施」或循用地變更辦理，並得不受農變要點第7點之1規定之限制。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6052",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:10+08:00",
+   "source_key": "rmis:6052"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3cf9bc7ac678fb64e5b75fb9f4e03549b1e1e9658fb592a41247caf41dd56ca9",
+ "topics": [
+  "land_change",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴公司函詢升壓站或開關站,是否非屬於「農業主管機關同意農業用地變更使用審查作業要點」中所指太陽光電設施,得不受變更使用面積未達2公頃限制之疑義案,復請查照。\n一、依"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "itp-bff1fa9b23",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1060204008號",
+ "date": "2017-02-10",
+ "date_text": "106/2/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關民眾於農業發展條例修正施行後取得之農業用地，因政府辦理公共建設，徵收部分面積作為道路使用，導致農業用地面積與第2條第3款規定不符，是否仍可申請興建農舍疑義案，復如說明，請查照。",
+ "content": "一、依據貴局106年2月2日桃農管字第1060002925號函辦理。\n二、農業發展條例89年1月28日修正生效後取得之農業用地，依法被徵收，並無農業用地興建農舍辦法第4條之適用，申請興建農舍時，仍應依辦法相關規定辦理。\n三、查政府依土地徵收條例第3章徵收補償規定，給予原地主徵收補償金地價、建築改良物、農作改良物、土地改良物等，已有補償措施。\n四、基於農舍應與農業經營不可分離，而非以保障其居住權利為主，且本條例修正前後取得農業用地之差異，係法律賦予之，而其授權辦法明文規定對於徵收案件，得賦予修正前取得之農業用地相關補償措施，爰對於修法後取得之農業用地，不論是否已興建農舍者均無法適用之。\n五、如考量原所有權人居住權益等事宜，建議應要求辦理公共工程建設或徵收單位，做好完善的拆遷安置計畫，而非放寬現行法令規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4152",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:05+08:00",
+   "source_key": "rmis:4152"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f84b6e37ab6a9629d4dfebcceb9d03f1858088835c4de4a4097b7d77bb1081fb",
+ "topics": [
+  "partial_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關民眾於農業發展條例修正施行後取得之農業用地,因政府辦理公共建設,徵收部分面積作為道路使用,導致農業"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "例89年1月28日修正生效後取得之農業用地,依法被徵收,並無農業用地興建農舍辦法第4條之適用,申請興建農舍時,仍應依辦法相關規定辦理。\n三、查政府依土地徵收條例第3章"
+  }
+ ]
+}

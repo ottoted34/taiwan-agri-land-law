@@ -1,0 +1,62 @@
+{
+ "id": "itp-85979003da",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990105253號",
+ "date": "2010-01-29",
+ "date_text": "99/1/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例第8條之1規定，無安全顧慮農業設施之認定，是否應一律檢附建築師、土木技師或結構技師簽證之證明文件疑義案。",
+ "content": "主旨：有關農業發展條例第8條之1規定，無安全顧慮農業設施之認定，是否應一律檢附建築師、土木技師或結構技師簽證之證明文件疑義案，復請 查照。\n說明：\n一、復台端○年○月○日人民字第○○○○○號函。\n二、有關農業發展條例第8條之1第2項但書規定，農業發展條例92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照。另依據台端來函說明一，引用本會92年12月15日農授中字第0921070708號令，業已說明適用之農業設施為符合上開號令所示之6款情形，故非屬上開6款情形之一者，始需檢附建築師、土木技師或結構技師簽證之無安全顧慮證明文件，據以得免申請建築執照。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5386",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:21+08:00",
+   "source_key": "rmis:5386"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d01847437f1ebc5be32a3a50d8ad18ad1071c5132053d633dd017bfac1e2f4f0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "有關農業發展條例第8條之1規定,無安全顧慮農業設施之認定,是否應一律檢附建築師、土木技師或結構技師簽證之證"
+  }
+ ]
+}

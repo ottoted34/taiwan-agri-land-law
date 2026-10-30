@@ -1,0 +1,88 @@
+{
+ "id": "itp-da2fc890ab",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020723438號",
+ "date": "2013-08-20",
+ "date_text": "102/8/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢民眾將已興建農舍之坐落用地辦理分割後，僅以分割後無農舍坐落之土地申請農業用地作農業使用證明書疑義案，復如說明，請查照。",
+ "content": "一、復貴府102年7月23日府農保字第1020131331號函。\n二、查農業用地作農業使用認定及核發證明辦法業經本會於102年7月23日修正發布施行。農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義，「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」合先敘明。\n三、至本案依貴府來函所敘，係民眾將已興建農舍之坐落用地辦理分割後，將農舍原合併計算之農業用地部分移轉他人，並以旨揭分割後無農舍坐落之用地，申請農業用地作農業使用證明之核發，倘該用地係符合本辦法農業使用之認定基準，仍得據以核發。惟應提醒申請人，已興建農舍之坐落用地部分，因已不符合「農業用地興建農舍辦法」第9條第3款申請興建農舍之要件，爰不符合農業用地作農業使用之規定，將不得據以申請核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3747",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:48+08:00",
+   "source_key": "rmis:3747"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "fb39396c9425f5ddbff5658649aef958237c4638d7f49931cdac7c42ef8ec311",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "02年7月23日府農保字第1020131331號函。\n二、查農業用地作農業使用認定及核發證明辦法業經本會於102年7月23日修正發布施行。農業用地應符合作農業使用之認定基準,始"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "之認定基準,始得核發農業用地作農業使用證明書。所稱農業使用於農業發展條例第3條第12款業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "以核發。惟應提醒申請人,已興建農舍之坐落用地部分,因已不符合「農業用地興建農舍辦法」第9條第3款申請興建農舍之要件,爰不符合農業用地作農業使用之規定,將不得據以申請核發農"
+  }
+ ]
+}

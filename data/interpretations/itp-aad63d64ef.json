@@ -1,0 +1,73 @@
+{
+ "id": "itp-aad63d64ef",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980165833號",
+ "date": "2009-10-28",
+ "date_text": "98/10/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關申請農業用地作農業設施之容許使用，涉及水土保持法應擬具水土保持計畫案件之辦理程序疑義案。",
+ "content": "主旨：有關　貴府函詢申請農業用地作農業設施之容許使用，涉及水土保持法應擬具水土保持計畫案件之辦理程序疑義案，復請　查照。\n說明：\n一、復　貴府○年○月○日府農畜字第○○○○○號函。\n二、依本會98年3月16日修正發布之「申請農業用地作農業設施容許使用審查辦法」第24條規定，於山坡地範圍內申請農業用地作農業設施容許使用，依水土保持法第12條規定應擬具水土保持計畫或得以簡易水土保持申報書代替者，於申請雜項執照或有實際開挖行為前，應送請水土保持主管機關審查核可。查本會前於93年4月1日農授糧字第0931005270號函(如附)說明，「．．．為避免農業設施容許使用遺漏水土保持計畫之審查，故凡位於上開範圍內作農業設施使用，當事人應另擬具水土保持計畫送主管機關核可後始得開挖整地。依前項規定，爾後　貴府受理農業用地申請作農業設施容許使用之審議，倘申請人未先將水土保持計畫送主管機關核可或併同事業計畫同時審查者，應於核發農業用地容許作農業設施使用同意書前，加會水土保持單位表示意見，始得核發。」有案，合先敘明。\n三、是以，於山坡地範圍內申請農業用地作農業設施容許使用案件，如依水土保持法第12條規定應擬具水土保持計畫或得以簡易水土保持申報書代替者，應請申請人另擬具水土保持計畫或簡易水土保持申報書送主管機關核可後始得開挖整地，倘申請人未先將水土保持計畫或簡易水土保持申報書送主管機關核可或併同事業計畫同時審查者，應於核發農業用地作農業設施容許使用同意書前，加會水土保持單位表示意見，始得核發。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5370",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:39+08:00",
+   "source_key": "rmis:5370"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "24",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "191511c10ee3f6c6eb3b5dbedf9ebc758d4a5c3cc3a7da2b027b5c101df8ccfd",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "24",
+   "kind": "extracted",
+   "snippet": "畜字第○○○○○號函。\n二、依本會98年3月16日修正發布之「申請農業用地作農業設施容許使用審查辦法」第24條規定,於山坡地範圍內申請農業用地作農業設施容許使用,依水土保持法第12條規定應擬"
+  }
+ ]
+}

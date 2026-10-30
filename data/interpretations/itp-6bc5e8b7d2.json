@@ -1,0 +1,60 @@
+{
+ "id": "itp-6bc5e8b7d2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100707371號",
+ "date": "2021-04-15",
+ "date_text": "110/4/15",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "釋農業用地上設置私設通路供建築用地通行，涉及核發農業用地作農業使用證明書及農業用地之優惠權益案",
+ "content": "主旨：有關貴局函詢農業用地上設置私設通路供建築用地通行，涉及核發農業用地作農業使用證明書及農業用地之優惠權益案，復如說明，請查照。\n說明：\n一、復貴局110年3月23日新北農牧字第1100556721號函。\n二、依農業用地作農業使用認定及核發證明辦法第3條規定，農業用地作農業使用證明書(以下簡稱農用證明)係作為不課徵土地增值稅、免徵遺產稅及贈與稅之用途。另查「私設通路」雖屬非都市土地使用管制規則(以下簡稱管制規則)所定農牧用地容許使用項目之一，惟因其係作為集村農舍或各類建築用地之通行使用，非屬農路性質，故農業用地施設有私設通路者，無法核發農用證明。又依前開管制規則規定，私設通路及農路均須依其申請要件依法提出申請，與法院判決之袋地通行權係屬二事，合先敘明。\n三、本案依卷附所述之袋地，倘依法申請作私設通路容許使用時，宜於會簽加註提醒有關未來恐有影響農業用地申請賦稅減免優惠之意見，俾農業用地所有權人自行衡酌。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5874",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:11+08:00",
+   "source_key": "rmis:5874"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f70289882f3ea15eccb30e677f9688e32f17c4ba3c05d28a33489fa5713bed31",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "0年3月23日新北農牧字第1100556721號函。\n二、依農業用地作農業使用認定及核發證明辦法第3條規定,農業用地作農業使用證明書(以下簡稱農用證明)係作為不課徵土地增值稅、免徵遺"
+  }
+ ]
+}

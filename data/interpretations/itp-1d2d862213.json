@@ -1,0 +1,54 @@
+{
+ "id": "itp-1d2d862213",
+ "doc_class": "interpretation",
+ "docno": "農企字第1060219470號",
+ "date": "2017-06-16",
+ "date_text": "106/6/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋特定農業區農業用地變更回饋金加成20%應訂定要點公開周知據以執行",
+ "content": "主旨：有關貴府再次函詢「農業用地變更回饋金撥繳及分配利用辦法」第6條規定，得否調增20%繳交比率之計算疑義案，復請查照。\n說明：\n一、復貴府106年5月22日府農務二字第1062510901號函。\n二、查本會於105年5月25日修正發布之「農業用地變更回饋金撥繳及分配利用辦法」第6條第1項明定，申請變更使用之非都市土地農業用地有所列3款情形之一者，直轄市或縣(市)政府得依第3條及第4條所定之繳交比率調增20%，計算回饋金；同條第2項並明定「直轄市或縣(市)政府得依實際執行需要，就前項地區，認應調增繳交比率之案件，另定審查基準或處理規定辦理，並刊登於政府公報」。揆其條文已明確賦予直轄市或縣(市)政府具有調增20%繳交比率之行政裁量權能，故尚無需修正該條文之必要，惟行政程序上，貴府應踐行訂定審查基準或處理規定，並刊登於政府公報，藉由公開周知，以利民眾有所遵循，並使轄內具有一致性之審認機制。故本案倘擬依上開規定調增繳交比率，仍請貴府先訂定審查基準或處理規定，於刊登政府公報後，再據以執行。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5479",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:53+08:00",
+   "source_key": "rmis:5479"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "397c912c8fecb413e87da5df7799298713f8038be2abda706d4363abfcca70ab",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "加成20%應訂定要點公開周知據以執行\n主旨:有關貴府再次函詢「農業用地變更回饋金撥繳及分配利用辦法」第6條規定,得否調增20%繳交比率之計算疑義案,復請查照。\n說明:\n一、復貴府106年"
+  }
+ ]
+}

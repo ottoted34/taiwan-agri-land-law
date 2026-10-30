@@ -1,0 +1,72 @@
+{
+ "id": "itp-b78f78279d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020229003號",
+ "date": "2013-09-18",
+ "date_text": "102/9/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上公眾通行之既有道路疑義案。",
+ "content": "主旨：有關貴府函詢農業用地上公眾通行之既有道路疑義案，復如說明，請查照。\n說明：\n一、復貴府102年8月26日北府農牧字第1022517877號函。\n二、有關「農業用地作農業使用認定及核發證明辦法」第6條第3項規定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：．．．三、農業用地存在私人無償提供政府施設供公眾使用之道路或屬依法應徵收而未徵收性質之其他公共設施。」係將原採扣除該公共設施部分面積，再就其餘面積核發農業用地作農業使用證明書之作法，經參酌地方反映，基於簡政便民及維護土地所有權人權益，修正為得逕認定為作農業使用，不再另予扣除，以利其申請稅賦減免之依據。故本款之適用有「無償提供政府施設」供公眾使用之道路或「依法應徵收而未徵收性質」之公共設施為前提條件，實務作業應由機關權責單位予以審認。符本款規定者認定為農業使用，係維民眾權益之權宜作法，至該通路及公共設施性質仍應依本質屬性審認，不涉認定為「農業設施」事宜。至該既有道路倘屬與農業經營相關者，則非依本款規定審認，並應依「申請農業用地作農業設施容許使用審查辦法」規定，申請農路之容許使用，並可與農業資材室併同申請之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5049",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:30+08:00",
+   "source_key": "rmis:5049"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "1521b36432e8c98def5d239a1c8ea7d17a5f055750a3bc4c935a263c5a3857b3",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "年8月26日北府農牧字第1022517877號函。\n二、有關「農業用地作農業使用認定及核發證明辦法」第6條第3項規定略以:「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "至該既有道路倘屬與農業經營相關者,則非依本款規定審認,並應依「申請農業用地作農業設施容許使用審查辦法」規定,申請農路之容許使用,並可與農業資材室併同申請之。"
+  }
+ ]
+}

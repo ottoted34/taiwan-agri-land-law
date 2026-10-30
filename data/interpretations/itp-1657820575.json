@@ -1,0 +1,47 @@
+{
+ "id": "itp-1657820575",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152604567號",
+ "date": "2026-04-16",
+ "date_text": "115/4/16",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴縣林邊鄉公所函詢「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍」內申請設置綠能設施，涉及既存排水設施(溝渠)具有公眾排水功能，惟未具政府施設或養護證明文件之審認疑義案，復請查照。",
+ "content": "一、有關旨揭農業用地範圍存在排水設施(溝渠)，申請綠能設施容許使用，本署113年8月6日農保規字第1132610693號函已就該排水設施(溝渠)之使用性質，分別說明其面積計算方式在案。針對所附貴縣林邊鄉公所函說明本案既存排水設施(溝渠)，現況確供民生排水、防汛或水產養殖排水使用，具一定公眾使用性質一節，宜先釐清該排水設施(溝渠)究係供民生排水防汛，或水產養殖排水使用，俾依上開函釋原則核算綠能設施可興建面積。\n二、至本案既存排水設施(溝渠)之政府施設或養護證明文件審認疑義，按前開函所稱私人無償提供政府施設供公眾使用者，既係配合政府施設，則應由施設或養護機關認定；其實務執行，得由該政府機關出具相關證明文件或於勘查紀錄載明。綜上，貴府來函所詢申請綠能設施之農業用地存在排水設施(溝渠)，請貴府依上開原則及本署113年8月6日函，協助公所予以審認核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6065",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:02+08:00",
+   "source_key": "rmis:6065"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7bc5a3a274ac58a2a81bd6ae520194145004b7543d484d9c5a26a27d247ca8c6",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

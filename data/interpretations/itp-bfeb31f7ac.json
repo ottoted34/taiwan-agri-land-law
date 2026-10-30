@@ -1,0 +1,62 @@
+{
+ "id": "itp-bfeb31f7ac",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090233956號",
+ "date": "2020-08-21",
+ "date_text": "109/8/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關銅鑼鄉樟樹村109年度基層建設座談會所提解決返鄉務農青年住宿問題案",
+ "content": "一、復貴府 109年8月5日府農農字第 1090146476號函。\n二、查農業發展條例(以下簡稱本條例)第 18條規定，農業用地興建農舍之申請人，應為該筆農業用地之所有權人且為農民。又查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍。故基於農舍係與農業經營不可分離之性質，倘有農業經營事實且符合本條例及農業用地興建農舍辦法之條件，自得提出申請。\n三、至銅鑼鄉公所建議解決青年農民居住問題，建議應從整體住宅政策檢討鄉村地區之居住空間需求，並善用既有手段，如農村社區土地重劃等方式處理，俾能符合全國國土計畫土地使用指導原則，逐步引導農業經營衍生之居住需求朝農村集中，並合理規劃農業生產區與生活區，創造宜農適居且避免產生土地使用間衝突或互相影響。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4743",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:02+08:00",
+   "source_key": "rmis:4743"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f225bc89e2e2807848abc35ed4178e8394673470a6743e403726600b571fcdfa",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "09年8月5日府農農字第 1090146476號函。\n二、查農業發展條例(以下簡稱本條例)第 18條規定,農業用地興建農舍之申請人,應為該筆農業用地之所"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍係與農業經營不可分離之性質,倘有農業經營事實且符合本條例及農業用地興建農舍辦法之條件,自得提出申請。\n三、至銅鑼鄉公所建議解決青年農民居住問題,建議應從整體住"
+  }
+ ]
+}

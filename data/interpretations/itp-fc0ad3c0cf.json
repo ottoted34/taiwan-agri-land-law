@@ -1,0 +1,64 @@
+{
+ "id": "itp-fc0ad3c0cf",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960156984號",
+ "date": "2007-10-17",
+ "date_text": "96/10/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋土地所有權人辦理農村社區土地重劃，是否應繳交農業用地變更回饋金案。",
+ "content": "主旨：有關　貴公司所詢土地所有權人辦理農村社區土地重劃，是否應繳交農業用地變更回饋金案，復請 查照。\n說明：\n一、依據內政部96年10月11日內授中辦地字第○○○○○號函(如附)辦理，\n並復　貴公司96年10月1日新陽詢字第○○○○○號函。\n二、依農業發展條例第12條第1項規定農業用地於劃定或變更為非農業使用時，應視其事業性質繳交回饋金，而同條第4項規定對於農業用地變更係屬「政府興辦之公共建設及公益性設施」者，始得免予繳交，合先敘明。\n三、對於土地所有權人主動辦理農村社區土地重劃事業，得否認定為政府興辦之公共建設及公益性設施，案經農村社區土地重劃條例之主管機關內政部表示，略以：「土地所有權人辦理農村社區土地重劃，係土地所有權人自行辦理之農村社區土地重劃，尚難認定為政府興辦之公共建設及公益性設施」。爰以，重劃範圍內涉及非都市土地特定農業區農牧用地變更作非農業使用，仍應依農業發展條例及農業用地變更回饋金撥繳及分配利用辦理之規定繳交回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5089",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:56+08:00",
+   "source_key": "rmis:5089"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "382fa7a5f6f97f540bacce45b2029608110acb9336e17272c11f30a392becc59",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "復 貴公司96年10月1日新陽詢字第○○○○○號函。\n二、依農業發展條例第12條第1項規定農業用地於劃定或變更為非農業使用時,應視其事業性質繳交回饋金,而同條第"
+  }
+ ]
+}

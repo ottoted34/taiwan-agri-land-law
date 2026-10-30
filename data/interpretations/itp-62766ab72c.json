@@ -1,0 +1,80 @@
+{
+ "id": "itp-62766ab72c",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1040015463號",
+ "date": "2015-03-23",
+ "date_text": "104/3/23",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "貴府審查○○○等10人所有○○○等地號集村農舍農民資格變更疑義1案，復請查照。",
+ "content": "一、復貴府104年3月6日府建農字第1040015613號函。\n二、有關貴府審查集村農舍農民資格變更，如原核定之農民資格已無效，後續建照審核未查明，以他人之配合用地核發建照，該建照是否應予撤銷疑義1案、前經本署104年2月6日營署建管字第1040004489號函復貴府在案。至涉及農民資格審查部分，因涉及農業發展條例規定，已有正本分送行政院農業委員會，請依該會函釋核處。\n三、另按農業用地興建農舍辦法第8條第2項規定：「申請興建農舍變更起造人時，除為繼承且在施工中者外，應依第2條第1項規定辦理」，併予敘明。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3596",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:01+08:00",
+   "source_key": "rmis:3596"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "bc7bc921a1e3295db24c19fee629bd74e9659e0a3e5e528853fa213a62cdb32c",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0004489號函復貴府在案。至涉及農民資格審查部分,因涉及農業發展條例規定,已有正本分送行政院農業委員會,請依該會函釋核處。\n三、另按農業用地興建農舍"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": ",已有正本分送行政院農業委員會,請依該會函釋核處。\n三、另按農業用地興建農舍辦法第8條第2項規定:「申請興建農舍變更起造人時,除為繼承且在施工中者外,應依第2條第1項"
+  }
+ ]
+}

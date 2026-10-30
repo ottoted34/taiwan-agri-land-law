@@ -1,0 +1,52 @@
+{
+ "id": "itp-cdf8d17e65",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1142620046號",
+ "date": "2025-12-18",
+ "date_text": "114/12/18",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢依農業用地興建農舍辦法辦理農民資格審查之農業生產相關佐證資料起算時間認定疑義案，請查照。",
+ "content": "一、依據「農業用地興建農舍辦法」(下稱農舍辦法)第2條第2項規定，申請興建農舍資格應檢附經營計畫書，應敘明「既有農業經營現況及規模、產銷計畫」，並檢附申請日往前起算至少2年之農業生產佐證資料；又依農舍辦法第5條第1項第4款規定，申請興建農舍之農業用地，有「其他違反土地使用管制規定者」，不得依本辦法申請興建農舍。故本署前於114年11月19日農保規字第1142617843號函說明，「農業用地允許興建農舍，須申請人於該農業用地從事積極性、經濟性農業生產活動之前提條件，故旨案違規情形雖已排除，仍應自排除違規使用後檢具符合前開積極性、經濟性之農業生產活動資料，予以審認」有案，以符合農舍辦法及相關審認原則。\n二、對於貴局再次來函所詢，本案農業用地上設置PC地坪及擋土構造物且經查報違規裁處有案，縱然面積未逾該筆農業用地10%，然其行為已難謂合於積極農用之事實，倘該使用情形得以補正申請農業用地作農業設施容許使用，擬申請興建農舍，亦應以取得農業設施容許使用同意書之核准日為排除違規使用之時點，檢附積極從事農業使用滿2年之農業生產佐證資料予以認定。基於農舍審查係屬直轄市、縣(市)政府之權責，仍請貴局參照前開原則依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6024",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:41+08:00",
+   "source_key": "rmis:6024"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3ccfeca1f0bceb2142e86d52e02ff72d77d81d864ddb8785886ac29ecb05a426",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "計畫」,並檢附申請日往前起算至少2年之農業生產佐證資料;又依農舍辦法第5條第1項第4款規定,申請興建農舍之農業用地,有「其他違反土地使用管制規定者」,不得"
+  }
+ ]
+}

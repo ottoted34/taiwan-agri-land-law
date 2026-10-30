@@ -1,0 +1,62 @@
+{
+ "id": "itp-b1795b4cc9",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090255381號",
+ "date": "2020-12-16",
+ "date_text": "109/12/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "子女或配偶繼承之農業用地申請興建農舍資格疑義",
+ "content": "一、復貴府 109年12月14日府農務字第 1090270209號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者放置農機具兼具居住之功能，與一般住宅單純提供居住性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業發展條例 (以下簡稱本條例 )第 18條規定，農業用地申請興建農舍即因取得日期之不同而有所差異，在本條例 89年 1月4日修正施行前取得 (包括繼承、贈與、買賣、拍賣等 )之農業用地，且無自用農舍者，得循本條例第 18條第 3項及農業用地興建農舍辦法 (以下簡稱本辦法 )第 3條規定申請興建農舍，不受本辦法第 2條第 1項至第 3項申請興建農舍最小面積、土地取得應滿 2年等規定。上開規定係鑒於依當時土地使用管制及建築法令規定，農地得有條件准許興建農舍，同時，農地所有權之取得以能自耕者為限，故對於本條例修正施行前已取得農地者，延續其農業用地申請興建農舍之條件\n限制。\n四、爰此，本條例 89年1月4日修正施行後，因繼承或受贈取得農業用地申請興建農舍者，尚非本條例第 18條第 3項規定得例外考量者，故仍應依本條例第 18條第 1項及本辦法第 2條規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5646",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:31+08:00",
+   "source_key": "rmis:5646"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8bfa7ca8395b70a919a47f062a29aa8df07db74fe033e428da3cf83190db866f",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業發展條例 (以下簡稱本條例 )第 18條規定,農業用地申請興建農舍即因取得日期之不同而有"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ")之農業用地,且無自用農舍者,得循本條例第 18條第 3項及農業用地興建農舍辦法 (以下簡稱本辦法 )第 3條規定申請興建農舍,不受本辦法第 2條第 1項至第 "
+  }
+ ]
+}

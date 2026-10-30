@@ -1,0 +1,53 @@
+{
+ "id": "itp-e380a3815c",
+ "doc_class": "interpretation",
+ "docno": "農授農保字第1140213823號",
+ "date": "2025-04-15",
+ "date_text": "114/4/15",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "有關貴部能源署函復○○股份有限公司所詢農牧用地設置太陽光電升壓站點狀面積不得超過660平方公尺部分，應否扣除隔離綠帶面積案，請查照。",
+ "content": "一、有關農牧用地設置太陽光電升壓站容許使用面積之計算基準，查本部前於113年12月5日以農授農保字第1130250821號函(諒達)復貴部能源署說明略以：針對貴部能源署表示太陽光電升壓站為太陽光電發電設備之必要附屬設施部分，倘該升壓站為附屬設施，則該設施不得單獨設置，應納入太陽光電設施案場內併同規劃配置，且案場總面積應符合「農業主管機關同意農業用地變更使用審查作業要點」(下稱農變要點)第7點之1規定，除符合但書規定者外，其變更使用面積未達2公頃，不同意變更使用。又，太陽光電升壓站倘經貴部認定屬公用事業設施項目，得獨立規劃設置於太陽光電案場外，擬依管制規則第6條附表1規定，申請點狀面積不得超過660平方公尺之容許使用者，則仍應依據農變要點第9點規定，於該升壓站計畫範圍內，依法留設隔離綠帶或隔離設施，並具體標繪於土地使用配置圖，以確認寬度及面積符合規定，與緊臨農業用地達成隔離緩衝效果在案。\n二、針對農牧用地設置太陽光電升壓站之隔離綠帶配置，仍請貴部於函復相關案件時，依前開號函及相關說明辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6055",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:23+08:00",
+   "source_key": "rmis:6055"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "90a408d72fb7f700ab84f6c3b32f4bcd0b198a87f451626466f867a7bb3f1a38",
+ "topics": [
+  "land_change",
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "置,應納入太陽光電設施案場內併同規劃配置,且案場總面積應符合「農業主管機關同意農業用地變更使用審查作業要點」(下稱農變要點)第7點之1規定,除符合但書規定者外,其變更使用面積未達2公頃,不"
+  }
+ ]
+}

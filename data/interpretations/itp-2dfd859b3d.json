@@ -1,0 +1,52 @@
+{
+ "id": "itp-2dfd859b3d",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1151544691號",
+ "date": "2026-03-11",
+ "date_text": "115/3/11",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "有關貴府函詢○○股份有限公司代理○○○等4人擬於轄內一般農業區養殖用地申請自用既有電桿之容許使用，認屬列為「水產養殖設施-其他水產養殖經營設施-其他」案，復如說明，請查照。",
+ "content": "一、查本部前以113年11月11日農授漁字第1131470211號函(諒達)以，倘案繫電桿係供室內水產養殖生產設施之用電所需者，應整體規劃納入室內水產養殖生產設施，併同提出申請，並符合該設施之最大興建面積及申請基準或條件在案，合先敘明。\n二、按貴府來文所述，案繫電桿既經貴府確認係供養殖照明所需，且審認確有必要，本案於該等設施不另作養殖用電外用途之前提下，原則同意其審認得依「申請農業用地作農業設施容許使用審查辦法」第21條附表4「其他水產養殖經營設施-『其他』」項目及該辦法有關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6063",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:14+08:00",
+   "source_key": "rmis:6063"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ae077d1e46cc2e95958ba74e045dc0e2462bf4272d86fce46f835cf92d5569db",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "案於該等設施不另作養殖用電外用途之前提下,原則同意其審認得依「申請農業用地作農業設施容許使用審查辦法」第21條附表4「其他水產養殖經營設施-『其他』」項目及該辦法有關規定辦理。"
+  }
+ ]
+}

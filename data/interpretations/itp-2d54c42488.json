@@ -1,0 +1,73 @@
+{
+ "id": "itp-2d54c42488",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031813160號",
+ "date": "2014-06-19",
+ "date_text": "103/6/19",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關新北市政府審認「○○○申請坐落新北市汐止區○○○地號1筆山坡地保育區林業用地興建農舍」案，復請查照。",
+ "content": "一、復貴局103年6月10日林政字第1030717318號函。\n二、依農業用地興建農舍辦法第2條、第3條規定，農舍興建資格係由直轄市、縣(市)政府核定，而各直轄市、縣(市)政府依府內業務分工，其審查核定流程及核定文件格式不一，本案新北市政府100年1月18日北府農牧字第1000043428號函是否即為前開辦法第16條所稱之核定文件，應由新北市政府本權責認定。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3854",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:40+08:00",
+   "source_key": "rmis:3854"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "3dc31689756799aad3cd450a3521276cd22a0297adcc780e2bcda3836adc755c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "103年6月10日林政字第1030717318號函。\n二、依農業用地興建農舍辦法第2條、第3條規定,農舍興建資格係由直轄市、縣(市)政府核定,而各直轄市、縣(市)政府"
+  }
+ ]
+}

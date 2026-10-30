@@ -1,0 +1,80 @@
+{
+ "id": "itp-8404459ec5",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000158523號",
+ "date": "2011-09-20",
+ "date_text": "100/9/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "依「申請農業用地作農業設施容許使用審查辦法」規定，受理農路容許使用之審查",
+ "content": "主旨：有關 貴府函詢依「申請農業用地作農業設施容許使用審查辦法」規定，受理農路容許使用之審查疑義案，復請 查照。\n說明：\n一、復 貴府100年9月9日府農企字第1000118279號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第13條附表對於「農路」之申請基準及條件規定：「應依生產需要核定」。針對農業用地上申請興建農路之審查，倘貴府經審查申請案無全面從事經營或其經營規模有不明顯之情況下，自應依本辦法第7條第2款規定，以經營計畫內容顯不合理，或設施與農業經營之必要性顯不相當之情形，不予同意。\n三、另依據上開辦法第8條規定：「申請本辦法所定各項農業設施，其所有農業設施總面積除另有規定外，不得超過坐落該農業用地土地面積之40%。」是以，申請案之非都市土地農牧用地倘經合併分割成細長用地，再串聯各筆分割之農地申請農路，其申請農路之面積如已超過坐落之該非都市土地農牧用地土地面積40%，而未符上開法令規定，貴府亦應併第7條第9款規定，予以核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5473",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:35+08:00",
+   "source_key": "rmis:5473"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f8196f7e29cfa978f833853b6e0ac4932694c39f36e70c55375ed423c10da1f5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "00年9月9日府農企字第1000118279號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第13條附表對於「農路」之申請基準及條件規定:「應依生產需要核定」。針對農業用地上申請興"
+  }
+ ]
+}

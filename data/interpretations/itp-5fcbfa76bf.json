@@ -1,0 +1,50 @@
+{
+ "id": "itp-5fcbfa76bf",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110227724號",
+ "date": "2022-08-12",
+ "date_text": "111/8/12",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "釋農業用地上設置水土保持設施面積計算疑義案",
+ "content": "主旨：有關貴府函詢農業用地上設置水土保持設施面積計算疑義案，復如說明，請查照。\n說明：\n一、復貴府111年6月23日府農村字第1110150666號函。\n二、按農業設施係輔助其坐落農業用地之農業生產，須基於該農業用地農業生產事實，與生產行為相連結，始可設置，如整筆農業用地均興建管理型農業設施，即已失去應有農業生產事實之前提，故申請農業用地作農業設施容許使用審查辦法（以下簡稱容許辦法）第7條規定，申請本辦法所定各項農業設施，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之40％。\n三、又容許辦法第3條所定農業設施種類，並無包括水土保持設施，惟基於水土保持設施係輔助其坐落農業用地之農業生產所設置之設施物，故為確保農業用地應有農業生產使用之事實，於農業用地設置水土保持設施(如擋土牆、駁坎及滯洪沉砂池)，其面積應計入前開所坐落農業用地土地面積之40％予以核算。\n四、至於都市計畫農業區得申請之設施及建蔽率係依都市計畫法臺灣省施行細則或各直轄市施行細則或自治條例規定辦理，故有關都市計畫農業區土地得否申設水土保持設施及其建蔽率之計算，請貴府逕向都市計畫或建築主管機關洽詢。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5935",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:40+08:00",
+   "source_key": "rmis:5935"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3792f8c9235c2f192214ed4dd6df0ca7c60e5dc17e3cb4abd0b0cc92c9c12d23",
+ "topics": [],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用地均興建管理型農業設施,即已失去應有農業生產事實之前提,故申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第7條規定,申請本辦法所定各項農業設施,其所有農業設施總面積"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-b560c1103d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030203619號",
+ "date": "2014-03-04",
+ "date_text": "103/3/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請人為申請農業用地作農業使用證明書，檢附尚未判決確定之「地政事務所法院複丈成果圖」，得否據以認定為行政機關出具足資證明共有分管區位之相關書圖文件疑義案。",
+ "content": "主旨：有關貴府函詢申請人為申請農業用地作農業使用證明書，檢附尚未判決確定之「地政事務所法院複丈成果圖」，得否據以認定為行政機關出具足資證明共有分管區位之相關書圖文件疑義案，請查照。\n說明：\n一、復貴府103 年1 月29 日屏府農企字第10302402000 號函。\n二、依農業用地作農業使用認定及核發證明辦法第8條第1項第3款規定略以：「因他共有人無法尋覓、死亡或不願切結違規使用等情事，共有人得檢附…，或其他由行政機關出具足資證明共有分管區位之相關書圖文件。」又同條第2項規定：「依前項第3款規定辦理者，受理機關應踐行行政程序法第1章第6節及第104條至第106條規定。」查其立法意旨係考量合法使用人應有舉證其應有部分非屬違規使用之公平機會。爰旨揭未經法院判決確定之「地政事務所法院複丈成果圖」貴府倘得認屬為行政機關所出具，並在證明各共有分管區位亦具足夠證據力，則經踐行上開行政程序法之相關程序規定，自得認屬符合作農業使用之證明文件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5266",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:56+08:00",
+   "source_key": "rmis:5266"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5e88fb1c5a93ef7e3254ad2b8630a33c100387df6bb2c52e624d04e168bc94a8",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "月29 日屏府農企字第10302402000 號函。\n二、依農業用地作農業使用認定及核發證明辦法第8條第1項第3款規定略以:「因他共有人無法尋覓、死亡或不願切結違規使用等情事,共有人"
+  }
+ ]
+}

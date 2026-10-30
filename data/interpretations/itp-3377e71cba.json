@@ -1,0 +1,50 @@
+{
+ "id": "itp-3377e71cba",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040245838號",
+ "date": "2015-12-08",
+ "date_text": "104/12/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農舍邊牆搭農業資材室或組織培養生產場等農業設施，是否尚需考量農舍該面牆有無門窗，邊牆相連及防火間隔等問題，復請查照。",
+ "content": "一、復貴府104年8月14日府農保字第1040152054號函暨依據內政部營建署104年10月6日營署建管字第1040061937號函及同年11月20日營署建管字第1040073123號函辦理。\n二、農舍與農業設施之性質不同，所依據之法令規範及管制規定亦不同。又農業設施之容許同意，亦基於農業生產事實所必要之輔助經營管理使用，依「申請農業用地作農業設施容許使用辦法」第13條附表1「農作產銷設施─農業資材室」之申請基準或條件，明敘「限供存放肥料、農藥、種子、農具、器皿、農產品等使用」，農舍與農業資材室均應與農業經營不可分離。\n三、另依據建築法第9條規定:「本法所稱建造，係指左列行為:一、新建:為新建造之建築物或將原建築物全部拆除而重行建築者。二、增建:於原建築物增加其面積或高度者。但已過廊與原建築物連接者，應視為新建。...」，本案農業設施究屬新建或增建，因涉個案事實認定，應由貴府本於權責依法認定核處。\n四、有關農業用地或農業區內之農業生產必要設施案件及鄰地為永久性空地可否免受建築技術規則建築設計施工編第110條之1限制一節，前經內政部92年3月7日內授營建管字第0920085138號函(如附)釋在案，至農舍及農業設施申請建築執照因涉個案事實認定，應由貴府本於權責依法認定核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3337",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:26+08:00",
+   "source_key": "rmis:3337"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "048bf45dcb213ffeea2c9a6165d27d45a6303e2ef0fb11f55062a26746d19a6a",
+ "topics": [
+  "material_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

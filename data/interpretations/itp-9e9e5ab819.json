@@ -1,0 +1,55 @@
+{
+ "id": "itp-9e9e5ab819",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080219474號",
+ "date": "2019-05-17",
+ "date_text": "108/5/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴市民眾於麻豆區農業用地申設再生能源發電設施疑義案，復如說明，請查照。",
+ "content": "一、依據非都市土地使用管制規則(以下簡稱管制規則)第6條附表1各種使用地容許使用項目及許可使用細目表「使用地類別五、農牧用地(十三)再生能源相關設施1.再生能源發電設施」，其附帶條件為「二、限於風力發電、太陽光電及地熱發電之發電設施點狀使用，點狀使用面積不得超過660平方公尺」，因其屬非農業使用性質，且該整筆農業用地不得認定為作農業使用，又分案申請者，該筆農地仍應累計計算，且合併加總不得超過660平方公尺。\n二、又依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第33條規定，依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，．．．未依計畫內容使用者，原核定機關得廢止其許可。是以，本案土地既依容許辦法取得農業設施容許使用在案，即應依原核定之計畫內容使用，倘該土地擬依管制規則再申設再生能源發電設施，基於設施係非屬農業設施性質，其經核定在案之農業設施勢難依原核定經營計畫內容使用，故該農業用地之農業設施須作適法處理，始得再依管制規則申設再生能源發電設施。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5947",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:59+08:00",
+   "source_key": "rmis:5947"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9f2c742921eaa23db1c98891fb478cbc78e05a6efd23c389fe28e91619094f9b",
+ "topics": [
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地仍應累計計算,且合併加總不得超過660平方公尺。\n二、又依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第33條規定,依本辦法取得農業用地作農業設施容許使用者,應依"
+  }
+ ]
+}

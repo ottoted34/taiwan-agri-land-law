@@ -1,0 +1,79 @@
+{
+ "id": "itp-76317813ed",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030026019號",
+ "date": "2014-05-08",
+ "date_text": "103/5/8",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府所詢農業用地興建農舍辦法第4條徵收土地為都市計畫範圍之審查疑義，復請 查照。",
+ "content": "一、復貴府103年4月23日府農務字第1030063032號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第4條規定略以：「本條例中華民國89年1月28日修正施行前取得之農業用地，有下列情形之一者，得準用前條規定申請興建農舍：一、依法被徵收之農業用地。但經核准全部或部分發給抵價地者，不適用之。二、依法為得徵收之土地，經土地所有權人自願以協議價購方式讓售與需地機關。…」係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益，以配合政府興辦公共事業，爰訂有相關依法被徵收或依法為得徵收之農業用地得準用本辦法第3條規定申請興建農舍之保障措施。\n三、依貴府首揭函所述及卷附謄本資料，本案被徵收土地係為62年10月間取得之農業用地，嗣於99年依貴府公告發布實施之都市計畫由農業區變更為道路用地，有關該筆被徵收土地於102年公告徵收時係屬道路用地，是否適用本辦法第4條規定1節，參酌前揭本辦法第4條立法意旨，本案如經貴府認定都市計畫變更與徵收有關聯，即為徵收目的者，自得依本辦法第4條規定辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3848",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:56+08:00",
+   "source_key": "rmis:3848"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "4",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c4664f779ce31308ed4d4884d5c4187eee4044eaba5f3b43a0d96f8fb4107707",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "有關貴府所詢農業用地興建農舍辦法第4條徵收土地為都市計畫範圍之審查疑義,復請 查照。\n一、復貴府103年4月23日府農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "協議價購方式讓售與需地機關。...」係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興辦公共事業,爰訂有相關依"
+  }
+ ]
+}

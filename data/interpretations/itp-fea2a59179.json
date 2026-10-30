@@ -1,0 +1,58 @@
+{
+ "id": "itp-fea2a59179",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010111183號",
+ "date": "2012-06-06",
+ "date_text": "101/6/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則」第14條規定設定他項權利之最高金額疑義案。",
+ "content": "主旨：有關 貴府函詢「農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則」第14條規定設定他項權利之最高金額疑義案，復請 查照。\n說明：\n一、復 貴府101年5月23日屏府農企字第1010141476號函。\n二、依農業發展條例第34條第4項授權訂定之「農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則」第14條規定：「農民團體、農業企業機構及農業試驗研究機構承受之耕地，其設定他項權利之最高金額，以不超過設定當期公告土地現值與承受耕地面積之乘積之3.5倍為限。」其立法意旨係為防止農企業法人承受耕地，卻有土地炒作或不當使用之情形，致影響經營利用，爰對其承受耕地之他項權利設定最高金額予以明定。\n三、按前開條文規定，對於該耕地上設定他項權利最高金額，並無區分承受前或承受後，故為符合立法意旨，有關其最高金額之限制，除原設定之他項權利於承受後消滅(或經塗銷)之情形外，應包括該承受耕地，於承受「前」、「後」所設定他項權利之金額加總。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5553",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:32+08:00",
+   "source_key": "rmis:5553"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e122edd4f479891849f384a24d6f65761d24d5e3b2724739973486f9200b90ba",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2011",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
+  },
+  {
+   "law_id": "RMIS-2011",
+   "article": "14",
+   "kind": "extracted",
+   "snippet": "「農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則」第14條規定設定他項權利之最高金額疑義案。\n主旨:有關 貴府函詢「農民團體農業企業機構及"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "34",
+   "kind": "extracted",
+   "snippet": "1年5月23日屏府農企字第1010141476號函。\n二、依農業發展條例第34條第4項授權訂定之「農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則"
+  }
+ ]
+}

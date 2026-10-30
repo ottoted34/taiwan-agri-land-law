@@ -1,0 +1,77 @@
+{
+ "id": "itp-28e898a89f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960169325號",
+ "date": "2007-12-13",
+ "date_text": "96/12/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋○○○於特定農業區農牧用地開闢農路申請簡易水土保持申報案，是否應申請農業用地容許作農業設施使用之疑義。",
+ "content": "主旨：有關　貴府函詢○○○於特定農業區農牧用地開闢農路申請簡易水土保持申報案，是否應申請農業用地容許作農業設施使用之疑義案，復請　查照。\n說明：\n一、復　貴府96年12月4日府農農字第○○○○○號函。\n二、依非都市土地使用管制規則第6條附表一，所稱之：「各種使用地容許使用項目及許可使用細目，五、農牧用地(三)農業設施15.『農路』為免經申請許可使用細目」，雖指「農路」屬免向地政主管機關申請許可使用之項目，惟依「非都市土地容許使用執行要點」第5點規定，本規則附表一規定免經申請許可使用者，係免依本規則申請許可；但目的事業主管機關另有規定者，從其規定。又本會基於目的事業主管機關立場，並依據農業發展條例第8條之1第3項授權，訂有農業用地容許作農業設施使用審查辦法規定，以供農民設置農業設施有所依循。爰此，農牧用地上申請興建農業設施(包括農路)，應依本辦法之規定申請容許使用。至於申請案位於山坡地範圍者，涉及水土保持法規定，仍應依該法令規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5262",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:38+08:00",
+   "source_key": "rmis:5262"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "465b7c382aef01a171bdb9b0a879fc2d840578f0ae65a855ca963b8e63354a5e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "另有規定者,從其規定。又本會基於目的事業主管機關立場,並依據農業發展條例第8條之1第3項授權,訂有農業用地容許作農業設施使用審查辦法規定,以供農民設置農業設施有所"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業主管機關立場,並依據農業發展條例第8條之1第3項授權,訂有農業用地容許作農業設施使用審查辦法規定,以供農民設置農業設施有所依循。爰此,農牧用地上申請興建農業設施(包括農路)"
+  }
+ ]
+}

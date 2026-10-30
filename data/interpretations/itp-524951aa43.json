@@ -1,0 +1,48 @@
+{
+ "id": "itp-524951aa43",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080224648號",
+ "date": "2019-06-19",
+ "date_text": "108/6/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關興建農舍之農民資格審查二年生產佐證資料疑義案，復如說明，請查照。",
+ "content": "一、復貴府108 年6 月12 日屏府農企字第10821599900 號函。\n二、查本會106年7月28日農水保字第1061856255號函略以：「不 論農業用地取得時點為本條例89年1月4日修正施行前或後， 該申請人係依第3條之1規定檢附農業生產相關佐證資料，經 直轄市、縣(市)政府主管機關會同專家、學者會勘認定者； 抑或但書中以農民健康保險被保險人或全民健康保險第三類 被保險人以茲證明為農民者，除申請人身分認定以外，均須 提出經營計畫書及2年內生產相關佐證資料，以供審查該筆 農業用地確供農業使用與不影響農業生產環境及農村發展。」， 又有關興建農舍經營計畫書審查項目「經營現況」應敘明過 去2年內經營實績、現況情形等，其目的在於要求申請人應 有2年積極從事具經濟性之農業生產事實，以確保該農舍為 配合於農業用地上從事農業活動所需而興建，爰仍應查核申 請人於該地是否具有2年從事農業經營之生產實績。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4613",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:34+08:00",
+   "source_key": "rmis:4613"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5fdfd1c7411e3212af5e10e8d4a8524bedbdd69c760c66572371f4210c84cb28",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

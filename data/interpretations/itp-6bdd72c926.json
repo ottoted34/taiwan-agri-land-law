@@ -1,0 +1,53 @@
+{
+ "id": "itp-6bdd72c926",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1130216890號",
+ "date": "2024-05-10",
+ "date_text": "113/5/10",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴部函轉○○○地政士所詢農舍與其坐落用地之所有權人分屬不同人於出賣建物或土地時，及農地買賣契約爭執經法院調解成立移轉時，是否有優先購買權疑義案，復如說明，請查照。",
+ "content": "一、針對旨揭疑義，查改制前行政院農業委員會93年10月27日農企字第0930150054號函及110年4月20日農企字第1100212407號函復貴部略以「若農舍與農業用地已分屬不同所有權人者，農舍於拍賣或移轉時，農舍坐落用地之土地所有權人宜有依同樣條件優先購買之權」，係為避免已興建農舍之農地脫離農舍所有權人之支配管理範圍，致有違農業發展條例第18條之農舍與農業經營不可分離之立法意旨有案。\n二、針對來函附件所詢，農舍及其坐落農業用地已分屬不同所有權人者，農舍或農地分別拍賣，彼此是否具有優先購買權之疑義，考量該處理原則本部意見業已表達在案，且彼此具有優先購買權，始符合土地法第104條及農業發展條例第18條第4項之立法意旨與政策目的，爰本部建議仍依據前開處理原則妥處。又因農舍或農業用地等不動產之移轉及優先購買權之審查，涉及土地登記實務事宜，後續如何落實優先購買權之執行以及是否須具備其他條件或備齊文件等，仍請貴部卓處，以利指導各直轄市、縣(市)政府之地政單位據以辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5999",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:34+08:00",
+   "source_key": "rmis:5999"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "de46b893b8ae90095487333d3af31a2390709467656f478df60803d9af1c22a9",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "為避免已興建農舍之農地脫離農舍所有權人之支配管理範圍,致有違農業發展條例第18條之農舍與農業經營不可分離之立法意旨有案。\n二、針對來函附件所詢,農舍及其坐落農業"
+  }
+ ]
+}

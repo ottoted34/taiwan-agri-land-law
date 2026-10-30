@@ -1,0 +1,58 @@
+{
+ "id": "itp-2404bad59b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960124347號",
+ "date": "2007-05-07",
+ "date_text": "96/5/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業企業機構之定義及其認定範圍一案。",
+ "content": "主旨：有關函詢農業企業機構之定義及貴公司是否其認定範圍一案，復如說明，請 查照。\n說明：\n一、復　貴公司96年5月2日合管字第9605002號函。\n二、依農業發展條例第3條第8款規定之定義，「農業企業機構」係指從事農業生產或農業試驗研究之公司，以公司登記證明文件及營利事業登記證有載明其經營項目屬農業生產或農業試驗研究者，予以認定其申請資格。來函所附貴公司之工廠登記證為飲料及食品製造業，應不符上開認定資格。\n三、另依農業發展條例第33條前段規定「私法人不得承受耕地」，該耕地之定義依據同條例第3條第11款規定，係指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地，併此指明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4834",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:53+08:00",
+   "source_key": "rmis:4834"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cb12762439e2f9f0ee688b7ffe48833503b9f4f26ce32dbb24ab253339905c30",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "復 貴公司96年5月2日合管字第9605002號函。\n二、依農業發展條例第3條第8款規定之定義,「農業企業機構」係指從事農業生產或農業試驗研究之公司,以公司登"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "工廠登記證為飲料及食品製造業,應不符上開認定資格。\n三、另依農業發展條例第33條前段規定「私法人不得承受耕地」,該耕地之定義依據同條例第3條第11款規定,係指依"
+  }
+ ]
+}

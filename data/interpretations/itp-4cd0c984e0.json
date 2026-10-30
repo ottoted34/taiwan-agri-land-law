@@ -1,0 +1,80 @@
+{
+ "id": "itp-4cd0c984e0",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970107344號",
+ "date": "2008-02-14",
+ "date_text": "97/2/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "032 釋農田水利會施設之農田水利灌、排水設施，係屬農業設施案",
+ "content": "查非都市土地使用管制規則有關農牧用地之容許使用項目包括農業設施，又農業用地容許作農業設施使用審查辦法有關農作產銷設施，尚包括農田灌溉、排水設施在內。因此，農田水利會施設或使用之農田灌溉、排水設施倘符合前開規定或從來使用之規定，仍符合作農業使用之認定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5541",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:21+08:00",
+   "source_key": "rmis:5541"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "03796d170301af7fe346ab0876cc399cec4b52b37b853afaca4c182867c56f8c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "市土地使用管制規則有關農牧用地之容許使用項目包括農業設施,又農業用地容許作農業設施使用審查辦法有關農作產銷設施,尚包括農田灌溉、排水設施在內。因此,農田水利會施設或使用之農田"
+  }
+ ]
+}

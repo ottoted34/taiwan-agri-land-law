@@ -1,0 +1,74 @@
+{
+ "id": "itp-b75073ff2c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970100057號",
+ "date": "2008-01-07",
+ "date_text": "97/1/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "022 釋農業用地上存有10平方公尺以下之土地公廟案",
+ "content": "有關農業用地作農業使用認定及核發證明辦法第8條第2款所定：「農業用地存在之土地公廟、有應公廟等，其面積在10平方公尺以下者。」一節，經查其立法說明為「農業用地上蓋有土地公廟、有應公廟等，因屬民間信仰之一部分，如其興建面積『極小』，不影響整宗農業用地之農業經營者，本會前於89年11月10日召開會議研商，並作成決議略以其面積在10平方公尺以下者．．．」換言之，其得認定為作農業使用者，係指該廟之面積極小、且在10平方公尺以下者而言，並非得彙集數宗農業用地興建較大面積之土地公廟，故本案仍請依前開立法意旨核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5525",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:35+08:00",
+   "source_key": "rmis:5525"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4acfd257de339511e3a23349c2505142952933ed701bb0e956d98057ad40b886",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "022 釋農業用地上存有10平方公尺以下之土地公廟案\n有關農業用地作農業使用認定及核發證明辦法第8條第2款所定:「農業用地存在之土地公廟、有應公廟等,其面積在10平方公尺以下者。」"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "itp-c46971b616",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080716169號",
+ "date": "2019-06-14",
+ "date_text": "108/6/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍申請疑義，復如說明，請查照。",
+ "content": "一、復臺端108年5月31日陳情書。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業用地興建農舍辦法第2條第1項第3款規定，「申請興建農舍之該筆農業用地面積不得小於0.25公頃．．．」，所稱該筆，係指單一筆地號，不得以多筆相毗鄰地號土地合併計算。\n四、針對農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不再此限。前開所指之「道路」，係以政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定，並得採認成立公用地役關係之既成道路。\n五、另，查本會水土保持局106年9月20日農水保字第1061808120號函略以：「如提出農舍申請前業核准農業設施容許使用，二者須同時配置考量時，自應優先適用農舍之配置規定，建議應由申請人依農舍配置規定，據以調整符合規定辦理之。基於農舍可涵蓋農農業設施之功能，以及維護90%農業經營用地面積之完整性，農民於申請興建農舍時，應確依農業用地之實際經營使用需求，整體規劃農舍使用空間(得含農業資材與管理空間)及其相關附屬設施，並配置於10%之農舍用地面積內。」，爰有關農舍用地之配置，仍應依前開相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4626",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:40+08:00",
+   "source_key": "rmis:4626"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6f4551c06cbd2a4e48b4d6291547bb219ca50d0dd319c668d377239ede209eca",
+ "topics": [
+  "material_room",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、依農業用地興建農舍辦法第2條第1項第3款規定,「申請興建農舍之該筆農業用地面積不得小於0.25公頃...」,"
+  }
+ ]
+}

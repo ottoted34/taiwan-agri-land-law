@@ -1,0 +1,91 @@
+{
+ "id": "itp-757cd077ba",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041801107號",
+ "date": "2015-01-22",
+ "date_text": "104/1/22",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "貴府函為興建集村農舍疑義案，涉及本局主管業務部分，復請查照。",
+ "content": "一、復貴府104年1月13日府農務字第1040007378號函。\n二、有關集村農舍之申請程序，與個別農舍無異，均應先取得農民資格核定後，續向建築主管機關申請建築程序，惟依據農業用地興建農舍辦法第11條第2項規定：「直轄市、縣(市)主管建築機關為辦理前項興建集村農舍建築許可作業，應邀集相關單位與專家學者組成審查小組辦理。」，至於所需檢附文件及格式等，查農業用地興建農舍辦法已訂有一般性審查原則，貴府得衡酌地方特性自行制定審查表及須檢附文件。\n三、另外興建集村農舍之農舍用地可否辦理分割乙節，依據農業發展條例第16條第1項第7款及農業發展條例施行細則第11條第1項第6款規定，集村興建農舍經行政院農業委員會同意，得辦理專案分割。另「集村興建農舍獎勵及協助辦法」於99年11月17日修正時,業已取消獎勵金之補助。\n四、副本送內政部營建署，本案嘉義縣政府所詢有關集村農舍公共設施附表、農舍標準圖、建築面積、樓高...等疑義，係屬建築管理規定，敬請逕復該府。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3637",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:31+08:00",
+   "source_key": "rmis:3637"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "11",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "76623fcbae640017c5ffc5282cecd55478c833ccf320e89c6aa09e3b9281ee61",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "應先取得農民資格核定後,續向建築主管機關申請建築程序,惟依據農業用地興建農舍辦法第11條第2項規定:「直轄市、縣(市)主管建築機關為辦理前項興建集村農舍建築許可作業,應"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "文件。\n三、另外興建集村農舍之農舍用地可否辦理分割乙節,依據農業發展條例第16條第1項第7款及農業發展條例施行細則第11條第1項第6款規定,集村興建農舍經行政院"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "用地可否辦理分割乙節,依據農業發展條例第16條第1項第7款及農業發展條例施行細則第11條第1項第6款規定,集村興建農舍經行政院農業委員會同意,得辦理專案分割。另「集村興"
+  },
+  {
+   "law_id": "RMIS-2003",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "規定,集村興建農舍經行政院農業委員會同意,得辦理專案分割。另「集村興建農舍獎勵及協助辦法」於99年11月17日修正時,業已取消獎勵金之補助。\n四、副本送內政部營建署,本案"
+  }
+ ]
+}

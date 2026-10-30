@@ -1,0 +1,62 @@
+{
+ "id": "itp-7192eabef2",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1040221643號",
+ "date": "2015-06-25",
+ "date_text": "104/6/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：有關貴府函詢油條之製作，是否屬於申請農業用地作農業設施容許使用審查辦法第13條第1項第3款所定農產運銷加工設施範疇案，復請查照。\n說明：\n一、復貴府104年6月6日屏府農企字第10417917600號函。\n二、查區域計畫法施行細則第15條第1項第5款規定，農牧用地係供農牧生產及其設施使用。次查申請農業用地作農業設施容許使用審查辦法第13條附表1所定農糧產品加工室許可使用細目係指農糧產品加工所需之相關設施。是以，利用農牧用地從事農糧產品加工行為，自應連結農業生產，並使用農糧產品作為原料，合先敘明。\n三、有關油條之製作係使用麵粉為原料，該原料本身允屬加工食品，似未符合前揭規定意旨，爰製作油條之設施，未宜申請農業用地作農產運銷加工設施(農糧產品加工室)容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5449",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:58+08:00",
+   "source_key": "rmis:5449"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "8fa784fce95d76a91118ded2bd858075f718eb0ac911b5dc98bfd1553533c55f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "查辦法-農糧署解釋函\n主旨:有關貴府函詢油條之製作,是否屬於申請農業用地作農業設施容許使用審查辦法第13條第1項第3款所定農產運銷加工設施範疇案,復請查照。\n說明:\n一、復貴府104年6"
+  }
+ ]
+}

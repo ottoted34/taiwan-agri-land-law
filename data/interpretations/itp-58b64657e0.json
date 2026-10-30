@@ -1,0 +1,64 @@
+{
+ "id": "itp-58b64657e0",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970990461號",
+ "date": "2008-09-19",
+ "date_text": "97/9/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農村社區土地重劃條例第9條規定由土地所有權人自行辦理之農村社區土地重劃，是否應依農業發展條例第12條規定，繳交農業用地變更回饋金案。",
+ "content": "主旨：有關依農村社區土地重劃條例第9條規定由土地所有權人自行辦理之農村社區土地重劃，是否應依農業發展條例第12條規定，繳交農業用地變更回饋金案，復請 查照。\n說明：\n一、復 貴辦公室97年8月17日97立鈞法字第○○○○○號函。\n二、依農業發展條例第12條第1項規定農業用地於劃定或變更為非農業使用時，應視其事業性質繳交回饋金，而同條第4項第1款規定對於農業用地變更係屬「政府興辦之公共建設及公益性設施」者，始得免予繳交，合先敘明。\n三、對於土地所有權人自行組成重劃會辦理農村社區土地重劃，得否認定為政府興辦之公共建設及公益性設施，前經本會函詢農村社區土地重劃條例之主管機關內政部，該部於96年10月11日內授中辦地字第0960052345號，表示略以：「土地所有權人辦理農村社區土地重劃，係土地所有權人自行辦理之農村社區土地重劃，尚難認定為政府興辦之公共建設及公益性設施」。爰以，重劃範圍內涉及非都市土地之農業用地變更作非農業使用，仍應依農業發展條例及農業用地變更回饋金撥繳及分配利用辦理之規定繳交回饋金，本會並於96年10月17日農企字第0960156984號函說明有案。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5074",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:47+08:00",
+   "source_key": "rmis:5074"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "042ef1c9975541d942dcfdc82e01cfd1c2bbd8cffb22af53b86598d9a0635c94",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "第9條規定由土地所有權人自行辦理之農村社區土地重劃,是否應依農業發展條例第12條規定,繳交農業用地變更回饋金案。\n主旨:有關依農村社區土地重劃條例第9條規定由土"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "itp-7fe9497998",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1010112699號",
+ "date": "2012-06-18",
+ "date_text": "101/6/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "為貴局函詢都市計畫內農業區建地目是否須予以查核有無興建自用農舍之情形疑義案，請 查照。",
+ "content": "一、復貴局101年6月4日中市農地字第1010014749號函。\n二、首揭函引述內政部92年8月13日台內地字第0920010989號函略以：「...如係都市計畫發布前已為建地目者，得依都市計畫法臺灣省施行細則第30條規定，申請建造執照者，仍得予以受理；如屬都市計畫發布後，始將農業區田、旱地目土地變更為建地目者，依同細則第29條規定僅得申請興建農舍，...」，依前述函意旨，都市計畫農業區建地目仍有以農舍方式興建之情形，爰貴局仍應查核申請人名下都市計畫內農業區建地目有無興建自用農舍。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2808",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:29+08:00",
+   "source_key": "rmis:2808"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e3d39679cc8b9b7eec3949e7d9e8f05ad89140bcdfd72ad11f0db2846d65656a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

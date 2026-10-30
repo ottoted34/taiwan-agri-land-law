@@ -1,0 +1,64 @@
+{
+ "id": "itp-a2ea421268",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990105342號",
+ "date": "2010-01-25",
+ "date_text": "99/1/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○鄉○○○申請非都市土地變更編定為宗教建築設施使用之興辦事業計畫變更涉及隔離設施之認定標準執行疑義一案。",
+ "content": "主旨：有關函為貴縣○○鄉○○○申請非都市土地變更編定為宗教建築設施使用之興辦事業計畫變更涉及隔離設施之認定標準執行疑義一案，復請　查照。\n說明：\n一、復貴局○○年○月○日北農牧字第○○○○○號函。\n二、依據「農業主管機關同意農業用地變更使用審查作業要點」第13點第1項規定：「隔離設施之認定，指具有隔離效果之通路、水路、空地、廣場、平面停車場、開放球場及蓄水池等非建築之開放性設施。直轄市或縣（市）農業主管機關得依轄區農業用地特性增列具隔離效果之隔離設施項目，報中央農業主管機關備查。」準此，來文所詢地下停車場、公用水塔等設施，宜請先洽詢貴府目的事業及建築管理主管機關查明是否屬建築行為，若非屬建築行為請依同要點第12點第3款規定，依其行為事實，秉權責處理認定之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5464",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:24+08:00",
+   "source_key": "rmis:5464"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "dc2e11c0de0dc2c629e00594b6bcf21a0682f752323fce43427b9f48563e7727",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "一、復貴局○○年○月○日北農牧字第○○○○○號函。\n二、依據「農業主管機關同意農業用地變更使用審查作業要點」第13點第1項規定:「隔離設施之認定,指具有隔離效果之通路、水路、空地、廣場、平"
+  }
+ ]
+}

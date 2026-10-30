@@ -1,0 +1,54 @@
+{
+ "id": "itp-f17a0800cd",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132604957號",
+ "date": "2024-04-19",
+ "date_text": "113/4/19",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢養殖漁業生產區範圍內之農業用地，申請再生能源發電設施(風力發電)之容許使用疑義案，復如說明，請查照。",
+ "content": "一、依據非都市土地使用管制規則（以下簡稱管制規則）第6條附表1「各種使用地容許使用項目及許可使用細目表」之規定，於農牧用地或養殖用地設置再生能源相關設施之容許使用，其附帶條件已明定略以：限於風力發電、太陽光電、小水力發電及地熱發電之發電設施點狀使用，點狀使用面積不得超過660平方公尺。\n二、又依據農業主管機關同意農業用地變更使用審查作業要點(以下簡稱變更要點)第7點規定，經政府核定之養殖漁業生產區範圍內之農業用地，除符合但書規定之情形者外，不同意變更使用。至各種使用地類別之容許使用項目之設置，仍應依管制規則第6條附表1「各種使用地容許使用項目及許可使用細目表」所定之容許使用項目及許可細目辦理之。是以，於養殖漁業生產區範圍內農牧用地，申請作非農業使用性質之風力發電設施容許使用，如符合管制規則第6條附表1之規定者，得依管制規則規定提出申請。至於貴府農業主管機關於目的事業主管機關徵詢審查意見時，則應依據變更要點第5點規定，就有無影響農業生產環境完整性之相關審查標準予以審查，並得請申請人於申請書件中具體說明不影響農業生產環境之配套作法，俾據以審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6028",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:41+08:00",
+   "source_key": "rmis:6028"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "32078a711e2fdd8195b75cd39cd9dedcdc2cff74ad1fae8796e051f72403be0b",
+ "topics": [
+  "land_change",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "施點狀使用,點狀使用面積不得超過660平方公尺。\n二、又依據農業主管機關同意農業用地變更使用審查作業要點(以下簡稱變更要點)第7點規定,經政府核定之養殖漁業生產區範圍內之農業用地,除符"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "tech-4fe7981151a4",
+ "source_key": "datamoa:740:30da69d248e5613c",
+ "title": "作物合理化施肥（果樹篇）",
+ "series": "技術專刊",
+ "issue": "特刊第3號",
+ "agency_id": "tndais",
+ "authors": "黃山內、黃和炎主編",
+ "date": "1998-05",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": "55頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "特刊第3號",
+  "題目": "作物合理化施肥（果樹篇）",
+  "作者": "黃山內、黃和炎主編",
+  "出版日期年月": "08705",
+  "頁數": "55頁",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/publish3.htm",
+  "備註": "無存書"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T10:26:45+08:00"
+  }
+ ],
+ "content_hash": "1fbf5db2a50a493152334563bccd03d67d8650d04f041f657145c1ce7f42c98e",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": [
+  "fruit",
+  "soil"
+ ]
+}

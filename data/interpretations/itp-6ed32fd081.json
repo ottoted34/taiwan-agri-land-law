@@ -1,0 +1,48 @@
+{
+ "id": "itp-6ed32fd081",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080725877號",
+ "date": "2019-09-20",
+ "date_text": "108/9/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關民眾申請坐落貴市大甲區○○○地號農業用地興建自用農舍之申請人資格條件審查，涉及農舍用地是否臨接道路疑義，復如說明，請查照。",
+ "content": "一、復貴局108年9月5日中市農地字第1080030582號函。\n\n二、有關「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性」所指之「道路」定義，本會前於107年7月26日農企字第1070012917號、108年1月16日農企字第1070253990號、108年5月6日農企字第1080206692號函說明在案(諒達)，本會亦於108年5月28日農企字第1080713262號函復貴府相關處理原則在案(諒達)。\n\n三、基於農舍之審認尚須依現況事實認定，故本案編定之水利用地既屬農田水利會所有，為確認是否作為農業所需之灌溉排水用途，以及現況是否已有水路使用之事實，又倘為部分使用情形，惟僅部分使用之理由及剩餘水利用地仍須保留並作為水路之需要等相關佐證資料，建議貴局亦可依行政程序法第40條規定，基於調查事實及證據之必要，請農田水利會提供，以利貴局審認判斷。至來函說明三提及農田水利會同意提供水利建造物係供農舍用地至道路之通行使用，得否併納入上開水利用地供水路使用之佐證資料，涉及二者之連結關係，請貴局自行酌處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4674",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:10+08:00",
+   "source_key": "rmis:4674"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b36b0e165b80378666ed3c3a07cc25e361cbef7f3889c59f3e0a13eab5b352cd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

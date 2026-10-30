@@ -1,0 +1,79 @@
+{
+ "id": "itp-2d622b2e3a",
+ "doc_class": "interpretation",
+ "docno": "台內地字第1040422298號",
+ "date": "2015-06-25",
+ "date_text": "104/6/25",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "貴局函詢為臺南市政府農業局函詢有關辦理興建農舍資格審查之農業用地取得時點疑義1案，復請查照。",
+ "content": "一、復貴局104年6月16日水保農字第1041881313號函。\n二、按「二宗以上所有權人不同之土地辦理合併時，各所有權人之權利範圍依其協議定之。......」及「依本條例第18條第1項規定申請興建農舍之申請人應為農民，且其資格應符合下列條件，並經直轄市、縣(市)主管機關核定：......二、申請人之戶籍所在地及其農業用地，須在同一直轄市、縣(市)內，且其土地取得及戶籍登記均應滿二年者。但參加興建集村農舍建築物坐落之農業用地，不受土地取得應滿二年之限制。......」分為土地登記規則第88條及農業用地興建農舍辦法第2條所明定。次按有關農業用地取得時點，除因繼承、強制執行、徵收、法院之判決或其他非因法律行為等情形，應以土地登記簿所有權部登記日期為準，為貴會101年6月29日農水保字第1011865000號令所明定。是本案因民眾申請興建農舍資格審查時，其取得原農業用地時間已逾2年，然因土地合併登記後，致生取得時點是否須重新起算疑義，建請貴會宜兼顧共有人權益依農業發展條例第18條規定立法意旨卓酌之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4037",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:53+08:00",
+   "source_key": "rmis:4037"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "580653d750ff4a55bca2db73a2375bd0afe92f23b0c439959ed972e15bf081a8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "取得應滿二年之限制。......」分為土地登記規則第88條及農業用地興建農舍辦法第2條所明定。次按有關農業用地取得時點,除因繼承、強制執行、徵收、法院之判決或其他非因"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": ",致生取得時點是否須重新起算疑義,建請貴會宜兼顧共有人權益依農業發展條例第18條規定立法意旨卓酌之。"
+  }
+ ]
+}

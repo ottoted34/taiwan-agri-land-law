@@ -1,0 +1,55 @@
+{
+ "id": "itp-5216747ca5",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051800276號",
+ "date": "2016-01-11",
+ "date_text": "105/1/11",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業設施未依原核定之計畫內容使用，於違規情節未排除前，應不得同意變更作農舍使用，請查照。",
+ "content": "一、依據行政院農業委員會105年1月7日農企字第1040250902號函辦理。\n二、查上開號函說明五略以:「...104年9月4日修正發布之『農業用地興建農舍辦法』第2條明定，興建農舍須提送經營計畫，以確保該農業用地確供農業使用，並不得影響農業生產環境及農村發展，又同辦法第5條第1項第5款亦明定，申請興建農舍之農業用地，有其他違反土地使用管制規定者，不得申請興建。爰除加強申請農舍興建之經營計畫審核外，針對本案之農業設施已違規作住宅使用，擬逕將設施直接以申請興建農舍方式取得合法化之情形，依容許辦法及上開農舍辦法規定，在違規情節未排除前，應不得同意農舍之申請，亦無就違反農業設施容許使用或經廢止容許使用之設施物，同意得予補辦作農舍使用，以杜絕假農業設施之名，卻作住宅使用現象。」，請貴府據以辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3240",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:56+08:00",
+   "source_key": "rmis:3240"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ade5c9a4afda4adefb09199316bee23c0c28dc9a70e15d9a0c0afd8d561cadf3",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "二、查上開號函說明五略以:「...104年9月4日修正發布之『農業用地興建農舍辦法』第2條明定,興建農舍須提送經營計畫,以確保該農業用地確供農業使用,並不得影響農業生產環"
+  }
+ ]
+}

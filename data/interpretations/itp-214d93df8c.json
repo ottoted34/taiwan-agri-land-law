@@ -1,0 +1,62 @@
+{
+ "id": "itp-214d93df8c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960132139號",
+ "date": "2007-06-20",
+ "date_text": "96/6/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋辦理「臺中縣豐洲科技工業園區」開發，是否免繳農業用地變更回饋金之疑義案。",
+ "content": "主旨：有關　貴府辦理「臺中縣豐洲科技工業園區」開發，是否免繳農業用地變更回饋金之疑義案，復請　查照。\n說明：\n一、復　貴府96年6月11日府農地字第○○○○○號函。\n二、有關　貴府依「促進產業升級條例」及相關規定，申請編定及開發「臺中縣豐洲科技工業園區」一案，查促進產業升級條例第25條規定，「工業主管機關為開發工業區，得依法申請徵收私有土地。」復查土地徵收條例第1條、第3條、第4條規定，係為政府主動辦理，並以促進土地利用，增進公共利益為目的，訂定相關徵收補償規定。\n三、按農業發展條例第12條第4項第1款，對於「政府興辦之公共建設及公益性設施」得免繳交回饋金之情形，業有明定。有關　貴府開發之工業區，倘係以促進產業升級條例及土地徵收條例方式辦理徵收開發工業區，應可視為屬政府主動辦理開發之相關公共建設，得適用農業發展條例第12條第4項第1款規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5124",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:40+08:00",
+   "source_key": "rmis:5124"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8bef11be9d6e2bb8325594b8c8089fb7002b776f6f1b8cff2583e8489890ee17",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "土地利用,增進公共利益為目的,訂定相關徵收補償規定。\n三、按農業發展條例第12條第4項第1款,對於「政府興辦之公共建設及公益性設施」得免繳交回饋金之情形,業有明"
+  }
+ ]
+}

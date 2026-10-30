@@ -1,0 +1,58 @@
+{
+ "id": "itp-98b850b8ac",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040223088號",
+ "date": "2015-06-30",
+ "date_text": "104/6/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺灣花蓮農田水利會辦理「台9線235K+525~237K+490路基拓寬工程」移設灌溉溝渠解除鳳林鎮○○○地號農舍列管疑義1案，復請查照。",
+ "content": "一、復貴府104年6月16日府建管字第1040080239號函。\n二、本案係內政部營建署權管範圍，且內政部營建署於104年6月24日營署建管字第1040040322號核示有案，請貴府依規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3381",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:46+08:00",
+   "source_key": "rmis:3381"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "291afa305c9a99541c7f282c1596013e88c1a9620f1ecf0b7d2d8c2d8d2dac0c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "itp-b5156d8df5",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960152623號",
+ "date": "2007-09-28",
+ "date_text": "96/9/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋申請農業用地容許作農業設施使用，其整筆地號已作分管，然其他分管部分有未申請之農業設施，是否需要求一併提出申請之疑義案。",
+ "content": "主旨：有關　貴府函詢申請農業用地容許作農業設施使用，其整筆地號已作分管，然其他分管部分有未申請之農業設施，是否需要求一併提出申請之疑義案，復請　查照。\n說明：\n一、復　貴府96年9月18日府農務字第○○○○○號函。\n二、有關申請人就其分管之農業用地部分申請容許作農業設施使用，於現地勘察時發現其他共有人分管部分有未經申請之農業設施，應輔導其他共有人將未經申請之農業設施，依「農業用地容許作農業設施使用審查辦法」之規定提出申請，以符土地使用管制之法令。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5284",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:02+08:00",
+   "source_key": "rmis:5284"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "61929ffe5f5a70eb86de6ed25b57d459c28835a90ee9cf2163925fbb161ef08d",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "未經申請之農業設施,應輔導其他共有人將未經申請之農業設施,依「農業用地容許作農業設施使用審查辦法」之規定提出申請,以符土地使用管制之法令。"
+  }
+ ]
+}

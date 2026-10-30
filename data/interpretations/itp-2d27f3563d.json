@@ -1,0 +1,70 @@
+{
+ "id": "itp-2d27f3563d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970119064號",
+ "date": "2008-04-11",
+ "date_text": "97/4/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "037 釋繼承案件申請農業用地作農業使用證明書之時間認定案",
+ "content": "查民法第1147條及第1148條分別明定「繼承，因被繼承人死亡而開始。」「繼承人自繼承開始時，除本法另有規定外，承受被繼承人財產上之一切權利義務。」準此，被繼承人死亡時，繼承即已發生，故被繼承之土地於被繼承人死亡時，倘屬農業發展條例施行細則第2條所定之農業用地或符合農業發展條例施行細則第14條之1之土地，均可申請核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4803",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:16+08:00",
+   "source_key": "rmis:4803"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "01c488f8ba9596b45aa789f054386eaf107329670fbe9189c04f6a4fef4ed7d0",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "人死亡時,繼承即已發生,故被繼承之土地於被繼承人死亡時,倘屬農業發展條例施行細則第2條所定之農業用地或符合農業發展條例施行細則第14條之1之土地,均可申請核發農業用地"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "14-1",
+   "kind": "extracted",
+   "snippet": "人死亡時,倘屬農業發展條例施行細則第2條所定之農業用地或符合農業發展條例施行細則第14條之1之土地,均可申請核發農業用地作農業使用證明書。"
+  }
+ ]
+}

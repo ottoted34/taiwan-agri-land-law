@@ -1,0 +1,70 @@
+{
+ "id": "itp-5a64b59412",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1021866061號",
+ "date": "2013-09-30",
+ "date_text": "102/9/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "檢送申請興建農舍之申請人資格條件審查表，請查照。",
+ "content": "「農業用地興建農舍辦法」業於102年7月1日修正發布施行，有關興建資格條件增列農業發展條例修正施行前取得之農業用地依法被徵收者、禁止興建農舍之區位、五年內曾取得建造者不予許可等規定，並於該辦法第2條第2項明定得由農業單位邀集環境保護、建築管理、地政、都市計畫等單位組成審查小組，審查第2條第1項、第3條至第6條規定事項，爰配合辦法修法條文，修正申請興建農舍之申請人資格條件審查表，請各直轄市、縣市政府依旨揭審查表辦理，並得自行調整業務分工。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2806",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:21+08:00",
+   "source_key": "rmis:2806"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "56a026ba5893e0c3e547126692f3044fc2ca4ec11168b7fd765ba3bbd9053907",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "檢送申請興建農舍之申請人資格條件審查表,請查照。\n「農業用地興建農舍辦法」業於102年7月1日修正發布施行,有關興建資格條件增列農業發展條例修正施行前取得"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "辦法」業於102年7月1日修正發布施行,有關興建資格條件增列農業發展條例修正施行前取得之農業用地依法被徵收者、禁止興建農舍之區位、五年內曾取得建造者不予"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "itp-a5f5c3f2eb",
+ "doc_class": "interpretation",
+ "docno": "營署都字第0960055030號",
+ "date": "2007-10-08",
+ "date_text": "96/10/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "043 釋都市計畫主管機關出具符合農業發展條例施行細則第14條之1土地使用分區證明案",
+ "content": "內政部營建署釋：有關農業發展條例施行細則第14條之1第2款規定所稱「公告實施市地重劃或區段徵收計畫」究指公告起始日或期滿日案案經本部地政司96年9月28日內地司（11）發字第0960002858號書函復意見，旨揭條文所稱「公告實施市地重劃或區段徵收計畫前」，係指市地重劃或區段徵收計畫公告起始日之前而言。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4894",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:57+08:00",
+   "source_key": "rmis:4894"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c976c54602892fd71fc34286d8dcba4cac31de7a5cc256ed562625f70af2bbda",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "14-1",
+   "kind": "extracted",
+   "snippet": "043 釋都市計畫主管機關出具符合農業發展條例施行細則第14條之1土地使用分區證明案\n內政部營建署釋:有關農業發展條例施行細則第14條之1第2款規"
+  }
+ ]
+}

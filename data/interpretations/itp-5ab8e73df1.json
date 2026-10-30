@@ -1,0 +1,55 @@
+{
+ "id": "itp-5ab8e73df1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030703757號",
+ "date": "2014-03-04",
+ "date_text": "103/3/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "審認核發農業用地作農業使用證明書，涉及非都市土地使用編定公告前之合法房屋範圍認定疑義案。",
+ "content": "主旨：有關貴府函詢審認核發農業用地作農業使用證明書，涉及非都市土地使用編定公告前之合法房屋範圍認定疑義案，復請查照。\n說明：\n一、復貴府103年1月29日府產農字第1030056575號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第4款明定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：．．．四、農業用地存在非都市土地使用編定公告前之合法房屋，經檢具證明文件。．．．」本會並於102年10月31日通函將「核發農業用地作農業使用證明書審查表」內針對該款規定之審查權責，已修正回歸由建設(工務)單位認定在案，爰經建設(工務)單位審認為合法房屋者，始符合規定。至確非屬上開單位依建築法等相關法令得認屬合法房屋之建築物、法定空地等範圍外之其餘設施，倘具農業設施性質者，亦得協助取具容許使用同意書或檢附從來使用之證明文件，俾供審認符合作農業使用之認定基準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5272",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:55+08:00",
+   "source_key": "rmis:5272"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2a1bfb3578d754fe54726c0f41c81a630d4421f650e431912f66200fae3eab55",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "03年1月29日府產農字第1030056575號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第4款明定略以:「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為"
+  }
+ ]
+}

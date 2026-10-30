@@ -1,0 +1,56 @@
+{
+ "id": "itp-1255b827f0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070711145號",
+ "date": "2018-05-16",
+ "date_text": "107/5/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋養殖用地休養及地層下陷可否認定不可抗力事由",
+ "content": "主旨：有關臺端函詢養殖用地如何申請休養及嚴重地層下陷地區農地是否得認屬為不可抗力之事由等問題案，復請查照。\n說明：\n一、復臺端107年4月17日申請書。\n二、查農業用地作農業使用認定及核發證明辦法第4條第1款規定：「農業用地符合下列情形，且無第五條所定情形者，認定為作農業使用：一、農業用地實際作農作、森林、養殖、畜牧、保育使用者；其依規定辦理休耕、休養、停養或有不可抗力等事由而未使用者，亦得認定為作農業使用。」爰農業用地如係配合政府政策，依規定申請休耕、休養、停養者，得視為作農業使用。惟查現階段本會並無推動養殖漁業休養政策，故無辦理休養之相關規定措施。\n三、至嚴重地層下陷地區農地是否得認屬不可抗力之事由一節，所稱「不可抗力事由」係指原有農業使用之農業用地，因天然災害之變故，致無法繼續從事農業使用之事實，非其怠於耕作，得視為作農業使用。查經公告劃設為嚴重地層下陷地區之農地，雖較具不利耕作之條件，惟並非全然無法從事農業使用，須視個案實情，依上開條件予以認定是否具有不可抗力事由。臺端倘有個案疑義，建議可逕洽詢土地所在地之直轄市、縣(市)政府協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5131",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:26+08:00",
+   "source_key": "rmis:5131"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "519b0c1ff2f4e78d569231f2eedc4bbf57be40587fbb8650f70f0986bb8fc450",
+ "topics": [
+  "farm_use_cert",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "查照。\n說明:\n一、復臺端107年4月17日申請書。\n二、查農業用地作農業使用認定及核發證明辦法第4條第1款規定:「農業用地符合下列情形,且無第五條所定情形者,認定為作農業使用:一、"
+  }
+ ]
+}

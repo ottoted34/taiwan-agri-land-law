@@ -1,0 +1,77 @@
+{
+ "id": "itp-072c3c0f52",
+ "doc_class": "interpretation",
+ "docno": "農牧字第0970173386號",
+ "date": "2008-12-29",
+ "date_text": "97/12/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "066 釋農業用地經核准容許作畜牧設施使用，所核准之畜牧空地上得舖設水泥、柏油或磁磚案",
+ "content": "查農業用地作農業使用認定及核發證明辦法第5條明定：「農業用地有下列情形，且無第六條及第七條之情形者，認定為作農業使用：一、農業用地實際作農作、森林、養殖、畜牧、保育使用者；其依規定辦理休耕、休養、停養或有不可抗力等事由而未使用者，亦得認定為作農業使用。 二、農業用地上施設有農業設施，並檢附下列各款文件之一：（一）容許使用同意書及建築執照。但依法免申請建築執照者，免附建築執照。（二）農業設施得為從來使用之證明文件。三、農業用地上興建有農舍，並檢附農舍之建築執照。」該條文並未有須檢附畜牧場登記證之規定，故請依前開辦法之規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4973",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:23+08:00",
+   "source_key": "rmis:4973"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "9b77fc654a8eeaa30ac66d449bb01caef0adcf16fe79b0e23d3056b7510f8b01",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "畜牧設施使用,所核准之畜牧空地上得舖設水泥、柏油或磁磚案\n查農業用地作農業使用認定及核發證明辦法第5條明定:「農業用地有下列情形,且無第六條及第七條之情形者,認定為作農業使用:一、農"
+  }
+ ]
+}

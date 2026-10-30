@@ -1,0 +1,56 @@
+{
+ "id": "itp-25c9f6a36e",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050214742號",
+ "date": "2016-05-12",
+ "date_text": "105/5/12",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾申請貴市內門區○○○地號土地興建自用農舍，因部分土地位於河川區域線內，是否符合農業用地興建農舍辦法相關規定案，復如說明，請查照。",
+ "content": "一、復行政院農業委員會交下貴局105年4月19日高市農務字第10531041800號函。\n二、旨揭案件本局以105年1月29日水保農字第1050201956號函回復有案。\n三、查農業用地興建農舍辦法第5條第1項規定略以:「申請興建農舍之農業用地，有下列情形之一者，不得依本辦法申請興建農舍:...四、其他違反土地使用管制規定者。」，另依水利法第78條規定略以:「河川區域內，禁止下列行為:...四、建造工廠或房屋。...」，同法第78-1條規定:「河川區域內之下列行為依經許可:四、種植植物。...六、圍築魚塭、插、吊蚵或飼養牲畜。...」，合先敘明。\n四、綜上，河川區域內禁止興建房屋，另有關種植農作物、魚塭及飼養牲畜等農業使用，應經主管機關許可使得使用，爰該區域內不得興建農舍，如農業用地部分面積位於河川區域線內，除經主管機關許可作為農業使用之面積得納入計算外，餘應扣除位於河川區域線內之面積後，再計算之；其納入計算之百分之九十應確實維持農業生產使用。\n五、請貴局依上開規定本於權責辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4136",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:11+08:00",
+   "source_key": "rmis:4136"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8adb8d47ebcd0d22a4b3dec90ff496f7ffb5eb52b00f659717252e68026c8f2f",
+ "topics": [
+  "partial_use",
+  "farmhouse",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "月29日水保農字第1050201956號函回復有案。\n三、查農業用地興建農舍辦法第5條第1項規定略以:「申請興建農舍之農業用地,有下列情形之一者,不得依本辦法申請興建"
+  }
+ ]
+}

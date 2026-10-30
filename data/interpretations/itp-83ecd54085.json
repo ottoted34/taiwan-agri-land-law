@@ -1,0 +1,54 @@
+{
+ "id": "itp-83ecd54085",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080224439號",
+ "date": "2019-07-18",
+ "date_text": "108/7/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局審認興建農舍之申請人資格條件疑義案，復如說明，請查照。",
+ "content": "一、復貴局108年6月11日新北農牧字第1081011366號函。\n二、查農業用地興建農舍辦法規定，申請興建農舍者，應先取得農民資格核定後，再向建築主管機關申請建築許可。又依上開辦法規定，農舍之資格審查除農民條件外，尚包括農舍用地與農業經營用地之整體配置狀況、農舍放流水排水形式及排放、涉及農業經營之使用狀況及其產銷計畫等事項，俾審認是否符合興建農舍以輔助農業生產之意旨，經農業主管單位許可農舍申請之資格條件後，建築主管機關始據以受理審核建造執照，該農民資格之核定作業，地方政府亦已邀集府內相關單位組成審查小組或會辦方式辦理，先予敘明。\n三、又，建築主管機關受理農舍建造執照之申請時，應依照農業主管機關核定內容據以續審，倘建造執照申請資料與前項農業主管機關資格審查事項核定內容不一致者，應請申請人依照農業主管機關核定內容修正建照執造申請內容或據以駁回。本案因農舍位置異動且農舍用地面積增加，已與農業主管機關核定之許可內容不一致，建築主管機關應依上開原則辦理。\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，仍請貴局依個案實情衡酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4612",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:17+08:00",
+   "source_key": "rmis:4612"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ae746efd0db751121c26ac6df129455d1365b76315214310f6530adaeb617cca",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "8年6月11日新北農牧字第1081011366號函。\n二、查農業用地興建農舍辦法規定,申請興建農舍者,應先取得農民資格核定後,再向建築主管機關申請建築許可。又依"
+  }
+ ]
+}

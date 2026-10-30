@@ -1,0 +1,64 @@
+{
+ "id": "itp-10e59c7c51",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010125967號",
+ "date": "2012-09-27",
+ "date_text": "101/9/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺灣中油股份有限公司(以下簡稱中油公司)為事業所需興建之設施，申請農業用地變更使用，得否免繳變更回饋金案。",
+ "content": "主旨：有關臺灣中油股份有限公司(以下簡稱中油公司)為事業所需興建之設施，申請農業用地變更使用，得否免繳變更回饋金案，復請 查照。\n說明：\n一、依據經濟部101年9月19日經授營字第10120372650號函辦理，並復 貴府101年6月25日北農牧字第1012010339號函。\n二、依據農業發展條例第12條規定，農業用地變更，應視其事業性質繳交回饋金，供農業發展及農民福利之用，除同條第4項之例外規定者外，原則均應繳交回饋金。復依該項第1款所稱「政府興辦之公共建設及公益性設施」，則應符合「政府興辦」之主體且具「公共建設及公益性設施」之性質，始有上開規定之適用，而得免予繳交回饋金，合先敘明。\n三、本案經濟部以前揭函復審認加油站之性質應屬公共設施。惟該部未審認中油公司興辦之事業設施屬「政府興辦」及具公益性設施性質，爰難認定得有前開條例第12條第4項第1款規定之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5575",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:56+08:00",
+   "source_key": "rmis:5575"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b1467b9f46102c9949cd00bb5ea1e7c3e45c272bf9383bdd57efb579915633c1",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "1年6月25日北農牧字第1012010339號函。\n二、依據農業發展條例第12條規定,農業用地變更,應視其事業性質繳交回饋金,供農業發展及農民福利之用,除同條第"
+  }
+ ]
+}

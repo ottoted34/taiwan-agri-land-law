@@ -1,0 +1,70 @@
+{
+ "id": "itp-c3749a94d5",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970161440號",
+ "date": "2008-11-04",
+ "date_text": "97/11/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "031 公有土地申請農業用地作農業使用證明書，無需檢附租賃契約及讓售同意書案",
+ "content": "主旨：有關訂有耕地三七五租約之農業用地核發農業用地作農業使用證明書時，是否須會同或告知佃農疑義案，復請 查照。\n說明：\n一、復 貴府97年10月28日府農管字第0970355750號函。\n二、查農業用地作農業使用證明書係證明農業用地確作農業使用，俾供農業用地之所有權人依農業發展條例之規定，申請賦稅減免優惠，且農業用地作農業使用認定及核發證明辦法並未針對訂有租賃契約之農業用地應通知承租人之相關規範，故有關農業用地所有權人申請核發農業用地作農業使用證明書時，並無須會同或告知承租人。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5433",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:36+08:00",
+   "source_key": "rmis:5433"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "548a6e4a5846247c589870de3a8c68637009fdb75ca060d3910f7de51f9ed759",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用證明書係證明農業用地確作農業使用,俾供農業用地之所有權人依農業發展條例之規定,申請賦稅減免優惠,且農業用地作農業使用認定及核發證明辦法並未針對訂有租賃"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地之所有權人依農業發展條例之規定,申請賦稅減免優惠,且農業用地作農業使用認定及核發證明辦法並未針對訂有租賃契約之農業用地應通知承租人之相關規範,故有關農業用地所有權人申請"
+  }
+ ]
+}

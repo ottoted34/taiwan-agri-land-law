@@ -1,0 +1,74 @@
+{
+ "id": "itp-3870f0388b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990154784號",
+ "date": "2010-08-30",
+ "date_text": "99/8/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "非都市土地農牧用地作戶外廣告物設施之容許使用，其農業用地作農業使用證明書核發及農業用地變更回饋金收取之疑義案。",
+ "content": "主旨：有關非都市土地農牧用地作戶外廣告物設施之容許使用，其農業用地作農業使用證明書核發及農業用地變更回饋金收取之疑義案，復請 查照。\n說明：\n一、復 貴府99年8月12日府農管字第0990310983號函。\n二、查農業用地應符合作農業使用之認定，始得核發農業用地作農業使用證明書；又農業用地作農業使用證明書之審核，所申請之農業用地如為單獨所有應以整筆審認，如為分別共有得就共有人持分部分審認之，本會前於99年8月2日以農企字第0990150558號函復貴府在案。為避免農業用地零星開發作非農業使用後，影響農業生產環境之完整性，仍享有賦稅減免之優惠，故農業用地作農業使用證明書之核發，仍請 貴府依上開函釋原則核處。\n三、至於非都市土地農牧用地作為農業設施以外之容許使用項目，查本會已於93年2月19日農企字第0930107816號函(如附)說明，略以：「...回饋金之收取，係以農業用地變更為非農業使用為認定基準，實質上已非屬農業經營使用，仍應依上開『農業用地變更撥繳回饋金及分配利用辦法』規定辦理。至其計算標準與收取回饋金，應請比照該辦法變更為特定目的事業用地之收取規定辦理。」準此，非都市土地農業用地作戶外廣告物設施之使用，請 貴府依上開函釋比照農業用地變更回饋金撥繳及分配利用辦法第4條第5款規定，以獲准容許變更作非農業使用面積當期公告土地現值乘積5%為計算基準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5400",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:35+08:00",
+   "source_key": "rmis:5400"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "4",
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "537e7e71e42ef481f5a28158714e95a4b67a73261d16395a729d0f622b49e2d5",
+ "topics": [
+  "farm_use_cert",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "市土地農業用地作戶外廣告物設施之使用,請 貴府依上開函釋比照農業用地變更回饋金撥繳及分配利用辦法第4條第5款規定,以獲准容許變更作非農業使用面積當期公告土地現值乘積5%為計算基準。"
+  }
+ ]
+}

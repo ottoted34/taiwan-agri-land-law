@@ -1,0 +1,73 @@
+{
+ "id": "itp-41b40676ad",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041880453號",
+ "date": "2015-05-14",
+ "date_text": "104/5/14",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍辦法第9條第2項第6款規定執行疑義，復請查照。",
+ "content": "一、復貴府104年5月11月府農務字第1040092832號函。\n二、貴府所詢有關農業用地興建農舍辦法第9條第1項第6款規定應為第9條第2項第6款之誤，合先敘明。\n三、有關農舍之個案審查係屬直轄市、縣(市)政府權責，貴府所詢「倘申請之土地面積扣除道路使用或不得計入法定空地面積(坡度55%)而未達450平方公尺者，其可興建農舍面積小於45平方公尺，是否仍須依上開辦法第9條第1項第6款規定，應經直轄市、縣(市)農業單位或其他主管機關同意?」，請就個案事實審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3496",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:29+08:00",
+   "source_key": "rmis:3496"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b93215ef2edfa5c126ce12ee64ebb9e937e8cda732e54113dcad8484c54fa90a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第9條第2項第6款規定執行疑義,復請查照。\n一、復貴府104年5月11月府農務字第10"
+  }
+ ]
+}

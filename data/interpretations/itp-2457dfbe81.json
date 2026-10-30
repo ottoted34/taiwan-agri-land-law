@@ -1,0 +1,55 @@
+{
+ "id": "itp-2457dfbe81",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1080713224號",
+ "date": "2019-05-10",
+ "date_text": "108/5/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "(漁業署)有關漁電共生專案之申請設置農業設施容許使用之面積",
+ "content": "主旨：貴府所詢漁電共生專案之申請設置農業設施容許使用之面積疑義案，復如說明，請查照。\n說明：\n一、復貴府108 年5 月3 日府綠開字第1080150275 號函辦理。\n二、依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第3條第1項第7款規定，農業設施之種類包括綠能設施；依容許辦法第7條規定，申請該辦法所定各項農業設施，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積之百分之四十，養殖經營結合之綠能設施，亦屬前述農業設施項目之一，其占用面積亦須計算於整體土地內農業設施占用面積之百分之四十內，合先敘明。\n三、有關容許辦法第7條第1項農業等生產設施不受百分之四十限制一節，經查其所指農業生產設施、室外水產養殖生產設施、室內水產養殖生產設施等不受百分之四十之限制，惟因綠能設施非屬前述之相關生產設施，故其設置面積計算仍應依說明二規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5622",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:04+08:00",
+   "source_key": "rmis:5622"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "da74bd484664c2f740bc83a0886a1130adb6197016ded4d5bf92f2593f21c7e5",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": " 月3 日府綠開字第1080150275 號函辦理。\n二、依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第3條第1項第7款規定,農業設施之種類包括綠能設施;依容許辦法第"
+  }
+ ]
+}

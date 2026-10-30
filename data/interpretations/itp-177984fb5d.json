@@ -1,0 +1,64 @@
+{
+ "id": "itp-177984fb5d",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041807372號",
+ "date": "2015-04-15",
+ "date_text": "104/4/15",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關依農業用地興建農舍辦法申請農民資格，分次取得持分土地申請興建農舍疑義案，請查照。",
+ "content": "一、復貴府104年4月2日府農務字第1040063895號函。\n二、有關申請興建農舍之土地取得時點，行政院農業委員會依據民法及土地法規定，前以101年6月29日農水保字第1011865000號令，核釋有案，其後並以102年10月25日農水保字第1021866046號令補充之。分次取得土地持分者，不論分次取得之單次面積是否達0.25公頃，皆應以該土地登記簿所有權部認定之。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3366",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:49+08:00",
+   "source_key": "rmis:3366"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "ae4f6d904e6cf1e4552c485df0ee645c64ba22b2d6a08300f916c68841b39de5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關依農業用地興建農舍辦法申請農民資格,分次取得持分土地申請興建農舍疑義案,請查照。\n一、復貴府104年4"
+  }
+ ]
+}

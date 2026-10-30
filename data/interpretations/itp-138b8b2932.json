@@ -1,0 +1,59 @@
+{
+ "id": "itp-138b8b2932",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980104041號",
+ "date": "2009-01-23",
+ "date_text": "98/1/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "009 釋農業用地作農業使用證明書核發後之撤銷案",
+ "content": "行政機關於作成行政處分後，如發現該處分違法時，基於依法行政原則之意旨，原則上得撤銷該處分，以回復合法之狀態。是以，本案宜請查明前開97年11月撤銷原核發農業用地作農業使用證明書之行政處分，是否為違法之行政處分後，依前開原則本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5512",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:11+08:00",
+   "source_key": "rmis:5512"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "620542acfd6288baddea96ab751a4c3a758b64334516c537bc0fd3da015cd0f1",
+ "topics": [
+  "farm_use_cert",
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

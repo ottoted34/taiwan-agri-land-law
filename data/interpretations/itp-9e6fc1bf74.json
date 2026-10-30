@@ -1,0 +1,57 @@
+{
+ "id": "itp-9e6fc1bf74",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051808330號",
+ "date": "2016-07-27",
+ "date_text": "105/7/27",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴市汐止區○○○地號土地課徵田賦或地價稅疑義案涉農舍部分，復如說明，請查照。",
+ "content": "一、復貴局105年7月12日新北農牧字第1051284383號函。\n二、農業用地上准許興建農舍，目的係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作，即指農舍係與農業經營不可分離。\n三、依農業用地興建農舍辦法第15條規定，依本辦法申請興建農舍之該農業用地應維持作農業使用…直轄市、縣(市)政府或其他主管機關為加強興建農舍之農業用地稽查及取締，應邀集農業、建築管理、地政、都市計畫及相關單位等與農業專家組成稽查小組定期檢查。\n四、惟該案據貴府來函所述，係因政府興建高速公路，徵收該筆土地大部分農地而剩餘原有農舍，致該農舍已無農業經營用地部分，其將造成後續農舍稽查疑義或影響該建物所有權人移轉及重建等權益，該等影響似為辦理相關公共建設徵收作業時應予一併考量之事項，爰建議貴府宜就該地號所剩餘土地之實際使用情形做適當之處置，以避免政府執行單一政策時，致其土地使用與其他法規產生競合或損及人民權益等情形。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3250",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:49+08:00",
+   "source_key": "rmis:3250"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5168e3e5c65b2c94bdd0f436d72419467b5659f02c9f4d1cb12ac41ec7a85de9",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "tax",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "以便利其從事農事工作,即指農舍係與農業經營不可分離。\n三、依農業用地興建農舍辦法第15條規定,依本辦法申請興建農舍之該農業用地應維持作農業使用...直轄市、縣(市)政府"
+  }
+ ]
+}

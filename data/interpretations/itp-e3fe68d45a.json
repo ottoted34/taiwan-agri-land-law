@@ -1,0 +1,56 @@
+{
+ "id": "itp-e3fe68d45a",
+ "doc_class": "interpretation",
+ "docno": "農牧字第1050228097號",
+ "date": "2016-08-08",
+ "date_text": "105/8/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用案件併同於屋頂附屬綠能設施，其附屬綠能設施部分之規費，應含併入申請容許使用之農業設施項目計算，毋須另行收取規費。",
+ "content": "主旨：貴府所詢新申請農業用地作農業(畜牧)設施容許使用案件併同申請於屋頂附屬綠能設施，其附屬綠能設施之部分是否得免收取規費一案，復如說明，請查照。\n說明：\n一、復貴府105年7月21日府農畜二字第1052515999號函。\n二、查本會94年6月22日農企字第0940131757號函說明略以：．．．旨揭收費標準第4條第1款規定「申請農業設施之容許使用者，每件收取新臺幣200元。」，其所稱「每件」應係指每一應申請容許使用之農業設施而言，換言之，該款規定應依申請農業設施容許使用之種類細目及數量為計算基準，收取規費，合再予敘明。\n三、另查本會於105年6月16日以農牧字第1050221358號函說明三略以，針對既領有容許使用同意文件之農業設施，後續申請附屬設置綠能設施，而辦理變更原經營計畫之申請案件，因須再行審查，且重新核發農業設施容許使用之同意文件，爰應依「農業主管機關受理申請許可案件及核發證明文件收費標準」規定，收取行政審查規費，併予敘明。\n四、至本案為新申請農業用地作農業(畜牧)設施容許使用即併同申請農業(畜牧)設施附屬之綠能設施，係於經營計畫中敘明農業經營與綠能設施之結合情形，由地方主管機關視實際需要而同意其附屬設置於農業(畜牧)設施，其規費應含併入申請容許使用之農業設施項目計算，毋須另行收取規費",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5416",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:46+08:00",
+   "source_key": "rmis:5416"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "08038f97ed0c5b4ddca28b86efc1e1870fcc7859db2abea1003a97cb9e885ff5",
+ "topics": [
+  "farm_use_cert",
+  "green_energy",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2005",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",因須再行審查,且重新核發農業設施容許使用之同意文件,爰應依「農業主管機關受理申請許可案件及核發證明文件收費標準」規定,收取行政審查規費,併予敘明。\n四、至本案為新申請農業用地作農業(畜牧)設施"
+  }
+ ]
+}

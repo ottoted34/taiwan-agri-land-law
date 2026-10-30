@@ -1,0 +1,56 @@
+{
+ "id": "itp-cb49587c2c",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020737694號",
+ "date": "2014-01-06",
+ "date_text": "103/1/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○○申請農業用地作農業使用證明書，惟該土地上之農業設施於自有農業用地上一併申請許可，是否需一併移轉疑義案。",
+ "content": "主旨：有關貴府函詢○○○申請農業用地作農業使用證明書，惟該土地上之農業設施於自有農業用地上一併申請許可，是否需一併移轉疑義案，復如說明，請查照。\n說明：\n一、復貴府102年12月5日府農務字第1020196519號函。\n二、依農業用地作農業使用認定及核發證明辦法第4條第2款第1目規定略以：「農業用地上施設有農業設施，並檢附下列各款文件之一：(一)容許使用同意書及建築執照。但依法免申請建築執照者，免附建築執照．．．。」復依同辦法第5條第1款規定：「農業用地有下列各款情形之一者，不得認定為作農業使用：一、農業設施或農舍之興建面積，超過核准使用面積或未依核定用途使用。」按現行法令規定，申請興建農業設施坐落之農業用地及配合計算面積之自有農業用地，並無應併同移轉之相關規定。爰申請人依上開規定，就農業設施坐落之農業用地，檢具容許使用同意書提出申請時，受理機關應依其檢具之文件及相關規定據以審認該農業設施是否符合核准之使用面積，並依核定用途使用，尚無須就配合計算面積之自有農業用地部分予以審認之，或作為不得核發農業用地作農業使用證明書之准駁依據。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5119",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:11+08:00",
+   "source_key": "rmis:5119"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "07fd2062c8982c9714164322e748ca23c0d774bd1b2a7f080902ddadbfb2a6c2",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "02年12月5日府農務字第1020196519號函。\n二、依農業用地作農業使用認定及核發證明辦法第4條第2款第1目規定略以:「農業用地上施設有農業設施,並檢附下列各款文件之一:(一)"
+  }
+ ]
+}

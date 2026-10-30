@@ -1,0 +1,55 @@
+{
+ "id": "itp-9b34a90643",
+ "doc_class": "interpretation",
+ "docno": "高市農務字第10433805800號",
+ "date": "2016-01-12",
+ "date_text": "105/1/12",
+ "agency_text": "高雄市政府農業局",
+ "category": "解釋函",
+ "subject": "有關○○○領有本府103年2月21日高市農務字第10330471000號(本市杉林區○○○地號)興建農舍資格審查函，惟查○○○任職本市小港國中幹事一職，是否符合農業用地興建農舍辦法規定案，惠請釋示，請 查照。",
+ "content": "一、依據104年12月24日高市工務建字第104A002904-3號函辦理。\n二、本案經查○○○原送審資料，其出具之切結書中表明「本人為農民身分，......自認農作事實並無從事農業以外之職業，如有不實願負法律一切責任外並由原核發機關撤銷興建農舍之申請人資格」(如附件)，惟另經查明○○○現職擔任本市小港國中幹事一職，顯然有悖切結書所載，先予敘明。\n三、依據「農用地興建農舍辦法」第13條規定，「起造人提出申請興建農舍之資料不實者，直轄市、縣(市)主管機關應撤銷其核定，...」，基此，本案興建農舍資格審查函，是否適用前開規定，請釋明，俾利後續辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "高雄市政府農業局",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4100",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:50+08:00",
+   "source_key": "rmis:4100"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9957e4476e3c5b9806ff4990603e23826556f42d67de85c2f38c4a5df3f6c01f",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "事一職,顯然有悖切結書所載,先予敘明。\n三、依據「農用地興建農舍辦法」第13條規定,「起造人提出申請興建農舍之資料不實者,直轄市、縣(市)主管機關應撤銷其核定"
+  }
+ ]
+}

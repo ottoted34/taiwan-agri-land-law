@@ -1,0 +1,59 @@
+{
+ "id": "itp-ab43f7f5db",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132603627號",
+ "date": "2024-03-28",
+ "date_text": "113/3/28",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關都計農業區及非都農牧用地合法農舍贈與多名受贈者，受贈者其一得否申請農藥販賣場所經營疑義案，復請查照。",
+ "content": "一、查非都市土地使用管制規則第6條附表1，農舍許可使用細目包括農作物生產資材及日用品零售。又依農業發展條例立法意旨，農舍管制之標準及其許可使用之內容，應不因土地為非都市土地或都市計畫農業區而有不同，故位於非都市土地農牧用地或都市計畫農業區之合法農舍，得經營農作物生產資材之零售販賣。\n二、按農藥係屬農作物生產資材，爰於合法農舍作農藥零售，尚符合前揭農作物生產資材零售販賣之適用範圍，惟不包括批發。又依農業用地興建農舍辦法（下稱本辦法）第2條第1項第4款農舍之申請必要條件為「申請人無自用農舍者」，係強調「自用」為本辦法之立法精神，如農藥零售販賣之經營者非農舍及其坐落土地之所有權人，則不符農舍應供自用之原則。又倘農舍為多人共有，共有人之一對於農舍使用，皆應符合上開農舍管理原則。\n三、至於農藥販賣場所經營者之申請條件，是否有其他應符合事項，係屬貴管權責，惟對於涉及農舍使用管理部分，請貴所參照前開原則予以核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5994",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:46+08:00",
+   "source_key": "rmis:5994"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "dc983b517476f7b887aa983177e8f46d7cad9a733b96a3a5177a3b5192bbb2d0",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "附表1,農舍許可使用細目包括農作物生產資材及日用品零售。又依農業發展條例立法意旨,農舍管制之標準及其許可使用之內容,應不因土地為非都市土地或都市計畫農業"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "符合前揭農作物生產資材零售販賣之適用範圍,惟不包括批發。又依農業用地興建農舍辦法(下稱本辦法)第2條第1項第4款農舍之申請必要條件為「申請人無自用農舍者」,係強"
+  }
+ ]
+}

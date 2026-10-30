@@ -1,0 +1,53 @@
+{
+ "id": "itp-528513b0c0",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140210269號",
+ "date": "2025-03-27",
+ "date_text": "114/3/27",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴處規劃使用新北市淡水區○○○地號內土地設置輸配電鐵塔，鄰接核定開發計畫範圍內編定為國土保安用地部分，得否免設置隔離綠帶疑義案，復請查照。",
+ "content": "一、依據「農業主管機關同意農業用地變更使用審查作業要點」（下稱本要點）第9點明定，變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，其配置區位應與毗鄰農業用地相緊臨，且隔離綠帶或設施之設置最小寬度，除第10點規定有配置寬度者外，至少應為1.5公尺。\n二、至已依區域計畫法第15條之2規定許可開發之案件，基地內土地依非都市土地開發審議作業規範審議通過變更編定為國土保安用地或水利用地者，基於整體性質上屬於開發計畫之一部分，應依該審議規範規定及經核定之開發計畫用途使用，其與作保育使用之國土保安用地或作農田灌溉排水使用之水利用地等農業用地之性質有別，故開發計畫範圍內編定為國土保安用地、水利用地之土地，應視為非農業用地。爰本案山坡地保育區暫未編定土地，擬適用林業用地之管制，依非都市土地使用管制規則第6條附表1，申請輸配電鐵塔之容許使用，則該案緊鄰之土地，依據改制前行政院農業委員會110年9月2日農企字第1100235398號書函說明，倘為經核定開發計畫範圍已完成變更編定之國土保安用地，則不受本要點規範應配置隔離綠帶或設施。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6041",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:26+08:00",
+   "source_key": "rmis:6041"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "da46fd7e9abb0800d873f099012add8940c77de71bc27a2b521688d452c8c6a0",
+ "topics": [
+  "partial_use",
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "保安用地部分,得否免設置隔離綠帶疑義案,復請查照。\n一、依據「農業主管機關同意農業用地變更使用審查作業要點」(下稱本要點)第9點明定,變更農業用地作與農業生產性質不相容之目的事業使用者,應"
+  }
+ ]
+}

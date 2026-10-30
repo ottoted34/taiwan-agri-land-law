@@ -1,0 +1,64 @@
+{
+ "id": "itp-83b8ff3b94",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1020723962號",
+ "date": "2013-10-17",
+ "date_text": "102/10/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "於農業資材室申請接電，依台電公司規定需增設「配電場所」始予供電，得否依「其他農作產銷設施」申請「配電場所」容許使用疑義案。",
+ "content": "主旨：貴府函為民眾陳情於農業資材室申請接電，依台電公司規定需增設「配電場所」始予供電，得否依「其他農作產銷設施」申請「配電場所」容許使用疑義案，復請\n查照。\n說明：\n一、復貴府102年7月25日府農農字第1020149671號函。\n二、查依本會102年10月9日農企字第1020013047A號令修正發布「申請農業用地作農業設施容許使用審查辦法」第13條第3項訂規定略以，農事操作及管理設施(農業資材室)，得依實際需求，配置附屬設施所需空間，合先敘明。\n三、有關農業資材室倘為經營管理需要而有接電之需求，依臺灣電力公司營業規則規定，須配合設置配電場所，始可供電，考量增設配電場所及其通道係為提供農業資材室電力，以協助資材管理並提升該設施效用，因此，尚得依上開規定配置配電場所及其通道作為前揭設施之附屬設施辦理容許使用。\n四、另配電場所係因農業設施之需求，提供其電力而設置，爰屬輔助性質，尚無單獨設置之合理性及必要性，不宜將其納為「其他農作產銷設施」。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5516",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:03+08:00",
+   "source_key": "rmis:5516"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "88f476330faea68411f7c26d4ef9c2c0947995a7845b33af6e06baceb4a60da6",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "102年10月9日農企字第1020013047A號令修正發布「申請農業用地作農業設施容許使用審查辦法」第13條第3項訂規定略以,農事操作及管理設施(農業資材室),得依實際需求,配置附屬設施所"
+  }
+ ]
+}

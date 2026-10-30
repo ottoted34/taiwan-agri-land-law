@@ -1,0 +1,59 @@
+{
+ "id": "itp-ea71a282b6",
+ "doc_class": "interpretation",
+ "docno": "屏府農企字第10275169600號",
+ "date": "2013-11-22",
+ "date_text": "102/11/22",
+ "agency_text": "屏東縣政府",
+ "category": "解釋函",
+ "subject": "有關補辦農舍建築執照，申請核發農業用地作農業使用證明(農用證明)疑義案，復如說明，請鑒核。",
+ "content": "一、復鈞會102年11月20日農企字第1020236806號函。\n二、查上開函說明三略以：「至實務執行是否認屬係先行動工興建之農舍，因涉及建管規定，須由主管建管法令之單位先認定後，再由農業單位於核發之農用證明加註『僅供申請補辦農舍建築執照使用』之文字」一節，據建管單位反應，窒礙難行，其原因如下:\n三、目前農舍之建築樣式並無強制規範，且何謂農舍？亦無客觀之定義，對於農舍或農業設施之區隔，大多以是否為住家(包括是否長期居住及內部陳設是否放置傢俱、家電設備等情形)加以歸類，即建管單位僅能從使用狀態中認定是否為農舍，倘內部尚無陳設之建築物，並無法從外觀認定係屬農舍？抑或農業設施？\n四、綜上，一棟「疑似農舍」之建築物，是否符合建築法令相關規定？必須由建管單位按建築法規審核建築設計圖說，始足以判定。至於核發農用證明之階段，要求建管單位針對建築物，認定是否屬於先行動工興建之「農舍」？由於涉及使用狀態之認定及農舍定義，且其使用狀態(例如：建築物內部陳設)可能處於變動狀態當中，在實務執行上，實有窒礙難行之處，建請再行審慎評估法制面及執行面之相關問題，以利地方基層單位能夠落實執行法令規定，並順利推展是項業務。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "屏東縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3768",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:06+08:00",
+   "source_key": "rmis:3768"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "bc307d61362947473f6871bb68cd5fb2f1b40fa53b7e50e0add7a7218b565243",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

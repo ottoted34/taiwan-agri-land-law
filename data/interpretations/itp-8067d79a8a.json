@@ -1,0 +1,60 @@
+{
+ "id": "itp-8067d79a8a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960129472號",
+ "date": "2007-06-04",
+ "date_text": "96/6/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋有關「環保處理工程行設置第一類乙級廢棄物廠」一般農業區特定目的事業用地，因興辦事業撤銷得否回覆變更為同區農牧用地案。",
+ "content": "主旨：有關「○○環保處理工程行設置第一類乙級廢棄物廠」一般農業區特定目的事業用地因興辦事業撤銷得否回覆變更為同區農牧用地，復如說明，請查照。\n說明：\n一、復 貴縣96年5月25日府農務字第○○○○○號函。\n二、依非都市土地使用管制規則第37條規定，已依目的事業主管機關核定計畫編定或變更編定之各種使用地，於該事業計畫廢止者，各該目的事業主管機關應通知當地直轄市或縣(市)政府，而直轄市或縣(市)政府對於廢止事業計畫已依核定計畫開發尚未完成使用者，對於已依法建築之土地，除依法提出申請變更編定外，應維持其使用地類別，其他土地依編定前土地使用性質或變更編定前原始用地類別辦理變更編定，故本案事業計畫經撤銷後，對於計畫範圍內已依核定計畫開發尚未完成使用者，若無申請變更為其他用地外，需依據前開規定維持使用地類別；對於尚未依開發計畫使用者，則依據編定前土地使用性質或變更編定前原使用地類別辦理變更編定，始符合法制。\n三、另對於回覆變更為同區農牧用地之審查疑義，因農牧用地劃設目的係為供農業經營使用，對於計畫範圍內土地擬回覆變更為同區農牧用地者，應就該土地及生產環境是否適合供農業經營使用，且無回填或堆置土石或廢棄物致影響農業生產環境等情形予以審核，以維護農業生產環境之安全，並符合土地使用管制規則相關規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5231",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:45+08:00",
+   "source_key": "rmis:5231"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "f49a60cab9d16c677c120fa601684f3e07c981851e3cf1ebfaf1659d0f3c09c2",
+ "topics": [
+  "landfill",
+  "facility_use",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  }
+ ]
+}

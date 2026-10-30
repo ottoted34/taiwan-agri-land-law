@@ -1,0 +1,64 @@
+{
+ "id": "itp-28076f7d74",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021825800號",
+ "date": "2013-11-07",
+ "date_text": "102/11/7",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "貴轄○○○等39人於新竹縣新埔鎮○○○地號，以集村方式興建農舍，申請辦理專案分割為41筆地號案，復請查照。",
+ "content": "一、復貴府102年10月28日府農輔字第1020162277號函。\n二、依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定，同意旨揭土地分割為41筆土地，分割事宜請依相關規定辦理。\n三、分割注意事項，請依行政院農業委員會92年3月7日農企字第0920111558號函辦理(如附件)。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3312",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:33+08:00",
+   "source_key": "rmis:3312"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8f79b64bf0930728514cd674cdea836b0271e261d6ca0bed3583ffc1348bcee3",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "年10月28日府農輔字第1020162277號函。\n二、依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定,同意旨揭土地分割為41筆土地,"
+  }
+ ]
+}

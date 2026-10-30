@@ -1,0 +1,62 @@
+{
+ "id": "itp-bbfa611bac",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080715779號",
+ "date": "2019-06-14",
+ "date_text": "108/6/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例修正施行前共有農業區田、旱地目土地於修正施行後分割為單獨所有者，有無農業發展條例第18條第2項適用案，復如說明，請查照。",
+ "content": "一、復臺端108年5月30日申請書。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n三、查農業發展條例第3條第11款規定，耕地係指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地，而依同條例第18條第3項後段「本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」，其適用對象僅限前述之法定耕地範圍。經查都市計畫農業區、保護區之田、旱地目土地納屬耕地之規定，於本條例92年1月修正廢除，爰非屬耕地範圍之農業用地申請興建農舍者，仍應依現行規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4625",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:38+08:00",
+   "source_key": "rmis:4625"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e4c39042aee49956a1912d6dfea83846a405dc8300b8424b57138229629c1ac5",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "前共有農業區田、旱地目土地於修正施行後分割為單獨所有者,有無農業發展條例第18條第2項適用案,復如說明,請查照。\n一、復臺端108年5月30日申請書。\n二、「農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "農用之事實,並非擁有農業用地即可興建農舍,先予敘明。\n三、查農業發展條例第3條第11款規定,耕地係指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "itp-ece81ebf7d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960134957號",
+ "date": "2007-06-28",
+ "date_text": "96/6/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋民眾申請農業設施，得否向自來水公司申請裝設自來水之疑義案。",
+ "content": "主旨：有關　貴府函詢民眾申請農業設施，得否向自來水公司申請裝設自來水之疑義案，復請　查照。\n說明：\n一、復　貴府96年6月25日基府海農貳字第○○○○○號函。\n二、依農業發展條例第8條之1第2項規定，「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。但農業設施面積在45平方公尺以下，且屬一層樓之建築者，免申請建築執照。本條例中華民國92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照。」復查本會業於92年12月15日農授中字第0921070708號(如附)令第2項略以：「符合農業發展條例第8條之1第2項規定免申請建築執照之農業設施，得檢具政府核發之農業用地容許作農業設施使用同意文件影本，申請接水、接電。」且副知臺灣省自來水公司之主管機關經濟部國營會有案。爰以，免申請建築執照之農業設施應得依上開號令之規定，申請裝設自來水。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5288",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:33+08:00",
+   "source_key": "rmis:5288"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8e9802016851c7c2fc6de248b1f3397442d1bb098d2bc4fd3f74ec89a8a724c8",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": " 貴府96年6月25日基府海農貳字第○○○○○號函。\n二、依農業發展條例第8條之1第2項規定,「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並"
+  }
+ ]
+}

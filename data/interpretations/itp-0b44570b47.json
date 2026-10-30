@@ -1,0 +1,63 @@
+{
+ "id": "itp-0b44570b47",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1060233868號",
+ "date": "2017-10-27",
+ "date_text": "106/10/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農舍得否依據獸醫師法規定發給獸醫診療開業執照疑義案，復如說明，請查照。",
+ "content": "一、復貴府106 年8 月27 日屏府農企字第10625227200號函。\n二、有關獸醫師以農舍為開業地點，得否核發開業執照，按獸醫師法第17條規定，私立獸醫診療機構之開業，由領有執業執照之獸醫師向所在地直轄市或縣(市)主管機關申請核准登記，發給開業執照。同法第18條規定:「前條申請人或獸醫診療機構有下列情形之一者，不得發給開業執照；已領者，撤銷或廢止之：一、經撤銷或廢止執業執照者。二、經廢止開業執照未滿一年者。三、已領有開業執照者。」爰獸醫師申請核發開業執照，係以其是否具備獸醫師資格為斷，不論其開業地點是否違反相關土地使用規定。又倘經查獲獸醫師於農舍執業，如其未違反上揭獸醫師法第18條規定，尚不得撤銷其開業執照。\n三、查農舍係為農業經營而存在，農業發展條例(下稱農發條例)第3條第1款明定農業，指利用自然資源、農用資材及科技，從事農作、森林、水產、畜牧等產製銷及休閒之事業。爰農業之經營應與前揭行為具相當關聯性。次按非都市土地使用管制規則第6條第3項附表一規定農舍之許可使用細目為「農舍及農舍附屬設施」、「農產品之零售」、「農作物生產資材及日用品零售」及「民宿」等四項。\n四、獸醫師於農舍內從事獸醫診療行為，與上揭農發條例第3條及非都市土地使用管制規則第6條第3項附表一規定不符，爰本案如有於農舍內從事獸醫診療行為，貴府得依農業用地興建農舍辦法第15條第2項規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4398",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:41+08:00",
+   "source_key": "rmis:4398"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "83350064865e059d6baf9ebf8c92b817a5ee4214580d6a153cc65be08a85ef82",
+ "topics": [
+  "material_room",
+  "facility_use",
+  "farmhouse",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "「民宿」等四項。\n四、獸醫師於農舍內從事獸醫診療行為,與上揭農發條例第3條及非都市土地使用管制規則第6條第3項附表一規定不符,爰本案如有於農舍內從事獸醫診"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "15",
+   "kind": "extracted",
+   "snippet": "附表一規定不符,爰本案如有於農舍內從事獸醫診療行為,貴府得依農業用地興建農舍辦法第15條第2項規定辦理。"
+  }
+ ]
+}

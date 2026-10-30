@@ -1,0 +1,81 @@
+{
+ "id": "itp-6399329444",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第1041350975號",
+ "date": "2015-03-09",
+ "date_text": "104/3/9",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "鹿安宮申請坐落宜蘭縣冬山鄉○○○地號特定農業區農牧用地、交通用地變更編定為同區特定目的事業用地，因涉領有農舍使用執照並已套繪管制之土地，因部分土地擬解除套繪管制疑義1案，請查照。",
+ "content": "一、依據本部地政司案陳貴署104年2月24日營署建字第1040009258號函辦理。\n二、有關已領有農舍使用執照之農業用地，因部分土地依法申請變更為非農業用地時，其餘供農業經營面積是否不得低於該農業用地面積90%(農業用地興建農舍辦法第9條第2項第3款規定)？又該農業用地面積是否不得小於0.25公頃(同辦法第2條第1項第3款規定)？因案關農業發展條例第3條第10款第2目農舍之定義及同條例第18條規範農舍係供農業經營需要而興建之立法目的，及直轄市、縣(市)政府實務執行情形等，非屬本部地政司業管權責，建請逕提貴署104年3月12日召開之「研商農業用地興建農舍辦法修正方向座談會」討論，俾利後續行政機關(單位)納入審查該農業用地依法變更為非農業用地應檢討之事項及條件。\n三、副本抄送行政院農業委員會(企劃處、水土保持局)及直轄市、縣(市)政府，惠請就上開說明二研提意見，俾利權責機關作通案一致性之處理或後續修法之參據。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3942",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:13+08:00",
+   "source_key": "rmis:3942"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ae5c55e3fee5a232356a507f5f7ba8e09e0b088b8aef31c4293612325b8a9fc0",
+ "topics": [
+  "partial_use",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "用地時,其餘供農業經營面積是否不得低於該農業用地面積90%(農業用地興建農舍辦法第9條第2項第3款規定)?又該農業用地面積是否不得小於0.25公頃(同辦法第2條第1項"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "不得小於0.25公頃(同辦法第2條第1項第3款規定)?因案關農業發展條例第3條第10款第2目農舍之定義及同條例第18條規範農舍係供農業經營需要而興建之立法目的"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "itp-12a1d61fea",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000179120號",
+ "date": "2011-12-21",
+ "date_text": "100/12/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為本會100年12月2日農水保字第1000168057號函執行疑義案，復請查照。",
+ "content": "1.復貴府100年12月8日府農務字第1000187478號函。\n2.本會旨揭函所稱農地上農舍為連接現有道路所需之農路，倘經認定僅作為農舍通行之用，而非生產所需者，應將此作為農舍通行用途之設施，歸納為「農舍附屬設施」，於申請興建農舍時一併提出，其面積應併入興建農舍土地面積10%檢討；惟如係具農業生產功能者，得依「申請農業用地作農業設施容許使用審查法」規定辦理，貴府於審查時應以個案事實加以審酌。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2823",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:06+08:00",
+   "source_key": "rmis:2823"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c0e35db86add1d3accc7c5a022d84d4034fdf0cef01c3b054d6e5fc833df7080",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

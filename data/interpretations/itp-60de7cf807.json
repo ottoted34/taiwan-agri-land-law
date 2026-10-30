@@ -1,0 +1,61 @@
+{
+ "id": "itp-60de7cf807",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140253843號",
+ "date": "2025-12-12",
+ "date_text": "114/12/12",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府所詢申請水產養殖設施容許使用（室內漁電共生第一階段）案場內之既有「農舍」適法疑義及審認方式案，如說明，請查照。",
+ "content": "一、查申請農業用地作農業設施容許使用審查辦法第7條第2項規定，興建農舍之農業用地，其農業設施及農舍之興建面積，應一併納入農業設施總面積計算；又第21條附表4規定，室內水產養殖生產設施與其他類別設施面積加總最大興建面積為該養殖場土地總面積80％。是以，申請室內水產養殖生產設施案場內之既有農舍，其興建面積應與該室內水產養殖生產設施等農業設施加總計算，最大興建面積不得超過該養殖場土地總面積80％。\n二、另，農業發展條例第18條第3項業已明定農業用地興建農舍，須為無自用農舍而需興建者，且須經直轄市或縣（市）主管機關核定，即農業用地興建農舍係為許可之行為，應有積極農用之事實，且其整筆農業用地均須以自用為原則，尚不得有部分土地供他人使用之情形。依案附資料，本案2棟農舍所有權人，出具土地所有權使用同意書予○○股份有限公司，同意其農舍坐落之農業用地供該公司申請農業設施並裝設太陽光電發電系統一節，是否符合上開自用之規定，請貴府併予釐清妥處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5978",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:44+08:00",
+   "source_key": "rmis:5978"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3978938c616ed3a9dfc2e775248d1464db5c39d918b15903d224bb40fbaff0c2",
+ "topics": [
+  "partial_use",
+  "farmhouse",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "之既有「農舍」適法疑義及審認方式案,如說明,請查照。\n一、查申請農業用地作農業設施容許使用審查辦法第7條第2項規定,興建農舍之農業用地,其農業設施及農舍之興建面積,應一併納入農業設施總"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "算,最大興建面積不得超過該養殖場土地總面積80%。\n二、另,農業發展條例第18條第3項業已明定農業用地興建農舍,須為無自用農舍而需興建者,且須經直轄市或縣(市)"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "itp-9c2b573713",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970165751號",
+ "date": "2008-11-21",
+ "date_text": "97/11/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋山坡地範圍農業用地申請變更編定，其審查費及回饋金繳交疑義案。",
+ "content": "主旨：有關 貴府函詢山坡地範圍農業用地申請變更編定，其審查費及回饋金繳交疑義案，復請 查照。\n說明：\n一、復 貴府97年11月17日府農農字第○○○○○號函。\n二、依山坡地開發利用回饋金繳交辦法第7條規定，山坡地開發利用案件涉及農業用地變更回饋金案件，主管機關應依農業發展條例第12條規定，將收繳之本回饋金二分之一存入中央主管機關設置之農業發展基金；餘二分之一存入中央主管機關設置之林務發展及造林基金。有關山坡地範圍農業用地申請變更編定已繳交山坡地開發利用回饋金者，應依上開規定辦理，並請依本會96年5月15日農林務字第0961740638號函及本會95年11月10日農企字第0950158636號函說明，辦理回饋金款項撥交作業；至於 貴府農業主管機關受理農業用地變更案件受理審查，仍請依「農業主管機關受理申請許可案件及核發證明文件收費標準」之規定，收取審查費。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5075",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:32+08:00",
+   "source_key": "rmis:5075"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7e7ae74e32144fa352295caff337bd20f549e03de68c87874e33fe70f65b03d3",
+ "topics": [
+  "farm_use_cert",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": ",山坡地開發利用案件涉及農業用地變更回饋金案件,主管機關應依農業發展條例第12條規定,將收繳之本回饋金二分之一存入中央主管機關設置之農業發展基金;餘二分之一存入"
+  },
+  {
+   "law_id": "RMIS-2005",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ";至於 貴府農業主管機關受理農業用地變更案件受理審查,仍請依「農業主管機關受理申請許可案件及核發證明文件收費標準」之規定,收取審查費。"
+  }
+ ]
+}

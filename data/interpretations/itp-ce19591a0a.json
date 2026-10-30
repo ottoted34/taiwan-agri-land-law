@@ -1,0 +1,58 @@
+{
+ "id": "itp-ce19591a0a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040218108號",
+ "date": "2015-06-03",
+ "date_text": "104/6/3",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴市三峽區○○○地號等2筆土地申請興建農舍案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴局104年5月14日新北農牧字第1040870875號函。\n二、依民法第758條規定，不動產物權，依法律行為而取得、設定、喪失及變更者，非經登記，不生效力。次依司法院大法官會議釋字第89號解釋意旨，放領係屬國家與承領人之買賣行為，準此，承領人於未辦竣所有權移轉登記前，仍未取得土地所有權，先予敘明。\n三、爰申請興建農舍之農業用地其登記原因為放領者，取得時點依行政院農業委員會102年10月25日農水保字第1021866046號令暨101年6月29日農水保字第1011865000號令規定，應以土地登記簿所有權部登記日期為基準。\n四、本案請貴局本於權責審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3905",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:20+08:00",
+   "source_key": "rmis:3905"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "26d7e49619a922bc02558ce80ad13ca591f219bf206fd128c804a2971de20de6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-f388caa9fb",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040729946號",
+ "date": "2015-10-08",
+ "date_text": "104/10/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴農會建議中央調整放寬農舍用地面積一案，復如說明，請查照。",
+ "content": "一、依據宜蘭縣政府104年9月21日府農務字第1040159294A號函辦理。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作。且依農業用地興建農舍辦法第9條第2項第3款規定，申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積百分之十。\n三、爰為維護農地資源與農業生產環境，仍應維持前開面積限制之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4040",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:20+08:00",
+   "source_key": "rmis:4040"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "72888869e360e05e91cea6db356ee95116cc5cafcf999cd0bc39f117dde76319",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "地上興建具有放置農機具兼具居住之需求,以便利其農事工作。且依農業用地興建農舍辦法第9條第2項第3款規定,申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地面積百"
+  }
+ ]
+}

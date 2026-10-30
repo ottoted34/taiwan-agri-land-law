@@ -1,0 +1,79 @@
+{
+ "id": "itp-013e8613bc",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030225797號",
+ "date": "2014-08-26",
+ "date_text": "103/8/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關全國及縣市區域計畫檢討非都市土地使用管制指導原則執行疑義案，復請查照。",
+ "content": "一、復貴府103年7月25日府建城字第1030118767號函。\n二、依農業發展條例(以下簡稱本條例)第18條第1項及第3項規定，89年1月4日修正施行後取得農業用地之農民於不影響農業生產環境與農村發展，得申請興建農舍，而89年1月4日修正施行後取得農業用地得依相關土地使用管制及建築法相關規定，申請興建農舍。次依本條例第18條第5項授權訂定之農業用地興建農舍辦法第5條第1項第4款規定，違反土地使用管制規定者，不得申請興建農舍。爰本條例雖允許農業用地得申請興建農舍，惟仍應於符合相關要件或其他土地使用管制規定下始得興建，倘申請興建農舍之農業用地為該地區目的事業主管機關法令或相關土地使用管制禁止或有條件准許興建，仍應從其規定，先予敘明。\n三、本案貴府擬於貴縣區域計畫非都市土地使用管制規則地域篇，將農舍自非都市土地特定農業區容許使用項目排除，係考量轄內農地發展特性、農舍興建情形，為加強保護農業生產環境與農村發展之措施，尚無抵觸本條例第18條規定之虞，本會敬表尊重。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3201",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:52+08:00",
+   "source_key": "rmis:3201"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "5",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "27c6150ab11513631439ee9cd202d102c9864ea20ab127e1cec40d673ff632a4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "03年7月25日府建城字第1030118767號函。\n二、依農業發展條例(以下簡稱本條例)第18條第1項及第3項規定,89年1月4日修正施行後取得農業用"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "法相關規定,申請興建農舍。次依本條例第18條第5項授權訂定之農業用地興建農舍辦法第5條第1項第4款規定,違反土地使用管制規定者,不得申請興建農舍。爰本條例雖允許農業用"
+  }
+ ]
+}

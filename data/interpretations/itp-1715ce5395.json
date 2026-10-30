@@ -1,0 +1,91 @@
+{
+ "id": "itp-1715ce5395",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960153230號",
+ "date": "2007-10-01",
+ "date_text": "96/10/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋依「農業用地容許作農業設施使用審查辦法」取得容許作農業設施使用同意書，後因未依計畫內容使用而經核定機關廢止其許可，惟在區域計畫或都市計畫主管單位尚未依法處理及尚未完全改善前，於原申請地號之土地，得否准予再重新提出申請農業設施容許使用之疑義案。",
+ "content": "主旨：有關　貴府函詢依「農業用地容許作農業設施使用審查辦法」取得容許作農業設施使用同意書，後因未依計畫內容使用而經核定機關廢止其許可，惟在區域計畫或都市計畫主管單位尚未依法處理及尚未完全改善前，於原申請地號之土地，得否准予再重新提出申請農業設施容許使用之疑義案，復請　查照。\n說明：\n一、復　貴府96年9月19日府農務字第○○○○○號函。\n二、依「農業用地容許作農業設施使用審查辦法」第8條第9款規定，申請人所申請之農業設施有違反相關法令之情形者，應不予同意．．．。本案依　貴府來函所述，倘農業設施違反區域計畫法或都市計畫法之違規情節尚未排除，仍應依上開辦法第8條第9款之規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5283",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:01+08:00",
+   "source_key": "rmis:5283"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "8c34ab8d580841c462def5f301b0d0be4c1aca6cf8766a9e0c2ae001edb4f4db",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "、復 貴府96年9月19日府農務字第○○○○○號函。\n二、依「農業用地容許作農業設施使用審查辦法」第8條第9款規定,申請人所申請之農業設施有違反相關法令之情形者,應不予同意...。本案"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "itp-b0db049c7d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960126657號",
+ "date": "2007-05-17",
+ "date_text": "96/5/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "062 釋農牧用地整筆土地上建有祖墳案",
+ "content": "一、查農業用地作農業使用認定及核發證明辦法第8條明定「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：一、於土地使用編定前已存在有墳墓，經檢具證明文件者。二、....。」\n二、又本會94年3月23日農企字第0940113021號函釋（諒達）略以：「......綜上，農業用地上於非都市土地使用編定前或都市計畫發布前已存在之墳墓，經原地修繕後，如經檢具相關證明文件，且符合相關法令規定者，仍宜有前開農業用地作農業使用認定及核發證明辦法第8條之適用。」所稱應檢具之證明文件應係其『於土地使用編定前』即已存在之證明文件，包括立墓日期、墓碑所載人員之除戶證明或航空照片等，並依前開辦法第8條規定意旨，本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4953",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:51+08:00",
+   "source_key": "rmis:4953"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "004df4cd6b77f4ac081cb0eb702ca41f547f0ba66583e41a4fb3ccabca9ded97",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "062 釋農牧用地整筆土地上建有祖墳案\n一、查農業用地作農業使用認定及核發證明辦法第8條明定「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為作農業使用:"
+  }
+ ]
+}

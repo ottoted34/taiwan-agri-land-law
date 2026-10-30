@@ -1,0 +1,54 @@
+{
+ "id": "itp-e777b4d317",
+ "doc_class": "interpretation",
+ "docno": "新北農牧字第1052034364號",
+ "date": "2016-10-31",
+ "date_text": "105/10/31",
+ "agency_text": "新北市政府農業局",
+ "category": "解釋函",
+ "subject": "有關民眾陳情本市三峽區(土地座落:○○○地號)農舍建照核發疑義一案，詳如說明，請查照。",
+ "content": "一、依據行政院農業委員會105年10月19日農授水保字第1050728887號、新北市政府衛生局105年10月27日新北衛醫字第1052015663號及貴局105年10月26日新北工建字第1052004254號函辦理。\n二、依行政院農業委員會105年10月19日前揭號函略以:「依據農業發展條例第18條規定，無自用農舍而需興建者，經直轄市或縣(市)主管機關核定，於不影響農業生產環境及農村發展，得申請以集村方式或在自有農業用地興建農舍。爰無論係以單一筆或多筆相毗鄰農地合併興建個別農舍，或以集村方式申請興建之農舍，均應符合農業用地之自有原則」，爰有關旨揭地號農舍建照核發相關疑義，請本權責釐清並逕復陳情人。\n三、檢送行政院農業委員會105年10月19日及新北市政府衛生局105年10月27日前揭號函1份(如附件)。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "新北市政府農業局",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3277",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:25+08:00",
+   "source_key": "rmis:3277"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c5c4f9b89896aac317fa3a4d6b5ac57cd669f5cf5cc0f6dc8915609644a629bd",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "、依行政院農業委員會105年10月19日前揭號函略以:「依據農業發展條例第18條規定,無自用農舍而需興建者,經直轄市或縣(市)主管機關核定,於不影響農業生產環境"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "itp-6a76e0a91d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080725020號",
+ "date": "2019-09-06",
+ "date_text": "108/9/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關○○○陳為申辦農舍用地解除套繪案，涉及解除套繪程序疑義，係屬貴管，爰請協處逕復，請查照。",
+ "content": "一、依據○○○108年9月2日申請書辦理。\n\n二、查農業發展條例第16條規定：「每宗耕地分割後每人所有面積未達0.25公頃者，不得分割。．．．」。農業用地興建農舍辦法第12條規定：「．．．已申請興建農舍之農業用地，直轄市、縣(市)主管建築機關應於地籍套繪圖上，將已興建及未興建農舍之農業用地分別著色標示，未經解除套繪管制不得辦理分割。．．．農舍用地面積與農業用地面積比例符合法令規定，經依變更使用執照程序申請解除套繪管制後，該農業用地面積仍達0.25公頃以上。．．．」，爰申請解除套繪管制，農舍用地面積與農業用地面積比例應符合法令規定，倘該農業用地為耕地者，亦應符合農業發展條例第16條規定，始得辦理分割，先予敘明。\n\n三、依○○○申請書所陳，旨案經桃園市政府核准解除套繪並完成土地分割在案，惟未塗銷套繪註記，因涉及解除套繪實務執行程序，移請貴署主政，惠請協處逕復。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4673",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:26+08:00",
+   "source_key": "rmis:4673"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "595affb59069bc5e5b1ac318298ecb7ab86b5b1f12e6a5343aa99752bdd4e2fd",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "查照。\n一、依據○○○108年9月2日申請書辦理。\n\n二、查農業發展條例第16條規定:「每宗耕地分割後每人所有面積未達0.25公頃者,不得分割。...」。農業用"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "地分割後每人所有面積未達0.25公頃者,不得分割。...」。農業用地興建農舍辦法第12條規定:「...已申請興建農舍之農業用地,直轄市、縣(市)主管建築機關應於地籍套繪"
+  }
+ ]
+}

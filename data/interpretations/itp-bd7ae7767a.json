@@ -1,0 +1,55 @@
+{
+ "id": "itp-bd7ae7767a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041886174號",
+ "date": "2015-09-17",
+ "date_text": "104/9/17",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "為內政部研擬「全國區域計畫」修正案之特定農業區農牧用地是否增列避免興建農舍相關規定，以及興建農舍是否影響農業生產環境及農村發展等疑義案，本局分析意見如說明，請鑒核。",
+ "content": "一、依據鈞會104年8月28日農企字第1040231844號函辦理。\n二、有關特定農業區農牧用地是否增列避免興建農舍相關規定，本局分析意見如次，敬請彙辦：\n(一)依農業用地興建農舍辦法本次修法預告期間及鈞會8月12、19日召開全國各級農會修法座談會等各界意見，我國非都市土地編定未依發展現況及農地資源分布確實檢討調整，且於無法有效提高農業經營收益之情形下，針對使用上受限之農業用地亦無相對給付措施。\n(二)爰針對特定用地擬實施較高強度管制，宜建立於農地分類分級落實管理之基礎上，並審慎考量直接給付制度等配套措施，此涉及整體農地管理及農業發展政策，爰建請鈞會整體考量。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4076",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:43+08:00",
+   "source_key": "rmis:4076"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "87052a925c34377c797d97583998acd52125394e66b73e6ace50f3842a92eb3f",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "避免興建農舍相關規定,本局分析意見如次,敬請彙辦:\n(一)依農業用地興建農舍辦法本次修法預告期間及鈞會8月12、19日召開全國各級農會修法座談會等各界意見,我國"
+  }
+ ]
+}

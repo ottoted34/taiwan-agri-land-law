@@ -1,0 +1,64 @@
+{
+ "id": "itp-ea56fada8f",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1020725680號",
+ "date": "2013-10-25",
+ "date_text": "102/10/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "埔里鎮○○○申請農業用地作農業設施容許使用案件，其於溫室設置「發電機房」經貴府審認確有必要，貴府 函詢「發電機房」得否認屬農作產銷必要設施案。",
+ "content": "主旨：有關貴縣埔里鎮○○○申請農業用地作農業設施容許使用案件，其於溫室設置「發電機房」經貴府審認確有必要，貴府 函詢「發電機房」得否認屬農作產銷必要設施案，復請查照。\n說明：\n一、復貴府102年8月12日府農務字第1020162891號函。\n二、查依本會102年10月9日農企字第1020013047A號令修正發布「申請農業用地作農業設施容許使用審查辦法」第13條第3項規定略以，農業生產設施(溫室及植物環控栽培設施)得依實際 需求，配置附屬設施所需空間，合先敘明。\n三、依貴府函附經營計畫書，本案設置「發電機房」係為提供停 電時緊急供應環控溫室電力之用，且經貴府審認確有設置必要，因此，尚得依上開規定配置發電機房作為前揭溫室及植物環控栽培設施之附屬設施辦理容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5517",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:52+08:00",
+   "source_key": "rmis:5517"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "228421706ccfc2e7774db621a5000ccdf0303177ce32691aaaa7cdb8b4ad2a5a",
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "102年10月9日農企字第1020013047A號令修正發布「申請農業用地作農業設施容許使用審查辦法」第13條第3項規定略以,農業生產設施(溫室及植物環控栽培設施)得依實際 需求,配置附屬設"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "itp-4819bb0605",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000157026號",
+ "date": "2011-09-14",
+ "date_text": "100/9/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "中壢市○○○地號農業用地，變更編定為丁種建築用地應留設隔離綠帶或隔離設施",
+ "content": "主旨：有關　貴公司函詢中壢市○○○地號農業用地，變更編定為丁種建築用地應留設隔離綠帶或隔離設施之疑義案，復如說明，請　查照。\n說明：\n一、復　貴公司100年9月2日未具文號申請書。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」第11點第1項規定：「申請變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，並具體標繪於土地使用配置圖上。隔離綠帶或設施之配置原則如下：(一)配置區位應與毗鄰農業用地相緊臨。(二)隔離綠帶或設施之設置最小寬度，除第12點規定有配置寬度者外，以1.5公尺為原則。但縣(市)政府依據地方特性規定另訂定大於1.5公尺者，依其規定辦理，並報中央主管機關備查。」又依同要點第12點第1款第6目規定特定農業區農業用地變更作為其他使用者，得配合土地規劃配置，其面積不得少於申請事業面積之30%，先予敘明。\n三、本案依來文所敘，申請農牧用地變更編定為丁種建築用地，屬與農業生產性質不相容之目的事業使用，自應依上開要點第11點及第12點規定配置適當寬度之隔離綠帶或隔離設施，且其區位應與毗鄰農業用地相緊臨；如毗鄰土地均無(非)農業用地，則無上開原則之適用，即免設隔離綠帶或隔離設施，惟仍應符合其他相關法令之規範。本案因涉及個案實務及事實審認，建議可另洽桃園縣政府瞭解詳情。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5092",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:36+08:00",
+   "source_key": "rmis:5092"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "a315c44aca5e3f41fcb13af59137bf808363c96a8363bffb53a1a71d110df1cc",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "明:\n一、復 貴公司100年9月2日未具文號申請書。\n二、依「農業主管機關同意農業用地變更使用審查作業要點」第11點第1項規定:「申請變更農業用地作與農業生產性質不相容之目的事業使用者,應"
+  }
+ ]
+}

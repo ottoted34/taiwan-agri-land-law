@@ -1,0 +1,62 @@
+{
+ "id": "itp-6b74bd4a9b",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1040226257號",
+ "date": "2015-07-27",
+ "date_text": "104/7/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：有關貴府函詢醬油之製作或購買醬汁後分裝、釀造，是否屬於申請農業用地作農業設施容許使用審查辦法第13條第1項第3款所定農產運銷加工設施範疇案，復請查照。\n說明：\n一、復貴府104年7月8日屏府農企字第10420849100號函。\n二、有關醬油之製作係利用農糧原料從事加工之行為，其設施得否認屬旨揭農產運銷加工設施範疇，查類案本會農糧署前以104年1月23日農糧企字第1040200419號函及104年2月13日農糧企字第1041001706號函復貴府有案，請參據辦理。\n三、至以加工後之醬汁進行分裝、釀造，已非以農糧原料從事農糧產品加工之行為，未宜申請農業用地作農產運銷加工設施(農糧產品加工室)容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5450",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:29+08:00",
+   "source_key": "rmis:5450"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "0e6a6a6c0fe04f9129189600207494d8250f36c1a6f8c1ffef0255e5da71fe11",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "主旨:有關貴府函詢醬油之製作或購買醬汁後分裝、釀造,是否屬於申請農業用地作農業設施容許使用審查辦法第13條第1項第3款所定農產運銷加工設施範疇案,復請查照。\n說明:\n一、復貴府104年7"
+  }
+ ]
+}

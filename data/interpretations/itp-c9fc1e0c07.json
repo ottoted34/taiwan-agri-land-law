@@ -1,0 +1,64 @@
+{
+ "id": "itp-c9fc1e0c07",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020234972號",
+ "date": "2013-10-22",
+ "date_text": "102/10/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關林○○○等2人申請農業用地內興建農舍之申請人資格條件審查一案，復請查照。",
+ "content": "一、復貴局102年10月11日北農牧字第1022852119號函。\n二、民法第824條之1就共有物分割之效力採移轉主義，即共有物分割後，共有人取得分得部分單獨所有權，其效力係向後發生而非溯及既往，又所謂「效力發生時」，在協議分割，如分割者為不動產，係指於辦畢分割登記時；至於裁判分割，則指在分割之形成判決確定時，先予敘明。\n三、本會101年6月29日農水保字第1011865000號令係依民法相關規定，規範申請興建農舍之農業用地取得時點認定基準，除農業發展條例修正前取得之共有耕地，而於修正施行後分割為單獨所有者，仍得依農業發展條例第18條第3項規定辦理外，請貴局依前開解釋令認定土地取得時點。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3712",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:59+08:00",
+   "source_key": "rmis:3712"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "24125e1f6ada2e2ff284d1cdf223c546e56e88c798355c4615abc127c80b5e8a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "修正前取得之共有耕地,而於修正施行後分割為單獨所有者,仍得依農業發展條例第18條第3項規定辦理外,請貴局依前開解釋令認定土地取得時點。"
+  }
+ ]
+}

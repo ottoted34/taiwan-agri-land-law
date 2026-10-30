@@ -1,0 +1,50 @@
+{
+ "id": "itp-1cbcea5c2d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080234164號",
+ "date": "2019-08-14",
+ "date_text": "108/8/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴市民眾○○○申請貴市六龜區○○○地號土地興建農舍資格審查，農地臨路1.5公尺之認定疑義案，復如說明，請查照。",
+ "content": "一、復貴局108年8月8日高市農務字第10832211600號函。\n\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、有關「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性」所指之「道路」，本會前於107年7月26日農企字第1070012917號、108年1月16日農企字第1070253990號、108年5月6日農企字第1080206692號函說明在案，該道路係以「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」並採認「成立公用地役關係之既成道路」，以及道路與農舍用地之間，如有間隔水路或該水路已編定為水利用地等情形，得視為臨接道路之審認原則，併予敘明。\n\n四、針對農舍申請案件之審認，除應考量該農業使用之內涵外，亦應核實審酌申請人確有直接從事農業生產之事實，始有允其興建農舍之必要性及合理性。為兼具農舍出入及避免影響農業生產環境，故審查興建農舍用地應符合「臨地界線側」及「臨接道路」之要件。基於農舍之審認尚須依現況事實認定，貴府亦得就申請興建農舍之合理性及必要性，依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4668",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:46+08:00",
+   "source_key": "rmis:4668"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4f94bfd0b4b04d6bbbad7cb7b40dfcceea1e8a27dc9b1a9c7484621880d30c58",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

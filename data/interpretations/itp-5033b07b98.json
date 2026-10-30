@@ -1,0 +1,70 @@
+{
+ "id": "itp-5033b07b98",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030211986號",
+ "date": "2014-05-23",
+ "date_text": "103/5/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴部函農業用地興建農舍辦法(以下簡稱本辦法)第4條規定涉及購置農業用地之區位疑義案，本會意見如說明，復請查照。",
+ "content": "一、復貴部103年4月11日內授營綜字第1030803907號函。\n二、查本辦法第4條規定之立法意旨係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益，以配合政府興建公共事業，並於同條第1項明定得準用3條規定申請興建農舍。次查本辦法第3條規定，略以：「...其申請興建農舍，得依都市計畫法第85條授權訂定之施行細則與自治法規、實施區域計畫地區建築管理辦法、建築法、國家公園法及其他相關法令規定辦理。」，其既因都市土地或非都市土地之別，而依不同建築法規予以規範，其興建農舍之建築面積、樓地板面積、高度等均有不同，爰如何準用，因渠等規定涉及貴部主管法規，本會尊重貴部意見。惟考量保障既有權益時之興建條件相當性，其重新購置之農業用地若同屬都市土地或非都市土地，應屬合理，尚未損及其既有權益，以上意見供參。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3527",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:44+08:00",
+   "source_key": "rmis:3527"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8af2da5d42979ded5e659f071f31fe711ea2df0e08251f3f8d434a37d2add78e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴部函農業用地興建農舍辦法(以下簡稱本辦法)第4條規定涉及購置農業用地之區位疑義案,本會意見如說明,復請查"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "。\n二、查本辦法第4條規定之立法意旨係為保障89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興建公共事業,並於同條第1"
+  }
+ ]
+}

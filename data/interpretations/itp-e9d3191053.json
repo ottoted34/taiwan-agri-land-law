@@ -1,0 +1,79 @@
+{
+ "id": "itp-e9d3191053",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010713681號",
+ "date": "2012-04-16",
+ "date_text": "101/4/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "027 釋涉及所有權移轉之農業用地分割，應以分割前原地號查核作農業使用案",
+ "content": "主旨：有關 台端函詢依農業發展條例第16條第1款規定辦理耕地分割，究應以分割前原地號或分割後之新地號，查核發給農業用地作農業使用證明書疑義案，復請 查照。\n說明：\n一、復 台端101年3月19日申請書。\n二、農業用地應符合作農業使用之認定始得核發農業用地作農業使用證明書，所稱符合作農業使用係指該農業用地之整筆土地或共有持分部分均能符合作農業使用之認定而言。\n三、依「農業用地作農業使用認定及核發證明辦法」第9條第1項所規範應檢具之文件資料包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」，並依該辦法之規定就該土地登記簿謄本所載地號查核是否作農業使用。然「土地複丈結果通知書」並非土地登記簿謄本，不符前開辦法之規定，是以不宜就該通知書所載之「暫編地號」作為查核範圍。\n四、綜上，有關農業用地申請核發農業用地作農業使用證明書，應以申請當時土地登記簿所載地號查核，作為核駁之依據。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5556",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:50+08:00",
+   "source_key": "rmis:5556"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "9",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "00caeab88269d1f9e54cc11bc1f584ac9623c0c6c51de4a041282b1207806680",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "割,應以分割前原地號查核作農業使用案\n主旨:有關 台端函詢依農業發展條例第16條第1款規定辦理耕地分割,究應以分割前原地號或分割後之新地號,查核發給農業用地作農"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "整筆土地或共有持分部分均能符合作農業使用之認定而言。\n三、依「農業用地作農業使用認定及核發證明辦法」第9條第1項所規範應檢具之文件資料包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」"
+  }
+ ]
+}

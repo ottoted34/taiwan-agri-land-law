@@ -1,0 +1,81 @@
+{
+ "id": "itp-d3c9c71861",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030726821號",
+ "date": "2014-09-11",
+ "date_text": "103/9/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "三七五租約承租人可否申請農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關貴府函詢三七五租約承租人可否申請農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴府103年8月29日府農務字第1030146205號函。\n二、查農業用地作農業使用認定及核發證明辦法第3條規定「有下列各款情形之一者，得申請核發農業用地作農業使用證明書：……。」另依第10條第4項規定「申請人非土地所有權人時，應通知土地所有權人到場。」即農業用地作農業使用證明書(以下簡稱農用證明)之申請核發，並未限制申請人應為土地所有權人，其他權利關係人均得依規定申請。由代理人代為申請者，依行政程序法第24條第4項規定，行政程序代理人，應為最初為行政程序行為時，提出委任書。\n三、按農用證明係審認該申請之農業用地確作農業使用無誤，俾供持憑辦理不課徵土地增值稅、免徵遺產贈與稅或申請興建自用農舍之用途，爰有辦理上開業務需要者，自得依法申請農用證明。惟依土地稅法、遺產及贈與稅法、農業用地興建農舍辦法規定，土地承租人非納稅義務人，亦不得申請興建農舍，故應無申請核發農業用地作農業使用證明書之必要。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5345",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:46+08:00",
+   "source_key": "rmis:5345"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "3",
+    "amended_on": "2016-02-15",
+    "history": "中華民國105年02月15日農委會農企字第1050012067A號令修正發布第3條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c59868a4e9221d61c5a4bd8520bf5aa75cc8aa81551334e7dd7e15fb07a8f358",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "03年8月29日府農務字第1030146205號函。\n二、查農業用地作農業使用認定及核發證明辦法第3條規定「有下列各款情形之一者,得申請核發農業用地作農業使用證明書:......。」"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "需要者,自得依法申請農用證明。惟依土地稅法、遺產及贈與稅法、農業用地興建農舍辦法規定,土地承租人非納稅義務人,亦不得申請興建農舍,故應無申請核發農業用地作農業使"
+  }
+ ]
+}

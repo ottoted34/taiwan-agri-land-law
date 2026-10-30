@@ -1,0 +1,64 @@
+{
+ "id": "itp-8789dac4c3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020244625號",
+ "date": "2014-01-06",
+ "date_text": "103/1/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴市金山區○○○地號土地申請興建農舍一案，復請查照。",
+ "content": "一、復貴局102年12月23日北農牧字第1023313784號函。\n二、依民法824條之1規定：「共有人自共有物分割之效力發生時起，取得分得部分之所有權。」，是以共有農業用地分割為單獨所有者，其土地取得時點均採移轉主義，即應自分割效力發生時生效，而不溯及於共有關係發生時，因此，除農業發展條例第18條第3項後段：「本條例中華民國89年1月4日修正施行前共有耕地，而於本條例中華民國89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」明文規定外，其餘非屬農業發展條例修正施行前取得之共有耕地者，經共有物分割，其所有權之取得，均須依民法824條之1規定辦理，先予敘明。\n三、次按農業發展條例第18條第3項後段僅規範農業發展條例89年1月4日修正施行前之共有耕地，並未及於所有農業用地，爰首揭函所稱之都市計畫農業區，因不屬耕地範圍，自無前開條例第18條第3項後段規定之適用，而都市計畫農業區土地納屬耕地之規定於農業發展條例92年修正時已廢除，申請興建農舍案件應依現行規定辦理，本會102年9月27日農授水保字第1020231726號函復貴局在案。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3729",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:08+08:00",
+   "source_key": "rmis:3729"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7dc162db75c01dba11b20970089487e76e31624188d647bae661df3c4293494a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "即應自分割效力發生時生效,而不溯及於共有關係發生時,因此,除農業發展條例第18條第3項後段:「本條例中華民國89年1月4日修正施行前共有耕地,而於本條例中華民國"
+  }
+ ]
+}

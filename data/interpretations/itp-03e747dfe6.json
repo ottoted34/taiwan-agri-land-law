@@ -1,0 +1,70 @@
+{
+ "id": "itp-03e747dfe6",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1030703074號",
+ "date": "2014-02-20",
+ "date_text": "103/2/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府制定「宜蘭縣農業用地興建農舍設置二次淨化水循環處理設施自治條例(草案)」該處理設施設置地點及面積疑義案，復請查照。",
+ "content": "一、復貴府103年1月21日府建管字第1020201480號函。\n二、旨揭二次淨化水循環處理設施既為農舍建築物污水處理設備，即應依建築法及農業用地興建農舍辦法等規定設置於農舍用地內，並併同農舍及其他附屬設施面積不得超過該筆農業用地面積之10%，本會102年12月11日農水保字第1021866205號函參照。前開原則經本會多次函復貴府有案，且依旨揭自治條例所述，二次淨化水循環處理設施確為農舍廢污水處理設施，係屬農舍附屬設施，非供農業經營使用，至為明確，爰貴府擬請本會認屬「申請農業用地作農業設施容許使用審查辦法」規定之其他農作產銷設施，歉難同意。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3815",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:11+08:00",
+   "source_key": "rmis:3815"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7d0a007d25e36088c1d5b350101b2802638feb308048cf53c807e331f99f733b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "淨化水循環處理設施既為農舍建築物污水處理設備,即應依建築法及農業用地興建農舍辦法等規定設置於農舍用地內,並併同農舍及其他附屬設施面積不得超過該筆農業用地面積之1"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農舍附屬設施,非供農業經營使用,至為明確,爰貴府擬請本會認屬「申請農業用地作農業設施容許使用審查辦法」規定之其他農作產銷設施,歉難同意。"
+  }
+ ]
+}

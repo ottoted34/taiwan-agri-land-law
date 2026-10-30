@@ -1,0 +1,78 @@
+{
+ "id": "itp-125fbcef88",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030207129號",
+ "date": "2014-03-20",
+ "date_text": "103/3/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農舍部分出租他人使用是否符合農業用地作農業使用認定及核發證明辦法規定疑義案。",
+ "content": "主旨：有關貴局函詢農舍部分出租他人使用是否符合農業用地作農業使用認定及核發證明辦法規定疑義案，復請查照。\n說明：\n一、復貴局103年3月6日中市農地字第1030006648號函。\n二、查本會97年3月21日農水保字第0971843082號通函(諒達)略以；「農舍興建應符合農業發展條例第18條之規定意旨，該條例第18條固未對農舍出租明確規範，惟揆諸農舍興建立法精神，係強調『無自用農舍』而需興建者，得依相關規定申請興建農舍，是以出租行為係營利行為，依社會通識應即認定已違反所謂『自用』原則。」復依農業用地作農業使用認定及核發證明辦法第5條第1款明定，農業設施或農舍之興建面積，超過核准使用面積或未依核定用途使用者，不得認定為作農業使用。爰本案之農舍倘有出租使用情形，因未符上開農舍應「自用」之原則，故非可認屬符合農舍之用途使用，依上開辦法規定自不得認定為作農業使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5269",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:43+08:00",
+   "source_key": "rmis:5269"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "12289936e312995f42a450efb569303fb2784f7aacdb0af96a60ed9f8773880e",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "字第0971843082號通函(諒達)略以;「農舍興建應符合農業發展條例第18條之規定意旨,該條例第18條固未對農舍出租明確規範,惟揆諸農舍興建立法精神,係強調"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "係營利行為,依社會通識應即認定已違反所謂『自用』原則。」復依農業用地作農業使用認定及核發證明辦法第5條第1款明定,農業設施或農舍之興建面積,超過核准使用面積或未依核定用途使用者,不得"
+  }
+ ]
+}

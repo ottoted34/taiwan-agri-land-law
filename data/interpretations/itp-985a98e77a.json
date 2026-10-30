@@ -1,0 +1,91 @@
+{
+ "id": "itp-985a98e77a",
+ "doc_class": "interpretation",
+ "docno": "農水保字第0991875146號",
+ "date": "2010-06-10",
+ "date_text": "99/6/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關集村興建農舍起造人數及資格疑義案，請查照。",
+ "content": "一、農業用地興建農舍辦法第8條第1項第1款規定「20戶以上之農民為起造人……。但離島地區，得以10戶以上之農民為起造人。」，其所稱之「戶」，係指戶籍法第3條規定之「戶」，故參加集村興建農舍之起造人資格條件除應符合前開辦法第3條第1項規定外，亦應符合戶籍法規定，即同一戶籍之農業用地所有權人，僅得參加一處集村興建農舍為限。\n二、前本會96年9月28日農授水保字第0960153195號函釋，應停止適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=490",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:56+08:00",
+   "source_key": "rmis:490"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "062d8c6ddbbb80e70251286561704fb5365e6564008766c04d94766d11f81dcb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "有關集村興建農舍起造人數及資格疑義案,請查照。\n一、農業用地興建農舍辦法第8條第1項第1款規定「20戶以上之農民為起造人......。但離島地區,得以10戶以"
+  }
+ ]
+}

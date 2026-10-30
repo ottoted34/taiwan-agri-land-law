@@ -1,0 +1,50 @@
+{
+ "id": "itp-208843bbeb",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080229787號",
+ "date": "2019-07-24",
+ "date_text": "108/7/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局函為宜蘭縣政府所詢民宿登記證上登記疑義事項案，本會意見如說明，請查照。",
+ "content": "一、復貴局108年7月12日觀宿字第1080914314號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同，且農舍應以自用為原則。復依發展觀光條例第2條第9款規定，民宿指利用自用住宅空閒房間，結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動，以家庭副業方式經營，提供旅客鄉野生活之住宿處所。綜上，自用農舍如作為民宿者，應以家庭副業方式經營，其農業經營用地亦應維持農業生產使用，先予敘明。\n三、申請興建農舍之申請人應為該筆農業用地之所有權人，且農舍之申請人應為農民，並符合本辦法第2條、第3條及第3條之1之農民資格認定。是以，依法核准興建之農舍雖得依非都市土地使用管制規則、民宿管理辦法申請作為民宿使用，惟其經營者應為農舍及其坐落土地之所有權人，屬共有情形者亦是，始符合農舍應供自用之原則，並避免造成後續經營民宿之農舍稽查及管理困擾。\n四、至本會107年12月10日以農企字第1070245911號函復貴局，係有關申請經營民宿者非土地唯一所有權人，且共有人中有限制行為能力人之情形，貴局得逕依民宿管理辦法第9條及第11條規定辦理，與本案之情形有別，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4622",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:05+08:00",
+   "source_key": "rmis:4622"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f039179b9b72d08a53eecfccc2056c060e83cf2d1856fc64fd6e4a5924cbc0b1",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

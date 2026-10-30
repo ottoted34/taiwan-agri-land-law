@@ -1,0 +1,52 @@
+{
+ "id": "itp-34f61c546a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960154263號",
+ "date": "2007-10-03",
+ "date_text": "96/10/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋函詢私法人得否直接承購「山坡地保育區暫未編定用地」案。",
+ "content": "主旨：有關貴公司函詢私法人得否直接承購「山坡地保育區暫未編定用地」一案，復如說明，請　查照。\n說明：\n一、復　貴公司96年9月28日總法字第560號函。\n二、查非都市土地山坡地保育區暫未編定用地雖不屬農業發展條例第3條第11款所定義之耕地範圍，惟為避免其可能與同條例第33條所定「私法人不得承受耕地」之規定產生競合，宜請先依製定非都市土地使用分區圖及編定各種使用地作業須知十、「(三)山坡地範圍內供農業使用尚未查定之土地，應於可利用限度查定後，依其查定結果補註使用地類別為農牧用地、林業用地或國土保安用地。」之規定辦理，以釐清其適用法條規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4832",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:59+08:00",
+   "source_key": "rmis:4832"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6acb8eded91f52271cea80402c04952c9098399b7a280ca5433d0a958a64fd6c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "560號函。\n二、查非都市土地山坡地保育區暫未編定用地雖不屬農業發展條例第3條第11款所定義之耕地範圍,惟為避免其可能與同條例第33條所定「私法人不得承受耕地"
+  }
+ ]
+}

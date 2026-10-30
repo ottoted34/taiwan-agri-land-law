@@ -1,0 +1,54 @@
+{
+ "id": "itp-5847111ad3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020235594號",
+ "date": "2013-10-25",
+ "date_text": "102/10/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業發展條例第8條之1第1項，無固定基礎之臨時性與農業生產有關設施之審認疑義案。",
+ "content": "主旨：有關貴所函為農業發展條例第8條之1第1項，無固定基礎之臨時性與農業生產有關設施之審認疑義案，復請查照。\n說明：\n一、依據內政部營建署102年10月16日營署建管字第1020068350號移文單辦理，並復貴所102年10月11日102禧字第131011號函。\n二、依農業發展條例第8條之1第1項規定：「農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。直轄市、縣(市) 政府得斟酌地方農業經營需要，訂定農業用地上搭建無固定基礎之臨時性與農業生產有關設施之審查規範。」至於農業用地上興建有固定基礎之農業設施，則應依同條文第2項規定申請農業設施之容許使用，並依法申請建築執照，合先敘明。\n三、另查建築法第4條規定，該法所稱建築物，為定著於土地上或地面下具有頂蓋、樑柱或牆壁，供個人或公眾使用之構造物或雜項工作物。因此，倘非利用前開竹木、稻草等短期性農業生產有關之材料、材質所搭建，且具有頂蓋（屋頂）、樑柱、牆壁或樓地板等建築結構物者，則應認屬建築法規定之建築物，而不宜認定為無固定基礎之臨時性農業設施。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4925",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:57+08:00",
+   "source_key": "rmis:4925"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "539fc230bc1178b5391290af90d1ca54aad974efa7df1e4f0fbf69dee54303b1",
+ "topics": [
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "農業發展條例第8條之1第1項,無固定基礎之臨時性與農業生產有關設施之審認疑義案。\n主旨:有關貴所函為農"
+  }
+ ]
+}

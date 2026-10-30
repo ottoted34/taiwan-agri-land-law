@@ -1,0 +1,47 @@
+{
+ "id": "itp-5d5d2d89ec",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110218050號",
+ "date": "2022-05-09",
+ "date_text": "111/5/9",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "農舍用地臨側臨路疑義案",
+ "content": "主旨：有關貴轄埔里鎮○○○地號申請興建農舍臨路臨側疑義一案，復如說明，請查照。\n說明：\n一、復貴府111年4月26日府農務字第1110096544號函。\n二、有關涉及農舍用地臨接道路疑義，本會前於109年11月3日農企字第1090729733號函(諒達)已回復相關處理原則在案。\n三、經查本案與道路間隔○○○地號土地，其使用地類別屬財政部國有財產署補辦編定之水利用地，惟其是否確屬沿道路設置之水路或具相同性質之使用，建議向該機關予以確認。另，依來函所圖資顯示，申請興建農舍之該筆農業用地與道路尚隔○○○地號、○○○地號及○○○地號部分土地，本件是否確實為臨路，不無疑義，併請查明。\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，請貴府仍應於符合上開原則及其他相關法令規定，依個案事實予以審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5919",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:51:05+08:00",
+   "source_key": "rmis:5919"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8d0bbaa9b8fc9c548999fea293e86b08d0066b08c87c154b658c27ebbf38b0e7",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

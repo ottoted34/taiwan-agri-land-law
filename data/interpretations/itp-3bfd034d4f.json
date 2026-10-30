@@ -1,0 +1,65 @@
+{
+ "id": "itp-3bfd034d4f",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1030011157號",
+ "date": "2014-03-06",
+ "date_text": "103/3/6",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關已興建農舍之農業用地，擬變更原提供該筆興建農舍配合耕地，該交換土地之使用分區及使用地類別是否應與原配合耕地相同或有無限制疑義1案，復請查照。",
+ "content": "一、復貴府103年2月19日府建管字第1030021716號函。\n二、本部99年9月21日內授營建管字第0990807865號函示略以：「......該條例(農業發展條例)修正前，依原『臺灣省申請自用農舍補充注意事項』規定，以10公里範圍內之耕地合併申請興建農舍領得使用執照之案件……其申請農舍原使用執照內附加註記之配合耕地地號之變更......得依該農舍申請興建當時之法令依據及許可條件，以及現行申請變更使用執照程序，以其10公里範圍內之耕地檢討辦理......。」是申請交換變更原使用執照套繪管制之配合耕地，該擬變更土地之使用分區及使用地類別，自應依該農舍申請興建當時之法令依據及許可條件辦理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3782",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:52+08:00",
+   "source_key": "rmis:3782"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7dddacd33f973876d32b94edc19901b561820fb1d8f32bcc0ee3b7adae5bb391",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "管字第0990807865號函示略以:「......該條例(農業發展條例)修正前,依原『臺灣省申請自用農舍補充注意事項』規定,以10公里範圍內之耕地合併"
+  }
+ ]
+}

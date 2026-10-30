@@ -1,0 +1,55 @@
+{
+ "id": "itp-c2302de745",
+ "doc_class": "interpretation",
+ "docno": "農企字第1050240562號",
+ "date": "2016-10-26",
+ "date_text": "105/10/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關已領有容許使用及建築執照之合法農業設施申請設立戶籍疑義案，復請查照。",
+ "content": "一、復貴府105年10月18日屏府農企字第10574370100號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第33條，明定農業設施應依原核定之計畫內容使用，並不得作為住宅、工廠或其他非農業使用，爰農業設施倘未依原核定之計畫內容使用，或違規作「住宅」使用，即屬違反土地使用管制規定之情形，區域計畫或都市計畫主管機關可依相關規定處理。合先敘明。\n三、鑑於農業用地已開放自然人自由買賣，為避免一般自然人將農業設施作為居住或非農業之使用，部分農業設施仍不宜編定及核發門牌，進而依戶籍法規定辦理遷徙登記。惟門牌編訂及戶籍設立申請，係分屬地方自治事項及內政部主管事宜，仍應由貴府及內政部本於職權及主管法規核處之。就已領有容許使用之農業設施，倘經查核未依原核定之計畫內容使用，且設立戶籍亦得立判有供住宅使用事實等違規情節，依容許辦法第33條規定，原核定機關得廢止其許可。\n四、就已違規作住宅使用之農業設施，擬逕直接以申請興建農舍方式取得合法化一節，基於容許辦法業明定農業設施不得作為「住宅」使用，爰農業設施無法轉申請作農舍使用，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3218",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:28+08:00",
+   "source_key": "rmis:3218"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c186015884424680704cff7dc7cc99254089dc80e49c86b2f2c941b213473f9a",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "10月18日屏府農企字第10574370100號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第33條,明定農業設施應依原核定之計畫內容使用,並不得作為住"
+  }
+ ]
+}

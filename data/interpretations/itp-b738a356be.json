@@ -1,0 +1,83 @@
+{
+ "id": "itp-b738a356be",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010122123號",
+ "date": "2012-08-23",
+ "date_text": "101/8/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「申請農業用地作農業設施容許使用審查辦法」第10條「主管機關」定義之疑義案。",
+ "content": "主旨：有關　貴府函詢「申請農業用地作農業設施容許使用審查辦法」第10條「主管機關」定義之疑義案，復請　查照。\n說明：\n一、復　貴府101年8月17日屏府農企字第10126578900號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第10條規定：「主管機關辦理或專案輔導農業發展計畫所需之農業設施與依農業發展條例第25條所定農業生產區域或農產專業區內共同使用之區域性農業設施，其面積得依其計畫核定之。」所稱「主管機關」，按本辦法之授權法源「農業發展條例」第2條規定：「本條例所稱主管機關：在中央為行政院農業委員會；在直轄市為直轄市政府；在縣(市)為縣(市)政府。」是以，本辦法之主管機關，在中央應係指本會，而在地方應係指直轄市政府、縣(市)政府主管本辦法之農業主管機關而言。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5581",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:08+08:00",
+   "source_key": "rmis:5581"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "10",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a0b10b80dc4e545596abe8dfaba33cfdbb96b2709ba074f01ecb0d77b745c15a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "「申請農業用地作農業設施容許使用審查辦法」第10條「主管機關」定義之疑義案。\n主旨:有關 貴府函詢「申請農業用地作農業設施容許使用"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "25",
+   "kind": "extracted",
+   "snippet": "規定:「主管機關辦理或專案輔導農業發展計畫所需之農業設施與依農業發展條例第25條所定農業生產區域或農產專業區內共同使用之區域性農業設施,其面積得依其計畫核定之。"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "面積得依其計畫核定之。」所稱「主管機關」,按本辦法之授權法源「農業發展條例」第2條規定:「本條例所稱主管機關:在中央為行政院農業委員會;在直轄市為直轄市政府;在縣"
+  }
+ ]
+}

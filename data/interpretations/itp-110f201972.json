@@ -1,0 +1,79 @@
+{
+ "id": "itp-110f201972",
+ "doc_class": "interpretation",
+ "docno": "府地籍字第1030048579號",
+ "date": "2014-04-07",
+ "date_text": "103/4/7",
+ "agency_text": "宜蘭縣政府",
+ "category": "解釋函",
+ "subject": "貴所受理三星鄉○○○號已興建農舍耕地分割登記疑義案，請 查照。",
+ "content": "一、復 貴所103年3月27日羅地登字第1030002974號函。\n二、按「一、地政機關配合農業用地興建農舍辦法第12條規定辦理註記登記之處理方式：…(二)有關登記簿註記方式如下：1、農舍坐落地號：於土地登記簿標示部其他登記事項欄登打代碼『9P』，資料內容為『未經解除套繪管制不得辦理分割』；…2、提供興建之地號：於土地登記簿標示部其他登記事項欄登打代碼『9P』，資料內容為『未經解除套繪管制不得辦理分割』；…」為內政部102年10月30日內授中辦地字第1026652059號令所規定，又行政院農業委員會102年11月26日農水保字第1020229253號函暨內政部102年12月24日內營字第1020813101號函(諒達)另就已興建農舍之耕地分割補充解釋在案。\n三、據上，已興建農舍之農業用地，如該農業用地屬耕地並符合農業發展條例第16條得辦理分割之條件者，自得依該規定辦理分割登記，無檢附解除套繪相關文件之必要，且不受分割前登記簿已有「未經解除套繪管制不得辦理分割」註記之限制，惟仍須將原註記事項，加註於分割後之各筆土地登記簿。\n四、副本抄送行政院農業委員會、內政部、內政部營建署，有關本縣土地行政作為，倘有欠妥之處，請另予指正。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "宜蘭縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3785",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:29+08:00",
+   "source_key": "rmis:3785"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "12",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "9c09542e3d30507c25a05e259371c31041c0fe60e7540ef46232f99eb20876a7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "地登字第1030002974號函。\n二、按「一、地政機關配合農業用地興建農舍辦法第12條規定辦理註記登記之處理方式:...(二)有關登記簿註記方式如下:1、農舍坐落地號"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "。\n三、據上,已興建農舍之農業用地,如該農業用地屬耕地並符合農業發展條例第16條得辦理分割之條件者,自得依該規定辦理分割登記,無檢附解除套繪相關文件之必要,且不"
+  }
+ ]
+}

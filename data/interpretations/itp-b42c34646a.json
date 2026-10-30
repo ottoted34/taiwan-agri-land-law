@@ -1,0 +1,64 @@
+{
+ "id": "itp-b42c34646a",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990108325號",
+ "date": "2010-02-06",
+ "date_text": "99/2/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "利用毗連非都市土地擴展工業計畫涉及未登錄地之隔離綠帶或設施審查執行疑義一案。",
+ "content": "主旨：有關申請利用毗連非都市土地擴展工業計畫涉及未登錄地之隔離綠帶或設施審查執行疑義一案，復請　查照。\n說明：\n一、復貴局○年○月○日北農牧字第○○○○○號函。\n二、依據「農業主管機關同意農業用地變更使用審查作業要點」第11點第1項規定，申請變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，並具體標繪於土地使用配置圖上。隔離綠帶或設施之配置區位應與毗鄰農業用地相緊臨，以發揮隔離之效果；而在設置最小寬度方面，除依同要點第12點規定有配置寬度者外，以1.5公尺為原則，但縣（市）政府依據地方特性規定另訂定大於1.5公尺者，依其規定辦理，並報中央主管機關備查。準此，申請農業用地變更使用因緊鄰未登錄地之執行，建請查明土地使用產權、性質及事實使用等情形，審核是否確供農業生產性質使用，併依上開要點第11點及第12點規定視個案實務辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5465",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:15+08:00",
+   "source_key": "rmis:5465"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "9775d046c1b6441bb9b71fd5723c9a2ecbcae75ea3f06f62d2854a581443d28a",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "\n一、復貴局○年○月○日北農牧字第○○○○○號函。\n二、依據「農業主管機關同意農業用地變更使用審查作業要點」第11點第1項規定,申請變更農業用地作與農業生產性質不相容之目的事業使用者,應配"
+  }
+ ]
+}

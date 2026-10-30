@@ -1,0 +1,54 @@
+{
+ "id": "itp-47cf0311e5",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090234617號",
+ "date": "2020-08-14",
+ "date_text": "109/8/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "復新竹市府非都市土地變更為特定目的事業用地不再以可建築用地面積計算",
+ "content": "主旨：有關貴府函詢有關民眾陳情農業用地變更回饋金之計算疑義案，復請查照。\n說明：\n一、復貴府109年8月10日府產農字第109012479號函。\n二、查105年5月25日修正發布之農業用地變更回饋金撥繳及分配利用辦法(以下簡稱農變回饋金辦法)第4條規定：「非都市土地範圍內農業用地，變更編定為特定目的事業用地者，其回饋金之繳交基準如下：．．．二、變更供前款以外之事業設施使用，以變更編定面積與獲准變更當期公告土地現值乘積百分之五十為計算基準。」已明定係以「變更編定面積」與獲准變更當期公告土地現值乘積比率為計算基準。合先敘明。\n三、鑒於非都市土地農業用地依法變更為特定目的事業用地，其變更使用之面積，係涵蓋變更作隔離綠帶及隔離設施之範圍，故其回饋金之計算，仍應以整體變更為特定目的事業用地之變更編定面積與獲准變更當期公告土地現值乘積比率為計算基準，爰本案仍請貴府依上開處理原則辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5607",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:11+08:00",
+   "source_key": "rmis:5607"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1d5081371fda7f78e3614c73d1ae0e8b3f98acd697a4d955ff38b7d4ef6aa7a2",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "109012479號函。\n二、查105年5月25日修正發布之農業用地變更回饋金撥繳及分配利用辦法(以下簡稱農變回饋金辦法)第4條規定:「非都市土地範圍內農業用地,變更編定為特定"
+  }
+ ]
+}

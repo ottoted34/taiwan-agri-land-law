@@ -1,0 +1,65 @@
+{
+ "id": "itp-d367299b76",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990140760號",
+ "date": "2010-07-22",
+ "date_text": "99/7/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業發展條例第8條之1第1項規定：「無固定基礎之臨時性與農業生產有關之設施」之認定疑義案。",
+ "content": "主旨：有關農業發展條例第8條之1第1項規定：「無固定基礎之臨時性與農業生產有關之設施」之認定疑義案，復請 查照。\n說明：\n一、復 貴府99年6月11日府農務字第0990168438號函。\n二、依據農業發展條例第8條之1第1項規定：「農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。直轄市、縣（市）政府得斟酌地方農業經營需要，訂定農業用地上搭建無固定基礎之臨時性與農業生產有關設施之審查規範。 」有關無固定基礎之臨時性與農業生產有關之設施，其審認原則查本會於94年9月13日農企字第0940147679號函(如附)說明有案，合先敘明。\n三、惟本案貴府來函說明，其菇舍(菇類栽培場)之搭建方式為鋼架(無水泥樁)、屋頂為烤漆浪板、四周為塑膠黑網，考量菇類栽培場搭建樣式繁多，上述菇舍之搭建方式確屬現行菇舍之一般樣式，基於最終審查認定標準係屬 貴府業務權責，本案如經 貴府會同委任(辦)之新社鄉公所相關人員現場勘查，審認搭建方式確屬上述情形，且舍內無樑柱、牆壁或鋪設水泥地板等建築結構物，同時確為地方經營菇類之所需，則應可認定為符合農業發展條例第8條之1第1項規定：「無固定基礎之臨時性與農業生產有關之設施」。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5409",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:50+08:00",
+   "source_key": "rmis:5409"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b7b1ddb31b4bc3df031c2abc517ca485058fa14be818dc6b1363b910bf2a9f3a",
+ "topics": [
+  "paving",
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "農業發展條例第8條之1第1項規定:「無固定基礎之臨時性與農業生產有關之設施」之認定疑義案。\n主旨:有關"
+  }
+ ]
+}

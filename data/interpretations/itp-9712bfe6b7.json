@@ -1,0 +1,64 @@
+{
+ "id": "itp-9712bfe6b7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040214702號",
+ "date": "2015-04-30",
+ "date_text": "104/4/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴轄○○○等24人於桃園市龍潭區○○○地號，以集村方式興建農舍，申請辦理專案分割為27筆地號案，復請查照。",
+ "content": "一、復貴府農業局104年4月22日桃農管字第1040008786號函。\n二、依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定，同意旨揭土地分割為27筆土地，分割事宜請依相關規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3326",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:41+08:00",
+   "source_key": "rmis:3326"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c1268f49772d5f77a70972c89814b76a300b7c6394bc97b5232718a9dfc55fbe",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "4年4月22日桃農管字第1040008786號函。\n二、依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定,同意旨揭土地分割為27筆土地,"
+  }
+ ]
+}

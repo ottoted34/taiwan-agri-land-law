@@ -1,0 +1,56 @@
+{
+ "id": "itp-410f48581b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080728567號",
+ "date": "2019-10-25",
+ "date_text": "108/10/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋共有農地興建農舍無論時點或面積均不得分管契約書方式辦理",
+ "content": "主旨：有關貴府函詢共有農業用地興建農舍有違規使用，其未違規使用部分得否依農業用地作農業使用認定及核發證明辦法第6條第6款及第8條規定辦理疑義案，復請查照。\n說明：\n一、復貴局108年10月4日中市農地字第1080034121號函。\n二、查本會104年4月16日農企字第1040209001號函復貴局，說明共有農業用地興建農舍有違規使用，須以整筆土地違規使用論處，無農業用地作農業使用認定及核發證明辦法第6條第6款及第8條規定得以分管契約方式辦理之適用在案。其意旨係因農舍為與農業經營不可分離之建築物，其10%農舍用地與90%農業經營用地具有不可分離之關係，故無論該農舍興建時點，或其農業用地面積多寡，均不得以上開辦法第8條規定之分管契約書等方式，將農舍與其餘農業經營用地之使用情形分開視之，而僅就農舍或其餘農業經營用地核發農業用地作農業使用證明書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5584",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:49+08:00",
+   "source_key": "rmis:5584"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "89dbc342948e5beb294010c9cb56f9feca1c4b7c800d0b37d7e38d08f048e395",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "府函詢共有農業用地興建農舍有違規使用,其未違規使用部分得否依農業用地作農業使用認定及核發證明辦法第6條第6款及第8條規定辦理疑義案,復請查照。\n說明:\n一、復貴局108年10月4日中"
+  }
+ ]
+}

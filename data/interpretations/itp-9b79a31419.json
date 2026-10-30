@@ -1,0 +1,71 @@
+{
+ "id": "itp-9b79a31419",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970106251號",
+ "date": "2008-02-12",
+ "date_text": "97/2/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "013 申請非都市土地山坡地保育區農牧用地作農業設施容許使用，尚未徵得全部共有人同意，得否適用土地法第34條之1第1項規定，以共有人過半數及其應有部分合計過半數之同意行之疑義。",
+ "content": "查民法第819條規定，各共有人得自由處分其應有部分，共有物之處分、「變更」、負擔，應得共有人全體之同意。依內政部85年10月5日台（85）內地字第8588001號函釋：「按土地法第34條之1第1項所稱『變更』，係指變更共有物之本質或其用途而言。非都市土地申請容許使用，屬變更共有物用途之一，應有土地法第34條之1之適用」。爰以，共有土地依農業用地容許作農業設施使用審查辦法規定，申請農業設施容許使用，依內政部上開函釋原則，係屬變更共有物用途之ㄧ，與共有物之分管契約，各就其權利範圍從事農耕分別管理之性質有別。按民法之規定，共有物之變更應得共有人全體之同意，台端之個案倘因無法徵得全體共有人之書面同意，建議應循土地法第34條之ㄧ規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5010",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:23+08:00",
+   "source_key": "rmis:5010"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "297642fbf7eec2376cc9f317219ffbae32e0ed84c510a55f16f64225ba8282c6",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "物用途之一,應有土地法第34條之1之適用」。爰以,共有土地依農業用地容許作農業設施使用審查辦法規定,申請農業設施容許使用,依內政部上開函釋原則,係屬變更共有物用途之ㄧ,與共有"
+  }
+ ]
+}

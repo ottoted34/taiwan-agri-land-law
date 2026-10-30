@@ -1,0 +1,48 @@
+{
+ "id": "itp-5713646d4c",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051806318號",
+ "date": "2016-05-31",
+ "date_text": "105/5/31",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函詢審核○○○申請屏東縣高樹鄉○○○地號農業用地自用農舍其土地取得時間點疑義一案，復請查照。",
+ "content": "一、復貴府105年5月25日屏府農企字第10515010800 號函。\n二、有關土地取得時點之認定，請悉依行政院農業委員會101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3246",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:05+08:00",
+   "source_key": "rmis:3246"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2fcf544da2727bd378535b42b35efdf4db339f191a0b542847f15c5364f598c5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

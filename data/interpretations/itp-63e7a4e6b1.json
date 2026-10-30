@@ -1,0 +1,50 @@
+{
+ "id": "itp-63e7a4e6b1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070226106號",
+ "date": "2018-07-03",
+ "date_text": "107/7/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農民申請興建農舍檢附之農業生產佐證資料疑義案，復如說明，請查照。",
+ "content": "一、復貴府107年6月25日府農工字第1070699697號函。\n二、按「農舍」係為提供有心經營農業者於該農地上興建具有放置農機具兼其居住之需求，以便利其農事工作，而與農業經營不可分離之建築物，因此申請人係於農業用地上先有農業經營行為後始有興建農舍之需求，該農業用地應以積極利用為目的，合先敘明。\n三、有關農業生產相關佐證資料一事，本會104年10月21日農水保字第1041866479號函所列證明文件之一即可作為審認之依據。依本會前述號函，領取調整耕作制度活化農地計畫轉(契)作補貼之證明作為農業生產佐證資料者，僅指領取轉契作補貼者，尚不包括領取休耕給付者，申請人應檢附自申請日往前至少2年內每年之農業生產佐證資料，以審查該筆農業用地確供農業使用。\n四、如該筆農業用地因休耕事由而未實際供農作，則是否有農業經營之事實且衍生興建農舍輔助農事之需求不無疑義，貴府仍應就申請個案審認是否符合上開積極利用之意旨。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4427",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:16+08:00",
+   "source_key": "rmis:4427"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1304dde6470c529828b4f6ea68de2143e92a2fb55f8b3eff0bc2087e19f906b5",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

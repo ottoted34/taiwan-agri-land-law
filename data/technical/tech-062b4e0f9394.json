@@ -1,0 +1,37 @@
+{
+ "id": "tech-062b4e0f9394",
+ "source_key": "datamoa:B83:a98d82026dac1ee4",
+ "title": "農情月刊 243",
+ "series": "農情月刊",
+ "issue": "243",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": "2020-03",
+ "url": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/243.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B83",
+  "title": "臺東區農業改良場農情月刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83"
+ },
+ "raw": {
+  "期別": "243",
+  "出刊時間": "202003",
+  "檔案連結": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/243.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83",
+   "fetched_at": "2026-10-30T10:26:58+08:00"
+  }
+ ],
+ "content_hash": "f5aee993fe47876fcf8f58a2318e0189fc8bb1732490802145c6fcbb4d2d3190",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

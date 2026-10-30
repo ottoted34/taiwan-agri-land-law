@@ -1,0 +1,54 @@
+{
+ "id": "itp-511d7246e9",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051807355號",
+ "date": "2016-07-04",
+ "date_text": "105/7/4",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府建議本局與內政部協商「農業用地興建農舍辦法第2條及第8條定有明文，起造人申請農舍建造執照時，請主管建築機關惠請農業主管機關確認其建築配置，以免配置與核定之農舍經營計畫書不符。」一案，請查照。",
+ "content": "一、復貴府105年6月21日府農務字第1050205441號函。\n二、依據本局105年3月28日水保農字第1051859364號函送105年3月23日召開「105年研商農舍相關議題第一次會議」會議紀錄，案由二決議七之原始文字為：「...請內政部營建署函各直轄市、縣(市)政府建管單位，於審查建造執照時，應注意相關配置是否合於經營計畫書內容」，先予敘明。\n三、經電洽內政部營建署，內政部105年5月17日內授營建管字第1050806050號函所稱之「會請」實無現場會勘之意，建築主管單位於建造執照審核之時應無所謂「現場會勘」之需求性，似無來文所述之疑慮。各直轄市、縣(市)政府內部應橫向聯繫並協調，以各類型適當方式確認相關配置。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3249",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:55+08:00",
+   "source_key": "rmis:3249"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "594b8771a8da650e546714ec628d289f34387cfdc76d46a2a0300a46da284648",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "有關貴府建議本局與內政部協商「農業用地興建農舍辦法第2條及第8條定有明文,起造人申請農舍建造執照時,請主管建築機關惠請農業主管機關確認其"
+  }
+ ]
+}

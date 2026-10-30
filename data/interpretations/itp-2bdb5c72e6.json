@@ -1,0 +1,72 @@
+{
+ "id": "itp-2bdb5c72e6",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000176693號",
+ "date": "2011-12-08",
+ "date_text": "100/12/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關民眾申請施設太陽光電發電設施，可否免繳回饋金疑義案。",
+ "content": "主旨：有關民眾依本會「補助養殖業設置太陽光電發電設備作業計畫」申請施設太陽光電發電設施，可否免繳回饋金疑義案，復請 查照。\n說明：\n一、復 貴局100年11月29日高市鳳山農務字第1001029148號函。\n二、查旨揭計畫係補助莫拉克災區屏東縣及高雄縣已實際養殖中之魚塭養殖業者，設置太陽光電發電設備以為養殖生產之用，該計畫屬與農業生產密切之專案計畫，復本專案設備所占農地面積比例甚小，且設於農業設施（養殖池）上，其發電後之電力係供農漁民生產養殖自用（合約已有規範），則該設備經依前開計畫申請辦理，認屬為養殖池之附屬設備，尚屬「農業使用」之範疇，未涉及「農業用地變更回饋金撥繳及分配利用辦法」規定之適用。查本會前於100年4月29日以農企字第1000119115號函復屏東縣政府有案（如附件），爰本案亦宜比照辦理。\n三、惟該項太陽光電發電設備應確實供農漁民自用及養殖生產所用，倘查有未依上開計畫使用，或其他發電廠使用農地興建太陽能板覆蓋，以發電為營利目的者，非供農業所需，核與本案無關，仍應依本會95年2月3日農企字第0950010472號會議決議事項規定，依上開辦法繳回饋金，且不得享有農業發展條例相關賦稅優惠，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5096",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:09+08:00",
+   "source_key": "rmis:5096"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "1e3b44eae645d821664a24c417989fdd8f0cf4ebf07ea4b7aa8cb3ffd7a2f8ea",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "辦理,認屬為養殖池之附屬設備,尚屬「農業使用」之範疇,未涉及「農業用地變更回饋金撥繳及分配利用辦法」規定之適用。查本會前於100年4月29日以農企字第1000119115號函復屏東"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "10472號會議決議事項規定,依上開辦法繳回饋金,且不得享有農業發展條例相關賦稅優惠,併予敘明。"
+  }
+ ]
+}

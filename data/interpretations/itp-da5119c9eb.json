@@ -1,0 +1,64 @@
+{
+ "id": "itp-da5119c9eb",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041805834號",
+ "date": "2015-03-23",
+ "date_text": "104/3/23",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業發展條例修正施行後取得之農業用地，因公共工程建設被徵收或協議價購，至剩餘土地不足0.25公頃申請興建農舍，得否取得興建農舍資格證明案，復請查照。",
+ "content": "一、復貴府104年3月19日府農務字第1040044629號函。\n二、旨案仍請依本局104年1月20日水保農字第1041801227號函辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3948",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:04+08:00",
+   "source_key": "rmis:3948"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e19742b99e5ed41d7efb193ff628006993bfeab2faf6e3ce6c8e8e361c3c7925",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正施行後取得之農業用地,因公共工程建設被徵收或協議價購,至剩餘土地不足0.25"
+  }
+ ]
+}

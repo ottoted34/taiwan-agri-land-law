@@ -1,0 +1,58 @@
+{
+ "id": "itp-d6a0698922",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020241642號",
+ "date": "2013-12-30",
+ "date_text": "102/12/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局為辦理農業用地興建農舍之申請人資格審查，擬利用財政部財政資訊中心以資訊系統查調方式查詢申請人房屋財產歸戶資料一案，請查照惠復。",
+ "content": "一、依據財政部賦稅署102年12月23日臺稅稽徵字第10200234260號函(如附件)辦理。\n二、財政部賦稅署上開號函略以：「‧‧‧究以申請人之授權代理人或以受理興建農舍申請案之地方主管機關需求資料？如為後者，申請人既有自行檢附資料之義務，‧‧‧要求財政部提供資料是否合宜？」，先予敘明。\n三、按本案倘以地方主管機關主動查調資料方式為之，本會自當修訂「申請興建農舍之申請人資格條件審查表」以為因應，尚無上開合宜性問題。\n四、綜上，本案請貴局說明擬採行財政部賦稅署上開號函所提何種資料查調方式，送會後俾便續辦。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3723",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:14+08:00",
+   "source_key": "rmis:3723"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "69b33e98d6b758faf8466408ac3755c8d198111b4a18c82c618f738f19148047",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "itp-a711065aa8",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020230177號",
+ "date": "2013-09-16",
+ "date_text": "102/9/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地作農業設施容許使用案件審查簽辦單「申請用地不妨礙現有道路之通行」之審查疑義案。",
+ "content": "主旨：有關貴局函詢申請農業用地作農業設施容許使用案件審查簽辦單「申請用地不妨礙現有道路之通行」之審查疑義案，復請查照。\n說明：\n一、復貴局102年9月4日南市農務字第1020747907號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第7條第5款規定，申請農業用地作農業設施容許使用，有「妨礙道路通行」之情形者，應不予同意。爰現行「申請農業用地作農業設施容許使用案件審查簽辦單」內訂定工務單位之審查(查證)項目第16項「申請用地不妨礙現有道路之通行」，係為呼應上開條文之立法意旨，避免申請農業設施之農業用地上，因地籍圖謄本上未標繪既成道路或已公告劃設計畫道路等，導致興建農業設施後有妨礙道路通行之情形，爰於上開審查簽辦單配套訂定該審查(查證)項目。\n三、有關貴府之工務單位於會審時，倘於前開審查簽辦單已認屬第15項該申請用地得作建築使用，則於第16項簽註「未影響道路通行」或「所請土地面臨之道路非屬該單位權責」，貴局亦得憑以續處農業設施容許使用案件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4924",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:33+08:00",
+   "source_key": "rmis:4924"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b0748eb3086360a85958bf221464047079e977994d6dff0a821c6c6212638e3e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "2年9月4日南市農務字第1020747907號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第7條第5款規定,申請農業用地作農業設施容許使用,有「妨礙道路通行」之情形者,應不予同"
+  }
+ ]
+}

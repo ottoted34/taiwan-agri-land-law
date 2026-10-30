@@ -1,0 +1,48 @@
+{
+ "id": "itp-d0f0eab59d",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1142612573號",
+ "date": "2025-08-15",
+ "date_text": "114/8/15",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴縣民眾陳情近日豪雨致本(114年第2)期作秧苗淹沒且難以復耕得否免除申請農舍需2年積極農用規定限制疑義案，復請查照。",
+ "content": "一、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，爰申請興建農舍時，除申請人身分認定以外，均須審查經營計畫書及該筆農業用地自申請日往前至少2年經營實績，以確認該筆農業用地確有積極農用之事實，先予敘明。\n二、依「農業天然災害救助辦法」第4條規定略以：「．．．所稱天然災害，指因颱風、焚風、龍捲風、豪雨、霪雨、冰雹、寒流、旱災或地震所造成之災害。．．．」，且前揭辦法救助對象係以原有農業經營，因天然災害之變故，致無法繼續從事農業使用者為限，爰改制前行政院農業委員會104年10月21日農水保字第1041866479號通函(諒達)，說明有關農業生產佐證資料得包含「領取農業天然災害救助之證明文件」，併予敘明。\n三、有關貴府所提個案因連日豪雨造成二期作秧苗淹沒死亡，且現地排水不良積水無法消退致復耕困難，倘該次災害經審定領有農業災害救助之證明文件，得視為當期作積極農用之證明文件，倘未能符合農業天然災害救助標準，後續仍應積極復耕，以符合申請興建農舍需連續2年經營實績之要件；又現地排水不良耕作因難，未來興建農舍後是否能持續積極農業使用，並達到興建農舍與農業經營不可分離之目的，仍請貴府併予考量。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6018",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:08+08:00",
+   "source_key": "rmis:6018"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4e85e2d2f81fb06d81cab68d864c336df92b1c76b76204fa9014189680a0c699",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

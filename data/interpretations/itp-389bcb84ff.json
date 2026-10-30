@@ -1,0 +1,52 @@
+{
+ "id": "itp-389bcb84ff",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1031040324號",
+ "date": "2014-08-19",
+ "date_text": "103/8/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：有關貴府函為民眾申請農業用地作農糧產品加工室容許使用疑義案，復請查照。\n說明：\n一、復貴府103年8月4日府農務字第1030143764號函。\n二、查行政院農業委員會102年10月9日修正發布申請農業用地作農業設施容許使用審查辦法(以\n下簡稱容許辦法)第13條附表1所定農糧產品加工室之申請基準或條件規定，尚無對使用之農\n產品原料來源有所限制，合先敘明。\n三、本案依貴府所附申請書件，申請人擬以農產原料從事酒類及酵素生產，尚符農糧產品加工範\n疇。另五葉松酒品亦為菸酒管理法允許產製酒類，爰該經營計畫擬列為產製項目之一，本署\n無意見，惟仍請貴府按容許辦法相關規定核實審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5448",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:59+08:00",
+   "source_key": "rmis:5448"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6fb3b47cd7a80f047990970c45b73fd339af092729ae1d7b11425ea96288bb45",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請農業設施容許使用審查辦法-農糧署解釋函\n主旨:有關貴府函為民眾申請農業用地作農糧產品加工室容許使用疑義案"
+  }
+ ]
+}

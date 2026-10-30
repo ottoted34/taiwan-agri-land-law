@@ -1,0 +1,61 @@
+{
+ "id": "itp-bc9a1b502a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040232019號",
+ "date": "2015-09-23",
+ "date_text": "104/9/23",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍辦法第13條及第15條執行疑義案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴局104年8月17日北市產業農字第10432766800號函。\n二、農舍興建應符合農業發展條例第18條之規定意旨，揆諸農舍興建立法精神，係強調「無自用農舍」而需興建者，得依相關規定申請興建農舍，是以出租行為係營利行為，依社會通識應即認定已違反所謂「自用」原則，行政院農業委員會97年3月21日農水保字第0971843082號函參照，先予敘明。\n三、本案貴局就已興建農舍之農業用地規劃為市民農園而出租供他人使用，是否應依本辦法第13條或第15條規定撤銷或廢止相關許可疑義，請依中央行政機關法制作業應注意事項第18點規定，具體敘明各種疑見、得失分祈以及擬採之見解及其理由後，再請賜函憑辦。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3919",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:28+08:00",
+   "source_key": "rmis:3919"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9b865666cef90b6621996063ff23ea1f8e420e7c751430ee871fa0821679015b",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第13條及第15條執行疑義案,復請查照。\n一、復行政院農業委員會交下貴局104年8月17"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "市產業農字第10432766800號函。\n二、農舍興建應符合農業發展條例第18條之規定意旨,揆諸農舍興建立法精神,係強調「無自用農舍」而需興建者,得依相關規定申"
+  }
+ ]
+}

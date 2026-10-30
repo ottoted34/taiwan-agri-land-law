@@ -1,0 +1,79 @@
+{
+ "id": "itp-333b85fb89",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1040043758號",
+ "date": "2015-07-15",
+ "date_text": "104/7/15",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關「農業用地興建農舍辦法」第4條適用疑義1案，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局104年7月1日水保農字第1041882989號函轉貴府104年6月30日府農保字第1040124534號函辦理。\n二、有關申請人主張依法被徵收或協議價購方式讓售與需地機關之農業用地有數筆，並擬將各被徵收或協議價購土地面積合併計算，用以作為申請興建農舍用地面積1節，查行政院農業委員會98年6月3月農授水保字第0981842750號函及100年3月24日農授水保字第100015206號函示(如附件)，農業發展條例89年1月28日修正施行前或後取得之農地興建農舍，僅得於一筆土地上提出，無法合計多筆共有農地之持分，另於其他土地興建農舍並計算可建築之面積，多筆單獨所有農地亦同。\n三、如申請人擬依農業用地興建農舍辦法第4條規定辦理，依前開函示意旨，所持有農業發展條例89年1月28日修正施行前取得之農業用地不得採多筆土地合併方式辦理，於徵收或協議價購後依前開辦法第4條規定重新購置取得之農業用地，亦僅得以被徵收或協議價購之1筆農業用地作為申請面積。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3379",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:35+08:00",
+   "source_key": "rmis:3379"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "4",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "48bf4e26b076a2db56830b6233b11f0d84dbbf6e5cb7cccab608b7912ad2391c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "有關「農業用地興建農舍辦法」第4條適用疑義1案,請查照。\n一、依據行政院農業委員會水土保持局104年7月1日水保農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年3月24日農授水保字第100015206號函示(如附件),農業發展條例89年1月28日修正施行前或後取得之農地興建農舍,僅得於一筆土地上提出,無法合計"
+  }
+ ]
+}

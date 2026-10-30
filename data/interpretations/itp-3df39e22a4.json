@@ -1,0 +1,67 @@
+{
+ "id": "itp-3df39e22a4",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1011865007號",
+ "date": "2012-02-20",
+ "date_text": "101/2/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "本會95年11月17日農授水保字第0950164806號書函、95年9月14日農授水保字第0950151371號書函、95年6月7日農授水保字第0950130747號書函、95年4月18日農水保字第0950117959號函、95年3月1日農授水保字第0951850892號函、95年1月16日農授水保字第0951850793號函、94年11月1日農授水保字第0941849656號書函、94年9月8日農授水保字第0940146590號書函、94年8月16日農授水保字第0941849045號書函、94年6月9日農授水保字第0941811830號書函及本會水土保持局99年8月18日水保農字第0991820020號書函等11筆函釋，自即日停止適用，請 查照。",
+ "content": "以共有農業用地申請興建農舍，本會前以96年3月14日農授水保字第0961848173號函確定處理原則，旨揭各函敘及以共有農業用地興建農舍者之建築面積及總樓地板面積係屬私權行為，由共有人合意為之等節，與現行規定不符，應停止適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2801",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:58+08:00",
+   "source_key": "rmis:2801"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7e50b3b9fc0a3f7bcc8c27045c19a298e43649377e9c4f626c279fd088759fbe",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

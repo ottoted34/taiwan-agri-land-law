@@ -1,0 +1,56 @@
+{
+ "id": "itp-6cbcd52216",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960143789號",
+ "date": "2007-08-10",
+ "date_text": "96/8/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "018 釋都市計畫農業區作農業使用之認定案",
+ "content": "查內政部為廢除地目等則制度採逐步漸進方式處理，除與民眾權利義務較有關係之田、旱、建、道等四種地目之變更外，不再辦理地目詮定。又該部營建署亦曾函釋略以：「都市計畫農業區土地於都市計畫書未有禁止之規定時，農業區應可供農、林、漁、牧業作為生產使用。」因此，本案都市計畫農業區溜地目土地種植農作物是否符合作農業使用之認定一節，宜請先洽貴府水利單位，就該作蓄水灌溉使用之埤塘，是否須依法辦理廢溜事宜，倘無違前開水利法規之規定，其種植農作物應符合作農業使用之認定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5503",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:14+08:00",
+   "source_key": "rmis:5503"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "3583c0d1988d319db94fd7fdf38fd8e1bad9461ed492464b3f707a5b0f2ee1ab",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

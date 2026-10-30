@@ -1,0 +1,61 @@
+{
+ "id": "itp-96161e0e88",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1050728759號",
+ "date": "2016-11-01",
+ "date_text": "105/11/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴府函為合法農業設施是否得變更作農舍兼原核定農業設施使用案，復請查照。",
+ "content": "一、復貴府105年10月5日府農務字第1050077097號函。\n二、農業用地依法供農業使用，除農舍及農業設施外，原則不宜有與農業經營無關之固定基礎構造物，以避免影響農業用地之經營使用，其中農舍係基於農業經營之目的始附帶提供居住使用，並依農業用地興建農舍辦法規定辦理，農業設施則供農業經營使用，並依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)予以審認核處，二者之性質、法令依據、申請要件與管制規定均不相同。又容許辦法第33條，明定農業設施不得供為住宅使用，爰農業設施倘違規作住宅使用，經廢止許可即屬違反土地使用管制規定之情形，區域計畫或都市計畫主管機關可依相關規定處理。\n三、查本會105年8月10日召開農舍相關議題研商會議，針對興建中或既有違規建築物，及既有農業設施倘有居住事實，得否申請補辦或變更為農舍之決議指出，已依其他規定取得容許使用、相關建造執照或使用執照者，尚不得轉作農舍使用，餘違規情事應依區域計畫法或都市計畫法裁罰後，再依相關規定辦理。為避免衍生適法性之衝突，加劇違規使用之虞，請貴府依上開決議辦理。\n四、檢還原送申請書件1份。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3230",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:23+08:00",
+   "source_key": "rmis:3230"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a6d128016c47e59930998f6a2e58f88e5a7a18f18a2895f793e7b6325c5fa9e4",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "營使用,其中農舍係基於農業經營之目的始附帶提供居住使用,並依農業用地興建農舍辦法規定辦理,農業設施則供農業經營使用,並依申請農業用地作農業設施容許使用審查辦法("
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地興建農舍辦法規定辦理,農業設施則供農業經營使用,並依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)予以審認核處,二者之性質、法令依據、申請要件與管制規定均不相"
+  }
+ ]
+}

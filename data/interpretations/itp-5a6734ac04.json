@@ -1,0 +1,55 @@
+{
+ "id": "itp-5a6734ac04",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100218596號",
+ "date": "2021-05-27",
+ "date_text": "110/5/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "集村農舍可否於取得使用執照後互相交換配地疑義",
+ "content": "主旨：有關所詢集村農舍可否於取得使用執照後互相交換配地疑義一案，復如說明，請查照。\n說明：\n一、復貴局110年5月10日南市農工字第1100600337號函。\n二、查農業發展條例(以下簡稱本條例)第18條第4項規定：「．．．農舍應與其坐落用地併同移轉或併同設定抵押權．．．」，基於農舍為農業經營不可分離之設施物，為避免已興建農舍後之農地如得自由移轉予其他人，原供申請興建農舍之農地脫離農舍所有權人之支配管理範圍，無法落實已興建農舍後其他90%之農業用地仍供積極農業生產使用，有違本條例第18條第4項規定農舍應與其坐落用地併同移轉或併同設定抵押\n權之立法意旨，爰規範農舍應與其坐落用地併同移轉，以確保足供積極農業生產使用之土地。又前開所謂坐落用地係指農舍所坐落之該筆農業用地及其配合耕地，先予敘明。\n三、由於上述農舍坐落用地包含農舍用地及農業用地，應受本條例第18條第4項併同移轉之限制，爰本案部分農舍所有權人擬交換其農業用地之作法，不符上開規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5676",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:04+08:00",
+   "source_key": "rmis:5676"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "57712cb450a2747ca59a27bfe2cdc86941a3983e2edab9c5baeb0b3117cb36a9",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "0年5月10日南市農工字第1100600337號函。\n二、查農業發展條例(以下簡稱本條例)第18條第4項規定:「...農舍應與其坐落用地併同移轉或併同設"
+  }
+ ]
+}

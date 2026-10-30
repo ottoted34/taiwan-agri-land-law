@@ -1,0 +1,62 @@
+{
+ "id": "itp-78c7b455d1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020229380號",
+ "date": "2013-09-17",
+ "date_text": "102/9/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○○於秀林鄉○○○地號申請農業用地作農業設施容許使用同意書，所持有土地管理機關核發之土地租賃契約書得否替代「土地使用同意書」之疑義案。",
+ "content": "主旨：有關貴府函詢○○○於秀林鄉○○○地號申請農業用地作農業設施容許使用同意書，所持有土地管理機關核發之土地租賃契約書得否替代「土地使用同意書」之疑義案，復請查照。\n說明：\n一、復貴府102年8月28日府農保字第1020155527號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第5條規定，申請農業用地作農業設施容許使用，應填具申請書及檢附文件，向土地所在地之直轄市或縣(市)主管機關申請，其第6款明定土地使用同意書為應附文件之一，該款並以但書明定「土地為申請人單獨所有者，免附。」其立法目的係在確認申請人是否經土地所有權人同意得於該農業用地申請興建農業設施，合先敘明。\n三、本案申請之農業用地為行政院原住民族委員會管理之國有土地，申請人檢附土地管理機關核發之土地租賃契約書是否業同意承租人得為相關之使用，宜請釐明；倘於契約未有規範，則仍請依規定取得土地使用同意書。復依貴府來函所附之秀林鄉公所102年8月20日秀鄉經字第1020014521號函說明略以，貴府亦訂有「花蓮縣公有原住民保留地土地使用權同意書核發審查要點」規定，據以審查核定公有原住民保留地使用權同意書。是以，本案仍應請申請人依前開規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4922",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:32+08:00",
+   "source_key": "rmis:4922"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6a337187c4ca96e80760025765f12a02fd319b56b753328a9a09684d69c7f1c5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "02年8月28日府農保字第1020155527號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第5條規定,申請農業用地作農業設施容許使用,應填具申請書及檢"
+  }
+ ]
+}

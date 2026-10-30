@@ -1,0 +1,73 @@
+{
+ "id": "itp-ece9f4c385",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041803868號",
+ "date": "2015-03-11",
+ "date_text": "104/3/11",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府農業用地因辦理信託登記，其建蔽率有適用疑義陳情一案，復請查照。",
+ "content": "一、復貴府104年2月17日府建農字第1040010910號函。\n二、按信託法第1條規定：「稱信託者，謂委託人將財產權移轉或為其他處分，使受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係。」，及土地登記規則第128條第1項規定：「信託財產依第125條辦理信託登記後，於信託關係消滅時，應由信託法第65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」，準此，信託關係之成立或消滅，信託財產（農業用地）經由辦理權利變更登記，均已發生所有權移轉之法律效果。\n三、故有關農業用地信託登記，土地所有權已移轉予受託人，倘日後辦理塗銷信託登記，農業用地所有權人辦理登記回委託人，應認所有權已移轉，其土地取得時點之認定應依本會101年6月29日農水保字第1011865000號令（附件一）及102年10月25日農水保字第1021866046號令（附件二）規定辦理，若經認定為89年1月28日後取得之農業用地者，依農業用地興建農舍辦法第2條規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2903",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:08+08:00",
+   "source_key": "rmis:2903"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "2543a61647506ac8eaa1328319dadb653568f7efec5f41831111746fe6a68b54",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": ")規定辦理,若經認定為89年1月28日後取得之農業用地者,依農業用地興建農舍辦法第2條規定辦理。"
+  }
+ ]
+}

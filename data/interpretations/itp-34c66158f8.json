@@ -1,0 +1,55 @@
+{
+ "id": "itp-34c66158f8",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第1040073124號",
+ "date": "2015-11-17",
+ "date_text": "104/11/17",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關農業區申請個別農舍興建，於申請建造執照採以「共同壁」設計檢討疑義1案，請查照。",
+ "content": "一、依據行政院農業委員會水土保持局104年11月6日水保農字第1041888250號函辦理，並復貴府104年8月3日府建管字第1040059523號函。\n二、本案前經本署104年8月12日營署建管字第1040052636號函復在案。案據行政院農業委員會水土保持局前揭函說明：「旨案無涉農業發展條例立法說明意旨，爰本局103年10月28日水保農字第1031825068號函與104年9月18日水保農字第1041814782號函之意旨並無相違，......現行雖鼓勵農舍集中興建，達到保護農業生產環境與確保生活品質之目的，惟考量農舍若以共同壁方式興建，後續倘其中一棟建物變更使用、停止使用或拆除其地上物等情形，其留下之共同壁易造成後續執行及管理等疑義或損及鄰地所有權人之權益。爰個別農舍之興建，建議比照集村農舍，採分幢分棟方式興建。......」因涉農業發展條例立法意旨，如有疑義，請逕向該局洽詢。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4193",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:47+08:00",
+   "source_key": "rmis:4193"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4b7cdde775d36d11709636af7985a15ef6060e9e51154dc9ef109d184d7353dc",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "復在案。案據行政院農業委員會水土保持局前揭函說明:「旨案無涉農業發展條例立法說明意旨,爰本局103年10月28日水保農字第1031825068號函與10"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "itp-d3d11607f4",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020213519號",
+ "date": "2013-05-07",
+ "date_text": "102/5/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "已取得農業用地作農業設施容許使用同意書之45平方公尺以下農業設施，倘因土地所有權移轉，致地籍資料異動，其原同意書是否仍具有效力之疑義案。",
+ "content": "主旨：有關　貴府函詢已取得農業用地作農業設施容許使用同意書之45平方公尺以下農業設施，倘因土地所有權移轉，致地籍資料異動，其原同意書是否仍具有效力之疑義案，復請　查照。\n說明：\n一、復　貴府102年4月29日屏府農企字第10212389100號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第26條規定：「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，並不得作為住宅、工廠或其他非農業使用。」有關本案倘經　貴府審認該農業設施仍依原核定之計畫內容使用，而無涉未依計畫內容使用之廢止許可情事者，則該已依法取得容許使用且適法存在之農業設施，縱因土地所有權移轉，致原同意書所載土地地籍資料有地號、所有權人或面積異動之情形，其原核發之農業用地作農業設施容許使用同意書應仍具有效力。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4916",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:20+08:00",
+   "source_key": "rmis:4916"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "26",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "2de4e10105c3e99ba3415caf81807160a6d790b353dd628919a4d5214773ba8e",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "26",
+   "kind": "extracted",
+   "snippet": "4月29日屏府農企字第10212389100號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第26條規定:「依本辦法取得農業用地作農業設施容許使用者,應依原核定之計畫內容使用,並不"
+  }
+ ]
+}

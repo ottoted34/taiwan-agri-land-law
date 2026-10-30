@@ -1,0 +1,54 @@
+{
+ "id": "itp-3163e1f3ea",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050201161號",
+ "date": "2016-03-31",
+ "date_text": "105/3/31",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局函為興建自用農舍申請人資格條件審查疑義案，復請查照。",
+ "content": "一、復貴局105年1月8日中市農地字第1050000996號函、1050001029號函及105年2月5日中市農地字第1050004975號。\n二、依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定：「...，且該農業用地應確供農業使用及屬未經申請興建農舍者；該農舍之興建並不得影響農業生產環境及農村發展。」，其係規範申請興建農舍之該筆農業用地，爰申請人所提出之經營計畫書內容，須就申請興建農舍之該筆農業用地提出過去2年從事農業經營實績。\n三、另申請人若依本辦法第3條之1規定，檢附農業生產相關佐證資料以茲證明為農民者，其所提出之佐證資料如繳售公糧登記、領取農業天然災害救助或領取調整耕作制度活化農地計畫轉(契)作補貼等，均須與農舍申請人一致。\n四、至於申請人檢附銷售自產農產品證明文件如何查證一節，建議貴局得配合現地查證及抽檢所提文件是否屬實，並得組成審查小組進行審查。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4015",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:22+08:00",
+   "source_key": "rmis:4015"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "406a1601587609988b234c2233b3d0e1f55650f2d6c6504bd947a9ba7045bd47",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "105年2月5日中市農地字第1050004975號。\n二、依農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第5款規定:「...,且該農業用地應確供農業使用及"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-75ff8db3d6",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090202959號",
+ "date": "2020-03-03",
+ "date_text": "109/3/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關未經申請興建農舍資格先行施作案",
+ "content": "一、依據貴府農業局109年1月20日南市農工字第1081487042號函辦理。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，故申請興建農舍依農業用地興建農舍辦法(以下簡稱本辦法)規定，應由直轄市、縣(市)政府核定農舍興建資格後，\n由建築主管機關核發建造執照，始得興建，先予敘明。\n\n三、又查本辦法第5條第1項規定略以：「申請興建農舍之農業用地，有下列情形之一者，不得依本辦法申請興建農舍：．．．四、其他違反土地使用管制規定者。．．．」，爰申請興建農舍之該筆農業用地，須於符合區域計畫法或都市計畫法等相關土地使用管制規定之前提下，始得依本辦法取得興建農舍資格。\n\n四、至農業用地上存在未經申請興建之建築物，依建築法規定認屬為違章建築，當依該法及其法令處理；又本會106年2月8日農水保字第1051803352號函釋針對是類建築物亦有處理原則在案(諒達)，故請貴府依前開號函及本辦法規定予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4698",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:07+08:00",
+   "source_key": "rmis:4698"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5a775d7ebb68595a444bb80fb97dbfa1c88c47e6071fb9492bcb15fe3c18a964",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "極農用之事實,並非擁有農業用地即可興建農舍,故申請興建農舍依農業用地興建農舍辦法(以下簡稱本辦法)規定,應由直轄市、縣(市)政府核定農舍興建資格後,\n由建築主管"
+  }
+ ]
+}

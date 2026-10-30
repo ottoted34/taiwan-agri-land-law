@@ -1,0 +1,89 @@
+{
+ "id": "itp-34dff274dd",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960163654號",
+ "date": "2007-11-19",
+ "date_text": "96/11/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業用地容許作農業設施使用審查辦法第11條，農作產銷設施許可使用細目第17款「蓄水池」之興建面積、高度及條件疑義。",
+ "content": "主旨：有關　貴府函詢農業用地容許作農業設施使用審查辦法第11條，農作產銷設施許可使用細目第17款「蓄水池」之興建面積、高度及條件之疑義案，復請　查照。\n說明：\n一、復　貴府96年11月6日府農務字第○○○○○號函。\n二、依農業用地容許作農業設施使用審查辦法第11條，農作產銷設施許可使用細目第17款「蓄水池」之興建面積與高度及條件，係規定向下開挖者每處最高容量為100噸，且須以建築材質建造；但屬地面建造者，依生產需要核定，其容量及材質不限．．．。按蓄水池向下開挖者，係以容量100噸作為申請容量之上限，查1立方公尺的水為1噸，簡言之，應以蓄水池長(公尺) *寬(公尺)*高(公尺)換算其容量，由 貴府視農業使用之內涵、當地農業經營發展、設施與農業生產經營之必要性及合理性，依個案實務及事實予以審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5281",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:44+08:00",
+   "source_key": "rmis:5281"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "e0b4f0ad533a29d34201f41a04b0e93e9893bac6454eeee05b94f1316a774344",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "釋農業用地容許作農業設施使用審查辦法第11條,農作產銷設施許可使用細目第17款「蓄水池」之興建面積、高度及條件疑義。\n主旨:"
+  }
+ ]
+}

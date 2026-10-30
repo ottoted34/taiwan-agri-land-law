@@ -1,0 +1,62 @@
+{
+ "id": "itp-8e6210be00",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1041039879號",
+ "date": "2015-09-14",
+ "date_text": "104/9/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：有關製作中草藥膏原料之場所得否申請農業用地作農糧產品加工室容許使用案，復請查照。\n說明：\n一、復貴府104年8月5日屏府農企字第10424578300號函。\n二、有關製作中草藥膏原料之場所，得否申請農糧產品加工室容許使用一節，查本案係利用酒精或化學藥劑萃取農作物中相關成分，供製膏藥原料，已屬工業生產，非屬農糧產品加工製造之一環。\n三、另貴府所詢申請人表明補正事項係為「機密」、「無法詳細提供」等情況，審查單位得否逕依申請農業用地作農業設施容許使用審查辦法第6條第1款「申請有應補正事項，經通知申請人限期補正，屆期仍不補正，不予同意。」規定辦理一節，倘本案經貴府通知申請人限期補正，屆期仍不補正，致使貴府無法審認其合理性及必要性，自得依上開規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5474",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:47+08:00",
+   "source_key": "rmis:5474"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "6",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c2621d59190f7156c0d12dbefb0cc19f99f8f0f05c4190dfff6697d2ad9dfaa8",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "正事項係為「機密」、「無法詳細提供」等情況,審查單位得否逕依申請農業用地作農業設施容許使用審查辦法第6條第1款「申請有應補正事項,經通知申請人限期補正,屆期仍不補正,不予同意。」規定辦"
+  }
+ ]
+}

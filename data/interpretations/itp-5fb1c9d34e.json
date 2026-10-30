@@ -1,0 +1,55 @@
+{
+ "id": "itp-5fb1c9d34e",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020230160號",
+ "date": "2013-09-14",
+ "date_text": "102/9/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地作農業使用認定及核發證明辦法第6條第3款疑義案。",
+ "content": "主旨：有關貴局函詢農業用地作農業使用認定及核發證明辦法第6條第3款疑義案，復請查照。\n說明：\n一、復貴局102年9月4日桃農管字第1020018944號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第3款規定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：．．．三、農業用地存在私人無償提供政府施設供公眾使用之道路．．．」按其適用之要件須符合「部分面積且不影響供農業使用」、「私人無償提供予政府施設」且為「供公眾使用」之道路，尚無涉及該道路之屬性，爰來文所稱公路法定義之公路，倘符合上開要件者，自有該條款規定之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5050",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:36+08:00",
+   "source_key": "rmis:5050"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2938ee08ce41f1bccfd1161f633890511ebef4a8c5b14ba57a857991cba46055",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "農業用地作農業使用認定及核發證明辦法第6條第3款疑義案。\n主旨:有關貴局函詢農業用地作農業使用認定及核發證明辦法第6條第3"
+  }
+ ]
+}

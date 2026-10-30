@@ -1,0 +1,97 @@
+{
+ "id": "itp-e87e88b915",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0971843083號",
+ "date": "2008-02-04",
+ "date_text": "97/2/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "土地所有權人於89年農業發展條例修正施行後取得所有之2筆土地因辦理土地重劃後分屬不同區廓，得否合併計算面積申請興建農舍案，復請查照。",
+ "content": "一、復 貴府96年12月31日府農務字第0960170767號函。\n二、查農業用地興建農舍辦法第3條第1項第3項業已明定申請興建農舍之該宗農業用地面積不得小於0.25公頃，本案土地所有權人90年間取得所有之2筆土地，嗣後因辦理土地重劃後為農水路貫穿，造成分屬不同區廓之2筆農業用地，未能合併為一宗農業用地，且單獨一宗農業用地無法達0.25公頃以上，依上開辦法規定自不得申請興建農舍；惟申請人如有興建農舍之需要，建議可參考上開辦法第8條等相關規定，參加以集村方式興建農舍。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=362",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:27+08:00",
+   "source_key": "rmis:362"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "624fc26c039eb1a6c26cfcefdd09f9aa5ad5715eae5e0c8a7610d18e50ae8d22",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "土地所有權人於89年農業發展條例修正施行後取得所有之2筆土地因辦理土地重劃後分屬不同區廓,得否合併計算面積申請興"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "6年12月31日府農務字第0960170767號函。\n二、查農業用地興建農舍辦法第3條第1項第3項業已明定申請興建農舍之該宗農業用地面積不得小於0.25公頃,本案土地"
+  }
+ ]
+}

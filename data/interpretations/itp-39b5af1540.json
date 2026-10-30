@@ -1,0 +1,55 @@
+{
+ "id": "itp-39b5af1540",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020231682號",
+ "date": "2013-10-14",
+ "date_text": "102/10/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "大雅區○○○地號土地經核具農舍使用執照，惟現場卻無農舍建物，得否核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關貴局函詢貴轄大雅區○○○地號土地經核具農舍使用執照，惟現場卻無農舍建物，得否核發農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴局102年9月13日中市農地字第1020029355號函。\n二、查農業用地作農業使用認定及核發證明辦法第4條第3款規定，農業用地上興建有農舍，並檢附農舍之建築執照，得認定為作農業使用。爰農業用地上既無農舍，該款前段規定即未成立，則無審查建築執照之必要，得否核發旨揭證明書，仍請依上開辦法就其現況是否符合農業使用認定基準予以審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5051",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:08+08:00",
+   "source_key": "rmis:5051"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ceb4d3e72f06c8cdf580b4f6e7db93b8413b0b824664c90c950e3eb0fe7cc324",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "2年9月13日中市農地字第1020029355號函。\n二、查農業用地作農業使用認定及核發證明辦法第4條第3款規定,農業用地上興建有農舍,並檢附農舍之建築執照,得認定為作農業使用。爰農"
+  }
+ ]
+}

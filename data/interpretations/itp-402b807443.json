@@ -1,0 +1,73 @@
+{
+ "id": "itp-402b807443",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010102350號",
+ "date": "2012-03-21",
+ "date_text": "101/3/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "062 釋示農業用地上存在有墳墓設施，申請核發農業用地作農業使用證明審查疑義案",
+ "content": "主旨：有關 貴府函請釋示農業用地上存在有墳墓設施，申請核發農業用地作農業使用證明審查疑義案，復請 查照。\n說明：\n一、復 貴府101年3月12日府農企字第1010026824號函。\n二、查農業用地必須符合農業使用認定基準，始得核發農業用地作農業使用證明書。依據農業用地作農業使用認定及核發證明辦法第8條第1款規定，係考量土地使用編定前，公墓用地編定不足，國人有於自有農業用地一隅埋葬先人之習俗，故如能檢具證明文件，且不影響其餘農業用地作農業使用之情況者，仍得認定該農業用地作農業使用，合先敘明。\n三、本案依來函所述墓碑上記載為民國68年立，惟外觀似非屬68年所設立等語，則可請申請人舉證該墳墓是否為新竹縣非都市土地編定日期即73年10月15日前已存在者，倘有涉及修繕情形，並須依本會94年3月23日農企字第0940113021號函(諒達)援引內政部相關函釋，即針對原有墳墓倘係原地修繕原地得為從來之使用，並請依殯葬管理條例第71條規定審理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5108",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:53+08:00",
+   "source_key": "rmis:5108"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "8",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "7f6cee4ebd2bf4e8960761168b612016c1dee97be3b5ceb29b5d277e559aaf5d",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "符合農業使用認定基準,始得核發農業用地作農業使用證明書。依據農業用地作農業使用認定及核發證明辦法第8條第1款規定,係考量土地使用編定前,公墓用地編定不足,國人有於自有農業用地一隅埋葬"
+  }
+ ]
+}

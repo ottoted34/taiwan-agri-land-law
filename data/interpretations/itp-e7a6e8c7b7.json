@@ -1,0 +1,55 @@
+{
+ "id": "itp-e7a6e8c7b7",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040251013號",
+ "date": "2016-01-08",
+ "date_text": "105/1/8",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴市新店區○○○地號農舍屋頂申請設置興建太陽光電發電系統，是否符合農業用地興建農舍辦法相關規定案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴局104年12月24日新北農牧字第1042450636號函。\n二、按農舍於行政院農業委員會業管權責部分，在於興建資格及興建完成後農業經營用地有無作農業使用，以確保農舍係為農業經營所需而興建，並保持應有之農業使用面積。爰農舍用地面積既已得為申請興建農舍及其附屬設施，在不改變原有農舍主要使用目的及不影響90%農業生產環境之前提下，有關於農舍屋頂申請免請領雜項執照之太陽光電發電設備，本局無意見。\n三、惟依非都市土地容許使用執行要點規定，農舍及農舍附屬設施之目的事業主管機關係內政部營建署與直轄市、縣(市)政府工務局(建設局)，爰本案是否符合農舍用途使用，請逕洽前開機關辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3929",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:01+08:00",
+   "source_key": "rmis:3929"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9f79a54e49998b763146a56de3548e5ebfcaa185966514a849d18124bd824eef",
+ "topics": [
+  "farmhouse",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "店區○○○地號農舍屋頂申請設置興建太陽光電發電系統,是否符合農業用地興建農舍辦法相關規定案,復請查照。\n一、復行政院農業委員會交下貴局104年12月24日新北農"
+  }
+ ]
+}

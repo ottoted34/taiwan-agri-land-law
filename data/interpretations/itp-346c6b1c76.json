@@ -1,0 +1,70 @@
+{
+ "id": "itp-346c6b1c76",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010120566號",
+ "date": "2012-08-28",
+ "date_text": "101/8/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「農業主管機關同意農業用地變更使用審查作業要點」執行疑義一案。",
+ "content": "主旨：有關　貴局函詢「農業主管機關同意農業用地變更使用審查作業要點」執行疑義一案，復如說明，請　查照。\n說明：\n一、復　貴局101年8月6日中市農地字第10100201198號函。\n二、查非都市土地使用管制規則第6條附表1規定，「戶外廣告物設施」架設，係屬農牧用地之容許使用項目及許可使用細目，爰本案仍得於特定農業區農牧用地申請容許設立戶外廣告物設施使用，其審查程序應依「非都市土地容許使用執行要點」第7點規定，各級目的事業主管機關受理申請許可使用案件，應徵得直轄市或縣(市)各使用地主管機關(單位)同意。惟考量該設施非屬農業設施，依農業發展條例第10條農業用地於劃定或變更為非農業使用時，不得影響農業生產環境之完整規定，為利　貴局審查，爰得參酌「農業主管機關同意農業用地變更使用審查作業要點」之相關審查標準，請申請人於申請書件中具體說明不影響農業生產環境之配套作法，俾據以審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5583",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:03+08:00",
+   "source_key": "rmis:5583"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "3b9f72bd2fe4ce4ca7b9d222c4dd12278cbe78b819d3a9fb994e9165b4d23222",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "「農業主管機關同意農業用地變更使用審查作業要點」執行疑義一案。\n主旨:有關 貴局函詢「農業主管機關同意農業用地變更使用審查作業要"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": ")各使用地主管機關(單位)同意。惟考量該設施非屬農業設施,依農業發展條例第10條農業用地於劃定或變更為非農業使用時,不得影響農業生產環境之完整規定,為利 貴局審"
+  }
+ ]
+}

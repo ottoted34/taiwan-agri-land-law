@@ -1,0 +1,66 @@
+{
+ "id": "itp-7910f24c7e",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第1041354192號",
+ "date": "2015-08-05",
+ "date_text": "104/8/5",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "有關農業發展條例修正施行前同一使用執照、同一起造人之多棟農舍，執行法院應如何執行拍賣疑義1案，復請查照。",
+ "content": "一、復貴府104年7月15日府地籍字第1040234126號函。\n二、查「農舍與其坐落用地併同辦理移轉時，承受人資格應符合無自用農舍條件」、「『農舍』係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其農事工作，與一般家居為主之住宅性質不同，享有免繳地價稅等之賦稅優惠，且為農地管理需要及符合上述規定，土地所有權人僅得申請一棟農舍，法院拍賣興建中農舍或興建完成之農舍，其投標人資格亦應符合無自用農舍條件，本會96年2月13日農水保字第0961848111號已通函各法院有案，其意旨相當明確，故同一人因拍賣而同時取得二棟以上之農舍，與本會農地管理政策並不相符。」前經行政院農業委員會96年3月14日農授水保字第0961848173號函、96年9月4日農授水保字第0961848953號函釋有案。本案因貴府民國71年間所發使用執照同時有5棟農舍，滋生臺灣彰化地方法院民事執行處所詢相關問題，該使用執照之核發是否符合相關建管規定？請先依本部營建署104年7月30日營署建管字第1040048165號書函(詳附件)意見，釐清核發該使用執照之個案事實或法令依據後依法妥處。又倘該使用執照之核發無違反建管相關規定，基於地政機關係配合行政院農業委員會相關規定辦理農舍移轉登記事宜，相關法院倘針對該會之規定有執行上困難，因涉及農地管理政策，宜請其逕向該會洽詢，以資便捷。\n三、副本抄送行政院農業委員會，並檢附相關資料1份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3358",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:16+08:00",
+   "source_key": "rmis:3358"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "13ee6fa805d9fcce1dbd1cfd21e5826ea7b8a8844ef4b63903ce0042d7685c61",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例修正施行前同一使用執照、同一起造人之多棟農舍,執行法院應如何執行拍賣疑義1案,復"
+  }
+ ]
+}

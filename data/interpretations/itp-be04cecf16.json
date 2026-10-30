@@ -1,0 +1,61 @@
+{
+ "id": "itp-be04cecf16",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1142630377號",
+ "date": "2025-07-24",
+ "date_text": "114/7/24",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢特定農業區水利用地變更編定，需否依「農業主管機關同意農業用地變更使用審查作業要點」相關規定辦理案，復請查照。",
+ "content": "一、查「農業發展條例」（下稱本條例）第3條第10款明定「農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地：…（二）供與農業經營不可分離之農舍、…灌溉、排水及其他農用之土地」，上開「灌溉、排水」係屬與農業經營不可分離之設施，其於非都市土地均編定為水利用地，故依區域計畫法劃定為各種使用分區內編定之水利用地，必須作農田水利之灌溉或排水設施使用，始符合農業使用認定基準。是以，水利用地如非作為農業生產灌溉排水用途者，非屬農業用地之範疇。\n二、本案申請變更之特定農業區水利用地，倘經貴府審認非屬農業生產灌溉排水用途，即非屬前開本條例第3條第10款所定農業用地之範疇，其變更使用，自無涉須依「農業主管機關同意農業用地變更使用審查作業要點」規定徵詢農業主管機關同意之情形，亦無該要點第6點規定之適用。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6042",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:10+08:00",
+   "source_key": "rmis:6042"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e4dd497f06d5433d1c4a872a51b9e6458467a0429d58effb612ea3cce8965f79",
+ "topics": [
+  "farm_use_cert",
+  "land_change",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函詢特定農業區水利用地變更編定,需否依「農業主管機關同意農業用地變更使用審查作業要點」相關規定辦理案,復請查照。\n一、查「農業發展條例」(下稱本條例)第3條第10款明"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用地變更使用審查作業要點」相關規定辦理案,復請查照。\n一、查「農業發展條例」(下稱本條例)第3條第10款明定「農業用地:指非都市土地或都市土地農業區、保護區"
+  }
+ ]
+}

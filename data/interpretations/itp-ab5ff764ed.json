@@ -1,0 +1,67 @@
+{
+ "id": "itp-ab5ff764ed",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960139826號",
+ "date": "2007-07-24",
+ "date_text": "96/7/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋有關 貴府函詢農業用地經假扣押，土地所有權人得否申請興建農業設施之疑義案。",
+ "content": "主旨：有關 貴府函詢農業用地經假扣押，土地所有權人得否申請興建農業設施之疑義案，復請 查照。\n說明：\n一、復 貴府96年7月16日府農務字第○○○○○號函。\n二、依民事訴訟法第522條第1項及第528條第4項規定「債權人就金錢請求或得易為金錢請求之請求，欲保全強制執行者，得聲請假扣押。」「准許假扣押之裁定，如經抗告者，在駁回假扣押聲請裁定確定前，已實施之假扣押執行程序，不受影響。」另依強制執行法第4條第1項第2款規定，假扣押之裁判係強制執行名義之一種，合先敘明。\n三、按假扣押程序係為債權人保全強制執行而設，屬保全程序，其性質原與強制執行程序有間，惟因前開強制執行法第4條第1項第2款明定假扣押之裁判係強制執行名義，故而假扣押在未經撤銷前，其債權人即取得強制執行名義而得實施假扣押之執行程序，即該假扣押執行之結果將與實施查封之結果無異。又查本會前已針對查封後土地得否申請興建農業設施於95年4月11日農企字第0950118136號函釋有案，本案假扣押之土地，土地所有權人得否申請興建農業設施，應可參照本會前揭號函說明意旨辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5286",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:21+08:00",
+   "source_key": "rmis:5286"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c297b1428c00691180ab1282c95ef382aafa897c5a82e2cc6e536911af0847bd",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

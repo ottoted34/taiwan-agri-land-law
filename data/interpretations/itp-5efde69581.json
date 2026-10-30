@@ -1,0 +1,75 @@
+{
+ "id": "itp-5efde69581",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960138013號",
+ "date": "2007-07-13",
+ "date_text": "96/7/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "054 釋農業用地作農業使用認定及核發證明辦法第6條第1款中「超過核准使用面積」規定，是否可不含垂直違章部分疑義案",
+ "content": "查實施區域計畫地區建築管理辦法及都市計畫法省（市）施行細則有關農舍興建面積之規範，均包括建築基地面積、樓層高度及總樓地板面積。又農業用地作農業使用認定及核發證明辦法第6條明定：「農業設施或農舍有下列各款情形之一者，不得認定為作農業使用： 一、農業設施或農舍之興建面積，超過核准使用面積或未依核定用途使用者...」所稱「超過核准使用面積」應包括核准農舍興建要件之建築基地面積、樓層高度及總樓地板面積，故農舍違規加蓋樓層，倘在前開規範要件範圍之內，宜請補申請建築執照，使之合法化；惟倘其業已超過原核准使用之樓層高度及總樓地板面積，屬實質違規之行為，應不符合作農業使用之認定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4934",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:27+08:00",
+   "source_key": "rmis:4934"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "6",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ea066fa758a17cf84950606ed4c60ac1c998f85894160e884e6f0e2377648ab2",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "054 釋農業用地作農業使用認定及核發證明辦法第6條第1款中「超過核准使用面積」規定,是否可不含垂直違章部分疑義案\n查實施區域計畫地"
+  }
+ ]
+}

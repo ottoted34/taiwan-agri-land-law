@@ -1,0 +1,61 @@
+{
+ "id": "itp-bda3ef37d9",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080219907號",
+ "date": "2019-05-29",
+ "date_text": "108/5/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關離島地區興建農舍取得登記原因疑義案，復如說明，請查照。",
+ "content": "一、依據內政部108年5月13日內授營綜字第1080116847號函辦理。\n二、依內政部上開號函(諒達)略以：「查農業用地興建農舍辦法第9條第2項第3款規定略以：『申請興建農舍之農業用地，其農舍用地面積不得超過該農業用地面積10%．．．。但於離島地區，以下列原因，於本條例中華民國89年1月28日修正生效後，取得被繼承人或贈與人於上開日期前所有之農業用地，申請興建農舍者，不在此限：(一)繼承。(二)為民法第1138條所定遺產繼承人於繼承開始前因被繼承人之贈與。』已明定離島地區不受農舍用地面積10%限制之資格條件(即取得原因及時點)．．．三、至本案原取得農業用地之時點，以及貴會首揭函說明四所提陳情人於93年受贈取得部分土地所有權，再於108年辦理共有物分割登記等過程，涉農業發展條例第18條所稱取得農業用地之時點認定基準．．．」，先予敘明。\n三、針對前開土地取得時點認定部分，本會前以104年6月26日水保農字第1041881352號函、108年4月25日農企字第1080709324號函復貴府在案，爰本案農舍申請資格，是否符合上開原則，請貴府再予衡酌。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4598",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:50+08:00",
+   "source_key": "rmis:4598"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "46254c857dc08b3636338d72ae3630aad6d9efa78b68c48795eea3db1e4dc833",
+ "topics": [
+  "partial_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "16847號函辦理。\n二、依內政部上開號函(諒達)略以:「查農業用地興建農舍辦法第9條第2項第3款規定略以:『申請興建農舍之農業用地,其農舍用地面積不得超過該農業用地"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "取得部分土地所有權,再於108年辦理共有物分割登記等過程,涉農業發展條例第18條所稱取得農業用地之時點認定基準...」,先予敘明。\n三、針對前開土地取得時點認定"
+  }
+ ]
+}

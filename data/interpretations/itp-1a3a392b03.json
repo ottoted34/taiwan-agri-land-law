@@ -1,0 +1,54 @@
+{
+ "id": "itp-1a3a392b03",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040246341號",
+ "date": "2015-12-08",
+ "date_text": "104/12/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴部102年12月16日台內營字第1020812243號、104年4月28日內授營建管字第1040413984號、104年7月13日內授營建管字第1040810932號函釋個別農舍用地面積計算之法令適用日期疑義案，復請查照。",
+ "content": "一、復貴部104年11月24日內授營建管字第1040817425號函。\n二、本案貴部認為旨揭函釋係闡明農業用地興建農舍辦法102年7月1日修正公布之原意，性質係屬「一般性函示」，適用司法院大法官釋字第287號解釋，應自本辦法102年7月3日生效之日起有其適用一節，本會敬表尊重。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3928",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:23+08:00",
+   "source_key": "rmis:3928"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ee4b2e46f01ea26e301cbd06e23f03187e76a485be1cc88235079daf399fb5d1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第1040817425號函。\n二、本案貴部認為旨揭函釋係闡明農業用地興建農舍辦法102年7月1日修正公布之原意,性質係屬「一般性函示」,適用司法院大法官釋字第2"
+  }
+ ]
+}

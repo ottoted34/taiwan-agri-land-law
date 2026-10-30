@@ -1,0 +1,54 @@
+{
+ "id": "itp-5bafde6f51",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040724764號",
+ "date": "2015-09-21",
+ "date_text": "104/9/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農舍放流水審認疑義案，復請查照。",
+ "content": "一、復貴府104年7月30日府農務字第1040145770號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第5款規定:「農舍之放流水應符合放流水標準，並排入排水溝渠。放流水流經屬灌排系統或私有水體者，並應符合下列規定:...(二)排入私有水體者，應經所有人同意。」，明定農舍之放流水應排入排水溝渠，係為確保農舍放流水無擅自排放之情形，並避免農舍放流水影響農業生產環境，有違「安全農業」之政策目標。\n三、前述有關放流水「排入私有水體者，應經所有人之同意」之部分，倘私有水體行經多處私有農地之溝渠且後端排入灌排系統，申請人自應取得所有農地所有權人及後端灌排系統管理機關(構)之同意排放許可文件。\n四、至「倘灌排系統無法釐清其管理機關」一節未明，請貴府敘明所詢事項及分析事由再議。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3350",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:34+08:00",
+   "source_key": "rmis:3350"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4f6a66c89ec758129bb54908d7a4ab679ec55c17ede3156a39e8a6805de0de8e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "04年7月30日府農務字第1040145770號函。\n二、查農業用地興建農舍辦法(以下簡稱本辦法)第9條第2項第5款規定:「農舍之放流水應符合放流水標準,並排入"
+  }
+ ]
+}

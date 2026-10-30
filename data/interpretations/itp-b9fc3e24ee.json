@@ -1,0 +1,71 @@
+{
+ "id": "itp-b9fc3e24ee",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030040700號",
+ "date": "2014-07-07",
+ "date_text": "103/7/7",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢申請興建農舍為拆除併同興建，是否符合興建農舍資格相關規定1案，復如說明，請 查照。",
+ "content": "一、復貴府103年6月19日府農務字第1030097298號函。\n二、有關無自用農舍之規定，查農業發展條例第18條及農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第4款已有相關規定，是本案是否符合無自用農舍之意旨，宜由前揭條例主管機關行政院農業委員會核處。\n三、有關本辦法第6條規定，係為避免部分申請人申請興建農舍後隨即移轉他人，再次申請農舍，與農業發展條例第18條農業用地上興建農舍應供自用之立法意旨有違，為杜絕不合理現象，於102年7月1日修正本辦法增訂本條規定。\n四、依首揭貴府函稱「拆除執照得併同建造執照申請，此類案件興建農舍資格之審查，其農業用地現況確有農舍存在，且領有使照在案」，查有關拆除執照得併同建造執照申請，係為簡化建管行政作業程序，尚無本辦法第6條第1款「建造執照已撤銷或失效」之情形，惟同條第2款規定「所興建農舍...或自行拆除、或滅失」，本案申請人採拆除執照併同建造執照申請，得否認其興建資格符合本辦法第6條第2款之情形，請本於權責就採此方式得否確保說明三所述規定意旨並參酌行政院農業委員會水土保持局意見決定之。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3797",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:25+08:00",
+   "source_key": "rmis:3797"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e5532decada82f6c5a5c1eb29ce2d03af0b24fd9adcd0d15aaff1c723f2e9663",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "字第1030097298號函。\n二、有關無自用農舍之規定,查農業發展條例第18條及農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第4款已有相關規定,是本案是"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "8號函。\n二、有關無自用農舍之規定,查農業發展條例第18條及農業用地興建農舍辦法(以下簡稱本辦法)第2條第1項第4款已有相關規定,是本案是否符合無自用農舍之意旨"
+  }
+ ]
+}

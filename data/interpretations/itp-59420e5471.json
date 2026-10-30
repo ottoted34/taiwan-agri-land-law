@@ -1,0 +1,48 @@
+{
+ "id": "itp-59420e5471",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1041866650號",
+ "date": "2015-12-03",
+ "date_text": "104/12/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農會辦法第3條之1規定，農舍申請人檢附「領取調整耕作制度活化農地計畫轉(契)作補貼之證明文件」之執行方式，請査照。",
+ "content": "一、依據本會104年10月21日農水保字第1041866479號函辦理。\n二、查「調整耕作制度活化農地計畫」之全國糧政跨區即時申辦服務作業平台，已開放相關權限予直轄市、縣(市)政府轉(契）作、休耕承辦人，並可於共同申報處理系統項下查詢申報及核定情形，先予敘明。\n三、爰農舍申請人以「領取調整耕作制度活化農地計畫轉(契)作補貼之證明文件」申辦者，得檢附轉作申報書第三聯單影本，由各直轄市、縣(市)政府據以查詢申報資料。\n四、惟因調整耕作制度活化農地計畫系統屬整合平台，為避免系統資料庫運作廷宕，可查詢期別為當期作往前起算2年內之資料。另依本會上開號函，領取調整耕作制度活化農地計畫轉(契)作補貼之證明作為農業生產佐證資料者，僅指領取轉契作補貼者，尚不包括領取休耕給付者。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4068",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:34+08:00",
+   "source_key": "rmis:4068"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5241764deaa2ef7b49c14d3cd8deb7b04c0c0b48bb267030154711e3ac9e4bbc",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "itp-31d43268e3",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030203714號",
+ "date": "2014-02-24",
+ "date_text": "103/2/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關已興建農舍之農業用地經法院判決分割確定辦理分割，得否不受農業用地興建農舍辦法第12條第2項規定限制一案，復請查照。",
+ "content": "一、復貴部103年2月5日內授營建管字第10300740811號函。\n二、按農業用地興建農舍辦法第12條第2項意旨，係考量本辦法於102年7月1日修正前申請農舍建造執照後，有關法令未明文禁止分割，以致於常有農民於農舍施工中或領得使用執照後逕向地政單位申請分割為數筆地號，致與原申請興建農舍之地號、條件不同，甚至造成農舍與其坐落農地面積、比例不符法令規定等情形，是以增列已申請興建農舍之農業用地，未經申請解除套繪不得辦理分割之規定。爰旨案仍應符合本辦法第12條第2項規定，以利直轄市、縣(市)政府落實已興建農舍農業用地之管理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3780",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:08+08:00",
+   "source_key": "rmis:3780"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "12",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "098a9c17cd18d771ae704d168f9b811a671ebf43e6b829127926f3ad53b6f378",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "有關已興建農舍之農業用地經法院判決分割確定辦理分割,得否不受農業用地興建農舍辦法第12條第2項規定限制一案,復請查照。\n一、復貴部103年2月5日內授營建管字第1030"
+  }
+ ]
+}

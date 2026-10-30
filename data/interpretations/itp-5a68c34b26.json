@@ -1,0 +1,73 @@
+{
+ "id": "itp-5a68c34b26",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031828128號",
+ "date": "2014-12-02",
+ "date_text": "103/12/2",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為農舍移轉後申請增建，其申請人資格審查疑義案，復請查照。",
+ "content": "一、復貴局103年11月21日中市農地字第1030037513號函。\n二、依102年7月1日修正之「農業用地興建農舍辦法」第9條第1項第6款規定略以：「同一筆農業用地僅能申請興建一棟農舍，採分期興建方式辦理者，申請人除原申請人外，均須符合第2條第1項資格，...。」，爰農舍辦理分期興建者，除原申請人外，均須依前開辦法規定，重新審查其農民資格條件。\n三、有關申請興建農舍之農民格審查，行政院農業委員會業於102年9月30日農授水保字第1021866061號函送資格條件審查表有案。至貴府所提申請人因移轉而持有農舍，擬採分期興建方式辦理增建，其涉及「申請人無自用農舍者」及「屬未經申請興建農舍農業用地」審認乙節，本案如經貴局查明確屬在現有農舍申請分期興建，其農民資格條件得依上開資格條件審查表上採加註方式後予以辦理審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3591",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:06+08:00",
+   "source_key": "rmis:3591"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "224588a7e8846fd704e2dbd4a459276611f7b349078375241d57af3da14ac013",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "字第1030037513號函。\n二、依102年7月1日修正之「農業用地興建農舍辦法」第9條第1項第6款規定略以:「同一筆農業用地僅能申請興建一棟農舍,採分期興建方式辦理者"
+  }
+ ]
+}

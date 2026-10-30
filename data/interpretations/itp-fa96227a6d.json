@@ -1,0 +1,58 @@
+{
+ "id": "itp-fa96227a6d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020232976號",
+ "date": "2013-11-28",
+ "date_text": "102/11/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上之農業設施可否作為農藥販售業主之營業場址，並於該農業設施販售農藥之疑義案。",
+ "content": "主旨：有關貴局函詢農業用地上之農業設施可否作為農藥販售業主之營業場址，並於該農業設施販售農藥之疑義案，復請查照。\n說明：\n一、復貴局102年9月24日南市農務字第1020852437號函。\n二、按商業登記法第5條規定，除家庭農、林、漁、牧業之小規模商業者，得免辦理商業登記者外，其他諸如依本會所定農訂場登記規則登記之農場、依合作社法成立之農業合作社（場）、依植物品種及種苗法成立之種苗業者、依農業發展條例承受耕地之農企業法人等等，為出售其農產品，涉及商業登記事宜者，仍應依商業登記法第4條之規定，辦理商業登記。即農業設施是否符合農業使用與商業登記尚非相關。查本會前於100年3月10日以農企字第1000111602號函(如附件)解釋在案，合先敘明。\n三、依「申請農業用地作農業設施容許使用審查辦法」規定，農業設施係與農業經營有關，並應依其經營計畫使用，故農業設施得否辦理相關商業登記，應依該農業設施之經營計畫內容與其商業登記之關聯性據以判斷。復依上開辦法第13條第1項所定各類農作產銷設施，其設施之用途未涵蓋農藥販售之使用內涵，爰作為農藥販售業主之營業場址並販售農藥，有所未宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5545",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:00+08:00",
+   "source_key": "rmis:5545"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ba0288ebabb26a42b478108b99cd004eeef1442f2a45a1f48776399e07910734",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "成立之農業合作社(場)、依植物品種及種苗法成立之種苗業者、依農業發展條例承受耕地之農企業法人等等,為出售其農產品,涉及商業登記事宜者,仍應依商業登記法第"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "000111602號函(如附件)解釋在案,合先敘明。\n三、依「申請農業用地作農業設施容許使用審查辦法」規定,農業設施係與農業經營有關,並應依其經營計畫使用,故農業設施得否辦理相關商業"
+  }
+ ]
+}

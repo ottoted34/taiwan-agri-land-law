@@ -1,0 +1,60 @@
+{
+ "id": "itp-9fe02d33e3",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1051005507號",
+ "date": "2016-03-25",
+ "date_text": "105/3/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴府函為民眾申請農業用地作農業設施容許使用，經會勘設施坐落土地含未經申請之農舍，所涉審查疑義案，復請查照。",
+ "content": "一、依據本會105年3月22日農企字第1050209838號函及本會水土保持局105年3月23日水保農字第1051803064號函辦理，併復貴府105年3月10日屏府農企字第10507860000號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」（以下簡稱容許辦法）第6條規定：「申請農業用地作農業設施容許使用，有下列情形之一者，不予同意：...九、違反其他土地使用管制相關法令規定。」爰申請農業設施容許使用之農業用地不得有違反土地使用管制規定情事。另針對農業用地上先行施作之農業設施，除符合非都市土地使用管制規則第8條所定「從來使用」情形並檢具證明文件，得免由申請人再予申請農業設施之容許使用外，餘均應依容許辦法之規定申請核准使用。\n三、又「農舍」係依「農業用地興建農舍辦法」規定合法申請興建之建築物，未經合法申請之農舍係為違規建物，尚非屬農舍。爰本案農業用地經現勘有所稱未經申請先行施設之建物，倘屬未能適法申請者，依上開容許辦法同條文規定，所擬申請之農業設施容許使用，不予同意。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4224",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:25+08:00",
+   "source_key": "rmis:4224"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9ca157796999c77b0ff86ca59e5c47a4bfff2fb4601156f55d7d5fc1b6a7dc2b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年3月10日屏府農企字第10507860000號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第6條規定:「申請農業用地作農業設施容許使用,有下列情形之一"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "外,餘均應依容許辦法之規定申請核准使用。\n三、又「農舍」係依「農業用地興建農舍辦法」規定合法申請興建之建築物,未經合法申請之農舍係為違規建物,尚非屬農舍。爰本案農業"
+  }
+ ]
+}

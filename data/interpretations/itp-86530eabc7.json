@@ -1,0 +1,48 @@
+{
+ "id": "itp-86530eabc7",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040243961號",
+ "date": "2015-11-12",
+ "date_text": "104/11/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴會就本會104年4月17日農授水保字第1040211059號函涉及依水土保持計畫內容設置之必要水土保持設施，應屬農舍附屬設施，計入農舍用地面積認為有待釐清案，請查照。",
+ "content": "一、依據內政部104年11月9日內授營綜字第1040438085號函辦理。\n二、旨案本會以104年11月6日農授水保字第1040239755號函復貴會，並副知內政部有案。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3926",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:50+08:00",
+   "source_key": "rmis:3926"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "59f03585c4ef43d01b186ca692cded8a862270c52a1f532dd14203c1100e7e2e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "itp-27187c6552",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020739317號",
+ "date": "2013-12-26",
+ "date_text": "102/12/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關○○○等24人申請於貴縣內埔鄉○○○地號以集村方式興建農舍，申請辦理專案分割為28筆土地案，復請查照。",
+ "content": "一、復貴府102年12月18日屏府農企字第10277479100號函。\n二、旨案既經貴府依農業用地興建農舍辦法規定核准興建資格並核發建造執照，依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定，本會同意旨揭土地分割為28筆土地，分割事宜請依相關規定辦理。\n三、檢還申請人申請書件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3740",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:23+08:00",
+   "source_key": "rmis:3740"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "16d73c98d8234f7184abdc3bb3a37ab4e1f84ef3e9340704ae155bf504df0c64",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "屏府農企字第10277479100號函。\n二、旨案既經貴府依農業用地興建農舍辦法規定核准興建資格並核發建造執照,依據農業發展條例第16條第1項第7款暨其施行細則"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "府依農業用地興建農舍辦法規定核准興建資格並核發建造執照,依據農業發展條例第16條第1項第7款暨其施行細則第11條第1項第6款規定,本會同意旨揭土地分割為28筆土"
+  }
+ ]
+}

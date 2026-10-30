@@ -1,0 +1,79 @@
+{
+ "id": "itp-c1c583036a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020224654號",
+ "date": "2013-08-06",
+ "date_text": "102/8/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例89年1月28日修正施行前取得之農業用地申請興建農舍之興建資格一案，復請查照。",
+ "content": "一、復貴府102年7月23日屏府農企字第10222197400號函。\n二、按農業用地興建農舍辦法第2條第2項規定:「直轄市、縣(市)政府為辦理前項申請興建農舍之核定作業，得由農業單位邀集環境保護、建築管理、地政、都市計畫等單位組成審查小組，審查前項、第三條至第六條規定事項。」，次按同辦法第8條第1項第2款規定，起造人申請興建農舍應備具相關主管機關依第2條與第3條規定核定之文件，向直轄市、縣 (市)主管建築機關申請建造執照，先予敘明。\n三、爰農業發展條例89年1月28日修正施行前取得之農業用地擬申請興建農舍，於申請建造執照前，應經直轄市、縣(市) 主管機關審核第3條(含第2條第1項第4款及第5款)至第6條規定事項。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3696",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:57+08:00",
+   "source_key": "rmis:3696"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "2d9d879b9e09982932d3d2cda48db2f954f6691d38a88fa2976e4e8d3b59f2f7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關農業發展條例89年1月28日修正施行前取得之農業用地申請興建農舍之興建資格一案,復請查照。\n"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "年7月23日屏府農企字第10222197400號函。\n二、按農業用地興建農舍辦法第2條第2項規定:「直轄市、縣(市)政府為辦理前項申請興建農舍之核定作業,得由農業單位"
+  }
+ ]
+}

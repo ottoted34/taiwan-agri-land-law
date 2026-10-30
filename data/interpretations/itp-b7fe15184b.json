@@ -1,0 +1,55 @@
+{
+ "id": "itp-b7fe15184b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1050227072號",
+ "date": "2016-08-31",
+ "date_text": "105/8/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局函詢楊梅區○○○地號土地，因擬拆除重建，欲辦理「確無現有農舍證明」及「農業用地作農業使用證明」案，請查照。",
+ "content": "一、依據內政部營建署105年7月14日1050038191號書函辦理。\n二、本案本會已於105年6月30日農授水保字第1050223762號函復貴局有案，先予敘明。\n三、農業用地興建農舍辦法業於104年9月4日修正發布施行，針對申請興建農舍，該農業用地是否確供農業使用與不影響農業生產環境及農村發展之認定文件，改以須檢附經營計畫書取代，不再以農業用地作農業使用證明書作為佐證文件。\n四、申請興建農舍其申請人資格應符合「農業用地興建農舍辦法」第2條、第3條之1相關規定，現行名下已有農舍，提出申請，與現行規定不符。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4218",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:40+08:00",
+   "source_key": "rmis:4218"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d6ad091bf10b71da8f1be6fa8c2fe3031b5b22e75abeb33ad5e6aac207788e4b",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "使用證明書作為佐證文件。\n四、申請興建農舍其申請人資格應符合「農業用地興建農舍辦法」第2條、第3條之1相關規定,現行名下已有農舍,提出申請,與現行規定不符。"
+  }
+ ]
+}

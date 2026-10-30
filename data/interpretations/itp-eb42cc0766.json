@@ -1,0 +1,54 @@
+{
+ "id": "itp-eb42cc0766",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020233930號",
+ "date": "2013-10-18",
+ "date_text": "102/10/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "苗栗縣補辦容許使用之限期改善時限。",
+ "content": "主旨：有關貴府函詢農業用地上有未經申請之設施或建築物，其補辦容許使用期限疑義案，復請查照。\n說明：\n一、復貴府102年10月2日府農農字第1020200805號函。\n二、有關貴府於執行農地管理稽查業務，倘發現農業用地上屬得核准容許使用之農業設施或農舍，擬函請土地所有權人限期補辦相關程序，宜斟酌申辦案件所需之辦理時間，俾給予一定之補辦期限，並得依行政程序法第93條規定，於作成行政處分有裁量權時，得為附款。至於當事人倘屆期仍未完成補辦相關程序，而確屬無法取得合法使用文件者，貴府自應依農業發展條例第69條規定移請區域計畫或都市計畫主管機關依區域計畫法或都市計畫法規定處理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5546",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:02+08:00",
+   "source_key": "rmis:5546"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e5e3359782ca3380033f1b24446e84fe62bbed360e2776e936ecb74eb7ca7d44",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "69",
+   "kind": "extracted",
+   "snippet": "未完成補辦相關程序,而確屬無法取得合法使用文件者,貴府自應依農業發展條例第69條規定移請區域計畫或都市計畫主管機關依區域計畫法或都市計畫法規定處理。"
+  }
+ ]
+}

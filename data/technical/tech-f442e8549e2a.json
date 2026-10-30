@@ -1,0 +1,37 @@
+{
+ "id": "tech-f442e8549e2a",
+ "source_key": "datamoa:B84:ebc8a0de8206a3b4",
+ "title": "農業專訊 99",
+ "series": "農業專訊",
+ "issue": "99",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": "2017-03",
+ "url": "https://www.ttdares.gov.tw/ws.php?id=7661",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B84",
+  "title": "臺東區農業改良場農業專訊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B84"
+ },
+ "raw": {
+  "期別": "99",
+  "出刊時間": "201703",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=7661"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B84",
+   "fetched_at": "2026-10-30T10:26:59+08:00"
+  }
+ ],
+ "content_hash": "68a2dfde7e15499bb53987d70f3244f316b67d36aba3c7245dc0d4b8703049bb",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

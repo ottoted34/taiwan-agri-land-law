@@ -1,0 +1,52 @@
+{
+ "id": "itp-6552fa8ce9",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1041040968號",
+ "date": "2015-09-21",
+ "date_text": "104/9/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "車輛運迴轉空間面積仍須符合容許辦法第7條第1項規定之設置總面積限制",
+ "content": "主旨：有關貴府函詢○○○申請農業用地作農業設施容許使用陳情意見書疑義案，請查照。\n\n說明：\n一、依據行政院農業委會104年9月9日農企字第1040727101號函辦理兼復貴府104年8月13日府農務二字第1040108131號函。\n二、依行政院農業委員會104年9月9日農企字第1040727101號函釋略以，除符合申請農業用地作農業設施容許使用審查辦法（以下簡稱容許辦法）第7條第1項但書規定情形外，農業設施興建總面積不得逾坐落農業用地面積之40﹪。另容許辦法第13條第3項規定之興建面積應指對應附表1所列設施細目之申請基準或條件之可興建面積，爰「車輛運（迴）轉空間」之興建面積雖不受該設施細目之可興建面積限制，惟仍須符合容許辦法第7條第1項規定之設置總面積限制。本案請貴府依據上開函釋辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5478",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:40+08:00",
+   "source_key": "rmis:5478"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "949737b6df290a36265f7dc6e0eb987bcee774333dc2be5de9313a55d14f98fd",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "04年9月9日農企字第1040727101號函釋略以,除符合申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第7條第1項但書規定情形外,農業設施興建總面積不得逾坐落農業"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-3c2741a508",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070729578號",
+ "date": "2018-11-05",
+ "date_text": "107/11/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府詢問農地因政府部門逕為分割致單筆土地面積不足0.25公頃疑義案，復如說明，請查照。",
+ "content": "一、復貴府107年10月23日府農務字第1070196719號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，合先敘明。\n三、依據農業用地興建農舍辦法第2條第1項第3款規定，申請興建農舍之該筆農業用地面積不得小於0.25公頃，所稱之「該筆」係指土地登記之單1筆地號農業用地而言，僅得以單一筆地號申請，不得多筆土地合併計算，有關興建農舍之農業用地，仍應請依上揭原則辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4483",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:59+08:00",
+   "source_key": "rmis:4483"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e88492abfafb72121781cc00022f24c688bd9de6dc32949b3d0e4420eaf22f31",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "可之行為,並非擁有農業用地即可興建農舍,合先敘明。\n三、依據農業用地興建農舍辦法第2條第1項第3款規定,申請興建農舍之該筆農業用地面積不得小於0.25公頃,所稱之「該"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "itp-91b27f546b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000164242號",
+ "date": "2011-10-18",
+ "date_text": "100/10/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴府函詢「申請農業用地作農業設施容許使用審查辦法」第25條規定之執行疑義案",
+ "content": "主旨：有關 貴府函詢「申請農業用地作農業設施容許使用審查辦法」第25條規定之執行疑義案，復請 查照。\n說明：\n一、復 貴府100年9月29日府授農輔字第1003501146號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第25條第1項規定：「依本辦法取得同意容許使用之農業設施，依建築相關法令規定須申請建築執照者，應於6個月內向建築主管機關提出申請，未能於6個月內申請者，得敘明理由向原申請機關申請展延，展延期限不得超過6個月，並以1次為限。」同條文第2項第1款及第2款明定：「依建築相關法令規定須申請建築執照，有下列情形之一者，原核准之農業用地作農業設施容許使用同意書失其效力。....一、未依期限向建築主管機關申請建築執照。二、原核准之農業用地作農業設施容許使用同意書屆期未申請展延。....」是以，農業用地作農業設施容許使用同意書有上開失其效力之情形者，為上開辦法之明文，無待主管機關另作為廢止行政處分，於期限屆滿即失其效力。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5097",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:26+08:00",
+   "source_key": "rmis:5097"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "25",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "25",
+    "amended_on": "2020-11-12",
+    "history": "中華民國109年11月12日行政院農業委員會農企字第1090013497A號令修正發布第25、29條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "32d7cc1879ff58d30069a4f8c72d35e4349619f081041ea96a348dd9649a79a7",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "25",
+   "kind": "extracted",
+   "snippet": "貴府函詢「申請農業用地作農業設施容許使用審查辦法」第25條規定之執行疑義案\n主旨:有關 貴府函詢「申請農業用地作農業設施容許使用審查辦法」"
+  }
+ ]
+}

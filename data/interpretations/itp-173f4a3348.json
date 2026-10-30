@@ -1,0 +1,73 @@
+{
+ "id": "itp-173f4a3348",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970106285號",
+ "date": "2008-02-04",
+ "date_text": "97/2/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "044 釋原為農業用地經都市計畫變更為行水區、河川區或洪水平原一級管制區之土地，在未依水利法徵收前，如經查明仍作農業使用且未違反水利法規及都市計畫書管制規定者，適用農業發展條例第37條及第38條之規定，得申請不課徵土地增值稅或免徵遺產稅、贈與稅案",
+ "content": "一、查農業發展條例第3條第10款有關農業用地之定義「指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地：...（二）供與農業經營不可分離之農舍...『灌溉、排水』及其他農用之土地...」該款係以土地使用之功能及性質作為「農業用地」之定義。又前開「供與農業經營不可分離之灌溉、排水」之土地於區域計畫法規係編定為「水利用地」，故前開條例施行細則第2條有關農業用地之法律依據及範圍，即包括依區域計畫法劃定為各種使用分區之水利用地。因此，水利用地應作「供與農業經營不可分離之灌溉、排水」使用，始符合農業使用之認定。\n二、另依都市計畫法台灣省施行細則第14條之規定，都市計畫範圍內之土地只有劃定使用分區，並無用地之編定，故並無來函所稱「都市計畫行水區之水利用地」。因此，都市計畫行水區之土地，仍須符合本會90年函釋要件及「仍作農業使用」，始有該函之適用。至所稱「仍作農業使用」應可包括作「供與農業經營不可分離之灌溉、排水」使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4897",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:26+08:00",
+   "source_key": "rmis:4897"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "dcfddb0670bd8cf9229f3bf76834259e6b03e6a53071b011843d033389298b08",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "tax",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "37",
+   "kind": "extracted",
+   "snippet": "查明仍作農業使用且未違反水利法規及都市計畫書管制規定者,適用農業發展條例第37條及第38條之規定,得申請不課徵土地增值稅或免徵遺產稅、贈與稅案\n一、查農業發展條"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "之規定,得申請不課徵土地增值稅或免徵遺產稅、贈與稅案\n一、查農業發展條例第3條第10款有關農業用地之定義「指非都市土地或都市土地農業區、保護區範圍內,依法供下"
+  }
+ ]
+}

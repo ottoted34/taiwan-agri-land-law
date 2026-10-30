@@ -1,0 +1,64 @@
+{
+ "id": "itp-6f2804aaa3",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041804539號",
+ "date": "2015-03-27",
+ "date_text": "104/3/27",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函詢已興建農舍之農業用地可否依民法規定申請私設通路疑義案，請查照。",
+ "content": "一、復貴府104年3月3日府農農字第1040042586號函。\n二、按民法第787條第1項規定:「土地因與公路無適宜之聯絡，致不能為通常使用時，除因土地所有人之任意行為所生者外，土地所有人得通行周圍地以至公路。』，該袋地通行權之行使，似不拘任何形式手段，非謂須申請私設通路不可，可使該袋地達通行目的即可。\n三、依非都市土地使用管制規則第6條附表一規定，「私設通路」為農牧用地容許使用項目之一，又該項目之附帶條件規定:「限於以集村方式興建農舍或甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。」，涉及土地使用相關管制規定，爰農地縱具袋地通行權而有興闢私設通路之必要，仍應符合上開規定使得申請容許使用。本案仍請依本局104年2月24日水保農字第1040206088號函辦理。\n四、有關貴府所詢於農業發展條例89年1月28日修正生效前提供他筆農地興建農舍之配合耕地，得否另供私設通路使用疑義，應依前開規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3360",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:59+08:00",
+   "source_key": "rmis:3360"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "58d7f58adde8ab4a9d1e70d94ceb1e96b6f8a201ea43ff8ae234af30c065dab4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "水保農字第1040206088號函辦理。\n四、有關貴府所詢於農業發展條例89年1月28日修正生效前提供他筆農地興建農舍之配合耕地,得否另供私設通路使用疑"
+  }
+ ]
+}

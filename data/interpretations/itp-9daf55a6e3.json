@@ -1,0 +1,95 @@
+{
+ "id": "itp-9daf55a6e3",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960128262號",
+ "date": "2007-05-29",
+ "date_text": "96/5/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋「農業用地容許作農業設施使用」案件，該案件農業用地業已興建圍牆，是否屬「農業用地容許作農業設施使用審查辦法」第8條第9款「違反法令規定」之使用疑義案。",
+ "content": "主旨：有關　貴府函詢「農業用地容許作農業設施使用」案件，該案件農業用地業已興建圍牆，是否屬「農業用地容許作農業設施使用審查辦法」第8條第9款「違反法令規定」之使用疑義案，復請　查照。\n說明：\n一、復　貴府96年5月21日府農務字第○○○○○號函。\n二、有關農業用地上興建圍牆部分，依內政部營建署於89年12月12日(89)營署建管字第47774號函，略以：「．．．(1)修法前已興建之農舍圍牆，於法定基層建築面積範圍內，應准予補辦雜項執照後，或依其使用執照上登載已提出圍牆竣工圖，據以辦理查核發給農業用地作農業使用證明。(2)農業用地週邊，原則上不得興建與農業經營無關之圍牆，惟因基於農業經營管理之特殊需要，有須於農業用地週邊興建圍牆，各縣市政府應將其視同農業、畜牧及養殖設施之一部分併同容許使用申請案辦理。」在案，有關本案仍請　貴府依上開號函原則，視農業經營管理之需要，審認核處。\n三、又查本會95年3月23日農企字第0950010504號函重申本會多次函釋略以：「有關農業用地上興建有未經申請核准容許使用之農業設施，該農業用地於申請核發農業用地作農業使用證明書，應輔導補辦申請容許使用，符合相關審查規定者，並於核發農業用地作農業使用證明書時，一併發給容許使用證明。」有關　貴府倘經審認本案之圍牆係屬農業經營管理需要之有關設施，應得依上開函釋內容，輔導補辦申請容許使用，至經審認與農業經營無關之圍牆，應得依本辦法第8條第9款之規定，不予同意。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5291",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:50+08:00",
+   "source_key": "rmis:5291"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a064bdeb7cba9d870e30d9ba27033437603e00823cdbf1545ff2d1827d6afc6e",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "容許作農業設施使用」案件,該案件農業用地業已興建圍牆,是否屬「農業用地容許作農業設施使用審查辦法」第8條第9款「違反法令規定」之使用疑義案。\n主旨:有關 貴府函詢「農業用地容許作農業設"
+  }
+ ]
+}

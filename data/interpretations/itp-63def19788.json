@@ -1,0 +1,54 @@
+{
+ "id": "itp-63def19788",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030708224號",
+ "date": "2014-03-28",
+ "date_text": "103/3/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "宜蘭縣鎮安廟是否符合農業用地作農業使用認定及核發證明辦法申請對象疑義案。",
+ "content": "主旨：有關貴府函詢貴縣鎮安廟是否符合農業用地作農業使用認定及核發證明辦法申請對象疑義案，復如說明，請查照。\n說明：\n一、復貴府103年3月13日府農務字第1030035168號函。\n二、查農業用地作農業使用認定及核發證明辦法(以下簡稱農用證明辦法)第10條第4項規定「申請人非土地所有權人時，應通知土地所有權人到場。」即農業用地作農業使用證明書(以下簡稱農用證明)之申請核發，並未限制申請人應為土地所有權人，其他權利人或代理人均得依規定申請，合先敘明。\n三、次查農用證明辦法第7條規定，申請核發農用證明時，申請人應檢具國民身分證影本或戶口名簿影本；其屬法人者，應檢具相關證明文件，向土地所在地之直轄市或縣(市)政府申請。依貴府來函檢附本案土地登記謄本所載，本案土地所有權人為鎮安廟，並已載明該廟之管理者；又依貴縣壯圍鄉公所103年3月6日函，本案似有代理人向受理機關提出申請，故該廟未能依法人身分提出申請者，由其管理者或代理人依上開說明檢具自然人之身分證明文件提出申請，亦屬適法。\n四、綜上，本案仍請貴府依上開說明予以審認申請人之身分證明文件，並依個案實情據以核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5274",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:35+08:00",
+   "source_key": "rmis:5274"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d52eada07154c184916354ccb999cbbed96e54d7338e2c71d5b47a698175d401",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "權人,其他權利人或代理人均得依規定申請,合先敘明。\n三、次查農用證明辦法第7條規定,申請核發農用證明時,申請人應檢具國民身分證影本或戶口名簿影本;其屬法人者,"
+  }
+ ]
+}

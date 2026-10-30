@@ -1,0 +1,61 @@
+{
+ "id": "itp-cd6b13c443",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041890807號",
+ "date": "2015-12-08",
+ "date_text": "104/12/8",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關提供興建農舍地號之土地所有權人申請其所有土地解除套繪一案，復請查照。",
+ "content": "一、復貴署104年12月1日營署建管字第1040075476號函。\n二、農業發展條例及其授權訂定之農業用地興建農舍辦法所規範者，係以農業用地上所興建之農舍為對象，至農業用地已變更為非農業用地者，自得中請解除套繪管制，提供興建該農舍之農業用地亦得一併申請前解除套繪管制。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4003",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:25+08:00",
+   "source_key": "rmis:4003"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8e308ffc06c141fbb917c826665954e8c6c304ccc9e5d64d0bf42986110b5dc4",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "04年12月1日營署建管字第1040075476號函。\n二、農業發展條例及其授權訂定之農業用地興建農舍辦法所規範者,係以農業用地上所興建之農舍為對象,至"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第1040075476號函。\n二、農業發展條例及其授權訂定之農業用地興建農舍辦法所規範者,係以農業用地上所興建之農舍為對象,至農業用地已變更為非農業用地者,自得"
+  }
+ ]
+}

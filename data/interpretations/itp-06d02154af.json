@@ -1,0 +1,55 @@
+{
+ "id": "itp-06d02154af",
+ "doc_class": "interpretation",
+ "docno": "農企字第1040722384號",
+ "date": "2015-07-24",
+ "date_text": "104/7/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地設置電信基地臺非屬農業使用亦無法扣除面積核發農業使用證明書。",
+ "content": "主旨：有關貴府函詢農業用地上設置電信基地臺，申請核發農業用地作農業使用證明書疑義案，復請查照。\n說明：\n一、復貴府104年7月13日府農務字第1040128039號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。前開所稱符合作農業使用，係以整筆農業用地或共有土地所申請之持分範圍均符合作農業使用之認定而言，以落實農業發展條例獎勵農地農用之立法意旨。\n三、次查「電信基地臺」係屬非都市土地使用管制規則附表一，農牧用地容許設置項目之一，與其他如戶外廣告物、私設通路、溫泉井等設施，雖得依法設置於農牧用地上，惟其均非屬農業設施，不得認定為作農業使用。亦無扣除非農業使用部分面積而就其餘面積認定農業使用之作法。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5376",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:31+08:00",
+   "source_key": "rmis:5376"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7580ab6905a551c8907c465ff61d0747c0e8e880492658c5f36906fbdae49ccf",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "或共有土地所申請之持分範圍均符合作農業使用之認定而言,以落實農業發展條例獎勵農地農用之立法意旨。\n三、次查「電信基地臺」係屬非都市土地使用管制規則附表一"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "itp-f638b12b3c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980120506號",
+ "date": "2009-04-10",
+ "date_text": "98/4/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "029 釋辦法第11條通知土地所有權人或其代理人到場指界案",
+ "content": "主旨：有關原任職於貴轄七堵區公所辦理核發農業用地作農業使用證明書業務之○○○等致本會陳情書，詢問農業用地作農業使用認定及核發證明辦法第11條規定疑義案，請 查照。\n說明：\n一、依據○○○等98年4月7日致本會陳情書（影本如附）辦理。\n二、查農業用地作農業使用認定及核發證明辦法第11條第3項所定「申請人非土地所有權人時，應通知土地所有權人到場。」之立法意旨，係因農業用地作農業使用證明書之申請核發，並未限制申請人應為土地所有權人，承受人或其他權利關係人均得申請。以致有農業用地經不相關之他人提出申請核發農業用地作農業使用證明書，而所有權人卻毫無所悉之情事。該農業用地作農業使用證明書之申請核發雖不致影響該所有權人之權益，卻也因而經常招致土地所有權人之不滿與抗議，故於92年前開辦法修正時，增定該項條文，請受理單位通知土地所有權人，使其知悉前開情事，以避免有不愉快之抗議事件發生。\n三、至土地所有權人是否到場或委託他人代理到場，則由其自行決定。縱無土地所有權人或其代理人到場，該申請案件仍須繼續遂行，並不影響該農業用地作農業使用證明書之效力。\n四、又農業用地作農業使用證明書僅係證明該農業用地確係作農業使用，以供農地所有權人持憑辦理賦稅減免優惠或申請興建農舍之用，他人徒有該筆土地之農業用地作農業使用證明書，尚不致影響土地所有權人之權益。因此，對該證明書之申請人並無特定之限制，且如為買賣移轉，亦無需檢附買賣契約書。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5435",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:03+08:00",
+   "source_key": "rmis:5435"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "11",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "33be6c4618eef9aaa506ea8c7e90ae33f19e981bf7712df0d247ab2ca93ccc29",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "核發農業用地作農業使用證明書業務之○○○等致本會陳情書,詢問農業用地作農業使用認定及核發證明辦法第11條規定疑義案,請 查照。\n說明:\n一、依據○○○等98年4月7日致本會陳情書(影本"
+  }
+ ]
+}

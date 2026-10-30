@@ -1,0 +1,73 @@
+{
+ "id": "itp-87efada9da",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1030072979號",
+ "date": "2014-11-17",
+ "date_text": "103/11/17",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關宜蘭縣政府函為農業用地已依「農業用地興建農舍辦法」申請興建農舍，其餘面積是否可依非都市土地使用管制規則申請私設通路1案，復請 查照。",
+ "content": "一、復貴局103年11月3日水保農字第1031866212號函。\n二、有關本案是否得依非都市土地使用管制規則申請私設通路，係屬本部地政司權責，相關疑義請逕洽該司辦理。\n三、另查農業用地興建農舍辦法第8條規定意旨，農舍用地指農舍與農舍附屬設施之水平投影用地總和，不得超過農業用地10%，經查貴會100年12月2日農水保字第1000168057號函已就農地上農舍為連接現有道路所需之農路應如何審認疑義釋示在案，本案得否參酌該函示辦理，仍請卓酌。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3874",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:11+08:00",
+   "source_key": "rmis:3874"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c48dded5276e2cd30fd290e8469644497fe932bcc687ddc3fba5e9417bc49a5f",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "通路,係屬本部地政司權責,相關疑義請逕洽該司辦理。\n三、另查農業用地興建農舍辦法第8條規定意旨,農舍用地指農舍與農舍附屬設施之水平投影用地總和,不得超過農業用地10%"
+  }
+ ]
+}

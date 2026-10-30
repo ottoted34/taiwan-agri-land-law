@@ -1,0 +1,55 @@
+{
+ "id": "itp-21d4643ba2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030203095號",
+ "date": "2014-02-19",
+ "date_text": "103/2/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "水利用地申請核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關貴府函詢水利用地申請核發農業用地作農業使用證明書疑義案，復如說明，請查照。\n說明：\n一、復貴府103年1月27日府農務字第1030003491號函。\n二、農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書，水利用地原則依農業發展條例第3條第10款規定作與農業經營不可分離之農田灌溉、排水使用，始符合作農業使用之認定。惟考量部分位於「河川區域內」之水利用地仍作農作使用者，係屬從來使用之情形，因故未能更正編定為適當用地，宜適度就其特殊情形而放寬認定為作農業使用，以維護民眾權益，爰本會於102年3月5日以農企字第1020202829號通函說明，針對符合上開情形之水利用地，且經水利主管機關許可種植植物者，亦得認定符合作農業使用。本案之山坡地保育區水利用地應符合農田灌溉、排水之使用原則，該用地倘係位於河川區域範圍內，且符合相關條件者，則得有本會上開號函之適用。\n三、另依貴府來函檢附貴縣礁溪鄉公所103年1月6日函說明，本案現況既為原始林木，可認屬土地編定前存在之農業使用，依山坡地保育利用條例第16條規定，山坡地供農業使用者，應實施土地可利用限度分類，並由中央或直轄市主管機關完成宜農、牧地、宜林地、加強保育地查定，則本案得否循上開規定辦理，建請考量，以符實際。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5265",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:14+08:00",
+   "source_key": "rmis:5265"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4edcca02dd66d2b31f24e55f8a73716e20282e534e48e0301d125da77d827e97",
+ "topics": [
+  "farm_use_cert",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "之認定基準,始得核發農業用地作農業使用證明書,水利用地原則依農業發展條例第3條第10款規定作與農業經營不可分離之農田灌溉、排水使用,始符合作農業使用之認定。惟"
+  }
+ ]
+}

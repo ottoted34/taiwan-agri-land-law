@@ -1,0 +1,73 @@
+{
+ "id": "itp-ed375ccf0c",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030203897號",
+ "date": "2014-02-17",
+ "date_text": "103/2/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴署函為南投縣南投市○○○地號土地辦理農舍之建築執照申請，得否由起造人於基地內設置集水池、填滿後自行處理運棄案，復請查照。",
+ "content": "ㄧ、復貴署103年2月6日營署綜字第1030006428號函。\n二、依農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準，並排入排水溝渠。放流水流經屬灌排系統或私有水體者，並應符合下列規定:(一)排入灌排系統者，應經該管理機關(構)同意及水利主管機關核准。(二)排入私有水體者，應經所有人同意。」。為免放流水於農舍坐落農地漫流，或溢流至附近農地，致影響農業生產環境，農舍放流水依規應排出農舍坐落農地，排入排水溝渠或私有水體。來文所詢於農舍坐落農地設置生態淨化池作為放流水最終承受水體，未符前開規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3202",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:17+08:00",
+   "source_key": "rmis:3202"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "9",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "97ab4061d9e49cb68e9fef32603e34e9676b0ed07645e55f7c2cc5ca93a0a56c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "103年2月6日營署綜字第1030006428號函。\n二、依農業用地興建農舍辦法第9條第2項第5款規定:「農舍之放流水應符合放流水標準,並排入排水溝渠。放流水流經屬灌"
+  }
+ ]
+}

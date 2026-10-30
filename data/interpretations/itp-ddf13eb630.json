@@ -1,0 +1,58 @@
+{
+ "id": "itp-ddf13eb630",
+ "doc_class": "interpretation",
+ "docno": "法律決字第10403509400號",
+ "date": "2015-07-27",
+ "date_text": "104/7/27",
+ "agency_text": "法務部",
+ "category": "解釋函",
+ "subject": "有關辦理興建農舍資格審查之農業用地取得時點疑義案，復如說明二、三，請查照參考。",
+ "content": "一、復貴局104年6月16日水保農字第1041881313號函。\n二、按民法第759條規定：「因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，應經登記，始得處份其物權。」本條意義有二：其一是非由法律行為所生之不動產物權變動，不經登記即發生效力，故無民法第758條之適用；其二是依此種方式取得之物權應經登記，始得處分。因此等事由所生物權之變動，或有法律可據，或有國家機關公權力介入，其變動業已發生，存在狀態亦甚明確，已無違物權公示之要求，且登記遲速較無礙交易安全，故不以登記為其生效要件，而於法律所規定之事由發生時，即生物權變動效力。惟對於此等非依法律行為而取得物權之原因事實存在，須負舉證責任(謝在全著，民法物權論(上)，103年9月修訂六版，第76頁參照)。\n三、本案所詢有關取得農業用地之認定事項，貴局來函所稱「不同所有權人之合併」，其原因及相關法規為何？如何適用行政院農業委員會101年6月29日令？因涉貴局所屬上級機關行政院農業委員會權責，宜由該會表示意見。倘仍有疑義，請依「中央行政機關法制作業應行注意事項」第18點規定，具體敘明有疑義之法條並擬具研析意見後，再請賜函憑辦。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "法務部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3970",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:28+08:00",
+   "source_key": "rmis:3970"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d8220343aa72dfc6d7c55b5b7d21acde1d15d551ce1b590779faadbe9acbf10e",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

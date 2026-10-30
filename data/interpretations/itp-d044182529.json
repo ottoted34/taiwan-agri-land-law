@@ -1,0 +1,100 @@
+{
+ "id": "itp-d044182529",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960149506號",
+ "date": "2007-09-07",
+ "date_text": "96/9/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "027 釋涉及所有權移轉之農業用地分割，應以分割前原地號查核作農業使用案",
+ "content": "一、農業用地應符合作農業使用之認定始得核發農業用地作農業使用證明書，所稱符合作農業使用應係指該農業用地之整筆土地或共有持分部分均能符合作農業使用之認定而言。\n二、依「農業用地作農業使用認定及核發證明辦法」第9條第1項所規範應檢具之文件資料包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」，並依該辦法之規定就該土地登記簿謄本所載地號查核是否作農業使用。然「土地復丈結果通知書」並非土地登記簿謄本，不符前開辦法之規定，是以不宜就該通知書所載之「假地號」查核。\n三、又農業用地倘有因違規使用而辦理假分割，而仍同意該假分割之未違規部分享有賦稅減免優惠，恐有違農業發展條例以賦稅減免優惠獎勵農地農用之意旨，且將衍生違規使用部分是否須先依土地管理法規處罰之法律公平等複雜問題，因此，有關農業用地申請核發農業用地作農業使用證明書，仍應以土地登記簿所載地號查核，作為核駁之依據。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4904",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:06+08:00",
+   "source_key": "rmis:4904"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5534",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:08+08:00",
+   "source_key": "rmis:5534"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 2,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "9",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "5dc1c37cd9cca72f00f741cf8da24b7289ebb3640393e259d67a96fc2e290bcf",
+ "history": [
+  {
+   "at": "2026-10-30T10:20:58+08:00",
+   "previous_hash": "4cd792ed7217aa7cc7d94344f7ddec69b7dbebc8e0aa462897f7e6e1b0ee43f5",
+   "changed_fields": [
+    "subject",
+    "content"
+   ],
+   "previous": {
+    "subject": "049 釋農業用地作農業使用證明書之審核應以申請書所載共有持分面積或整筆土地審認案",
+    "content": "一、農業用地應符合作農業使用之認定使得核發農業用地作農業使用證明書，所稱符合作農業使用應係指該農業用地之整筆土地或共有持分部分均能符合作農業使用之認定而言。\n二、依「農業用地作農業使用認定及核發證明辦法」第9條第1項所規範應檢具之文件資料包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」，並依該辦法之規定就該土地登記簿謄本所載地號查核是否作農業使用。然「土地複丈結果通知書」並非土地登記簿謄本，不符前開辦法之規定，是以不宜就該通知書所載之「假地號」查核。\n三、又農業用地倘有因違規使用而辦理假分割，而仍同意該假分割之未違規部分享有賦稅減免優惠，恐有違農業發展條例以賦稅減免優惠獎勵農地農用之意旨，且將衍生違規使用部分是否須先依土地管理法規處罰之法律公平等複雜問題，因此，有關農業用地申請核發農業用地作農業使用證明書，仍應以土地登記簿所載地號查核，作為核駁之依據。"
+   }
+  }
+ ],
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "整筆土地或共有持分部分均能符合作農業使用之認定而言。\n二、依「農業用地作農業使用認定及核發證明辦法」第9條第1項所規範應檢具之文件資料包括「最近一個月內核發之土地登記簿謄本及地籍圖謄本」"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "假分割,而仍同意該假分割之未違規部分享有賦稅減免優惠,恐有違農業發展條例以賦稅減免優惠獎勵農地農用之意旨,且將衍生違規使用部分是否須先依土地管理法規處罰"
+  }
+ ]
+}

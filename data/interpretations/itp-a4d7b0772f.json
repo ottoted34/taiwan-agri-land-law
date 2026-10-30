@@ -1,0 +1,59 @@
+{
+ "id": "itp-a4d7b0772f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970101316號",
+ "date": "2008-01-11",
+ "date_text": "97/1/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋併同以非都市土地農牧用地及林業用地申請採取土石外運或外賣應循變更編定程序辦理之面積計算疑義。",
+ "content": "主旨：有關併同以非都市土地農牧用地及林業用地申請採取土石外運或外賣應循變更編定程序辦理之面積計算疑義一案，復如說明，請　查照。\n說明：\n一、復　貴局97年1月7日礦局石二字第○○○○○號函。\n二、查本會97年1月3日農企字第0970010600號函示略以：「．．．準此，考量非都市土地農牧用地及林業用地因分屬不同使用地類別，且其容許作土石採取使用之限制條件及立法目的互有差異，所涉及之審查法令及權責單位亦未盡相同，本會認為併同以農牧用地及林業用地申請採取土石外運或外賣者，應循變更編定程序辦理。此外，其因屬相同性質之開發行為，對於用地變更作業之審查，得整體考量合併檢討其應辦理土地使用變更之規模、水保、環評及隔離綠帶或設施等相關標準。」故興辦事業人得就申請案整體開發及利用效益合併計算應辦理變更編定之面積規模，並依非都市土地使用管制規則及非都市土地開發審議作業規範等相關法令規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5219",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:32+08:00",
+   "source_key": "rmis:5219"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "eaa0bb57ba9ffcc4255ad65d7f80f02fd9ad1ac875fa8b448ec6887cef60059c",
+ "topics": [
+  "landfill",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  }
+ ]
+}

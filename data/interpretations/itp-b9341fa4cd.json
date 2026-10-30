@@ -1,0 +1,73 @@
+{
+ "id": "itp-b9341fa4cd",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000139681號",
+ "date": "2011-07-18",
+ "date_text": "100/7/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "027 釋涉及所有權移轉之農業用地分割，應以分割前原地號查核作農業使用案",
+ "content": "主旨：有關 貴府函請釋示因土地登記簿登載有「土地界址爭議未解決」字樣，得否依重測前面積核發農業用地作農業使用證明書疑義案，復如說明，請 查照。\n說明：\n一、復 貴府100年6月21日屏府農務字第1000163648號函。\n二、依據農業用地作農業使用認定及核發證明辦法第11條規定，直轄市或縣(市)政府受理農用證明申請案件後，為實際瞭解該筆農業用地之利用現況，須辦理現地會勘；又為保障申請人權益並協助查勘小組指界，應通知土地所有權人或其代理人到場指界及說明，且如界址無法確定或有疑義時，應請申請人向地政機關申請鑑界，以免因會勘地點有誤，造成誤判，致影響民眾權益。\n三、另查土地因地籍重測，發生界址爭議尚未解決時，依地籍測量實施規則第201條之1規定，尚無限制界址爭議尚未解決之土地不得移轉，惟須由權利關係人出具切結書敘明於界址確定後，其面積與原登記面積不符時，同意由地政機關逕為更正。\n四、綜上，針對界址爭議尚未解決之農業用地，於受理核發農業用地作農業使用證明書時，雖得參照前開地籍測量實施規則第201條之1規定，以重測前未有爭議之面積作為審認依據，惟直轄市或縣(市)政府受理申請案件後，仍應至現地辦理會勘，該界址範圍須予確認，倘有疑義，並應依前開辦法第11條規定辦理。另對於以「重測前面積」作為農業用地作農業使用證明書之核發範圍者，應於申請書及證明書上土地面積註明為「重測前面積」且於證明書之附註欄加註「本案土地界址爭議未解決，以重測前面積為查核範圍」之字樣。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5461",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:52+08:00",
+   "source_key": "rmis:5461"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "11",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4909bf0976b296ed5f20a1a68940961acd67eb546de45fc113b2263ef150d166",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "年6月21日屏府農務字第1000163648號函。\n二、依據農業用地作農業使用認定及核發證明辦法第11條規定,直轄市或縣(市)政府受理農用證明申請案件後,為實際瞭解該筆農業用地之利用現"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-b37a2c2fc5",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080702917號",
+ "date": "2019-01-31",
+ "date_text": "108/1/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "不利農業經營區綠能設施容許高度限制及是否包括風力小水力",
+ "content": "主旨：有關貴府函詢「申請農業用地作農業設施容許使用審查辦法」第30條執行疑議案，復如說明，請查照。\n說明：\n一、復貴府108年1月19日府農務字第1080023664號函。\n二、按「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第8條規定：「農業設施興建高度及樓層應依本辦法規定辦理；未規定高度之農業設施，其高度不得超過14公尺。」，是以各項農業設施之申請基準或條件，未明定高度限制者，依容許辦法第8條規定，高度不得超過14公尺。又「綠能設施」為容許辦法第3條所稱農業設施種類之一，故依容許辦法申請綠能設施時，其高度限制自依上開規定辦理。\n三、另，按容許辦法第27條規定：「本辦法所稱綠能設施，指依再生能源發展條例第3條第1項第1款所定太陽能、風力及非抽蓄式水力設施。」，故依據容許辦法第30條規定於「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍」，申請免與農業經營使用相結合之綠能設施，除太陽能外，亦包括風力及非抽蓄式水力設施。是以，本會前釋示有關上開免與農業經營使用相結合之綠能設施配置原則，自適用容許辦法所定之綠能設施，倘貴府仍有個案審查疑義，可敘明案情函本會提供協處意見。\n四、檢還貴府原送○○股份有限公司申請書1份。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5608",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:37+08:00",
+   "source_key": "rmis:5608"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "05937c626abdc00ce412b51a8a06c385ce90eb162a970e06a1fb8ae57b8672e8",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "綠能設施容許高度限制及是否包括風力小水力\n主旨:有關貴府函詢「申請農業用地作農業設施容許使用審查辦法」第30條執行疑議案,復如說明,請查照。\n說明:\n一、復貴府108年1月19日府農務字第1"
+  }
+ ]
+}

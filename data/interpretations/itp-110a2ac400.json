@@ -1,0 +1,61 @@
+{
+ "id": "itp-110a2ac400",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051809365號",
+ "date": "2016-09-02",
+ "date_text": "105/9/2",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關老農地興建農舍申請人之年齡是否作為准駁依據，復請查照。",
+ "content": "一、復貴府105年8月1日府農農字第1050157997號函。\n二、農業用地上准許興建農舍，目的係提供有心經營農業者於該農地上興建具有居住兼具放置農機具之需求，以便利其從事農事工作。且依農業發展條例第18條規定，無自用農舍而需興建者，得申請興建農舍，爰規範申請人應確實為農業經營所需而興建農舍，並符合農業用地興建農舍辦法相關規定，先予敘明。\n三、然依現行規定除農業用地興建農舍辦法第2條第1項第1款規定其資格應年滿20歲或未滿20歲已結婚者外，並未針對申請興建農舍之年齡予以上限規範，然貴府提供之意見，將予以納入後續修法之參考。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4231",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:38+08:00",
+   "source_key": "rmis:4231"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "58da83bfa5d95ad2849b80dcf969f43ffa1597a0caa396857a3ed64f79398481",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "興建具有居住兼具放置農機具之需求,以便利其從事農事工作。且依農業發展條例第18條規定,無自用農舍而需興建者,得申請興建農舍,爰規範申請人應確實為農業經營所需而興"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "農業用地興建農舍辦法相關規定,先予敘明。\n三、然依現行規定除農業用地興建農舍辦法第2條第1項第1款規定其資格應年滿20歲或未滿20歲已結婚者外,並未針對申請興建農舍之"
+  }
+ ]
+}

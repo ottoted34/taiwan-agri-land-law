@@ -1,0 +1,98 @@
+{
+ "id": "itp-4e9e1fa466",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1000162573號",
+ "date": "2011-10-07",
+ "date_text": "100/10/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關○○○申請興建農舍農民資格一案，復請 查照。",
+ "content": "一、復 貴府100年9月29日府建農字第1000066419號函。\n二、按農業發展條例第18條允許農業用地上興建農舍，係為協助有心經營農業者於農地上興建具有居住及兼具放置農機具需求之構造物，與一般住宅性質不同。為落實本條例立法意旨，爰農業用地興建農舍辦法第3條第1項第2款規定「申請人之戶籍所在地及其農業用地，須在同一直轄市、縣 市 內，且其土地取得及戶籍登記均應滿二年者。」，查其意旨為：「申請人提出申請興建農舍之農業用地及其戶籍登記，不論其土地取得或戶籍登記先後，須在同一直轄市、縣市內，且兩者均應滿2年，其登記時間，以採持續性為準不能合併計算。」（本會97年1月17日農授水保字第0970102961號參照 ）\n三、旨案申請人戶籍登記既未滿2年，應與上開規定意旨不符。惟涉個案之審認仍請貴府本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2779",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:29+08:00",
+   "source_key": "rmis:2779"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c3ee38594fe65d0aea47805cced33f84495a05cb507798545e9b919ebcbb3038",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "00年9月29日府建農字第1000066419號函。\n二、按農業發展條例第18條允許農業用地上興建農舍,係為協助有心經營農業者於農地上興建具有居住及兼具放置農機"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "具需求之構造物,與一般住宅性質不同。為落實本條例立法意旨,爰農業用地興建農舍辦法第3條第1項第2款規定「申請人之戶籍所在地及其農業用地,須在同一直轄市、縣 市 內,且"
+  }
+ ]
+}

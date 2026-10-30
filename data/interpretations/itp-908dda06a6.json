@@ -1,0 +1,73 @@
+{
+ "id": "itp-908dda06a6",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1031826329號",
+ "date": "2014-11-10",
+ "date_text": "103/11/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴轄龍潭鄉○○○地號土地興建集村農舍，申請專案分割一案，復請查照。",
+ "content": "一、復本會水土保持局案陳貴局103年11月3日桃農管字第1030023438號函。\n二、依102年7月1日修正前農業用地興建農舍辦法第8條第1項第8款規定：「集村興建農舍應整體規劃，於法定空地設置公共設施；其應設置之公共設施如附表。」，查該附表10戶以上未滿30戶者，應設置之公共設施項目為每戶至少1個停車位、社區停車場及廣場等。本案於編號I位址配置廣場、停車場及台電受電場，惟查卷附建造執照加註內容，其公共設施僅有廣場及台電受電廠，是否有誤，請貴局查明；另公共設施係供集村農舍全體起造人共同使用之空間，惟依卷附分割圖無法判別，請補附本案配置圖；此外，本案未附分割協議書，以上請貴局釐清並補件後送本會辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3590",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:16+08:00",
+   "source_key": "rmis:3590"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a3cbc9b5061a17fe0b1bd95a551e0aa31419e87de9c6b3330bd7f93532839f37",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "字第1030023438號函。\n二、依102年7月1日修正前農業用地興建農舍辦法第8條第1項第8款規定:「集村興建農舍應整體規劃,於法定空地設置公共設施;其應設置之公"
+  }
+ ]
+}

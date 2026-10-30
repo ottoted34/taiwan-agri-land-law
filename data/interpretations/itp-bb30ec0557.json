@@ -1,0 +1,65 @@
+{
+ "id": "itp-bb30ec0557",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040231460號",
+ "date": "2015-08-21",
+ "date_text": "104/8/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例第18條第4項所稱農舍坐落用地之解釋適用案，復請查照。",
+ "content": "一、復貴府104年8月12日台內地字第1041306736號函。\n二、有關農舍與其坐落用地併同移轉一節，本會前以104年5月13日農水保字第1030244431號函就農舍坐落用地之範圍提供意見供貴部參考，查貴部引據該號函另以104年6月23日台內地字第10404176173號函知各直轄市、縣(市)政府據以辦理，本會前開號函僅係行政院機關間之意見表示，仍須以貴部通函解釋為準據，先予敘明。\n三、本會前開號函已敘明90年農業發展條例修正時，未能預見後續執行面所新增之興建類型，如集村農舍或早期以多筆相毗鄰土地合併申請之態樣等，本會90年1月29日(90)農企字第900100446號函不可謂之錯誤，然為避免徒有農舍卻無供農業經營用地之不合理現象持續發生，爰變更農業發展條例第18條第4項所稱農舍坐落用地之見解。至貴部104年6月23日台內地字第10404176173號函示適用，究應以「原因發生日期(即契約成立之日)」、「向稅捐機關申報土地增值稅之日或「地政機關收件之日」以為判斷一節，本會無意見。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3607",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:06+08:00",
+   "source_key": "rmis:3607"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "399397c31afb25c34c9d47d12d07e3fb078f22f3fcf32c60df6ebf563a06e319",
+ "topics": [
+  "farmhouse",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "有關農業發展條例第18條第4項所稱農舍坐落用地之解釋適用案,復請查照。\n一、復貴府104年8月12日台內"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "itp-24dc313f31",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1041017509號",
+ "date": "2015-10-19",
+ "date_text": "104/10/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：貴府函詢○○○申請農業用地作農作產銷設施(溫室)附屬設置綠能設施容許使用疑義案，復請查照。\n說明：\n一、復貴府104年9月14日府農務字第1040156836號函。\n二、查申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第13條附表1所定溫室之申請基準或條件略以，溫室應以透光材質搭建，並得配置溫度控制及換氣裝置，採完全人工光源栽培者，得採不透光材質興建。復依容許辦法第28條規定略以：「本辦法附表所定之各類農業設施，得附屬設置綠能設施。」其應指於農業設施屋頂附屬設置者而言。又該農業設施應屬可申領建造執照及使用執照之建物型態，始可依再生能源發電設備設置管理辦法申請屋頂型太陽能光電發電設備，並歸類為屋頂型綠能設施。爰直接以太陽能板作為屋頂(頂蓋)，允難認屬合於上開規定。\n三、另查容許辦法第33條第2項規定，農業設施未依計畫內容使用者，原核定機關得廢止其許可，並通知區域計畫或都市計畫主管機關依相關規定處理；又附屬設置綠能設施之案件，亦應通知能源主管機關依法處理。至查核申請案件是否符合原核定計畫內容之審認，行政院農業委員會亦於本年8月25日以農企字第1040012614號函(諒達)說明「農業主管機關得以申請人所提經營計畫之栽種作物，依農業統計年報該等作物近三年產量平均值之7成估認最低產量，作為合理農業經營事實之判定參考」有案，併請參考。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5438",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:10+08:00",
+   "source_key": "rmis:5438"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8322e6794399f42c2b7e305dfe4f7a27bb1473caffbb0287584e193a3dfb7dfb",
+ "topics": [
+  "greenhouse",
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請農業設施容許使用審查辦法-農糧署解釋函\n主旨:貴府函詢○○○申請農業用地作農作產銷設施(溫室)附屬設置綠"
+  }
+ ]
+}

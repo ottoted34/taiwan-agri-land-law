@@ -1,0 +1,57 @@
+{
+ "id": "itp-15ab913642",
+ "doc_class": "interpretation",
+ "docno": "農糧字第1020245501號",
+ "date": "2014-02-07",
+ "date_text": "103/2/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地申請作農業資材室及管理室容許使用所涉申請基準疑義案。",
+ "content": "主旨：貴府函詢農業用地申請作農業資材室及管理室容許使用所涉申請基準疑義案，復請查照。\n說明：\n一、復貴府102年11月7日北府農牧字第1023021145號函、102年12月2日北府農牧字第1023181374號函、102年12月11日北府農牧字第1023262853號函及102年12月30日北府農牧字第1023374929號函。\n二、有關農業資材室部分，依本會102年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法) 第4條規定，申請農業用地作農業設施容許使用，應檢附土地使用同意書；但土地為申請人單獨所有者，免附。是以，多人持分之共有農業用地，申請興建之農業資材室，申請人自應取得其他共有人出具之土地使用同意書。至其興建面積，原則應以其持分之應有部分計算，惟倘經其他共有人於土地使用同意書載明其持分部分同意申請人興建者，亦得併同計算。\n三、另查容許辦法第13條附表1所定管理室申請基準或條件規定「已申請農業生產設施、農機具設施及農產運銷加工設施，未設置管理區者，得單獨申請管理室，最大興建面積以150平方公尺為限。」貴府所詢花棚、錏管網室、塑膠布溫室等無固定基礎農業設施，非屬依容許辦法規定申請之「農業生產設施」，爰未宜據以單獨申請管理室。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5544",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:23+08:00",
+   "source_key": "rmis:5544"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d5d7ba20213275307d79e971d2e4e75863edec5011aeab1d94f304ec681183a4",
+ "topics": [
+  "container",
+  "material_room",
+  "machinery_room",
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "。\n二、有關農業資材室部分,依本會102年10月9日修正發布「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法) 第4條規定,申請農業用地作農業設施容許使用,應檢附土地使用"
+  }
+ ]
+}

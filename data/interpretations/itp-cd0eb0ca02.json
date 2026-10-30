@@ -1,0 +1,63 @@
+{
+ "id": "itp-cd0eb0ca02",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090211824號",
+ "date": "2020-04-21",
+ "date_text": "109/4/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上合法之農業設施，得否申請變更為農舍使用疑義案",
+ "content": "一、復貴府 109年3月25日府農務字第 1090049080號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍；農業設施則係依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)規定辦理，且不得作為住宅、工廠或其他非農業使用，其與農舍之性質不同，依據之法源規定亦有別，先予敘明。\n三、按容許辦法第 33條規定略以：「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，並不得作為住宅、工廠或其他非農業使用。．．．未依計畫內容使用者，原核定機關得廢止其許可，並通知區域計畫或都市計畫主管機關依相關規定處理。．．．原核定機關於廢止許可時，應一併通知建築主管機關處理。．．．」，所謂未依計畫內容使用，即指未依申請農業設施容許使用時所擬定之經營計畫書各款內容使用而言。爰倘農業設施已無使用需求，即屬\n前開未依計畫內容使用者，應對其有適法之處置。又按農業用地興建農舍辦法(以下簡稱本辦法)第 5條第 1項規定，違反土地使用管制規定者，不得依本辦法申請興建農舍，併予敘明。\n四、基於農舍之個案審查係屬直轄市、縣(市)政府之權責，請貴府就個案事實予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4730",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:53+08:00",
+   "source_key": "rmis:4730"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "30d12e244f12c63a3ba8b07c2a0ae706cb558a219e97273e60141808eb06fffa",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "係為許可之行為,並非擁有農業用地即可興建農舍;農業設施則係依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)規定辦理,且不得作為住宅、工廠或其他非農業使用,其與農舍之性"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "需求,即屬\n前開未依計畫內容使用者,應對其有適法之處置。又按農業用地興建農舍辦法(以下簡稱本辦法)第 5條第 1項規定,違反土地使用管制規定者,不得依本辦法申請"
+  }
+ ]
+}

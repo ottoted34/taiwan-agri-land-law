@@ -1,0 +1,49 @@
+{
+ "id": "itp-d1b7f3806f",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041892012號",
+ "date": "2015-12-28",
+ "date_text": "104/12/28",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府民眾申請已興建農舍之農業用地於90%農業經營面積範圍內容許作私設通路使用疑義案，復請查照。",
+ "content": "一、復貴府104年12月23日府農務字第1040445929號函。\n二、農業用地上准許興建農舍，係提供有心經營卻無自用農舍者於該農地上興建具有放至農機具兼具居住需求之構造物，以便利其從事農市工作，並應供農業使用，而私設通路為經土地所有權人出具供他人通行同意書或提供土地為道路使用，並非供土地所有權人使用及農業使用，與前開意旨不符，爰請貴府衡酌並依個案事實審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4212",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:08+08:00",
+   "source_key": "rmis:4212"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5878577b3e8a2d8d9e1727a12eb8287913b0f718f40733a22d4673cb5afecd84",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

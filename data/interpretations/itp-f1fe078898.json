@@ -1,0 +1,62 @@
+{
+ "id": "itp-f1fe078898",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970141555號",
+ "date": "2008-08-01",
+ "date_text": "97/8/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋私立學校申請農業用地變更作非農業使用，得否適用農業發展條例第12條第4項第1款規定，視為「政府興辦之公共建設及公益性設施」，得免繳交農業用地變更回饋金案。",
+ "content": "主旨：有關 貴局函為私立學校申請農業用地變更作非農業使用，得否適用農業發展條例第12條第4項第1款規定，視為「政府興辦之公共建設及公益性設施」，得免繳交農業用地變更回饋金案，復請 查照。\n說明：\n一、復　貴府97年7月24日北農牧字第○○○○○號函。\n二、依農業發展條例第12條第1項規定，農業用地之變更，應視其事業性質，繳交回饋金，以供農業發展及農民福利之用，除有符合同條文第4項規定之情形者，始得例外得免繳交回饋金，原則上，均應依規定繳交回饋金。至第4項第1款所稱之「政府興辦之公共建設及公益性設施」，業已限定應屬「政府」興辦之各項公共建設及公益性設施者，方能適用之。本案 貴局引述私立學校法第74條規定，係規範學校法人解散清算後之賸餘財產或不動產之歸屬事宜，爰本案倘現係以學校法人名義申請農業用地變更，應無農業發展條例第12條第4項之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5084",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:56+08:00",
+   "source_key": "rmis:5084"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "055bc17758d25c63d14d76f2c94b3f6c7dc9f704499baf4dc0164b3fa6a7e45f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "釋私立學校申請農業用地變更作非農業使用,得否適用農業發展條例第12條第4項第1款規定,視為「政府興辦之公共建設及公益性設施」,得免繳交農業用地變更回"
+  }
+ ]
+}

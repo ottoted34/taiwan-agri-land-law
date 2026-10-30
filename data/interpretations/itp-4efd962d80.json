@@ -1,0 +1,97 @@
+{
+ "id": "itp-4efd962d80",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000144536號",
+ "date": "2011-07-20",
+ "date_text": "100/7/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業設施高度疑義案。",
+ "content": "主旨：有關　貴公司函詢農業設施高度疑義案，復請　查照。\n說明：\n一、復　貴公司100年7月11日(100)臺禹環字第01000711號函。\n二、農舍係基於農業經營之目的始附帶提供居住使用，而農業設施係供農業經營使用，且不得作為居住用途，如擬申請農舍，應依「農業用地興建農舍辦法」規定辦理，如擬申請農業設施，則應依「申請農業用地作農業設施容許使用審查辦法」規定辦理，兩者之性質及法令依據不相同，且申請要件及管制規定亦不相同，故有關農舍興建高度之相關審認要件，農業設施不得援引比照。\n三、依據「申請農業用地作農業設施容許使用審查辦法」第9條規定：「農業設施興建高度及樓層應依本辦法規定辦理；未規定高度之農業設施，其高度不得超過14公尺。但直轄市、縣(市)主管機關另有較嚴格之規定者，從其規定。」是以，各項農業設施之申請基準或條件，未明定高度及樓層限制者，依本辦法第9條規定，高度不得超過14公尺，應以建築物最高點(頂高)予以審認；至於直轄市、縣(市)主管機關倘另訂有較嚴格之規定者，應優先適用直轄市、縣(市)主管機關所定之農業設施高度及樓層之相關審查基準。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5429",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:49+08:00",
+   "source_key": "rmis:5429"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "9",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "1e185c5fe438da0001bd9f3a38740d2eb19fad869696db3edf79bacab4f937d2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "設施係供農業經營使用,且不得作為居住用途,如擬申請農舍,應依「農業用地興建農舍辦法」規定辦理,如擬申請農業設施,則應依「申請農業用地作農業設施容許使用審查辦法」規定"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "農舍興建高度之相關審認要件,農業設施不得援引比照。\n三、依據「申請農業用地作農業設施容許使用審查辦法」第9條規定:「農業設施興建高度及樓層應依本辦法規定辦理;未規定高度之農業設施,其高度不"
+  }
+ ]
+}

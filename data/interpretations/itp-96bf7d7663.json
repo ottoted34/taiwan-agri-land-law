@@ -1,0 +1,52 @@
+{
+ "id": "itp-96bf7d7663",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030215963號",
+ "date": "2014-05-20",
+ "date_text": "103/5/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「申請農業用地作農業設施容許使用審查辦法」第4條規定，應檢附土地使用同意書之疑義案。",
+ "content": "主旨：有關貴府函詢「申請農業用地作農業設施容許使用審查辦法」第4條規定，應檢附土地使用同意書之疑義案，復請查照。\n說明：\n一、復貴府103年5月13日府農農字第1030100183號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第4條第5款規定，申請農業用地作農業設施容許使用時，應檢附土地使用同意書，但土地為申請人單獨所有者，免附。是以，共有土地申請農業設施之容許使用時，應檢附共有人之土地使用同意書；如無法取得全數共有人之土地使用同意書，依本會相關函釋說明得依土地法第34條之1規定辦理有案(請詳見本會102年農地管理政策及法規講習訓練教材5-7則)，合先敘明。\n三、至共有人倘擬以民法第820條所為之多數決分管證明書圖文件，作為共有人之土地使用同意書，則該文件應具體載明該共有人同意申請人得為農業設施使用之意思表示，始符合前開法令規定之要件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5280",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:50+08:00",
+   "source_key": "rmis:5280"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7faae8b9a9ed889a638471d144742fbb8dfa408e64c6c0cd27e939446ba50c32",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "「申請農業用地作農業設施容許使用審查辦法」第4條規定,應檢附土地使用同意書之疑義案。\n主旨:有關貴府函詢「申請農業用地作農業設施"
+  }
+ ]
+}

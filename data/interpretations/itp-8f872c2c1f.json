@@ -1,0 +1,64 @@
+{
+ "id": "itp-8f872c2c1f",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040224409號",
+ "date": "2015-07-02",
+ "date_text": "104/7/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函為民法不動產役權設定與農業用地興建農舍辦法適用疑義案，復請查照。",
+ "content": "一、復貴府104年6月25日府農輔字第1040089874號函。\n二、民法第851條規定：「稱不動產役權者，謂以他人不動產供自己不動產通行、汲水、採光、眺望、電信或其他以特定便宜之用為目的之權。」，其係為發揮不動產役權之功能，促進土地及其定著物之利用價值，藉由他人之不動產承受一定負擔以提高自己不動產利用價值。然其使用行為仍應符合相關法令所規範，並非設定不動產役權後，即得違法使用，先予敘明。\n三、有關已興建農舍之農業用地，得否設置私設通路一節，本會業以103年12月27日水保農字第1031830894號函暨104年1月22日水保農字第1041800708號函復貴府有案(正本諒達)。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3602",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:40+08:00",
+   "source_key": "rmis:3602"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "2629bf3222570f65639f730690a1a8c993346f6e02d8fe154f7af2439071bb9b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函為民法不動產役權設定與農業用地興建農舍辦法適用疑義案,復請查照。\n一、復貴府104年6月25日府農輔字第104008987"
+  }
+ ]
+}

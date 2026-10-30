@@ -1,0 +1,64 @@
+{
+ "id": "itp-98a39e5954",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第1036032618號",
+ "date": "2014-03-11",
+ "date_text": "103/3/11",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "有關貴院函詢花蓮縣壽豐鄉○○○地號耕地及其上方同段7建號農舍移轉為4人共有之疑義1案，請查照。",
+ "content": "一、復貴院103年3月3日花院美民日102訴89字第0822號函。\n二、按現行土地法規，並無限制耕地或農舍不得移轉為共有之規定；至於農舍係於農業發展條例89年修正前或後興建者，是否均有該條例第18條第4項規定之適用1節，因涉該條例規定之適用疑義，宜由法規主管機關行政院農業委員會表示意見。另具體登記案件之審查，依土地法第39條規定，係屬土地所在地之直轄市、縣(市)地政機關或其分設登記機關之業務權責，如有登記疑義，亦建請向該權責機關洽詢，以資便捷、明確。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3784",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:47+08:00",
+   "source_key": "rmis:3784"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "ac022f0d5d1df40ba6cdc1f7d1285119e0bb0c6270f9ba4aa1182b80ade16bbb",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地法規,並無限制耕地或農舍不得移轉為共有之規定;至於農舍係於農業發展條例89年修正前或後興建者,是否均有該條例第18條第4項規定之適用1節,因涉該條例規"
+  }
+ ]
+}

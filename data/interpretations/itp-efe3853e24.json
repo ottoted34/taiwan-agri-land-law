@@ -1,0 +1,62 @@
+{
+ "id": "itp-efe3853e24",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090234231號",
+ "date": "2020-08-13",
+ "date_text": "109/8/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關保留興建農舍權益或給予其他補償一案",
+ "content": "一、復貴局 109年8月6日路字第 1090017949號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、又農業用地興建農舍應依據農業用地興建農舍辦法(以下簡稱本辦法)辦理，依本辦法第 4條規定：「本條例中華民國 89年1月28日修正施行前取得之農業用地，有下列情形之一者，得準用前條規定申請興建農舍:一、依法被徵收之農業用地。但經核准全部或部分發給抵價地者，不適用之。二、依法為得徵收之土地，經土地所有權人自願以協議價購方式讓售與需地機關。．．．」，查其立法意旨，第 1項規定係為保障 89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益，以配合政府興辦公共事業，爰涉及農業用地徵收者，應依上開規定辦理。\n四、基於農舍應與農業經營不可分離，而非以保障其居住權利為主，且本條例修正前後取得農業用地之差異，係法律賦予之，而其授權辦法明文規定對於徵收案件，得賦予修正前取得之農業用地相關補償措施，爰對於修法後取得之農業用地，不論是否已興建農舍者均無法適用之。\n五、依案附資料，本案民眾係於 89年9月14日取得土地，應符合本辦法第 2條第 1項第 3款規定，申請興建農舍之該筆農業用地面積不得低於 0.25公頃。如考量原所有權人居住之權益保障等事宜，建議徵收單位仍應回歸土地徵收條例相關規定，研擬妥適作為，做好完善的安置計畫為宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4744",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:16+08:00",
+   "source_key": "rmis:4744"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "65342fea18d88b0db6d9b47cb7223fda7e218bee63218d1cfeb8c2a3ddcdd0f3",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業用地即可興建農舍,先予敘明。\n三、又農業用地興建農舍應依據農業用地興建農舍辦法(以下簡稱本辦法)辦理,依本辦法第 4條規定:「本條例中華民國 89年1月28日"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "..」,查其立法意旨,第 1項規定係為保障 89年1月28日農業發展條例修正生效前取得之農業用地興建農舍之既有權益,以配合政府興辦公共事業,爰涉及農業用"
+  }
+ ]
+}

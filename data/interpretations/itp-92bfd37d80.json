@@ -1,0 +1,58 @@
+{
+ "id": "itp-92bfd37d80",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990169596號",
+ "date": "2010-11-05",
+ "date_text": "99/11/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "○○有限公司申請退還溢繳之農地變更使用回饋金疑義案",
+ "content": "主旨：有關 貴府函詢○○有限公司申請退還溢繳之農地變更使用回饋金疑義案，復請查照。\n說明：\n一、復 貴府99年10月12日府農管字第0990399909號函。\n二、查都市計畫農業用地變更回饋金收取，係以變更或核准可建築使用面積為認定標準，考量其部分設施之設置不以建築為要件，且現行都市計畫法相關規定似未有核准可建築使用面積，故本會以99年4月13日農企字第0990121264號函示（諒達），於作業上應先徵詢目的事業主管機關有無核准可建築使用面積或訂定建蔽率規定據以核算，如未能查復確認，為求繳交標準之一致性，始參酌非都市土地同事業性質之變更規定。\n三、依上開函釋原則，本案仍應先行徵詢目的事業主管機關，有無核准可建築使用面積或建蔽率規定據以核計回饋金；倘未能查復確認，則因都市計畫係依據地方實際情況及發展特性，針對使用面積、使用條件等得予以不同程度管制，故有關回饋金之核算及涉及都市計畫之管制規範，仍請 貴府依權責核處。\n四、另查 貴府99年4月14日府農管字第0990136049號函，針對設置汽車運輸業停車場(站)繳交回饋金，已有核處個案在案，建請 貴府應考量類似個案核處情形，予以妥處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5389",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:21+08:00",
+   "source_key": "rmis:5389"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "3445f25aaa272f40a97c5bcb3135b6389122a422058bdf9f87390a61688b4865",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  }
+ ]
+}

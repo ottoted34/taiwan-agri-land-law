@@ -1,0 +1,60 @@
+{
+ "id": "itp-0a1ad828e1",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040228676號",
+ "date": "2015-08-12",
+ "date_text": "104/8/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關民眾申請以「農作物生產資材及日用品零售」作為農舍建築執照主要用途案，復請查照。",
+ "content": "一、復貴局104年7月24日新北農牧字第1041362913號函。\n二、按農舍係為農民輔助農業生產、經營而為便利其農事工作，於農業用地上興建之構造物，與一般家居住宅性質不同。爰農舍之使用以輔助農舍所有權人之農事工作與居住為主，非都市土地使用管制規則之「農舍」許可使用細目「農作物生產資材及日用品零售」應為次要之兼用用途，先予敘明。\n三、次按內政部「建築物使用類組及變更使用辦法」第二條附表二、建築物使用類組使用項目舉例，並無「農作物生產資材及日用品零售」項目。旨案民眾所詢，請卓處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4035",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:11+08:00",
+   "source_key": "rmis:4035"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "6e56bde79b56f36d06bfffbe06151b5a3330800adb5e9b64ca85661ef6a53afc",
+ "topics": [
+  "material_room",
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

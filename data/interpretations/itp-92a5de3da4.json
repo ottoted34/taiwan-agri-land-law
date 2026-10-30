@@ -1,0 +1,60 @@
+{
+ "id": "itp-92a5de3da4",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132620498號",
+ "date": "2025-01-06",
+ "date_text": "114/1/6",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關非都市土地容許使用及興辦事業計畫暨農業用地變更審查疑義案，復請查照。",
+ "content": "一、依據「農業發展條例」（下稱本條例）第3條第10款規定略以，農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地：（一）供農作、森林、養殖、畜牧及保育使用者。復依「非都市土地使用管制規則」第6條附表1規定，農牧用地倘已核准作公用事業設施在案者，則屬依法得作非農業使用性質之容許使用，已非本條例第3條第10款所稱農業用地之使用性質，爰此倘周邊土地變更使用，應無「農業主管機關同意農業用地變更使用審查作業要點」第5點所稱，申請變更範圍內夾雜未申請變更之農業用地且妨礙其農業經營之情形。\n二、惟考量本案該鐵柱桿面積狹小，業由經濟部113年3月22日經營字第11300563570號函同意辦理容許使用在案，且被申請變更為路外停車場使用之土地包圍夾雜，建議貴局請申請人將鐵柱桿坐落土地納入申請範圍，一併變更為特定目的事業用地，以利後續土地使用及管理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6038",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:32+08:00",
+   "source_key": "rmis:6038"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1ec9921c015eaef30b980eaf08e1401b781e5310dfa4415882c0d8ee5a623735",
+ "topics": [
+  "land_change",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "及興辦事業計畫暨農業用地變更審查疑義案,復請查照。\n一、依據「農業發展條例」(下稱本條例)第3條第10款規定略以,農業用地:指非都市土地或都市土地農業區、保"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "第10款所稱農業用地之使用性質,爰此倘周邊土地變更使用,應無「農業主管機關同意農業用地變更使用審查作業要點」第5點所稱,申請變更範圍內夾雜未申請變更之農業用地且妨礙其農業經營之情形。\n二、"
+  }
+ ]
+}

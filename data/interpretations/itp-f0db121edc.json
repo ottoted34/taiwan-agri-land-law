@@ -1,0 +1,63 @@
+{
+ "id": "itp-f0db121edc",
+ "doc_class": "interpretation",
+ "docno": "農企字第1070731459號",
+ "date": "2018-11-23",
+ "date_text": "107/11/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關已取得使用執照之農舍，擬變更部分面積供農糧產品加工室使用疑義案，復如說明，請查照。",
+ "content": "一、復貴府107 年11 月12 日南市農務字第1071259536 號函。\n二、有關貴府函示後壁區公所於107 年8 月23 日以所農字第1070552471號函請本會釋示案，本會查無相關來文紀錄，先予敘明。\n三、查「農舍」係提供有心經營農業者於該農地上興建具有放置農機具兼具居住需求，且需有積極農用之事實，並依據「農業用地興建農舍辦法」規定辦理；至如農業生產需要之「農業設施」，應依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)規定辦理，且不得作為住宅、工廠或其他非農業使用。故二者性質不同，依據之法源規定亦有別，併予敘明。\n四、依非都市土地使用管制規則第6條附表一規定，農舍許可使用細目包括「農舍及農舍附屬設施」、「農產品之零售」、「農作物生產資材及日用品零售」及「民宿」等四項。惟農產品加工即非屬農舍許可使用細目，本案倘擬於農業用地上辦理農產品加工行為，應依容許辦法之農作產銷設施附表規定，申請設置「農糧產品加工室」以為合法使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4511",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:55+08:00",
+   "source_key": "rmis:4511"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1cf239a825551f63b1e985987ab0ce5c5ebf7703ef6d85992887bc30d1a92541",
+ "topics": [
+  "partial_use",
+  "material_room",
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建具有放置農機具兼具居住需求,且需有積極農用之事實,並依據「農業用地興建農舍辦法」規定辦理;至如農業生產需要之「農業設施」,應依「申請農業用地作農業設施容許使用審"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "興建農舍辦法」規定辦理;至如農業生產需要之「農業設施」,應依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)規定辦理,且不得作為住宅、工廠或其他非農業使用。故二者性質不"
+  }
+ ]
+}

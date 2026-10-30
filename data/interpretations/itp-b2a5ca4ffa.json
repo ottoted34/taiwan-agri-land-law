@@ -1,0 +1,64 @@
+{
+ "id": "itp-b2a5ca4ffa",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020227000號",
+ "date": "2013-08-26",
+ "date_text": "102/8/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關基隆市政府為民眾陳情集村興建農舍坐落建築基地及配合耕地平均坡度超過30%以上之疑義一案，復請查照。",
+ "content": "一、復貴署102年8月9日營署綜字第1022916003號函。\n二、有關貴署建議農業用地興建農舍辦法修正後山坡地範圍內農業用地可供作為興建農舍用地之辦理原則，得回歸建築技術規則相關規定辦理一節，因屬建築管理事項，本會尊重貴署決定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3697",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:47+08:00",
+   "source_key": "rmis:3697"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "158318d0a5ab3029faa367b52959e2a8bb47d280870d8cb91a452086b4861a85",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月9日營署綜字第1022916003號函。\n二、有關貴署建議農業用地興建農舍辦法修正後山坡地範圍內農業用地可供作為興建農舍用地之辦理原則,得回歸建築技術規則相關"
+  }
+ ]
+}

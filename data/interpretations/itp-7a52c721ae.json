@@ -1,0 +1,59 @@
+{
+ "id": "itp-7a52c721ae",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152606166號",
+ "date": "2026-06-01",
+ "date_text": "115/6/1",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農業用地申請農業設施涉及基地填土管理權責及審查方式疑義案，復請查照。",
+ "content": "一、農地改良之目的係為農作生產使用，倘農地確為農業使用目的而有改良需求者，其填土土質，應符合農業發展條例施行細則第2條之1規定，貴府定有彰化縣辦理農業用地申請改良作業要點據以執行。\n二、至取得容許使用之農業設施，依農業發展條例第8條之1第2項規定，應依法申請建築執照，故農業設施之建築基礎有回填固化材料以穩固設施者，該回填材料應符合建築法相關規定，且僅得於設施建築範圍內為之，與前開為從事農業耕種進行農地土壤改良有別。是以，針對農業設施之建築基礎倘有涉及填土之情形，是否符合建築法相關規定，宜洽貴府建築主管機關審認。\n三、又免申請建築執照之農業設施，係屬無固定基礎或面積未達45平方公尺且屬1層樓之建築，其規模及土地使用強度較低，故該等農業設施基礎宜以地基夯實之方式處理，並以挖填平衡為原則，故無須有土方回填之情形。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6067",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:46:46+08:00",
+   "source_key": "rmis:6067"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8639964c8eb7c967b231e479d8be09fc986fd234cf539be8ec5158c32f9d0bb2",
+ "topics": [
+  "landfill",
+  "container"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "2-1",
+   "kind": "extracted",
+   "snippet": "用,倘農地確為農業使用目的而有改良需求者,其填土土質,應符合農業發展條例施行細則第2條之1規定,貴府定有彰化縣辦理農業用地申請改良作業要點據以執行。\n二、至取得容許使用之"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "申請改良作業要點據以執行。\n二、至取得容許使用之農業設施,依農業發展條例第8條之1第2項規定,應依法申請建築執照,故農業設施之建築基礎有回填固化材料以穩固設施者,"
+  }
+ ]
+}

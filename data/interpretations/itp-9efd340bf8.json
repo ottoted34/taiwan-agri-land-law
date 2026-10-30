@@ -1,0 +1,53 @@
+{
+ "id": "itp-9efd340bf8",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140207694號",
+ "date": "2025-03-06",
+ "date_text": "114/3/6",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢已核予特定工廠登記之○○○座落於吉安鄉○○○地號為特定農業區農牧用地，該用地為農舍之配合耕地得否申請變更編定為特定目的事業用地疑義案，復請查照。",
+ "content": "一、有關「農業發展條例」89年修正施行前後之農舍興建條件及建築管理規範不同，且修法前已興建農舍之坐落用地與配合耕地之土地權屬已有多種樣態，鑑於時空背景及所依據之法令不同，農舍及其配合耕地常有分屬不同人之情形，爰針對修法前已興建農舍之坐落用地及配合耕地，倘有配合耕地擬申請變更為非農業用地者，查改制前行政院農業委員會112年5月17日農企字第1120217908號函已說明審認原則，並提供內政部相關審酌原則有案，且該部112年6月29日台內地字第1120263528號通函（諒達）略以：「說明三、…（三）倘屬已興建農舍之配合耕地，且配合耕地與農舍屬同一人所有者，其配合耕地之部分或全部擬變更使用，應符合農業經營面積90%以上之原則，方予同意。倘屬已興建農舍之配合耕地，且配合耕地與農舍分屬不同人所有者，其配合耕地符合變更使用相關規定者，得予同意」。\n二、綜上，旨案申請變更編定為特定目的事業用地，倘為農舍之配合耕地且與農舍已分屬不同人所有，請貴府參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6040",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:28+08:00",
+   "source_key": "rmis:6040"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "11ae1ddc44a8ed8d3a0eff758115b40de0453ab4f2238429bf935bca84fe47a2",
+ "topics": [
+  "land_change",
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "否申請變更編定為特定目的事業用地疑義案,復請查照。\n一、有關「農業發展條例」89年修正施行前後之農舍興建條件及建築管理規範不同,且修法前已興建農舍之坐落用地"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": "itp-dc1e472282",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970990470號",
+ "date": "2008-09-24",
+ "date_text": "97/9/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋都市計畫農業區申請設置臨時路外停車場，繳交農業用地變更回饋金得否分期繳納案。",
+ "content": "主旨：有關○○公司陳情於都市計畫農業區申請設置臨時路外停車場，繳交農業用地變更回饋金得否分期繳納一案，復請 查照。\n說明：\n一、復 貴聯合服務處97年9月18日○○字第○○○○○號函。\n二、依農業發展條例第10條及第12條規定，農業用地於劃定或變更為非農業使用時，應視其事業性質繳交回饋金，本會並依據同條例第12條第3項之授權規定，訂有「農業用地變更回饋金撥繳及分配利用辦法」之規定，規範回饋金之繳交基準及繳交方式等。按「農業用地變更回饋金撥繳及分配利用辦法」第5條第2款規定，申請農業用地變更使用之申請人，所應繳納之回饋金，應繳納之時限，屬都市計畫土地者，應於直轄市或縣(市)政府同意變更時繳納。換言之，○○有限公司於都市計畫農業區申請設置臨時路外停車場，應於縣政府核准設置前，即繳納農業用地變更回饋金，該府始能同意核准該農業用地變更作臨時路外停車場之非農業使用，查並無得同意分期繳納農業用地變更回饋金之相關法令規範。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5079",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:45+08:00",
+   "source_key": "rmis:5079"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "5",
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "275eb42b8e31999d87ea369ed5beb3c97af7cd6cc2d344b5fda93ce9467c5b1f",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "貴聯合服務處97年9月18日○○字第○○○○○號函。\n二、依農業發展條例第10條及第12條規定,農業用地於劃定或變更為非農業使用時,應視其事業性質繳交回饋金,本"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "及分配利用辦法」之規定,規範回饋金之繳交基準及繳交方式等。按「農業用地變更回饋金撥繳及分配利用辦法」第5條第2款規定,申請農業用地變更使用之申請人,所應繳納之回饋金,應繳納之時限,屬都市"
+  }
+ ]
+}

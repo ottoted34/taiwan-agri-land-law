@@ -1,0 +1,60 @@
+{
+ "id": "itp-3738b6f584",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990133931號",
+ "date": "2010-06-02",
+ "date_text": "99/6/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地存在水泥固定物(田埂)，於受理核發農業用地作農業使用證明書，是否應請申請人補辦水泥田埂之農業用地作農業設施容許使用同意書案。",
+ "content": "主旨：有關農業用地存在水泥固定物(田埂)，於受理核發農業用地作農業使用證明書，是否應請申請人補辦水泥田埂之農業用地作農業設施容許使用同意書案，請 查照轉知。\n說明：\n一、依據彰化縣政府99年5月18日府農務字第0990120655號函辦理。\n二、有關農業用地存在水泥固定物(田埂)，申請核發農業用地作農業使用證明書，查本會於98年3月24日農企字第0980113499號(如附)函釋，說明略以：「農業用地除農舍及農業設施外，原則上應不宜有與農業經營無關之水泥構造物，俾免影響農業用地之經營利用。惟旨揭水泥固定物(田埂)倘為地區農業經營之特性，且有作為農地界址分隔之必要者，...得視為農業設施-其他農作產銷之許可使用細目，並依規定申請核發農業用地作農業設施容許使用同意書後，審核發給農業用地作農業使用證明書。」有案。\n三、惟鑒於農業用地上存在作為田區經營界限使用之水泥田埂，為部份地區農業經營之普遍情形，其可改善農業生產環境、提昇農地經營效率，故針對確實作農業使用之農業用地，於受理核發農業用地作農業使用證明書時，農業用地上已存在寬度30公分、田區土面算起高度30公分以下之水泥田埂，作為農地界址分隔者；或由政府機關補助施設之水泥田埂有案者，得視為已取得農業設施容許使用同意書，無須再由申請人另案申請水泥田埂之農業設施容許使用，以簡化行政作業。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5418",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:57+08:00",
+   "source_key": "rmis:5418"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "cf2cdc45bfde9a347060b6353804cefca0a089f1eb116f81ed88be69809b1ec8",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

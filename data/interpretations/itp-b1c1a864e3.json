@@ -1,0 +1,48 @@
+{
+ "id": "itp-b1c1a864e3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030200286號",
+ "date": "2014-01-15",
+ "date_text": "103/1/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農地未經申請許可填土，民眾質疑恐造成污染，地方政府應如何管制及審認之疑義案。",
+ "content": "主旨：有關貴府函詢農地未經申請許可填土，民眾質疑恐造成污染，地方政府應如何管制及審認之疑義案，復請查照。\n說明：\n一、復貴府103年1月2日府農農字第1030001053號函。\n二、有關農業用地之填土，應為適合種植農作物之土壤，不得為砂、石、磚、瓦、混凝土塊、營建剩餘土石方或其他有害物質等。至農業用地從外地移入土石回填並整地種植農作物之處理，應就個案事實就農地立地條件是否確有進行回填土石之改良必要，土石回填施作是否符合農業生產之合理需求及最終使用目的確供農業使用等方面綜合研判等審認原則，查前經本會多次函釋在案(如本會97年3月11日農企字第0970010646號函及100年4月7日農企字第1000118756號函等諒達)，請惠予查參。\n三、有關農業用地倘已回填土方，貴府基於行政審查之需要，除依前開原則審查外，擬依行政程序法第40條規定：「行政機關基於調查事實及證據之必要，得要求當事人或第三人提供必要之文書、資料或物品。」另要求行為人依行政院環境保護署102年8月16日環署土字第1020071220號函示，檢具該署認證之檢測機構以該署環境檢驗所公告之標準土壤採樣及重金屬檢測方法進行採樣之檢測報告等佐證文件，作為裁量審認之參，應屬適法。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4790",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:44+08:00",
+   "source_key": "rmis:4790"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b2561f2aadc8a8244b295dfb99ee1876912ca6d43247e97a2ec3e409d36879a6",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

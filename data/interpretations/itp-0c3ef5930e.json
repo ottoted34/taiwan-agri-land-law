@@ -1,0 +1,54 @@
+{
+ "id": "itp-0c3ef5930e",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041821197號",
+ "date": "2015-12-31",
+ "date_text": "104/12/31",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局函為申請興建農舍受理時間之認定疑義案，復請查照。",
+ "content": "一、復貴局104年12月24日桃農管字第1040033249號函。\n二、依中央法規標準法第18條規定：「各機關受理人民聲請許可案件適用法規時，除依其性質應適用行為時之法規外，如在處理程序終結前，據以准許之法規有變更者，適用新法規。但舊法規有利於當事人而新法規未廢除或禁止所聲請之事項者，適用舊法規。」，農業用地興建農舍辦法業於104年9月6日修正公布施行，於修正生效日後始提出興建農舍申請者，須依修正後規定辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3984",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:05+08:00",
+   "source_key": "rmis:3984"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "24f8f15fd489308498f7ccd62e0f2f3d2c1c6ea5893dbca53f120126133d3ef2",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "於當事人而新法規未廢除或禁止所聲請之事項者,適用舊法規。」,農業用地興建農舍辦法業於104年9月6日修正公布施行,於修正生效日後始提出興建農舍申請者,須依修正後"
+  }
+ ]
+}

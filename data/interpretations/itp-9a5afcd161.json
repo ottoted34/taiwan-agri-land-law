@@ -1,0 +1,65 @@
+{
+ "id": "itp-9a5afcd161",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040221253號",
+ "date": "2015-06-15",
+ "date_text": "104/6/15",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾於非都市土地農牧用地或都市計畫農業區所容許使用項目「農舍」建築物內經營「特定寵物業管理辦法」之寵物業，進行特定寵物繁殖、買賣及寄養之行為案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴所104年6月4日動植防一字第1040002336號函。\n二、依非都市土地使用管制規則第6條附表一規定，農舍許可使用細目包括「農舍及農舍附屬設施」、「農產品之零售」、「農作物生產資材及日用品零售」及「民宿」等四項，本案民眾利用農舍進行特定寵物繁殖、買賣及寄養之行為，非屬前揭農舍許可使用細目範圍。\n三、次依內政部營建署97年7月25日台內營字第0970805732號函略以：「...查『都市計畫法臺灣省施行細則』第29條，僅規定農業區申請興建農舍須符合之相關規定，而未明訂農舍允許使用細目。經洽詢行政院農業委員會釋示略以，依農舍性質及農業發展條例立法意旨觀之，農舍之管制標準及其可容許使用之內容，應不因土地為非都市土地或都市計畫農業區土地而所不同。」，本案是否符合都市畫法臺灣省施行細則規定，請貴所逕洽內政部營建署辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3911",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:11+08:00",
+   "source_key": "rmis:3911"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "19eba7187471ce9ced4df8380bca8be8c9a009f04e0eebbec734027c3db77fc4",
+ "topics": [
+  "material_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "舍允許使用細目。經洽詢行政院農業委員會釋示略以,依農舍性質及農業發展條例立法意旨觀之,農舍之管制標準及其可容許使用之內容,應不因土地為非都市土地或都市計"
+  }
+ ]
+}

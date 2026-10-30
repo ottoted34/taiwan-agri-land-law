@@ -1,0 +1,73 @@
+{
+ "id": "itp-b9ed5b00a1",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0980050870號",
+ "date": "2009-09-04",
+ "date_text": "98/9/4",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "為農業發展條例修正後之農業用地興建農舍已領得使用執照，建築物所有權為二人共有，得否申請增編門牌增加戶數乙案，復請查照。",
+ "content": "一、復貴府98年7月29日府工使字第0980179398號函。\n二、「按實施區域計畫地區，申請自用農舍以同一戶自用為限，為本部81年8月17日台(81)內營字第8104300號函所明釋。本案農業發展條例修正前之農業用地興建農舍已領得使用執照者，仍應符合上開規定，不得增編門牌增加戶數。」本署93年7月29日營署建管字第0930046961號函已有明示。本案農業發展條例修正後之農業用地興建農舍已領得使用執照，建築物所有權為二人共有，參照上開函示規定，應不得增編門牌增加戶數。\n三、至學校內建造數棟有連帶使用性之建築物，該數棟建築物於臨接其他道路部分，是否可申請增編門牌增加戶數乙節，涉關戶政單位權責，副本抄送本部戶政司請卓處逕復。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4519",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:47+08:00",
+   "source_key": "rmis:4519"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "09ca50878616b3b9a4c9a7aec1266dfdeb2fdd91de56ba943593ff20ed485946",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "為農業發展條例修正後之農業用地興建農舍已領得使用執照,建築物所有權為二人共有,得否申請增編門牌"
+  }
+ ]
+}

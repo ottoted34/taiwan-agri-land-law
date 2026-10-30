@@ -1,0 +1,54 @@
+{
+ "id": "itp-7b835891b4",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1041866479號",
+ "date": "2015-10-21",
+ "date_text": "104/10/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "檢送興建農舍經營計畫書格式1份，請查照。",
+ "content": "一、「農業用地興建農舍辦法」(以下簡稱本辦法)業於104年9月4日修正發布施行，增列申請興建農舍之農民認定，及申請人應檢附依中央主管機關訂定之經營計畫書格式，以供直轄市、縣(市)政府審認確供農業使用與不影響農業生產環境及農村發展等事項。\n二、有關興建農舍經營計畫書格式業經本會邀集相關單位研商訂定，並提供審查參考原則供貴府參考，貴府得依轄內農業生產環境條件、區域特色、自治規定及個案情形予以審查。另為配合本辦法修正，一併檢送申請興建農舍之申請人資格條件審查表供參，貴府得自行調整業務分工及依相關自治法規增訂審查項目。\n三、另有關本辦法第3條之1規定，申請人應檢附農業生產相關佐證資料一節，請申請人應檢附下列證明文件之一，且為申請日往前至少二年內每年之農業生產佐證資料：\n(一)領取農業天然災害救助之證明文件。\n(二)領取調整耕作制度活化農地計畫轉(契)作補貼之證明文件(不含休耕給付)。\n(三)繳售公糧稻穀之證明文件。\n(四)接受農政相關補助計畫之證明文件(不含人力培訓類)。\n(五)銷售自產農產品相關證明文件或單據：最低額度以每0.1公頃農產品銷售每年新臺幣30,600元為基數，再依申請農業用地之面積倍數比例調整。\n(六)農產品通過有機、產銷履歷或優良農產品驗證，或取得產地證明標章等有效期間內之證明文件。\n(七)其他從事農業生產事實之證明文件。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2921",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:05+08:00",
+   "source_key": "rmis:2921"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fde96ea2fac3ccdc0a015354558f2977aef03852bcf42e7ebbd7cc1499c14460",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "檢送興建農舍經營計畫書格式1份,請查照。\n一、「農業用地興建農舍辦法」(以下簡稱本辦法)業於104年9月4日修正發布施行,增列申請興建農舍之農民認定,"
+  }
+ ]
+}

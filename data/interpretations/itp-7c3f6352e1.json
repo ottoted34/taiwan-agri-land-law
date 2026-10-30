@@ -1,0 +1,54 @@
+{
+ "id": "itp-7c3f6352e1",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051814653號",
+ "date": "2016-12-09",
+ "date_text": "105/12/9",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關興建農舍將水保滯洪沉砂池及排放流管設施埋設於地面下，可否免計入農舍建築開發面積，復如說明，請查照。",
+ "content": "一、復貴府產業發展局105年11月22日北市產業農字第10533720410號函。\n二、依據農業用地興建農舍辦法第8條第3項，農舍用地面積為法定基層建築面積，且為農舍與農舍附屬設施之水平投影面積用地總和；農業經營用地面積為申請興建農舍之農業用地扣除農舍用地之面積，合先敘明。\n三、旨揭設施之設置用途倘為興建農舍所需，似屬農舍附屬設施，不論其設置於地面上或地面下，均應依上開規定計入農舍用地面積。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3263",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:19+08:00",
+   "source_key": "rmis:3263"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5f44722b8972d7a00303acbe4eaf7c407b48e5550a334cf642333fd180745d9a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "月22日北市產業農字第10533720410號函。\n二、依據農業用地興建農舍辦法第8條第3項,農舍用地面積為法定基層建築面積,且為農舍與農舍附屬設施之水平投影面積用地"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "tech-e0b728349de9",
+ "source_key": "datamoa:740:32be4d88d1f5d815",
+ "title": "有機栽培作物之病害管理技術",
+ "series": "技術專刊",
+ "issue": "技術專刊94-2(NO.131)",
+ "agency_id": "tndais",
+ "authors": "鄭安秀、陳紹崇、吳雅芳、彭瑞菊",
+ "date": "2005-08",
+ "url": "http://book.tndais.gov.tw/Brochure/tech131.pdf",
+ "isbn": null,
+ "gpn": "1009402167",
+ "pages": "9頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊94-2(NO.131)",
+  "題目": "有機栽培作物之病害管理技術",
+  "作者": "鄭安秀、陳紹崇、吳雅芳、彭瑞菊",
+  "出版日期年月": "09408",
+  "頁數": "9頁",
+  "定價": "30",
+  "政府出版品編號GPN": "1009402167",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech131.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech131.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T10:26:45+08:00"
+  }
+ ],
+ "content_hash": "4494567353a3ab341eba7553c25cb45b672d74f46960c26786b5bc89a11928de",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": [
+  "mgmt",
+  "pest"
+ ]
+}

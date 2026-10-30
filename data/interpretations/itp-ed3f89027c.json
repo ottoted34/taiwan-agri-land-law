@@ -1,0 +1,64 @@
+{
+ "id": "itp-ed3f89027c",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1020230799號",
+ "date": "2013-10-25",
+ "date_text": "102/10/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關「農業用地興建農舍辦法」修正後加強審核及監督管理案之建議事項，復請查照。",
+ "content": "一、復貴府102年9月9日屏府農企字第10226930800號函。\n二、為導正農舍發展現況影響農業生產環境與農村發展，及未能落實立法原意之情形，內政部會同本會召開多次研商會議並徵詢各部會、各直轄市、縣(市)政府及民間團體意見，辦理農業用地興建農舍辦法之修正，並已於102年7月1日發布施行，本次修正條文已相當程度限縮農舍興建資格，貴府倘尚有實務執行疑義，本會將納入後續修法研參。\n三、另有關農舍周邊農業使用之認定，本會對於農業使用及農業設施申請容許使用等訂定之法規或相關解釋均屬明確，足供各直轄市、縣(市)政府據以作為個案審認之參處。惟農業使用態樣多元，且因所在地區、環境等條件不同而異，難以設計統一適用之標準農舍範本，貴府倘認為有必要訂定，得在不違背法律及中央法規前提下，因應貴轄自然環境與農業發展條件差異，自行因地制宜訂定規範。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3708",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:53+08:00",
+   "source_key": "rmis:3708"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "cd4bcea1f115fcbd46e8095bef1c6d11a0d9e818e1721a5b6e7b010dc1452c9c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關「農業用地興建農舍辦法」修正後加強審核及監督管理案之建議事項,復請查照。\n一、復貴府102年9月9日屏府"
+  }
+ ]
+}

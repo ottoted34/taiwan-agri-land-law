@@ -1,0 +1,68 @@
+{
+ "id": "itp-ac97b4c71f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970163382號",
+ "date": "2008-11-12",
+ "date_text": "97/11/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋「促進民間參與興建高雄縣○○地區五星級度假旅館案」是否應繳納農業用地變更回饋金之執行疑義案。",
+ "content": "主旨：有關　貴府受理「促進民間參與興建高雄縣○○地區五星級度假旅館案」是否應繳納農業用地變更回饋金之執行疑義一案，復請　查照。\n說明：\n一、復　貴府97年11月6日府農務字第○○○○○號函。\n二、依農業發展條例第12條第1項規定，屬農業用地之變更，應視其事業性質，繳交回饋金，以供農業發展及農民福利之用；除有符合第4項之例外規定者，原則上均應依規定繳交。至第4項第1款所稱之「政府興辦之公共建設及公益性設施」，業已限定應屬「政府興辦」之各項「公共建設及公益性設施」者，方能適用之。依來函檢附之交通部觀光局97年10月29日觀旅字第0970029140號函，說明旨揭興辦事業計畫案申請單位為○○股份有限公司，主要事業項目為觀光旅館業，復依　貴府來函所述，本案雖屬BOT案件，但申請人為民間機構，故本案未符「政府興辦」之公共建設及公益性設施之要件。爰此，應請申請人○○股份有限公司依農業用地變更回饋金撥繳及分配利用辦法之規定，繳交農業用地變更回饋金。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5077",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:33+08:00",
+   "source_key": "rmis:5077"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "252bde54ca30b91c9b25a567a0c92d68b6b4bec39b16b75c5e316aba733ab77b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "、復 貴府97年11月6日府農務字第○○○○○號函。\n二、依農業發展條例第12條第1項規定,屬農業用地之變更,應視其事業性質,繳交回饋金,以供農業發展及農民福利"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "共建設及公益性設施之要件。爰此,應請申請人○○股份有限公司依農業用地變更回饋金撥繳及分配利用辦法之規定,繳交農業用地變更回饋金。"
+  }
+ ]
+}

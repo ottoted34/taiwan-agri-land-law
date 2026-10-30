@@ -1,0 +1,95 @@
+{
+ "id": "itp-39c24d52a5",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010131232號",
+ "date": "2012-11-13",
+ "date_text": "101/11/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "集村興建農舍申請核發農業用地作農業使用證明書疑義案。",
+ "content": "主旨：有關 貴府函詢集村興建農舍申請核發農業用地作農業使用證明書疑義案，復請 查照。\n\n說明：\n一、復 貴府101年10月31日府農務字第1010122053號函。\n二、查集村興建農舍之意旨，係參酌引用土地發展權觀念，使所有權人間之土地使用權利，得透過農業用地興建農舍辦法之設計機制進行交換移轉以集中興建，達到保護農業生產環境與確保生活品質之目的，故農舍與其配合耕地之使用應有密不可分之關聯性。又依農業發展條例第18條第4項規定，農舍應與其坐落用地併同移轉或併同設定抵押權，而集村興建農舍係將農舍興建之權利移轉至他宗農業用地上集合興建，故起造人提供申請興建農舍之各宗農業用地(含配合耕地)均屬該農舍之坐落用地(使用執照上之坐落基地欄亦有登載)，依上開規定，兩者應併同移轉或併同設定抵押權，本會92年8月1日農授水保字第0921847088號函及97年3月31日農授水保字第0971805629號函均有明示。\n三、綜上，集村農舍申請核發農業用地作農業使用證明書時，自不宜就該農舍坐落之農舍用地或其配合耕地(二者同屬該農舍之坐落用地)分別核發上開證明書，俾符上開法令規定及相關函釋意旨。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5338",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:48+08:00",
+   "source_key": "rmis:5338"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "ab68138451389bd00cc7362a8b40812818d7c7a36265ac86cf306401f983a43f",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "係參酌引用土地發展權觀念,使所有權人間之土地使用權利,得透過農業用地興建農舍辦法之設計機制進行交換移轉以集中興建,達到保護農業生產環境與確保生活品質之目的,故農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "質之目的,故農舍與其配合耕地之使用應有密不可分之關聯性。又依農業發展條例第18條第4項規定,農舍應與其坐落用地併同移轉或併同設定抵押權,而集村興建農舍係將農舍興"
+  }
+ ]
+}

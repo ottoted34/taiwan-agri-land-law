@@ -1,0 +1,79 @@
+{
+ "id": "itp-1073da6910",
+ "doc_class": "interpretation",
+ "docno": "營署綜字第1040012070號",
+ "date": "2015-03-10",
+ "date_text": "104/3/10",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "有關○○○函詢貴縣瑞穗鄉○○○地號土地(重測後變更為○○○地號)繼承人得否依農業用地興建農舍辦法第4條第1、2項規定，於讓售移轉登記完畢後3年內，重新購置農地，申請農民資格審查興建農舍1案，復請查照。",
+ "content": "一、復貴府104年2月16日府農保字第1030247465號函。\n二、查依農業發展條例第18條及農業用地興建農舍辦法相關規定，興建農舍應僅得於農業用地申請，惟本案依貴府首揭函說明及所附資料，○○○於82年8月20日繼承取得旨揭筆土地時係屬學校用地，已非農業用地。爰本案建議貴府應先確認申請人繼承取得土地時(即繼承原因發生日)之土地使用分區，如屬都市土地農業區，方適用本辦法規定。\n三、至有關旨案貴府請本署釋示是否符合「依法得為徵收」之要件1節，因本署非土地徵收法令之主管機關，爰請貴府依本部地政司102年10月23日內地司字第1020324299號書函(如附件)辦理，如有疑義請洽本部地政司釐清。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3319",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:10+08:00",
+   "source_key": "rmis:3319"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "4",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "8a463f33624d85c1f556243a71689189e75e35ee52bf10b31ecf5d4a45ccc378",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "縣瑞穗鄉○○○地號土地(重測後變更為○○○地號)繼承人得否依農業用地興建農舍辦法第4條第1、2項規定,於讓售移轉登記完畢後3年內,重新購置農地,申請農民資格審查興建農"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "4年2月16日府農保字第1030247465號函。\n二、查依農業發展條例第18條及農業用地興建農舍辦法相關規定,興建農舍應僅得於農業用地申請,惟本案依貴府首揭函"
+  }
+ ]
+}

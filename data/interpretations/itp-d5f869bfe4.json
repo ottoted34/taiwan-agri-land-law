@@ -1,0 +1,66 @@
+{
+ "id": "itp-d5f869bfe4",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960133462號",
+ "date": "2007-06-22",
+ "date_text": "96/6/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "059 釋法院拍賣農業用地後，申請核發農業用地作農業使用證明書事宜案",
+ "content": "一、查農業用地作農業使用證明書之申請人得為土地所有權人、承受人或其他權利關係人，本案土地經法院拍賣，原土地所有權人或拍定人為申請退還法院預為扣繳之土地增值稅，依規定申請核發該筆土地之農業用地作農業使用證明書，並無不可；至該土地增值稅究應退還予原土地所有權人或拍定人，應由稅捐稽徵主管機關依法核處。\n二、另「依『農業用地作農業使用認定及核發證明辦法』核發之證明書，如因勘查之疏忽或其他原因，致核發錯誤，自得撤銷其證明書...」本會89年8月29日(89)農企字第890142997號函釋（諒達）有案。因此，本案原核發之農業用地作農業使用證明書是否核發有誤，而需予以撤銷一節，宜請本於權責核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4946",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:20:35+08:00",
+   "source_key": "rmis:4946"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "1894414eeecfa5d0a4e6e6c248a95bd866138453d62e5f6480651e598e6f7826",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "所有權人或拍定人,應由稅捐稽徵主管機關依法核處。\n二、另「依『農業用地作農業使用認定及核發證明辦法』核發之證明書,如因勘查之疏忽或其他原因,致核發錯誤,自得撤銷其證明書...」本會"
+  }
+ ]
+}

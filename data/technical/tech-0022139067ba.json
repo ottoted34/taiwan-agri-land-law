@@ -1,0 +1,46 @@
+{
+ "id": "tech-0022139067ba",
+ "source_key": "datamoa:740:d906dff873b97641",
+ "title": "臺灣香草植物品種圖鑑",
+ "series": "技術專刊",
+ "issue": "技術專刊92-4(NO.124)",
+ "agency_id": "tndais",
+ "authors": "張元聰、王仕賢、王裕權",
+ "date": "2003-12",
+ "url": "http://book.tndais.gov.tw/Brochure/tech124.pdf",
+ "isbn": "957-01-6236-8",
+ "gpn": "1009204451",
+ "pages": "76頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊92-4(NO.124)",
+  "題目": "臺灣香草植物品種圖鑑",
+  "作者": "張元聰、王仕賢、王裕權",
+  "出版日期年月": "09212",
+  "頁數": "76頁",
+  "定價": "110",
+  "政府出版品編號GPN": "1009204451",
+  "ISBN": "957-01-6236-8",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech124.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech124.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T10:26:45+08:00"
+  }
+ ],
+ "content_hash": "ba139cffe316b152c9122f6cb9b7f0447abb8dfad6d075b10de1e12c9eb549c7",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": [
+  "special"
+ ]
+}

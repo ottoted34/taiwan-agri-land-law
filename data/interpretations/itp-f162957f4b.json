@@ -1,0 +1,70 @@
+{
+ "id": "itp-f162957f4b",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1020237439號",
+ "date": "2013-11-13",
+ "date_text": "102/11/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴署函現有農舍擬變更原提供該筆興建農舍配合耕地適法性疑義案，本會意見如說明，復請查照。",
+ "content": "一、依據立法委員蔡○○國會辦公室102年11月8日傳真辦理，兼復貴署102年10月31日營署建管字第1020069847號函。\n二、農業用地興建農舍辦法業於102年7月1日修正發布，該辦法第12條針對已申請興建農舍領有使用執照之農業用地申請解除套繪管制已有明文規定，然條文並未規範變更配合耕地事宜，有關變更配合耕地一節，本會認為倘配合興建農舍之農業用地得予以取代，例如興建集村農舍之情形者，將產生相關土地管理與權利義務劃分之疑義，不可不慎。\n三、至如屬農業發展條例89年修正前依「臺灣省申請自用農舍補充注意事項」規定，以10公里範圍內之耕地合併申請興建農舍領得使用執照之案件，鑒於時空背景不同，貴署依該農舍申請興建當時之法令檢討，本會無意見，至於是類案件之相關變更檢討程序得否不受修正後農業用地興建農舍辦法規範，建議貴署邀集相關單位討論，以進一步釐清。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3309",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:20+08:00",
+   "source_key": "rmis:3309"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "d9aaa61a7778900c45f92a470e5110747a6bbce7b1058c7e405f3a01b8c66e9c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "2年10月31日營署建管字第1020069847號函。\n二、農業用地興建農舍辦法業於102年7月1日修正發布,該辦法第12條針對已申請興建農舍領有使用執照之農業"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "產生相關土地管理與權利義務劃分之疑義,不可不慎。\n三、至如屬農業發展條例89年修正前依「臺灣省申請自用農舍補充注意事項」規定,以10公里範圍內之耕地合併"
+  }
+ ]
+}

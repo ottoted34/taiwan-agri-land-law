@@ -1,0 +1,58 @@
+{
+ "id": "itp-c803a374ce",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132611517號",
+ "date": "2024-08-06",
+ "date_text": "113/8/6",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢民眾陳情興建農舍之用地面積疑義案，復請查照。",
+ "content": "一、查「農業用地興建農舍辦法」(下稱本辦法)第4條第1項規定，「農業發展條例（下稱本條例）中華民國89年1月28日修正施行前取得之農業用地，有下列情形之一者，得準用前條規定申請興建農舍:一、依法被徵收之農業用地。但經核准全部或部分發給抵價地者，不適用之。二、依法為得徵收之土地，經土地所有權人自願以協議價購方式讓售與需地機關」。查其立法意旨，係為保障89年1月28日本條例修正生效前取得之農業用地興建農舍之既有權益，以配合政府興辦公共事業，爰涉及農業用地徵收者，應依上開規定辦理，有關依法被徵收或協議價購，計算方式並無二致。\n二、又本辦法第4條第2項規定，「前項土地所有權人申請興建農舍，以自完成徵收所有權登記後30日起或完成讓售移轉登記之日起3年內，於同一直轄市、縣(市)內取得農業用地並提出申請者為限，其申請面積並『不得超過原被徵收或讓售土地』之面積。」，是以，依本辦法第4條規定，於同一直轄市、縣(市)內重新購置或取得土地，申請興建農舍者，其申請面積不得超過原被徵收或讓與土地之面積，故其農舍用地面積之計算，應依原被徵收或協議價購之農地面積予以核計。\n三、有關貴府所詢民眾陳情農舍用地申請面積計算之疑義，請貴府參照前開原則依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6005",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:05+08:00",
+   "source_key": "rmis:6005"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8622250d54eb4da6ba0fc09e0581e916b4d2fcf5e59eb7dbd84a1c01bb4e7b34",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴府函詢民眾陳情興建農舍之用地面積疑義案,復請查照。\n一、查「農業用地興建農舍辦法」(下稱本辦法)第4條第1項規定,「農業發展條例(下稱本條例)中華民國89年1月2"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、查「農業用地興建農舍辦法」(下稱本辦法)第4條第1項規定,「農業發展條例(下稱本條例)中華民國89年1月28日修正施行前取得之農業用地,有下列情形之一者"
+  }
+ ]
+}

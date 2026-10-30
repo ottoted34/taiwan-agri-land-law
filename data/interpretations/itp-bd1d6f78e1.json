@@ -1,0 +1,55 @@
+{
+ "id": "itp-bd1d6f78e1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020233051號",
+ "date": "2013-10-11",
+ "date_text": "102/10/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上存在墳墓，申請核發農業用地作農業使用認定及核發證明辦法疑義案。",
+ "content": "主旨：有關貴局函詢農業用地上存在墳墓，申請核發農業用地作農業使用認定及核發證明辦法疑義案，復請查照。\n說明：\n一、復貴局102年9月25日南市農務字第1020819136號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。復依農業用地作農業使用認定及核發證明辦法第6條第1款規定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：一、於非都市土地使用編定公告前已存在有墳墓，經檢具證明文件。二、．．．」係考量土地使用編定前，公墓用地編定不足，國人有於自有農業用地一隅埋葬先人之習俗，故如能檢具證明文件，且不影響其餘農業用地作農業使用之情況者，仍得認定該農業用地作農業使用。\n三、又本會94年3月23日農企字第0940113021號函(諒達)援引內政部相關函釋，針對非都市土地編定前或都市計畫發布前之原有墳墓只准原地修繕，復依殯葬管理條例第71條規定，所稱依原墳墓形式修繕，應不得增加高度及擴大面積，併予敘明。\n四、綜上，來文所敘非都市土地使用編定公告前存在之墳墓，有於84年修繕並與其配偶合葬等情，則是否符合農業使用之認定基準，請依前開辦法規定及相關函釋意旨，衡酌個案實情依法核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5052",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:11+08:00",
+   "source_key": "rmis:5052"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "351e3fa80bba2835917b27f4309a6f9100298c3edf644bfd4aeae66ef9aeaa44",
+ "topics": [
+  "farm_use_cert",
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "作農業使用之認定基準,始得核發農業用地作農業使用證明書。復依農業用地作農業使用認定及核發證明辦法第6條第1款規定略以:「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為"
+  }
+ ]
+}

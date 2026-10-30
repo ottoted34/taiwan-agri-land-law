@@ -1,0 +1,75 @@
+{
+ "id": "itp-344fac8679",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1051800305號",
+ "date": "2016-01-14",
+ "date_text": "105/1/14",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為於山坡地保育區農牧用地已設置休間農場後是否可再興建農舍一案，復請查照。",
+ "content": "一、復貴府104年12月11日桃農管字第1040032053號函，暨依據行政院農業委員會105年1月7日農輔字第1040250875號函辦理。\n二、依上開行政院農業委員會函釋，休閒農業輔導管理辦法第19條第11項規定略以：「休閒農場內非農業用地面積、農舍及農業用地內各項設施之面積合計不得超過休間農場總面積40%···。」，該休閒農場興建農舍後，全部設施面積總和不得超過休閒農場總面積40%，且應辦理變更經營計畫書事宜。已設置休閒農場之農業用地，倘擬申請興建「自用農舍」，自應符合前開各項設施坐落農業用地土地面積不超過40%之規定及合併計算之上限面積比例。\n三、隨文檢附上開函釋供參。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4026",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:47+08:00",
+   "source_key": "rmis:4026"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": "19",
+    "amended_on": "2018-05-18",
+    "history": "中華民國107年05月18日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2002",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": "19",
+    "amended_on": "2020-07-10",
+    "history": "中華民國109年07月10日行政院農業委員會農輔字第 1090023080A 號令修正發布第 10、14、19、20、24、25、27、29、43、44 條條文，並增訂第 39-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4aa4162acd32c607b4ab0f4f48460a9ea8a8cf07df5c8a5f70eda7fd082138c0",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2002",
+   "article": "19",
+   "kind": "extracted",
+   "snippet": "40250875號函辦理。\n二、依上開行政院農業委員會函釋,休閒農業輔導管理辦法第19條第11項規定略以:「休閒農場內非農業用地面積、農舍及農業用地內各項設施之面積合計"
+  }
+ ]
+}

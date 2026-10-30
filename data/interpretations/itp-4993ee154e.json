@@ -1,0 +1,54 @@
+{
+ "id": "itp-4993ee154e",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090710184號",
+ "date": "2020-04-28",
+ "date_text": "109/4/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請興建農舍之申請人資格條件審查案",
+ "content": "一、依據○○○109年4月10日( 109)鍾建字第 1090410號函辦理(如附件)。\n二、查農業發展條例(以下簡稱本條例)第 18條第 3項規定：「本條例中華民國 89年1月4日修正施行前取得農業用地，且無自用農舍而需興建者，得依相關土地使用管制及建築法令規定，申請興建農舍。本條例中華民國 89年1月4日修正施行前共有耕地，而於本條例中華民國 89年1月4日修正施行後分割為單獨所有，且無自用農舍而需興建者，亦同。」，而農業用地取得時點認定，本會前以 101年6月29日農水保字第 1011865000號令及 102年10月25日農水保字第 1021866046號令核釋有案(諒達)。另，按本條例第 18條第 3項後段規定，本條例 89年1月4日修正施行前之共有耕地，於修正施行後分割為單獨所有者，且無自用農舍而需興建者，亦得依相關土地使用管制及建築法令規定，申請興建農舍，即依土地取得時點認定為修法後取得之農業用地，倘有本條例第 18條第 3項後段規定之情形，仍得依修法前之規定申請建農舍。惟修法前之共有耕地，並於修法後分割為單獨所有，倘日後再辦理產權變動，並異動土地所有權部登記日期者，則無本條例第 18條第 3項後段規定之適用，先予敘明。\n三、爰旨案是否符合上開規定及審認原則，請貴府就個案實情再予衡酌。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4748",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:53:49+08:00",
+   "source_key": "rmis:4748"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cb67a6bc95afc18cc1ff978f54977ebb4840eec2fbdcde0cfc96bab57fb617d7",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "109)鍾建字第 1090410號函辦理(如附件)。\n二、查農業發展條例(以下簡稱本條例)第 18條第 3項規定:「本條例中華民國 89年1月4日修正施"
+  }
+ ]
+}

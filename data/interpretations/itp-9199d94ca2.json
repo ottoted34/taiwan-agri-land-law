@@ -1,0 +1,46 @@
+{
+ "id": "itp-9199d94ca2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110013583號",
+ "date": "2022-09-27",
+ "date_text": "111/9/27",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "申請農舍該筆農地經營型態涉及販售苗木之審查疑義案",
+ "content": "主旨：有關所詢貴轄田尾鄉○○○地號土地申請興建農舍資格疑義一案，復如說明，請查照。\n說明：\n一、復貴府111年7月11日府農務字第1110217311號函。\n二、按植物品種及種苗法(簡稱種苗法)第3條第6款規定，種苗業者係指從事繁殖、輸出入、銷售種苗之事業者；同法第44條第1項規定，經營種苗業者，非經直轄市或縣(市)主管機關核准，發給種苗業登記證，不得營業。綜上，申請人倘為從事種苗法第3條第6款經營項目之事業者，依規定須辦理種苗業登記證；倘若為成株(Adult Plants)、切花、盆花等商品之培植銷售，則無需辦理種苗業登記證。另，生產經營之植物種類，無涉核發種苗登記證之要件。\n三、查本會前以111年5月31日農企字第1110219398號函已說明本會111年1月22日農企字第1100730153號函說明販售種苗業者之經營方式應合於法令規定；至於申請個案是否有111年1月22日函釋之適用，應依個案事實釐清在案。基於農舍審查係屬直轄市、縣(市)政府之權責，請貴府參照前開原則就申請興建農舍之合理性、必要性及個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5903",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:32+08:00",
+   "source_key": "rmis:5903"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "97350df744ee8d936d29d5f52c0163d9fb27fc5564cf93a2a90c3654e77d96c8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

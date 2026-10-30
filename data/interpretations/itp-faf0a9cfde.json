@@ -1,0 +1,64 @@
+{
+ "id": "itp-faf0a9cfde",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020234526號",
+ "date": "2013-11-07",
+ "date_text": "102/11/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "擋土牆得否認定作農業使用案。",
+ "content": "主旨：有關貴局函詢擋土牆得否認定作農業使用案，復如說明，請查照。\n說明：\n一、復貴局102年10月7日北農牧字第1022794382號函。\n二、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。所稱農業使用，依農業發展條例第3條第12款定義，「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」又所稱「保育」使用者，係指為維護國土保安、水土保持等需要而設置之設施，合先敘明。\n三、本案土地上之擋土牆倘其設施性質經認定符合上開規定為保育使用者，即符合農業使用之定義，依「農業用地作農業使用認定及核發證明辦法」(以下簡稱本辦法)第4條及第11條規定得核發農業用地作農業使用證明書。惟是否得適用貴局來函說明三援引本會99年3月3日農企字第0990112661號函釋，視為已取得農業設施之容許，免再由農民另案申請一節，倘該設施經審認業依上開號函說明，依施設機關所擬規範設置完成者，即得依該函意旨認定之，併予敘明。\n四、另該設施倘擬認屬為本辦法第6條第3款規定之情形，屬依法應徵收而未徵收之公共設施得認定作農業使用，則依該條規定，應審認是否符合「部分面積」、「不影響農業使用」、「無償提供政府施設且供公眾使用之道路」及「依法應徵收而未徵收性質之公共設施」等要件。\n五、綜上，本案依其屬性及個案實情應適用本辦法前開何規定辦理，仍請貴局協助妥處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5113",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:30+08:00",
+   "source_key": "rmis:5113"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "182d9a87fcd7791ce22515d07a2f6408aa0bfb6a41241a125545e6e11231af48",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "認定基準,始得核發農業用地作農業使用證明書。所稱農業使用,依農業發展條例第3條第12款定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "性質經認定符合上開規定為保育使用者,即符合農業使用之定義,依「農業用地作農業使用認定及核發證明辦法」(以下簡稱本辦法)第4條及第11條規定得核發農業用地作農業使用證明書。惟是否得適"
+  }
+ ]
+}

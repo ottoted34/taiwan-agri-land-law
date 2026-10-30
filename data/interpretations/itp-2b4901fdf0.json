@@ -1,0 +1,55 @@
+{
+ "id": "itp-2b4901fdf0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030218278號",
+ "date": "2014-07-08",
+ "date_text": "103/7/8",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農田水利會施設之農田水利灌、排水設施，是否符合農業用地作農業使用認定及核發證明辦法規定疑義案。",
+ "content": "主旨：有關貴府函詢農田水利會施設之農田水利灌、排水設施，是否符合農業用地作農業使用認定及核發證明辦法規定疑義案，復請查照。\n說明：\n一、復貴府103 年5 月29 日屏府農企字第10316499900 號函。\n二、農業用地上施設有與農業經營不可分離之灌溉、排水設施，應依農業用地作農業使用認定及核發證明辦法第4條第2款規定，須檢附容許使用同意書或從來使用證明文件，俾得認定為作農業使用。惟上開設施屬農田水利會施設者，因農田水利會為公法人，並秉承政府推行農田水利事業，爰其使用私人農業用地施設農田灌、排水設施，具公益性質，應比照「配合政府施設供公眾使用之農路」之作法，意即得視為已取得農業設施容許使用，無須再由農民另案申請，以簡化行政作業。惟該灌、排水設施既為農田水利會施設，自應由農田水利會出具有關該農田水利設施之證明文件，俾供受理機關審認。\n三、貴府引述本會90年、93年及97年等3號函釋，尚無違前開辦法規定得予認定作農業使用之意旨。至其認定之文件則依前開原則辦理，俾資明確並符便民考量。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5304",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:22+08:00",
+   "source_key": "rmis:5304"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f1cf39a5c8aad9b83e91f6ec4c92d5510306dbdc8cf2098d437a69942980a46f",
+ "topics": [
+  "farm_use_cert",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "二、農業用地上施設有與農業經營不可分離之灌溉、排水設施,應依農業用地作農業使用認定及核發證明辦法第4條第2款規定,須檢附容許使用同意書或從來使用證明文件,俾得認定為作農業使用。惟上開"
+  }
+ ]
+}

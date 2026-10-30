@@ -1,0 +1,58 @@
+{
+ "id": "itp-7bf6dabdea",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990121264號",
+ "date": "2010-04-13",
+ "date_text": "99/4/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "函詢○○有限公司於都市計畫農業區申請設置汽車運輸業停車場(站)之農業用地變更回饋金計算疑義案",
+ "content": "主旨：有關 貴府函詢○○有限公司於都市計畫農業區申請設置汽車運輸業停車場(站)之農業用地變更回饋金計算疑義案，復請 查照。\n說明：\n一、復 貴府99年3月30日府農管字第0990113951號函。\n二、有關都市計畫範圍內之農業用地作非農業使用，農業用地變更回饋金之收取標準，其核准可建築使用面積之計算，涉及不同目的事業核准建築物興建之建蔽率，及各縣市不同之都市計畫農業區保護區審查作業要點之規定，故其回饋金之計算基準，查本會已於92年10月23日以農企字第0920161675號函說明略以：「...因部分設施之設置不以建築為要件，且依現行都市計畫法規定，似亦未有核准建築面積與範圍，而不同於都市計畫範圍外變更編定為各種使用地之方式（即有明確建蔽率規定），於作業上如經徵詢目的事業主管機關復以未有核定可建築使用面積或未有訂定建蔽率規定者，為求繳交農地變更回饋金有一致性之標準，參酌非都市土地變更為相同事業使用時之變更後用地別建蔽率與申請變更或核准面積之乘積為可建築使用面積。」有案。\n三、本案仍請 貴府依上開函釋原則，徵詢目的事業主管機關申請設置汽車運輸業停車場 (站)之核准可建築使用面積或建蔽率據以核算，倘未能查復確認，則應參酌非都市土地變更為相同事業使用時之變更後用地別建蔽率予以核算。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5397",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:03+08:00",
+   "source_key": "rmis:5397"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "b6cf1943b8f83eeff030eabddebc83700a3f0bd46872000cd1dd06e01becf272",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-640cc2f538",
+ "doc_class": "interpretation",
+ "docno": "內授密仁營字第1050001458號",
+ "date": "2016-02-03",
+ "date_text": "105/2/3",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "有關貴會函轉法務部移文○○○詢問農地興建農舍建築相關法規等問題1案，復請查照。",
+ "content": "一、復貴會105年1月19日農授水保字第1050201783號函。\n二、旨案○○○前已陳情至行政院院長及本部部長信箱並經本部就主管權責部分以電子郵件回覆民眾在案，惟該民眾陳情事項亦涉及農業用地興建農舍辦法第2條規定及農業用地興建農舍後之管理問題，屬貴會權責，建請妥處。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4010",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:38+08:00",
+   "source_key": "rmis:4010"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a11de4f37423bc2ce9517c11ffb7dd58a59228c902f5c1226f223bb4f36a675d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "就主管權責部分以電子郵件回覆民眾在案,惟該民眾陳情事項亦涉及農業用地興建農舍辦法第2條規定及農業用地興建農舍後之管理問題,屬貴會權責,建請妥處。"
+  }
+ ]
+}

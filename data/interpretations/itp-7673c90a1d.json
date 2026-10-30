@@ -1,0 +1,53 @@
+{
+ "id": "itp-7673c90a1d",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152627603號",
+ "date": "2026-04-21",
+ "date_text": "115/4/21",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關民眾再次陳情於貴市下營區○○地號土地之農業設施(禽舍及堆肥舍)建築興建過程疑義案，請協處逕復，請查照。",
+ "content": "一、有關○君所詢旨揭疑義，本署業以115年2月23日農保規字第1152626505號函請貴府併依本署113年8月9日農保規字第1132630436號函及113年12月4日農保規字第1132615283號函原則洽貴府建築主管機關協處在案。依上開3函說明，農業用地因從事農業耕種而有填土需要者，依農業發展條例施行細則第2條之1規定，其填土土質應為適合種植農作物之土壤，以利農作物種植；至於農業用地興建農業設施，該農業設施之建築基礎應符合建築法相關規定。是以，於農業用地填土耕作與設置農業設施，二者所需回填之物質、目的、用途及適用法規均屬有別。\n二、針對○君陳情本案迄未接獲回覆一節，仍請貴府依前開函釋原則，予以協處逕復。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6066",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:01+08:00",
+   "source_key": "rmis:6066"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "36e1adba626afa2291c21247f7094eb48a4d41ae318ba1391332bfc87f940e30",
+ "topics": [
+  "landfill",
+  "livestock"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2009",
+   "article": "2-1",
+   "kind": "extracted",
+   "snippet": "案。依上開3函說明,農業用地因從事農業耕種而有填土需要者,依農業發展條例施行細則第2條之1規定,其填土土質應為適合種植農作物之土壤,以利農作物種植;至於農業用地興建農業設"
+  }
+ ]
+}

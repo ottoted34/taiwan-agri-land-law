@@ -1,0 +1,73 @@
+{
+ "id": "itp-9d73c2c29d",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990117591號",
+ "date": "2010-03-22",
+ "date_text": "99/3/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "集村興建農舍建案以毗鄰都市計畫農業區之土地，作為建築基地聯外道路，是否應依「農業用地變更回饋金撥繳及分配利用辦法」繳納回饋金之疑義案。",
+ "content": "主旨：有關 貴府函詢集村興建農舍建案以毗鄰都市計畫農業區之土地，作為建築基地聯外道路，是否應依「農業用地變更回饋金撥繳及分配利用辦法」繳納回饋金之疑義案，復請 查照。\n說明：\n一、復 貴府99年3月17日南市建農字第09940006860號函。\n二、查非都市土地使用管制規則第6條附表一規定，農牧用地容許使用項目-私設通路，「限於以『集村方式興建農舍』者及甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。」對於非都市土地以集村方式興建農舍，因未面臨建築線，無道路可出入需要，其聯外道路係以「私設通路」辦理，而「私設通路」其認屬為非農業使用範疇，故應依法繳交農業用地變更回饋金，查本會前於97年2月25日農企字第0970109341號函說明有案。\n三、至於都市計畫農業區申請集村興建農舍之建築基地，因未面臨建築線，無道路可出入，查都市計畫法臺灣省施行細則第29條之2，對於以毗鄰農業區土地興闢作為連接建築線之私設通路使用，亦有規範。故本案仍請 貴府依「農業用地變更回饋金撥繳及分配利用辦法」第3條之規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5395",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:11+08:00",
+   "source_key": "rmis:5395"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": "3",
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b844b4a48c3efec7a884418b2780c0ee56a1145a8cdb679899093bd05b226173",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "闢作為連接建築線之私設通路使用,亦有規範。故本案仍請 貴府依「農業用地變更回饋金撥繳及分配利用辦法」第3條之規定辦理。"
+  }
+ ]
+}

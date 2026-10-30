@@ -1,0 +1,63 @@
+{
+ "id": "itp-df60b419ba",
+ "doc_class": "interpretation",
+ "docno": "農輔字第1070224254號",
+ "date": "2018-07-09",
+ "date_text": "107/7/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴局函詢大溪水資源回收中心為連接周邊月眉濕地，擬於貴轄大溪區○○○地號土地興建公共步道供大眾使用案，復如說明，請查照。",
+ "content": "一、復貴局107年6月13日桃農管字第1070015185號函。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，以便利其農事工作，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，合先敘明。\n三、查農業用地興建農舍辦法第9條第2項第3款規定略以：「．．．扣除農舍用地面積後，供農業生產使用部分之農業經營用地應為完整區塊，且其面積不得低於該農業用地面積90%」，另查本會已於106年5月1日以農水保字第1050244023號通函各直轄市、縣(市)政府，敘明已興建農舍之農業經營用地，不宜設置與一級農業生產使用無關之休閒農業設施，以符合農業用地得興建農舍之立法意旨有案。\n四、復查休閒農業輔導管理辦法於107年5月18日修正發布，並將上開函釋內容納入該辦法第22條第3項予以明定：「已申請興建農舍之農業用地，不得設置前條休閒農業設施。」。\n五、綜上，基於農業用地上申請興建農舍係屬特許，如土地所有權人已先申請興建農舍，除農舍用地面積外，其餘用地應為農業經營用地且供農業生產使用，始符合農舍用途意旨。同理，為符合農舍用途意旨，並確保農業經營用地係為完整區塊且供農業生產使用，倘農業用地上已設置休閒農業設施，則不得再於該筆農業用地上申請興建農舍。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4531",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:58:13+08:00",
+   "source_key": "rmis:4531"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d95bba81ec6bafd7d1b3b3b55cfcedcad11f7b63368f7bb0e0e0887aeb231029",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "leisure",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "許可之行為,並非擁有農業用地即可興建農舍,合先敘明。\n三、查農業用地興建農舍辦法第9條第2項第3款規定略以:「...扣除農舍用地面積後,供農業生產使用部分之農業經營用"
+  },
+  {
+   "law_id": "RMIS-2002",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業設施,以符合農業用地得興建農舍之立法意旨有案。\n四、復查休閒農業輔導管理辦法於107年5月18日修正發布,並將上開函釋內容納入該辦法第22條第3項予以明定:"
+  }
+ ]
+}

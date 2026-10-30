@@ -1,0 +1,54 @@
+{
+ "id": "itp-8ffd5ab7f8",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080218805號",
+ "date": "2019-05-13",
+ "date_text": "108/5/13",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "不利農業經營區多筆土地設置面積及隔離緩衝空間得否共同劃設_通函",
+ "content": "主旨：有關依「申請農業用地作農業設施容許使用審查辦法」第30條申請免與農業經營使用相結合之綠能設施審查疑義案，復如說明，請查照。\n說明：\n一、復貴府108年5月6日屏府農企字第10816379400號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」第30條規定申請之綠能設施，如為相鄰數筆農地，綠能設施應以該相鄰數筆農地整體規劃配置，其設施總面積應合併計算，且不得超過申請設施所坐落之農業用地土地總面積70%。又，為避免影響鄰地之農業使用與生產環境，其與毗鄰農業用地應留設1.5公尺以上之隔離緩衝空間，至綠能設施坐落之土地倘具毗連集中於提出申設時，上開隔離緩衝空間之配置，自得以綠能設施實際坐落土地範圍共同劃設。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5623",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:02+08:00",
+   "source_key": "rmis:5623"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d774031e2fe5b3be99cb45bfb94255c8eab552549f6bf356bb75326b549cfae6",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "筆土地設置面積及隔離緩衝空間得否共同劃設_通函\n主旨:有關依「申請農業用地作農業設施容許使用審查辦法」第30條申請免與農業經營使用相結合之綠能設施審查疑義案,復如說明,請查照。\n說明:\n一、"
+  }
+ ]
+}

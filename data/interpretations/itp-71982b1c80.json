@@ -1,0 +1,55 @@
+{
+ "id": "itp-71982b1c80",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1030710681號",
+ "date": "2014-04-22",
+ "date_text": "103/4/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農作產銷設施「農業生產設施-溫室及植物環控栽培設施」容許使用，涉有農業資材區審查疑義案。",
+ "content": "主旨：有關民眾申請農作產銷設施「農業生產設施-溫室及植物環控栽培設施」容許使用，涉有農業資材區審查疑義案，復請查照。\n說明：\n一、復貴府103年4月1日府農農字第1030067254號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條附表1所定「溫室及植物環控栽培設施」申請基準或條件規定略以，溫室應以透光材質搭建，採完全人工光源栽培者，得採不透光材質興建；本項設施應配置植物栽培區，並得配置溫濕度控制設施區、生產作業區、農業資材區、集貨運銷處理區、管理區等附屬設施所需空間；植物栽培區樓地板面積應達總樓地板面積50%以上。合先敘明。\n三、有關旨揭設施之附屬設施所需空間，申請人可在符合前開規定下，依個別使用需求合理配置。另其中所涉農業資材區，允與容許辦法第13條附表1所定「農業資材室」之申請基準或條件規定無關。\n四、至溫室內配置之附屬設施所需空間，在不影響植物栽培區農作物生長所需日照下，尚得以不透光材質搭建。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4891",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:14+08:00",
+   "source_key": "rmis:4891"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "07043599041d3d3579cd7563c2249a26d624d8fdb206752e93b79a083b1d4748",
+ "topics": [
+  "material_room",
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "103年4月1日府農農字第1030067254號函。\n二、查「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第13條附表1所定「溫室及植物環控栽培設施」申請基準或條件規"
+  }
+ ]
+}

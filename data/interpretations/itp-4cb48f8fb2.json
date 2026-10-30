@@ -1,0 +1,54 @@
+{
+ "id": "itp-4cb48f8fb2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1110228347號",
+ "date": "2022-06-30",
+ "date_text": "111/6/30",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "申請興建農舍之土地取得時點疑義案",
+ "content": "主旨：有關所詢貴轄○○○地號土地申請興建農舍疑義一案，復如說明，請查照。\n說明：\n一、復貴府111年6月29日府產農字第1110093185號函。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，亦非為解決民眾居住空間不足問題，先予敘明。\n三、有關農業發展條例第18條所稱取得農業用地取得時點之認定，本會前以101年6月29日農水保字第1011865000號令及102年10月25日農水保字第1021866046號令核釋有案，應以土地登記簿所有權部認定之，除民法第759條規定因繼承、強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定，及農地重劃條例第27條規定因農地重劃後分配於原土地所有權人之土地，以原有土地取得時點為基準外，其餘則以登記日期為基準。\n四、另，依本辦法規定審查興建農舍係因農業經營必要衍生具居住需求，故貴府自得就申請人現有住宅與申請基地之遠近、現有住宅數目、農舍之農業經營使用功能等，覈實審認申請人興建農舍之合理性及必要性，併供參考。\n五、基於農舍審查係屬直轄市、縣(市)政府之權責，請貴府參照前開原則就申請興建農舍之合理性、必要性及個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5926",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:47+08:00",
+   "source_key": "rmis:5926"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b401193c881e0ee177cc101f3f727e11815627c898d981760d2ba3b7d4334deb",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "建農舍,亦非為解決民眾居住空間不足問題,先予敘明。\n三、有關農業發展條例第18條所稱取得農業用地取得時點之認定,本會前以101年6月29日農水保字第101186"
+  }
+ ]
+}

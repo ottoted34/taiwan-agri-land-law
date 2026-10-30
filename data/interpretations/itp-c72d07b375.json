@@ -1,0 +1,91 @@
+{
+ "id": "itp-c72d07b375",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960158403號",
+ "date": "2007-10-19",
+ "date_text": "96/10/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋以集村方式興建農舍，應有道路通達之道路究應申請農路或私設通路之疑義。",
+ "content": "主旨：有關 貴府函詢以集村方式興建農舍，應有道路通達之道路究應申請農路或私設通路之疑義案，復請 查照。\n說明：\n一、依據內政部營建署96年10月17日營署綜字第○○○○○號函辦理，並復 貴府96年9月7日府農管字第○○○○○號函辦理。\n二、查93年3月5日修正後之非都市土地使用管制規則第6條附表一規定，農牧用地容許使用項目-私設通路，「限於以『集村方式興建農舍』者及甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者。」有關內政部營建署93年5月4日營署綜字第○○○○○號書函(附件1)說明二之內容，案經該署96年10月17日營署綜字第○○○○○號函(附件2)說明略以：「集村興建農舍坐落之建築基地得以私設通路連接建築線據以申請建築，該通路．．．應修正為依現行前開規則規定農牧用地申請『私設通路』容許使用項目辦理。」爰以，以集村方式興建農舍，通達之道路應以「私設通路」辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5282",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:54+08:00",
+   "source_key": "rmis:5282"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2013-07-01",
+    "history": "中華民國102年07月01日內政部臺內營字第1020805247號令、行政院農業委員會農水保字第1021865656號令會銜修正發布全文17條；並自發布日起施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "fb066778d8665a0c9c93bb09f942d09ababd3c1622d33bee2b1ddb4875a02eae",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

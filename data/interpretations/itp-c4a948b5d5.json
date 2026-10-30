@@ -1,0 +1,52 @@
+{
+ "id": "itp-c4a948b5d5",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100257317號",
+ "date": "2022-01-05",
+ "date_text": "111/1/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢存在違規使用情形之共有農業用地申請農業設施容許使用，得否以申請人檢附之分管契約書，僅就未違規使用部分審認案，復如說明，請查照。",
+ "content": "一、按農業設施係輔助其坐落農業用地之農業生產使用，須基於該農業用地生產事實，與生產行為相連結，始可設置，故申請農業設施容許使用，係以所請整筆農業用地予以審認，倘屬共有農業用地者，應就同筆農業用地之其他共有部分一併審查，其他共有人之共有部分倘有未經申請之農業設施，則應輔導其他共有人依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)之規定提出申請，以符合土地使用管制。又該整筆農業用地倘有違反其他土地使用管制相關法令規定之情形，仍應依容許辦法第6條第1項第9款規定予以核處。\n二、又共有農業用地申請農業設施容許使用，係屬變更共有物用途之一種，與共有物之分管契約係各就其權利範圍從事農耕分別管理之性質有別，故有關農業用地申請農業設施容許使用，仍請依前開原則，就整筆農業用地予以審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5951",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:51:38+08:00",
+   "source_key": "rmis:5951"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "737475e20d3fb75fb5f0fdf28d4892fdc0cf57b486d68d4907b718b54347834e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "共有人之共有部分倘有未經申請之農業設施,則應輔導其他共有人依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)之規定提出申請,以符合土地使用管制。又該整筆農業用地倘有違反"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "itp-5139348b15",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031807696號",
+ "date": "2014-04-18",
+ "date_text": "103/4/18",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局函為預告登記土地權利移轉請求權之農業用地，是否得依農業用地興建農舍辦法申請興建農舍疑義案，復請查照。",
+ "content": "一、復貴局103年4月8日中市農地字第1030010699號函。\n二、農業用地上准許興建農舍，係提供有心經營農業卻無自用農舍者於該農地上興建具有放置農機具兼具居住需求之構造物，以便利其從事農事工作。爰此，農業發展條例第18條第4項規定「農舍起造人應為該農舍坐落土地之所有權人」乃考量農舍係與農業經營不可分離之前提下興建，為確保農業經營之合理與效率，規範起造人應與坐落農業用地同一人；另為避免農舍商品化，前開條例同條第2項定有其在自有農業用地興建農舍滿5年始得移轉之規定，且102年7月1日修正施行之農業用地興建農舍辦法第6條亦明定申請人5年內曾取得農舍建造執照者，直轄市、縣(市)主管機關應不予許可興建農舍之條件，均係規範申請人應確實為農業經營所需而興建農舍，先予敘明。\n三、本案土地雖為申請人所有，然卻於土地登記簿所有權部預告登記土地權利移轉，似預告農舍興建完成後其座落之土地將移轉他人，實有違農舍係確供農業經營需要而興建之立法目的，爰請貴局衡酌並依個案事實審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3557",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:19+08:00",
+   "source_key": "rmis:3557"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "6",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "14a803d6ba920b848d629fd11a5c7e3e2cf00b8d6c8cbf28f2566b598789886e",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "放置農機具兼具居住需求之構造物,以便利其從事農事工作。爰此,農業發展條例第18條第4項規定「農舍起造人應為該農舍坐落土地之所有權人」乃考量農舍係與農業經營不可分"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "地興建農舍滿5年始得移轉之規定,且102年7月1日修正施行之農業用地興建農舍辦法第6條亦明定申請人5年內曾取得農舍建造執照者,直轄市、縣(市)主管機關應不予許可興建農"
+  }
+ ]
+}

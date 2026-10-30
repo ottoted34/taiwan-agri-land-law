@@ -1,0 +1,56 @@
+{
+ "id": "itp-0fbf15de3d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090705523號",
+ "date": "2020-03-05",
+ "date_text": "109/3/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "2棟農舍合併拍賣是否違反農業發展條例第18條規定",
+ "content": "一、復貴處109年2月21日南院武108司執良字第37804號函。\n\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，並非擁有農業用地即可興建農舍，先予敘明。\n\n三、查農業發展條例第18條第4項規定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。」，法院拍賣興建中農舍或興建完成之農舍，其投標人資格亦應符合無自用農舍條件，本會96年2月13日農水保字第0961848111號已通函各法院有案(諒達)，故同一人\n因拍賣而同時取得二棟以上之農舍，與本會農地管理政策並不相符，併予敘明。\n\n四、依貴處來文所述，依不動產估價報告書記載○○○○○建號及○○○○○建號相通，○○○○○建號係倉庫，應先釐清核發該使用執照之個案事實及法依據，以確認其是否為二棟農舍，建議洽請土地所在地之直轄市、縣(市)政府提供協處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4701",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:04+08:00",
+   "source_key": "rmis:4701"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c5ad0ec738cedc4dcb94742eaa9da4d2c237da8d2d98778112a0134a33b71a5d",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "2棟農舍合併拍賣是否違反農業發展條例第18條規定\n一、復貴處109年2月21日南院武108司執良字第37804號函。\n\n二、"
+  }
+ ]
+}

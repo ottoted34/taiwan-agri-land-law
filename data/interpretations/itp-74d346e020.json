@@ -1,0 +1,65 @@
+{
+ "id": "itp-74d346e020",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970140351號",
+ "date": "2008-07-29",
+ "date_text": "97/7/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋○○汽車駕駛人訓練班籌備處函為農業用地變更回饋金申請退還案。",
+ "content": "主旨：有關　貴縣○○汽車駕駛人訓練班籌備處函為農業用地變更回饋金申請退還案，請　貴府依法審認核處逕復陳情人，請查照。\n說明：\n一、依據○○汽車駕駛人訓練班籌備處97年7月21日民字第○○○○○號函辦理，隨文檢附來函及附件影本1份。\n二、依農業發展條例第10條及第12條規定，農業用地於劃定或變更為非農業使用時，應視其事業性質，繳交回饋金，其係以該農業用地是否經劃定或變更作為「非農業使用」之情形，為農業用地變更回饋金繳交之審酌要件。對於農業用地變更作非農業使用繳交之回饋金申請退還之處理，查本會於94年5月2日農企字第0940121156號函說明略以：「．．．就申請各目的事業使用，經繳交回饋金，且『已辦理用地變更』或『依據核准使用項目使用』者，即已辦理程序終結者，原則上應無申請退還回饋金空間。」有案。惟申請個案之土地，倘尚未依核定計畫開始開發使用，屬自始皆未作非農業使用，且經目的事業主管機關依「非都市土地使用管制規則」第37條，廢止該事業計畫，並依同條第3款，回復原編定為農業用地，案經　貴府審認確屬自始仍維持作農業使用者，應得由　貴府就該土地所繳納之回饋金金額，予以核處退還。爰本案請　貴府依上開原則審認核處，逕復陳情人。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5085",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:00+08:00",
+   "source_key": "rmis:5085"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "39283cf0e5d19e4b1a8151c3192657608a759f70aec513df653ec83bc0f229df",
+ "topics": [
+  "facility_use",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "字第○○○○○號函辦理,隨文檢附來函及附件影本1份。\n二、依農業發展條例第10條及第12條規定,農業用地於劃定或變更為非農業使用時,應視其事業性質,繳交回饋金,"
+  }
+ ]
+}

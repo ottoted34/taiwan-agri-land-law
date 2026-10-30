@@ -1,0 +1,84 @@
+{
+ "id": "itp-b85e25f0ee",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990157745號",
+ "date": "2010-09-27",
+ "date_text": "99/9/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "公司依「申請農業用地作農業設施容許使用審查辦法」第13條規定，於養殖用地申請溫室之容許使用，並以太陽能板為搭建結構，其申請人資格及審查疑義案。",
+ "content": "主旨：有關 貴府函詢○○公司依「申請農業用地作農業設施容許使用審查辦法」第13條規定，於養殖用地申請溫室之容許使用，並以太陽能板為搭建結構，其申請人資格及審查疑義案，復請 查照。\n說明：\n一、復 貴府99年8月23日府農務字第0990139096號函。\n二、申請農業用地作農業設施之容許使用，應依「申請農業用地作農業設施容許使用審查辦法」規定，予以審查。其申請人屬法人者，應檢具法人登記證明文件影本及檢附經營計畫等相關書表文件，向土地所在地之直轄市或縣（市）主管機關申請。因係申請農業設施，故該法人登記證明文件之營業項目應與農業經營有關；至於其申請溫室之容許使用，以太陽能板為搭建結構，或於屋頂附屬設置太陽能光電設備(或設施)，除有不透光作業室需要外，仍應符合上開辦法之規定，以採光材質搭建，並應瞭解該項設施內之設計與擬生產之作物是否適於溫室栽培，依作物栽培生產之需要，予以審認。\n三、若擬依「非都市土地使用管制規則」申請直接於農業用地上作「再生能源相關設施」之容許使用，則應符合該規則第6條附表1之附帶條件規定，並應依「非都市土地容許使用執行要點」第7點等規定之審查程序辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5425",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:27+08:00",
+   "source_key": "rmis:5425"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "7527bd7dcd70a6ca393bfe30e524dc068fd91ad2c190823b99d241897a0598a0",
+ "topics": [
+  "greenhouse",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "公司依「申請農業用地作農業設施容許使用審查辦法」第13條規定,於養殖用地申請溫室之容許使用,並以太陽能板為搭建結構,其申請人資格及審查疑"
+  }
+ ]
+}

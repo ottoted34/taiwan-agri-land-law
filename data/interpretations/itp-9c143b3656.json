@@ -1,0 +1,71 @@
+{
+ "id": "itp-9c143b3656",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021824409號",
+ "date": "2013-10-31",
+ "date_text": "102/10/31",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關宜蘭縣政府所詢農業用地興建農舍辦法102年7月3日修正生效後相關執行疑義一案，復請查照。",
+ "content": "一、復貴署102年10月16日營署綜字第1020065579號函。\n二、按行政程序法第34條規定：「行政程序之開始，由行政機關依職權定之。但依本法或其他法規之規定有開始行政程序之義務，或當事人已依法規之規定提出申請者，不在此限。」，次按同法第35條規定：「當事人依法向行政機關提出申請者，除法規另有規定外，得以書面或言詞為之。以言詞為申請者，受理之行政機關應作成紀錄，經向申請人朗讀或使閱覽，確認其內容無誤後由其簽名或蓋章。」，先予敘明。\n三、查農業發展條例第18條第3項規定略以：「本條例中華民國89年1月4日修正施行前取得農業用地，‧‧‧，得依相關土地使用管制及建築法令規定，申請興建農舍。」，又農業用地興建農舍辦法修正前第2條規定略以：「依本條例第18條第3項規定申請興建農舍之申請人應為農民，並符合第3條第1項第4款及第5款規定，其申請興建農舍，得依都市計畫法省(市)施行細則‧‧‧及其他相關法令規定辦理，‧‧‧。」準此，申請興建農舍應以當事人依據前開相關法令規定向管轄機關提出申請為開始。\n四、又「無現有農舍證明」及「農業用地作農業使用證明」係申請興建農舍應具備之部分文件，其性質應為申請興建農舍之前置作業，爰當事人究有無依據上開規定具體向管轄機關提出申請，仍請宜蘭縣政府本權責認定為宜。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3756",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:39+08:00",
+   "source_key": "rmis:3756"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7aa5bf7e221eae90909eae312e58e02274df5075db5ae231435803f446c60c89",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關宜蘭縣政府所詢農業用地興建農舍辦法102年7月3日修正生效後相關執行疑義一案,復請查照。\n一、復貴署102年10月"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "閱覽,確認其內容無誤後由其簽名或蓋章。」,先予敘明。\n三、查農業發展條例第18條第3項規定略以:「本條例中華民國89年1月4日修正施行前取得農業用地,‧‧‧,得"
+  }
+ ]
+}

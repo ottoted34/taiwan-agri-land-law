@@ -1,0 +1,48 @@
+{
+ "id": "itp-3633752340",
+ "doc_class": "interpretation",
+ "docno": "院臺農字第1050090842號",
+ "date": "2016-08-31",
+ "date_text": "105/8/31",
+ "agency_text": "行政院秘書長",
+ "category": "解釋函",
+ "subject": "總統府書函，檢送○○○8月20日致總統陳情書及附件，所再陳承購農地因主管機關前未即時註記登記「已提供興建農舍」，致權益受損，盼予補救一案，送請貴會併案會商內政部卓處逕復○○○，並副知總統府公共事務室及本院經濟能源農業處。",
+ "content": "一、依總統府105年8月29日華總公三字第10500099830號書函辦理。\n二、本院105年7月26日院臺農字第1050088020號函，諒達。\n三、影附總統府原書函及附件各1份。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "行政院秘書長",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3208",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:41+08:00",
+   "source_key": "rmis:3208"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5baf370b0df379979f3dce9789ef031085b30288e07cecce57fb40cec0c266c4",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

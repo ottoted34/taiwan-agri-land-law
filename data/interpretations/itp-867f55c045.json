@@ -1,0 +1,52 @@
+{
+ "id": "itp-867f55c045",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140226575號",
+ "date": "2025-07-24",
+ "date_text": "114/7/24",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農業設施完工檢查之行政作業疑義案如說明，復請查照。",
+ "content": "一、按申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第32條第1項規定，取得容許使用之農業設施，依法得免申請建築執照者，除第3項另有規定外，應於1年內完成興建使用，且報請原核定機關進行完工檢查。上開所稱「完工檢查」，包括農業設施之興建及使用，對於「農業設施之使用」應為依原核定之計畫內容及配置圖使用，即農業設施之完工檢查，應以確認「原核定計畫內容興建與使用」為主要檢查內容，是否合於原核定計畫之項目，例如：高度、寬度、深度、構造種類、農業用地生產情形等，皆應予以確認。若有屆期未興建或未報請完工檢查，或經檢查不合格者，應依容許辦法第32條第2項規定廢止其許可。\n二、又容許辦法所定完工檢查，係屬行政檢查之概念性質，得適用行政程序法第1章第6節「調查事實及證據」相關規定。此外，行政機關於行政檢查時，得視實際情形依職權運用各種調查方法，包含要求當事人或第三人提供必要之文書、資料或物品，或派員進行實地現場檢查。\n三、綜上，農業設施完工檢查行政作業原則，仍請貴府協助轉知轄內各鄉(鎮、市、區)公所，依前開原則辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5960",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:11+08:00",
+   "source_key": "rmis:5960"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "313067afb9efc56fa6302152647660456f98061904849c6ddf01f320e5699261",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "詢農業設施完工檢查之行政作業疑義案如說明,復請查照。\n一、按申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第32條第1項規定,取得容許使用之農業設施,依法得免申請建築"
+  }
+ ]
+}

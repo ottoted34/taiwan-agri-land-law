@@ -1,0 +1,50 @@
+{
+ "id": "itp-281a7e6ec7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100012002號",
+ "date": "2021-01-04",
+ "date_text": "110/1/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農舍申請民宿相關疑義",
+ "content": "一、依據○○○ 109年12月23日本會首長信箱來函辦理 (影附如後 )。\n二、查「農舍」係與農業經營不可分離之建築物，讓有心經營農業者於該筆農地上作為放置農機具兼具居住之需求，與一般家居住宅性質不同，且農舍應以「自用」為原則。復依發展觀光條例第 2條第 9款規定，民宿指利用自用住宅空閒房間，結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動，提供旅客鄉野生活之住宿處所。綜上，自用農舍如作為民宿者，仍應以農業經營為主，並符合農舍相關規定，且其農業經營用地亦應維持積極農業生產使用，先予敘明。\n三、按信託法第 1條規定：「稱信託者，謂委託人將財產權移轉或為其他處分，使受託人依信託本旨，為受益人之利益或為特定之目的，管理或處分信託財產之關係。」，及土地登記規則第 128條第 1項規定：「信託財產依第 125條辦理信託登記後，於信託關係消滅時，應由信託法第 65條規定之權利人會同受託人申請塗銷信託或信託歸屬登記。」，惟以辦理信託之農舍申請作為民宿，倘有農舍所有權人委由受託人管理民宿之意，則有違農舍應供「自用」之原則，爰請就個案實情卓處逕復。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5650",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:52:24+08:00",
+   "source_key": "rmis:5650"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "da45aa48b15231284badbb641233ba2c94b134f8d184defbf4301bd919a80bad",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

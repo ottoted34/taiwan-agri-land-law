@@ -1,0 +1,61 @@
+{
+ "id": "itp-b04e2189d3",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030233199號",
+ "date": "2014-09-30",
+ "date_text": "103/9/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地存有土地編定前既存之農業設施，是否應申請農業設施容許使用之疑義案。",
+ "content": "主旨：有關貴府函詢農業用地存有土地編定前既存之農業設施，是否應申請農業設施容許使用之疑義案，復請查照。\n說明：\n一、復貴府103 年9 月23 日屏府農企字第10328910500 號函。\n二、依據「農業發展條例」第8條之1第2項規定：「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用...」故有固定基礎之農業設施，原則上應申請農業設施之容許使用。\n三、惟依「非都市土地使用管制規則」第8條第1項規定：「土地使用編定後，其原有使用或原有建築物不合土地使用分區規定者，在政府令其變更使用或拆除建築物前，得為從來之使用...」。是以，農業用地上存有土地編定前既存之農業設施，倘經檢具得為從來使用之證明文件，得續為使用且無違反區域計畫法之規定，並且視為已取得適法存在之證明文件，而得免由申請人再予申請農業設施之容許使用。查「農業用地作農業使用認定及核發證明辦法」第4條，亦將農業用地上施設有農業設施，經檢附得為從來使用之證明文件者，得認定為作農業使用，予以明文規範。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5309",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:28+08:00",
+   "source_key": "rmis:5309"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ef4048d6482204b530ef6a0d682f135e870d7b3a75fcdda8cfc675f757cbe98e",
+ "topics": [
+  "farm_use_cert",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "23 日屏府農企字第10328910500 號函。\n二、依據「農業發展條例」第8條之1第2項規定:「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用.."
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "存在之證明文件,而得免由申請人再予申請農業設施之容許使用。查「農業用地作農業使用認定及核發證明辦法」第4條,亦將農業用地上施設有農業設施,經檢附得為從來使用之證明文件者,得認定為作農業使"
+  }
+ ]
+}

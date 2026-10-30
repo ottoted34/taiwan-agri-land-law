@@ -1,0 +1,55 @@
+{
+ "id": "itp-b9fe70be2a",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080203996號",
+ "date": "2019-02-01",
+ "date_text": "108/2/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "依容許辦法第28、29條申請之綠能設施期維修通道是否應納入設施興建面積",
+ "content": "主旨：有關貴府函詢「申請農業用地作農業設施容許使用審查辦法」第28、29條規定，申請之綠能設施，其維修通道(或稱維運通道或走道)是否應納入設施興建面積，復如說明，請查照。\n說明：\n一、復貴府108年1月24日府農漁字第1080021057號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第27條第3項規定，依容許辦法第29條及第30條規定申請非附屬設置於農業設施之綠能設施(即地面型綠能設施)者，搭建基樁應以點狀方式施作，不得改變原地形地貌，並應維持農地適當之日照穿透，以避免影響土壤地力，且不得影響鄰地之農業使用與生產環境等原則，合先敘明。\n三、又，容許辦法第7條規定，申請該辦法所定各項農業設施，其所有農業設施總面積，不得超過申請設施所坐落之農業用地土地面積40%；是以，依容許辦法第29條申設與農業經營相結合之地面型綠能設施，應以整筆農業用地規劃配置，且綠能設施總面積不得超過申請設施坐落之農業用地土地面積40%，其維運通道，倘未鋪設固定基礎之水泥建造物，不計入綠能設施之興建面積。\n四、至容許辦法第28條規定，係農業設施屋頂附屬設置綠能設施，屬與農業經營相結合之屋頂型綠能設施，故無涉及前揭地面型綠能設施配置原則之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5610",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:57:35+08:00",
+   "source_key": "rmis:5610"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a2d6ac4b59be793f2a1d16e892401044956ef878d8ea86fc65010088f27d9bf2",
+ "topics": [
+  "paving",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "綠能設施期維修通道是否應納入設施興建面積\n主旨:有關貴府函詢「申請農業用地作農業設施容許使用審查辦法」第28、29條規定,申請之綠能設施,其維修通道(或稱維運通道或走道)是否應納入設"
+  }
+ ]
+}

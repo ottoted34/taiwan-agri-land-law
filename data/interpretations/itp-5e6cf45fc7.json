@@ -1,0 +1,58 @@
+{
+ "id": "itp-5e6cf45fc7",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980127050號",
+ "date": "2009-05-11",
+ "date_text": "98/5/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關都市計畫農業區申設溫室、網室、菇類栽培場之興建面積疑義案。",
+ "content": "主旨：有關都市計畫農業區申設溫室、網室、菇類栽培場之興建面積疑義案，復請　查照。\n說明：\n一、復　貴府98年5月5日北府農牧字第○○○○○號函。\n二、查都市計畫法為實施都市計畫地區土地規劃、使用、管制之特別法。又都市計畫法臺灣省施行細則第29條第4項明定：「前項農業產銷必要設施之建蔽率．．．不得超過60%．．．」因此，於都市計畫農業區範圍內土地，有關農業產銷必要設施之申請興設仍應受前開法令之規範。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5258",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:00+08:00",
+   "source_key": "rmis:5258"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "48fb0ff78017f2e4913d7030177f0f4f2bf8dd59d481420cd4ca97835d0e32d7",
+ "topics": [
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

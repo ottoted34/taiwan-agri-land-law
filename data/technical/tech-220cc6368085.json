@@ -1,0 +1,38 @@
+{
+ "id": "tech-220cc6368085",
+ "source_key": "datamoa:D97:94dfea7198bf3cd8",
+ "title": "技術專刊 72",
+ "series": "技術專刊",
+ "issue": "72",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=8233",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "72",
+  "出刊年月": "202109",
+  "期刊名稱": "農遊體驗100種",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=8233"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T10:26:56+08:00"
+  }
+ ],
+ "content_hash": "59c70606ede3905aaa29542a16f7da1d6aa69d3ac8e69224f582f55ddb8542bd",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

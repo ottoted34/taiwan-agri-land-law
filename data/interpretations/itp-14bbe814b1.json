@@ -1,0 +1,66 @@
+{
+ "id": "itp-14bbe814b1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010115006號",
+ "date": "2012-07-03",
+ "date_text": "101/7/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "為農業用地與公路路面形成高低落差，申請農業設施容許使用之其他農作產銷設施-田埂，其設施高度之審查事宜。",
+ "content": "主旨：有關 貴府函為農業用地與公路路面形成高低落差，申請農業設施容許使用之其他農作產銷設施-田埂，其設施高度之審查事宜，復請 查照。\n說明：\n一、復 貴府101年6月21日屏府農企字第1010168024號函。\n二、有關農業用地上之田埂，倘屬無固定基礎之泥土田埂，未涉及農業設施容許使用之申請事宜：至農業用地上倘存有水泥田埂，作為農地界址分隔者，得視為農業設施-其他農作產銷之許可使用細目，另依據本會99年6月2日農企字第0990133931號函(諒達)說明略以：「鑒於農業用地上存在作為田區經營界限使用之水泥田埂，為部分地區農業經營之普遍情形，其可改善農業生產環境、提昇農地經營效率，故針對確實作農業使用之農業用地，於受理核發農業用地作農業使用證明書時，農業用地上存有寬度30公分、田區土面算起高度30公分以下之水泥田埂，作為農地界址分隔者；或由政府機關補助施設之水泥田埂有案者，得視為已取得農業設施容許使用同意書，無須再由申請人另案申請水泥田埂之農業設施容許使用，以簡化行政作業。」有案，合先敘明。\n三、有關 貴府所詢與公路路面形成高低落差之農業用地，設置之水泥田埂，如由田區土面算起高度30公分以下者，仍請 貴府依前揭號函辦理；至公路路面形成高低落差之農業用地設置水泥田埂，申請農業設施之容許使用，倘經 貴府審認確實符合農業生產之需要，而須設置由田區土面算起高度超過30公分且與公路路面等高者，則請 貴府依據「申請農業用地作農業設施容許使用審查辦法」之規定，本於職權核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5570",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:23+08:00",
+   "source_key": "rmis:5570"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8fc5917bbc1815ce33ba92cc7766112c49c11ffc6bd7c7847d98a2f93780a0f2",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "區土面算起高度超過30公分且與公路路面等高者,則請 貴府依據「申請農業用地作農業設施容許使用審查辦法」之規定,本於職權核處。"
+  }
+ ]
+}

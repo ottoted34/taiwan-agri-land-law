@@ -1,0 +1,64 @@
+{
+ "id": "itp-f105e804ba",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1041883665號",
+ "date": "2015-07-28",
+ "date_text": "104/7/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴部函復申請興建農舍土地登記原因「持分合併」效力一案，復請查照。",
+ "content": "一、復貴部104年7月14日台內地字第1041353598號函。\n二、本會前以101年6月29日農水保字第1011865000號令，核釋有關農業發展條例(以下簡稱本條例)第18條所稱取得農業用地，應以土地登記簿所有權部認定之，其土地取得時點除民法第759條規定因繼承，強制執行、徵收、法院之判決或其他非因法律行為，於登記前已取得不動產物權者，係以原因發生日期認定外，其餘則以登記日期為基準，先予敘明。\n三、本案系爭土地中壢區○○○地號係經申請人合併多筆土地後為單一筆地號土地，查該筆地號土地登記謄本，其土地登記部所有權部登記日期為103年12月11日，登記原因為「持分合併」，再進而查其歷次取得權利範圍，分別為59年時取得1/6，62年時取得5/6，換言之，該土地所有權人於62年時已取得該筆土地之全部範圍，然於103年因辦理持分合併，而致其所有權部異動，倘依上述說明二本會令原則，該系爭土地將成為本條例89年修正施行後所取得之土地。\n四、綜上，該土地所有權人於62年時已取得系爭土地全部範圍，卻因103年時辦理持分合併而致所有權部異動，有關「持分合併」之登記，是否屬所有權之移轉不無疑義，本案敬請貴部協助釐清，俾利本會函復桃園市政府。\n五、檢附本案相關資料1份供參。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3991",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:23+08:00",
+   "source_key": "rmis:3991"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "97ff6dec325a7bf89a677eb96a6e3626b717568e5b8fc6e07d6350d8b5334aa8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "01年6月29日農水保字第1011865000號令,核釋有關農業發展條例(以下簡稱本條例)第18條所稱取得農業用地,應以土地登記簿所有權部認定之,其土地"
+  }
+ ]
+}

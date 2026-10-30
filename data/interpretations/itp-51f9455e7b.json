@@ -1,0 +1,64 @@
+{
+ "id": "itp-51f9455e7b",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031816049號",
+ "date": "2014-07-16",
+ "date_text": "103/7/16",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "關於宜蘭縣政府函詢都市計畫農業區土地被徵收申請興建農舍疑義1案，復請查照。",
+ "content": "一、復貴署103年7月8日營署綜字第1030040891號函。\n二、本案原1筆土地因都市計畫逕為分割為3筆土地，致其原有農業用地狀態及申請興建農舍之條件改變，倘逕為分割係以後續辦理徵收為目的，亦即二者間具直接因果關係，參照農業用地興建農舍辦法(以下簡稱本辦法)第4條立法意旨與行政院農業委員會97年3月10日農水保字第0970106937號函釋，應得允其以合併計算被徵收面積後依本辦法第4條規定申請興建農舍，以上意見，請貴署參辦。\n三、另1筆農業用地僅得興建1棟農舍，而本辦法第4條立法目的係為保障89年1月28日本條例修正生效前取得之農業用地興建農舍之既有權益，倘農業用地僅部分徵收，剩餘未徵收土地仍得申請興建農舍時，是否仍有前開規定之適用，並請貴署研參。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3859",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:14+08:00",
+   "source_key": "rmis:3859"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "803a44f4e45a4e22e18f051eb12069ddd19879929c688b10e212a4ba8869348c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "為分割係以後續辦理徵收為目的,亦即二者間具直接因果關係,參照農業用地興建農舍辦法(以下簡稱本辦法)第4條立法意旨與行政院農業委員會97年3月10日農水保字第09"
+  }
+ ]
+}

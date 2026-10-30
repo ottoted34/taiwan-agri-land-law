@@ -1,0 +1,64 @@
+{
+ "id": "itp-6b3798827b",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1080723025號",
+ "date": "2019-08-21",
+ "date_text": "108/8/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "回覆○○公司有關農業設施容許使用審查辦法第29條綠能設施使用範圍審認疑義",
+ "content": "主旨：有關貴公司函詢「申請農業用地作農業設施容許使用審查辦法」第29條綠能設施使用範圍審認疑義案，復如說明，請查照。\n說明：\n一、復貴公司108年7月30日栗文中太陽光電字第108073003號函。\n二、依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第27條第3項規定，依容許辦法第29條及第30條規定申請非附屬設置於農業設施之綠能設施(即地面型綠能設施)者，搭建基樁應以點狀方式施作，不得改變原地形地貌，並應維持農地適當之日照穿透，以避免影響土壤地力，且不得影響鄰地之農業使用與生產環境等原則，合先敘明。\n三、又容許辦法第7條規定，申請該辦法所定各項農業設施，其所有農業設施面總面積，不得超過申請設施所坐落之農業用地土地面積40%；至綠能設施設置底部以圍網格狀或全透明材質之維修走道，或以相關支撐架向上或外延伸之上空維修通道，自屬綠能設施之構造，應視為其附屬設施，一併納入綠能設施以垂直投影計算興建面積，又依容許辦法第29條規定申設之綠能設施，其興建面積應符合容許辦法第7條規定，以總面積不得超過申請設施所坐落之農業用地土地面積40%做整體規劃。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5632",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:35+08:00",
+   "source_key": "rmis:5632"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "29",
+    "amended_on": "2020-11-12",
+    "history": "中華民國109年11月12日行政院農業委員會農企字第1090013497A號令修正發布第25、29條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "9f00bfd438188b1df7ca31ed98c6db094219aa4b74e026af3460b07defdba2d3",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "29",
+   "kind": "extracted",
+   "snippet": "回覆○○公司有關農業設施容許使用審查辦法第29條綠能設施使用範圍審認疑義\n主旨:有關貴公司函詢「申請農業用地作農業設施容許使用審"
+  }
+ ]
+}

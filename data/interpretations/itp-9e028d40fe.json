@@ -1,0 +1,62 @@
+{
+ "id": "itp-9e028d40fe",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080235303號",
+ "date": "2019-08-28",
+ "date_text": "108/8/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農業發展條例89年1月4日修正施行後因繼承或贈與取得農業用地申請興建農舍資格一案，復如說明，請查照。",
+ "content": "一、復貴府108年8月16日府農務字第1080137571號函。\n二、查「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，且於農業用地興建農舍係為許可之行為，並非擁有農業用地即可興建農舍，先予敘明。\n三、依農業發展條例(以下簡稱本條例)第18條規定，農業用地申請興建農舍即因取得日期之不同而有所差異，在本條例89年1月4日修正施行前取得(包括繼承、贈與、買賣、拍賣等)之農業用地，且無自用農舍者，得循本條例第18條第3項及農業用地興建農舍辦法(以下簡稱本辦法)第3條規定申請興建農舍，不受本辦法第2條第1項至第3項申請興建農舍最小面積、土地取得應滿2年等規定。上開規定係鑒於依當時土地使用管制及建築法令規定，農地得有條件准許興建農舍，同時，農地所有權之取得以能自耕者為限，故對於本條例修正施行前已取得農地者，延續其農業用地申請興建農舍之條件\n四、爰此，本條例89年1月4日修正施行後，因繼承或受贈取得農業用地申請興建農舍者，尚非本條例第18條第3項規定得例外考量者，故仍應依本條例第18條第1項及本辦法第2條規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4647",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:32+08:00",
+   "source_key": "rmis:4647"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "43a9c064f301f95dec90f028ea8cf1a267cf7244f4b2cad6cffe0ce35bf4512c",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函詢農業發展條例89年1月4日修正施行後因繼承或贈與取得農業用地申請興建農舍資格一案,復如說明,"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "賣等)之農業用地,且無自用農舍者,得循本條例第18條第3項及農業用地興建農舍辦法(以下簡稱本辦法)第3條規定申請興建農舍,不受本辦法第2條第1項至第3項申請興建"
+  }
+ ]
+}

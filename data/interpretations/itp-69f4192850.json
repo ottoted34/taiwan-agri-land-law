@@ -1,0 +1,79 @@
+{
+ "id": "itp-69f4192850",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031803064號",
+ "date": "2014-03-17",
+ "date_text": "103/3/17",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "貴府函為有關農業發展條例第18條第3項規定執行疑義案，復請查照。",
+ "content": "一、復貴府103年2月7日府農管字第1030025367號函。\n二、有關「農業用地興建農舍辦法」第2條第1項各款申請人資格條件之審查，申請人需檢具1、稅捐稽徵單位開具申請人之房屋財產歸戶查詢清單。2、申請人房屋財產歸戶查詢清單之所有房屋使用執照影本。3、申請人切結無自用農舍等文件，俾以審查申請人是否無自用農舍，先予敘明。\n三、首揭函所述貴轄民眾信託一筆土地予他人，該信託土地上有未辦理建物登記之農舍，並擬以另一筆農地申請興建農舍，該申請人是否符合農業發展條例第18條第3項規定「無自用農舍而需興建者」一節，查本案卷附資料，○○○於68年曾取得農舍使用執照，請貴府應先釐清該農舍是否仍為申請人所有，並依行政院農業委員會102年9月30日農授水保字第1021866061號函附之資格條件審查表確實審查(正本諒達)。\n四、另申請人若將其名下農地及其坐落之農舍信託他人，以此規避無自用農舍之審查等情，查依信託法第63條及第64條規定，無論信託利益歸屬何者，委託人均得隨時終止信託意旨觀之，其無自用農舍條件將處於不確定狀態下，貴府於核發無自用農舍證明時，應依具體個案事實認定，並宜慎重，以防堵類此脫法行為發生。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2856",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:44+08:00",
+   "source_key": "rmis:2856"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ef11c40a975a6d67eac1ba3e61bda2ba5dcce096109e65683ae1dd67a93c82ba",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "貴府函為有關農業發展條例第18條第3項規定執行疑義案,復請查照。\n一、復貴府103年2月7日府農管字第10300"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "03年2月7日府農管字第1030025367號函。\n二、有關「農業用地興建農舍辦法」第2條第1項各款申請人資格條件之審查,申請人需檢具1、稅捐稽徵單位開具申請人之房屋財產"
+  }
+ ]
+}

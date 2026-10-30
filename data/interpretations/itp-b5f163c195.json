@@ -1,0 +1,59 @@
+{
+ "id": "itp-b5f163c195",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132605618號",
+ "date": "2024-04-24",
+ "date_text": "113/4/24",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢現地農作係以代耕模式進行，是否符合申請興建農舍農民資格疑義案，復請查照。",
+ "content": "一、查「農舍」係與農業經營不可分離之建築物，其興建之立法意旨，係基於便於就近從事農作生產提供工作及居住場所，始得依規申請建築農舍，並非擁有農業用地即可興建農舍，先予敘明。\n二、依農業用地興建農舍辦法第2條第2項規定，申請興建農舍資格應檢附經營計畫書，該計畫書應敘明興建農舍之需求，前揭經營計畫書亦明定申請人應敘明「既有農業經營現況及規模、產銷計畫」，出具從事農業生產事實證明文件、該筆農業用地之農產物種類與經營方式、經營面積及規模，與興建農舍後之產銷計畫等，以供查認申請人確有實際從事農業事實，並確保該農舍為特許農民於農業用地上從事積極性、經濟性農業生產活動所需而興建。爰申請人出具之從事農業生產事實證明文件，應核實審酌申請人確有直接從事農業生產之事實，且於該農地之農業經營行為係屬常態之經營方式，並有申請興建農舍之合理性及必要性，始符合該辦法之規定。\n三、有關本案申請人之農業經營模式，係各栽培管理皆委由代耕業者判斷並施行者，就申請人有無需興建農舍就近並直接從事農業生產之合理性及必要性，貴府自得就農業發展條例第18條規定之興建農舍之需求性及有影響農業生產環境及農村發展之虞等情，予以裁量核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5997",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:49:38+08:00",
+   "source_key": "rmis:5997"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2285ce5d7d0f2c9538b35aa32fc775e02e696eb3fc3dd82249c011e452ba400f",
+ "topics": [
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "請建築農舍,並非擁有農業用地即可興建農舍,先予敘明。\n二、依農業用地興建農舍辦法第2條第2項規定,申請興建農舍資格應檢附經營計畫書,該計畫書應敘明興建農舍之需求,前揭"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "需興建農舍就近並直接從事農業生產之合理性及必要性,貴府自得就農業發展條例第18條規定之興建農舍之需求性及有影響農業生產環境及農村發展之虞等情,予以裁量核處。"
+  }
+ ]
+}

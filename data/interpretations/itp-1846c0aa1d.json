@@ -1,0 +1,70 @@
+{
+ "id": "itp-1846c0aa1d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030207648號",
+ "date": "2014-03-21",
+ "date_text": "103/3/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "都市計畫農業區「道」地目土地作私設通路使用，是否須依農業用地變更回饋金撥繳及分配利用辦法繳交回饋金疑義案。",
+ "content": "主旨：有關都市計畫農業區「道」地目土地作私設通路使用，是否須依農業用地變更回饋金繳及分配利用辦法繳交回饋金疑義案，復請查照。\n說明：\n一、復貴府103年3月11日府農企字第1030041528號函。\n二、依農業發展條例第12條規定，農業用地變更為非農業使用，應視其變更性質繳交回饋金；又現行都市或非都市土地之使用，係以其使用分區或編定使用地類別進行管制，尚非以地目為準，故都市計畫農業區係屬農業用地範圍，涉及變更為非農業使用時，原則上仍應依上開條例繳交回饋金，先予敘明。\n三、查私設通路依都市計畫法臺灣省施行細則第29條規定，尚非屬農業區為保持農業生產之相關設施，故非屬農業使用性質，惟考量都市計畫之管制尚有依地方需求於都市計畫書中調整使用之規定，爰建議可洽貴府都市計畫主管機關確認其使用管制現況，得否逕依所詢「道」地目作道路使用，再據以判定有無前開規定須繳交回饋金之情形。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5277",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:41+08:00",
+   "source_key": "rmis:5277"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2008",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國105年05月25日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "326a0f8d4bd644e2b1ebe9e52e4ef23b909ef6a0ab4d0b7eded1771566ec509f",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
+  },
+  {
+   "law_id": "RMIS-2008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "都市計畫農業區「道」地目土地作私設通路使用,是否須依農業用地變更回饋金撥繳及分配利用辦法繳交回饋金疑義案。\n主旨:有關都市計畫農業區「道」地目土地作私設通路使用,是否須"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "03年3月11日府農企字第1030041528號函。\n二、依農業發展條例第12條規定,農業用地變更為非農業使用,應視其變更性質繳交回饋金;又現行都市或非都市土地"
+  }
+ ]
+}

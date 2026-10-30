@@ -1,0 +1,52 @@
+{
+ "id": "itp-af3aa7cd73",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150203982號",
+ "date": "2026-01-30",
+ "date_text": "115/1/30",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴公司函詢都市計畫保護區土地存有合法建物於辦理特定工廠用地變更時，是否須徵得農業主管機關同意案，請查照。",
+ "content": "一、依據「農業主管機關同意農業用地變更使用審查作業要點」第2點規定，都市計畫農業區、保護區農業用地劃定或變更為非農業使用，應徵得農業主管機關同意。有關貴公司所詢都市計畫保護區土地存有合法建物於辦理特定工廠之土地變更，宜先請釐清該合法建築物坐落土地，是否於發布都市計畫前已非屬農業用地，或發布都市計畫後該保護區土地經核准供非農業使用在案之土地，倘非前開情形，該都市計畫保護區仍屬於農業用地範圍，應依該要點相關規定，擬具農業用地變更使用說明書，由目的事業主管機關轉請農業主管機關同意後，始得辦理。\n二、另查內政部針對都市計畫特定工廠之土地變更，訂有「都市計畫取得特定工廠登記土地變更處理原則」規定，倘貴公司仍有疑義，建請逕洽所在地直轄市、縣（市）政府提供協處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6048",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:22+08:00",
+   "source_key": "rmis:6048"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "688350525c8ae8a8bf6b5f927d81c857e8d30b0e9b5770f38b010326a16c6280",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "用地變更時,是否須徵得農業主管機關同意案,請查照。\n一、依據「農業主管機關同意農業用地變更使用審查作業要點」第2點規定,都市計畫農業區、保護區農業用地劃定或變更為非農業使用,應徵得農業主管"
+  }
+ ]
+}

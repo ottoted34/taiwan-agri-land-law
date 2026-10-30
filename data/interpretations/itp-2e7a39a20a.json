@@ -1,0 +1,65 @@
+{
+ "id": "itp-2e7a39a20a",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1021825589號",
+ "date": "2013-11-27",
+ "date_text": "102/11/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "為非都市土地使用管制規則第6條附表一農牧用地容許使用項目「農舍」之許可使用細目「農舍及農舍附屬設施」增訂附帶條件一案，復請查照。",
+ "content": "一、復貴部102年10月29日內授中辦地字第1026039724號函暨102年11月6日內授中辦地字第1026040367號函。\n二、貴部修正本會建議文字為「應屬依農業用地興建農舍辦法核准興建之農舍」一節，本會無意見。\n三、另有關屏東縣政府102年7月18日屏府農企字第10221539900號函暨102年10月30日屏府農企字第10272730000號函表示旨揭建議恐不利農舍補照事宜一節，本會92年10月31日農企字第0920163303號函暨93年2月9日農企字第0930105880號函就未經申請許可於農地上興建之建築物補辦農舍建造執照，所需取得之農業用地作農業使用證明書核發事宜已明示有案，直轄市、縣(市)政府據以執行多年並無窒礙，亦不因旨揭建議而異，屏東縣政府前開號函所慮事宜尚不足採。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3760",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:11:02+08:00",
+   "source_key": "rmis:3760"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "3f21f850cf5745aa720a18509d3a9c3f09f79a216e5cb55a539918f5f353ead6",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "026040367號函。\n二、貴部修正本會建議文字為「應屬依農業用地興建農舍辦法核准興建之農舍」一節,本會無意見。\n三、另有關屏東縣政府102年7月18日屏府農"
+  }
+ ]
+}

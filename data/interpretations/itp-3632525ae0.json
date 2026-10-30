@@ -1,0 +1,58 @@
+{
+ "id": "itp-3632525ae0",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010121931號",
+ "date": "2012-09-03",
+ "date_text": "101/9/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "共有農地申請核發農業用地作農業使用證明書，其檢附分管契約書之分管區域圖是否須由測量機構繪製或得自行描繪疑義案。",
+ "content": "主旨：有關 貴府函詢共有農地申請核發農業用地作農業使用證明書，其檢附分管契約書之分管區域圖是否須由測量機構繪製或得自行描繪疑義案，復請 查照。\n說明：\n一、復 貴府101年8月16日府農管字第1010203545號函。\n二、查共有農業用地申請核發農業用地作農業使用證明書，須檢附全體共有人分管契約書主要係為釐清實際違規行為人之責任，並為兼顧共有人之權益。因此提供分管契約書應以能明確識別各共有人之分管區域為目的。來函所詢「分管區域圖」倘符合上開明確性原則，並為各共有人認可，尚無製作方式及相關格式之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5569",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:02+08:00",
+   "source_key": "rmis:5569"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "eaa10fabe649ea2548ba82497637afceb8d7aa11c9e350a3d756da93c91d5780",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}

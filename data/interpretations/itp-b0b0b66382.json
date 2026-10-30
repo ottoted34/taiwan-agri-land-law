@@ -1,0 +1,52 @@
+{
+ "id": "itp-b0b0b66382",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1132616438號",
+ "date": "2024-10-28",
+ "date_text": "113/10/28",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢糧政跨區即時申辦服務作業平台之耕作錄，得否認屬為申請人實際從農佐證資料疑義案，復請查照。",
+ "content": "一、依據「農業用地興建農舍辦法」（下稱本辦法）第2條第2項規定，申請興建農舍資格應檢附經營計畫書，該計畫書應敘明興建農舍之需求，前揭經營計畫書亦明定申請人應敘明「既有農業經營現況及規模、產銷計畫」，出具從事農業生產事實證明文件、該筆農業用地之農產物種類與經營方式、經營面積及規模，與興建農舍後之產銷計畫等，以供查認申請人確有實際從事農業事實，並確保該農舍為特許農民於農業用地上從事積極性、經濟性農業生產活動所需而興建。\n二、查糧政跨區即時申辦服務作業平台係由農業部農糧署建置，供鄉（鎮、市、區）公所及農會等執行小組受理轉（契）作、生產環境維護、自行復耕種植登記及繳售公糧稻穀等申報審核之作業系統，該系統登錄之農地上農作生產資料，得作為本辦法第2條規定之經營計畫書相關佐證資料，故檢附農業生產相關佐證資料，如實屬該興建農舍申請人於該筆農業用地之經營實績，即符合本辦法之規定；但如有相關文件或事實呈現，實際從事農業經營者非該農舍之申請人時，自不符合本辦法之規定。爰本案申請農舍者，應為該筆土地所有權人及實際經營人，方得為興建農舍之適格申請人，故請貴府本權責查證，並參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6011",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:49+08:00",
+   "source_key": "rmis:6011"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ef01ea9227272e0e36cc614aec6af707d3364b3d4f9b4fc60d2fd8d28ed7b3b6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "得否認屬為申請人實際從農佐證資料疑義案,復請查照。\n一、依據「農業用地興建農舍辦法」(下稱本辦法)第2條第2項規定,申請興建農舍資格應檢附經營計畫書,該計畫書應敘明"
+  }
+ ]
+}

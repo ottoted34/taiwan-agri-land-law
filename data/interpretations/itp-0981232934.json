@@ -1,0 +1,68 @@
+{
+ "id": "itp-0981232934",
+ "doc_class": "interpretation",
+ "docno": "農企字第1040235731號",
+ "date": "2015-10-21",
+ "date_text": "104/10/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農業用地上有未申請核准之建物(農舍)，是否得先受理審查並核發農業用地作農業設施容許使用同意書之疑義案，復請查照。",
+ "content": "一、復貴府104年9月10日府農企字第1040136882號函。\n二、有關農業用地上同時存有未經申請核准之農舍及農業設施，本會前於95年3月30日以農企字第0950115471號函說明略以：宜請先確認是否屬得核准容許使用之農業設施或農舍，倘經確認且除該農業設施及農舍外，並無其他違規使用情事，得參據本會相關函釋意旨，於核發僅供申請補辦農舍建築執照之農業使用證明書時，一併發給容許使用證明，以補辦相關程序（相關函釋請參閱本會農地法規檢索系統，網址：http://talis.coa.gov.tw/ALRIS/）。\n三、查農舍係供與農業經營不可分離之設施物，始附帶提供居住功能，故農舍非等同純住宅使用，其內部空間亦具存放農業生產資材、農產收穫物、農機具等與農業經營相關之功能。復查農業設施，亦為農業生產所必要之輔助經營管理使用，本案擬申請之農業資材室，依「申請農業用地作農業設施容許使用審查辦法」第13條附表1「農作產銷設施-農業資材室」之申請基準或條件，並明敘「限供存放肥料、農藥、種子、農具、器皿、農產品等使用」。爰考量該項設施用途與農舍之功能恐具重疊性，建議於審認農業經營之必要性與合理性之容許使用時，宜與農舍申請併予審酌，較為周妥。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3979",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:07+08:00",
+   "source_key": "rmis:3979"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "fd88e3d5e054d13edb16ca363e47afc4e3882c8c748a32a055604d13c027ae19",
+ "topics": [
+  "farm_use_cert",
+  "material_room",
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "農業生產所必要之輔助經營管理使用,本案擬申請之農業資材室,依「申請農業用地作農業設施容許使用審查辦法」第13條附表1「農作產銷設施-農業資材室」之申請基準或條件,並明敘「限供存放肥料、農藥、"
+  }
+ ]
+}

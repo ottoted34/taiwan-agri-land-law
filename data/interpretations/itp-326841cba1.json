@@ -1,0 +1,54 @@
+{
+ "id": "itp-326841cba1",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040246422號",
+ "date": "2015-12-22",
+ "date_text": "104/12/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府函詢農業用地興建農舍辦法執行興建農舍農民資格審查作業相關疑義案，復請查照。",
+ "content": "一、復貴府104年11月25日府農務字第1040403696號函。\n二、依據本會104年10月21日農水保字第1041866479號函附件「興建農舍之申請人資格條件審查表」中「申請人檢具證明文件」，未包含農會開立之農保證明，應檢附之資料仍請依該函規定辦理。\n三、有關申請人檢附「領取農業天然災害救助之證明文件」一節，查農產業天然災害救助作業要點第5點第3款第5目略以，基層公所應依抽查結果分批分次統計造冊送直轄市、縣(市)政府核定，直轄市、縣(市)政府並將核定結果以書面通知基層公所，由基層公所轉知農民。爰農民倘有申請天然災害救助紀錄，允應具備相關核定證明文件。另為協助基層公所辦理上開業務，本會農糧署業於農產業天然災害現金救助系統開發格式化之「農業天然災害審核通知」(如附件)，相關文件可洽土地所在地公所協助提供。\n四、次查「調整耕作制度活化農地計畫」之全國糧政跨區即時申辦服務作業平台，目前已開放相關權限予縣市政府轉(契)作、休耕承辦人，並可於共同申報處理系統項下查詢申報及核定情形。建議應由農舍申請人檢附轉作申報第三聯單，或出具領取補貼之匯款存摺影本，俾供縣市政府據以查詢申報資料及核定情形。另因「全國糧政跨區即時申辦服務作業平台」系統屬整合平台，為避免系統資料庫龐大造成運作延宕，可查詢其別為當期作往前起算2年內之資料。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3338",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:13+08:00",
+   "source_key": "rmis:3338"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6ef5966b26d6ca5cffde24cd08486fe708b03e58f84ffa155e40043d963dd306",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關貴府函詢農業用地興建農舍辦法執行興建農舍農民資格審查作業相關疑義案,復請查照。\n一、復貴府104年11月25"
+  }
+ ]
+}

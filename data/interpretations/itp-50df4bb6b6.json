@@ -1,0 +1,72 @@
+{
+ "id": "itp-50df4bb6b6",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020729228號",
+ "date": "2013-09-24",
+ "date_text": "102/9/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地設置農路，得否鋪設柏油路面之疑義案。",
+ "content": "主旨：有關台端函詢農業用地設置農路，得否鋪設柏油路面之疑義案，復請查照。\n說明：\n一、復台端102年9月11日申請書。\n二、依據農業發展條例第8條之1第2項規定：「農業用地上興建有固定基礎之農業設施，應\n先申請農業設施之容許使用，並依法申請建築執照。...」本會並依據同條文第3項之\n授權，訂有「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)作為\n執行依據。是以，農業用地上設置有固定基礎之農路，應依容許辦法之規定，向土地\n所在地之直轄市、縣(市)政府或其委任(委辦)之鄉(鎮、市、區)公所申請容許使用；\n查前開法令尚無限制不得使用柏油鋪設路面之規定。\n三、惟另依農業發展條例第8條之1第1項規定：「農業用地上申請以竹木、稻草、塑膠材\n料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申\n請建築執照。直轄市、縣(市) 政府得斟酌地方農業經營需要，訂定農業用地上搭建無\n固定基礎之臨時性與農業生產有關設施之審查規範。」復依容許辦法第4條規定：「依\n本條例第8條之1第1項規定搭建無固定基礎之臨時性與農業生產有關之設施，除直轄市\n或縣（市）主管機關另有規定者外，得免申請容許使用。」故農業用地設置之農路，\n倘係屬臨時性且為農業經營不可分離之無固定基礎路面，以利農產運輸通行使用，則\n除土地所在地之直轄市、縣(市)政府另有規定者外，依法得免申請容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4961",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:12:29+08:00",
+   "source_key": "rmis:4961"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "c699335701a4672bc64c7fdb7c1b0f13e4edd98e3e8da1ea4a85cf8c985c2cd2",
+ "topics": [
+  "paving",
+  "container",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "照。\n說明:\n一、復台端102年9月11日申請書。\n二、依據農業發展條例第8條之1第2項規定:「農業用地上興建有固定基礎之農業設施,應\n先申請農業設施之容許使用,"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "法申請建築執照。...」本會並依據同條文第3項之\n授權,訂有「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)作為\n執行依據。是以,農業用地上設置有固定基礎之農路,應依容"
+  }
+ ]
+}

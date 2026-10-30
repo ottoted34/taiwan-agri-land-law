@@ -1,0 +1,54 @@
+{
+ "id": "itp-8662ac225a",
+ "doc_class": "interpretation",
+ "docno": "中市農地字第1040030951號",
+ "date": "2015-09-15",
+ "date_text": "104/9/15",
+ "agency_text": "臺中市政府農業局",
+ "category": "解釋函",
+ "subject": "有關○○○申請坐落於本市神岡區○○○地號農業用地興建自用農舍之申請人資格條件審查乙案，詳如說明，請查照。",
+ "content": "一、依○○○104年9月7日申請書辦理。\n二、查104年9月4日修訂之農業用地興建農舍辦法第2條第2項：「前項第五款規定確供農業使用與不影響農業生產環境及農村發展之認定，由申請人檢附依中央主管機關訂定之經營計畫書格式，載明該筆農業用地農業經營現況、農業用地整體配置及其他事項，送請直轄市、縣（市）主管機關審查。」，準此，旨揭資格條件審查需按前開規定審認，合先敘明。\n三、惟前開規定之「經營計畫書格式」尚未訂定，且「不影響農業生產環境及農村發展」之認定條件亦未明訂，本局尚難落實前開農業用地興建農舍辦法審查事項，為維護民眾權益，請貴局儘速制定相關申請書件格式及審查原則。\n四、另查本案申請人非屬農民健康保險被保險人或全民健康保險第三類被保險人，須依前開辦法第3條之1：「農民之認定，由農民於申請興建農舍時，檢附農業生產相關佐證資料，經直轄市、縣（市）主管機關會同專家、學者會勘後認定之。」，為求全國有共同之認定基準，亦請貴局制定審查程序及條件，以憑遵辦。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "臺中市政府農業局",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3974",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:46+08:00",
+   "source_key": "rmis:3974"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3216c83778f23fc21e8ee2fabed4c60fb7ee0af8e298fafd5f9c336a0a7772ad",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "○104年9月7日申請書辦理。\n二、查104年9月4日修訂之農業用地興建農舍辦法第2條第2項:「前項第五款規定確供農業使用與不影響農業生產環境及農村發展之認定,由申請"
+  }
+ ]
+}

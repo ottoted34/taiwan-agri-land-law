@@ -1,0 +1,70 @@
+{
+ "id": "itp-9658f248ec",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1021828210號",
+ "date": "2013-11-29",
+ "date_text": "102/11/29",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴局函為申請興建農舍資格審查疑義案，復請查照。",
+ "content": "一、復貴局102年11月25日中市農地字第1020037334號函。\n二、監察院前於99年以「89年1月28日以前已取得農業用地之所有權人，將其持有之農地分次興建農舍或興建一坪農舍，藉以提高其流通性及價格，致使農業用地移轉被扭曲為商品化，顯見現行法令規範未臻周延完備。」等情對內政部及行政院農業委員會提出糾正案，二部會遂於本次農業用地興建農舍辦法修法條文新增農舍採分期興建方式辦理者，申請人除原申請人外，應符合興建資格之規定，並參照建築法授權各直轄市、縣(市)政府訂定之建築管理自治條例中，有關建築物在45平方公尺以下，免由建築師設計、監造、營造業承造之規定，增訂農舍建築面積應超過45平方公尺。但經直轄市、縣(市)農業單位或其他主管機關同意者，不在此限。\n三、至農業發展條例修正施行前取得之農業用地，其面積未足450平方公尺，以致未能興建超過45平方公尺農舍者，依前開辦法第9條第2項第6款規定，經直轄市、縣(市)農業單位或其他主管機關同意者，不在此限，貴局如經考量確有特殊需求而須辦理者，得依上開辦法規定就是類案件訂定審查原則后據以辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3509",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:10:55+08:00",
+   "source_key": "rmis:3509"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "dae8f21bb17c156fa91499d0f6a3ba913b20d7315c0be0e246fa09b700e0e941",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "。」等情對內政部及行政院農業委員會提出糾正案,二部會遂於本次農業用地興建農舍辦法修法條文新增農舍採分期興建方式辦理者,申請人除原申請人外,應符合興建資格之規定,"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "市、縣(市)農業單位或其他主管機關同意者,不在此限。\n三、至農業發展條例修正施行前取得之農業用地,其面積未足450平方公尺,以致未能興建超過45平方公尺"
+  }
+ ]
+}

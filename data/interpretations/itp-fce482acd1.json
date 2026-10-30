@@ -1,0 +1,54 @@
+{
+ "id": "itp-fce482acd1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080731321號",
+ "date": "2019-11-14",
+ "date_text": "108/11/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴市清水區○○○地號(都市計畫農業區)興建自用農舍之申請人資格條件案，復如說明，請查照。",
+ "content": "一、復貴局108年11月1日中市農地字第1080037925號函。\n\n二、有關全民健康保險第三類被保險人之認定原則，請參照衛生福利部中央健康保險署104年11月5日健保承字第1040012002號函(請至農舍解釋函查詢系統查詢)，爰旨案興建自用農舍之申請人資格條件是否符合農業用地興建農舍辦法第3條之1規定，仍請貴局就個案實情審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4692",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:44+08:00",
+   "source_key": "rmis:4692"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e65e9577855e3e6f1259c398634a602ce2b42a17cf2e0e0c5820cb3982aedff8",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "函查詢系統查詢),爰旨案興建自用農舍之申請人資格條件是否符合農業用地興建農舍辦法第3條之1規定,仍請貴局就個案實情審酌核處。"
+  }
+ ]
+}

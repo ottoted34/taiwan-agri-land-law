@@ -1,0 +1,52 @@
+{
+ "id": "itp-f4ee6fd046",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140719105號",
+ "date": "2025-09-02",
+ "date_text": "114/9/2",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函轉貴轄下營區○○○所詢隔離設施設置圍牆相關法規適用疑義案，請查照。",
+ "content": "一、依據「農業主管機關同意農業用地變更使用審查作業要點」(下稱農變要點)第9點明定，變更農業用地作與農業生產性質不相容之目的事業使用者，應配置適當寬度之隔離綠帶或設施，其配置區位應與毗鄰農業用地相緊臨，且隔離綠帶或設施之設置最小寬度，除第10點規定有配置寬度者外，至少應為1.5公尺。考量圍牆非屬變更要點明定之隔離設施項目，不得計入隔離綠帶或設施之寬度，倘有阻擋水患或保護私人財產之需求，擬設置圍牆，則該隔離綠帶或設施之配置寬度應設置於圍牆外圍緊鄰農地者，始具隔離效果，故農變要點尚非規定不得設置圍牆。\n二、是以，有關農業用地變更為特定目的事業用地作碾米廠使用，涉及圍牆之施設疑義，仍請貴局參照上開原則逕復陳情人。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6043",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:03+08:00",
+   "source_key": "rmis:6043"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "babb875c4ff838eea65869be7c2de2b68b492e16b0044f4d2b83c303e7214f09",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "○所詢隔離設施設置圍牆相關法規適用疑義案,請查照。\n一、依據「農業主管機關同意農業用地變更使用審查作業要點」(下稱農變要點)第9點明定,變更農業用地作與農業生產性質不相容之目的事業使用者,"
+  }
+ ]
+}

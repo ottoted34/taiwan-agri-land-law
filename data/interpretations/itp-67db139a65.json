@@ -1,0 +1,48 @@
+{
+ "id": "itp-67db139a65",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080238647號",
+ "date": "2019-09-12",
+ "date_text": "108/9/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "不利農業經營用地因土地長期低窪積水得否以特定土方填土或施作設施基底使用",
+ "content": "主旨：有關貴府函詢公告不利農業經營用地，因土地長期低窪積水，得否以特定土方填土或施作設施基底使用疑義案，復請查照。\n說明：\n一、復貴府108年9月6日屏府農企字第10873403500號函。\n二、查本會前於108年3月5日以農企字第1080207007號函復貴府(諒達)，說明本會歷年函釋回填於農業用地之土質原則，不因土地所在區位、立地條件、農作方式等因素而有不同，即便沿海嚴重地層下陷地區之農業用地仍不應回填營建剩餘土石方或不適耕作土方等物質，俾利農地資源之永續利用。至對於各類土質是否適合該地區種植農作物以及相關農作方式等倘有疑義，建議可洽詢各地方農業試驗及改良場所協助。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5132",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:17+08:00",
+   "source_key": "rmis:5132"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3b1265b4bc0a2de4e411dcf7f5e31ce40afc3807239dd178521bd170cccd84c5",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  }
+ ]
+}

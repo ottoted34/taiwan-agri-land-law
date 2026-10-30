@@ -1,0 +1,64 @@
+{
+ "id": "itp-08a6cffdaa",
+ "doc_class": "interpretation",
+ "docno": "農企字第1000175844號",
+ "date": "2011-11-30",
+ "date_text": "100/11/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "承租國有耕地之承租人(租賃契約書之正產物為甘薯)，得否申請農業用地作農業設施─「菇類栽培場」容許使用之疑義案",
+ "content": "主旨：有關 貴府函詢承租國有耕地之承租人(租賃契約書之正產物為甘薯)，得否申請農業用地作農業設施─「菇類栽培場」容許使用之疑義案，復請 查照。\n說明：\n一、依據財政部國有財產局100年11月25日台財產局管字第1000036742號函(副本諒達)辦理，並復 貴府100年11月10日府農務字第1000304161號函。\n二、依據國有耕地放租實施辦法第11條第1項規定：「國有耕地之租期、租金及支付方式，由放租機關與承租人約定之。」案經財政部國有財產局前揭號函說明略以：「依國有耕地放租實施辦法規定辦理耕地放租，與承租人簽訂之國有耕地放租租賃契約書約定『正產物』種類係作為計算租金之標準，並非限定承租人僅能種植是類農作物，承租人於承租國有耕地上種植農作物，即無違反租約約定之使用方式」，合先敘明。\n三、本案依案附之國有耕地放租租賃契約書所示，承租人與財政部國有財產局臺灣中區辦事處南投分處所簽定之耕作正產物為甘薯，而本案國有放租耕地之承租人，倘擬申請農業用地作農業設施「菇類栽培場」容許使用，經依財政部訂頒之「國有出租耕林養地同意興建相關農業林業養殖設施審查作業要點」規定，取得國有財產局臺灣中區辦事處南投分處核發之「出租國有土地同意使用證明書」，貴府自得依該出租國有土地同意使用證明書及「申請農業用地作農業設施容許使用審查辦法」之規定，受理承租人申請「菇類栽培場」之容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5101",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:15:18+08:00",
+   "source_key": "rmis:5101"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "8c784b0fa6f7e7551bc326d0bad5fc17c8a51936105808888b55a207e6167ec2",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地同意使用證明書」,貴府自得依該出租國有土地同意使用證明書及「申請農業用地作農業設施容許使用審查辦法」之規定,受理承租人申請「菇類栽培場」之容許使用。"
+  }
+ ]
+}

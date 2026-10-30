@@ -1,0 +1,93 @@
+{
+ "id": "itp-8f75163fb4",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990183824號",
+ "date": "2010-12-20",
+ "date_text": "99/12/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "為臺灣桃園地方法院因受理98年訴字第1033號返還土地事件案，函詢農業用地施設柏油、水泥之適用法令疑義。",
+ "content": "主旨：有關 貴府為臺灣桃園地方法院因受理98年訴字第1033號返還土地事件案，函詢農業用地施設柏油、水泥之適用法令疑義，復請 查照。\n說明：\n一、復 貴府99年12月14日府農管字第0990494187號函。\n二、有關農業用地上存有施設多年之柏油、水泥，倘確為土地使用編定前即已存在，且係作為農業經營不可分離之農路或曬場等農業設施使用者，依農業用地作農業使用認定及核發證明辦法第5條第2款第2目規定，經檢附得為從來使用之認明文件者，可無需補辦農業設施之容許使用同意書；又該農業用地倘符合區域計畫法、非都市土地使用管制規則等相關法令規定者，尚無涉及農業發展條例第69條第1項規定之處理事宜。\n三、另依農業發展條例第8條之1第2項規定：「農業用地上興建有固定基礎之農業設施，應先申請容許使用...」，有關農業用地施設之柏油、水泥，倘非屬土地使用編定前即已存在之情形者，仍應審認是否為農業經營有關之農業設施，並依「申請農業用地作農業用地容許使用審查辦法」規定申請容許使用，始符法制。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5427",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:16:11+08:00",
+   "source_key": "rmis:5427"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "5",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "fd2dd4231e0ce2f5dab26ed5e7135382a7691d23a0fe67cd606a4e5529525a64",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "在,且係作為農業經營不可分離之農路或曬場等農業設施使用者,依農業用地作農業使用認定及核發證明辦法第5條第2款第2目規定,經檢附得為從來使用之認明文件者,可無需補辦農業設施之容許使用同"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "69",
+   "kind": "extracted",
+   "snippet": "區域計畫法、非都市土地使用管制規則等相關法令規定者,尚無涉及農業發展條例第69條第1項規定之處理事宜。\n三、另依農業發展條例第8條之1第2項規定:「農業用地上興"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "尚無涉及農業發展條例第69條第1項規定之處理事宜。\n三、另依農業發展條例第8條之1第2項規定:「農業用地上興建有固定基礎之農業設施,應先申請容許使用...」,有關"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "認是否為農業經營有關之農業設施,並依「申請農業用地作農業用地容許使用審查辦法」規定申請容許使用,始符法制。"
+  }
+ ]
+}

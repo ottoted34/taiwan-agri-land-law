@@ -1,0 +1,48 @@
+{
+ "id": "itp-94a09e8d82",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090203978號",
+ "date": "2020-02-04",
+ "date_text": "109/2/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農舍申請作為民宿使用應由全部所有權人共同經營與管理，共有人得否出具放棄經營民宿申明書，俾利其他所有權人申請經營民宿一案",
+ "content": "一、依據南投縣政府109年1月31日府觀產字第1090025239號函辦理。\n\n二、有關農舍申請作為民宿使用應由全部所有權人共同經營與管理一節，查本會前於108年10月17日農企字第1080238648號函覆貴局在案，並經貴局108年10月29日觀宿字第1080923346號函知各直轄市、縣市政府在案。\n\n三、依南投縣政府來文說明二所述，因具軍公教身分、本身無經營意願或其它因素致無法共同經營與管理民宿舍者，即與貴局前開108年10月29日號函所述原則不符。另針對民宿管理辦法第9條規定不得經營民宿者，查本會前於107年12月10日農企字第1070245911號函復貴局在案，惟部分縣市似仍有相關疑義，因尚涉及民宿管理政策與民宿登記審認事宜，惠請\n貴局協處逕復。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4699",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:54:10+08:00",
+   "source_key": "rmis:4699"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "374e27baf6227426d348409f5ece343b60c9a29918f2efbb585c8f8af077154a",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

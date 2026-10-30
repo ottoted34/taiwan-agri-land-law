@@ -1,0 +1,71 @@
+{
+ "id": "itp-2651d3b189",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1031815837號",
+ "date": "2014-07-11",
+ "date_text": "103/7/11",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關民眾詢問「區域計畫法、農發條例、農舍等相關問題」1案，涉屬貴管權責部分，移請卓處逕復陳情人，請查照。",
+ "content": "一、依據陳情人103年7月7日至行政院農業委員會首長信箱留言辦理(如附件)。\n二、依行政院農業委員會102年7月12日農水保字第1021865710號略以：「按農業發展條例第18條第5項規定：『前四項興建農舍之農民資格、最高樓地板面積、農舍建蔽率、容積率、最大基層建築面積與高度、許可條件、申請程序、興建方式、許可之撤銷或廢止及其他應遵行事項之辦法，由內政部會同中央主管機關定之。』，爰貴部會同本會訂定『農業用地興建農舍辦法』(以下簡稱本辦法)為申請興建農舍之審核依據，故未依本辦法申請核准，而於農業用地上興建之構造物，不得認定為農舍」，先予敘明。\n三、至有關陳情人詢問「於農牧用地上屋舍作為一般住家，是否有違反區域計畫法」一節，係屬貴管，敬請卓處逕復。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3858",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:16+08:00",
+   "source_key": "rmis:3858"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "721a0f1f91a8d3ed658385a95f7fb38d4ff7cd84745bb5f74636f65d9b03ae2d",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "102年7月12日農水保字第1021865710號略以:「按農業發展條例第18條第5項規定:『前四項興建農舍之農民資格、最高樓地板面積、農舍建蔽率、容積率、最大"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之辦法,由內政部會同中央主管機關定之。』,爰貴部會同本會訂定『農業用地興建農舍辦法』(以下簡稱本辦法)為申請興建農舍之審核依據,故未依本辦法申請核准,而於農業用地上"
+  }
+ ]
+}

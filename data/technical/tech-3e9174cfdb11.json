@@ -1,0 +1,38 @@
+{
+ "id": "tech-3e9174cfdb11",
+ "source_key": "datamoa:875:b5a64ab396f8d2b6",
+ "title": "第五篇　生物技術研究",
+ "series": "建場百週年紀念專刊",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "875",
+  "title": "高雄區農業改良場建場百週年紀念專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=875"
+ },
+ "raw": {
+  "標題": "第五篇　生物技術研究",
+  "刊物網址": "https://www.kdais.gov.tw/upload/kdais/files/web_structure/418/k100-05.pdf",
+  "檔案類型": "PDF",
+  "資料日期": "2002-10-24"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=875",
+   "fetched_at": "2026-10-30T10:26:49+08:00"
+  }
+ ],
+ "content_hash": "a4f8715e183e04472dd47bc25e401be4519d2f34bb360c5b007156f7a3595fa4",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

@@ -1,0 +1,53 @@
+{
+ "moj-law-api": {
+  "last_checked": "2026-10-30T09:37:12+08:00",
+  "last_status": "failed",
+  "last_errors": [
+   "https://law.moj.gov.tw/api/ch/law/json: robots.txt unreachable for https://law.moj.gov.tw",
+   "https://law.moj.gov.tw/api/ch/order/json: robots.txt unreachable for https://law.moj.gov.tw"
+  ]
+ },
+ "rmis-laws": {
+  "last_checked": "2026-10-30T09:42:14+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-10-30T09:42:14+08:00",
+  "last_full_compare": "2026-10-30T09:42:14+08:00",
+  "last_changed": "2026-10-30T09:42:14+08:00"
+ },
+ "rmis-interpretations": {
+  "last_checked": "2026-10-30T10:20:58+08:00",
+  "last_status": "ok",
+  "last_errors": [
+   "rmis:4142 驗證失敗：發文字號缺漏或格式不符",
+   "rmis:3511 驗證失敗：發文字號缺漏或格式不符",
+   "rmis:3196 驗證失敗：發文字號缺漏或格式不符"
+  ],
+  "last_success": "2026-10-30T10:20:58+08:00",
+  "last_full_compare": "2026-10-30T10:20:58+08:00",
+  "last_changed": "2026-10-30T10:20:58+08:00"
+ },
+ "rmis-lawexp": {
+  "last_checked": "2026-10-30T10:26:07+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-10-30T10:26:07+08:00",
+  "last_full_compare": "2026-10-30T10:26:07+08:00",
+  "last_changed": "2026-10-30T10:26:07+08:00"
+ },
+ "datamoa-publications": {
+  "last_checked": "2026-10-30T10:26:59+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-10-30T10:26:59+08:00",
+  "last_full_compare": "2026-10-30T10:26:59+08:00",
+  "last_changed": "2026-10-30T10:26:59+08:00"
+ },
+ "source-audit": {
+  "last_checked": "2026-10-30T10:32:30+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-10-30T10:32:30+08:00",
+  "last_full_compare": "2026-10-30T10:32:30+08:00"
+ }
+}

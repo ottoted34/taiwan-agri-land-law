@@ -1,0 +1,59 @@
+{
+ "id": "itp-6ec273de0a",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040206088號",
+ "date": "2015-02-24",
+ "date_text": "104/2/24",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府已興建農舍之農業用地，供私設道路使用疑義一案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴府104年2月13日府農農字第1040034592號函。\n二、有關於農業用地私設通路者，查內政部主管之非都市土地使用管制規則第6條附表一，僅限於以集村方式興建農舍或甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者，本案擬以已興建農舍農業用地申請私設通路，請查明是否符合前開規定。\n三、農業用地上准許興建農舍，係提供有心經營農業卻無自用農舍者於該農地上興建具有放置農機具兼具居住需求之構造物，以便利其從事農事工作，並應供農業使用，而私設通路為經土地所有權人出具供他人通行同意書或提供土地為道路使用，並非供土地所有權人使用及農業使用，與前開意旨不符，爰請貴府衡酌並依個案事實審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3324",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:17+08:00",
+   "source_key": "rmis:3324"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "9c35ccf841dea7b2bb55d9ed3876518abe519ad74b689bdecac2ea8fe7d978e5",
+ "topics": [
+  "machinery_room",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

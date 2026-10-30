@@ -1,0 +1,60 @@
+{
+ "id": "itp-d0b1624583",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970105603號",
+ "date": "2008-02-19",
+ "date_text": "97/2/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "臺灣省高雄農田水利會依農業發展條例第34條規定申請承受貴縣路竹鄉○○○地號等6筆特定農業區農牧用地案。",
+ "content": "主旨：有關臺灣省高雄農田水利會依農業發展條例第34條規定申請承受貴縣路竹鄉○○○地號等6筆特定農業區農牧用地一案，復如說明，請　查照。\n說明：\n一、復　貴府97年1月24日府農務字第○○○○○號函。\n二、按「農田水利會以秉承政府推行農田水利事業為宗旨。農田水利會為公法人。」為農田水利會組織通則第1條所明定，復依本會89年4月18日(89)農企字第890118804號函說明，略以：「查農業發展條例第33條明定『私法人不得承受耕地』，其不得承受耕地者僅指『私法人』，並不包括國家與地方自治團體直轄市、縣(市)或鄉(鎮、市)以及農田水利會等之『公法人』。」準此，公法人取得耕地應得不受農業發展條例第33條前段私法人不得承受耕地之限制，而應另循公法人取得耕地之相關規定、目的及程序辦理。\n三、本案依來函所附本會96年9月14日農水字第0960150479號函，旨揭農田水利會擬價購耕地後係從事新園圳灌區蓄水灌溉使用，故後續是否應依非都市土地使用管制規則等相關法令規定變更編定為水利用地後再行使用，惠請協助該會查明辦理。\n四、檢還經營計畫書5份及貴府審查簽辦表、規費收據影本各1份。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4828",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:20+08:00",
+   "source_key": "rmis:4828"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d14f94dce55694f62ef8d3f2065fa12f5532385ad8bf06d34bf562a542282aa5",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "34",
+   "kind": "extracted",
+   "snippet": "臺灣省高雄農田水利會依農業發展條例第34條規定申請承受貴縣路竹鄉○○○地號等6筆特定農業區農牧用地案。\n主旨:有關臺灣省高"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "18日(89)農企字第890118804號函說明,略以:「查農業發展條例第33條明定『私法人不得承受耕地』,其不得承受耕地者僅指『私法人』,並不包括國家與地方自"
+  }
+ ]
+}

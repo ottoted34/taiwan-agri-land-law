@@ -1,0 +1,48 @@
+{
+ "id": "itp-7ed3dfc692",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080719005號",
+ "date": "2019-07-11",
+ "date_text": "108/7/11",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關○○○於貴縣埔里鎮○○○地號(特定農業區農牧用地)興建農舍之申請人資格條件審查案，復如說明，請查照。",
+ "content": "一、復貴府108年7月1日府農務字第1080141891號函。\n二、有關「農舍用地應矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性」所指之「道路」，本會前於107年7月26日農企字第1070012917號、108年1月16日農企字第1070253990號、108年5月6日農企字第1080206692號函說明在案，該道路係以「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」並採認「成立公用地役關係之既成道路」，以及道路與農舍用地之間，如有間隔水路或該水路已編定為水利用地等情形，得視為臨接道路之審認原則，先予敘明。\n三、基於農舍之審認尚須依現況事實認定，故本案之道路亦應就道路存在事實及是否確為道路性質認定之。針對涉及個案審查係屬直轄市、縣(市)政府之權責，仍請參照前開原則予以審酌核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4629",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:56:20+08:00",
+   "source_key": "rmis:4629"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ba3c78372b501a467a05a6c72c4fe4dd4f682373573b6d69fc642d72e9508507",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

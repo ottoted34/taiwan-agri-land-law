@@ -1,0 +1,64 @@
+{
+ "id": "itp-e12c9b8fc4",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020709988號",
+ "date": "2013-05-06",
+ "date_text": "102/5/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "審查申請農業用地變更作廢棄物處理設施使用，因涉及分次變更之隔離綠帶或設施設置疑義案。",
+ "content": "主旨：有關　貴府審查申請農業用地變更作廢棄物處理設施使用，因涉及分次變更之隔離綠帶或設施設置疑義案，復如說明，請查照。\n說明：\n一、復　貴府102年3月26日府農保字第1020054860號函。\n二、依內政部91年10月16日台內營字第0910086750號函及97年10月14日內授營綜字第09708064501號函說明，同一興辦事業計畫申請毗連土地擴大，係於77年6月29日非都市土地使用管制規則發布施行後，始提出興辦事業計畫申請使用地變更編定之開發案，應累計計算面積，若累計變更面積達使用分區變更規模者，應依規定程序送審。\n三、又查內政部99年6月15日台內營字第0990804311號公告之「變更臺灣北、中、南、東部區域計畫（第1次通盤檢討）-因應莫拉克颱風災害檢討土地使用管制」第6章第5點規定，亦依循上開2函意旨，明敘申請變更開發案經目的事業主管機關審認屬同一興辦事業計畫者，即應有累計面積之必要。\n四、綜上，為確保農業經營環境，同一興辦事業計畫申請2次(含)以上之農業用地變更編定，以累計其興辦事業計畫面積後，再依「農業主管機關同意農業用地變更使用審查作業要點」第12點規定計算隔離綠帶或設施之留設寬度，非僅以該次申請變更之用地面積認定，以維護法令規範意旨。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5037",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:21+08:00",
+   "source_key": "rmis:5037"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "5f2510f2f52be9cbdba753d91bb7abf78d48976cfd795e064fc50f36a5b82d5a",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "含)以上之農業用地變更編定,以累計其興辦事業計畫面積後,再依「農業主管機關同意農業用地變更使用審查作業要點」第12點規定計算隔離綠帶或設施之留設寬度,非僅以該次申請變更之用地面積認定,以維"
+  }
+ ]
+}

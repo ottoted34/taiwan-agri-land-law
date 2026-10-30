@@ -1,0 +1,82 @@
+{
+ "id": "itp-7122665b63",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1030202273號",
+ "date": "2014-02-27",
+ "date_text": "103/2/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴縣三星鄉公所請示申請撤銷已興建完成農業資材室之容許使用同意書後擬補辦農舍相關執照疑義案，復請查照。",
+ "content": "一、復貴府103年1月20日府農務字第1030009442號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第33條規定略以：「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，。。。未依計畫內容使用者，原核定機關得廢止其許可。。。」，爰本案應由原核發農業設施容許使用同意書之行政處分機關廢止其許可。\n三、另廢止容許使用許可後，擬以該建築物申請補辦農舍相關執照，仍應依農業用地興建農舍辦法辦理，且申辦農業用地作農業使用證明書，亦應符合本會103年1月21日農企字第1030012036號函說明三之相關審查原則。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3777",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:09:01+08:00",
+   "source_key": "rmis:3777"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "33",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "24c7145a0a2284433a8b23429434b035215aaf7eca34d9cd8cc51e51d642e6df",
+ "topics": [
+  "farm_use_cert",
+  "material_room",
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "03年1月20日府農務字第1030009442號函。\n二、依「申請農業用地作農業設施容許使用審查辦法」第33條規定略以:「依本辦法取得農業用地作農業設施容許使用者,應依原核定之計畫內容使用,"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "廢止容許使用許可後,擬以該建築物申請補辦農舍相關執照,仍應依農業用地興建農舍辦法辦理,且申辦農業用地作農業使用證明書,亦應符合本會103年1月21日農企字第10"
+  }
+ ]
+}

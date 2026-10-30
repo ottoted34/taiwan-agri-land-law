@@ -1,0 +1,46 @@
+{
+ "id": "itp-e38d7caba1",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1142618158號",
+ "date": "2025-11-28",
+ "date_text": "114/11/28",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢民眾申請貴縣臺東市○○○地號（特定農業區農牧用地）農舍興建資格涉及農舍用地臨接道路之審查疑義案，復請查照。",
+ "content": "一、申請興建農舍之農業用地與道路間夾有水利用地，依據改制前行政院農業委員會（下稱本部）108年1月16日農企字第1070253990號函（諒達）說明四、…道路與農舍用地僅間隔水路，且該道路符合本部107年7月26日農企字第1070012917號函所定「政府施設或養護且供公眾通行，並經直轄市、縣(市)政府認定」者，得視為臨接道路，先予敘明。\n二、基於農舍之審認尚須依現況事實認定，故直轄市、縣(市)政府於審認申請興建農舍之道路，應就道路存在事實、是否確為道路性質以及倘有沿道路設置之水路，該水路之現況是否已有使用之事實，予以認定。本案依貴府所述該筆水利用地上有農業部農田水利署臺東管理處施設之排水路，並經該處同意搭排及架設版橋等現況仍有使用之事實，倘該排水路符合前開號函對於道路之認定要件，得視為臨接道路，惟本案仍請貴府參照上開原則，依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6021",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:49+08:00",
+   "source_key": "rmis:6021"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9a30026aeb4924bcdd77ae424c20704c621478694feea72934ade297c40db2f1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

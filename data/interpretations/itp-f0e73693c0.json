@@ -1,0 +1,73 @@
+{
+ "id": "itp-f0e73693c0",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1030240594號",
+ "date": "2014-11-20",
+ "date_text": "103/11/20",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業用地申請興建農舍，擬以鄰地作通路案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴局103年11月17日北農牧字第1032153823號函。\n二、查農業用地興建農舍辦法第8條第3項規定：「本辦法所定農舍建築面積為第3條、第10條與第11條第1項第3款相關法規所稱之基層建築面積；農舍用地面積為法定基層建築面積，且為農舍與農舍附屬設施之水平投影面積用地總和；農業經營用地面積為申請興建農舍之農業用地扣除農舍用地之面積。」，次查「非都市土地使用管制規則」第6條附表一規定，農牧用地容許設置私設通路，係「限於以集村方式興建農舍或甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者」，先予敘明。\n三、爰農業用地興建農舍以鄰地設置私設通路，該通路所坐落之土地既非申請興建農舍之農業用地，則該通路面積自無涉農業用地興建農舍辦法之規定。另前揭私設通路所坐落之土地倘屬農牧用地，依上開規定是否為容許使用項目，尚請貴局洽地政機關查明為宜。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3810",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:10+08:00",
+   "source_key": "rmis:3810"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "dea6342054c845fba8225a299820131bb73231ef098c4a2b8d37a7cb34ff6f7b",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "3年11月17日北農牧字第1032153823號函。\n二、查農業用地興建農舍辦法第8條第3項規定:「本辦法所定農舍建築面積為第3條、第10條與第11條第1項第3款相關"
+  }
+ ]
+}

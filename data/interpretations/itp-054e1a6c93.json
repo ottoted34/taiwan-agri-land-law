@@ -1,0 +1,64 @@
+{
+ "id": "itp-054e1a6c93",
+ "doc_class": "interpretation",
+ "docno": "屏府農企字第10325842300號",
+ "date": "2014-08-22",
+ "date_text": "103/8/22",
+ "agency_text": "屏東縣政府",
+ "category": "解釋函",
+ "subject": "有關本府建議辦理興建農舍之農業用地稽查作業，於農業發展條例明定強制進入農舍及毗連農業經營用地檢查權之法源乙案，復如說明，請查照。",
+ "content": "一、復貴署103年8月11日營署綜字第1032913602號函。\n二、查上開函所述「有關農舍建築物若有違規情形，按建築法第25條後段及第77條第2項規定...」及建築法第25條後段及第77條第2項規定：「直轄市、縣(市)(局)主管建築機關為處理擅自建造或使用或拆除之建築物，得派員攜帶證明文件，進入公私有土地或建築物內勘查。」、「直轄市、縣(市)(局)主管建築機關對於建築物得隨時派員檢查其有關公共安全與公共衛生之構造與設備」。係指『農舍建築物有違規情形』或對公開營業場所之公共安全、公共衛生之構造與設備實施檢查，似難以適用於『不確定是否違規』之農舍建築物，進行全面性稽查作業。為使是項業務能夠順利推展，仍建議於「農業發展條例」明定強制進人建物與其毗連農業經營用地檢查權之法源，以規範政府機關檢查人員應遵行之程序，並保障受檢人權益。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "屏東縣政府",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3801",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:06:56+08:00",
+   "source_key": "rmis:3801"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "e6f89cf16b646dc43ea8d49ff84a83e8d599da48ba208b6feec50aaf72ffb6a1",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關本府建議辦理興建農舍之農業用地稽查作業,於農業發展條例明定強制進入農舍及毗連農業經營用地檢查權之法源乙案,復如說明,請查照。\n一、復貴"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "itp-c2d335ea6b",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1031038702號",
+ "date": "2014-07-04",
+ "date_text": "103/7/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "申請農業設施容許使用審查辦法-農糧署解釋函",
+ "content": "主旨：有關貴府函詢民眾擬收購酒廠之酒粕作為原料進行加工，所涉申請農業用地作農作產銷設施-農糧產品加工室容許使用疑義案，請查照。\n說明：\n一、依據本會農糧署案陳貴府103年6月16日府農務字第1030114032號函辦理。\n二、查區域計畫法施行細則第13條第1項第5款規定，農牧用地係供農牧生產及其設施使用。次查申請農業用地作農業設施容許使用審查辦法第13條附表1所定農糧產品加工室許可使用細目係指農糧產品加工所需之相關設施。是以，利用農牧用地從事農糧產品加工行為，自應連結農業生產，並使用農糧產品作為原料。合先敘明。\n三、本案擬加工使用之原料酒粕係屬製酒加工後之副產物，似未符合前揭規定意旨，爰申請農業用地作農糧產品加工室容許使用，有所未宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5447",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:07:28+08:00",
+   "source_key": "rmis:5447"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "420c80e51b1c7aaa1e0d45918b3b27c630bb18241cec670365e8f66a3a9d6884",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "3條第1項第5款規定,農牧用地係供農牧生產及其設施使用。次查申請農業用地作農業設施容許使用審查辦法第13條附表1所定農糧產品加工室許可使用細目係指農糧產品加工所需之相關設施。是以,利用農"
+  }
+ ]
+}

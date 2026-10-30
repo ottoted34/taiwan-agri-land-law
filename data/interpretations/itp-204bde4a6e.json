@@ -1,0 +1,60 @@
+{
+ "id": "itp-204bde4a6e",
+ "doc_class": "interpretation",
+ "docno": "農水保字第1040239112號",
+ "date": "2016-03-10",
+ "date_text": "105/3/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關已興建農舍之共有農業用地，經法院和解共有物分割確定，不得參照貴部103年4月29日台內營字第1030804511號函逕向地政機關申辦分割案，復請查照。",
+ "content": "一、復貴部104年10月6日內授營建管字第1040435146號函。\n二、有關已興建農舍之耕地，如符合農業發展條例第16條第1項但書規定，得辦理分割，惟仍須受同條例第18條第4項規定限制，即已申請興建農舍之農業用地不得重複申請、不得解除套繪管制，貴部102年12月6日台內地字第1020360708號函釋有案，因此，除前揭依農業發展條例第16條第1項但書規定分割者外，其餘已興建農舍之共有農業用地若辦理分割，仍應受農業用地興建農舍辦法第12條規範。\n三、依前揭說明，本案所詢經法院和解共有物分割確認，仍應受農業用地興建農舍辦法第12條規定「未經解除套繪管制不得辦理分割」所規範，不得逕依貴部103年4月29日台內營字第1030804511號函示向地政機關申辦分割；另有關法院判決共有物分割部分，本會前以103年10月2日農授水保字第1031821075號函貴部營建署表示相關意見在案，併請貴部參處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3335",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:32+08:00",
+   "source_key": "rmis:3335"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "597f3bc000ba95156487808a3bd012ffc49256ee2b5b888e27f0d1448c1a9367",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "1040435146號函。\n二、有關已興建農舍之耕地,如符合農業發展條例第16條第1項但書規定,得辦理分割,惟仍須受同條例第18條第4項規定限制,即已申請興建農"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "規定分割者外,其餘已興建農舍之共有農業用地若辦理分割,仍應受農業用地興建農舍辦法第12條規範。\n三、依前揭說明,本案所詢經法院和解共有物分割確認,仍應受農業用地興建農舍"
+  }
+ ]
+}

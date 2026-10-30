@@ -1,0 +1,104 @@
+{
+ "id": "itp-e853c31705",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第1040707932號",
+ "date": "2015-03-31",
+ "date_text": "104/3/31",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴府審查○○○等10人所有○○○等地號集村農舍農民資格變更疑義案，復如說明，請查照。",
+ "content": "一、復貴府104年3月6日府建農字第1040015613號函。\n二、有關集村農舍變更起造人，本會前於98年8月11日農授水保字第0981842943號函核釋略以:「...3.非屬繼承之變更起造人，其集村興建農舍之戶數與農舍建築基地面積並無改變者，逕審查變更起造人之興建資格條件，其資格條件應符合農業用地興建農舍辦法第3條第1項規定...。4.集村興建農舍之戶數與農舍建築基地面積已有所不同者，則應以重新方式辦理。...」，並依農業用地興建農舍辦法第8條第2項規定:「申請興建農舍建築變更起造人時，除為繼承且在施工者外，應依第2條第1項規定辦理。」；另本會於104年2月3日農授水保字第1040702591號函復貴府「如該案經貴府認其屬起造人提出申請興建農舍之資料具有瑕疵或不實等情形，則依行政程序法第117條或農業用地興建農舍辦法第13條規定，由貴府依職權撤銷其核定」在案，先予敘明。\n三、請貴府衡酌該案實際情形，依前項說明及相關規定憑辦。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3342",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:04:56+08:00",
+   "source_key": "rmis:3342"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "8",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "13",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "6eed82c486d432a5c473c9d459266578bb63cb93de48b4878bd6f7e363181e5d",
+ "topics": [
+  "facility_use",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "並無改變者,逕審查變更起造人之興建資格條件,其資格條件應符合農業用地興建農舍辦法第3條第1項規定...。4.集村興建農舍之戶數與農舍建築基地面積已有所不同者,則應以重"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "建築基地面積已有所不同者,則應以重新方式辦理。...」,並依農業用地興建農舍辦法第8條第2項規定:「申請興建農舍建築變更起造人時,除為繼承且在施工者外,應依第2條第1"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "建農舍之資料具有瑕疵或不實等情形,則依行政程序法第117條或農業用地興建農舍辦法第13條規定,由貴府依職權撤銷其核定」在案,先予敘明。\n三、請貴府衡酌該案實際情形,依前"
+  }
+ ]
+}

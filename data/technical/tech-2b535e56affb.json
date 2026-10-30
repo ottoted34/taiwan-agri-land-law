@@ -1,0 +1,37 @@
+{
+ "id": "tech-2b535e56affb",
+ "source_key": "datamoa:109:5056082182372df7",
+ "title": "研發新技術轉移品項",
+ "series": "研發新技術轉移品項",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "109",
+  "title": "高雄區農業改良場研發新技術轉移品項",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=109"
+ },
+ "raw": {
+  "公告日期": "2026-08-17",
+  "技術移轉項目": "「鳳梨莖切片機製造及裝配技術」非專屬授權業界利用",
+  "詳細網址": "https://www.kdais.gov.tw/theme_data.php?theme=technology_transfer&id=188"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=109",
+   "fetched_at": "2026-10-30T10:26:53+08:00"
+  }
+ ],
+ "content_hash": "1008689afa49de7f8c2cc1baad24f0f159f57569d7585e89d9fd6a48c6c1c4ec",
+ "last_synced": "2026-10-30T10:26:59+08:00",
+ "first_seen": "2026-10-30T10:26:59+08:00",
+ "topics": []
+}

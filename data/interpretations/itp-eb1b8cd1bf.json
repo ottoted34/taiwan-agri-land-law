@@ -1,0 +1,54 @@
+{
+ "id": "itp-eb1b8cd1bf",
+ "doc_class": "interpretation",
+ "docno": "內授中辦地字第1040087728號",
+ "date": "2015-12-03",
+ "date_text": "104/12/3",
+ "agency_text": "內政部",
+ "category": "解釋函",
+ "subject": "有關農地登記簿已有興建完成農舍之註記，但該農舍尚未辦理建物所有權第一次登記，於該農地移轉時，應否要求一併移轉農舍並審查其承受人資格疑義1案，復請查照。",
+ "content": "一、復貴府104年11月26日府地籍字第1040236053號函。\n二、按農業發展條例第18條第4項已明定，農舍應與其坐落用地併同移轉或併同設定抵押權，是地政機關於受理申請農地移轉登記時，倘已得自登記簿查知該農地上已有興建完成之農舍，自應要求申請人檢附該農舍之移轉契約書及完稅證明文件或其他證明文件，以供審認其是否併同移轉，且其承受人亦應符合無自用農舍之要件。\n三、副本抄送行政院農業委員會，有關南投縣政府建議，由稅捐單位於受理農地與農舍移轉核稅及辦理稅籍變更登記時，依據農業發展條例相關規定，一併審查是否併同移轉及其承受人資格，方能於適當時機確實管制農地與農舍之移轉1節，因涉及財政部主政業務，請併貴會104年9月1日研商未辦理建物所有權第一次登記之農舍及其坐落用地移轉管制事宜會議紀錄決議一，洽商該部協助處理。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3323",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:35+08:00",
+   "source_key": "rmis:3323"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0b2eb5874a8b8c39f9758c2c7963514910822078f6a3897c66582cb5e64418b6",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "4年11月26日府地籍字第1040236053號函。\n二、按農業發展條例第18條第4項已明定,農舍應與其坐落用地併同移轉或併同設定抵押權,是地政機關於受理申請農"
+  }
+ ]
+}

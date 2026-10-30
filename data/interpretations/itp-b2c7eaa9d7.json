@@ -1,0 +1,106 @@
+{
+ "id": "itp-b2c7eaa9d7",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970171608號",
+ "date": "2008-12-18",
+ "date_text": "97/12/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋示農業用地為辦活動，臨時於農地搭建非固定性設施，有無農業發條例第8條第1項或農業用地容許作農業設施使用審查辦法第4條適用之疑義案。",
+ "content": "主旨：有關台端函詢農業用地為辦活動，臨時於農地搭建非固定性設施，有無農業發條例第8條第1項或農業用地容許作農業設施使用審查辦法第4條適用之疑義案，復請　查照。\n說明：\n一、復台端97年12月11日申請書。\n二、依農業發展條例第8條之1規定，「農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。」復依農業用地容許作農業設施使用審查辦法第4條之規定，搭建無固定基礎之臨時性與農業生產有關之設施，得免申請容許使用。所稱之設施，係指農業用地上搭建「無固定基礎之臨時性」且為「農業生產有關」之農業設施而言。\n三、依農業發展條例第3條第12款規定，「農業使用：指農業用地依法實際供農、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」有關台端來函所述農地上舉辦活動(如宗教、婚喪、表演等活動)，已非屬農業使用範疇，臨時於農地搭建非固定性之棚架或舞臺設施，亦未符上開規定條例及辦法所規範之無固定基礎之臨時性與農業生產有關之農業設施適用範圍。按農業發展條例之立法精神，農業用地應作農業使用，台端為舉辦活動臨時於農地搭建非固定性設施，已未符相關土地使用管制規定，建議宜請另尋其他得搭建該臨時建築物之土地。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5251",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:27+08:00",
+   "source_key": "rmis:5251"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "4",
+    "amended_on": "2009-03-16",
+    "history": "中華民國98年03月16日農企字第0980010695號令修正發布名稱及全文30條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "4",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f1ff82a859853d85c2e2dc3b7a47b49490ab94893d44effb1282739f8cf3b76e",
+ "topics": [
+  "container",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "動,臨時於農地搭建非固定性設施,有無農業發條例第8條第1項或農業用地容許作農業設施使用審查辦法第4條適用之疑義案。\n主旨:有關台端函詢農業用地為辦活動,臨時於農地搭建非固定性設施,"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "查照。\n說明:\n一、復台端97年12月11日申請書。\n二、依農業發展條例第8條之1規定,「農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "定基礎之臨時性」且為「農業生產有關」之農業設施而言。\n三、依農業發展條例第3條第12款規定,「農業使用:指農業用地依法實際供農、森林、養殖、畜牧、保育及設置相"
+  }
+ ]
+}

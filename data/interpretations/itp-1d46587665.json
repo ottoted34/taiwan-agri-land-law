@@ -1,0 +1,73 @@
+{
+ "id": "itp-1d46587665",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041801401號",
+ "date": "2015-01-23",
+ "date_text": "104/1/23",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關國家公園區內農業用地申請興建農舍農民資格之執行疑義，復請查照。",
+ "content": "一、依據內政部營建署103年12月10日營署綜字第1030078871號函轉貴府103年11月27日屏府農企字第10375410400號函，暨內政部營建署104年1月19日營署綜字第1032924240號函辦理。\n二、查農業用地興建農舍辦法第2條第1項規定略以：「依本條例第十八條第一項規定申請興建農舍之申請人應為農民，且其資格應符合下列條件，並經直轄市、縣(市)主管機關核定...申請人無自用農舍者。申請人已領有個別農舍或集村農舍建造執照者，視為已有自用農舍。...」，爰興建農舍資格之審查核定機關應為直轄市、縣(市)主管機關。\n三、又有關農舍申請人「是否領有個別農舍或集村農舍建造執照」及「是否五年內曾取得個別農舍或集村農舍建造執照」二項，係為稽核申請人是否有前揭情事，而非針對申請興建農舍之農業用地所為之審查事項，尚與農業用地坐落之行政轄區或計畫管制地區無涉。依上開規定，貴府為興建農舍資格之審查核定機關，前開二項之審查單位應為貴府建築管理單位，惟貴府得依行政程序法第19條規定請求特設主管建築機關墾丁國家公園管理處協助調查確認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3943",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:28+08:00",
+   "source_key": "rmis:3943"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d278009feb1313418cb9e26f14ea6e9cdd474811a2978e09fa2e692b0b528c97",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "年1月19日營署綜字第1032924240號函辦理。\n二、查農業用地興建農舍辦法第2條第1項規定略以:「依本條例第十八條第一項規定申請興建農舍之申請人應為農民,且其資"
+  }
+ ]
+}

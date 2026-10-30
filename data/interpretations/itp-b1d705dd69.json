@@ -1,0 +1,73 @@
+{
+ "id": "itp-b1d705dd69",
+ "doc_class": "interpretation",
+ "docno": "農企字第0960161741號",
+ "date": "2007-11-07",
+ "date_text": "96/11/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "019 釋以多筆共有耕地申請核發農業用地作農業使用證明書，仍應逐筆審核各該耕地是否符合土地使用管制規定案",
+ "content": "一、查農業用地作農業使用認定及核發證明辦法第9條明定：「依本辦法申請核發農業用地作農業使用證明書時，應檢具下列文件資料，向直轄市或縣（市）政府申請： 一、申請書。 二、最近一個月內核發之土地登記謄本及地籍圖謄本...」有關農業用地是否作農業使用之認定，應就所附前開「土地登記謄本及地籍圖謄本」之範圍，現場會勘審認之。惟為保障共有農業用地部分共有人之權益，得就所附土地登記謄本所載部分共有人之持分部分，依其檢附該筆農業用地之分管契約書審認之，俾當事人得就其於該筆農業用地之持分部分，辦理相關稅賦減免優惠及所有權移轉登記。\n二、因此，有關農業用地作農業使用證明書之申請核發，如為單獨所有，應就所附土地登記謄本所載之整筆農業用地審核；如為共有農業用地，得就該土地登記謄本所載地號之持分部分審認之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5508",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:19:45+08:00",
+   "source_key": "rmis:5508"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": "9",
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ea321fe7b34d285ef3777a5dea80663a8d89c1b69675b0e7563d76a3522994be",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "9",
+   "kind": "extracted",
+   "snippet": "明書,仍應逐筆審核各該耕地是否符合土地使用管制規定案\n一、查農業用地作農業使用認定及核發證明辦法第9條明定:「依本辦法申請核發農業用地作農業使用證明書時,應檢具下列文件資料,向直轄市"
+  }
+ ]
+}

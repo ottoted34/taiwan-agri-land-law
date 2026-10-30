@@ -1,0 +1,58 @@
+{
+ "id": "itp-74c4f21cfc",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041884468號",
+ "date": "2015-08-25",
+ "date_text": "104/8/25",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴所函為農舍放流水疑義案，復請查照。",
+ "content": "一、復本局南投分局104年7月29日水保投農字第1041993839號函轉貴所104年7月23日名鄉建字第1040012447號函。\n二、有關農舍放流水排放許可及審查權責，查經濟部水利署96年8月14日「廢污水搭排受理申請權責與辦理流程釐清」及「民眾私設排水道管理」研商會議結論(97年11月3日修正如附件)，廢污水排注道路側溝後經側溝末端併入農田水利會灌排渠道，由道路側溝之排水主管機關申請許可；道路側溝之排水主管機關於辦理排注道路側溝後經側溝末端併入農田水利會灌排渠道申請案件時，許可要件需考量該排注水量經道路側溝併入農田水利會灌排渠道時之總水量，不得超過農田水利會同意搭排其道路側溝之總水量，請貴所參據辦理。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3994",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:03:01+08:00",
+   "source_key": "rmis:3994"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "1ef03ae5543866f52ff6065464401692416ed9d83b5f6e7a72ceda08d6a68c03",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  }
+ ]
+}

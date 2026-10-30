@@ -1,0 +1,60 @@
+{
+ "id": "itp-ae757b1d68",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1041889790號",
+ "date": "2015-10-08",
+ "date_text": "104/10/8",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍辦法第3條之1會勘之專家、學者，建議增加其領域背景案，復請查照。",
+ "content": "一、復貴局104年11月11日中市農地字第1040038423號函。\n二、為本局104年9月9日「研商農業用地興建農舍辦法第2條、第3條之1執行事宜會議」決議，為執行旨揭規定，建議直轄市、 縣(市)政府會勘之專家、學者之領域背景得包括行政院農業委員會農業試驗改良場所人員、具有農業行政經驗之退休人員或各大專院校農業相關科系老師等，惟貴府考量轄內申請案件數量與特性，因業務執行需要，納入「各級政府農業單位及農會推廣專業人員」以加速審查時程，本局敬表尊重。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4078",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:02:19+08:00",
+   "source_key": "rmis:4078"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b16826cb53459b54a9d89591f4d69620c57c471eccb67c22d6e62883165eebad",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第3條之1會勘之專家、學者,建議增加其領域背景案,復請查照。\n一、復貴局104年11月11"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "1040038423號函。\n二、為本局104年9月9日「研商農業用地興建農舍辦法第2條、第3條之1執行事宜會議」決議,為執行旨揭規定,建議直轄市、 縣(市)政府會勘之"
+  }
+ ]
+}

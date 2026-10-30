@@ -1,0 +1,54 @@
+{
+ "id": "itp-f10577d261",
+ "doc_class": "interpretation",
+ "docno": "健保承字第1040012002號",
+ "date": "2015-11-05",
+ "date_text": "104/11/5",
+ "agency_text": "衛生福利部中央健康保險署",
+ "category": "解釋函",
+ "subject": "有關農業用地興建農舍辦法第3條之1規定「全民健康保險第3類被保險人」之認定，復如說明，請查照。",
+ "content": "一、復大會104年10月30日農授水保字第1041866585號函。\n二、依全民健康保險法規定，全民健保採團體保險方式投保，例如符合為健保第3類第1目被保險人為農會會員或年滿15歲以上實際從事農業工作者，應以其所屬農會為投保單位，在該農會申請投保健保，並由農會(即投保單位)彙收健保費向本署繳納，另被保險人之眷屬應依附被保險人一併辦理投保。至健保資料庫中僅有保險對象個人姓名、出生日期、身分證字號、加保者為被保險人本人或眷屬稱謂之代碼。惟本署會賦予每一農會(即投保單位)唯一之投保單位代號(共9碼，前2碼為「31」即表示為第3類第1日投保之投保單位)，放在投保單位代號前2碼代號為「31」加保之被保險人即屬健保第3類第1目之被保險人。\n三、檢附本署出具之投保證明格式供參。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "衛生福利部中央健康保險署",
+ "historical_name": null,
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3896",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:01:55+08:00",
+   "source_key": "rmis:3896"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "658a56b14732c644d2a5d00d478ddfc6e3325d4f14ed5bca729a2cbb7b82636d",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "3-1",
+   "kind": "extracted",
+   "snippet": "有關農業用地興建農舍辦法第3條之1規定「全民健康保險第3類被保險人」之認定,復如說明,請查照。\n一、復大會104年"
+  }
+ ]
+}

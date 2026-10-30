@@ -1,0 +1,68 @@
+{
+ "id": "itp-302b6c466b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0990107776號",
+ "date": "2010-02-04",
+ "date_text": "99/2/4",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上興建有未經申請之農業設施，申請補辦農業設施容許使用之疑義案。",
+ "content": "主旨：有關農業用地上興建有未經申請之農業設施，申請補辦農業設施容許使用之疑義案，復請 查照。\n說明：\n一、復 貴局99年1月29日北府農牧字第0990089937號函。\n二、依農業發展條例第8條之1規定，農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。本會依據同條文第3項之授權，訂定「申請農業用地作農業設施容許使用審查辦法」，作為受理申請案件之行政審查依據。\n三、有關農業用地上興建有未經申請容許使用之農業設施，經 貴府查報違規在案，如土地所有權人已就違規行為先自行改善，並依前開辦法之規定，向 貴府申請補辦農業設施之容許使用，貴府應依法受理申請，並依前開辦法及區域計畫法或都市計畫等相關規定，就其違反土地使用管制之違規情節是否確已排除等情，予以審認核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5420",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:17+08:00",
+   "source_key": "rmis:5420"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "ff0c21bcb2527fabd3ecdccf1edd2d45b7b599dfcb666a28abede36657ddbbf1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "9年1月29日北府農牧字第0990089937號函。\n二、依農業發展條例第8條之1規定,農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並依法申請"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "許使用,並依法申請建築執照。本會依據同條文第3項之授權,訂定「申請農業用地作農業設施容許使用審查辦法」,作為受理申請案件之行政審查依據。\n三、有關農業用地上興建有未經申請容許使用之農"
+  }
+ ]
+}

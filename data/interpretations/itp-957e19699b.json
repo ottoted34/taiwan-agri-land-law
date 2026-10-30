@@ -1,0 +1,56 @@
+{
+ "id": "itp-957e19699b",
+ "doc_class": "interpretation",
+ "docno": "農企字第1050213129號",
+ "date": "2016-04-12",
+ "date_text": "105/4/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業設施屋頂附屬綠能設施，申請變更經營計畫應重新審查並收規費",
+ "content": "主旨：有關貴府函詢已領有農業設施容許使用同意文件，擬續申請附屬設置綠能設施之申請案件，是否應收取行政審查規費之疑義案，復請查照。\n說明：\n一、復貴府105年4月8日屏府農企字第10511297800號函。\n二、按本會104年2月12日農企字第1040012074號函說明略以：「已有農業設施容許同意擬續申請綠能設施者：申請人應向直轄市、縣(市)主管機關申請變更原經營計畫，並於該經營計畫敘明農業經營與綠能設施之結合情形，復由直轄市、縣(市)主管機關視實際審查需要，徵詢本會試驗改良場所等機關意見，據以審核農業設施與綠能設施之相容性。倘符合規範者，直轄市、縣(市)主管機關得予以核發農業設施容許使用同意文件....」有案。\n三、是以，針對已領有容許使用同意文件之農業設施，擬依上開函釋規定，續申請附屬設置綠能設施，而辦理變更原經營計畫之申請案件，貴府須再行審查，且重新核發農業設施容許使用之同意文件，爰自應依「農業主管機關受理申請許可案件及核發證明文件收費標準」規定，收取行政審查規費。至其收費方式，請貴府依據本會94年6月22日農企字第0940131757號函釋，依申請農業設施容許使用之種類細目及數量為計算基準，收取規費。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5437",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:20+08:00",
+   "source_key": "rmis:5437"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4298b8cf76ca903f2d1c44eb0019373baece7591c7407ae1c4abb22328132ed2",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-2005",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "府須再行審查,且重新核發農業設施容許使用之同意文件,爰自應依「農業主管機關受理申請許可案件及核發證明文件收費標準」規定,收取行政審查規費。至其收費方式,請貴府依據本會94年6月22日農企字第09"
+  }
+ ]
+}

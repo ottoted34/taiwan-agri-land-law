@@ -1,0 +1,55 @@
+{
+ "id": "itp-e9c7bf863b",
+ "doc_class": "interpretation",
+ "docno": "農授農保字第1150213369號",
+ "date": "2026-04-14",
+ "date_text": "115/4/14",
+ "agency_text": "農業部",
+ "category": "解釋函",
+ "subject": "有關經濟部能源署轉貴府函詢辦理農舍屋頂設置太陽光電設備程序疑義一案，如說明，請查照。",
+ "content": "查農舍係與農業經營不可分離之建築物，與一般家居住宅性質不同。農舍屋頂設置太陽光電發電設備係屬農舍附屬設施，為確保農舍使用符合農舍相關規定，並支持再生能源政策及維持太陽光電設備申設之合法性，故農舍於符合其主要使用目的及其規定之前提下，始得於農舍屋頂設置太陽光電發電設備。查改制前經濟部能源局業於111年11月2日能技字第11100720080號通函說明(影本如附)，為確保農舍使用符合農舍管理相關規定，請直轄市、縣(市)政府於核發同意備案及設備登記時，加註「本案設置場址建物用途為農舍，如農舍因違反『農業用地興建農舍辦法』及其他相關規定，致其建築執照或農舍許可等文件經主管機關撤銷、廢止或其他原因失效，將依設置管理辦法第18條規定辦理」等文字，以促使申請人或農舍所有權人恪遵法令辦理有案。是以，上開通函之處理原則，似無以切結書擔保或應依違規情節輕重分別處理之適用情形。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6087",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:47:04+08:00",
+   "source_key": "rmis:6087"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2d1777f570c8000d971c64da14e23d37e3eb802dd1ece1f365a5fdaeff720cd0",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "green_energy",
+  "inseparable"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "及設備登記時,加註「本案設置場址建物用途為農舍,如農舍因違反『農業用地興建農舍辦法』及其他相關規定,致其建築執照或農舍許可等文件經主管機關撤銷、廢止或其他原因失效,"
+  }
+ ]
+}

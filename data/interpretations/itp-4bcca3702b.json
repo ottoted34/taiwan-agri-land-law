@@ -1,0 +1,88 @@
+{
+ "id": "itp-4bcca3702b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980156644號",
+ "date": "2009-09-15",
+ "date_text": "98/9/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關鐵造蓄水池是否應依「申請農業用地作農業設施容許使用審查辦法」規定提出申請之疑義案。",
+ "content": "主旨：有關　貴府函詢鐵造蓄水池是否應依「申請農業用地作農業設施容許使用審查辦法」規定提出申請之疑義案，復請　查照。\n說明：\n一、復　貴府○年○月○日府農地字第○○○○○號函。\n二、依農業發展條例第8條之1第2項規定，農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。復依「申請農業用地作農業設施容許使用審查辦法」第13條附表規定，蓄水設施係屬農作產銷設施之農田灌溉排水設施。爰此，個案倘係為興建有固定基礎之蓄水池，施作於農業用地上，則應依上開辦法規定，申請農業設施(蓄水設施)之容許使用。至於鐵造(或不銹鋼造)水塔等蓄水設備，倘係屬直接放置於農業用地上供農業生產灌溉之用，而無固定基礎之建築施作，則得免依上開辦法之規定要求申請辦理農業設施之容許使用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5366",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:17:42+08:00",
+   "source_key": "rmis:5366"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "13",
+    "amended_on": "2017-06-28",
+    "history": "中華民國106年06月28日農企字第1060012754A號令修正發布第6、23、27～30、32、33條條文及第13條條文之附表一、第16條條文之附表二、第21條條文之附表四",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "1f1a51803c332f71f84ad6cf654098bb91774ded53eeacaac0444b05750fe73d",
+ "topics": [
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "\n一、復 貴府○年○月○日府農地字第○○○○○號函。\n二、依農業發展條例第8條之1第2項規定,農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並依"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": "13",
+   "kind": "extracted",
+   "snippet": "業設施,應先申請農業設施之容許使用,並依法申請建築執照。復依「申請農業用地作農業設施容許使用審查辦法」第13條附表規定,蓄水設施係屬農作產銷設施之農田灌溉排水設施。爰此,個案倘係為興建有固定"
+  }
+ ]
+}

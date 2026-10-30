@@ -1,0 +1,52 @@
+{
+ "id": "itp-ae43d0d098",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1140212313號",
+ "date": "2025-04-10",
+ "date_text": "114/4/10",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢民眾陳情既有農舍原址重建審查疑義案，請查照。",
+ "content": "一、依據改制前內政部營建署109年1月13日營署綜字第1080097935號通函（諒達）說明三略以：「…按建築法第9條規定，原有建築物全部拆除而重行建築者，係屬新建築行為，應依建築法第25條、第30條、第31條及第32條重新申請建築執照。…」，故針對農業用地所有權人擬申請農舍拆除重建者，自應依「農業用地興建農舍辦法」（下稱本辦法）相關規定，辦理興建農舍申請人之資格審查等作業。\n二、次依本辦法第2條第2項之規定，申請興建農舍之資格審查應檢附經營計畫書，以確保興建農舍確供農業使用與不影響農業生產環境及農村發展之認定。又前揭經營計畫書對於農舍用地之配置，應符合「矩形配置於農地之地界線側及臨接道路，不得影響農業經營用地之完整性。但屬特殊地形者，不在此限。」之規定，係為兼具農舍出入及避免影響農業生產環境，故申請興建農舍之該筆農業用地，倘有地形特殊並經貴局認屬特殊地形者，農舍用地之配置始得例外考量，尚非以既有土地使用現況作為認定原則。\n三、本案仍請貴局參照上開原則，依個案實情予以審酌核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6016",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:48:25+08:00",
+   "source_key": "rmis:6016"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:57+08:00",
+ "last_synced": "2026-10-30T10:20:57+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7335df5f56fae1fe4478f74eb8a4d38d075685c893ef7f43a89e71c7a0ec02c0",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "...」,故針對農業用地所有權人擬申請農舍拆除重建者,自應依「農業用地興建農舍辦法」(下稱本辦法)相關規定,辦理興建農舍申請人之資格審查等作業。\n二、次依本辦法第2"
+  }
+ ]
+}

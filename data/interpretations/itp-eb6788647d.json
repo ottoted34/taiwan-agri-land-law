@@ -1,0 +1,62 @@
+{
+ "id": "itp-eb6788647d",
+ "doc_class": "interpretation",
+ "docno": "農企字第1010104052號",
+ "date": "2012-04-05",
+ "date_text": "101/4/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "「農業發展條例」第8條之1第2項規定，農業設施面積在45平方公尺，得免申請建築執照之農業設施執行疑義案。",
+ "content": "主旨：有關　貴局函詢「農業發展條例」第8條之1第2項規定，農業設施面積在45平方公尺，得免申請建築執照之農業設施執行疑義案，復請　查照。\n說明：\n一、復　貴局101年3月27日北農牧字第1011465589號函。\n二、查本會於94年6月23日以農企字第0940131813號函(諒達)說明，仍請參酌內政部90年9月14日台90內營字第9012691號函，即「農業設施．．．如設置1處以上，其總樓地板面積應合併檢討」之原則辦理有案。是以，農業發展條例第8條之1第2項規定，農業設施面積在45平方公尺以下者；或92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250方公尺以下而無安全顧慮者，得免申請建築執照，應以1層樓為限，如設置1處以上，其總樓地板面積應合併檢討，合先敘明。\n三、本案農業設施倘屬92年1月13日修正施行後，始分別申請興建者，並經貴府建築主管機關(工務局)函復合併申請面積為65.7平方公尺，應依法申請建築執照，而無上開得免申請建築執照規定之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5552",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:14:51+08:00",
+   "source_key": "rmis:5552"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "78e29ddc818247540fef46b8f52734adc7b3ca8903b97c13dcc79cb62e200a91",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "「農業發展條例」第8條之1第2項規定,農業設施面積在45平方公尺,得免申請建築執照之農業設施執行疑義案。\n"
+  }
+ ]
+}

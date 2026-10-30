@@ -1,0 +1,84 @@
+{
+ "id": "itp-1dbda0737e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0980116350號",
+ "date": "2009-03-25",
+ "date_text": "98/3/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "069 釋依非都市土地使用管制規則第6條規定，於農牧用地上申請私設通路使用，可否核發農業用地作農業使用證明書案",
+ "content": "主旨：有關農業用地上施設有道路使用，申請核發農業用地作農業使用證明書疑義案，復請 查照。\n說明：\n一、復 貴府98年3月20日府農務字第0980036010號函。\n二、為獎勵落實農地農用政策，農業發展條例明定「作農業使用之農業用地」得申請不課徵土地增值稅或免徵遺產稅、贈與稅。所稱「農業使用」於同條例第3條第12款明定：「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」因此，農業用地必須符合作農業使用之認定，始能依農業發展條例之規定，享有賦稅減免之優惠。\n三、另私設道路雖屬非都市土地使用管制規則所定農業用地容許使用之項目之一，惟財政部93年曾函釋略以：「為配合農業政策，鼓勵農地農用，現行相關法令對於農業用地有賦予租稅減免之優惠規定，惟應以『作農業使用』為要件，以符減免優惠之意旨。另有關『農業使用』有其法定意涵，其與符合土地使用管制法令之容許使用仍屬有間，似不宜予以一致之認定。」且本會曾於95年召開會議，就農業用地申請非屬農業性質之容許使用，農業機關於會同審查時，應加簽註「無法依農業發展條例之規定享有賦稅減免優惠」之意見，以避免造成農業用地零碎、細分。因此，私設道路因非屬農業設施之範圍，不符合作農業使用之認定，無法核發農業用地作農業使用證明書。惟倘其為與農業經營不可分離之農路，則應依農業用地容許作農業設施使用審查辦法之規定，申請農業設施容許使用，始符合法令規定。\n四、至已完成分割並實際作公眾通行之道路使用，因不符合作農業使用之認定，無法核發農業用地作農業使用證明書。倘有以賦稅減免優惠作為獎勵興建公共設施之必要，宜另案建議財政部考量修定相關稅法。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5436",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:06+08:00",
+   "source_key": "rmis:5436"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "0d39c47ecc9e31e02a57278aed086b4bca246e24d27dba96bf6ff5638db55bf8",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "tax",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "字第0980036010號函。\n二、為獎勵落實農地農用政策,農業發展條例明定「作農業使用之農業用地」得申請不課徵土地增值稅或免徵遺產稅、贈與稅。所稱「農"
+  },
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "地作農業使用證明書。惟倘其為與農業經營不可分離之農路,則應依農業用地容許作農業設施使用審查辦法之規定,申請農業設施容許使用,始符合法令規定。\n四、至已完成分割並實際作公眾通行"
+  }
+ ]
+}

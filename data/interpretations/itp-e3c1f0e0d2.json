@@ -1,0 +1,54 @@
+{
+ "id": "itp-e3c1f0e0d2",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1050201700號",
+ "date": "2016-01-25",
+ "date_text": "105/1/25",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關○○○於貴市桃源區○○○地號等1筆土地申請興建農舍案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴局105年1月12日高市農務字第10530072600號函。\n二、興建農舍資格審查應就該筆農業用地整體農業使用與生產、經營情形審認是否符合興建農舍以輔助農業生產之意旨，本案原核准面積因土地分割而減少，其所依循之審查許可條件已生變動，分割後申請興建農舍該筆農業用地之農業使用與生產、經營情形是否仍有興建農舍之需求，況分割後其他農業用地隨時得移轉予他人，該申請人之經營規模有無興建農舍之必要性，均不無疑慮，爰本案仍應依農業用地興建農舍辦法規定重新審認。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4086",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:00:43+08:00",
+   "source_key": "rmis:4086"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3d0fb3e75936d684a18ce66c0545235a70f94f67afd8d4dcfb382b13c22cc752",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請人之經營規模有無興建農舍之必要性,均不無疑慮,爰本案仍應依農業用地興建農舍辦法規定重新審認。"
+  }
+ ]
+}

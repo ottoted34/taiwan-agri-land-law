@@ -1,0 +1,73 @@
+{
+ "id": "itp-a862d61880",
+ "doc_class": "interpretation",
+ "docno": "水保農字第1040201438號",
+ "date": "2015-01-20",
+ "date_text": "104/1/20",
+ "agency_text": "行政院農業委員會水土保持局",
+ "category": "解釋函",
+ "subject": "有關貴府函為山坡地範圍農牧用地經合併分割成數筆0.25公頃以上農地，其唯一通行道路之單一筆農地迄今未取得合法使用文件，得否核發興建農舍資格文件疑義案，復請查照。",
+ "content": "一、復行政院農業委員會交下貴府104年1月12日府農農字第1040006062號函。\n二、有關興建農舍之申請程序，應先依農業用地興建農舍辦法第2條規定，取得興建資格核定後，續向建築主管機關申請建造執照，係屬多階段之行政程序。本案倘申請人符合前開辦法第2條規定者，核發興建農舍資格文件並無不可，惟後續申請建築執照時應符合相關建築管理規定。另該唯一通行道路之單一筆農地是否符合非都市土地使用管制規定，請貴府應依權責稽核。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": "行政院農業委員會水土保持局",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3595",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:05:35+08:00",
+   "source_key": "rmis:3595"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": null,
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2006",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "2",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f025dd8503e7a4e65121cf3c995a296004edd03aeed634d4fd20a62e27f7879c",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-2006",
+   "article": "2",
+   "kind": "extracted",
+   "snippet": "040006062號函。\n二、有關興建農舍之申請程序,應先依農業用地興建農舍辦法第2條規定,取得興建資格核定後,續向建築主管機關申請建造執照,係屬多階段之行政程序。本"
+  }
+ ]
+}

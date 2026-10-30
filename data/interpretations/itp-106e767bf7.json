@@ -1,0 +1,56 @@
+{
+ "id": "itp-106e767bf7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030710324號",
+ "date": "2014-04-07",
+ "date_text": "103/4/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業用地上有三合院及水泥廣場是否符合農業用地作農業使用認定疑義案。",
+ "content": "主旨：有關貴局函詢農業用地上有三合院及水泥廣場是否符合農業用地作農業使用認定疑義案，復請查照。\n說明：\n一、復貴局103年3月31日中市農地字第1030009594號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第4款明定略以：「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：．．．四、農業用地存在非都市土地使用編定公告前之合法房屋，經檢具證明文件。．．．」爰農業用地在「部分面積」、「不影響農業使用」之前提條件下，倘有上開規定屬「非都市土地編定公告前之合法房屋」之情形者，始得認定為作農業使用，先予敘明。\n三、次查本會前於102年10月31日以農企字第1020013074號通函(諒達)業將「核發農業用地作農業使用證明書審查表」內針對前款規定之審查權責，已修正回歸由建設(工務)單位認定在案，爰經建設(工務)單位審認為合法房屋者，即符合規定。至倘為上開單位無法認屬之其餘設施，如具農業設施性質者，亦得協助取具容許使用同意書或檢附從來使用之證明文件，俾供審認符合作農業使用之認定基準，故本案請貴局依上開處理原則，衡酌個案實情核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5275",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:08:31+08:00",
+   "source_key": "rmis:5275"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d5619ac4851821da5782183c3753de938bc2ccad7b10babb052fc9346d80daff",
+ "topics": [
+  "farm_use_cert",
+  "partial_use",
+  "paving"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "3年3月31日中市農地字第1030009594號函。\n二、查農業用地作農業使用認定及核發證明辦法第6條第4款明定略以:「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為"
+  }
+ ]
+}

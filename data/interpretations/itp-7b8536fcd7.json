@@ -1,0 +1,58 @@
+{
+ "id": "itp-7b8536fcd7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1020210000號",
+ "date": "2013-04-09",
+ "date_text": "102/4/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "農業設施經廢止容許使用，該建築物之建築執照處理原則案。",
+ "content": "主旨：有關　貴府函為農業設施經廢止容許使用，該建築物之建築執照處理原則案，本會意見如說明，請　查照。\n說明：\n一、依據內政部營建署102年3月27日營署建管字第1020016513號函辦理(影本如附件)。\n二、為　貴府於102年3月6日以府建管字第1020046249號函說明，經廢止容許使用之農業設施，其建築執照處理原則係由區域計畫或都市計畫主管機關裁處並予以拆除後，始配合註銷其使用執照一節，案經內政部營建署以前揭號函復略以：貴府作法尚無不可，惟為利整體農地管理查處績效，仍應就個案情形認定執照是否廢止。\n三、為有效維護農地資源，本會前於102年1月31日以農企字第1020012108號通函(諒達)貴府於核發農業設施之建築執照時，得參依行政程序法規定保留行政處分廢止權，於農業設施經廢止容許使用後，得按其個案違規使用情形，審認其執照是否廢止；另該函所附內政部營建署101年11月19日營署建管字第1012926008號函所說明之多元處理方式併請參處，以利確保國土資源合理使用，並落實農地農用政策。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4913",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:13:29+08:00",
+   "source_key": "rmis:4913"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2013",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國102年10月09日農企字第1020013047A號令修正發布全文37條；並自發布日施行",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "4c434eccddfd4a54d2daffd012ab9f0fc78896529c304082a8aef101ca5cac35",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ]
+}

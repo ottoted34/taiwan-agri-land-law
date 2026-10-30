@@ -1,0 +1,65 @@
+{
+ "id": "itp-31a014230c",
+ "doc_class": "interpretation",
+ "docno": "農企字第1120213573號",
+ "date": "2023-04-10",
+ "date_text": "112/4/10",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴院函詢南投縣埔里鎮○○○地號農業用地確認通行權訴訟相關疑義案，復如說明，請查照。",
+ "content": "一、查農業用地應符合作農業使用之認定基準，始得核發農業用地作農業使用證明書(以下簡稱農用證明)俾供持憑申請不課徵土地增值稅或免徵遺產稅、贈與稅、田賦等賦稅減免優惠。所稱農業使用於農業發展條例第3條第12款本文業有明文定義，「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。是以，農業用地上倘為農業經營需要，施設有固定基礎之農業設施，例如舖設柏油或水泥之「農路」，應依上開辦法檢附容許使用同意書，俾據以認定為作農業使用。倘該通路非屬該農地之農業生產經營所需，而係專供他人通行之目的，不符合農路之申請條件，非屬農業使用之範疇，自不得據以核發農用證明。\n二、至於「私設通路」雖屬非都市土地使用管制規則（以下簡稱管制規則）所定農牧用地容許使用項目之一，惟其係作為集村農舍或各類建築用地，因未面臨建築線，無道路可出入需要者之通行使用，非屬農路，亦非農業設施性質，故農業用地設置有私設通路者，該整筆農業用地不得認定為作農業使用，無法核發農用證明。又農業用地申設農路或私設通路，均須依其申請要件提出申請，由主管機關依相關規定審查後，予以核駁，與通行權係屬二事，尚無因農業用地具法定通行權，即得逕行認定作農業使用，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5952",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:50:20+08:00",
+   "source_key": "rmis:5952"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1eaa6e53dc2a3f5352593faaa18a4ba80580b32d68aaa1a24d58160688c86479",
+ "topics": [
+  "farm_use_cert",
+  "paving",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2013",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "值稅或免徵遺產稅、贈與稅、田賦等賦稅減免優惠。所稱農業使用於農業發展條例第3條第12款本文業有明文定義,「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設"
+  },
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、畜牧、保育及設置相關之農業設施或農舍等使用者。」本會並定有「農業用地作農業使用認定及核發證明辦法」作為執行依據。是以,農業用地上倘為農業經營需要,施設有固定基礎之農業設施,例如舖"
+  }
+ ]
+}

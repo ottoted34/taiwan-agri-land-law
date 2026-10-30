@@ -1,0 +1,56 @@
+{
+ "id": "itp-73281ef64a",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080237349號",
+ "date": "2019-09-02",
+ "date_text": "108/9/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關臺端108年8月20日致總統函請解除農舍與農地併同移轉之法令限制一案，復如說明，請查照。",
+ "content": "一、依據行政院秘書長108年8月29日院臺農字第1080097556號函轉總統府108年8月27日華總公三字第10800087180號書函辦理。\n二、「農舍」係與農業經營不可分離之建築物，提供有心經營農業者於該農地上興建具有放置農機具兼具居住之需求，與一般家居住宅性質不同；且於農業用地興建農舍係為許可之行為，應有積極農用之事實，先予敘明。\n三、查農業發展條例第18條第4項規定：「第1項及前項農舍起造人應為該農舍坐落土地之所有權人；農舍應與其坐落用地併同移轉或併同設定抵押權；已申請興建農舍之農業用地不得重複申請。」，其立法意旨乃在避免農舍與其坐落用地分屬不同所有權人，產生徒有農舍卻無供農業經營用地之不合理現象，及避免土地所有權移轉時滋生困擾，影響土地使用之效能，故農地與農舍移轉時不應有所有權人不同或持分不一致之情形，且農舍與其坐落用地併同辦理移轉時，其承受人資格應符合無自用農舍等條件，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4651",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:55:28+08:00",
+   "source_key": "rmis:4651"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6c1103286ccd9e24169abcad95794717a8ef8c9dfcd3cc6c6546d0ec5792c489",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2006",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "18",
+   "kind": "extracted",
+   "snippet": "建農舍係為許可之行為,應有積極農用之事實,先予敘明。\n三、查農業發展條例第18條第4項規定:「第1項及前項農舍起造人應為該農舍坐落土地之所有權人;農舍應與其坐落"
+  }
+ ]
+}

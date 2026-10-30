@@ -1,0 +1,65 @@
+{
+ "id": "itp-2640f2c29e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0970159831號",
+ "date": "2008-10-28",
+ "date_text": "97/10/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "059 釋法院拍賣農業用地後，申請核發農業用地作農業使用證明書事宜案",
+ "content": "一、查農業發展條例第39條第1項明定：「依前二條規定申請不課徵土地增值稅或免徵遺產稅、贈與稅、田賦者，應檢具農業用地作農業使用證明書，向該管稅捐稽徵機關辦理。」因此，農業機關之權責係依法審核發給農業用地作農業使用證明書，至稅捐稽徵機關是否准予免稅，應由稅捐稽徵機關依法核處。\n二、本案○○○經 貴府稅捐稽徵處援引財政部91年函釋規定，否准其不課徵土地增值稅之申請，係屬稅捐稽徵機關之業務權責，倘有疑義，宜請其逕洽 貴府稅捐稽徵處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4944",
+   "serial": null,
+   "fetched_at": "2026-10-30T10:18:39+08:00",
+   "source_key": "rmis:4944"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2012",
+    "law_name": "農業用地作農業使用認定及核發證明辦法",
+    "article": null,
+    "amended_on": "2013-07-23",
+    "history": "中華民國102年07月23日農委會農企字第 1020012761A 號令修正發布全文 16 條",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "7e6e1217faa3e7ec3658b1dd428bf196c555b81d22ffc96933fa6979558d3200",
+ "topics": [
+  "farm_use_cert",
+  "tax"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  },
+  {
+   "law_id": "RMIS-1001",
+   "article": "39",
+   "kind": "extracted",
+   "snippet": "賣農業用地後,申請核發農業用地作農業使用證明書事宜案\n一、查農業發展條例第39條第1項明定:「依前二條規定申請不課徵土地增值稅或免徵遺產稅、贈與稅、田賦者,應檢"
+  }
+ ]
+}

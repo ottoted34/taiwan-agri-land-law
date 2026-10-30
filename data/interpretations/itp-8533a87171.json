@@ -1,0 +1,50 @@
+{
+ "id": "itp-8533a87171",
+ "doc_class": "interpretation",
+ "docno": "農企字第1050718570號",
+ "date": "2016-07-12",
+ "date_text": "105/7/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "附有袋地通行權之土地需視其道路性質認定農業使用",
+ "content": "主旨：有關貴院函詢農業用地施設有農路之農業使用認定案，復請查照。\n說明：\n一、復貴院105年6月23日桃院豪民仁104訴1976字第1050058208號函。\n二、查本會99年11月9日農企字第0990172677號函釋，農業用地上施設有與農業經營不可分離之「農路」，得認定符合作農業使用之3種方式，包括檢附農業設施容許使用同意書、從來使用證明文件或配合政府施設供公眾使用者，得視為已取得農業設施容許使用。至所稱農路，係與農業經營不可分離，供農產品運銷或農機具通行之路，與一般交通運輸之道路有別，故上述第3種「配合政府施設供公眾使用者」之認定方式，其前提亦須先確認為「農路」，始有免檢附容許使用同意書方式之適用。爰來文所稱「供袋地通行之道路」倘非與農業經營不可離，即非屬農路性質，又上開「配合政府施設供公眾使用，得免申請容許使用」非用以認定農用，而係程序簡化考量；又農業使用係實質及現場審查認定，無法逕將具法定通行權視為農用，並無類推適用之問題，併予敘明。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5411",
+   "serial": null,
+   "fetched_at": "2026-10-30T09:59:52+08:00",
+   "source_key": "rmis:5411"
+  }
+ ],
+ "first_seen": "2026-10-30T10:20:58+08:00",
+ "last_synced": "2026-10-30T10:20:58+08:00",
+ "version": 1,
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5f9d2d37dac22affa82aad3558481bcf251ae44ee42bea536276b39235692353",
+ "topics": [
+  "farm_use_cert",
+  "machinery_room",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2012",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ]
+}
