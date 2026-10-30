@@ -18,6 +18,8 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     timeout-minutes: 30
+    outputs:
+      built_at: ${{ steps.sanity.outputs.built_at }}
     steps:
       - uses: actions/checkout@v4
         with: {ref: main}
@@ -33,12 +35,15 @@ jobs:
       - working-directory: web
         run: npm ci && npm run build
       - name: sanity check build
+        id: sanity
         run: |
           test -s web/dist/index.html
           python - <<'PY'
-          import json; m=json.load(open("web/dist/data/manifest.json"))
+          import json, os; m=json.load(open("web/dist/data/manifest.json"))
           assert m["counts"]["laws"] > 0, "no laws in build"
+          assert m["counts"]["interps"] > 0, "no interpretations in build"
           print(m["counts"])
+          open(os.environ["GITHUB_OUTPUT"], "a").write(f"built_at={m['built_at']}\n")
           PY
       - uses: actions/upload-pages-artifact@v3
         with: {path: web/dist}
@@ -53,9 +58,12 @@ jobs:
         uses: actions/deploy-pages@v4
       - name: verify deployed site
         run: |
-          url="${{ steps.d.outputs.page_url }}data/manifest.json"
-          for i in 1 2 3 4 5 6; do
-            if curl -fsS "$url" -o m.json; then python3 -c "import json;m=json.load(open('m.json'));print('deployed build',m['built_at'],m['counts'])"; exit 0; fi
+          want="${{ needs.build.outputs.built_at }}"
+          for i in $(seq 1 15); do
+            url="${{ steps.d.outputs.page_url }}data/manifest.json?nocache=$(date +%s)"
+            got=$(curl -fsS -H 'Cache-Control: no-cache' "$url" | python3 -c "import json,sys;print(json.load(sys.stdin)['built_at'])" || true)
+            echo "attempt $i: live=$got expected=$want"
+            if [ "$got" = "$want" ]; then echo "new build is live"; exit 0; fi
             sleep 20
           done
-          echo "::error::deployed manifest not reachable"; exit 1
+          echo "::error::live site does not serve the new build"; exit 1
