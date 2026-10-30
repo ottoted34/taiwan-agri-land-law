@@ -1,0 +1,8 @@
+# 人工確認之關聯／效力資訊。每筆必須附可查證依據（官方網址或公文字號）。
+# relations: 函釋 ↔ 法條 人工確認關聯
+#   - {docno: 農保規字第XXXX號, law: 申請農業用地作農業設施容許使用審查辦法, article: "29", note: ..., evidence: URL, confirmed_by: 姓名或帳號, confirmed_at: YYYY-MM-DD}
+relations: []
+# validity: 函釋效力人工查核結果
+#   status: no_known_cessation | ceased | revoked | amended_by_later | possibly_affected | needs_review
+#   - {docno: ..., date: YYYY-MM-DD, status: ceased, basis: 農業部XXX字第XXX號函, evidence: URL, confirmed_by: ..., confirmed_at: ...}
+validity: []

@@ -1,3 +1,1 @@
-datamoa_OpenData.js=https://data.moa.gov.tw/javascript/OpenData.js
-datamoa_open_item.json=https://data.moa.gov.tw/api/open_item.ashx
-datamoa_open_list.json=https://data.moa.gov.tw/api/open_list.ashx?Ord=1
+datamoa_svc_172.json=https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=172

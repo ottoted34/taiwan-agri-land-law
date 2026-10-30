@@ -1,0 +1,39 @@
+# 主題分類與關鍵字。關鍵字比對結果屬「系統自動標記」，非人工確認。
+legal_topics:
+  farm_use_cert: {label: 農用證明／農業使用認定, keywords: [農業使用證明, 作農業使用證明書, 農業使用認定, 核發證明, 農用證明, 作農業使用認定]}
+  partial_use: {label: 部分面積農業使用, keywords: [部分面積, 部分土地, 部分作農業使用, 一部分]}
+  paving: {label: 農地鋪面／鋪設水泥, keywords: [鋪面, 鋪設水泥, 水泥, 柏油, 鋪設]}
+  landfill: {label: 農地填土／堆置, keywords: [填土, 回填, 堆置, 土石, 營建剩餘, 整地]}
+  container: {label: 貨櫃及臨時設施, keywords: [貨櫃, 臨時性, 無固定基礎]}
+  material_room: {label: 農業資材室, keywords: [資材室, 資材]}
+  machinery_room: {label: 農機具室, keywords: [農機具]}
+  greenhouse: {label: 溫室／網室, keywords: [溫室, 網室, 溫網室, 設施栽培]}
+  orchard: {label: 果樹與設施, keywords: [果樹, 果園]}
+  facility_use: {label: 容許使用後使用管理, keywords: [依原核定, 未依, 廢止, 撤銷, 原核定之計畫, 變更經營計畫]}
+  land_change: {label: 農業用地變更使用, keywords: [變更使用, 變更編定, 變更為非農業]}
+  farmhouse: {label: 農舍, keywords: [農舍]}
+  green_energy: {label: 綠能設施, keywords: [綠能, 光電, 太陽能]}
+  livestock: {label: 畜牧設施, keywords: [畜牧, 畜禽, 禽舍, 豬舍]}
+  aquaculture: {label: 水產養殖設施, keywords: [養殖, 魚塭]}
+  leisure: {label: 休閒農業, keywords: [休閒農業, 休閒農場]}
+  tax: {label: 稅務優惠, keywords: [土地增值稅, 遺產稅, 贈與稅, 田賦, 不課徵, 免徵]}
+  inseparable: {label: 與農業經營不可分離土地, keywords: [不可分離]}
+technical_topics:
+  rice: {group: 作物栽培, label: 水稻, keywords: [水稻, 稻作, 稻米, 秧苗]}
+  grain: {group: 作物栽培, label: 雜糧, keywords: [雜糧, 玉米, 大豆, 落花生, 甘藷, 小麥, 高粱, 紅豆]}
+  vegetable: {group: 作物栽培, label: 蔬菜, keywords: [蔬菜, 胡瓜, 番茄, 甘藍, 葉菜, 瓜類, 茄子, 甜椒, 蘆筍, 洋蔥]}
+  fruit: {group: 作物栽培, label: 果樹, keywords: [果樹, 芒果, 柑橘, 香蕉, 鳳梨, 番石榴, 葡萄, 梨, 荔枝, 龍眼, 蓮霧, 木瓜, 百香果, 釋迦, 火龍果, 文旦, 柚]}
+  flower: {group: 作物栽培, label: 花卉, keywords: [花卉, 蘭, 菊, 玫瑰, 百合, 火鶴]}
+  special: {group: 作物栽培, label: 特用作物, keywords: [特用作物, 藥用, 香草, 咖啡, 可可, 菱角, 薏苡, 胡麻, 洛神]}
+  tea: {group: 作物栽培, label: 茶及飲料作物, keywords: [茶, 咖啡]}
+  seedling: {group: 作物栽培, label: 苗木及育苗, keywords: [育苗, 種苗, 苗木, 穴盤]}
+  mgmt: {group: 農業經營, label: 栽培管理, keywords: [栽培管理, 健康管理, 栽培技術, 管理技術, 生產技術]}
+  machinery: {group: 農業經營, label: 農機具, keywords: [農機, 機械, 省工, 自動化, 機具]}
+  materials: {group: 農業經營, label: 農業資材, keywords: [資材, 肥料, 介質, 農藥, 有機質]}
+  rotation: {group: 農業經營, label: 輪作與地力, keywords: [輪作, 休耕, 綠肥, 地力]}
+  greenhouse_t: {group: 農業設施, label: 溫網室, keywords: [溫室, 網室, 設施栽培, 設施]}
+  irrigation: {group: 農業設施, label: 灌溉排水, keywords: [灌溉, 排水, 滴灌, 噴灌, 水資源]}
+  soil: {group: 農地管理, label: 土壤與肥培, keywords: [土壤, 肥培, 施肥, 酸鹼, 土壤改良]}
+  disaster: {group: 農地管理, label: 防減災, keywords: [防災, 減災, 颱風, 寒害, 氣候變遷]}
+  pest: {group: 作物栽培, label: 病蟲害管理, keywords: [病蟲害, 病害, 蟲害, 防治, 植物保護]}
+  processing: {group: 農業經營, label: 農產加工, keywords: [加工, 初級加工, 食品]}
