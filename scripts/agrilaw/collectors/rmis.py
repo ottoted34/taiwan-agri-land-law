@@ -7,6 +7,7 @@ Three collectors share the parsers below:
 from __future__ import annotations
 
 import re
+import time
 from urllib.parse import urljoin
 
 from ..articles import article_key, article_label, split_fulltext_articles
@@ -216,14 +217,34 @@ class RmisInterpretations(Collector):
         rows.extend(first)
         pages = range(2, (last or 1) + 1) if mode in ("weekly", "monthly", "full") else range(2, daily_pages + 1)
         res.complete = mode in ("weekly", "monthly", "full")
+        full_crawl = res.complete
+        empty_pages = []
         for p in pages:
-            try:
-                got, _ = parse_news_list(self.client.get(f"{BASE}NewsList.aspx?page={p}", expect_html=True).text)
-                rows.extend(got)
-            except SourceError as e:
-                res.errors.append(f"page {p}: {e}")
-                res.complete = False
-        res.notes.append(f"列表頁數：{last}，本次讀取列表 {len(rows)} 筆")
+            got = []
+            for attempt in range(3):
+                try:
+                    got, _ = parse_news_list(self.client.get(f"{BASE}NewsList.aspx?page={p}", expect_html=True).text)
+                except SourceError as e:
+                    res.errors.append(f"page {p}: {e}")
+                    break
+                if got or p == last:
+                    break
+                # the server intermittently answers「目前無資料可顯示」for valid pages: retry with a fresh session
+                self.client.s.cookies.clear()
+                time.sleep(5 * (attempt + 1))
+            if not got and p != last:
+                empty_pages.append(p)
+            rows.extend(got)
+        if empty_pages:
+            res.complete = False
+            res.notes.append(f"列表第 {', '.join(map(str, empty_pages[:20]))} 頁重試後仍無資料（官方伺服器回應「目前無資料可顯示」），本次不視為完整比對")
+        seen_ids, uniq_rows = set(), []
+        for r in rows:
+            if r["rmis_id"] not in seen_ids:
+                seen_ids.add(r["rmis_id"])
+                uniq_rows.append(r)
+        rows = uniq_rows
+        res.notes.append(f"列表頁數：{last}，本次讀取列表 {len(rows)} 筆（不重複）")
         refetch_all = mode in ("monthly", "full")
         max_detail = int(self.cfg.get("max_detail_per_run", 2500))
         fetched = 0
@@ -250,7 +271,7 @@ class RmisInterpretations(Collector):
             rec["list_hash"] = lh
             res.records.append(rec)
         res.notes.append(f"明細擷取 {fetched} 筆")
-        res.extra = {"listed_keys": [f"rmis:{r['rmis_id']}" for r in rows]}
+        res.extra = {"listed_keys": [f"rmis:{r['rmis_id']}" for r in rows], "full_crawl": full_crawl}
         res.requests = self.client.requests_made
         if res.errors:
             res.status = "partial"

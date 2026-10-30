@@ -180,8 +180,8 @@ class Run:
     # ------------------------------------------------------------------ interpretations
     def apply_interpretations(self, res: CollectResult, stats: Counter) -> None:
         known_keys = [k for k in self.index if k.startswith("rmis:")]
-        listed = getattr(res, "extra", {}).get("listed_keys", [])
-        if res.complete and known_keys and len(listed) < SHRINK_RATIO * len(known_keys):
+        listed = res.extra.get("listed_keys", [])
+        if res.extra.get("full_crawl") and known_keys and len(listed) < SHRINK_RATIO * len(known_keys):
             self.quarantine(res.source_id, res, f"完整列表僅 {len(listed)} 筆，少於既有 {len(known_keys)} 筆之 {int(SHRINK_RATIO*100)}%", stats)
             return
         for raw in res.records:

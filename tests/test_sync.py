@@ -223,3 +223,16 @@ def test_health_check(seeded):
     write_json(paths.META / "source-status.json", st)
     ok, msg = health(50)
     assert not ok and "rmis-interpretations" in msg
+
+
+def test_intermittent_empty_page_not_complete(seeded):
+    """Official server sometimes returns「目前無資料可顯示」for a valid page: retry, then mark incomplete (no missing flags)."""
+    import re as _re
+    routes = default_routes()
+    empty = _re.sub(r"<tr>\s*<td>\s*<span id=\"ContentPlaceHolder1_ucNewsListOut1_lvList_lblRowNum.*?</tr>", "",
+                    routes[r"https://rmis\.ardswc\.gov\.tw/Web/NewsList\.aspx\?page=5"], flags=_re.S)
+    routes = {r"https://rmis\.ardswc\.gov\.tw/Web/NewsList\.aspx\?page=3": empty, **routes}
+    log = run("weekly", FakeClient(routes=routes), only=["rmis-interpretations"])
+    s = src(log, "rmis-interpretations")
+    assert s["complete"] is False and s["missing_flagged"] == 0
+    assert any("重試後仍無資料" in n for n in s["notes"])
