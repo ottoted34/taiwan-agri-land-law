@@ -1,0 +1,40 @@
+{
+ "id": "itp-119c698a87",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981653773號",
+ "date": "2009-04-17",
+ "date_text": "098/04/17",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄全民造林地發生病蟲害可否繼續參加或停止獎勵造林疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年4月15日府農林字第0980059862號函。\n二、本案貴府既已聘專家學者現勘確認本案獎勵造林地因褐根病危害，致使造林木大片死亡;惟為避免病害擴散，貴府係屬林業主管機關，應立即輔導林農參酌行政院農業委員會林業試驗所推廣摺頁第35號防治方法，儘速處理，以避免病害擴 散影響其他造林木。\n三、至本案造林地請貴府視實際情形是否得復舊造林，並本於權責參酌本局前於95年5月18日林造字第0951740652號函檢送「林農申請停止獎勵造林審核機制及處理規範」規定辦理。\n四、隨文檢附行政院農業委員會林業試驗所推廣摺頁第35號1供參，如有需求得逕洽該所索取。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000186?p=51",
+   "fetched_at": "2026-10-30T15:04:13+08:00",
+   "source_key": "forest:0000186"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2d35e173018290d46fabd8d4361452f3e636d5e1a58fcc9eda7ab88abbf3fc27",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

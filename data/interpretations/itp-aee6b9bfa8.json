@@ -1,0 +1,40 @@
+{
+ "id": "itp-aee6b9bfa8",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941606976號",
+ "date": "2005-04-04",
+ "date_text": "094/04/04",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關新竹縣五峰鄉撫育管理造林戶君遭艾莉颱風活埋，其妻擬請領93年度撫育管理造林獎勵金疑義案，復如說明，請查照。",
+ "content": "一、復貴會94年3月25日原民經字第0940008385號函。\n二、依據貴會92年8月19日原民經字第0920025450號函示，「新植造林及撫育管理獎勵金發放，為避免不可預期之民事糾紛，造林人死亡應俟辦妥繼承後發給獎勵金」，本案建請仍依該函示辦理，新竹縣政府並應定期前往檢測，以為後續補發獎勵金之依據。\n正本:行政院原住民族委員會\n副本:新竹縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000012?p=86",
+   "fetched_at": "2026-10-30T15:12:43+08:00",
+   "source_key": "forest:0000012"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "213a131a6a1245ab1d1f49890c748d4cbd2c3b909bbb5167ef9d08f7eed5eefa",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

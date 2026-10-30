@@ -1,0 +1,40 @@
+{
+ "id": "itp-6771790380",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951609973號",
+ "date": "2006-05-29",
+ "date_text": "095/05/29",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關東勢鎮林農君自願放棄獎勵全民造林，申請繳回造林獎勵金，其利息計算方式疑義，復如說明，請查照。",
+ "content": "一、復貴府95年5月23日府農林字第0950141511號函。\n二、依據獎勵造林實施要點第7點規定，應加計利息賠償已領取獎勵金1節，經查該要點並未規定應逐年計息或按日計息，爰為利業務執行，本局方決定採計1次利息，於法並無違誤，合先敘明。\n三、據查本案○君領得造林獎勵金未滿1年，本局同意依經過期間，核實計算利息。\n正本：臺中縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000137?p=79",
+   "fetched_at": "2026-10-30T15:10:58+08:00",
+   "source_key": "forest:0000137"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3cae90b6a5820c5329d3e4d414226e4face7c810ce72b8ee7629c2370a5520b1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

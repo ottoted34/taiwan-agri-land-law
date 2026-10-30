@@ -1,0 +1,40 @@
+{
+ "id": "itp-778eec547c",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0941607728號",
+ "date": "2005-04-14",
+ "date_text": "094/04/14",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "台端出售桃園縣楊梅鎮頭湖段-、-等6筆土地新建建物，是否須繳交山坡地開發利用回饋金乙節，復如說明，請查照。",
+ "content": "一、復台端94年4月7日(94)海字第04003號陳情函。\n二、依據現行山坡地開發利用回饋金繳交辦法第3條規定，位於山坡地範圍內，須擬具水土保持計畫之土地開發、經營或使用行為，均須繳交回饋金，與建築物之新建、後續增建、改建等開發行為，尚無關聯。\n三、另依據前揭辦法第4條規定，山坡地開發利用之申請人為本回饋金之繳交義務人，爰提送水土保持計畫書送審者，依規須繳交本回饋金。\n正本：○○○君\n副本：桃園縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000507?p=85",
+   "fetched_at": "2026-10-30T15:12:37+08:00",
+   "source_key": "forest:0000507"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8e1ab343f974ad0976b274405e014ad9812f1ff30053b38ca0d5ce46cff006f1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

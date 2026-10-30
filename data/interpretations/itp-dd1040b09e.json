@@ -1,0 +1,42 @@
+{
+ "id": "itp-dd1040b09e",
+ "doc_class": "interpretation",
+ "docno": "農林字第880028565號",
+ "date": "2000-03-13",
+ "date_text": "089/03/13",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "關於違約使用租地造林者，承租人如自願排除違約作物完成造林，准予依「獎勵造林實施要點」核發獎勵金，請查照。",
+ "content": "一、依據本局案陳雲林縣政府八十八年十一月三日八八府農林字第八八○五二○一一一九號函簽奉行政院農業委員會主任委員批示辦理。\n二、為減少超限利用，早日恢復林相，發揮森林公益功能，承租人如願意將原違約種植之果樹、檳榔或其他作物等全面伐除並完成造林，准予依「獎勵造林實施要點」規定，核發造林獎勵金，惟應請嚴格檢查。\n正本：各縣市政府、各林區管理處、台灣大學實驗林管理處\n副本：行政院農業委員會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000652?p=98",
+   "fetched_at": "2026-10-30T15:15:42+08:00",
+   "source_key": "forest:0000652"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2ba4ff442147214a4bf358cb22022de83e53a80c2b3caff206f3185724046ef3",
+ "topics": [
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

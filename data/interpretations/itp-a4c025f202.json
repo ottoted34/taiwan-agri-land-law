@@ -1,0 +1,40 @@
+{
+ "id": "itp-a4c025f202",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740136號",
+ "date": "2011-01-18",
+ "date_text": "100/01/18",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴縣三地門鄉辦理99年度原住民保留地造林地撫育管理計畫有關85年間土芒果列為獎勵造林樹種檢測疑義案，復如說明，請查照。",
+ "content": "一、復貴府99年11月10日屏府原產字第0990265984號函。\n二、依據獎勵造林實施要點的立法旨意，係以獎勵造林方式，期達成國土保安及水源涵養等目標。全民造林計畫申請人經林業經營管理機關核准參與後，須依林業主管機關指導，從事造林工作，善加管理經營造林木竹，使之長大成林。本案請貴府本於權責並依據相關規定輔導林農從事造林撫育工作。\n三、查全民造林運動實施計畫自實施起，檬果(芒果)列屬於獎勵造林樹種，惟限以林業經營方式種植，即至89年度始予以刪除，不再列入獎勵造林樹種。\n正本: 屏東縣政府\n副本: 行政院原住民族委員會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000117?p=33",
+   "fetched_at": "2026-10-30T14:59:42+08:00",
+   "source_key": "forest:0000117"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "72c52c8c5db8ad784bc309c1f851965ebed01ca795794bdcff77ce8ffb8e910f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

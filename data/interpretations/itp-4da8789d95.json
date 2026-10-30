@@ -1,0 +1,40 @@
+{
+ "id": "itp-4da8789d95",
+ "doc_class": "interpretation",
+ "docno": "林造字第0911622015號",
+ "date": "2002-12-02",
+ "date_text": "091/12/02",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關台端因農地遭重金屬汙染，擬配合政府政策進行平地造林乙事，詳如說明，請查照。",
+ "content": "一、有關受污染農地，係由環保機關依「土壤及地下水污染整治法」規定，公告為土壤污染控制場址或整治場址；為減輕污染危害，避免污染擴散，受污染農地應予限制耕種及辦理整治工作事宜。\n二、因樹木屬長期性作物，如受污染農地種植樹木，將不利後續整治工作移除污染物及回覆耕作原有作物之功能；故為配合環保單位進行整治工作，須待整治完成後方可造林，屆時若符合平地造林相關申請規定，即可參加獎勵平地造林計畫。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000791?p=93",
+   "fetched_at": "2026-10-30T15:14:27+08:00",
+   "source_key": "forest:0000791"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0bcd39342ec7dcbdb9e3483a720a5acc0942138eb602f179242ffab30288cf96",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

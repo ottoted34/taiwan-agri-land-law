@@ -1,0 +1,43 @@
+{
+ "id": "itp-6fd3514d49",
+ "doc_class": "interpretation",
+ "docno": "中區國稅二第1020004742號",
+ "date": "2013-04-17",
+ "date_text": "102/04/17",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關公司依據行政院農業委員會訂定之「平地造林直接給付及種苗配撥實施要點」造林補助標準，對雲林縣轄內參與平地造林者，作10年期對等補助乙案，復請 查照。",
+ "content": "一、依據 貴辦公室102年3月12日應服字第102031201號函辦理。\n二、旨揭個案，經財政部賦稅署102年4月12日臺稅所得字第10204016080號函復，參與人所收受之補助如係因造林而取得，而與財政部86年9月25日台財稅第860522731號函就參加人依「獎勵輔導造林辦法」規定取得之造林獎勵金性質相同，則事實相類同之案件，其課稅宜為一致之處理。本局業於102年4月15日以中區國稅二字第1022007324號函轉請本局虎尾稽徵所據以辦理。\n正本：立法委員李應元辦公室\n副本：行政院農業委員會林務局、雲林縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000877?p=16",
+   "fetched_at": "2026-10-30T14:55:46+08:00",
+   "source_key": "forest:0000877"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "429ec09d9ade7dce67526e8065c16857c84a95d96d90be65b8ddbf1978af54a5",
+ "topics": [],
+ "flags": [
+  "docno_unparsed",
+  "historical_agency"
+ ],
+ "relations": []
+}

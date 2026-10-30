@@ -1,0 +1,49 @@
+{
+ "id": "itp-6bbe8ec121",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001742550號",
+ "date": "2011-11-23",
+ "date_text": "100/11/23",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關本局東勢林區管理處租地造林人 君領取全民造林獎勵金爭議，應由何單位廢止原行政處分1案，復如說明，請查照。",
+ "content": "一、復貴府100年11月9日府授農林字第1000218485號函。\n二、依據行政程序法第123條略以：「授予利益之合法行政處分...，得由原處分機關依職權為全部或一部之廢止」，查本案原核准獎勵造林處分機關為臺中縣政府，後原造林人○○ 君死亡，東勢林區管理處同意繼承人○○○ 君持續造林撫育並領取造林獎勵金。鑑於東勢林區管理處對原核准獎勵造林處分予以變更，本案由東勢林區管理處廢止獎勵造林行政處分。\n三、至於加計利息追繳已領取之造林獎勵金部分，97-99年由本局東勢林區管理處加計利息追繳，87-96年仍請貴府依據獎勵造林實施要點規定辦理加計利息追繳事宜。\n正本：臺中市政府\n副本：東勢林區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000873?p=25",
+   "fetched_at": "2026-10-30T14:57:43+08:00",
+   "source_key": "forest:0000873"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c687bd309c113c836a4411e2a7c2588578be584f615a58bbd151dffc740cd0f7",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": "123",
+   "kind": "extracted",
+   "snippet": "年11月9日府授農林字第1000218485號函。\n二、依據行政程序法第123條略以:「授予利益之合法行政處分...,得由原處分機關依職權為全部或一部之廢止」,"
+  }
+ ]
+}

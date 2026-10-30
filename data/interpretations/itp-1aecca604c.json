@@ -1,0 +1,40 @@
+{
+ "id": "itp-1aecca604c",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971610456號",
+ "date": "2008-06-16",
+ "date_text": "097/06/16",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府為貴縣獎勵造林戶君造林地疑義案，復如說明，請查照。",
+ "content": "一、復貴府97年6月11日府農林字第0970084189號函。\n二、本案事涉本局查核地方政府全民造林計畫部分，仍請依本局前於95年9月11日林造字第0951616867號函說明辦理。\n三、至天然林得否併計撫育1節，經查本局前於91年1月25日林造字第0911650116號函示有案，本案據報系爭造林地申請年度為90年，鑑於前項函示係向後發生法律效力，是以，本案不宜將天然林併計成活率計算核發造林獎勵金。\n正本：苗栗縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000822?p=59",
+   "fetched_at": "2026-10-30T15:06:12+08:00",
+   "source_key": "forest:0000822"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5ef2a5bd9e629408ccda1fa962bf538a0364821c1225cfecd70f8eea929b54a2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

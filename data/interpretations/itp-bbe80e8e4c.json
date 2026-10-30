@@ -1,0 +1,40 @@
+{
+ "id": "itp-bbe80e8e4c",
+ "doc_class": "interpretation",
+ "docno": "林造字第1031742699號",
+ "date": "2014-11-13",
+ "date_text": "103/11/13",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "關於貴公司函詢非都市山坡地範圍農牧用地之相關山坡地開發利用回饋金繳交疑義1案，復如說明，請 查照。",
+ "content": "一、復貴公司103年10月29日立大(坡)字第2014102901號函。\n二、按現行「山坡地開發利用回饋金繳交辦法」(以下簡稱本辦法)第5條第1項所定，回饋金之計算方式係依照開發利用程度之類別，以水土保持主管機關核定水土保持計畫或簡易水土保持申報書之計畫面積與其當期公告土地現值乘積百分之六至百分之十二計算。\n三、本案有關純屬農牧用地改良之「整坡作業水土保持計畫」既經高雄市政府103年6月25日審認結果，不符本辦法第8條第1項第6款「屬依水土保持計畫審核監督辦法第三條第一款、第二款或第四款規定擬具簡易水土保持申報書」所定免繳回饋金之要件，爰依據本辦法第6條規定，山坡地開發利用人即應於水土保持計畫核定前，按高雄市政府所計算回饋金數額，負有繳交之義務。\n正本：立大工程顧問有限公司\n副本：高雄市政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000931?p=12",
+   "fetched_at": "2026-10-30T14:55:06+08:00",
+   "source_key": "forest:0000931"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "55f1e45d0d8e70c6fe2e00b9d5b81d76b6db3eda9262d2c2769a38de62c5b77b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

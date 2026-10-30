@@ -1,0 +1,47 @@
+{
+ "id": "itp-062dddc6e6",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971609859號",
+ "date": "2008-06-17",
+ "date_text": "097/06/17",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府辦理貴縣君參加山坡地超限利用處理計畫有案造林地之土地使用類別變更聲復案，復如說明，請查照。",
+ "content": "一、復貴府97年6月2日府農林字第09700993720號函。\n二、有關行政處分轉換之情形，依據行政程序法第116條係以原處分屬違法為前提，且轉換為與原處分具有相同實質及程序要件之其他行政處分;惟仍須考量但書之規定。至本案之原處分是否違法?宜請山坡地超限利用處理計畫權責機關水土保持局釋示為當;先行敘明。\n三、然全民造林運動實施計畫業於94年度起奉行政院核定停辦新植造林業務，現行僅就申請有案之造林地續發撫育及管理獎勵金，故本案無從轉入全民造林計畫。\n正本：南投縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000823?p=59",
+   "fetched_at": "2026-10-30T15:06:09+08:00",
+   "source_key": "forest:0000823"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a492fda347ffcd68260c7b026035d8d0986c1c8ffe2a3d24254fa6f7bbce7dc5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": "116",
+   "kind": "extracted",
+   "snippet": "9700993720號函。\n二、有關行政處分轉換之情形,依據行政程序法第116條係以原處分屬違法為前提,且轉換為與原處分具有相同實質及程序要件之其他行政處分;惟"
+  }
+ ]
+}

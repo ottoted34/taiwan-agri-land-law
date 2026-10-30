@@ -1,0 +1,40 @@
+{
+ "id": "itp-194eb08a60",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0941602920號",
+ "date": "2005-02-23",
+ "date_text": "094/02/23",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關公司申請於龍潭鄉八張犛段-地號等8筆土地開發建設廠房，是否屬山坡地開發利用回饋金之繳交義務人疑義乙案，復如說明，請查照。",
+ "content": "一、復貴府94年1月27日府農林字第0940012559號函。\n二、依據山坡地開發利用回饋金繳交辦法第4條規定，回饋金之繳交義務人為山坡地開發利用之申請人，本案開發基地雖位於龍潭科技工業園區，惟開發主體為○○○○公司，是為山坡地開發利用回饋金之繳交義務人，與前揭辦法第4條後段但書規定無涉，依規仍須繳交回饋金。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000499?p=87",
+   "fetched_at": "2026-10-30T15:12:52+08:00",
+   "source_key": "forest:0000499"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fc442cf6cd0c315f307130bcdf31f6f969afebc90e4760ad5cb545f11f6e7ce5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

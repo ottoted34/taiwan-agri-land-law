@@ -1,0 +1,49 @@
+{
+ "id": "itp-2aa5b901b1",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100707730號",
+ "date": "2021-04-06",
+ "date_text": "中華民國110年4月6日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍」得否設置水面型浮力式太陽光電發電系統案",
+ "content": "按申請農業用地作農業設施容許使用審查辦法第27條第3項規定，依第30條於本會公告之「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍」(以下簡稱不利農業經營區)申請綠能設施之容許使用者，搭建基樁應以點狀方式施作，不得改變原地形地貌，並維持適當日照穿透，以避免影響土壤地力，且不得影響鄰地之農業使用與生產環境。針對貴公司所詢於不利農業經營區得否設置水面型浮力式太陽光電發電系統，倘申請該項設施係為配合原地形地貌，採水面型浮力式之方式設置，尚無限制，惟仍應與毗鄰農業用地留設寬度達1.5公尺以上之隔離緩衝空間，且依經濟部能源局規範該項設施之設置原則辦理。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-04-06）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/930f91c4-95ec-4dbf-9690-d491f8b16396?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:00+08:00",
+   "source_key": "talis:930f91c4-95ec-4dbf-9690-d491f8b16396"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b4ff7cf6af30e0f8330276ff0db6cb12b7de12ece2a7c1f12a5ac8c42c53b88d",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "27",
+   "kind": "extracted",
+   "snippet": "施之農業用地範圍」得否設置水面型浮力式太陽光電發電系統案\n按申請農業用地作農業設施容許使用審查辦法第27條第3項規定,依第30條於本會公告之「嚴重地層下陷地區內不利農業經營得設置綠能設施"
+  }
+ ]
+}

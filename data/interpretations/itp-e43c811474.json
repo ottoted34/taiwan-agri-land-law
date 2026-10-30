@@ -1,0 +1,42 @@
+{
+ "id": "itp-e43c811474",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971611088號",
+ "date": "2008-07-16",
+ "date_text": "097/07/16",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關股份有限公司申請水土保持計畫復工，是否須繳交山坡地開發利用回饋金案，復如說明，請 查照。",
+ "content": "一、復 貴府97年6月23日府農林字第0970092540號函。\n二、依據水土保持計畫審核監督辦法第31條第1項第6款規定，工程中止逾2年以上者，主管機關得廢止原核定水土保持計畫。貴府表示本案係87年1月13日核定水土保持計畫，88年5月31日核備准予停工，○○公司於97年5月7日申請復工云云，顯示工程中止已逾2年，為釐清○○公司申請復工是否為87年1月13日核定之水土保持計畫，請先查明復知案內計畫是否廢止或仍存續有效。\n正本：苗栗縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000608?p=58",
+   "fetched_at": "2026-10-30T15:05:55+08:00",
+   "source_key": "forest:0000608"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b21a8d067bd465c9c67027509c205cfc7a1c7929d59d8b804fbb3be3a8abe937",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

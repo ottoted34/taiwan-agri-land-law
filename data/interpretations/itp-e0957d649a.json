@@ -1,0 +1,59 @@
+{
+ "id": "itp-e0957d649a",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011742384號",
+ "date": "2012-08-27",
+ "date_text": "101/08/27",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問核算休閒農場山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、復貴府101年8月21日北府農林字第1012377739號函。\n二、查100年3月24日修正休閒農業輔導管理辦法，已無劃分「遊客休憩分區」及「農業體驗分區」。對於山坡地開發利用回饋金計算，應依「山坡地開發利用回饋金繳交辦法」第5條第1項規定，依其開發利用程度類別計算回饋金。是以，應以「籌設休閒農場」之開發利用程度類別，就貴府公告之乘積比率計算回饋金，而非依「遊客休憩分區」及「農業體驗分區」面積大小，分別採用不同乘積比率。\n正本：新北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000867?p=20",
+   "fetched_at": "2026-10-30T14:56:34+08:00",
+   "source_key": "forest:0000867"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0090014",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": null,
+    "amended_on": "2018-05-18",
+    "history": "中華民國一百零七年五月十八日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "21d7f8397beb928323a047a160a34e4f8c31c37cd429226c8a303599b17d96dd",
+ "topics": [
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0090014",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "字第1012377739號函。\n二、查100年3月24日修正休閒農業輔導管理辦法,已無劃分「遊客休憩分區」及「農業體驗分區」。對於山坡地開發利用回饋金計算,應依"
+  }
+ ]
+}

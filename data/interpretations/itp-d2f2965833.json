@@ -1,0 +1,40 @@
+{
+ "id": "itp-d2f2965833",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951654816號",
+ "date": "2006-06-23",
+ "date_text": "095/06/23",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關林農詢問農地造林轉入全民造林計畫相關疑義1節，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會95年6月20日農授糧字第0950132618號函辦理暨復貴府95年6月20日府農森字第0950075966號函。\n二、有關原參加農地造林計畫，後續納入全民造林實施計畫之相關事項，本局前於95年6月20日以林造字第0951654708號函(副本諒悉)說明甚清，不再贅述。\n三、另建議修正「水旱田利用調整後續計畫」1節，檢附農委會函文影本1份，敬請依照該函釋辦理。\n四、另建議訂定計畫執行手冊一節，請貴府研擬具體大綱及內容記要，以切合貴府實際需要。\n五、檢附行政院農業委員會95年6月20日農授糧字第0950132618號函及行政院農業委員會農糧署94年2月24日農糧產字第0941103058號函影本各1份。\n正本：新竹縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000150?p=78",
+   "fetched_at": "2026-10-30T15:10:42+08:00",
+   "source_key": "forest:0000150"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f03f5dbbc2f1e59ed13b58d2fd84a891d87143ee5db42c8475840dac7e2b7722",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

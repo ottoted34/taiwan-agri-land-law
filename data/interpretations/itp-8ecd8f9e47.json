@@ -1,0 +1,40 @@
+{
+ "id": "itp-8ecd8f9e47",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981655442號",
+ "date": "2009-06-05",
+ "date_text": "098/06/05",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴府函詢有關審計部台灣省台南縣審計室查核獎勵造林「柚木」未合造林規定樹種疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年6月1日府農林字第0980126218號函。\n二、鑑於「獎勵造林實施要點」(以下簡稱本要點)係於91年9月30日以農林字第0910030546號令第四次修正，並於獎勵造林樹種中刪除柚木，查本案據報○君及○君係於91年3至4月間申請平地景觀造林計畫，依申請時點而言，因本要點尚未修正，故依據修正前之規定，核准栽植柚木應無疑義，惟法律具有向後始生效力之原則，經本要點修正後，造林人如須補植者，應依修正後要點規定之樹種栽(補)植。\n三、另行政院農業委員會於98年4月15日以農林務字第0981740502號令修正「綠海計畫造林直接給付及種苗配撥實施要點」，名稱並修正為「平地造林直接給付及種苗配撥實施要點」，嗣後本案造林地輔導及檢測等業務請貴府逕依該要點規定辦理。\n正本：臺南縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000329?p=49",
+   "fetched_at": "2026-10-30T15:03:45+08:00",
+   "source_key": "forest:0000329"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "472c691373479594ed12daf9b2525856c37a06cd0ce9babea9f9c66925a45285",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

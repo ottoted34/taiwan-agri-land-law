@@ -1,0 +1,40 @@
+{
+ "id": "itp-be0a858d52",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991742300號",
+ "date": "2010-10-22",
+ "date_text": "099/10/22",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴府為全民造林運動實施計畫之共有土地，函詢追償造林獎勵金疑義，請詳細敘明具體案例，併案檢送相關資料影本1份過局，俾憑錄案研議，請查照惠復。",
+ "content": "復貴府99年10月18日府農林字第0990264736號函。\n正本：臺南縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000218?p=35",
+   "fetched_at": "2026-10-30T15:00:09+08:00",
+   "source_key": "forest:0000218"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "350454a5711b7a7ac9ab391c6a9c0d09adfc2af1eac2b2e242b0adc1bccdfe6c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

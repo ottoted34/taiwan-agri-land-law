@@ -1,0 +1,43 @@
+{
+ "id": "itp-39a435d610",
+ "doc_class": "interpretation",
+ "docno": "農牧字第1120042984號",
+ "date": "2023-05-23",
+ "date_text": "中華民國112年5月23日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "重申既成設施但未取得容許使用之畜牧場辦理牧場登記及畜牧設施屋頂附屬設置太陽光電案件處理原則",
+ "content": "一、查旨揭案件之處理原則，本會業以107年10月15日農牧字第1070043577號及109年6月4日農牧字第1090042857號函(諒達)請貴府配合辦理在案；為加速推動綠能政策，以達成2025年再生能源之設置目標，重申對配合政策並規劃於畜牧設施附屬設置屋頂型綠能設施之畜牧場，如其場內已有既成但未取得容許使用之設施，倘確係作為農業(畜牧)使用性質，其補辦容許變更部分，仍得與畜牧設施附屬設置屋頂型綠能設施之申請作業脫鉤辦理，毋須俟畜牧場處罰或拆除改善完成，始得辦理容許使用變更作業，以加速設置流程。\n二、至其場內畜牧設施使用之土地總面積涉及畜牧法第5條第2款規定之80%者，請貴府本權責另行依個案情形輔導辦理。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-05-23）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/9f653cdf-22c9-4149-84ec-732d93850ff8?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:30+08:00",
+   "source_key": "talis:9f653cdf-22c9-4149-84ec-732d93850ff8"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "73c02423a29ac62974352e5b1976d51e51dd1f30922536a1ab4f5549d608e537",
+ "topics": [
+  "green_energy",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

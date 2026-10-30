@@ -1,0 +1,40 @@
+{
+ "id": "itp-ec2b5108f7",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941651556號",
+ "date": "2005-04-08",
+ "date_text": "094/04/08",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府辦理國有林事業區林班內租地造林承租人申請搭建工寮，其土地無編列地號，是否收取山坡地開發利用回饋金乙案，簽請 鑒核。",
+ "content": "一、依據屏東縣政府府94年3月17日屏府農林字第0940050017號函辦理。\n二、依據山坡地開發利用回饋金繳交辦法規定，須擬具水土保持計畫之土地開發、經營或使用行為，均須繳交回饋金，與其土地是否辦理登錄、編列地號尚無關聯。惟確無公告土地現值時，請依前揭辦法第5條第2項規定，以毗鄰之公告土地現值計算回饋金。\n正本：屏東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000505?p=86",
+   "fetched_at": "2026-10-30T15:12:42+08:00",
+   "source_key": "forest:0000505"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e5d9f6078306fa619a65bd28f8e21feeb726eee323dc22d55ac5d241a02daafe",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

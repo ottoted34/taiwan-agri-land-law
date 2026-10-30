@@ -1,0 +1,42 @@
+{
+ "id": "itp-a2f71beaad",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910148615號",
+ "date": "2002-09-03",
+ "date_text": "091/09/03",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴縣苑裡鎮林農因故未能撫育管理(達三年以上)，是否可再請領及補發獎勵金(撫育費)一案，復請查照。",
+ "content": "一、復貴府九十一年八月二十二日府農林字第九一○○○七六七二七號函。\n二、依據「獎勵造林實施要點」第六點第三款規定，自造林第七年起，每三年實施檢測工作，檢測不合格者，獎勵金不發給。貴縣苑裡鎮林農因故未依規定撫育管理一案，維符合法令不溯及既往之原則，是以補發造林獎勵金於法無據，歉難辦理。如九十一年檢測合格，則自九十一年起繼續發放獎勵金。\n三、基於國土保安、水土保持及維持生態系穩定等目標，並秉持獎勵全民造林之宗旨，本會同意貴縣林農可按原訂契約，繼續依約履行(○○○君一案，應由繼承時間起，接續辦理造林獎勵金之請領)。\n正本：苗栗縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000733?p=94",
+   "fetched_at": "2026-10-30T15:14:40+08:00",
+   "source_key": "forest:0000733"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b13bda344493cb2670b88e51cf78c88ed9ae21947b947f7103e9617eafe4a68d",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

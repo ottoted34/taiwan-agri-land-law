@@ -1,0 +1,40 @@
+{
+ "id": "itp-cf5b2d9f30",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0961606684號",
+ "date": "2007-04-27",
+ "date_text": "096/04/27",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關山坡地開發利用回饋金繳交辦法第6條第3款規定之適用疑義，復如說明，請查照。",
+ "content": "一、復貴府96年4月17日府農育字第0960075017號函。\n二、本案彰化香山○○宮已於93年繳交山坡地開發利用回饋金，茲因面積重測，復於96年提送開發計畫興辦事業變更計畫書1案，據第1章緒論記載略以，該開發案於94年2月18日取得水土保持完工證明書、94年3月18日完成所有驗收程序，並取得雜項使用執照，按計畫施作完成結案無誤。惟因地籍重測後面積變動，導致水土保持計畫須隨同辦理變更。綜上，本案並無山坡地開發利用回饋金繳交辦法第6條第3項之適用。\n三、惟查本案係因地籍重測，導致山坡地開發利用回饋金之計算依據有誤，請貴府以正確面積計算山坡地開發利用回饋金，核實收取，並請貴府逕向本會林務局申請退款。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000575?p=67",
+   "fetched_at": "2026-10-30T15:08:06+08:00",
+   "source_key": "forest:0000575"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6ebcce974d3a53107a3d3958fb9f7ebbe783a8e6dd857275c98dafd7861a5063",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

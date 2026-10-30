@@ -1,0 +1,50 @@
+{
+ "id": "itp-45464f0323",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100243961號",
+ "date": "2021-10-26",
+ "date_text": "中華民國110年10月26日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關土壤及地下水污染整治法公告之污染控制場址、污染整治場址或污染管制區，申請免與農業經營使用相結合綠能設施之配置疑義案",
+ "content": "一、 按申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第27條第3項規定係為避免綠能設施搭建方式影響該農地之土壤地力，同時為兼顧未來綠能設施移除後恢復農業使用之可行性，爰明定依據容許辦法第29條及第30條規定，申請非附屬設置於農業設施之綠能設施(即地面型綠能設施)者，搭建基樁應以點狀方式施作，不得改變原地形地貌，並應維持農地適當之日照穿透，且不得影響鄰地之農業使用與生產環境。針對維持農地適當之日照穿透，本會106年8月11日農企字第1060013105號函就其實務審認原則說明略以，設置太陽能之綠能設施，其能板之間應留設適當間距，以維持適當日照穿透，避免影響土壤地力；又其維運通道，倘未舖設固定基礎之水泥建造物，不計入綠能設施之興建面積。\n二、 依貴府來函及附件，本案係依容許辦法第30條申請太陽能之綠能設施，其能板之配置，應依前揭容許辦法規定及本會函釋原則辦理，即能板之間應留設適當間距，保持適當日照穿透及土壤肥力，以維護整體農業生產環境。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-10-26）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/4dfbc058-8a16-401e-bac5-5a443f0bb5ab?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:45+08:00",
+   "source_key": "talis:4dfbc058-8a16-401e-bac5-5a443f0bb5ab"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "753c02fe8dde0dfca2f7c6a4f462099f08f35dc204d8ce8ab63cb709eace98ce",
+ "topics": [
+  "paving",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "區,申請免與農業經營使用相結合綠能設施之配置疑義案\n一、 按申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第27條第3項規定係為避免綠能設施搭建方式影響該農地之土壤地"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "itp-b5be515a9a",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0931730088號",
+ "date": "2004-03-25",
+ "date_text": "093/03/25",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴府函詢有關「山坡地開發利用回饋金繳交辦法」規定繳交回饋金疑義案，復如說明，請 查照。",
+ "content": "一、復貴府93年3月11日府農林字第0930056425號函。\n二、有關回饋金之計算標準，係以核定水土保持計畫時之開發面積，乘以當期公告土地現值，乘以其開發程度類別之乘積百分比;其中開發面積指經核定水土保持計畫範圍內，各項水土保持設施、工程、建築、土地開發經營或經營使用行為等之面積總和。\n三、另本會前以90年6月12日(90)農林字第900127877號函(諒達)釋：「山坡地範圍內各使用分區土地變更使用申請案件，基於不重複收取回饋金原則，若屬農業用地變更為非農業用地者，其回饋金之繳交，依『農業用地變更回饋金撥繳及分配利用辦法』規定辦理；至山坡地範圍內各使用分區之非農業用地變更使用案件，依法需擬具水土保持計畫送審核定者，則依『山坡地開發利用回饋金繳交辦法』規定辦理」，準此，若同一土地已繳交農業用地變更回饋金者，則不需再繳交山坡地開發利用回饋金。\n正本：桃園縣政府\n副本：臺北市政府、高雄市政府、各縣市政府(桃園縣除外)",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000310?p=88",
+   "fetched_at": "2026-10-30T15:13:18+08:00",
+   "source_key": "forest:0000310"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4fc716c3825cf5a701a299640dfcbf8d5a4ffd8263e57ad2a727f95f04b0d6b6",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "饋金原則,若屬農業用地變更為非農業用地者,其回饋金之繳交,依『農業用地變更回饋金撥繳及分配利用辦法』規定辦理;至山坡地範圍內各使用分區之非農業用地變更使用案件,依法需擬具水土保持計"
+  }
+ ]
+}

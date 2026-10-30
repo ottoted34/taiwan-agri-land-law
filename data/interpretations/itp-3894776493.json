@@ -1,0 +1,49 @@
+{
+ "id": "itp-3894776493",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920133864號",
+ "date": "2003-06-26",
+ "date_text": "092/06/26",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴府函詢本會編印之全民造林運動手冊，新、舊版本規定不一案，復如說明，請查照。",
+ "content": "一、依據行政院原住民族委員會函轉貴府九十二年五月二十八日府民原字第○九二○一三五二三九號函辦理。\n二、「獎勵造林實施要點」業於九十一年九月三十日以本會農林字第○九一○○三○五四六號公告修正，其中大幅度修正獎勵造林樹種種類，以符合生態造林原則；刪除原要點獎勵造林樹種之輪伐期及擇伐期，以避免與現行「獎勵造林實施要點」對於造林地獎勵期限二十年產生混淆。\n三、至於該要點如檬果、橄欖、龍眼、麵包樹及波羅蜜等獎勵樹種增刪部分，則從林農申請獎勵造林時之獎勵造林規定辦理。\n正本：臺中縣政府\n副本：行政院原住民委員會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000681?p=90",
+   "fetched_at": "2026-10-30T15:13:46+08:00",
+   "source_key": "forest:0000681"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-a177d6f7e3",
+    "by_docno": "林造字第0951741341號",
+    "by_date": "2006-09-12",
+    "kind": "amend",
+    "phrase": "二、查行政院農業委員會92年6月26日農林字第0920133864號函,係針對該會編印「全民造林運動手冊」新、舊版本之獎勵造林樹種之函釋,屬修正獎勵造林實施要點(以下簡稱本要點)之獎勵造林樹種,非針對農地造林轉入全民造林相關釋示,合先敘明"
+   }
+  ]
+ },
+ "content_hash": "49cc7e9972d47064b92eecb618b36f3a2522813edd022d888111e37712662c57",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

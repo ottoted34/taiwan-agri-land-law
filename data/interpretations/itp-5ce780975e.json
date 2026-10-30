@@ -1,0 +1,40 @@
+{
+ "id": "itp-5ce780975e",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第1011658151號",
+ "date": "2012-07-02",
+ "date_text": "101/07/02",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局詢問同時申請多項農業設施之山坡地開發利用回饋金繳交疑義案，復請 查照。",
+ "content": "一、依據本會林務局案陳貴局101年6月28日北農林字第1012045927號函辦理。\n二、查本會101年6月26日農授林務字第1011741824號函(正本諒達)說明二略以「貴局依水土保持計畫或簡易水土保持申報書書之計畫面積計算回饋金後，倘有符合本辦法(山坡地開發利用回饋金繳交辦法)第8條各款情形之一，則可免繳交該回饋金。」，其說明內容應屬明確，尚無貴局詢問僅計算免繳交回饋金範圍面積之疑義。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000871?p=20",
+   "fetched_at": "2026-10-30T14:56:42+08:00",
+   "source_key": "forest:0000871"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "344ec9798b85e454dfc431d792f70f84fb1bcf5528e1e88e4729af7663fb95e2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

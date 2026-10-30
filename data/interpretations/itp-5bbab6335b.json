@@ -26,10 +26,16 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農授漁字第1081203446號|漁業署依容許辦法第29條規定申請地面型綠能設施遮蔽率計算方式"
+  },
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/1ab3f790-748f-471c-becf-7a1b8e6927b8?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:09+08:00",
+   "source_key": "talis:1ab3f790-748f-471c-becf-7a1b8e6927b8"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

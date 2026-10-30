@@ -1,0 +1,40 @@
+{
+ "id": "itp-096367dfe6",
+ "doc_class": "interpretation",
+ "docno": "農林字第86115875號",
+ "date": "1997-04-15",
+ "date_text": "086/04/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "關於租地造林人申請造林獎勵金，若成活率未達標準是否發給獎勵金乙案，本會復如說明，請查照。",
+ "content": "一、復貴局八十六年三月二十八日八十六林造字第○七八六五號函。\n二、對於造林成活率未達百分之七十者，林業管理經營機關自應輔導補植至檢測合格後始發給造林獎勵金，不合格者即不發給該年獎勵金，獎勵金亦不得追溯。新植後連續三年檢測不合格之造林地視為造林失敗地，不宜再補植並不得發給造林獎勵金，但得再重新申請獎勵造林，其留存之林木應併入每公頃標準栽植株數計算。\n三、餘有關獎勵造林內容，請逕參考現行「獎勵造林實施要點」規定。\n四、爾後對於法規之釋疑，請貴局先會法規會研究相關法令且研擬具體意見後，再報本會。\n正本：台灣省政府農林廳林務局\n副本：台灣省林務局羅東林管區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000716?p=102",
+   "fetched_at": "2026-10-30T15:16:39+08:00",
+   "source_key": "forest:0000716"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "22ea056296f95694ac2eb59d3bee62544bed4d6c127ac00a59e9e325158a21d0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-185f4ea45a",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951740645號",
+ "date": "2006-05-15",
+ "date_text": "095/05/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關土地所有權人以「林地」以外之土地參與獎勵造林，其如欲處理地上獎勵造林木，是否須依森林法規定申請一案，請依說明事項辦理，請查照。",
+ "content": "一、茲因土地所有權人以「林地」以外之土地參與獎勵造林，已非屬森林法規範範圍，爰本局 95年4月4日林造字第0951606371號函釋，修正如下：如屬森林法規範之林地，土地所有權人如須處分地上林木，當須依森林法規定辦理；反之，非屬森林法規範之林地，無須依森林法規定辦理。\n二、另基於該土地係屬參與獎勵造林地，為確實掌握獎勵造林面積及位置，並控制統計伐採數量，請貴府加強宣導及輔導土地所有權人，其如欲處理地上獎勵造林木，宜主動告知貴府錄案並由貴府建立圖簿資料，較為妥適。\n正本 :雲林縣政府\n副本 :",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000154?p=79",
+   "fetched_at": "2026-10-30T15:11:03+08:00",
+   "source_key": "forest:0000154"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "206cfaadf7ca38577ef4d7b8e885541432fcd05f3186706a0f30448ce61987f3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

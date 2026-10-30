@@ -1,0 +1,40 @@
+{
+ "id": "itp-9a1a6448e4",
+ "doc_class": "interpretation",
+ "docno": "農林字第87120907號",
+ "date": "1998-05-16",
+ "date_text": "087/05/16",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴府函詢申請獎勵農地造林，填砂造林是否准予補發造林獎勵乙案，復請查照。",
+ "content": "一、復貴府八十七年四月廿四日八七府農林字第四七二七七號函。\n二、依稻田轉作計畫規定，轉作之稻田仍應維持水利設施，必要時可恢復種稻。本案該農戶申報之農田既經填砂石，已改變地形地貌，經冬山鄉所勘查審核不符合稻田轉作計畫認定之要件，故不得在稻田轉作計畫內領取補貼。另「獎勵農地造林要點」第四點亦明訂：農地造林後不得影響鄰接田區之交通、作物生產或破壞原有灌溉排水系統。本案不符前揭相關規定，本會未便同意辦理。\n正本：宜蘭縣政府\n副本：台灣省林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000641?p=101",
+   "fetched_at": "2026-10-30T15:16:22+08:00",
+   "source_key": "forest:0000641"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "57e93bd2a13e3fa91016669fb977040b246002e8eb1adae32bfa99b181f9751f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

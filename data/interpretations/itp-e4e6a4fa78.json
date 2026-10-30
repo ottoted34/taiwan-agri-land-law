@@ -1,0 +1,49 @@
+{
+ "id": "itp-e4e6a4fa78",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100245004號",
+ "date": "2021-11-01",
+ "date_text": "中華民國110年11月1日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關函請本會提供嚴重地層下陷地區不利農業經營得設置綠能設施之農業用地範圍劃設作業機制案",
+ "content": "依據「申請農業用地作農業設施容許使用審查辦法」第30條規定，為審慎劃設「嚴重地層下陷地區不利農業經營得設置綠能設施之農業用地範圍」，本會研訂由下而上之劃設作業機制，即由各地方政府依劃設原則，提送得設置綠能設施之農業用地建議範圍及其圖說資料，送本會審查後再予公告實施，並於105年6月13日函請各直轄市、縣(市)政府進行檢討作業。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-11-01）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/ad998b4b-6447-4855-bc93-b107d1193ef1?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:44+08:00",
+   "source_key": "talis:ad998b4b-6447-4855-bc93-b107d1193ef1"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3cfbf9600c5aca04b7c5bce72a161781186448763b5087b9cb9330ed485d2993",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "30",
+   "kind": "extracted",
+   "snippet": "不利農業經營得設置綠能設施之農業用地範圍劃設作業機制案\n依據「申請農業用地作農業設施容許使用審查辦法」第30條規定,為審慎劃設「嚴重地層下陷地區不利農業經營得設置綠能設施之農業用地範圍」,本"
+  }
+ ]
+}

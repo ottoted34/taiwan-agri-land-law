@@ -1,0 +1,51 @@
+{
+ "id": "itp-3b8efaec16",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1100223854號",
+ "date": "2021-07-01",
+ "date_text": "中華民國110年7月1日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "水產養殖管理設施申請設置屋頂型綠能設施之疑義案",
+ "content": "一、 依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第28條規定，農業設施屋頂附屬綠能設施，須結合農業經營，且採2階段審查，即該農業設施具農業經營實績、確有農業經營事實、符合原核定之計畫內容使用，始同意設置，又該綠能設施主結構應與農業設施共構綁定，始符合上開容許辦法所定之屋頂型綠能設施，合先敘明。\n二、 本案貴府來函所述，太陽光電設備(含支撐架)結構並非共構在水產養殖管理設施建物本體，屬建築結構分立型，爰該光電板自非屬容許辦法所定之屋頂型綠能設施。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-07-01）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/295b1b11-3851-4ca7-8b78-719385adbdbe?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:50+08:00",
+   "source_key": "talis:295b1b11-3851-4ca7-8b78-719385adbdbe"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a760c912b9823cae0e8d93c0b907e411052e003c4ef4c5a6537fe8d5fc471022",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "水產養殖管理設施申請設置屋頂型綠能設施之疑義案\n一、 依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第28條規定,農業設施屋頂附屬綠能設施,須結合農業經營,且採2階"
+  }
+ ]
+}

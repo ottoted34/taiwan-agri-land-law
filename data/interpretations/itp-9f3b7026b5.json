@@ -1,0 +1,42 @@
+{
+ "id": "itp-9f3b7026b5",
+ "doc_class": "interpretation",
+ "docno": "林企字第1011710853號",
+ "date": "2012-05-25",
+ "date_text": "101/05/25",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "有關貴府函詢林業用地申請農業使用證明，其土地種植大葉山欖是否符合「森林使用」之樹種案。",
+ "content": "一、復貴府101年1月2日屏府農林字第1010000664號函。\n二、大葉山欖列入本局「國有林事業區租地造林樹種表」及「獎勵造林樹種及每公頃栽植株基準表」所列樹種，自得作為認定「森林使用」樹種。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000888?p=21",
+   "fetched_at": "2026-10-30T14:56:51+08:00",
+   "source_key": "forest:0000888"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6ba83d80129ac523d60b1e798851b97737440ff8a91896b8d2597c66b3b8457c",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

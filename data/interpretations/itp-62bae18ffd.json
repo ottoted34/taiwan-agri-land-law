@@ -1,0 +1,42 @@
+{
+ "id": "itp-62bae18ffd",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910139493號",
+ "date": "2002-07-18",
+ "date_text": "091/07/18",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關桃園縣政府函詢有關該縣龍潭鄉民君，原申請獎勵造林之部分土地及林木出售約‧一五公頃於他人作為道路用地，是否可免追繳歷年所領之獎勵金一案，本案因屬對價行為，應予追繳該部分面積歷年已領之獎勵金，方符合公平原則，復請查照。",
+ "content": "復貴局九十一年七月十一日九一林造字第○九一一六一二二四八號函。\n正本：本會林務局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000731?p=95",
+   "fetched_at": "2026-10-30T15:14:49+08:00",
+   "source_key": "forest:0000731"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c28740e413281eff13bace3be6920e3fd55d325f52050944b08b5f54defc5e0d",
+ "topics": [
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

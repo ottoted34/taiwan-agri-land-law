@@ -1,0 +1,40 @@
+{
+ "id": "itp-0e4061f660",
+ "doc_class": "interpretation",
+ "docno": "林政字第0901616955號",
+ "date": "2001-09-06",
+ "date_text": "090/09/06",
+ "agency_text": "",
+ "category": "森林管理組／保安林",
+ "subject": "有關竊占本局經管之國有不動產，原應由本局依民法第七百六十七條對無權占有人行使所有人請求返還及妨害之防止、除去等權利之案件，鑑於貴處為是類財產之實際管理使用者，爰參酌最高法院五十一年台上字第二六八O號判例，得由貴處以實際管理者資格起訴，代國家主張所有人權利，以避免相對人以當事人不適格為由，延滯訴訟程序進行，請查照。",
+ "content": "依據新竹林區管理處九十年八月二十一日九十竹政字第九O二二一O七五九號函辦理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000942?p=96",
+   "fetched_at": "2026-10-30T15:15:15+08:00",
+   "source_key": "forest:0000942"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c37f167999bebfa6259d9a6b37e9e2f950a8893f5fca9ce0c1bb7cc781ae9e6c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

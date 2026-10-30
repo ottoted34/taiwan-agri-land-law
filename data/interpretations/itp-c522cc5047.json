@@ -1,0 +1,40 @@
+{
+ "id": "itp-c522cc5047",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991741589號",
+ "date": "2010-07-13",
+ "date_text": "099/07/13",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關嘉義縣政府函詢「已具完整林相造林樹種林木之土地得否准予參加獎勵輔導造林計畫-新植造林或全民造林計畫-撫育管理計畫」疑義案，復如說明，請查照。",
+ "content": "一、復貴會99年7月8日原民經字第0990032020號函。\n二、查全民造林運動實施計畫之新植造林業務，自94年度起即已停辦，目前辦理之撫育管理計畫係原已核准申請有案之造林地，可依據「獎勵造林實施要點」之規定持續撫育管理至第20年，即全民造林計畫已無再受理新植造林案。\n三、有關獎勵輔導造林計畫新植造林案件之申辦係屬申請核可制，主要係依據獎勵輔導造林辦法及其他相關規定，申請案如符合該辦法之對象、區位及新植造林方式等，則可據以辦理。本案據報該造林地林木已達多年生具完整林相，不符前揭規定。\n正本：行政院原住民族委員會\n副本：嘉義縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000111?p=37",
+   "fetched_at": "2026-10-30T15:00:42+08:00",
+   "source_key": "forest:0000111"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "14e589ca79dca2a4f799964d020bc2f6e09d4bb2676fe56d1b687c507a440b14",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

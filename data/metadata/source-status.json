@@ -50,11 +50,30 @@
   "last_full_compare": "2026-10-30T12:03:30+08:00"
  },
  "local-taichung": {
-  "last_checked": "2026-10-30T14:25:39+08:00",
+  "last_checked": "2026-10-30T15:21:42+08:00",
+  "last_status": "ok",
+  "last_errors": [
+   "廢 臺中縣陸上魚塭養殖漁業登記及管理規則(原繼續適用) 驗證失敗：無任何條文",
+   "廢 臺中縣陸上漁塭養殖漁業登記及管理規則(原繼續適用) 驗證失敗：無任何條文"
+  ],
+  "last_success": "2026-10-30T15:21:42+08:00",
+  "last_full_compare": "2026-10-30T15:21:42+08:00",
+  "last_changed": "2026-10-30T15:21:42+08:00"
+ },
+ "forest-interpretations": {
+  "last_checked": "2026-10-30T15:16:44+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-10-30T14:25:39+08:00",
-  "last_full_compare": "2026-10-30T14:25:39+08:00",
-  "last_changed": "2026-10-30T14:25:39+08:00"
+  "last_success": "2026-10-30T15:16:44+08:00",
+  "last_full_compare": "2026-10-30T15:16:44+08:00",
+  "last_changed": "2026-10-30T15:16:44+08:00"
+ },
+ "talis-green-energy": {
+  "last_checked": "2026-10-30T15:19:53+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-10-30T15:19:53+08:00",
+  "last_full_compare": "2026-10-30T15:19:53+08:00",
+  "last_changed": "2026-10-30T15:19:53+08:00"
  }
 }

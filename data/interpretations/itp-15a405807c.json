@@ -1,0 +1,40 @@
+{
+ "id": "itp-15a405807c",
+ "doc_class": "interpretation",
+ "docno": "林造字第0921613587號",
+ "date": "2003-07-03",
+ "date_text": "092/07/03",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "為台端陳情申請獎勵平地景觀造林獎勵案，茲因與相關規定不符，歉難同意辦理並復如說明，請查照。",
+ "content": "一、依據行政院農業委員會戴副主任委員辦公室92年6月26日交下台端92年6月20日陳情書辦理。\n二、本案本局曾以92年6月24日林造字第0921612905號函復在案，茲因平地造林係依據「獎勵造林實施要點」辦理，自91年1月1日開始實施，並以獎勵新植造林為主，其核發造林獎勵金規定為新植且所植樹種與株數需符合規定標準，並平均分布正常生長林地；檢測造林存活率達百分之七十以上。\n三、案據屏東縣政府報稱台端於推行平地造林政策前，係以盆栽方式種植恆春楨楠、銀葉樹、穗花樹蘭等非獎勵造林樹種數年之久，現申請以茄冬間植於空隙處；爰此該土地之樹種、行株距、栽植方式等顯與說明二規定不符，本局歉難同意辦理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000795?p=90",
+   "fetched_at": "2026-10-30T15:13:43+08:00",
+   "source_key": "forest:0000795"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e89233e3a66abdf39b6ffe82a0c86df6f7dbea85b44e326c7244befcde0aefc6",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

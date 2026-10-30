@@ -1,0 +1,40 @@
+{
+ "id": "itp-013e93cf83",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001741156號",
+ "date": "2011-05-30",
+ "date_text": "100/05/30",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴縣三地門鄉口社段地號土地因農業天然災害救助案涉及造林獎勵金追賠事宜一節，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會農糧署100年3月11日便箋及貴府100年2月23日屏府農務字第1000048534號函辦理。\n二、查獎勵造林實施要點第7點規定，造林獎勵金領取人，於領取獎勵金時，應立書面切結，同意接受林業主管機關之指導，善加管理經營造林木竹，使之長大成林，不可任其荒廢或擅自拔除毀損；如有違背，應加利息賠償已領取之獎勵金。\n三、依據獎勵造林實施要點的立法旨意，係以獎勵造林方式，期達成國土保安及水源涵養等目標，並不鼓勵於林地種植任何農作物。旨揭土地倘違反前揭規定，請貴府依規追賠其造林獎勵金。\n正本：屏東縣政府\n副本：行政院農業委員會農糧署、行政院農業委員會輔導處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000121?p=29",
+   "fetched_at": "2026-10-30T14:58:54+08:00",
+   "source_key": "forest:0000121"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "29bb73f6a3367d913f67666b9760e793537e24414e116485ca62ec0b27661218",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

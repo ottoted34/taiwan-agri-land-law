@@ -1,0 +1,40 @@
+{
+ "id": "itp-35e82f0303",
+ "doc_class": "interpretation",
+ "docno": "農林字第900148477號",
+ "date": "2001-10-11",
+ "date_text": "090/10/11",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府檢送九十一年度「因應加入WTO農業生產轉行之混農林經營實驗計畫」一案，復如說明，請查照。",
+ "content": "一、復貴府九十年九月五日九○府農林字第九○○五二○○九四四號函。\n二、有關因應加入 WTO 後國內農業產業結構將面臨調整之問題，本會已研提「平地景觀造林即綠美化方案」並報奉行政院同意辦理，計畫自明年度起規劃輔導農地造林，造林補助及獎勵金之發放除依據獎勵造林實施要點發給每公頃二十年間五十三萬元外，另比照「水旱田利用調整後續計畫」之特殊休耕地基礎給付標準發給直接給付補助費每年每公頃五萬四千元，共計每公頃二十年間一六一萬元。\n三、貴府所提「因應加入 WTO 農業生產轉型之混農林經營實驗計畫」中，符合該方案之申請要件者請依該方案相關規定辦理，餘則仍請列入本會全民造林運動計畫依獎勵造林實施要點之規定辦理。\n正本：雲林縣政府\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000658?p=96",
+   "fetched_at": "2026-10-30T15:15:13+08:00",
+   "source_key": "forest:0000658"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b9669caba27abc2ce824d6cfce24f00443861688abb3fabf2ad38055ad037cb0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

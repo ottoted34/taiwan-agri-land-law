@@ -1,0 +1,53 @@
+{
+ "id": "itp-8b63baefb1",
+ "doc_class": "interpretation",
+ "docno": "農林字第890118793號",
+ "date": "2000-04-15",
+ "date_text": "089/04/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "函詢有關獎勵造林之獎勵金核發案，復如說明，請查照。",
+ "content": "一、復貴府八十九年三月三十一日八九府農林字第四七○四一號函。\n二、關於私有林地或承租林地之使用管制，有森林法、水土保持法、山坡地保育利用條例或林地出租管理辦法等相關法令規範，因此在推行獎勵造林時，除依據「獎勵造林實施要點」規定外，亦應在不違反前揭相關法令規範，因此在推行獎勵造林時，除依據「獎勵造林實施要點」規定外，亦應在不違反前揭相關法規之原則下辦理。\n三、所稱「造林」一詞，在林業經營上有明確界定，與間植或混植農作物可以區別；且「獎勵造林實施要點」中造林樹種亦已明列，對於是否完成造林之認定應無疑義。\n四、本案請依權責辦理。\n正本：台南縣政府\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000723?p=98",
+   "fetched_at": "2026-10-30T15:15:40+08:00",
+   "source_key": "forest:0000723"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8bf75246069b731802f10a7ed226c1a7e59e48fdc724fd153072f5edeb9a1bc7",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "四一號函。\n二、關於私有林地或承租林地之使用管制,有森林法、水土保持法、山坡地保育利用條例或林地出租管理辦法等相關法令規範,因此在推行獎勵造林時,除依"
+  },
+  {
+   "law_id": "M0110006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "二、關於私有林地或承租林地之使用管制,有森林法、水土保持法、山坡地保育利用條例或林地出租管理辦法等相關法令規範,因此在推行獎勵造林時,除依據「獎勵造林實施要點"
+  }
+ ]
+}

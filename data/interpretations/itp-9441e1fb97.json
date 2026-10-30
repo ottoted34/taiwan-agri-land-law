@@ -1,0 +1,42 @@
+{
+ "id": "itp-9441e1fb97",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941603924號",
+ "date": "2005-03-07",
+ "date_text": "094/03/07",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴縣八里鄉宮山坡地開發利用回饋金繳交疑義案，復如說明，請查照。",
+ "content": "一、復貴府94年2月18日北府農林字第0940086109號函。\n二、行政院農業委員會前於94年2月21日以農授林務字第0941603555號函(副本諒悉)示山坡地開發利用回饋金收取時間點，爰貴府公告乘積比例後，送核之水土保持計畫均須核算回饋金數額，毋論原已違規興建土地，其事後為辦理補照等相關法定程序所核定之水土保持計畫，及為新建寺廟工程所提送之水土保持計畫等，均須依規核算回饋金。\n三、復依據農委會93年1月5日農林字第0920177974號函釋示，開發面積係指經核定水土保持計畫範圍內，各項水土保持設施、工程、建築、土地開發經營或經營使用行為等之面積總和，爰確未涉及開挖整地之區域，本免繳山坡地開發利用回饋金，請貴府逕予認定。\n正本:臺北縣政府\n副本:本局集水區治理組、法規小組",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000502?p=86",
+   "fetched_at": "2026-10-30T15:12:49+08:00",
+   "source_key": "forest:0000502"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "50165a783ad037b321263c23b28af229460302d7ac3d73fd777559c5e68c472e",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,50 @@
+{
+ "id": "itp-3da6099e2b",
+ "doc_class": "interpretation",
+ "docno": "農林字第092117303號",
+ "date": "2003-04-11",
+ "date_text": "092/04/11",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢山坡地保育區農牧用地建造農舍，須否繳交山坡地開發利用回饋金一案，復請查照。",
+ "content": "一、復 台端92年3月25日函。\n二、來函所稱「簡易水土保持法」諒係「簡易水土保持申報書」之誤，經查實務上，於山坡地農牧用地興建農舍，如有涉及開挖整地情事者，申請人應先擬具水土保持計畫送核。如其挖填土石方未達5,000立方公尺者，得以「簡易水土保持申報書」代替水土保持計畫，並應依照「山坡地開發利用回饋金繳交辦法」，繳交山坡地開發利用回饋金。\n正本:○○○先生\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000295?p=92",
+   "fetched_at": "2026-10-30T15:14:12+08:00",
+   "source_key": "forest:0000295"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "837da9d840b741f67fb334e9e83b784b38fb69169acbd58f6d5343c6ae75cfe7",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "查照。\n一、復 台端92年3月25日函。\n二、來函所稱「簡易水土保持法」諒係「簡易水土保持申報書」之誤,經查實務上,於山坡地農牧用地興建農舍,如有涉及開"
+  }
+ ]
+}

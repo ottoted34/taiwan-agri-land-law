@@ -1,0 +1,40 @@
+{
+ "id": "itp-d89cd3f630",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981740656號",
+ "date": "2009-04-27",
+ "date_text": "098/04/27",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢位於山坡地特定農業區之農牧用地得否申請獎勵輔導造林計畫案，復如說明，請查照。",
+ "content": "一、復貴府97年12月24日府農林字第0973042386號函。\n二、針對本案疑義，因事涉土地使用編定，經洽內政部地政司土地使用編定科表示，山坡地範圍內非都市計畫區之農牧用地確實有少部分位於特定農業區。山坡地特定農業區之農牧用地雖似符合「獎勵輔導造林辦法」第四條第三款規範之條件，惟核准參與獎勵輔導造林計畫之程序，仍應依據「獎勵輔導造林辦法」第六條規定，即由主管機關現場勘查，認有實施造林之需要者始核准之。\n三、鑑於「獎勵輔導造林辦法」並無明文排除該區位，且獎勵輔導造林計畫係屬申請核可制，故本案自難拒絕民眾提出申請；惟貴府仍得依上開原則，業經現勘後，本於權責准駁申請案。\n正本:臺東縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000187?p=51",
+   "fetched_at": "2026-10-30T15:04:07+08:00",
+   "source_key": "forest:0000187"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e3829b5e1e37cb60c65b39c754e115fa8add1eee89a7335b12f27eeecac674c8",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

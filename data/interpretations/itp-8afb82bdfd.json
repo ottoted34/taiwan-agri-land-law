@@ -1,0 +1,40 @@
+{
+ "id": "itp-8afb82bdfd",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0981741476號",
+ "date": "2009-09-03",
+ "date_text": "098/09/03",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴轄民眾君致函本會陳請明確認定平地造林受理面積1案，請惠予依據說明事項辦理，請查照。",
+ "content": "一、依據○君未具日期陳情書辦理。\n二、依據平地造林直接給付及種苗配撥實施要點第6點規定，申請造林直接給付之土地面積應為0.5公頃以上，就面積計算並無得以四捨五入方式為之，然為鼓勵民眾參與造林並達成政府政策目標，請貴府(公所)基於行政協助之立場，積極尋求與○君所有土地毗連之所有權人，詢問參與平地造林之意見，以聯名申請方式，達最低門檻毗連0.5公頃之限制。\n三、另，倘若民眾之申請案件不符合規定，建請婉轉向民眾敘明原因，以利民眾瞭解。\n四、副本抄送本會林務局屏東林區管理處，請屏東處適時提供必要之協助。\n正本:屏東縣政府、屏東縣長治鄉公所\n副本:○○○君、本會林務局屏東林區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000458?p=45",
+   "fetched_at": "2026-10-30T15:02:48+08:00",
+   "source_key": "forest:0000458"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ed83e11a0fcffabf5cfcce44dd04e668a06436733b6bd1ea360912344158bb11",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

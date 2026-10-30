@@ -1,0 +1,40 @@
+{
+ "id": "itp-292104a74e",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0951740052號",
+ "date": "2006-01-12",
+ "date_text": "095/01/12",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關山坡地開發利用回饋金收取時間點疑義案，復如說明，請查照。",
+ "content": "一、復貴府95年1月3日府建三字第09421505200號函。\n二、查大法官會議釋字第287號解釋略以，在後之釋示如與在前之釋示不一致時，在前之釋示並非當然錯誤，於後釋示發布前，依前釋示所為之行政處分已確定者，除前釋示確有違法之情形外，為維持法律秩序之安定，應不受後釋示之影響。是以，本案應無相關追繳疑義。\n正本：臺北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000526?p=82",
+   "fetched_at": "2026-10-30T15:11:49+08:00",
+   "source_key": "forest:0000526"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a8fe36a346c6e1372de3fb5e128e23208d0424ff1a66c60b39a6ab690664d247",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

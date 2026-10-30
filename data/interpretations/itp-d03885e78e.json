@@ -1,0 +1,42 @@
+{
+ "id": "itp-d03885e78e",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981741177號",
+ "date": "2009-07-20",
+ "date_text": "098/07/20",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢獎勵造林地因清償債務強制執行事件，遭法院查封登記，得否核發造林獎勵金疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年7月8日府農林字第0980503441號函。\n二、依據強制執行法第78條規定:「已查封之不動產，以債務人為保管人者，債務人仍得為從來之管理或使用。由債務人以外之人保管者，執行法院得許債務人於必要範圍內管理或使用之。」，又同法第58條規定:「查封後，債務人得於拍定前提出現款，聲請撤銷查封。」，故獎勵造林地內，縱有遭法院查封之情事，於拍定並完成所有權移轉前，債務人仍得為從來之管理或使用，且有聲請撤銷查封之虞。\n三、準此，為避免嗣後衍生爭議，本案建請貴府先暫停發放造林獎勵金;惟為維護林農權益，仍請針對系爭獎勵造林地，確實執行造林成果檢測，倘造林人聲請撤銷查封成功後，始得憑為補發造林獎勵金之依據。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000214?p=47",
+   "fetched_at": "2026-10-30T15:03:16+08:00",
+   "source_key": "forest:0000214"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0496d072a265e577f1939a4562ff6e8521bc944cdc9113626c5b3b360e63574b",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

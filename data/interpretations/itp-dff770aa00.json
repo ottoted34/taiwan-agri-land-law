@@ -1,0 +1,40 @@
+{
+ "id": "itp-dff770aa00",
+ "doc_class": "interpretation",
+ "docno": "農林字第88123564號",
+ "date": "1999-06-02",
+ "date_text": "088/06/02",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "所循有關前申請農地造林領取獎勵金在案之造林地，因土地權屬轉移，其後續造林撫育土地管理費可否由現土地所有權管理人繼續具領案，復如說明，請查照。",
+ "content": "一、復貴府八十八年五月十九日八八府農自字第零九四零一二號函。\n二、前依規申請獎勵造林有案之造林地，若因土地權屬轉移，其土地所有權人於合法完成轉移手續後，應檢具土地證明文件，主動通知元造林受理申請單位，於造林登記卡及相關申請書上加以註明，以維護其權益，病例後續作業及追蹤管考。土地移轉後之土地所有權人仍應繼續維護管理原有造林木，並按「獎勵造林實施要點」規定，經檢測合格後使得核發造林獎勵金。\n正本：高雄縣政府\n副本：台灣省政府農林廳林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000649?p=100",
+   "fetched_at": "2026-10-30T15:16:00+08:00",
+   "source_key": "forest:0000649"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d4b3c349677286f9f94eb67cce42e7b5be265e6d937f44d76b4740049f515196",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

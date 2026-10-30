@@ -1,0 +1,40 @@
+{
+ "id": "itp-558d05af86",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0991654325號",
+ "date": "2010-04-19",
+ "date_text": "099/04/19",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄已註銷之全民造林地得否核准參與平地造林計畫案，復如說明，請查照。",
+ "content": "一、復貴府99年4月15日府農林字第0990061718號函。\n二、依據「平地造林直接給付及種苗配撥實施要點」(以下簡稱本要點)第5點規定:「經依獎勵造林實施要點核定造林者，其造林未滿20年有砍除、荒廢林木或終止造林之情事，該筆土地之所有權人或使用經營人不得依本要點申請參加造林直接給付。但因病、蟲害、天然災害等不可抗力因素，須砍除重新造林經報執行機關核准者，不在此限。」\n三、本案據報既屬因風災受損於92年報請本會同意註銷之造林地，故於本案造林地上之授益行政處分及應負擔之造林義務，應自同意註銷日起終止其行政法律關係；準此，本案土地如符合本要點規範對象，貴府自難禁止農民申請參加平地造林計畫。\n正本:花蓮縣政府\n副本:本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000435?p=40",
+   "fetched_at": "2026-10-30T15:01:21+08:00",
+   "source_key": "forest:0000435"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "698ba4a6eb22dc6ef9a41f43bc2ca26c19875921ba5f599f1d4c39819536e42a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

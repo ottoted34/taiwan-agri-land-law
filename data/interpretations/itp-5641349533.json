@@ -1,0 +1,43 @@
+{
+ "id": "itp-5641349533",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第1021740888號",
+ "date": "2013-03-22",
+ "date_text": "102/03/22",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問休閒農場繳交山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、復貴府102年3月15日北府農輔字第1021432953號函。\n二、據報本案申請掛件日為94年6月20日，爰應依本會89年11月30日公布之山坡地開發利用回饋金繳交辦法第5條「本回饋金之計算方式，應依其開發利用程度之類別，以核定水土保持計畫時之開發面積與其當期公告土地現值乘積百分之六至百分之十二計算。」之規定辦理計算回饋金。\n三、本案之「開發面積」認定，並非僅以申請設施之面積計算，貴府應依本會93年4月14日農授林務字第0931606727號函釋內容，以核定水土保持計畫範圍內之「開挖整地面積總和」計算。\n正本：新北市政府\n副本：本會輔導處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000847?p=17",
+   "fetched_at": "2026-10-30T14:55:52+08:00",
+   "source_key": "forest:0000847"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1fdcf61b91216c59ded3dbb902943154fa06719335574f9124565c4cb72e39a4",
+ "topics": [
+  "landfill",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

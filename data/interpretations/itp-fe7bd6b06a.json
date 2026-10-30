@@ -1,0 +1,40 @@
+{
+ "id": "itp-fe7bd6b06a",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961650742號",
+ "date": "2007-01-19",
+ "date_text": "096/01/19",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄林農君之獎勵造林地，查有種植生薑，其獎勵金追賠1案，復如說明，請查照。",
+ "content": "一、復貴府96年1月17日府農林字第0960008790號函。\n二、又本案依據貴府95年11月6日府農林字第0950138267號函說明三略以，原造林地既已改植生薑而遭毀損，並於收成後始向貴府申請補植，顯已違反本要點第7點之規定；是以，仍請貴府依據本局於95年11月8日林造字第0951659308號函示辦理。\n正本：宜蘭縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000028?p=71",
+   "fetched_at": "2026-10-30T15:09:04+08:00",
+   "source_key": "forest:0000028"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "68f4498c1e6d943b789742c5327f4ee0ea4e90c9ecc09ff5560801e2fc049614",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

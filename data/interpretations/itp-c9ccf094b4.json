@@ -1,0 +1,40 @@
+{
+ "id": "itp-c9ccf094b4",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991740209號",
+ "date": "2010-01-25",
+ "date_text": "099/01/25",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關八仙山事業區第29林班假號地承租人、伐木跡地申請參加98年度獎勵輔導造林計畫案，復如說明，請查照。",
+ "content": "一、復貴處98年10月30日勢政字第0983109090號函。\n二、有關獎勵輔導造林案件之申辦，主要係依據獎勵輔導造林辦法及其他相關規定，貴處函詢之申請案如符合該辦法之對象、區位及新植造林方式等，則可據以辦理。有關杉木萌芽更新造林地之申請案，請貴處就該租地是否為新植造林作業方式予以認定。\n三、貴處來函說明三有關造林獎勵金發放方式乙節，因不符合獎勵輔導造林辦法造林獎勵金發放額度之規定，目前尚不可行。\n正本：本局東勢林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000082?p=42",
+   "fetched_at": "2026-10-30T15:01:51+08:00",
+   "source_key": "forest:0000082"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c3c11acf297493b53c64dbd0a370d3b82b89c4aac6e177a2933f53588ffa21cd",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

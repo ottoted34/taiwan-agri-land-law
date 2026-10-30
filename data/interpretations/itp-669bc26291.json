@@ -1,0 +1,40 @@
+{
+ "id": "itp-669bc26291",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981740703號",
+ "date": "2009-05-01",
+ "date_text": "098/05/01",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關台端向立法院鍾委員紹和國會辦公室陳情「獎勵造林實施要點」第八點疑義案，詳如說明，請查照。",
+ "content": "一、依據立法委員鍾紹和國會辦公室98年4月2日傳真函暨本局98 年4月7日中央民意代表關切事項報告表辦理。\n二、查農委會於86年1月17日召開「研商獎勵造林相關事宜會議」，會議結論(二)即已敘明，依獎勵造林實施要點第八點第五款規定轉入全民造林計畫者，以其轉入時之對應年數發給造林獎勵金，並依獎勵造林實施要點規定辦理。\n三、本案由原住民保留地森林保育計畫轉入全民造林計畫者應依據獎勵造林實施要點及相關規定辦理，有關造林第七年至二十年每年每公頃造林管理費之發放標準，經審酌全民造林運動綱領暨實施計畫及獎勵造林實施要點之立法原意，國有林、公有林、實驗林等租地或合作造林因無土地成本，故造林管理費減半發給。爰此，本案仍應參照前揭立法原意，以是否取得土地所有權為獎勵金之發放標準。\n正本：○○○君\n副本：立法委員鍾紹和國會辦公室",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000441?p=50",
+   "fetched_at": "2026-10-30T15:04:01+08:00",
+   "source_key": "forest:0000441"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ad3037cf200d7468dbb001bd06f768ef2596a1b21fa0e515828ddd803da25b51",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

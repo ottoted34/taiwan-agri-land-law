@@ -1,0 +1,40 @@
+{
+ "id": "itp-3d42ba462a",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991740205號",
+ "date": "2010-01-25",
+ "date_text": "099/01/25",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府辦理98年度獎勵輔導造林計畫認定標準疑義一案，復如說明，請查照。",
+ "content": "一、復貴府98年11月6日府原地字第0980187100號函。\n二、貴府函詢旨揭計畫受理案地內之保留木是否應納入核定計畫範圍內一節，為免日後衍生疑義，建請貴府扣除該保留木面積，依據實際新植面積及獎勵輔導造林辦法規定，予以核發造林獎勵金。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000076?p=42",
+   "fetched_at": "2026-10-30T15:01:54+08:00",
+   "source_key": "forest:0000076"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "31656400899854a30668416c5dac0caadc7f920c30154707e22544015dccf9f0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

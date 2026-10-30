@@ -1,0 +1,40 @@
+{
+ "id": "itp-d293505d28",
+ "doc_class": "interpretation",
+ "docno": "林企字第0961617426號",
+ "date": "2007-10-19",
+ "date_text": "096/10/19",
+ "agency_text": "",
+ "category": "保育企劃組／森林登記規則",
+ "subject": "有關貴府函詢私有林業用地辦理森林登記疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年10月17日府農林字第0960347904號函。\n二、依據95年度召開「辦理森林登記審查疑義研商會議」紀錄﹝本局95年11月15日林企字第0951710935號函﹞案由一決議，新植造林者可辦理森林登記。\n三、請貴府就林地勘查現況，依據說明二及相關法規辦理審查。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000778?p=63",
+   "fetched_at": "2026-10-30T15:07:12+08:00",
+   "source_key": "forest:0000778"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8a6b5677bbae2120a36bf830fbaefe7f57d5ba2f5f7057eb7eca0877c941c91d",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

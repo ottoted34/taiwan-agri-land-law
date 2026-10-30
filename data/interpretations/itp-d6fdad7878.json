@@ -1,0 +1,47 @@
+{
+ "id": "itp-d6fdad7878",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0950109088號",
+ "date": "2006-02-24",
+ "date_text": "095/02/24",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關君、君之山坡地開發利用回饋金繳交疑義一案，復如說明，請查照。",
+ "content": "一、復貴府95年2月16日府建三字第09570256700號函。\n二、依據山坡地開發利用回饋金繳交辦法第4條規定，回饋金之繳交義務人為同法第3條所指山坡地開發利用之申請人，山坡地開發利用則依水土保持法相關規定，須擬具水土保持計畫之土地開發經營或使用行為。\n三、本案如屬依水土保持法規定，須擬具水土保持計畫之土地開發、經營或使用行為，且無山坡地開發利用回饋金繳交辦法免繳或視同已繳交之情況下，○君等人仍須負繳交山坡地開發利用回饋金之義務。\n正本：臺北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000521?p=82",
+   "fetched_at": "2026-10-30T15:11:45+08:00",
+   "source_key": "forest:0000521"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7bf5c9618bc24509ee7651c66c3c35a0dff54342f1c20f526a9560fe72393ec3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "人為同法第3條所指山坡地開發利用之申請人,山坡地開發利用則依水土保持法相關規定,須擬具水土保持計畫之土地開發經營或使用行為。\n三、本案如屬依水土保持法"
+  }
+ ]
+}

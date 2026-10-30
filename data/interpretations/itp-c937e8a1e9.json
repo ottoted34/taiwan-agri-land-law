@@ -1,0 +1,40 @@
+{
+ "id": "itp-c937e8a1e9",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011654275號",
+ "date": "2012-04-13",
+ "date_text": "101/04/13",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問股份有限公司繳交山坡地開發利用回饋金疑義案，事涉既有合法建物得否免繳交回饋金問題，本局刻正研議中，俟有具體結論再行回復，復請 查照。",
+ "content": "復貴府101年4月10日府農育字第1010096614號函。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000388?p=21",
+   "fetched_at": "2026-10-30T14:56:58+08:00",
+   "source_key": "forest:0000388"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1b0998115ef188396661790762fdfd89ce080d6f102902735817c9c107487015",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

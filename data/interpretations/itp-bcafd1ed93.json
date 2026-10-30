@@ -34,26 +34,16 @@
  "version": 1,
  "flags_in": [],
  "validity": {
-  "status": "possibly_affected",
+  "status": "amended_by_later",
   "confirmed": false,
   "basis": [
    {
-    "type": "law_amendment",
-    "law_id": "M0020018",
-    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
-    "article": null,
-    "amended_on": "2016-05-25",
-    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
-    "relation_kind": "official"
-   },
-   {
-    "type": "law_amendment",
-    "law_id": "M0020018",
-    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
-    "article": "6",
-    "amended_on": "2016-05-25",
-    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
-    "relation_kind": "extracted"
+    "type": "amend_signal",
+    "by_id": "itp-2ae04937f9",
+    "by_docno": "農授林務字第0961652651號",
+    "by_date": "2007-03-20",
+    "kind": "amend",
+    "phrase": "三、有關農業用地變更回饋金與山坡地開發利用回饋金之收取原則,本會已於95年11月10以農企字第0950158636號函及95年11月21日以農林務字第0951659482號函通函各地方主管機關有案,請依相關函釋辦理"
    }
   ]
  },

@@ -1,0 +1,40 @@
+{
+ "id": "itp-b77e3324fc",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951656214號",
+ "date": "2006-08-02",
+ "date_text": "095/08/02",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴縣義竹鄉義竹段及地號申請註銷獎勵造林案，復如說明，請查照。",
+ "content": "一、復貴府95年8月1日府農育字第0950105177號函。\n二、貴府已認定本案係屬獎勵造林實施要點(以下簡稱本要點)辦理之計畫，即適用本要點規定辦理；是以，本案造林戶欲放棄造林，請依本要點第7點規定須加計利息賠償已領取之獎勵金，並請貴府繳還收回之獎勵金。\n正本:嘉義縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000063?p=76",
+   "fetched_at": "2026-10-30T15:10:19+08:00",
+   "source_key": "forest:0000063"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "95ca800ea6733572c78e77e446299e4a2426db769d8916d40ec776ae063d8aeb",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

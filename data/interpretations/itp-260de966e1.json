@@ -1,0 +1,84 @@
+{
+ "id": "itp-260de966e1",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910130380號",
+ "date": "2002-06-12",
+ "date_text": "091/06/12",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢山坡地開發利用回饋金繳交辦法執行疑義一案，復請查照。",
+ "content": "一、復 貴府91年5月29日91府農林字第9105200603號函。\n二、於山坡地內依法得為開發之建築用地、農舍、農業設施、堆積土石、修建道路或其他開發整地，其規模未滿水土保持法施行細則第四條規定，得以簡易水土保持申報書代替水土保持計畫者，亦須繳交回饋金。\n(一) 申請者於申請開發利用時，尚未經該目的事業主管機關核准，已先行於申請土地達開發、經營或使用行為，應遵照水土保持法第33條處罰，並須繳交山坡地開發利用回饋金。\n(二) 山坡地開發面積應視開發利用類別，依相關規定辦理，例如做建築使用者，便應遵照山坡地開發建築管理辦法辦理。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000297?p=95",
+   "fetched_at": "2026-10-30T15:15:00+08:00",
+   "source_key": "forest:0000297"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110002",
+    "law_name": "水土保持法施行細則",
+    "article": "4",
+    "amended_on": "2004-08-31",
+    "history": "中華民國九十三年八月三十一日行政院農業委員會農授水保字第 0931842786 號令修正發布第 4 、30 條條文；並刪除第 5、6、8～19、40、41 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110002",
+    "law_name": "水土保持法施行細則",
+    "article": "4",
+    "amended_on": "2006-05-01",
+    "history": "中華民國九十五年五月一日行政院農業委員會農水保字第 0951843044號令修正發布第 4、20、21、29、30、35 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110002",
+    "law_name": "水土保持法施行細則",
+    "article": "4",
+    "amended_on": "2011-08-29",
+    "history": "中華民國一百年八月二十九日行政院農業委員會農水保字第 1001862411 號令修正發布第 4 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "845227368271ecfd5c4428f20cc119f321cbd6c6ddf4fd5c838a6d0f2aa346ce",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110002",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "農舍、農業設施、堆積土石、修建道路或其他開發整地,其規模未滿水土保持法施行細則第四條規定,得以簡易水土保持申報書代替水土保持計畫者,亦須繳交回饋金。\n(一) 申請者"
+  },
+  {
+   "law_id": "M0110001",
+   "article": "33",
+   "kind": "extracted",
+   "snippet": "主管機關核准,已先行於申請土地達開發、經營或使用行為,應遵照水土保持法第33條處罰,並須繳交山坡地開發利用回饋金。\n(二) 山坡地開發面積應視開發利用類別,依"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-e6bd85a185",
+ "doc_class": "interpretation",
+ "docno": "農林務字第1031741213號",
+ "date": "2014-05-15",
+ "date_text": "103/05/15",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢山坡地開發利用回饋金繳交疑義案，復如說明，請 查照。",
+ "content": "一、依據本會林務局案陳貴局103年4月28日北農林字第1030749587號函辦理。\n二、「山坡地開發利用回饋金繳交辦法」第5條第1項規定「本回饋金之計算方式，應依其開發利用程度之類別，以水土保持主管機關核定水土保持計畫或簡易水土保持申報書之計畫面積與其當期公告土地現值乘積百分之六至百分之十二計算。」，所稱之「其當期公告土地現值」，應為主管機關計算回饋金時點之「當期公告土地現值」。\n三、副本抄送其他主管機關。\n正本：新北市政府農業局\n副本：宜蘭縣政府、臺北市政府、桃園縣政府、新竹縣政府、新竹市政府、苗栗縣政府、臺中市政府、彰化縣政府、雲林縣政府、嘉義縣政府、嘉義市政府、臺南市政府、高雄市政府、屏東縣政府、基隆市政府、南投縣政府、花蓮縣政府、臺東縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000915?p=14",
+   "fetched_at": "2026-10-30T14:55:18+08:00",
+   "source_key": "forest:0000915"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "24dc52a19a0b40e769dd7044bb7818fa8f7dfa7e5b920ab082828cbdfd1cefa1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

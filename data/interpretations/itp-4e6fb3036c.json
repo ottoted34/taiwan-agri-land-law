@@ -1,0 +1,40 @@
+{
+ "id": "itp-4e6fb3036c",
+ "doc_class": "interpretation",
+ "docno": "林企字第1031665329號",
+ "date": "2014-11-27",
+ "date_text": "103/11/27",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "有關貴局函詢經管之市有地土地被占用處理事宜，涉及土地管制容許使用相關疑義，復如說明，請 查照。",
+ "content": "一、復貴局103年11月19日北農林字第1032194874號函。\n二、關於本局經管國有林地遭占用之案件，本局所屬各林管處均依森林法及同法授權訂定之森林保護辦法第9條：「森林保護機關發現在國、公有林內擅自墾殖、放牧或占用，經查獲有行為人者，應循刑事、民事訴訟程序處理；未發現行為人者，應於現場公告限期一個月內移除地上物，屆期仍未移除，逕行排除侵害，復育造林」之規定辦理，至有關貴局經管市有地被占用個案涉土地管制容許使用部分，請本權責核處。\n三、另有關國有財產法第42條規定疑義部分，請逕依財政部國有財產署意見辦理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000922?p=12",
+   "fetched_at": "2026-10-30T14:55:03+08:00",
+   "source_key": "forest:0000922"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5999982aef9646ae3a44aec90f3bb44fbdd291e90621736569d0addd75276075",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

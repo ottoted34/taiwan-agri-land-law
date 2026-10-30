@@ -1,0 +1,40 @@
+{
+ "id": "itp-fa1fe6a010",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0980152563號",
+ "date": "2009-10-05",
+ "date_text": "098/10/05",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府詢問「獎勵造林實施要點」與「獎勵輔導造林辦法」之效力案，復請 查照。",
+ "content": "一、復貴府98年8月20日屏府農林字第0980190317號函。\n二、有關貴府詢問旨揭要點及辦法能否視同有相同法律效力乙節，本會前以98年6月3日農授林務字第0980117583號函復有案，不再贅述。至是否將「獎勵造林實施要點」納入「獎勵輔導造林辦法」予以規範，因事涉兩者不同規定之銜接，為避免影響人民權益及造成行政機關執行困擾，尚待本局研議。\n正本：屏東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000271?p=45",
+   "fetched_at": "2026-10-30T15:02:40+08:00",
+   "source_key": "forest:0000271"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a78daff6d8599f89b836c0c1d1780d4870e5221064ec277a1aad6ee00e0c3739",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

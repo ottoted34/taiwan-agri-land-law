@@ -1,0 +1,40 @@
+{
+ "id": "itp-efa0c33cf2",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001742370號",
+ "date": "2011-11-10",
+ "date_text": "100/11/10",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴縣瑪家鄉公所辦理100年度全民造林運動實施計畫-原住民保留地造林地撫育管理計畫，有關通往筏灣段造林地道路中斷之檢測及獎勵金如何處置案，復如說明，請查照。",
+ "content": "一、復貴府100年10月18日屏府原產字第1000268711號函。\n二、有關獎勵全民造林檢測及造林獎勵金之核發，主要係依據獎勵造林實施要點及其他相關規定辦理。獎勵造林實施要點第六點規定，如獎勵全民造林地符合下列條件並檢測合格者，發給造林獎勵金。\n(一)所植樹種與株數符合規定標準，並平均分布正常生長於林地。\n(二)造林成活率達百分之70以上。\n(三)自造林第7年起，每年造林成活率扣除自然枯死率2%，每3年實施檢測工作，經檢測合格後，獎勵金每年核發，不合格者，獎勵金不發給，且不得再申請造林獎勵。\n三、因造林獎勵金係依檢測結果及前揭規定據以發給，另每筆造林地的獎勵年期及地形路況各不相同，請貴府考量每筆獎勵造林地不同之檢測期程及交通狀況，以各種可能之方法於年度期限內辦理現勘檢測，並依檢測結果核發造林獎勵金。\n正本：屏東縣政府\n副本：行政院原住民族委員會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000125?p=25",
+   "fetched_at": "2026-10-30T14:57:46+08:00",
+   "source_key": "forest:0000125"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ae7b224d4912fc395963ab31a229cab65a799ff4c4f6d7ba85c76dbb17ec013f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

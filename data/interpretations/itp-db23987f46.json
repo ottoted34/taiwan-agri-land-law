@@ -1,0 +1,47 @@
+{
+ "id": "itp-db23987f46",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第1021710170號",
+ "date": "2013-01-22",
+ "date_text": "102/01/22",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "有關都市計畫法臺灣省施行細則第28條規定之疑義",
+ "content": "一、復 貴府101年12月17日府授農林字第1010222873號函。\n二、查森林法第2條前段規定：「本法所稱主管機關：在中央為行政院農業委員會。」、同法第3條第1項規定：「森林係指林地及其群生竹、木之總稱。」及森林法施行細則第3條第1項第2款規定：「都市計畫保護區、風景區、農業區內，經該直轄市、縣(市)主管機關認定為為林地之土地。」，合先敘明。\n三、是以，都市計畫法臺灣省施行細則第28條第1項第1款：「一、砍伐竹木。但間伐經中央目的事業主管機關審查核准者，不在此限」，所稱「間伐」之中央目的事業主管機關，如為「林地」，則為行政院農業委員會。至於非林地部分，本局已將貴府來函轉請都市計畫法臺灣省施行細則之主管機關「內政部」表示意見逕復。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000880?p=18",
+   "fetched_at": "2026-10-30T14:56:07+08:00",
+   "source_key": "forest:0000880"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "789708e71c69ab10b501263c609adc5ab73be885404576f95019e36450a6b67a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關都市計畫法臺灣省施行細則第28條規定之疑義\n一、復 貴府101年12月17日府授農林字第1"
+  }
+ ]
+}

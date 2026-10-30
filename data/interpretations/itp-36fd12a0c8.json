@@ -1,0 +1,40 @@
+{
+ "id": "itp-36fd12a0c8",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740510號",
+ "date": "2011-03-11",
+ "date_text": "100/03/11",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "為貴府詢問君砍除原有林木重新申請參加平地造林計畫，新植受理條件疑義案，復如說明，請 查照。",
+ "content": "一、依據行政院農業委員會交下 貴府100年2月22日府農林字第1000029394號函辦理。\n二、本案若係循合法程序伐除地上林木，而現場經執行機關現勘後，均能符合「平地造林直接給付及種苗配撥實施要點」相關規定，似無駁回受理申請之理由。惟現場是否確實能受理造林，仍請貴府就個案事實認定，並依相關規定卓處。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000402?p=31",
+   "fetched_at": "2026-10-30T14:59:18+08:00",
+   "source_key": "forest:0000402"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "83c2fa91f3603cfa62891dcca0486353e122e82f2dce56286bcfe172c1773007",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

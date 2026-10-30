@@ -1,0 +1,49 @@
+{
+ "id": "itp-3f63964fce",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0971652239號",
+ "date": "2008-03-21",
+ "date_text": "097/03/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢水土保持義務人未經核准即在山坡地上進行開發整地之案件，依水土保持法處罰後，是否仍須繳交山坡地開發利用回饋金之疑義案，復請 查照。",
+ "content": "一、復 貴府97年3月13日府農林字第0970078488號函。\n二、查山坡地開發利用回饋金繳交辦法第4條規定，山坡地開發利用回饋金(以下簡稱回饋金)之繳交義務人，為擬具水土保持計畫或簡易水土保持申報書之水土保持義務人。據此，依法仍以有擬具水土保持計畫或簡易水土保持申報書者，作為須繳交回饋金之依據。\n正本:桃園縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000606?p=60",
+   "fetched_at": "2026-10-30T15:06:27+08:00",
+   "source_key": "forest:0000606"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c6b6a9e9ad8d9a5cbc50f29a979671fd0a6c789accecf18b73a0ac7f43612c81",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "函詢水土保持義務人未經核准即在山坡地上進行開發整地之案件,依水土保持法處罰後,是否仍須繳交山坡地開發利用回饋金之疑義案,復請 查照。\n一、復 貴府97"
+  }
+ ]
+}

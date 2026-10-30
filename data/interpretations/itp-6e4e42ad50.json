@@ -1,0 +1,40 @@
+{
+ "id": "itp-6e4e42ad50",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981742315號",
+ "date": "2009-12-08",
+ "date_text": "098/12/08",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴縣造林戶君之全民造林地，因遭法院拍定所有權移轉，事涉造林獎勵金追償疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年12月2日府農林字第0980151831號函。\n二、本案據報全民造林地坐落貴縣元長鄉青山段○○○○、○○○○、 ○○○○地號，因遭法院清償債務強制執行事件拍定所有權移轉，惟究本案系爭造林地之土地現況、歷年檢測紀錄及受領獎勵金為何?貴府未詳為敘明，故請貴府應先詳為查明事實為宜。\n三、至今，鑑於系爭造林地地之所有人既已異動，且本案系爭造林地已受貴府獎勵長達18年，距獎勵期限20年僅剩2年，故為貴縣造林成效，仍請貴府先行徵求土地繼受人同意持續維持造林木，再予卓處。\n四、倘貴府尚有疑義，仍請依據中央行政機關法制作業應注意事項第18點規定，提供貴府具體處理原則及相關資料過局，俾利本局研處。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000171?p=43",
+   "fetched_at": "2026-10-30T15:02:15+08:00",
+   "source_key": "forest:0000171"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "38417f46dd8a8cbe7c4d3ce0aeef43d8479b242dd5248f28af98924b1b2d4893",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

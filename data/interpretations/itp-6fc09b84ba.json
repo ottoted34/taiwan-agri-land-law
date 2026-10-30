@@ -1,0 +1,40 @@
+{
+ "id": "itp-6fc09b84ba",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961610554號",
+ "date": "2007-07-04",
+ "date_text": "096/07/04",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關桃園縣政府委託私人興辦 「財團法人桃園縣民營國民小學」，其非屬山坡地開發利用回饋金繳交辦法第8條第3款所稱公立學校，仍應繳交山坡地開發利用回饋金，本局意見如說明，請 鑒核 。",
+ "content": "一、復 鈞會96年6月29日農訴字第0960099198號函。\n二、經查山坡地開發利用回饋金繳交辦法所稱公立學校係包含國立、直轄市立、縣(市)立等之學校；本案○○小學係桃園縣政府委託私人興辦，且係依私立學校法經營管理之民營學校，其性質係屬私立學校，依規須繳交山坡地開發利用回饋金。\n三、檢還原卷1宗及檢送「桃園縣公立學校委託民間經營契約」影本1份。\n正本：行政院農業委員會\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000587?p=66",
+   "fetched_at": "2026-10-30T15:07:43+08:00",
+   "source_key": "forest:0000587"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0cddfa7cd22f7483ce102d31bca8a0aa65b480acdc5fb8a5c677bbeca01200aa",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

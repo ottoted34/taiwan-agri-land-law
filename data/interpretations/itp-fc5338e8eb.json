@@ -1,0 +1,49 @@
+{
+ "id": "itp-fc5338e8eb",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920174080號",
+ "date": "2003-12-24",
+ "date_text": "092/12/24",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢山坡地開發利用回饋金繳交辦法疑義一案，復請查照。",
+ "content": "一、復 貴府92年12月10日府建三字第09224566100號函。\n二、山坡地開發利用回饋金繳交辦法於89年11月30日布，其第9條明定：「本辦法自發布日施行」。\n三、所以申請山坡地開發利用案件，於發布日及其後提出者，均應依照該辦法繳交回饋金，其收繳回饋金之時間，已在該辦法第6條明定：「水土保持計畫經主管機關核定後，應核算本回饋金數額，並應通知繳交義務人，於一個月內，至指定地點，繳交本回饋金。」\n正本:臺北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000304?p=89",
+   "fetched_at": "2026-10-30T15:13:28+08:00",
+   "source_key": "forest:0000304"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "needs_review",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-7885519d4c",
+    "by_docno": "農授林務字第0941740681號",
+    "by_date": "2005-09-02",
+    "kind": "cease",
+    "phrase": "三、本會前以91年11月5日農林字第0910157180號函、92年12月24日農林字第0920174080號函、92年12月24日農林字第0920174080號、93年1月29日農林字第0930104775號函、93年3月16日農授林務字第0931604807號函釋示本回饋金之繳交時點等文,停止適用"
+   }
+  ]
+ },
+ "content_hash": "f258c3330b095e166ee15a0760ea631b3c91ee167ab9c2228789dc04b793f22f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

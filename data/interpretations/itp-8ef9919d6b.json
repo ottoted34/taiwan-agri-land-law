@@ -1,0 +1,51 @@
+{
+ "id": "itp-8ef9919d6b",
+ "doc_class": "interpretation",
+ "docno": "農牧字第1080254551號",
+ "date": "2020-01-17",
+ "date_text": "中華民國109年01月17日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "撤銷或廢止畜牧場登記，是否將一併撤銷或廢止其畜牧設施及附屬綠能設施之容許使用同意",
+ "content": "依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第28條規定，於畜牧設施屋頂申請附屬設置綠能設施，該畜牧設施係屬已取得容許使用同意者，並具農業經營實績之證明文件、確有農業經營事實、符合原核定之計畫內容使用。又容許辦法第33條第1項及第2項規定略以，依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，．．．未依計畫內容使用者，原核定機關得廢止其許可。又撤銷或廢止畜牧場登記，尚非屬撤銷或廢止畜牧設施容許使用之法定原因之一；畜牧場登記係依畜牧法之規定辦理，倘以農業用地興建之畜牧設施申辦畜牧場登記者，依畜牧法第6條規定，該設施須經依容許辦法取得畜牧設施容許使用同意，始得申辦畜牧場登記，爰撤銷或廢止畜牧場登記，並非必然將一併撤銷或廢止其畜牧設施及附屬綠能設施之容許使用同意，合先敘明。\n惟撤銷或廢止畜牧場登記後，倘經直轄市或縣(市)政府審認，有未依核定之經營計畫內容使用之情事，原核定機關得依上揭容許辦法第33條第2項規定廢止其畜牧設施及附屬綠能設施之容許使用同意，併供參考。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2020-01-17）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/fa2d9fb1-9b2b-405e-a7d2-6d872730b752?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:30+08:00",
+   "source_key": "talis:fa2d9fb1-9b2b-405e-a7d2-6d872730b752"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6e8e0fe31326b0845d52ab46c36be98e0e30761a1d587f5f27b3a17061049dbf",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "將一併撤銷或廢止其畜牧設施及附屬綠能設施之容許使用同意\n依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第28條規定,於畜牧設施屋頂申請附屬設置綠能設施,該畜牧設施"
+  }
+ ]
+}

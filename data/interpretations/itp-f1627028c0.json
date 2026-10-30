@@ -1,0 +1,49 @@
+{
+ "id": "itp-f1627028c0",
+ "doc_class": "interpretation",
+ "docno": "農糧資字第1120727931號",
+ "date": "2023-11-13",
+ "date_text": "中華民國112年11月13日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "菇類栽培場及其附屬綠能設施，得否採「一次施工、二階段審查」方式辦理。",
+ "content": "二、依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第28條第2項規定，農業設施屋頂附屬設置綠能設施申請應檢附農業經營實績之證明文件，並經直轄市、縣(市)主管機關查核確有農業經營事實，且符合原核定之計畫內容使用，始得依第5條規定核發農業用地作農業設施容許使用同意書，故農業設施附屬屋頂型綠能設施之審理，以二階段審查為原則，須符合該農業設施具「農業經營實績證明文件」、「確有農業經營事實」及「依原核定計畫內容使用」之要件。又所謂「一次施工、二階段審查」，係依據農業部(原行政院農業委員會)110年2月4日農糧字第1101060082號函，說明新設溫室並於溫室屋頂附屬設置太陽光電者，得採行之方式。合先敘明。\n三、依據貴公司來函，擬於未經申請菇類栽培場容許使用之既有菇類栽培場，同時補申請菇類栽培場及新申請附屬綠能設施容許使用。按菇類栽培場等農產業其他類型之農作產銷設施，無「一次施工、二階段審查」函釋之適用，且本案允先補申請菇類栽培場容許使用後，始得具「農業經營實績證明文件」、「確有農業經營事實」及「依原核定計畫內容使用」之要件，據以申請附屬綠能設施，以符法制。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-11-13）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/0f76be7e-a31d-4f6a-92b8-58ad3e6b4aa0?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:20+08:00",
+   "source_key": "talis:0f76be7e-a31d-4f6a-92b8-58ad3e6b4aa0"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "82eaa6cbdf1669b58e13a8d87b8bd67634292d01350a74167474815fe5c0e664",
+ "topics": [
+  "greenhouse",
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "綠能設施,得否採「一次施工、二階段審查」方式辦理。\n二、依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第28條第2項規定,農業設施屋頂附屬設置綠能設施申請應檢附農"
+  }
+ ]
+}

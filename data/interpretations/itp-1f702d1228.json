@@ -1,0 +1,40 @@
+{
+ "id": "itp-1f702d1228",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0960124315號",
+ "date": "2007-05-18",
+ "date_text": "096/05/18",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "貴公司函詢有關森林法中央及地方主管機關之權限劃分，復如說明，請查照。",
+ "content": "一、復貴公司96年5月2日台英字第096050201號函。\n二、依來函說明，貴公司籌建風力發電廠所需用地，係屬國有財產局經管之國有保安林地，在管理機關尚未變更前，其用地取得仍應向國有財產局申請。\n三、有關函詢森林法第8條申請程序，應先由申請事項之主管機關認定符合森林法第8條所列，得以辦理出租、讓與或撥用之情形，再依森林法施行細則第8條：「依本法第8條第1項規定，申請出租、讓與或撥用國有林地或公有林地者，應填具申請書載明下列事項，檢附有關證件，經由林地之管理經營機關，在國有林報請中央主管機關，在公有林報請直轄市、縣﹝市﹞主管機關會商有關機關辦理：‧‧‧‧‧‧。」之規定辦理。\n四、另有關森林法第9、10條之主管機關，在國有林為本會，公、私有林則為直轄市或縣﹝市﹞政府。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000764?p=66",
+   "fetched_at": "2026-10-30T15:07:55+08:00",
+   "source_key": "forest:0000764"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ee1baf82df35776c3799dbb7b315dcc7f942d4c5531dfc48d0a3ba104f012f62",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

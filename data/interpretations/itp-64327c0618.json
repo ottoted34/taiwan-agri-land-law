@@ -1,0 +1,40 @@
+{
+ "id": "itp-64327c0618",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991740963號",
+ "date": "2010-04-27",
+ "date_text": "099/04/27",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府辦理貴轄君陳情造林地(坐落:集集鎮隘寮段-及-地號)扣除受災林地續發獎勵金疑義案，復如說明，請查照。",
+ "content": "一、復貴府99年4月15日府農林字第09900804390號函。\n二、有關本案經查行政院農業委員會於99年4月14日農授林務字第0991740845號函復○○○君，並副知貴府，故仍請貴府逕依該函針對因天災致崩塌之土地範圍，儘速檢送「林農申請停止獎勵造林審核機制及處理規範」之應備書件1式10份過局，俾憑續處。\n三、另，本案事涉溢領獎勵金之範圍，鑑於貴府係屬林業經營管理機關，且為原處分機關，本應依權責審認卓處。至本案應繳回造林獎勵金部分，倘○○○君尚有造林地並領取造林獎勵金者，基於考量農民經濟負擔，得同意由每年領取造林獎勵金逐年抵扣，惟貴府須確實錄案追蹤控管，直至應繳回獎勵金全數繳回本局，俾憑結案。\n正本：南投縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000232?p=39",
+   "fetched_at": "2026-10-30T15:01:15+08:00",
+   "source_key": "forest:0000232"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "041400f1595e35ef36ae9e3cb7e32880ac25c271154f7c6d522c35b0f71ba422",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

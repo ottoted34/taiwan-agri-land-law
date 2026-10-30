@@ -1,0 +1,40 @@
+{
+ "id": "itp-eb3dac4aad",
+ "doc_class": "interpretation",
+ "docno": "農林務字第1031740678號",
+ "date": "2014-03-28",
+ "date_text": "103/03/28",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴處函詢住宅新建工程，得否將建築面積與其他面積分別以不同乘積比率計算山坡地開發利用回饋金疑義案，請 查照。",
+ "content": "一、依據本會林務局案陳貴處103年3月6日北市工地森字第10330820801號函辦理。\n二、按「山坡地開發利用回饋金繳交辦法」第5條第1項規定「本回饋金之計算方式，應依其開發利用程度之類別，以水土保持主管機關核定水土保持計畫或簡易水土保持申報書之計畫面積與其當期公告土地現值乘積百分之六至百分之十二計算。」，爰須以「計畫面積」計算回饋金。\n正本：臺北市政府工務局大地工程處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000912?p=14",
+   "fetched_at": "2026-10-30T14:55:21+08:00",
+   "source_key": "forest:0000912"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fdaf73b01534f2a245c0e922c25276e528c3ec7295b574f8ca4fff6a811cfb7b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

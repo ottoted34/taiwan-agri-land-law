@@ -1,0 +1,40 @@
+{
+ "id": "itp-87bdddcd2a",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0941741295號",
+ "date": "2005-11-08",
+ "date_text": "094/11/08",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "山坡地開發利用回饋金繳交辦法有關山坡地開發利用申請案件認定，請以其最初申請籌設之申請掛件日為其開發申請日，復請查照 。",
+ "content": "復貴府94年10月19日北府農林字第0940663710號函 。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000519?p=83",
+   "fetched_at": "2026-10-30T15:11:57+08:00",
+   "source_key": "forest:0000519"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4d7dc43d2ac8a27e4562438eefc936124806ca0fb7f9c23f31764915fab8b3ee",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

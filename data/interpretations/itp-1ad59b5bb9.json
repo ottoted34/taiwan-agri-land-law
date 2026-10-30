@@ -1,0 +1,49 @@
+{
+ "id": "itp-1ad59b5bb9",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951615532號",
+ "date": "2006-08-21",
+ "date_text": "095/08/21",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢林農參加全民造林計畫後，因發放資格不符及違反獎勵造林實施要點規定，應即追賠造林獎勵金，惟逾期未繳案件，請各林業管理經營機關，依據行政執行法規定辦理之疑義，復如說明，請查照。",
+ "content": "一、復貴府95年8月15日府農林字第0950168311號函。\n二、依據本局95年6月26日林造字第0951654892號函示，本案應由各林業管理經營機關，依據行政執行法規定辦理；另依行政程序法第123條規定，授予利益之合法行政處分，得由原處分機關廢止之，明定限於以原處分機關始得廢止原處分；又獎勵造林實施要點第3點第1項第2款，第3款，第4款及同業管理經營機關為有權處分之機關，亦方有權廢止原處分；貴府係屬林業管理經營機關，仍請依前揭函示辦理。\n正本：臺南縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000027?p=76",
+   "fetched_at": "2026-10-30T15:10:15+08:00",
+   "source_key": "forest:0000027"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "01c17875aaaa9fb02cfb380d740a62d23f4ff39315ba2f6cb053bca5f8459877",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": "123",
+   "kind": "extracted",
+   "snippet": "示,本案應由各林業管理經營機關,依據行政執行法規定辦理;另依行政程序法第123條規定,授予利益之合法行政處分,得由原處分機關廢止之,明定限於以原處分機關始得廢止"
+  }
+ ]
+}

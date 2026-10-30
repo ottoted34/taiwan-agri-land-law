@@ -1,0 +1,49 @@
+{
+ "id": "itp-603ba9373e",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951606371號",
+ "date": "2006-04-04",
+ "date_text": "095/04/04",
+ "agency_text": "",
+ "category": "森林產業組／林產物伐採",
+ "subject": "有關獎勵造林土地發生所有權移轉，繼受人如須處分地上林木，必須依森林法第45條及林產物伐採查驗規則之規定申請，並經貴府許可始得辦理，請查照。",
+ "content": "一、依據貴府95年3月30日府農林字第0950033012號函副本辦理。\n二、依據森林法第45條及林產物伐採查驗規則之規定，凡伐採林產物，應經主管機關許可並經查驗，始得運銷。\n三、本案原申請獎勵造林人參加政府推行之獎勵造林政策，既已領取獎勵金有案，該造林地已屬林產物伐採查驗規則第2條，以營林為目的之私有林。\n四、本案貴府致函○○○君說明三所敘:「請於造林木砍伐後通知本府」，核有未洽，請予改正。並請速通知土地所有權人伐採林產物應經申請，並經貴府許可始得伐採。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000132?p=80",
+   "fetched_at": "2026-10-30T15:11:21+08:00",
+   "source_key": "forest:0000132"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-185f4ea45a",
+    "by_docno": "林造字第0951740645號",
+    "by_date": "2006-05-15",
+    "kind": "amend",
+    "phrase": "一、茲因土地所有權人以「林地」以外之土地參與獎勵造林,已非屬森林法規範範圍,爰本局 95年4月4日林造字第0951606371號函釋,修正如下:如屬森林法規範之林地,土地所有權人如須處分地上林木,當須依森林法規定辦理;反之,非屬森林法規範之林地,無須依森林法規定辦理"
+   }
+  ]
+ },
+ "content_hash": "c088409139fad1d0699e63e32e77ade4f9eb90643a21cc84822cbaa541dedef2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

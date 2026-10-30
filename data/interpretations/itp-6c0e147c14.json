@@ -1,0 +1,40 @@
+{
+ "id": "itp-6c0e147c14",
+ "doc_class": "interpretation",
+ "docno": "林造字第0990157239號",
+ "date": "2010-08-25",
+ "date_text": "099/08/25",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴府函詢貴縣申請本(99)年度獎勵輔導造林計畫之山坡保育利用區林業用地，位於給水廠水質水量保護區範圍，是否符合獎勵輔導造林辦法第4條第1款規定疑義案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下貴府99年8月19日府農育字第0990132883號函辦理。\n二、經查「自來水法」第11條:「自來水事業對其水源之保護，除依水利法之規定向水利主管機關申請辦理外，得視事實需要，申請主管機關會商有關機關，劃定公布水質水量保護區，...」揆其意旨，係針對水源之保護由主管機關劃定公布水質水量保護區，故茲就貴府詢問之區位初步尚符合「獎勵造林審查要點」第2點第5款及「獎勵輔導造林辦法」第4條第1款之規定。\n三、然本申請案之准駁，貴府須按「獎勵輔導造林辦法」及「獎勵造林審查要點」規定，執行現場勘查，認有造林需要者始核准之。另，本案申請土地既屬水質水量保護區範圍，仍須受自來水法第11條拘束，故仍請貴府併案明確告知造林人相關禁止或限制之行為及須負擔之義務，以免滋生嗣後爭議。\n正本：嘉義縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000490?p=36",
+   "fetched_at": "2026-10-30T15:00:28+08:00",
+   "source_key": "forest:0000490"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9f3d2c7bee5ea480fa1ba3275a354537b6631326ec4eda28eab926ecf8df562a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

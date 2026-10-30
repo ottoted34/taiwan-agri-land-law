@@ -1,0 +1,40 @@
+{
+ "id": "itp-fc7994bd66",
+ "doc_class": "interpretation",
+ "docno": "農授林業字第1152204167號",
+ "date": "2026-02-24",
+ "date_text": "115/02/24",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴府函詢OOO君申請新建住宅(座落屏東縣恆春鎮白砂段OOO地號)，其部分土地屬現有巷道所涉山坡地開發利用回饋金核處疑義一案，復如說明，請查照。",
+ "content": "一、依據本部林業及自然保育署案陳貴府115年2月4日屏府農林字第1155022701號函辦理。\n二、依據本部112年9月6日修正發布「山坡地開發利用回饋金繳交辦法」(以下稱本辦法)第7條規定，山坡地之開發利用符合各款情形之一者，得免繳交山坡地開發利用回饋金(以下稱回饋金)。按本辦法第7條第11款「無償提供公共使用之計畫道路之土地面積」規定，係以無償供公共使用及計畫道路為適用要件。\n三ˋ、惟依貴府來函所附內政部國家公園署墾丁國家公園管理處115年1月30日墾企字第1150000701號函說明二所示，當事人於恆春鎮白砂段OOO地號土地部分範圍係經認定為「現有巷道」，非屬「道路用地」，尚未符合本辦法第7條第11款所定免繳交回饋金規定。\n正本:屏東縣政府\n副本:本部林業及自然保育署",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0001063?p=3",
+   "fetched_at": "2026-10-30T14:53:40+08:00",
+   "source_key": "forest:0001063"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "37e5659dbb3343ab096f0d5a57ab6c335b26aba053ea332a8d91dcf25ddff3ba",
+ "topics": [
+  "partial_use"
+ ],
+ "flags": [],
+ "relations": []
+}

@@ -1,0 +1,49 @@
+{
+ "id": "itp-d9f616db71",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941605174號",
+ "date": "2005-03-14",
+ "date_text": "094/03/14",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關君等人申覆位於貴縣中和市中坑段牛埔小段-、-、-、-、-、等6筆地號免繳山坡地開發利用回饋金案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下貴府94年3月4日北府農林字第0940088473號函辦理。\n二、依據現行山坡地開發利用回饋金繳交辦法規定，位於山坡地範圍內，須擬具水土保持計畫之土地開發、經營或使用行為，均須繳交山坡地開發利用回饋金，與是否編為都市計畫區、住宅用地、變更或補強原有計畫或變更土地使用尚無關聯，爰○君所請與現行規定不符，礙難同意。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000503?p=86",
+   "fetched_at": "2026-10-30T15:12:46+08:00",
+   "source_key": "forest:0000503"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-0fe6d82ec9",
+    "by_docno": "農授林務字第0960150528號",
+    "by_date": "2007-09-29",
+    "kind": "amend",
+    "phrase": "2、查本會林務局於94年3月14日林造字第0941605174號函釋謂:「依據現行山坡地開發利用回饋金繳交辦法規定,位於山坡地範圍內,需擬具水土保持計畫之開發、經營或使用行為,均須繳交山坡地開發利用回饋金,與是否編定為都市計畫區、住宅用地、變更或補強原有計畫、變更土地使用尚無關聯」等語,亦獲該院之肯認"
+   }
+  ]
+ },
+ "content_hash": "73c32ce15439b1637af5abe297f7545e4cd5c3f80c86180ed0490512f2b1d3fd",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

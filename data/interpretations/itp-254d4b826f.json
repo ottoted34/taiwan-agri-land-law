@@ -1,0 +1,40 @@
+{
+ "id": "itp-254d4b826f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981741158號",
+ "date": "2009-07-24",
+ "date_text": "098/07/24",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "貴府函詢平地造林直接給付及種苗配撥實施要點第7點第1項第3款規定，租賃20年之租約證明文件，是否須辦理公證1案，茲因並未強制規定，請貴府依據公證之益處或當事人意願而自行審酌，請查照。",
+ "content": "一、復貴府98年7月9日府農育字第0980107334號函。\n二、經查平地造林直接給付及種苗配撥實施要點並未規定租約證明文件，須辦理公證；復查民法亦未強制規定租賃契約必須辦理公證，爰是否辦理公證，由當事人審酌決定。\n正本：嘉義縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000334?p=47",
+   "fetched_at": "2026-10-30T15:03:09+08:00",
+   "source_key": "forest:0000334"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "303ae052b44350b109966d872a4296219996536886b9a9f2e8a8d9b125551f42",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

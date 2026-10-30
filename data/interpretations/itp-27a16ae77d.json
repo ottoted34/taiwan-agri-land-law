@@ -1,0 +1,47 @@
+{
+ "id": "itp-27a16ae77d",
+ "doc_class": "interpretation",
+ "docno": "農林字第0971654488號",
+ "date": "2008-06-06",
+ "date_text": "097/06/06",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴公司函詢「變更林口特定區計畫(部分保護區為零星工業區)案」捐贈土地予桃園縣政府，是否符合農業發展條例第12條第2項規定，免再繳交山坡地開發利用回饋金案，復請 查照。",
+ "content": "一、依據本會林務局案陳 貴公司97年5月14日星總字第97051401號函暨內政部營建署97年5月23日營署都字第0970028218號函(副本諒達)辦理。\n二、本案經內政部營建署表示符合農業發展條例第12條第2項規定，免再收取農業用地變更回饋金。據此，依據山坡地開發利用回饋金繳交辦法第8條第5款規定，免再收取山坡地開發利用回饋金。\n三、同函副知桃園縣政府，並檢附首揭函文影本各1份供參。\n正本：○○○○○○股份有限公司\n副本：桃園縣政府、本會企劃處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000613?p=59",
+   "fetched_at": "2026-10-30T15:06:19+08:00",
+   "source_key": "forest:0000613"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f87fcd453516ca6f3a7a5402309019c57b370517873fce36fca5e12d8fee6165",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "(部分保護區為零星工業區)案」捐贈土地予桃園縣政府,是否符合農業發展條例第12條第2項規定,免再繳交山坡地開發利用回饋金案,復請 查照。\n一、依據本會林務局案陳"
+  }
+ ]
+}

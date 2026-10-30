@@ -1,0 +1,47 @@
+{
+ "id": "itp-5518ddf8f7",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0971650464號",
+ "date": "2008-02-22",
+ "date_text": "097/02/22",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關山坡地開發利用回饋金繳交辦法(民國96年3月1日)修正前之執行疑慮案，復如說明，請查照。",
+ "content": "一、復貴府97年1月15日府授產業農字第09730021500號函。\n二、依據水土保持法第12條規定，開發建築用地須擬具水土保持計畫，據此，倘若有「先雜後建」情形，基本上會在同一基地範圍內先完成雜項工作物，再進行建物工程。準此，水土保持計畫之「計畫面積」仍會包含建物面積，故無貴府所提疑慮。至是否有其他特殊情形，建請貴府視個案審慎衡酌。\n正本：臺北市政府\n副本：本會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000604?p=61",
+   "fetched_at": "2026-10-30T15:06:39+08:00",
+   "source_key": "forest:0000604"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8d06f1756f9880e2b754a4407e7cd8d854a4eadd964f94b563c9f687425f7ebb",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "月15日府授產業農字第09730021500號函。\n二、依據水土保持法第12條規定,開發建築用地須擬具水土保持計畫,據此,倘若有「先雜後建」情形,基本上會在同"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "itp-2090b4dc10",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0981741322號",
+ "date": "2009-08-20",
+ "date_text": "098/08/20",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢都市計畫農業區之獎勵造林地，如有違反獎勵造林實施要點，得否申請核發農業用地作農業使用證明書疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年7月28日府農林字第0980122013號函。\n二、查貴府依全民造林運動實施計畫核准人民參與獎勵造林與農業用地作農業使用證明書分屬不同之行政法律關係。本案系爭土地，係為貴府核准造林人參與全民造林運動實施計畫，其造林人自應受獎勵造林實施要點規定拘束，倘貴府查有違反該要點之情事，本應依據權責，廢止對造林人之行政處分，並附加利息請求造林人返還已領取之造林獎勵金。\n三、然本案事涉違反獎勵造林實施要點之情事，並非不符農業用地作農業使用證明書審核認定之要件。且農業發展條例第3 條第12款明定農業使用之定義：「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」是以，倘經貴府查明事實符合農業使用者，自無從不核發農業用地作農業使用證明書。\n正本:花蓮縣政府\n副本:本會企劃處、本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000161?p=46",
+   "fetched_at": "2026-10-30T15:02:58+08:00",
+   "source_key": "forest:0000161"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4c49715c05e5e171bc5e6e566f4213efb1b4a2dd533d09fac6e3ef8a68554c44",
+ "topics": [
+  "farm_use_cert",
+  "facility_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "點之情事,並非不符農業用地作農業使用證明書審核認定之要件。且農業發展條例第3 條第12款明定農業使用之定義:「指農業用地依法實際供農作、森林、養殖、畜牧、保育及"
+  }
+ ]
+}

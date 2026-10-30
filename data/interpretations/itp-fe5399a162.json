@@ -1,0 +1,40 @@
+{
+ "id": "itp-fe5399a162",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981605587號",
+ "date": "2009-03-27",
+ "date_text": "098/03/27",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢貴轄君欲申請獎勵輔導造林計畫疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年3月24日府農林字第0980047286號函。\n二、依據獎勵輔導造林辦法第六條規定略以：經受理機關彙整轉請主管機關現場勘查，認有實施造林之需要者核准之。今本案據報申請土地坐落貴縣玉里鎮觀音山段○○○○-○地號，土地編定為森林區林業用地，既經貴府現勘該土地為天然原始林 相完整，顯不符該辦法之規定，貴府應依權責對本案作成不同意之行政處分。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000200?p=52",
+   "fetched_at": "2026-10-30T15:04:28+08:00",
+   "source_key": "forest:0000200"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "079d2b839baed1b35321116f2e095e36a4e1c8d2d0b18874bf2a2ba36a987a76",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

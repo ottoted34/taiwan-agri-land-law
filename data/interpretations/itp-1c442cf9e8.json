@@ -1,0 +1,40 @@
+{
+ "id": "itp-1c442cf9e8",
+ "doc_class": "interpretation",
+ "docno": "農林字第900160607號",
+ "date": "2001-11-26",
+ "date_text": "090/11/26",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關「全民造林運動」新植造林時保留林地內原生土木一併撫育可否併計核發造林獎勵金一案，復如說明，請 查照。",
+ "content": "一、復貴局90年11月2日90林造字第901620290號函。\n二、為能符合生態系經營原則及維持生態系穩定，造林人於新植造林時自得保留林地內形質優良或具經濟價值之天然木，惟本會之全民造林運動計畫係獎勵新植造林，以擴大森林面積並增加森林覆蓋率，是以造林獎勵金之核發仍應以新植造林面積為準，俾符本會獎勵造林之意旨。\n正本：本會林務局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000831?p=96",
+   "fetched_at": "2026-10-30T15:15:09+08:00",
+   "source_key": "forest:0000831"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cd475417be06d38bf71b48f859b740796645d8c325615656077ab416cbc45c5f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

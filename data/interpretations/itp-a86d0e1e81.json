@@ -1,0 +1,40 @@
+{
+ "id": "itp-a86d0e1e81",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0931613004號",
+ "date": "2004-07-13",
+ "date_text": "093/07/13",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢有關「山坡地開發利用回饋金繳交辦法」乙案，復如說明，請查照。",
+ "content": "一、復貴會93年6月30日(93)建開全聯字第1764號函。\n二、查本會依據森林法第48條之1第2項訂定之「山坡地開發利用回饋金繳交辦法」第2條明定山坡地範圍、第3條明定開發利用行為、均無逾越法律授權；另該辦法已明定施行日期，在該日期前已完成開發利用之土地，自無須繳納回饋金；已繳交山坡地開發利用回饋金者，不再收取該項回饋金，諒無來函所稱之疑慮。\n三、至建議本會檢討修正森林法第48條之1，明定對於造林或環境保護有所助益之開發行為免繳回饋金，並納為第47條獎勵之對象乙節，並未指明林地內之何種開發行為屬之，尚請詳示，俾便研參。\n正本：中華民國○○○○○○同業公會全國聯合會\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000315?p=87",
+   "fetched_at": "2026-10-30T15:13:04+08:00",
+   "source_key": "forest:0000315"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ede729e3c323bd94c303fd4d9628bae3a8279407488f767964bde0e0c7464c28",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

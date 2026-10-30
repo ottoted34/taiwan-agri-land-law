@@ -1,0 +1,44 @@
+{
+ "id": "itp-d72e223101",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1080218035號",
+ "date": "2019-05-20",
+ "date_text": "中華民國108年5月20日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "「行政院農業委員會養殖漁業經營結合綠能設施專案計畫審查作業要點」(下稱要點)執行疑義",
+ "content": "一、 針對申請業者主張要點第2點第2項規定，「計畫推動範圍內農業用地之土地所有權人人數及其應有部分土地面積均達百分之七十以上同意，且養殖漁業經營者人數及其養殖經營面積均達百分之七十以上同意。」，不應作為專案計畫送審之必要條件，在未符合上開條件，是否宜予逕送該府審查乙節，按容許辦法第29條規定第2項第1款規定，直轄市、縣(市)主管機關擬具農業經營結合綠能之專案計畫，應敘明計畫推動之區位範圍，並應說明當地農民與能源業者之設置意願，又要點第2點規定符合該點各款條件之專案計畫優先推動，故容許辦法雖未明定直轄市、縣(市)主管機關擬具專案計畫時，該計畫之區域範圍應有多少人數及面積比例之農漁民同意，惟作業要點訂定係本會邀集地方政府及養殖漁業發展協會等召開多次漁電共生工作圈會議獲共識，於要點研訂該設置意願門檻，作為漁電共生專案計畫優先推動之條件，以符合容許辦法第29條第2項第1款規定，且70%以上多數同意，亦有利於專案計畫範圍內漁電共生之推動。\n二、 另就要點第2點第2款規範計畫範圍內之農業用地及養殖用地所需同意人數及面積之比例時，因道路、排水渠道亦屬農業用地，其面積計算及漁民意願亦請參循要點第2點辦理，以穩建推動漁電共生。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-05-20）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/b753ac4e-db86-4bfa-a930-bee6721d717d?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:56+08:00",
+   "source_key": "talis:b753ac4e-db86-4bfa-a930-bee6721d717d"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0a012e4183e5b2f0919f3726903b5452cb189a9cdc561aa72fd7add75a1d860e",
+ "topics": [
+  "partial_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

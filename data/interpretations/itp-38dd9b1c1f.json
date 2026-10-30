@@ -1,0 +1,40 @@
+{
+ "id": "itp-38dd9b1c1f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951741060號",
+ "date": "2006-07-31",
+ "date_text": "095/07/31",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關造林獎勵金追償疑義，復如說明，請查照。",
+ "content": "一、復貴府95年7月13日府流生字第09501342530號函。\n二、依據獎勵造林實施要點第7點之規定，參與期程為20年，參與獎勵造林人於參與期間須接受林業管理經營機關之指導，善加管理經營造林木材，使之長大成林，不可任其荒廢或擅自拔除毀損，其於參與之初，即應有認知。爰貴府於受理申請、核定時，即應明確告知參加獎勵造林之權利及義務，避免參與獎勵造林人產生疑義。\n三、參與獎勵期程既明訂為20年，參與獎勵造林人於獎勵期間未屆之前，即轉讓其土地，而受讓人又不願繼續參與獎勵，即無法達成原獎勵造林之目的，依據目的性解釋原則，已違反規定全民造林運動綱領暨實施計畫及「獎勵造林實施要點」之規定。\n正本 :南投縣政府\n副本 :",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000157?p=76",
+   "fetched_at": "2026-10-30T15:10:24+08:00",
+   "source_key": "forest:0000157"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "eed16650ad76c8291f1e64d566e87179b9f521e81a3ae7cf597a3b7e107593d6",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -26,10 +26,16 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第1090013313號|通函各縣市農變要點修正前後有關太陽光電設施案件之審查原則"
+  },
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/89642354-aeac-47dd-aba2-e38c3788cc86?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:18+08:00",
+   "source_key": "talis:89642354-aeac-47dd-aba2-e38c3788cc86"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

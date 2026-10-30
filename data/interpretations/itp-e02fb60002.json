@@ -1,0 +1,47 @@
+{
+ "id": "itp-e02fb60002",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951653524號",
+ "date": "2006-05-12",
+ "date_text": "095/05/12",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關股份有限公司不當得利造林獎勵金之追賠疑義乙案，復如說明，請查照。",
+ "content": "一、復貴府95年5月8日府農林字第0950123060號函 。\n二、依據法務部90年3月22日(90)法令字第008617號函釋略以：行政程序法施行前已發生公法上請求權之消滅時效期間，得類推適用民法消滅時效之規定。是以，本案請依該函釋辦理。\n三、檢附前揭法務部函文資料1份。\n正本：臺中縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000147?p=79",
+   "fetched_at": "2026-10-30T15:11:04+08:00",
+   "source_key": "forest:0000147"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4ca6576e5538a71300c5af0e89c434412da9e660aa2f2025b1e2ccf5de492cd7",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "務部90年3月22日(90)法令字第008617號函釋略以:行政程序法施行前已發生公法上請求權之消滅時效期間,得類推適用民法消滅時效之規定。是以,本案"
+  }
+ ]
+}

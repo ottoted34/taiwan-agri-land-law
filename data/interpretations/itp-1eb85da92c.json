@@ -1,0 +1,49 @@
+{
+ "id": "itp-1eb85da92c",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991741797號",
+ "date": "2010-08-13",
+ "date_text": "099/08/13",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴府函詢原參加獎勵農地造林計畫後轉入全民造林運動實施計畫之造林地，其使用地類別由農牧用地變更為遊憩用地，有關造林獎勵金發放疑義，復如說明，請查照。",
+ "content": "一、復貴府99年8月3日府農林字第0990192365號函。\n二、貴府函詢之系爭獎勵造林地，其使用地類別據報已由農牧用地變更為遊憩用地，因事涉地政相關法規，經洽內政部地政司獲悉，依據「非都市土地使用管制規則」(以下簡稱管制規則)規範之遊憩用地，尚包含林業使用，如作造林、苗圃可免經申請許可程序；惟依據管制規則第28條及第44條規定，申請變更編定之應備文件中，尚須檢附「興辦事業計畫核准文件」，如土地使用現況(造林)符合興辦事業計畫者，則可續發造林獎勵金至獎勵期限屆滿；反之，該土地恐難繼續供造林使用。是以，該系爭獎勵造林地得否作林業使用，仍應由貴府詳為查明造林地使用現況是否與興辦事業計畫規劃內容相符，以符行政程序。\n正本:臺南縣政府\n副本:本局造林生產組",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000489?p=36",
+   "fetched_at": "2026-10-30T15:00:33+08:00",
+   "source_key": "forest:0000489"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cec1190b7e610e45dbcbe8f198290b4cb48dac8ee58069dcaa45afbebce29c00",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "更為遊憩用地,因事涉地政相關法規,經洽內政部地政司獲悉,依據「非都市土地使用管制規則」(以下簡稱管制規則)規範之遊憩用地,尚包含林業使用,如作造林、苗圃可免經申請許可"
+  }
+ ]
+}

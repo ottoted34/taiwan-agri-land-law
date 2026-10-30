@@ -1,0 +1,40 @@
+{
+ "id": "itp-f26591228a",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991742721號",
+ "date": "2010-12-17",
+ "date_text": "099/12/17",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關台端詢問鄉公所辦理農路工程穿越一般農業區土地，其是否影響平地造林申請資格及造林面積認定案，復如說明，請查照。",
+ "content": "一、依據行政院農業委員會交下台端99年12月3日造林疑問991203釋示申請函辦理。\n二、查「平地造林直接給付及種苗配撥實施要點」第6點第1項第3款規定「申請造林直接給付之土地面積應為零點五公頃以上，但有兩筆土地間隔有公共交通道路或溝渠，且面積合計達零點五公頃以上，不在此限」，意即兩筆土地雖有公共交通道路或溝渠間隔，仍得視為毗連且面積合計須達零點五公頃以上。惟平地造林計畫之執行機關為縣(市)政府，本案得否核准其申請，請台端檢附土地相關資料逕向造林所在地之縣政府釐清。\n正本:○○○君\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000359?p=33",
+   "fetched_at": "2026-10-30T14:59:54+08:00",
+   "source_key": "forest:0000359"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b93e0f29ec201c81457a15157b7bcfe435b08d0b3251bb05dcd33a6e16699612",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

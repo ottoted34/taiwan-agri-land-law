@@ -1,0 +1,42 @@
+{
+ "id": "itp-0ac34ef736",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941616698號",
+ "date": "2005-08-04",
+ "date_text": "094/08/04",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "承關切君陳情租地造林獎勵建議乙事，復請詧照。",
+ "content": "一、復貴委員國會辦公室94年7月27日立院基字第0940000097號函。\n二、有關已成林地酌予補助獎勵乙節，因考量民營林地廣泛，面積達陸拾餘萬公頃以上(包括私有林約十九萬公頃、原住民保留地約十八萬公頃、國有林出租造林地八萬餘公頃、縣市公有林及國有等其他機關出租造林地約十五萬餘公頃等)，鑒於目前政府之財政確為困難，爰認造林獎勵應回歸森林法，先行將該法第四十八條之一所定造林基金充實後始易實施。因此本建議事項本局將審慎錄案評估，並積極研擬「獎勵造林辦法」以為解決。\n三、另關於來電提及國有林事業區出租造林地補償收回之相關情事，本局為執行行政院核定之「國有林事業區林地收回計畫」，已訂定相關之作業要點，針對位於土石流潛勢地區、水庫集水區及河川區兩側等有影響公共安全區域之國有林事業區出租造林地，依政府財政分配情形，按土石流潛勢地區、水庫集水區、河川區兩側之先後順序，逐步辦理收回。承租人所造林木得依約分收或予以補償。\n正本：立法委員盧博基國會辦公室\n副本：○○○君",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000021?p=84",
+   "fetched_at": "2026-10-30T15:12:10+08:00",
+   "source_key": "forest:0000021"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7ce34ae5dc1e5a02f5f277dd1736ac0f056b67ba077c2ad97bc6d236208a23c3",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

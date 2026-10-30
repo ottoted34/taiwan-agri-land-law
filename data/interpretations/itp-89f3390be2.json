@@ -1,0 +1,40 @@
+{
+ "id": "itp-89f3390be2",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0981742270號",
+ "date": "2009-12-02",
+ "date_text": "098/12/02",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢貴縣境內列管超限利用之山坡地得否參加獎勵輔導造林計畫疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年11月25日府農林字第0983041853號函辦理。\n二、經查本會推動「獎勵輔導造林計畫」(以下簡稱本計畫)之土地須符合獎勵輔導造林辦法(以下簡稱本辦法)第4條規範之區位。又依本辦法第9條第1項第3款已明定，發放造林獎勵金之土地亦須為無超限利用之山坡地。是以，本計畫推動之區位，應為無超限利用之山坡地且符合本辦法規範之區位，殆無疑義。\n三、今貴府詢問貴縣卑南鄉初鹿段○○○-○地號等149筆，面積合計 173.15公頃之超限利用山坡地得否參加本計畫乙節，鑑於該等土地既屬列管超限利用有案之土地，如欲參與獎勵輔導造林計畫者，請貴府解除列管後，再予輔導申請參加本計畫，以符行政程序。\n正本：臺東縣政府\n副本：本會水土保持局、本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000170?p=43",
+   "fetched_at": "2026-10-30T15:02:16+08:00",
+   "source_key": "forest:0000170"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9319faa3c1e4437a6c25887463d117a33fdc2035dd9693386f938806b04e6fc1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

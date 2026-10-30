@@ -1,0 +1,43 @@
+{
+ "id": "itp-6694df841c",
+ "doc_class": "interpretation",
+ "docno": "農牧字第1070043577號",
+ "date": "2018-10-15",
+ "date_text": "中華民國107年10月15日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "為加速畜牧場之畜牧設施屋頂設置光電設施之推動，有關畜牧場須辦理畜牧場登記及畜牧設施容許使用之辦理原則",
+ "content": "一、 針對擬配合前揭政策於畜牧設施屋頂設置光電設施之畜牧場，雖場內已有既成施設但未取得容許使用之畜牧設施，倘確係為作農業使用性質，且其場內既有及擬增設之畜牧設施興建總面積未逾畜牧法第5條第2款規定畜牧場之80%上限條件者，其補辦容許變更部分，得與畜牧設施屋頂設置光電設施之申請作業脫鉤辦理，以加速審查流程及旨揭工作之推動。\n二、 另有關畜牧場場內違建部分，仍請循貴府既有違建處理機制辦理，並同時進行受理與輔導容許使用變更作業，無須俟畜牧場處罰或拆除改善完成，始得辦理容許使用變更作業。\n三、 至應依容許辦法提出申請之農業設施，倘已先行施設，依本會歷次函釋均有明示，如符合設施設置基準，得予輔導補辦容許使用，故針對前開畜牧設施屋頂設置光電設施之處理作法，無涉上開辦法第6條第9款不予同意規定之情形，併予敘明。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2018-10-15）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/b61b00a7-3b82-4851-9674-193f6b209733?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:17+08:00",
+   "source_key": "talis:b61b00a7-3b82-4851-9674-193f6b209733"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cb57886a96702ef851fd05f8ee06fb41682577a400ec8289417f491116e8869f",
+ "topics": [
+  "green_energy",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

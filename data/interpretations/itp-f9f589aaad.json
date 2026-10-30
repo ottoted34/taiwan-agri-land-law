@@ -1,0 +1,50 @@
+{
+ "id": "itp-f9f589aaad",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080713245號",
+ "date": "2019-05-14",
+ "date_text": "中華民國108年5月14日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "因施工許可圖面與綠能設施容許圖面略有出入，涉及設置綠能設施容許使用變更疑義",
+ "content": "一、 依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第30條第3項規定，申請於本會已公告不利農業經營之農業用地設置綠能設施，經營計畫應敘明(一)設置目的、(二)興建設施之基地地號及興建面積、(三)計畫構想：包括計畫期程、設施之總裝置電容量等，並依第4條規定，向土地所在地之直轄市、縣(市)主管機關提出；且同條第4項規定，依本條規定申請之綠能設施，其設施總面積，不得超過申請設施所坐落之農業用地土地面積70%，又容許辦法第33條第1項規定，依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用，合先敘明。\n二、 本案貴公司表示前於107年11月29日取得地方農業主管機關同意綠能設施之容許使用，原申請容許採用310W模組，總容量為10,046.17KW及總面積為54,833.03m2 ，後向經濟部能源局申請施工許可改採高效能380W模組， 總容量為9553.2KW及總面積為51,006.2m2\n，倘設施總面積未超過申請設施所坐落之農業用地土地面積70%，應無需以新案再重新申請容許使用，惟本案總面積及總容量異動係涉及經營計畫書內容之變更，爰請貴公司按容許辦法第4條規定儘速向地方農業主管機關辦理容許使用變更事宜，以利貴公司未來向地方農業主管機關申辦完工檢查。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-05-14）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/031b0fb1-29af-4dae-96df-f128bbdf02f6?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:59+08:00",
+   "source_key": "talis:031b0fb1-29af-4dae-96df-f128bbdf02f6"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b4d09999e0c617dbc27acc05054fc93007808ad0bfc0d22182756c5e3293db2a",
+ "topics": [
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "許圖面略有出入,涉及設置綠能設施容許使用變更疑義\n一、 依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第30條第3項規定,申請於本會已公告不利農業經營之農業用地設"
+  }
+ ]
+}

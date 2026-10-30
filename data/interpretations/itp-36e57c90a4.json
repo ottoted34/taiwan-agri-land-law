@@ -1,0 +1,40 @@
+{
+ "id": "itp-36e57c90a4",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0961740077號",
+ "date": "2007-01-25",
+ "date_text": "096/01/25",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關院依據促進民間參與公共建設法規定，將餐飲中心交由股份有限公司辦理整建營運，是否須繳交山坡地開發利用回饋金1案，復如說明，請查照。",
+ "content": "一、復貴府95年11月9日府授建三字第09506054701號函。\n二、查本會94年5月27日農授林務字第0941740421號函釋示，與本案之情形有間;復查該函本會已以96年1月16日農林務字第0951622719號函停止適用。\n正本：臺北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000571?p=71",
+   "fetched_at": "2026-10-30T15:08:58+08:00",
+   "source_key": "forest:0000571"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0eb6c82d6d11bc63e715ffc32eeaa6f523799e4f4d78a2fc0c6efb8ec9e4fc59",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

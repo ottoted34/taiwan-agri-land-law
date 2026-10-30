@@ -1,0 +1,57 @@
+{
+ "id": "itp-6ede21495a",
+ "doc_class": "interpretation",
+ "docno": "法令字第008617號",
+ "date": "2001-03-22",
+ "date_text": "090/03/22",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "行政程序法施行前已發生公法上請求權之消滅時效期間，不適用行政程序法第一百三十一條第一項規定",
+ "content": "行政程序法施行前已發生公法上請求權之消滅時效期間，不適用行政程序法第一百三十一條第一項規定，應依行政程序法施行前有關法規之規定，無相關法規規定者，得類推適用民法消滅時效之規定 (即縱使殘餘期間，自行政程序法施行日起算較五年為長者，仍依其期間)。另如係基於行政處分、法院裁定或其他依法令負有義務經通知限期履行，依行政執行法相關規定 (第七條、第四十二條第三項參照)係屬執行期間問題者，自當適用執行期間之規定，而與本案消滅時效問題無涉。至關於消滅時效期間之起算點，則應自該請求權得行使時起算，就具體個案判斷之。又倘法律關於時效有特別規定者。則應依該特別規定處理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000139?p=97",
+   "fetched_at": "2026-10-30T15:15:31+08:00",
+   "source_key": "forest:0000139"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "A0030055",
+    "law_name": "行政程序法",
+    "article": "131",
+    "amended_on": "2013-05-22",
+    "history": "中華民國一百零二年五月二十二日總統華總一義字第 10200092011 號令修正公布第 131 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c68010f9cbcf6082658b78bf63518773fa71e0f973fd097d2c682c0294738b59",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": "131",
+   "kind": "extracted",
+   "snippet": "行政程序法施行前已發生公法上請求權之消滅時效期間,不適用行政程序法第一百三十一條第一項規定\n行政程序法施行前已發生公法上請求權之消滅時效期間,不適用行政程序法第"
+  }
+ ]
+}

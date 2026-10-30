@@ -1,0 +1,49 @@
+{
+ "id": "itp-e8c9fa86f2",
+ "doc_class": "interpretation",
+ "docno": "農林務字第1011665006號",
+ "date": "2012-12-14",
+ "date_text": "101/12/14",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢 君申請農業用地容許作農業設施(農業資材室)簡易水土保持申報書第一次變更設計案，復請 查照。",
+ "content": "一、依據本會林務局案陳貴局101年11月26日北農林字第1012987376號函辦理。\n二、查本會於98年1月23日修正「山坡地開發利用回饋金繳交辦法」(以下簡稱本辦法)第8條規定，增訂第7款「依農業發展條例第8條之1第1項及第2項但書免申請建築執照者」規定，免繳交回饋金。故系爭案件倘因申請變更設計，而有本辦法第6條第3項規定「水土保持完工前，其原計畫面積遇有變更時，主管機關應依本辦法規定，重新計算本回饋金，並與原計算金額相抵後，無息多退少補。」之適用，則重新計算本案之回饋金時，應有本辦法第8條第7款規定之適用。\n三、承上，倘貴府重新計算本案之回饋金時，符合本辦法第8條第7款規定，則貴局可依本辦法第6條第3項規定辦理。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000855?p=18",
+   "fetched_at": "2026-10-30T14:56:13+08:00",
+   "source_key": "forest:0000855"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d24d6ae61ee76b57387e9b9d722b5b0185e2b40e016d201f300f3f6baa49a01e",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "回饋金繳交辦法」(以下簡稱本辦法)第8條規定,增訂第7款「依農業發展條例第8條之1第1項及第2項但書免申請建築執照者」規定,免繳交回饋金。故系爭案件倘因申請變更設"
+  }
+ ]
+}

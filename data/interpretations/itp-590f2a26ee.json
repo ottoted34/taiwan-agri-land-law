@@ -1,0 +1,40 @@
+{
+ "id": "itp-590f2a26ee",
+ "doc_class": "interpretation",
+ "docno": "農林字第88117346號",
+ "date": "1999-04-22",
+ "date_text": "088/04/22",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴縣山上鄉民君申請八十八年度獎勵造林可否受理一案，因其所屬造林地，編訂使用種類為「工業區農牧用地」，非林業用地，依「獎勵造林實施要點」第八條之規定，免費供應苗木，不發給獎勵金，請查照。",
+ "content": "復 貴府八十八年四月十五日八八府農林字第六四八五三號函。\n正本：台南縣政府\n副本：本會林業處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000647?p=100",
+   "fetched_at": "2026-10-30T15:16:06+08:00",
+   "source_key": "forest:0000647"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4e34afbb73b7d4ad9829c4b386b6073c3c4db833fabf253090de68f6bb875ae5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

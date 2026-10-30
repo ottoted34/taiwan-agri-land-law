@@ -1,0 +1,40 @@
+{
+ "id": "itp-d6f063b577",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941614658號",
+ "date": "2005-07-07",
+ "date_text": "094/07/07",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "據送延平鄉君等64戶參加全民造林運動實施計畫，於清查後發現造林戶未具土地權利或租賃關係案，請依說明辦理，復請查照。",
+ "content": "一、復貴府94年7月1日府原產字第0943022013號函。\n二、本案林農於參與全民造林獎勵期間，於未完成合法土地所有權前，仍請貴府依規辦理檢測工作，俟程序完成後，再予依據獎勵造林實施要點規定核發造林獎勵金。爰仍請先洽行政院原住民族委員會該造林地是否得以取得合法之土地耕作權利後，再予續辦全民造林獎勵事宜。\n正本:臺東縣政府\n副本:行政院原住民族委員會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000014?p=84",
+   "fetched_at": "2026-10-30T15:12:19+08:00",
+   "source_key": "forest:0000014"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7c36bd82ea68521611bc2b99c788b5bc979eaafad7e9bb2c638affc3ad8afb1a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

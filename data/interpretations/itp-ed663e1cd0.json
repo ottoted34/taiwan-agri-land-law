@@ -1,0 +1,40 @@
+{
+ "id": "itp-ed663e1cd0",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951607455號",
+ "date": "2006-04-20",
+ "date_text": "095/04/20",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴處轄管租地造林地承租人君，陳情因造林木遭動物(山羌)啃食，欲辦理註銷獎勵造林1案，復如說明，請查照。",
+ "content": "一、復貴處95年4月14日羅政字第0951210243號函。\n二、為維護全民造林運動實施計畫之目標及宗旨，請貴處嚴予審核轄內申請註銷獎勵造林之案件，合先敘明。\n三、經查「動物危害」非屬獎勵造林實施要點第7點規定，因病、蟲害、天然災害等不可抗力之範疇，依規須追回造林獎勵金後辦理獎勵造林註銷事宜。另貴處既知該地區有山羌危害，是否確實輔導林農進行相關防範措施，如因貴處未善盡輔導之責，導致林農造林地之成活率不足，相關責任歸屬，應由貴處負擔。\n四、另依據特有生物研究保育中心資料顯示，山羌較常出現於天然闊葉林或混生林，草食性，食物以細葉幼芽及嫩草為主。據稱本案係於91年間完成新植造林，造林樹種屢遭山羌「啃食樹皮」死亡1節，顯有不符，請予釐清。\n正本：本局羅東林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000134?p=80",
+   "fetched_at": "2026-10-30T15:11:12+08:00",
+   "source_key": "forest:0000134"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a8d7b710c7cb58019c40037a0f5f00629ebc16d4264b49acde7dc8cec46af0ca",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

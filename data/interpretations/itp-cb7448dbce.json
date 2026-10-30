@@ -1,0 +1,47 @@
+{
+ "id": "itp-cb7448dbce",
+ "doc_class": "interpretation",
+ "docno": "林造字第1021740887號",
+ "date": "2013-03-21",
+ "date_text": "102/03/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局詢問台灣電力股份有限公司「林口電廠更新擴建計畫燃煤輸送地下廊道工程水土保持計畫」之開發或利用行為態樣認定疑義案，復請 查照。",
+ "content": "一、復貴局102年3月15日北農林字第1021440658號函。\n二、查山坡地開發利用回饋金繳交辦法第5條第1項規定「本回饋金之計算方式，應依其開發利用程度之類別，以水土保持主管機關核定水土保持計畫或簡易水土保持申報書之計畫面積與其當期公告土地現值乘積百分之六至百分之十二計算。」。因水土保持法第12條第1項各款明列各種山坡地開發利用行為態樣，而貴府依該行為態樣分別訂定乘積比率。請貴局逕向核定本案水土保持計畫之主管機關確認行為態樣，並依其乘積比率計算回饋金。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000848?p=17",
+   "fetched_at": "2026-10-30T14:55:54+08:00",
+   "source_key": "forest:0000848"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f51d317fbfd6b1fea36352bc65c4e3c6a070863348e9523ef554c0bde27b2d12",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "面積與其當期公告土地現值乘積百分之六至百分之十二計算。」。因水土保持法第12條第1項各款明列各種山坡地開發利用行為態樣,而貴府依該行為態樣分別訂定乘積比率。請"
+  }
+ ]
+}

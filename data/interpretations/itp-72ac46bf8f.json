@@ -1,0 +1,47 @@
+{
+ "id": "itp-72ac46bf8f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951615125號",
+ "date": "2006-08-21",
+ "date_text": "095/08/21",
+ "agency_text": "",
+ "category": "森林產業組／林產物伐採",
+ "subject": "有關人民申請伐採非林業用地地上竹木與森林法第45條適用之疑義案，仍請貴府依本局95年5月2日林造字第0951608141號函辦哩，復請查照。",
+ "content": "一、復貴府95年8月9日府農林字第0950105306號函。\n二、旨揭事項，本局95年5月2日林造字第0951608141號函﹝計達﹞說明二略以：「‧‧‧林地之範圍，依95年3月1日修正公布之森林法施行細則第3條已有明確之範圍。是故，若非林地，其上縱有群生竹木，亦非屬森林法所稱森林，無森林法及其所屬法規命令之適用。原未編定為林業用地土地之竹木，是否適用森林法，由貴府認定土地有無符合森林法施行細則第3條規定『林地』之範圍。」已予敘明。\n三、另，「山坡地保育利用條例」、「風景特定區管理規則」及「飲用水管理條例」等法規，因非屬本局所管，執行上如有疑義，請貴府逕洽各該主管機關釋示。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000783?p=76",
+   "fetched_at": "2026-10-30T15:10:13+08:00",
+   "source_key": "forest:0000783"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "22545a2a2f0aa7748af55fc6e20c2f955d833c1471f8aab1aaa10cfc3cc24ada",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110006",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "林法施行細則第3條規定『林地』之範圍。」已予敘明。\n三、另,「山坡地保育利用條例」、「風景特定區管理規則」及「飲用水管理條例」等法規,因非屬本局所管,執行上如有疑"
+  }
+ ]
+}

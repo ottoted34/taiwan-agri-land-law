@@ -1,0 +1,40 @@
+{
+ "id": "itp-f2ffaad787",
+ "doc_class": "interpretation",
+ "docno": "農林字第900130042號",
+ "date": "2001-06-14",
+ "date_text": "090/06/14",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "函詢有關獎勵造林檢測工作執行疑義，復如說明，請 查照。",
+ "content": "一、復貴府九十年六月五日九十府農林字第○六一九六三號函。\n二、造林檢測後，對於成活率為合格者，林業管理經營機關應輔導其補植至檢測合格後始發給造林獎勵金，不合格者及不發給該年造林獎勵金，獎勵金亦不得追溯。餘請依「獎勵造林實施要點」相關規定辦理\n三、至因天然災害等不可抗力，致造林木受害，成活率未合格時，仍依前述原則辦理，且獎勵金核發以實際檢測合格面積計算。若受害情形嚴重無法補植，經勘查屬實，得重新申請造林，其存留之林木亦得併入每公頃標準栽植株數計算。\n正本：宜蘭縣政府\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000687?p=97",
+   "fetched_at": "2026-10-30T15:15:24+08:00",
+   "source_key": "forest:0000687"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "178344abd5926064223f4ca1dda543a12b863a4eab54b99ff0791acb70c8921b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

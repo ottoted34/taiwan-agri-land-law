@@ -1,0 +1,40 @@
+{
+ "id": "itp-c8e8626cb1",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740659號",
+ "date": "2011-03-30",
+ "date_text": "100/03/30",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問股份有限公司(以下簡稱公司)繳交山坡地開發利用回饋金之疑義案，復如說明，請 查照。",
+ "content": "一、復貴府100年3月22日府農植字第1000105479號函。\n二、查農委會95年11月1日農林務字第0951741665號函說明二略以「...本案應查明○○公司申請擴大球場之起始掛件日，爰請貴府重新審酌核處」有案，是否確屬○○公司主張全案申請掛件日為「山坡地開發利用回饋金繳交辦法」發布日(89.12.2)前已申請?此屬事實認定，宜請貴府查明後妥處。\n三、檢還首揭號函之附件(水土保持計畫定稿本等資料)1份。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000345?p=31",
+   "fetched_at": "2026-10-30T14:59:13+08:00",
+   "source_key": "forest:0000345"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6688f2817043c35c5c81fd37132265b71243f7d66328b725d792ffe882ae4a35",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

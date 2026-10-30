@@ -1,0 +1,42 @@
+{
+ "id": "itp-569c93b1a0",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951741004號",
+ "date": "2006-07-21",
+ "date_text": "095/07/21",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴處所轄旗山事業區第林班承租人租地內部分植獎勵造林樹種，部分種植梅、李、荔枝等果樹，擬請本局准予繼續領取造林獎勵金案，復如說明，請查照。",
+ "content": "一、復貴處95年7月18日屏政字第0956211405號函。\n二、所報本案租地其中3.9公頃及4.62公頃面積，前既經貴處核發獎勵金在案，是以於當時該承租人之承租地理應無違規事實存在，爰本案果樹是否係於申請獎勵後所種植，或為申請獎勵造林前即已存在？果樹之種植範圍為何，亦請貴處惠予一併查明釐清，並檢附租地造林契約等相關資料過局研處。\n三、另請貴處徹底清查有關申請獎勵造林之租地內，是否尚有其他部分種植林木，部分種植果樹之案例。\n正本：本局屏東林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000842?p=77",
+   "fetched_at": "2026-10-30T15:10:31+08:00",
+   "source_key": "forest:0000842"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3ac11e3f809a6d7f0b9dae88f2c588205ff3d772ce4bfd3246ab0aa0eb597d95",
+ "topics": [
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-153a23cfce",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740153號",
+ "date": "2011-01-19",
+ "date_text": "100/01/19",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "民眾申請參加平地造林計畫，可否以委託書代替他項權利證明或租約證明文件案，復如說明，請查照。",
+ "content": "一、復貴府100年1月14日府農育字第1000011139號函。\n二、查「平地造林直接給付及種苗配撥實施要點」第7點第1項第3款規定「申請人非土地所有人，應提出具有二十年以上之他項權利證明或租賃期二十年之租約證明文件」，至於核准參與平地造林計畫之造林人委託他人造林，係屬兩造雙方之私權行為，仍請貴府依該要點之規定辦理。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000398?p=32",
+   "fetched_at": "2026-10-30T14:59:40+08:00",
+   "source_key": "forest:0000398"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "17a028a93a8c982d8e419593953787ece1ad65a8c54f34bd28f77240e29893b0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

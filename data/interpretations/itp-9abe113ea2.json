@@ -1,0 +1,50 @@
+{
+ "id": "itp-9abe113ea2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080013563號",
+ "date": "2019-12-04",
+ "date_text": "中華民國108年12月4日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關建議降低漁電共生綠能專區面積須25公頃以上之限制案",
+ "content": "一、 按「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第29條之立法意旨，係為引導群聚發展，確保農業經營與綠能相容使用，故應與農業經營使用相結合之地面型綠能設施，由直轄市、縣(市)主管機關或國營事業統籌規劃可發展區域，以計畫引導利用，並擬具農業經營結合綠能之專案計畫，再送中央主管機關就計畫執行之可行性予以專案審查，合先敘明。\n二、 又按本會漁業署108年1月24日發布「行政院農業委員會養殖漁業經營結合綠能設施專案計畫審查作業要點」第2點第1款規定略以，漁電共生專案計畫推動範圍內之農業用地面積達25公頃以上，且養殖魚塭面積占60%以上；或位於既有之養殖漁業生產區，農業用地面積達10公頃以上，且養殖魚塭面積占60%以上。故所請專案計畫如位於養殖漁業生產區內，面積符合10公頃以上，亦可由養殖漁民或養殖漁民團體向地方政府提出專案計畫建議。\n三、 至於上開專區面積是否可再降低，涉及綠能設施對養殖漁業生產整體影響之評估，目前本會漁業署已受理嘉義縣及臺南市政府所提專案計畫進行審查中，建議可於上開專案計畫執行後，再由本會漁業署評估檢討是否修正上開作業要點之面積規定。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-12-04）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/890f67d5-b4fc-479f-823d-d5ce2e5d6b55?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:35+08:00",
+   "source_key": "talis:890f67d5-b4fc-479f-823d-d5ce2e5d6b55"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "57addd1b7ce8699601d3262384c802295da6dd842e5411f8a6da7aa9e4e94e2b",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "建議降低漁電共生綠能專區面積須25公頃以上之限制案\n一、 按「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第29條之立法意旨,係為引導群聚發展,確保農業經營與綠能相容"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "id": "itp-7962a9d7b3",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001622164號",
+ "date": "2011-10-28",
+ "date_text": "100/10/28",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢位於山坡地都市計畫區範圍內之土地得否申請參加「獎勵輔導造林計畫」疑義案，復如說明，請查照。",
+ "content": "一、復貴府100年10月26日府農林字第1000191973號函。\n二、依據行政院農業委員會98年5月11日農授林務字第\n0981740744號函說明三，行政院農業委員會頒布之「獎勵輔導造林辦法」(以下簡稱本辦法)係基於國土保安及水土保持之考量，針對需造林之環境敏感地區，以給付獎勵金方式優先實施。故都市計畫區內之保護區本屬環境敏感地區，應可納入獎勵輔導造林計畫受理之對象。先行敘明。\n三、有關得否核准造林1節，仍請貴府應依據「都市計畫法臺灣省施行細則」第27條第1項及同項第9款規定，由貴府確認該申請區域位屬保護區，且審查核准該保護區得為造林使用後，依本辦法第6條規定，經現勘符合實施造林之需要及「獎勵造林審查要點」所列要件，方可核准參加。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000247?p=25",
+   "fetched_at": "2026-10-30T14:57:51+08:00",
+   "source_key": "forest:0000247"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4a8df4eff5a17fc6d60a38de8dc72dd7b169019565ede457d10947a53a18ea02",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之對象。先行敘明。\n三、有關得否核准造林1節,仍請貴府應依據「都市計畫法臺灣省施行細則」第27條第1項及同項第9款規定,由貴府確認該申請區域位屬保護區,"
+  }
+ ]
+}

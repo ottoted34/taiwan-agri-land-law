@@ -1,0 +1,74 @@
+{
+ "id": "itp-0d5289ddac",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981652532號",
+ "date": "2009-03-20",
+ "date_text": "098/03/20",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴府函詢要求造林人返還造林獎勵金是否須加計利息及利率採計疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年3月13日府農林字第0980040947號函。\n二、鑑於行政院農業委員會於97年6月30日以農授林務字第0971740820號函針對平地景觀造林計畫造林地區位不符乙案 已有釋示，故仍請貴府逕依該函說明原則，查明事實卓處。\n三、至貴府函詢向平地景觀造林計畫之造林人，請求返還已受領造林獎勵金之利率如何採計乙節，倘貴府依據權責確認本案 獎勵造林人自始即無受領造林獎勵金之資格者，即非屬造林獎勵金領取人，則本案嗣經貴府依行政程序法第127條規定，撤銷對獎勵造林人原處分後，即溯及既往始生返還之義務， 其返還範圍貴府得依民法第182條規定辦理，而附加返還之 利息則依同法第203條規定採計，惟本案亦應併案考量行政程序法第131條公法上請求權之時效為宜。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000206?p=52",
+   "fetched_at": "2026-10-30T15:04:31+08:00",
+   "source_key": "forest:0000206"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "A0030055",
+    "law_name": "行政程序法",
+    "article": "127",
+    "amended_on": "2015-12-30",
+    "history": "中華民國一百零四年十二月三十日總統華總一義字第 10400151551 號令修正公布第 127、175 條條文；並自公布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "A0030055",
+    "law_name": "行政程序法",
+    "article": "131",
+    "amended_on": "2013-05-22",
+    "history": "中華民國一百零二年五月二十二日總統華總一義字第 10200092011 號令修正公布第 131 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ba1243a9c14ecf87cefd4b90e8c94989bc1c31834126e20f12bbc08805c9c8c2",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": "127",
+   "kind": "extracted",
+   "snippet": "造林獎勵金之資格者,即非屬造林獎勵金領取人,則本案嗣經貴府依行政程序法第127條規定,撤銷對獎勵造林人原處分後,即溯及既往始生返還之義務, 其返還範圍貴府得依民"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "131",
+   "kind": "extracted",
+   "snippet": "加返還之 利息則依同法第203條規定採計,惟本案亦應併案考量行政程序法第131條公法上請求權之時效為宜。\n正本:花蓮縣政府\n副本:"
+  }
+ ]
+}

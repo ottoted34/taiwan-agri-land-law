@@ -1,0 +1,40 @@
+{
+ "id": "itp-a7ebff1219",
+ "doc_class": "interpretation",
+ "docno": "林造字第0921650820號",
+ "date": "2003-03-12",
+ "date_text": "092/03/12",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴縣壽豐鄉鄉民甲先生等14人申請座落志學段「東華大學成特定區」﹝都市土地﹞，使用分區為「農業區」之土地參予獎勵平地造林案，復如說明，請查照。",
+ "content": "一、復貴府92年2月25日府農林字09200218080號函。\n二、依據獎勵平地造林相關規定，申請對象為區域計劃法施行細則第13條劃定非都市土地之一般農業區農牧用地，惟該案土地據報為都市土地，依規定歉難同意辦理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000796?p=92",
+   "fetched_at": "2026-10-30T15:14:15+08:00",
+   "source_key": "forest:0000796"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6928c33fe94483357be48d29b25c2c4e81b5a4d60ee740748d6c0a2d4b850e1b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

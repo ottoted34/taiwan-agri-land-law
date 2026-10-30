@@ -1,0 +1,40 @@
+{
+ "id": "itp-e88f9415de",
+ "doc_class": "interpretation",
+ "docno": "林造字第1021740181號",
+ "date": "2013-02-18",
+ "date_text": "102/02/18",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "貴局函詢有關林業用地變更為交通用地後，於道路開闢前原林地上之數目是否應依林產物伐採規則或林業相關法規辦理案。",
+ "content": "一、復貴局101年12月19日北農景字第1014236604號函暨行政院農業委員會交下貴局同號函文副本。\n二、本案係將林業用地變更為交通用地，而開闢道路須先對地上物進行清除始能施工，貴府審核林業用地變更用地編定案件時，對於施設道路應採伐之障礙木應依林產物伐採查驗規則等法規，要求對交通用地處理，補償或價購。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000890?p=17",
+   "fetched_at": "2026-10-30T14:55:58+08:00",
+   "source_key": "forest:0000890"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7e69dcf25493936355b526372c07bb7aeab54795eac8b780f9a3448ca79a24df",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

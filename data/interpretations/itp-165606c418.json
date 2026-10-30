@@ -1,0 +1,40 @@
+{
+ "id": "itp-165606c418",
+ "doc_class": "interpretation",
+ "docno": "農林字第900133040號",
+ "date": "2001-07-11",
+ "date_text": "090/07/11",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢「山坡地開發利用回饋金繳交辦法」疑義一案，復請查照。",
+ "content": "一、復 貴府90年6月19日府農保字第067989號函。\n二、茲說明如下：\n(一)第3條已規定須擬具「水土保持計畫」之開發利用行為，故不含簡易水土保持申報案」。\n(二)第7條與第5條所稱之「主管機關」相同，均為受理申請案之縣(市)政府或其他機關。至於主管機關內部各單位掌理事項，屬主管機關職權。\n(三)本會所設置之造林基金專戶為「臺灣土地銀行營業部行政院農業委員會造林基金041-056-60001-7帳號」。\n正本：宜蘭縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000296?p=97",
+   "fetched_at": "2026-10-30T15:15:21+08:00",
+   "source_key": "forest:0000296"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4fa68e7fbe7ac5bb22a1737c709c6517a8142abcec9f425011d599a81e927fa6",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-b87d6984f1",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920134438號",
+ "date": "2003-06-18",
+ "date_text": "092/06/18",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢山坡地開發利用回饋金繳交辦法相關疑義一案，復請查照。",
+ "content": "一、復 貴府92年6月10日北府農林字第0920377585號函。\n二、茲說明如下：\n(一) 簡易水土保持申報書核定後，其水土保持義務人須依山坡地開發利用回饋金繳交辦法繳交回饋金。\n(二) 水土保持義務人拖延不繳或拒繳回饋金，可循 貴府往例，移送強制執行(請參閱 貴府92年5月30日北府農林字第0920365996號函)。\n(三) 回饋金應在限期內繳交，水土保持義務人實際上無開發利用山坡地，其已繳交之回饋金可以申請退還。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000300?p=90",
+   "fetched_at": "2026-10-30T15:13:48+08:00",
+   "source_key": "forest:0000300"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ec9fdede21fca90574590c33294fc857bb03709b878b826df24ee96dc7734384",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,57 @@
+{
+ "id": "itp-a3b254133f",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1090255919號",
+ "date": "2021-01-08",
+ "date_text": "中華民國110年1月8日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "漁電共生專區內既有農業設施未取得容許之處理",
+ "content": "一、 依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第29條規定，非附屬設置於農業設施之地面型綠能設施，除位於第30條規定之區位者外，應結合農業經營且位於農業經營結合綠能之專案計畫範圍內或可優先推動漁業經營結合綠能之區位範圍，又符合該條件者，應依第4條規定，向土地所在地之直轄市、縣(市)主管機關提出申請設置與農業經營使用相結合地面型綠能設施。\n二、 依據貴府來函表示，申請人於上述專案計畫範圍或區位範圍內整體規劃，申請與漁業經營使用相結合綠能設施容許使用，倘該範圍內存在已無使用需求之設施待拆除者，考量以影響原有養殖漁民最小之施作方式及加速地面型太陽光電之推動，本會認同得由地方政府依個案實情判斷，依行政程序法第93條及第123條規定，於容許使用同意書核發時加註附期限完成拆除及保留行政處分廢止權之附款條件，並建議敍明應於一定期間內完成拆除，完成拆除時應報請原核定機關進行檢查，倘屆期未拆除或未報請檢查，或經檢查不合格，原核定機關廢止其許可。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-01-08）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/01d8ada5-b867-447b-8ed1-9a069e868394?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:11+08:00",
+   "source_key": "talis:01d8ada5-b867-447b-8ed1-9a069e868394"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6ffe67471270887512edfdc87101b2edff4b4e5ee39f21676846a6c62f4d24cf",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "漁電共生專區內既有農業設施未取得容許之處理\n一、 依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第29條規定,非附屬設置於農業設施之地面型綠能設施,除位於第"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "93",
+   "kind": "extracted",
+   "snippet": "地面型太陽光電之推動,本會認同得由地方政府依個案實情判斷,依行政程序法第93條及第123條規定,於容許使用同意書核發時加註附期限完成拆除及保留行政處分廢止權之"
+  }
+ ]
+}

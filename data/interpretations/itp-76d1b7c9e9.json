@@ -1,0 +1,40 @@
+{
+ "id": "itp-76d1b7c9e9",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981606009號",
+ "date": "2009-04-02",
+ "date_text": "098/04/02",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關台端陳情新竹林區管理處轄南庄事業區第26林班租地造林地之申請獎勵造林案，復如說明，請查照。",
+ "content": "一、復台端98年3月30日陳情書。\n二、有關山坡地獎勵造林之申辦，主要係依據獎勵輔導造林辦法及相關規定辦理，其獎勵輔導造林對象係依該辦法第二條規定辦理，台端為國有林班地租地造林人，列屬於獎勵輔導造林之對象。惟獎勵輔導造林係屬授益性之行政處分，且屬申請許可制，依該辦法第六條規定，申請造林獎勵金者，應填具造林獎勵金之申請書，並檢附相關文件向造林所在地之受理機關提出申請，經受理機關彙整轉請主管機關現場勘查，認有實施造林之需要者核准之。台端如欲申請獎勵造林，請依前偈規定及程序辦理。\n正本：○○○君\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000438?p=52",
+   "fetched_at": "2026-10-30T15:04:24+08:00",
+   "source_key": "forest:0000438"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cfaf6c946ff68d06914f7d7eb55b7d4db57541c71e7ec388ecea89f5dcdd5b1f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-ada288f5ce",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0971653216號",
+ "date": "2008-04-22",
+ "date_text": "097/04/22",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函為臺北都會區大眾捷運系統土地聯合開發案，涉及山坡地開發利用回饋金之繳交疑義，復請 查照。",
+ "content": "一、復 貴府97年3月26日府授產農字第09731087000號函。\n二、查本案共列水土保持義務人為「臺北市政府捷運工程局、均安建設開發有限公司、集順生活科技股份有限公司、陵宗雄」，尚未符合山坡地開發利用回饋金繳交辦法第8條第3款規定，仍須將共列之水土保持義務人為山坡地開發利用回饋金(以下簡稱回饋金)繳交義務人，並由繳交義務人共同負擔須繳交之回饋金，合先敘明。\n三、另貴府捷運工程局97年4月14日北市捷聯字第09731063600號函表示本案已與投資人有權益分配協議，回饋金費用應由均安建設開發股份有限公司全額負擔。由於涉及繳交義務人間之協議，同函副知臺北市政府捷運工程局，請逕依協議內容辦理。\n四、隨文檢附貴府捷運工程局97年4月14日北市捷聯字第09731063600號函影本1份供參。\n正本：臺北市政府\n副本：臺北市政府捷運工程局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000918?p=60",
+   "fetched_at": "2026-10-30T15:06:25+08:00",
+   "source_key": "forest:0000918"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a4ddff389614b67495fd194fb7ca9195e2741da63eb4ebd8bc92b16ee696c6b4",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

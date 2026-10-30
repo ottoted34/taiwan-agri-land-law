@@ -1,0 +1,40 @@
+{
+ "id": "itp-8ec86eb4b6",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961606022號",
+ "date": "2007-04-13",
+ "date_text": "096/04/13",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄造林戶君已停止撫育6年，補植造林樹種後是否可繼續參加獎勵造林檢測，及非獎勵造林樹種可否計入成活率疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年4月9日府農林字第0960095978號函。\n二、經查本案○○○君參與全民造林計畫在案之造林地之造林檢測紀錄卡，自91年迄今未有檢測紀錄，爰依獎勵造林實施要點第2點規定，貴府係屬林業管理經營機關，應依據權責執行造林成果檢測工作，並輔導造林人維持造林成果，此節疑義有無疏失之責，貴府自應切實檢討。先行敘明。\n三、另依據行政院農業委員會96年2月16日農訴字第0950167081號函，訴願案決定由貴府於2個月內查明事實另為適法之處理。故貴府自應依據訴願決定書先行查明後再議。\n四、是以，仍請貴府依據說明二及三事項查明後敘明原因，併案報局憑辦。\n正本: 臺中縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000034?p=68",
+   "fetched_at": "2026-10-30T15:08:18+08:00",
+   "source_key": "forest:0000034"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ac344d5f8f074ed5966d9e6bb3871f48433a8f477f55dc1e110f982edd1e1f20",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

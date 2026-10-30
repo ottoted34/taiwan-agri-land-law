@@ -1,0 +1,50 @@
+{
+ "id": "itp-d3252bf297",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1080221179號",
+ "date": "2019-05-31",
+ "date_text": "中華民國108年5月31日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關「行政院農業委員會養殖漁業經營結合綠能設施專案計畫審查要點」規定，非養殖漁業生產區優先推動漁電共生面積",
+ "content": "一、 按「申請農業用地作農業設施容許使用審查辦法」(簡稱容許辦法)第29條之立法意旨，係為引導群聚發展，確保農業經營與綠能相容使用，故與農業經營使用相結合之地面型綠能設施，應由直轄市、縣(市)主管機關統籌規劃可發展區域，以計畫引導利用，並擬具農業經營結合綠能之專案計畫，再送中央主管機關就計畫執行之可行性予以專案審查，合先敘明。\n二、 因地方政府無依容許辦法第29條規定劃設專區之前例可循，又為配合能源轉型政策推動漁電共生，並維持農地農用，爰本會漁業署邀集地方政府及養殖漁業發展協會等單位，召開多次漁電共生工作圈會議，並就劃設面積範圍部分討論後終獲共識，於作業要點中訂定非養殖漁業生產區優先推動漁電共生面積須達25公頃(養殖生產區10公頃)以上之門檻，以確保在農業經營結合綠能下，農業用地之完整性及綠能設施之群聚性，同時符合上開容許辦法意旨及利於電力單位之饋線規劃，俾利加速漁電共生推動。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-05-31）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/979dbbb5-b7d1-480b-af46-cf1aef5fa998?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:54+08:00",
+   "source_key": "talis:979dbbb5-b7d1-480b-af46-cf1aef5fa998"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bcfeb655dd6681f8c6ee2bf3fbc56514a16a838a3bd2f50d8a95d5f2e72ff38c",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "查要點」規定,非養殖漁業生產區優先推動漁電共生面積\n一、 按「申請農業用地作農業設施容許使用審查辦法」(簡稱容許辦法)第29條之立法意旨,係為引導群聚發展,確保農業經營與綠能相容使用"
+  }
+ ]
+}

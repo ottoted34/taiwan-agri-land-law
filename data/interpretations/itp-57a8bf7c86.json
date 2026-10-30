@@ -1,0 +1,40 @@
+{
+ "id": "itp-57a8bf7c86",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第1011741824號",
+ "date": "2012-06-26",
+ "date_text": "101/06/26",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢申請農業設施之山坡地開發利用回饋金繳交疑義案，復請 查照。",
+ "content": "一、依本會林務局案陳貴局101年6月5日北農林字第1011909206號函辦理。\n二、按「山坡地開發利用回饋金繳交辦法」(以下簡稱本辦法)第6條第1項規定「水土保持主管機關核定水土保持計畫或簡易水土保持申報書前，屬應繳交本回饋金者，由主管機關計算本回饋金數額，通知繳交義務人於申領水土保持施工許可證或簡易水土保持申報書核可函前，一次繳納。」，貴局依水土保持計畫或簡易水土保持申報書之「計畫面積」計算回饋金後，倘有符合本辦法第8條各款情形之一，則可免繳交該回饋金。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000870?p=20",
+   "fetched_at": "2026-10-30T14:56:43+08:00",
+   "source_key": "forest:0000870"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a784ddf6d040a0832dd84b153dc2a9ddff986a6cd770206f50c510d093793c73",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

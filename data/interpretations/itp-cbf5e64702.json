@@ -1,0 +1,40 @@
+{
+ "id": "itp-cbf5e64702",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0960125285號",
+ "date": "2007-05-14",
+ "date_text": "096/05/14",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府建議山坡地開發利用回饋金之收取權責移由本會林務局各林區管理處收取乙案，復如說明，請查照。",
+ "content": "一、復貴府96年5月4日府農林字第0963013642號函。\n二、按山坡地開發利用回饋金繳交辦法所稱之主管機關，依據森林法第2條規定，在中央為本會;在直轄市為直轄市政府;在縣(市)為縣(市)政府，爰貴府須依據本辦法第5條第3項規定，訂定收取山坡地開發利用回饋金之開發利用類別及乘積比率，並執行山坡地開發利用回饋金收取業務，殆無疑義。\n正本:臺東縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000574?p=67",
+   "fetched_at": "2026-10-30T15:08:01+08:00",
+   "source_key": "forest:0000574"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "dec7b3d086bed82cb8f9099db0ff646f95bb6c2be4084ad9bb53e4920aa43bb7",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

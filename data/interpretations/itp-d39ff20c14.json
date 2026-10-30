@@ -1,0 +1,42 @@
+{
+ "id": "itp-d39ff20c14",
+ "doc_class": "interpretation",
+ "docno": "林造字第1031742710號",
+ "date": "2014-11-17",
+ "date_text": "103/11/17",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "關於貴局所詢開發利用土地經依法劃出山坡地範圍，其所繳交之山坡地開發利用回饋金得否申請發還1案，復如說明，請 查照。",
+ "content": "一、復貴局103年11月12日北農林字第1032155181號函。\n二、按山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第4條「山坡地開發利用回饋金之繳交義務人，為擬具水土保持計畫或簡易水土保持申報書之水土保持義務人」之規定，山坡地之開發利用行為須擬具水土保持計畫者，行為人即有回饋金繳交之義務。至事後水土保持計畫倘經繳交回饋金之義務人申請廢止，而實際上無開發利用山坡地，則義務人可申請退還已繳交之回饋金。\n三、惟本案山坡地開發利用行為存續中，倘開發範圍經依法劃出山坡地範圍者，其水土保持計畫得否申請廢止，仍請貴局洽水保單位釐清並依規妥處。\n四、檢附行政院農業委員會100年8月18日農授林務字第1001660107號函供參。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000930?p=12",
+   "fetched_at": "2026-10-30T14:55:04+08:00",
+   "source_key": "forest:0000930"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4b63b122b1cd584edceeddb5dc200ae508e763f3f648c04bd87b771de0e83914",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

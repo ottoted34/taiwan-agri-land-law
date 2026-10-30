@@ -1,0 +1,47 @@
+{
+ "id": "itp-2ae04937f9",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0961652651號",
+ "date": "2007-03-20",
+ "date_text": "096/03/20",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關 貴府函詢水土保持計畫之計畫面積無法釐清及已依農業發展條例繳交回饋金，是否無須繳交山坡地開發利用回饋金乙案，復請查照。",
+ "content": "一、復貴府96年3月14日府農建字第0960024424號函。\n二、為有明確且無爭議之計算依據，山坡地開發利用回饋金繳交辦法已修正為依水土保持計畫及簡易水土申報書內之「計畫面積」，計算山坡地開發利用回饋金，請依法定格式內填載之「計畫面積」為計算依據。\n三、有關農業用地變更回饋金與山坡地開發利用回饋金之收取原則，本會已於95年11月10以農企字第0950158636號函及95年11月21日以農林務字第0951659482號函通函各地方主管機關有案，請依相關函釋辦理。\n四、檢附前揭函文影本各1份\n正本：新竹市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000746?p=69",
+   "fetched_at": "2026-10-30T15:08:28+08:00",
+   "source_key": "forest:0000746"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "532e9494ddb7329e920982c03833ea56bc06c42d77a7f372722f62598a18fb1e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關 貴府函詢水土保持計畫之計畫面積無法釐清及已依農業發展條例繳交回饋金,是否無須繳交山坡地開發利用回饋金乙案,復請查照。\n一、復貴府96年3"
+  }
+ ]
+}

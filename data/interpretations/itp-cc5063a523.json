@@ -1,0 +1,48 @@
+{
+ "id": "itp-cc5063a523",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1141546156號",
+ "date": "2025-07-01",
+ "date_text": "中華民國114年7月1日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "養殖用地申請設置漁電共生案場範圍內包含既有電桿之適法疑義案",
+ "content": "一、 本部前以113年11月11日農授漁字第1131470211號函說明，依據非都市土地使用管制規則(以下簡稱管制規則)第6條附表1，養殖用地容許使用項目未包括「公用事業設施」，爰養殖用地存在之既有電桿(臺電電桿、自備桿、中華電信電桿)，應先釐清設置法據與使用性質，倘既有電桿係供室內水產養殖生產設施之用電所需，應整體規劃納入室內水產養殖生產設施併同申請，並符合該設施之最大興建面積及申請基準或條件，合先敘明。\n二、 有關縣市政府再次所詢申請設置漁電共生案場範圍之養殖用地存在既有電桿，經臺灣電力股份有限公司(以下簡稱臺電公司)表示係作為供給周圍村落電路架設使用，確非供漁電共生案場範圍內水產養殖設施及綠能附屬設施使用一節，惟管制規則第6條附表1養殖用地並無電桿之容許使用項目或許可使用細目，臺電公司既屬貴部轄管事業單位及電業管制機關，該等既有電桿如何符合土地使用管制或納入案場內併同處理，請貴部自行釐清研議。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2025-07-01）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/208e1d30-a329-429d-9735-dc86acd83bde?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:09+08:00",
+   "source_key": "talis:208e1d30-a329-429d-9735-dc86acd83bde"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f22d62c8e4e4ad985b5a1dbdbbc1fd3a36cdf0ee2123643b9817bee34dd292b2",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "3年11月11日農授漁字第1131470211號函說明,依據非都市土地使用管制規則(以下簡稱管制規則)第6條附表1,養殖用地容許使用項目未包括「公用事業設施」,爰"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "itp-f4e35eedda",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740256號",
+ "date": "2011-02-08",
+ "date_text": "100/02/08",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴縣前造林戶陳情78年間省農林廳獎勵造林之土地可否參加現行平地造林計畫疑義案，復如說明，請查照。",
+ "content": "一、復貴府100年1月26日府農植字第1000035589號函。\n二、查「平地造林直接給付及種苗配撥實施要點」(以下簡稱本要點)第13點第3項規定「同一地點已接受其他機關發給造林直接給付」乙節，係指自核准造林年度起之造林期間內，同一地點不得接受其他機關發給造林直接給付，否則可作為廢止其造林直接給付之核准依據。另依本要點第5點規定，經依獎勵造林實施要點核定造林者，其造林未滿二十年有砍除、荒廢林木或終止造林之情事，該筆土地之所有權人或使用經營人不得依本要點申請參加造林直接給付。但因病、蟲害、天然災害等不可抗力因素，須砍除重新造林經報執行機關核准者，不在此限。\n三、本案曾於78年參加台灣省農林廳獎勵造林，惟是否有上述條文所規範之情事，請貴府逕就事實查明釐清後，依相關規定卓處。\n正本:桃園縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000399?p=32",
+   "fetched_at": "2026-10-30T14:59:36+08:00",
+   "source_key": "forest:0000399"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "40b57853154656548de50d36e862799abebe26152acf5a09feaa796f094995d0",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

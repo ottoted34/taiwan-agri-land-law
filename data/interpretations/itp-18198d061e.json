@@ -1,0 +1,40 @@
+{
+ "id": "itp-18198d061e",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0970149774號",
+ "date": "2008-09-19",
+ "date_text": "097/09/19",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關山坡地上依法設置臨時建築者，是否須繳交山坡地開發利用回饋金(以下簡稱回饋金)之執行疑義案，復請 查照。",
+ "content": "一、復 貴府97年9月4日府授產農字第09733236400號函。\n二、依據山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第4條規定，回饋金之繳交義務人，為擬具水土保持計畫或簡易水土保持申報書之水土保持義務人。故本案臨時建物設置，若依法須擬具水土保持計畫或簡易水土保持申報書，除有本辦法第8條免繳回饋金之適用者外，仍應繳交回饋金。\n正本：臺北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000618?p=56",
+   "fetched_at": "2026-10-30T15:05:31+08:00",
+   "source_key": "forest:0000618"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1a389df3f49ca89a54652ee700d6431fea8051db6bbe53152511f1d1a3fe3072",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

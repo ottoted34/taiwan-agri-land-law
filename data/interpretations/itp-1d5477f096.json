@@ -1,0 +1,40 @@
+{
+ "id": "itp-1d5477f096",
+ "doc_class": "interpretation",
+ "docno": "農林字第900138078號",
+ "date": "2001-07-20",
+ "date_text": "090/07/20",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "臺端陳情有關獎勵造林乙案，復如說明，請 查照。",
+ "content": "一、復臺端九十年七月十日致本會陳情書。\n二、本會所推行之「全民造林運動」，係獎勵性質，視農民意願自由參加，並依據「獎勵造林實施要點」之規定，辦理檢測並核發造林獎勵金。至造林木遭颱風災害受損，則應依「農業天然災害救助辦法」之規定辦理。另臺端所稱貴土地不適合造林，惟據所送照片中，造林木生長良好，非土地問題，受颱風災害倒伏之林木，仍請予以復舊。\n三、副本抄送臺南縣政府，請對該造林地加以瞭解，提供技術指導，並予以協助其儘速復建。\n正本：○○○先生\n副本：臺南縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000689?p=97",
+   "fetched_at": "2026-10-30T15:15:19+08:00",
+   "source_key": "forest:0000689"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "84562d7b9577d89e162f48cc9be88a661ee082ae97e664909be9dc85d747c59a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

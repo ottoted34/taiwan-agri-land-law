@@ -1,0 +1,56 @@
+{
+ "id": "itp-fd53b87574",
+ "doc_class": "interpretation",
+ "docno": "農企字第1060225958號",
+ "date": "2017-07-24",
+ "date_text": "中華民國106年7月24日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍設置無固定基礎之圍籬，是否得免申請農業設施容許使用案",
+ "content": "一、 按農業發展條例第8條之1第1項規定，農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。是以，符合前開免申請建築執照之無固定基礎設施，係屬臨時性且與農業生產有關者。本案無固定基礎之圍籬倘非屬臨時性或未與農業生產經營使用有關，則無設置於農業用地之正當性。\n二、 另，申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第27條所定綠能設施之太陽能設施，係指太陽能光電板及其附屬設施，並無擴大至建築物或圍牆等雜項工作物，意即該類雜項工作物倘擬於農業用地上設置，仍需與農業經營使用有關者，如為固定基礎設施，尚須為容許辦法各類農業設施附表所列之項目，併予敘明。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2017-07-24）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/98150d88-742a-4b89-8550-4ca96bca3e3d?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:44+08:00",
+   "source_key": "talis:98150d88-742a-4b89-8550-4ca96bca3e3d"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ed7a3e3dbc88f920683d7142a7b38e0362c9624fc42e6ddcacc7ba3e73aeb958",
+ "topics": [
+  "container",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "置無固定基礎之圍籬,是否得免申請農業設施容許使用案\n一、 按農業發展條例第8條之1第1項規定,農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業生產經營使用有關,則無設置於農業用地之正當性。\n二、 另,申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第27條所定綠能設施之太陽能設施,係指太陽能光電板及其附屬設"
+  }
+ ]
+}

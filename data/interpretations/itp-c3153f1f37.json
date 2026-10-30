@@ -1,0 +1,49 @@
+{
+ "id": "itp-c3153f1f37",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011742558號",
+ "date": "2012-09-17",
+ "date_text": "101/09/17",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局詢問 君於貴轄區員段小段地號土地申請農業設施容許使用，涉及山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、復貴局101年9月12日北農林字第1012508697號函。\n二、據貴局表示旨揭土地前於100年7月19日因違反水土保持法，經裁罰及改正後，違規行政程序已終結。是以，目前申請人依法申請設置農業資材室，如有符合本辦法第8條各款規定情形者，自可免繳交回饋金。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000866?p=20",
+   "fetched_at": "2026-10-30T14:56:33+08:00",
+   "source_key": "forest:0000866"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5859b8ce3a548cd7de0adc0a41e54f10ca9b4e4e3be3f5b6d140c52ac5248301",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "7號函。\n二、據貴局表示旨揭土地前於100年7月19日因違反水土保持法,經裁罰及改正後,違規行政程序已終結。是以,目前申請人依法申請設置農業資材室,如"
+  }
+ ]
+}

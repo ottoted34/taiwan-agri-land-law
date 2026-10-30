@@ -1,0 +1,49 @@
+{
+ "id": "itp-d2c63c186d",
+ "doc_class": "interpretation",
+ "docno": "農授林字第0971655597號",
+ "date": "2008-07-10",
+ "date_text": "097/07/10",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "為變更設計之水土保持計畫(簡易水土保持申報書)收取新增面積之山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、依據本會林務局案陳貴局97年6月27日北農林字第0970481882號函辦理。\n二、按山坡地開發利用回饋金繳交辦法第6條第3項規定「水土保持完工前，其原計畫面積遇有變更時，主管機關應依本辦法規定，重新計算本回饋金，並與原計畫金額相抵後，無息多退少補」；次按同辦法第5條第1項規定「本回饋金之計算方式，應依其開發利用程度之類別，以水土保持主管機關核定水土保持計畫或簡易水土保持申報書之計畫面積與其當期公告土地現值乘積百分之六至百分之十二」，合先敘明。\n三、本案關於水土保持計畫(簡易水土保持申報書)變更時，其山坡地開發利用回饋金之計算，依上開規定應以該計畫變更核定時之公告土地現值為計算基礎。\n正本:臺北縣政府農業局\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000615?p=58",
+   "fetched_at": "2026-10-30T15:06:03+08:00",
+   "source_key": "forest:0000615"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "amended_by_later",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "amend_signal",
+    "by_id": "itp-a9f6ddb185",
+    "by_docno": "林造字第1001741333號",
+    "by_date": "2011-06-22",
+    "kind": "amend",
+    "phrase": "另,參照行政院農業委員會97年7月10日農授林字第0971655597號函釋說明三,水土保持計畫(簡易水土保持申報書)變更時,其山坡地開發利用回饋金之計算,依本辦法規定應以該計畫變更核定時之公告土地現值為計算基礎"
+   }
+  ]
+ },
+ "content_hash": "0a333d7dd20a6c61ea543d16fd85c769fdd44569878e77cff96dc4fc71615ddb",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-e5aa62d0b6",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第1031740365號",
+ "date": "2014-02-07",
+ "date_text": "103/02/07",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢從事農業整坡之水土保持計畫，是否須繳交山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、依據本會林務局案陳貴府103年1月22日府農育字第1030027512號函辦理。\n二、依據「山坡地開發利用回饋金繳交辦法」第8條第6款規定，屬依「水土保持計畫審核監督辦法」第3條第1款(從事農、林、漁、牧地之開發利用所需之修築農路)、第2款(從事農、林、漁、牧地之開發利用所需之整坡作業)或第4款(改善或維護既有道路)規定擬具簡易水土保持申報書，得免繳交回饋金。因此，須擬具水土保持計畫之農業整坡行為，並未符合前開規定，仍應核處回饋金。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000908?p=14",
+   "fetched_at": "2026-10-30T14:55:25+08:00",
+   "source_key": "forest:0000908"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f5ba97039dc43e413b6b4de53034b34b61480500762d85d245ecac9d5df204ff",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

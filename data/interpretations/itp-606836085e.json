@@ -1,0 +1,47 @@
+{
+ "id": "itp-606836085e",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0951740297號",
+ "date": "2006-03-08",
+ "date_text": "095/03/08",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "為災害復舊、搶修而提具水土保持計畫之案件，是否須繳交山坡地開發利用回饋金(以下簡稱本回饋金)1案，復如說明，請查照。",
+ "content": "一、復貴府95年2月24日北府農林字第0950078583號函。\n二、重申必要之緊急搶通或搶災之工程，倘屬依水土保持法第12條規定，必須擬具水土保持計畫，且無「山坡地開發利用回饋金繳交辦法」第四條、第八條所定免繳或視同已繳交之情況者，均須依法繳交本回饋金。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000529?p=82",
+   "fetched_at": "2026-10-30T15:11:40+08:00",
+   "source_key": "forest:0000529"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4f10e1e5b39be762e32bdf00697638a1cb51901206d7b585e9456c9cec0db4fc",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "78583號函。\n二、重申必要之緊急搶通或搶災之工程,倘屬依水土保持法第12條規定,必須擬具水土保持計畫,且無「山坡地開發利用回饋金繳交辦法」第四條、第八條所"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-c66bb22e1f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981740230號",
+ "date": "2009-02-24",
+ "date_text": "098/02/24",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關台東縣長濱鄉非造林戶使用林業用地實施栽植造林，其苗木(種苗)可否申請無償配撥疑義案，詳如說明，請查照。",
+ "content": "一、復貴府98年2月11日府原產字第0980002975號函。\n二、有關個人(非參加獎勵造林者)申請苗木，依本局苗木配撥管理作業流程之規定，請造林人備妥苗木申請相關資料(土地所有權證明文件影本、栽植位置示意圖、現況照片等)，逕向造林所在地鄉(鎮、市、區)公所或縣(市)政府提出申請;如受理單位苗木數量不足，再由各縣(市)政府函請本局或鄰近林區管理處協助調撥。\n正本：臺東縣政府\n副本：本局臺東林區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000440?p=53",
+   "fetched_at": "2026-10-30T15:04:43+08:00",
+   "source_key": "forest:0000440"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e3f52690e069b8e58f5265cda2ad4eef45971d3fed0b4c767334294dea3f04a5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

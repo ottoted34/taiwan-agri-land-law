@@ -1,0 +1,51 @@
+{
+ "id": "itp-8ce3d73b00",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1110223233號",
+ "date": "2022-06-08",
+ "date_text": "中華民國111年6月8日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "國有土地辦理農地變更程序毋須使用權人拋棄權利同意書",
+ "content": "二、農地變更使用，依契約之性質，尊重承租戶意願：在確保國有地既有承租戶(養殖漁民)權益，請貴部(財政部)督導太陽光電廠商務必與養殖漁民溝通，以避免衍生不必要爭議。\n三、如能確定變更土地範圍，本會同意進行農業用地變更審查：農業用地申請變更使用，須確認申請人具有使用該土地之權利，始有明確範圍據以審認是否符合農業主管機關同意農業用地變更使用審查作業要點之規定。爰針對國有土地部分，仍請貴部(財政部)明確開發土地範圍之農業用地變更使用說明書送本會辦理審查作業。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2022-06-08）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/766b59ed-0745-45b7-8a06-d761bdf69758?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:35+08:00",
+   "source_key": "talis:766b59ed-0745-45b7-8a06-d761bdf69758"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b46bbbf8754eba662e61ca9de34cb2fb99783d7c968e02c5b0e7f5e69161d70e",
+ "topics": [
+  "land_change",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "確認申請人具有使用該土地之權利,始有明確範圍據以審認是否符合農業主管機關同意農業用地變更使用審查作業要點之規定。爰針對國有土地部分,仍請貴部(財政部)明確開發土地範圍之農業用地變更使用"
+  }
+ ]
+}

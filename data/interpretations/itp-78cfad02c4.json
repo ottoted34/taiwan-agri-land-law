@@ -1,0 +1,59 @@
+{
+ "id": "itp-78cfad02c4",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0960169360號",
+ "date": "2007-12-20",
+ "date_text": "096/12/20",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢山坡地開發利用回饋金及農業用地變更回饋金疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年12月4日府農務字第0960246817號函。\n二、有關農業用地變更回饋金及山坡地開發利用回饋金，二者不重複收取之原則，係指申請案內同一開發利用或變更使用之土地，不重複收取回饋金。至於本案所提已依「山坡地開發利用回饋金繳交辦法」繳交山坡地開發利用回饋金;同案其餘非屬水土保持計畫面積或簡易水土保持計畫書之計畫面積，確未涉及山坡地開發利用回饋金繳交，另依法核算收取農業用地變更回饋金，本會認為無涉重複收取。\n三、至於本案是否為「農業用地變更回饋金撥繳及分配利用辦法」發布施行前已由政府受理審查之案件，而有本會89年10月6日農企字第890010348號函(附件一)及94年12月23日農企字第0940170383號函(附件二)之適用，建請貴府查明逕處。\n正本:彰化縣政府\n副本:本會企畫處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000593?p=62",
+   "fetched_at": "2026-10-30T15:06:51+08:00",
+   "source_key": "forest:0000593"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c7a14088ddc0960357d02174b1149fe673e9ce9c9ea3cf369e15a4e2accd7d62",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業用地變更回饋金,本會認為無涉重複收取。\n三、至於本案是否為「農業用地變更回饋金撥繳及分配利用辦法」發布施行前已由政府受理審查之案件,而有本會89年10月6日農企字第8900103"
+  }
+ ]
+}

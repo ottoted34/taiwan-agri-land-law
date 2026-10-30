@@ -1,0 +1,40 @@
+{
+ "id": "itp-dd0669fd4f",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920126388號",
+ "date": "2003-05-15",
+ "date_text": "092/05/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴府函詢推廣種植沉香木是否可行一案，復如說明，請 查照。",
+ "content": "一、復貴府九十二年四月二十八日屏府農林字第○九二○○六五九五九號函。\n二、本會林業試驗所未曾引進沉香作為育苗及造林之研究材料，無法評估其在臺灣地區的生長情形及在大面積推廣後是否會發生病蟲害與其對本土生態之影響。故本會目前並未將其列為「獎勵造林實施要點」所規定之獎勵造林樹種。惟本會將委請本會林業試驗所蒐集該樹種之資料並評估其栽植效益。\n三、目前沉香已有民間引入繁殖，惟如大面積栽植，其市場價格可能降低，林農收益可能不如預期。\n四、貴府函件之影本，本會將抄送本會林業試驗所參考。\n正本：屏東縣政府\n副本：本會林業試驗所（含屏東縣政府函件影本）",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000713?p=91",
+   "fetched_at": "2026-10-30T15:14:03+08:00",
+   "source_key": "forest:0000713"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c012e874a1eb27d4e90653b73775a8ed35bf8ef4ebc66746eb5494f98139f57b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

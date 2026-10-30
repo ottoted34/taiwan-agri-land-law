@@ -1,0 +1,40 @@
+{
+ "id": "itp-78e8fb0f6f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991611164號",
+ "date": "2010-06-09",
+ "date_text": "099/06/09",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄全民造林戶君承租國有財產局國有耕地是否適用獎勵輔導造林辦法規定，領取造林獎勵金疑義案，復如說明，請查照。",
+ "content": "一、復貴府99年6月3日府農林字第0990099681號函。\n二、本案經查○○○○君係於89年由貴府核准參加全民造林運動實施計畫，其造林面積0.11公頃，該系爭造林地屬承租國有財產局國有耕地，且租約據報自93年1月1日起至102年12月31日止，尚為存續期間。\n三、究本案主要系爭點為造林地得否續領造林獎勵金之疑義，因事涉造林人對該系爭造林地是否具有合法之土地使用權源，鑑於出租機關係屬國有財產局，建請貴府逕洽該局為宜。惟本案系爭造林地既已自89年參與造林迄今已逾10年，且造林人歷年受領造林獎勵金有案，基於信賴保護原則，造林人得否領取造林獎勵金乙節，仍請貴府併案考量並卓處。\n正本：苗栗縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000491?p=38",
+   "fetched_at": "2026-10-30T15:00:54+08:00",
+   "source_key": "forest:0000491"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b8ed40004294fe84b022b069958dc60f98740bd77274361da354c14b289db210",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

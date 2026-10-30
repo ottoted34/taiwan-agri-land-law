@@ -1,0 +1,40 @@
+{
+ "id": "itp-05591c8a01",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001657676號",
+ "date": "2011-06-21",
+ "date_text": "100/06/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問「員林東山墓園納骨牆增建工程」之疑義案，請 查照。",
+ "content": "一、依據水土保持局100年6月16日水保監字第1001862007號函(副本諒達)辦理。\n二、據水土保持局以首揭號函表示，本案經初步判斷，已構成水土保持計畫審核監督辦法第19條第1項應辦理變更設計之情事;據此建議貴府審視個案情節後依規辦理。是以，惠請貴府先審視本案是否應辦理水土保持計畫變更設計，再依山坡地開發利用回饋金繳交辦法第6條第3項規定「水土保持完工前，其原計畫面積遇有變更時，主管機關應依本辦法規定，重新計算本回饋金，並與原計算金額相抵後，無息多退少補。」，辦理回饋金核算事宜。\n正本：彰化縣政府\n副本：行政院農業委員會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000321?p=28",
+   "fetched_at": "2026-10-30T14:58:40+08:00",
+   "source_key": "forest:0000321"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0a784a1f0701dad704ab963d047fba77a33f19614f631310292703d2b4f6fa5c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

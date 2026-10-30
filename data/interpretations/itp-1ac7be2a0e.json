@@ -1,0 +1,40 @@
+{
+ "id": "itp-1ac7be2a0e",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971650909號",
+ "date": "2008-01-30",
+ "date_text": "097/01/30",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴府辦理本(97)年度全民造林運動實施計畫，有關事涉國有財產局移交本局之獎勵造林計畫林業用地疑義案，請依說明事項辦理，請查照。",
+ "content": "一、依據本局南投林區管理處97年1月28日投政字第0974210200號函副本辦理。\n二、本案據報本局南投林區管理處已接管之獎勵造林計畫林業用地計117筆，惟目前尚欠缺仁愛鄉4筆獎勵造林資料，且貴府未辦理造林地現地移交，此節與本局96年12月17日林造字第 0961740670號函說明顯有不符，是以，仍請貴府應於本(97) 年度於本計畫編列渠等造林地之造林獎勵金，並補送修正後本(97)年度旨揭計畫說明書暨97年度編列面積暨經費統計表過局，以符行政程序；合先敘明。\n三、至於造林地現地移交部分，仍請貴府於本(97)年度辦理造林成果檢測時，函請本局南投林區管理處派員會同承租人共同檢測，如未達檢測標準(或存有違規作物)者，應請承租人限期完成改正補植造林。\n正本:南投縣政府\n副本:本局南投林區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000483?p=61",
+   "fetched_at": "2026-10-30T15:06:42+08:00",
+   "source_key": "forest:0000483"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5a86c9eba799b7f033284e51c38043b0261a26923b0cbeceadac2c122b5dc97e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

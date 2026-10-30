@@ -1,0 +1,66 @@
+{
+ "id": "itp-cb1ae5c3de",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0931730077號",
+ "date": "2004-03-15",
+ "date_text": "093/03/15",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關「山坡地開發利用回饋金繳交辦法」規定繳交回饋金之時間點認定基準疑義案，復請查照。",
+ "content": "一、復貴府93年2月23日北府農林字第0930089746號函。\n二、查「山坡地開發利用回饋金繳交辦法」與「農業用地變更回饋金撥繳及分配利用辦法」有關回饋金繳交之時機有不同規定，本會對於前項回饋金之繳交基準日如何認定乙節，以91年11月5日農林字第0910157180號及93年1月29日農林字第0930104775號函復貴府有案。\n三、惟為期周延，本會近期將邀集北、高直轄市及各縣(市)政府就有關實務共同研商。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000308?p=89",
+   "fetched_at": "2026-10-30T15:13:22+08:00",
+   "source_key": "forest:0000308"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c5fbb213ee7e5f3204967ee1de229806f9f40eb6300304d37669f19fe68e217c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "089746號函。\n二、查「山坡地開發利用回饋金繳交辦法」與「農業用地變更回饋金撥繳及分配利用辦法」有關回饋金繳交之時機有不同規定,本會對於前項回饋金之繳交基準日如何認定乙節,以9"
+  }
+ ]
+}

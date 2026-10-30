@@ -1,0 +1,42 @@
+{
+ "id": "itp-8fc4ef0f54",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0960173078號",
+ "date": "2008-02-20",
+ "date_text": "097/02/20",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴轄、君等2人之山坡地開發利用回饋金(以下簡稱本回饋金)繳交疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年12月20日北府農林字第0960838737號函。\n二、主管機關核發水土保持完工證明書或廢止原核定水土保持計畫，則該水土保持處理之行政程序係屬終結，合先敘明。\n三、本案如未依核定計畫內容實施完成，貴府是否已廢止原核定水土保持計畫。請查明釐清後，依據本會94年9月2日農授林務字第0941740861號函釋之適用基準日，審慎衡酌是否有本回饋金之適用。\n四、另有關山坡地開發利用回饋金繳交辦法第8條第1項第4款規定，已繳交本回饋金舊有建物，經主管機關認定屬原地及原範圍或面積內改建或修建，本會前於96年4月18日農授林務字第0961740525號函釋是否免繳之適用疑義，併請查明逕復。\n正本：臺北縣政府\n副本：本會法規會、本會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000598?p=61",
+   "fetched_at": "2026-10-30T15:06:40+08:00",
+   "source_key": "forest:0000598"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "19a7b11ed1a3d6fad5cf97819a8dc3ad99c0a1826461511f459cf8acb78f65c5",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

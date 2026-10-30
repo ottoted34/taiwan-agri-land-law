@@ -1,0 +1,40 @@
+{
+ "id": "itp-f137b567fc",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001742055號",
+ "date": "2011-09-13",
+ "date_text": "100/09/13",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴府詢問造林地經查核有「限制登記:假扣押」情事，是否適合繼續核發造林直接給付案，復如說明，請 查照。",
+ "content": "一、復貴府100年9月2日府農林字第1000506250號函。\n二、查民事訴訟法第522條第1項規定「債權人就金錢請求或得易為金錢請求之請求，欲保全強制執行者，得聲請假扣押。」;第523條第1項「假扣押，非有日後不能強制執行或甚難執行之虞者，不得為之。」。依「平地造林直接給付及種苗配撥實施要點」第10點規定，經造林檢測合格，按其造林年度發給造林直接給付。是以，造林地遭法院裁定假扣押，倘未影響造林人繼續造林撫育之事實，依前開要點規定，似不能據以暫緩核發造林直接給付。惟造林人繼續造林撫育，是否會影響本案假扣押裁定，建請貴府先向法院確認為宜。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000374?p=26",
+   "fetched_at": "2026-10-30T14:58:09+08:00",
+   "source_key": "forest:0000374"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9571a8452b94159ae4add822d32313d7a86210cc14c97fbc3f668309a9a06ea9",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

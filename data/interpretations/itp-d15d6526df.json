@@ -1,0 +1,40 @@
+{
+ "id": "itp-d15d6526df",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001620990號",
+ "date": "2011-10-17",
+ "date_text": "100/10/17",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關非都市土地之山坡地申請「臨時工廠登記」，是否需繳納「山坡地開發利用回饋金」案，復如說明，請 查照。",
+ "content": "一、復貴辦公室100年10月11日經中一字第10000031030號函。\n二、依森林法第48條之1規定，山坡地開發利用者應繳交回饋金，作為造林基金來源之一。另依山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第4條規定，山坡地開發利用回饋金之繳交義務人，為擬具水土保持計畫或簡易水土保持申報書之水土保持義務人。本案倘須擬具水土保持計畫或簡易水土保持申報書，且無本辦法第8條各款免繳交回饋金情形者，依規應繳交山坡地開發利用回饋金。\n正本：經濟部中部辦公室\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000372?p=25",
+   "fetched_at": "2026-10-30T14:57:54+08:00",
+   "source_key": "forest:0000372"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "000c102e33b3187341608eea45ce6f6eec2f694f461bef8ad9351924d7f76857",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,57 @@
+{
+ "id": "itp-3f73ad38b2",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080734579號",
+ "date": "2019-12-17",
+ "date_text": "中華民國108年12月17日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "一般農業區土地內作為養殖魚塭兼綠能種電，是否影響申請農用證明之疑義",
+ "content": "有關養殖魚塭結合綠能設施之申請設置，係依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第29條規定，係為引導群聚發展，確保農業經營與綠能相容使用，故應由直轄市、縣(市)主管機關或國營事業統籌規劃可發展區域，以計畫引導利用，並擬具農業經營結合綠能之專案計畫，再送中央主管機關就計畫執行之可行性予以專案審查，申請人得於審查核准後之專案計畫範圍內，依容許辦法第4條規定申請設置地面型綠能設施。\n另，依據「農業用地作農業使用認定及核發證明辦法」第4條規定，農業用地上施設有農業設施，倘檢具容許使用同意書及建築執照，或從來使用之證明文件，且無該辦法第5條所定情況者，得認定作農業使用，故臺端所詢一般農業區內養殖魚塭結合綠能設施設置，倘依據上開規定檢附相關證明文件，且該筆農業用地確實作養殖使用，得據以審認核發農業用地作農業使用證明書，惟涉及個案申請屬地方政府權責，請逕向當地直轄市、縣(市)政府辦理。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-12-17）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/3659ae86-d687-4f0c-9741-1c6908945fa6?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:33+08:00",
+   "source_key": "talis:3659ae86-d687-4f0c-9741-1c6908945fa6"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0abf48c33f390ecdeb64d916b0a57769955b8d826d421fd32d05d52d8ae725a4",
+ "topics": [
+  "farm_use_cert",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "請農用證明之疑義\n有關養殖魚塭結合綠能設施之申請設置,係依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第29條規定,係為引導群聚發展,確保農業經營與綠能相容使用,"
+  },
+  {
+   "law_id": "M0020015",
+   "article": "4",
+   "kind": "extracted",
+   "snippet": "圍內,依容許辦法第4條規定申請設置地面型綠能設施。\n另,依據「農業用地作農業使用認定及核發證明辦法」第4條規定,農業用地上施設有農業設施,倘檢具容許使用同意書及建築執照,或從來使用之證明"
+  }
+ ]
+}

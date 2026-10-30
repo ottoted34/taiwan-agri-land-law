@@ -1,0 +1,55 @@
+{
+ "id": "itp-ff2c16804e",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1106013940號",
+ "date": "2021-07-27",
+ "date_text": "中華民國110年7月27日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "灌溉排水溝渠上架空興建太陽能設施，是否適用農業用地作農業設施容許使用",
+ "content": "一、 依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第2條第1項第2款規定，依都市計畫法劃定為農業區之土地，為農業用地範圍，始有容許辦法之適用，至都市計畫河川區非屬農業用地，尚無容許辦法之適用。\n二、 復依容許辦法第8章規定，農業用地倘擬設置綠能設施，應符合第28、29、30條所定之條件，始可設置。又屬地面型與農業經營相結合者，應位於第29條所定之專案計畫範圍內或區位範圍；至地面型免與農業經營使用相結合者，應位於第30條所定經公告之區位。\n三、 又查都市計畫法高雄市施行細則第18條附表1高雄市都市計畫土地使用分區管制項目一覽表十一、農業區，使用項目六、公用事業設施，係經目的事業主管機關徵詢農業主管機關意見後，並審查核准。故倘該項太陽能設施得認定為公用事業設施，得依上開程序申請。\n四、 至於都市計畫河川區因非屬農業用地，其土地申設地面型太陽能設施，請貴局逕向都市計畫或水利主管機關洽詢。\n五、 另於灌溉排水溝渠上架設太陽能板，請注意是否有影響灌溉水質、圳路結構安全及管理維護等相關問題。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-07-27）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/ceb7a16b-8b29-4fb4-9b2c-882bc46ec7b8?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:48+08:00",
+   "source_key": "talis:ceb7a16b-8b29-4fb4-9b2c-882bc46ec7b8"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "290dec125f1405b366867531648e7dd8c883a1a6b611caab7958408eb9529fa4",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "建太陽能設施,是否適用農業用地作農業設施容許使用\n一、 依據申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第2條第1項第2款規定,依都市計畫法劃定為農業區之土地,為農"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "許使用審查辦法(以下簡稱容許辦法)第2條第1項第2款規定,依都市計畫法劃定為農業區之土地,為農業用地範圍,始有容許辦法之適用,至都市計畫河川區非屬農業"
+  }
+ ]
+}

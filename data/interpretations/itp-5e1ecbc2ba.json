@@ -1,0 +1,40 @@
+{
+ "id": "itp-5e1ecbc2ba",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910134341號",
+ "date": "2002-07-11",
+ "date_text": "091/07/11",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關臺端陳請核發造林補助款一案，復如說明，請 查照。",
+ "content": "一、復臺端九十一年六月十七日陳請書。\n二、有關臺端所述新植造林時須先將地上樹木全部清除一節，依現行規定，新植造林時如造林地上已有部分天然下種之林木，可與造林木一併撫育成林，檢測成活率時與造林木併計成活率，因此不必為檢查成活率而將原生林木砍除。至於造林獎勵金之核發方式：新植造林獎勵金發給標準按檢測後新植造林成活株數與規定成活株樹比例發給，第二年以後之撫育及管理獎勵金則全額發給。\n三、另本案經查臺中縣政府前曾派員檢測臺端之造林地，係因檢測未合格─未達種植株樹規定，致未能核發造林獎勵金（詳如附件一），該府並已函請臺端補植後再申請檢測（詳如附件二）。本案仍請臺端依規定完成補植作業並經檢測合格後再予核發造林獎勵金。\n四、檢附「獎勵造林實施要點」一份供參。\n正本：○○○先生\n副本：臺中縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000730?p=95",
+   "fetched_at": "2026-10-30T15:14:51+08:00",
+   "source_key": "forest:0000730"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0482d2b9a0f8e55161a25375204ef11479aacb6d79eda6a30a37d9d3098878e3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

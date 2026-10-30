@@ -1,0 +1,42 @@
+{
+ "id": "itp-e76332369c",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011743275號",
+ "date": "2012-11-26",
+ "date_text": "101/11/26",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢申請農路及農業資材室之山坡地開發利用回饋金核算疑義案，復請 查照。",
+ "content": "一、復貴局101年11月12日北農林字第1012900945號函。\n二、有關民眾同時申請多項農業設施，得免繳交回饋金疑義，請參酌本局101年7月30日林造字第1011742090號函(正本諒達)。至於貴局擔心民眾是否會藉由增設免申請建築執照之農業設施，規避繳交回饋金疑慮，本局將於研修山坡地開發利用回饋金繳交辦法時，一併納入考量。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000857?p=18",
+   "fetched_at": "2026-10-30T14:56:18+08:00",
+   "source_key": "forest:0000857"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "170232abeb3305d97125c569f8b04a9bd9b109b1eef3047d7485d346d62efe3c",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

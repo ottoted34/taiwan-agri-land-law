@@ -1,0 +1,49 @@
+{
+ "id": "itp-0537b4981f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090252016號",
+ "date": "2020-12-14",
+ "date_text": "中華民國109年12月14日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "申請農業用地作農業設施容許使用審查辦法規定設置綠能設施為目的而使用農牧用地，得否於該農牧用地上設定地上權案",
+ "content": "一、 查民法第832條規定，稱普通地上權者，謂以在他人土地之上下有建築物或其他工作物為目的而使用其土地之權。又司法院85年7月5日釋字第408號解釋認為「設定地上權之土地，以適於建築房屋或設置其他工作物者為限，耕地既僅供耕作之用，自不適於建築房屋或設置其他工作物，性質上即不符設定地上權之要件。」貴部108 年5 月17 日臺內地字第1080262673號函已說明，經編定為農牧用地之土地，登記機關應不予受理申辦地上權設定登記，合先敘明。\n二、 按綠能設施雖屬申請農業用地作農業設施容許使用審查辦法所定之農業設施，惟究其性質，仍屬再生能源設施，且須符合該辦法規定，始得設置於農牧用地，故農牧用地申請綠能設施容許使用，係為特許之行為，並非擁有農牧用地，即可作為設置綠能設施使用。基於農牧用地編定本質係作與農業生產經營相關之使用，農牧用地不論其申請設施項目為何，均不適於設定地上權，以符合農地農用之政策目的。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2020-12-14）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/16687a55-d813-4480-9b1e-8751aa1deeca?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:14+08:00",
+   "source_key": "talis:16687a55-d813-4480-9b1e-8751aa1deeca"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5f353e316869ebabe029dc2c1e2bd12296fb76d49be8d31179062c3bc387e124",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請農業用地作農業設施容許使用審查辦法規定設置綠能設施為目的而使用農牧用地,得否於該農牧用地上設定地上權案\n一、 查民"
+  }
+ ]
+}

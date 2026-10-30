@@ -1,0 +1,40 @@
+{
+ "id": "itp-6ea480cf90",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0960166895號",
+ "date": "2007-12-05",
+ "date_text": "096/12/05",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關股份有限公司輸變電工程處南區施工處辦理「高港(丙)超高壓變電所土建統包新建工程」，是否應繳交山坡地開發利用回饋金疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年11月23日府農自字第0960263117號函。\n二、本案建請貴府先行釐清原申請山坡地開發案件受理日期、原水土保持計畫核定日期及水土保持計畫變更核定日期為何，並確認本案與原申請開發案件是否為同一案件，另請貴府釐清來函所稱之「延續性計畫」所指為何?\n三、請貴府確認前揭相關疑義後，逕就相關法規及本會曾經函釋之內容，判斷是否需繳交山坡地開發利用回饋金。\n正本: 高雄縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000592?p=62",
+   "fetched_at": "2026-10-30T15:07:00+08:00",
+   "source_key": "forest:0000592"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "63f93874c3a3940d2673afba1dcbccb62ddc84dbf482295ed41ba0d7b8b45c55",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

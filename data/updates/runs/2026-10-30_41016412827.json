@@ -1,0 +1,7320 @@
+{
+ "run_id": "41016412827",
+ "mode": "weekly",
+ "started_at": "2026-10-30T14:50:23+08:00",
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "status": "ok",
+   "complete": true,
+   "added": 948,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 2,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 1053,
+   "notes": [
+    "列表 103 頁，本次讀取 103 頁、1022 筆，符合收錄範圍 950 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：2 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "talis-green-energy",
+   "status": "ok",
+   "complete": true,
+   "added": 81,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 31,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 126,
+   "notes": [
+    "列表 14 頁，本次讀取 14 頁、112 筆，符合收錄範圍 112 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：31 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "local-taichung",
+   "status": "ok",
+   "complete": true,
+   "added": 6,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 2,
+   "rejected": 2,
+   "failed": 2,
+   "missing_flagged": 0,
+   "requests": 72,
+   "notes": [
+    "FL035348 官方名稱「廢 臺中縣陸上魚塭養殖漁業登記及管理規則(原繼續適用)」與設定「臺中縣陸上魚塭養殖漁業登記及管理規則(原繼續適用)」不同（可能已修正名稱），以官方為準",
+    "GL001239 官方名稱「廢 臺中縣陸上漁塭養殖漁業登記及管理規則(原繼續適用)」與設定「臺中縣陸上漁塭養殖漁業登記及管理規則(原繼續適用)」不同（可能已修正名稱），以官方為準"
+   ],
+   "errors": [
+    "廢 臺中縣陸上魚塭養殖漁業登記及管理規則(原繼續適用) 驗證失敗：無任何條文",
+    "廢 臺中縣陸上漁塭養殖漁業登記及管理規則(原繼續適用) 驗證失敗：無任何條文"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-558e7ae58a",
+   "docno": "農林業字第1152440541號",
+   "date": "2026-10-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-389436d1a2",
+   "docno": "農授林業字第1152221240號",
+   "date": "2026-10-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-92c97d4682",
+   "docno": "農授林業字第1152220818號",
+   "date": "2026-10-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8d845c06c7",
+   "docno": "農授林業字第1150237890號",
+   "date": "2026-09-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-93bf1d4029",
+   "docno": "農授林業字第1152219945號",
+   "date": "2026-09-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7faaa8e3d7",
+   "docno": "農授林業字第1152222011號",
+   "date": "2026-09-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ebbc25dbcf",
+   "docno": "農授林業字第1152214947號",
+   "date": "2026-07-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-60b7ce0079",
+   "docno": "農授林業字第1152212640號",
+   "date": "2026-06-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3fe41a91a2",
+   "docno": "農授林業字第1152213342號",
+   "date": "2026-06-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-199541b9f1",
+   "docno": "農授林業字第1150222688號",
+   "date": "2026-06-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1c900bf19a",
+   "docno": "農授林業字第1152213366號",
+   "date": "2026-06-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2de09622a5",
+   "docno": "林產字第1152213863號",
+   "date": "2026-06-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7b63691bdf",
+   "docno": "林產字第1152214456號",
+   "date": "2026-06-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ce2913ba78",
+   "docno": "農授林業字第1152210142號",
+   "date": "2026-05-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c769f2939d",
+   "docno": "農授林業字第1152209743號",
+   "date": "2026-05-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e8a5ddbbfe",
+   "docno": "農授林業字第1152210948號",
+   "date": "2026-05-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8c535ad62a",
+   "docno": "林產字第1152210495號",
+   "date": "2026-04-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7422ee5b69",
+   "docno": "農授林業字第1152208836號",
+   "date": "2026-04-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5b987eba65",
+   "docno": "農授林業字第1152208480號",
+   "date": "2026-04-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0ba2f56883",
+   "docno": "農授林業字第1152207151號",
+   "date": "2026-04-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0d32054fe1",
+   "docno": "農授林業字第1152206431號",
+   "date": "2026-04-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5f105c8597",
+   "docno": "農授林業字第1152205450號",
+   "date": "2026-04-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-77702b5ed9",
+   "docno": "農授林業字第1150209472號",
+   "date": "2026-04-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6f2f2d113e",
+   "docno": "農授林業字第1152206580號",
+   "date": "2026-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-54660bce48",
+   "docno": "農授林業字第1140259098號",
+   "date": "2026-03-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-812b4173c4",
+   "docno": "農授林業字第1152204037號",
+   "date": "2026-03-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c22f25340e",
+   "docno": "林產字第1152204608號",
+   "date": "2026-03-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fc7994bd66",
+   "docno": "農授林業字第1152204167號",
+   "date": "2026-02-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-911e4684da",
+   "docno": "農授林業字第1142229671號",
+   "date": "2025-12-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1e83a98a87",
+   "docno": "農林業字第1142223727號",
+   "date": "2025-11-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-73cd2c1398",
+   "docno": "農授林業字第1140710813號",
+   "date": "2025-06-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f322637911",
+   "docno": "農授林業字第1142214063號",
+   "date": "2025-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-50d35ae1d2",
+   "docno": "農林業字第1132220616號",
+   "date": "2025-04-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3039db9fc9",
+   "docno": "農授林業字第1142206330號",
+   "date": "2025-04-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1722c1f697",
+   "docno": "農授林業字第1130253816號",
+   "date": "2025-01-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e1188401f2",
+   "docno": "農授林業字第1130250292號",
+   "date": "2024-12-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-654620c3b2",
+   "docno": "農林業字第1130715269A號",
+   "date": "2024-10-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a36687cf22",
+   "docno": "農授林業字第1130235891號",
+   "date": "2024-08-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a69279339c",
+   "docno": "農授林業字第1130226446號",
+   "date": "2024-07-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2535655bbb",
+   "docno": "農林業字第1130205762號",
+   "date": "2024-06-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-124027e3c7",
+   "docno": "農授林業字第1132212115號",
+   "date": "2024-05-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-35806899d6",
+   "docno": "農授林業字第1132207936號",
+   "date": "2024-04-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f070fc723a",
+   "docno": "農授林業字第1132206872號",
+   "date": "2024-03-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-28c4279b9a",
+   "docno": "農授林業字第1121638936號",
+   "date": "2024-01-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c46fbdc062",
+   "docno": "農授林業字第1121623940號",
+   "date": "2023-11-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8e1dbd440a",
+   "docno": "農授林務字第1121619885號",
+   "date": "2023-07-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-eeb7403054",
+   "docno": "林造字第1121613588號",
+   "date": "2023-06-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-98edcd6054",
+   "docno": "農授林務字第1121605961號",
+   "date": "2023-04-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b9957df0e7",
+   "docno": "農授林務字第1121602082號",
+   "date": "2023-03-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f856706b06",
+   "docno": "農林務字第1111740672號",
+   "date": "2023-02-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f6b86bcdfa",
+   "docno": "農林務字第1111634550號",
+   "date": "2022-12-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9338a5ae82",
+   "docno": "農授林務字第1111632694號",
+   "date": "2022-12-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9784e5e80a",
+   "docno": "林政字第1111720684號",
+   "date": "2022-07-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-38673096df",
+   "docno": "林造字第1111740322號",
+   "date": "2022-06-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6b02b18f51",
+   "docno": "林政字第1101720486號",
+   "date": "2021-05-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-198ad4dd3f",
+   "docno": "農授林務字第1100204392號",
+   "date": "2021-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f63cb5fab9",
+   "docno": "農授林務字第1100206611號",
+   "date": "2021-03-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-61488918e1",
+   "docno": "農授林務字第1090242443號",
+   "date": "2020-11-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-087d078d11",
+   "docno": "農林務字第1090215704號",
+   "date": "2020-06-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fe2366cfb2",
+   "docno": "農授林務字第1081609779號",
+   "date": "2019-10-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-429ed07673",
+   "docno": "農授林務字第1081629024號",
+   "date": "2019-10-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c5d9b6fe7a",
+   "docno": "農授林務字第1071672458號",
+   "date": "2019-07-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7a38daa55c",
+   "docno": "農授林務字第1081619982號",
+   "date": "2019-07-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cc0702f0ae",
+   "docno": "農授林務字第1070238693號",
+   "date": "2018-11-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-899b9a5e24",
+   "docno": "農授林務字第1071666221號",
+   "date": "2018-10-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-21d3073dff",
+   "docno": "農林務字第1070229476號",
+   "date": "2018-09-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4232d92c7e",
+   "docno": "農授林務字第1070235695號",
+   "date": "2018-09-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a45ea70b78",
+   "docno": "農林務字第1070232437號",
+   "date": "2018-08-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-27fb1e4547",
+   "docno": "農授林務字第1071663239號",
+   "date": "2018-08-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7a3859e712",
+   "docno": "農林務字第1071600836號",
+   "date": "2018-05-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3af5617e12",
+   "docno": "林造字第1071658813號",
+   "date": "2018-05-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cd0bb519fc",
+   "docno": "農授林務字第1071605071號",
+   "date": "2018-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d8df15e149",
+   "docno": "農授林務字第1071655495號",
+   "date": "2018-04-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8676df01c5",
+   "docno": "農林務字第1070208693號",
+   "date": "2018-04-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f37a498a2a",
+   "docno": "農授林務字第1070703205號",
+   "date": "2018-03-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-568dd316f3",
+   "docno": "農授林務字第1071651159號",
+   "date": "2018-02-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2251f4230a",
+   "docno": "農授林務字第1071740064號",
+   "date": "2018-01-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b06bb3b054",
+   "docno": "農林務字第1071740070號",
+   "date": "2018-01-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a9fa65dc4e",
+   "docno": "農林務字第1041740435號",
+   "date": "2015-03-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ba0f8da51f",
+   "docno": "農林務字第1031667199號",
+   "date": "2015-01-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9b49de6ad4",
+   "docno": "林企字第1031666849號",
+   "date": "2015-01-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3f08bd0ecd",
+   "docno": "林造字第1031742791號",
+   "date": "2014-11-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4e6fb3036c",
+   "docno": "林企字第1031665329號",
+   "date": "2014-11-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d39ff20c14",
+   "docno": "林造字第1031742710號",
+   "date": "2014-11-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bbe80e8e4c",
+   "docno": "林造字第1031742699號",
+   "date": "2014-11-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0a172f43bb",
+   "docno": "林造字第1031742683號",
+   "date": "2014-11-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-12638fcb27",
+   "docno": "林造字第1031742565號",
+   "date": "2014-10-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ff8ac5e48c",
+   "docno": "林造字第1031742295號",
+   "date": "2014-09-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d32daaf74f",
+   "docno": "農授林務字第1030990667號",
+   "date": "2014-09-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2bde0e7a00",
+   "docno": "農授林務字第1030229048號",
+   "date": "2014-09-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-38b639bdc7",
+   "docno": "農企字第1030218231號",
+   "date": "2014-06-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-711fa7f8b3",
+   "docno": "農授林務字第1031741214號",
+   "date": "2014-05-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e6bd85a185",
+   "docno": "農林務字第1031741213號",
+   "date": "2014-05-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-53ac2eff25",
+   "docno": "林造字第1031741057號",
+   "date": "2014-04-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-eb3dac4aad",
+   "docno": "農林務字第1031740678號",
+   "date": "2014-03-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0276cf6727",
+   "docno": "農林務字第1031740254號",
+   "date": "2014-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7a9361ced2",
+   "docno": "林造字第1031740586號",
+   "date": "2014-03-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e5aa62d0b6",
+   "docno": "農授林務字第1031740365號",
+   "date": "2014-02-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-75162c0611",
+   "docno": "林造字第1021742875號",
+   "date": "2013-12-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-69d396696b",
+   "docno": "農林務字第1021711566號",
+   "date": "2013-11-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-794847a91a",
+   "docno": "農授林務字第1020233722號",
+   "date": "2013-11-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3b2814fc90",
+   "docno": "農林務字第1021742852號",
+   "date": "2013-11-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-28354591fb",
+   "docno": "農林務字第1020222693號",
+   "date": "2013-10-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-db3d0f5e28",
+   "docno": "農林務字第1020230542號",
+   "date": "2013-09-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5dccdf167d",
+   "docno": "林造字第1021742204號",
+   "date": "2013-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c2b6529141",
+   "docno": "林造字第1021614788號",
+   "date": "2013-08-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c9b6db49a7",
+   "docno": "農林務字第1021710923號",
+   "date": "2013-06-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aa4da840f3",
+   "docno": "農林務字第1021741393號",
+   "date": "2013-05-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e34af02fbf",
+   "docno": "農林務字第1021741350號",
+   "date": "2013-05-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-05d0b1fa50",
+   "docno": "農林務字第1020212519號",
+   "date": "2013-05-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5561772e41",
+   "docno": "林造字第1021741285號",
+   "date": "2013-04-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6fd3514d49",
+   "docno": "中區國稅二第1020004742號",
+   "date": "2013-04-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-48e9b5ea0e",
+   "docno": "林造字第1021741252號",
+   "date": "2013-04-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-620565dd6f",
+   "docno": "農授林務字第1021741225號",
+   "date": "2013-04-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fafd282ecd",
+   "docno": "林造字第1021740459號",
+   "date": "2013-04-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5641349533",
+   "docno": "農授林務字第1021740888號",
+   "date": "2013-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cb7448dbce",
+   "docno": "林造字第1021740887號",
+   "date": "2013-03-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9d6512cada",
+   "docno": "林造字第1021740755號",
+   "date": "2013-03-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bcbb8da1ed",
+   "docno": "林造字第1021740706號",
+   "date": "2013-03-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e88f9415de",
+   "docno": "林造字第1021740181號",
+   "date": "2013-02-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-25962303d0",
+   "docno": "林造字第1021740426號",
+   "date": "2013-02-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-acc64b1d0c",
+   "docno": "林造字第1021740171號",
+   "date": "2013-02-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8632077201",
+   "docno": "林企字第1021710201號",
+   "date": "2013-02-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0aa27d898a",
+   "docno": "林造字第1021740284號",
+   "date": "2013-01-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c85c923fcf",
+   "docno": "農林務字第1021740282號",
+   "date": "2013-01-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-db23987f46",
+   "docno": "農授林務字第1021710170號",
+   "date": "2013-01-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-66c356663e",
+   "docno": "農授林務字第1021740111號",
+   "date": "2013-01-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b052c588b5",
+   "docno": "林企字第1011712094號",
+   "date": "2013-01-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ed221ac532",
+   "docno": "林造字第1011743519號",
+   "date": "2012-12-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e8c9fa86f2",
+   "docno": "農林務字第1011665006號",
+   "date": "2012-12-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-639e69f03b",
+   "docno": "林造字第1011742666號",
+   "date": "2012-12-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4c9d2ceda2",
+   "docno": "農授林務字第1011711956號",
+   "date": "2012-11-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e76332369c",
+   "docno": "林造字第1011743275號",
+   "date": "2012-11-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-18ffab737b",
+   "docno": "農林務字第1011743158號",
+   "date": "2012-11-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-42be0bb004",
+   "docno": "林造字第1011743121號",
+   "date": "2012-11-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-746d63a1d7",
+   "docno": "農林務字第1011742883號",
+   "date": "2012-11-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2d4d38ecec",
+   "docno": "林造字第1011743103號",
+   "date": "2012-11-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4860b0b133",
+   "docno": "農林務字第1011742933號",
+   "date": "2012-11-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-74cb5133c6",
+   "docno": "林企字第1011711780號",
+   "date": "2012-11-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0185ac371a",
+   "docno": "農林務字第1011742780號",
+   "date": "2012-10-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-69940d0db2",
+   "docno": "林造字第1011742779號",
+   "date": "2012-10-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2e1f947d68",
+   "docno": "林造字第1011662188號",
+   "date": "2012-09-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c3153f1f37",
+   "docno": "林造字第1011742558號",
+   "date": "2012-09-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e0957d649a",
+   "docno": "林造字第1011742384號",
+   "date": "2012-08-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1eb7699644",
+   "docno": "林企字第1011659470號",
+   "date": "2012-08-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-674f859b9a",
+   "docno": "林造字第1011742090號",
+   "date": "2012-07-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cbdd3b586d",
+   "docno": "林造字第1011742065號",
+   "date": "2012-07-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5ce780975e",
+   "docno": "農授林務字第1011658151號",
+   "date": "2012-07-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-57a8bf7c86",
+   "docno": "農授林務字第1011741824號",
+   "date": "2012-06-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6c79dfbac9",
+   "docno": "農林務字第1011741798號",
+   "date": "2012-06-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c445069003",
+   "docno": "農林務字第1011740384號",
+   "date": "2012-06-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-da9055b9b5",
+   "docno": "農授林務字第1011710954號",
+   "date": "2012-06-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-52f8504396",
+   "docno": "農林務字第1011741525號",
+   "date": "2012-05-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9f3b7026b5",
+   "docno": "林企字第1011710853號",
+   "date": "2012-05-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3d76abe6fd",
+   "docno": "林造字第1011741144號",
+   "date": "2012-04-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ceed1a2ca1",
+   "docno": "農林務字第1011740941號",
+   "date": "2012-04-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-67a2f033a0",
+   "docno": "林造字第1011740938號",
+   "date": "2012-04-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0061ec50ae",
+   "docno": "林造字第1011740612號",
+   "date": "2012-04-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c937e8a1e9",
+   "docno": "林造字第1011654275號",
+   "date": "2012-04-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e66c51f890",
+   "docno": "農授林務字第1011740819號",
+   "date": "2012-04-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-61163a8646",
+   "docno": "林造字第1011740847號",
+   "date": "2012-04-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d6b2e8e603",
+   "docno": "林企字第1011606435號",
+   "date": "2012-03-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0150fda1a3",
+   "docno": "林造字第1011740748號",
+   "date": "2012-03-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aa7f15e527",
+   "docno": "農授林務字第1010713373號",
+   "date": "2012-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cef977e946",
+   "docno": "林造字第1011605838號",
+   "date": "2012-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb86861bf0",
+   "docno": "林造字第1011740656號",
+   "date": "2012-03-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4b113a2900",
+   "docno": "林造字第1011740619號",
+   "date": "2012-03-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5bd1139e3f",
+   "docno": "林造字第1011652501號",
+   "date": "2012-03-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-04cfcaa0db",
+   "docno": "林造字第1011740513號",
+   "date": "2012-03-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-48795ac3ca",
+   "docno": "林造字第1011603445號",
+   "date": "2012-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0adbc4ccf8",
+   "docno": "林造字第1011651603號",
+   "date": "2012-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c02c9332d4",
+   "docno": "林造字第1011603390號",
+   "date": "2012-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-56d2c1da22",
+   "docno": "林造字第1011603292號",
+   "date": "2012-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8860068092",
+   "docno": "林造字第1011740366號",
+   "date": "2012-02-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2f51b6c607",
+   "docno": "林造字第1010706438號",
+   "date": "2012-02-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-261801f73e",
+   "docno": "林造字第1011740352號",
+   "date": "2012-02-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c3457c1866",
+   "docno": "林造字第1011740351號",
+   "date": "2012-02-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f51dc43fb3",
+   "docno": "林造字第1011602422號",
+   "date": "2012-02-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-af3d6ef2e1",
+   "docno": "林造字第1011740222號",
+   "date": "2012-01-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-88dcc04971",
+   "docno": "林造字第1001665843號",
+   "date": "2011-12-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-26441818d4",
+   "docno": "林造字第1001626759號",
+   "date": "2011-12-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-01ee2e1df1",
+   "docno": "林造字第1001625265號",
+   "date": "2011-12-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5164a3331a",
+   "docno": "林造字第1001665362號",
+   "date": "2011-12-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-92864671e2",
+   "docno": "林造字第1001664926號",
+   "date": "2011-12-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9c4d0e4989",
+   "docno": "林造字第1001664868號",
+   "date": "2011-12-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6e0329a53e",
+   "docno": "農授林務字第1001742757號",
+   "date": "2011-12-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dac44108c8",
+   "docno": "林造字第1001664797號",
+   "date": "2011-12-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0409738b06",
+   "docno": "林造字第1001742716號",
+   "date": "2011-12-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6bbe8ec121",
+   "docno": "林造字第1001742550號",
+   "date": "2011-11-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-db147162d3",
+   "docno": "林造字第1001742578號",
+   "date": "2011-11-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-efa0c33cf2",
+   "docno": "林造字第1001742370號",
+   "date": "2011-11-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-52d5bf46fb",
+   "docno": "林造字第1001663176號",
+   "date": "2011-11-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cb4404bc57",
+   "docno": "農授林務字第1000168791號",
+   "date": "2011-11-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7962a9d7b3",
+   "docno": "林造字第1001622164號",
+   "date": "2011-10-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5b784ccbbc",
+   "docno": "林造字第1001742419號",
+   "date": "2011-10-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d15d6526df",
+   "docno": "林造字第1001620990號",
+   "date": "2011-10-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ff5d9b9b9e",
+   "docno": "農林務字第1000156314號",
+   "date": "2011-10-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-308b58fcb0",
+   "docno": "農授林務字第1001742220號",
+   "date": "2011-10-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-01798e7f40",
+   "docno": "林造字第1001662193號",
+   "date": "2011-10-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-95f8f7592d",
+   "docno": "林造字第1001742190號",
+   "date": "2011-10-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-75fc08e70a",
+   "docno": "林造字第1001661666號",
+   "date": "2011-09-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b1e483a517",
+   "docno": "林造字第1000159406號",
+   "date": "2011-09-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-209e6e7990",
+   "docno": "林造字第1001661623號",
+   "date": "2011-09-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4eb0313a38",
+   "docno": "林造字第1001742088號",
+   "date": "2011-09-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6232513bfe",
+   "docno": "農林務字第1000156722號",
+   "date": "2011-09-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f137b567fc",
+   "docno": "林造字第1001742055號",
+   "date": "2011-09-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-53342077bb",
+   "docno": "林造字第1001660954號",
+   "date": "2011-09-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-16d0a888b6",
+   "docno": "林造字第1001741998號",
+   "date": "2011-09-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d85a667e81",
+   "docno": "林造字第1001617927號",
+   "date": "2011-09-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-96ce247298",
+   "docno": "林造字第1001741990號",
+   "date": "2011-08-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-399134e88b",
+   "docno": "林造字第1001741979號",
+   "date": "2011-08-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-384ec5e668",
+   "docno": "林造字第1001660670號",
+   "date": "2011-08-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-84f4cc9fb6",
+   "docno": "林造字第1001616750號",
+   "date": "2011-08-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8518633bec",
+   "docno": "農授林務字第1001660107號",
+   "date": "2011-08-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fd221d6d1d",
+   "docno": "農授林務字第1001741707號",
+   "date": "2011-08-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-64572bdccc",
+   "docno": "林造字第1001741696號",
+   "date": "2011-07-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b8fc04f013",
+   "docno": "農授林務字第1001615009號",
+   "date": "2011-07-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-177d072c95",
+   "docno": "林造字第1001741623號",
+   "date": "2011-07-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7dde4aa1e8",
+   "docno": "林造字第1001741604號",
+   "date": "2011-07-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6b6bec77db",
+   "docno": "林造字第1001741592號",
+   "date": "2011-07-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f43258ef59",
+   "docno": "林造字第1001741540號",
+   "date": "2011-07-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5700280557",
+   "docno": "林造字第1001741454號",
+   "date": "2011-07-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bcdc385e80",
+   "docno": "農輔字第1000050721號",
+   "date": "2011-06-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d8c2bb7c18",
+   "docno": "林造字第1001741434號",
+   "date": "2011-06-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-785c617814",
+   "docno": "林造字第1001741364號",
+   "date": "2011-06-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a9f6ddb185",
+   "docno": "林造字第1001741333號",
+   "date": "2011-06-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-05591c8a01",
+   "docno": "林造字第1001657676號",
+   "date": "2011-06-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fd5f93a93d",
+   "docno": "林造字第1001657495號",
+   "date": "2011-06-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-afb1d1aff4",
+   "docno": "林造字第1001741311號",
+   "date": "2011-06-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e300a1d571",
+   "docno": "林造字第1001612290號",
+   "date": "2011-06-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f3c613ad75",
+   "docno": "林造字第1001741272號",
+   "date": "2011-06-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-87f0d2bd8d",
+   "docno": "林造字第1000136326號",
+   "date": "2011-06-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-06186f6c03",
+   "docno": "農林務字第1001741252號",
+   "date": "2011-06-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d668ac6622",
+   "docno": "農林務字第1001741251號",
+   "date": "2011-06-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1ab02842d0",
+   "docno": "林造字第1001611008號",
+   "date": "2011-05-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-013e93cf83",
+   "docno": "林造字第1001741156號",
+   "date": "2011-05-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-688be4070e",
+   "docno": "林造字第1001741118號",
+   "date": "2011-05-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-872a447a6c",
+   "docno": "林造字第1001656650號",
+   "date": "2011-05-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3dd7022b42",
+   "docno": "林造字第1001656621號",
+   "date": "2011-05-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7c2ab93574",
+   "docno": "林造字第1001656460號",
+   "date": "2011-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-531650441c",
+   "docno": "林造字第1001740890號",
+   "date": "2011-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2315a299b1",
+   "docno": "林造字第1001740874號",
+   "date": "2011-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ea0504b410",
+   "docno": "林造字第1001740873號",
+   "date": "2011-04-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-020d928d85",
+   "docno": "林造字第1001740872號",
+   "date": "2011-04-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-39f0047562",
+   "docno": "林造字第1001740889號",
+   "date": "2011-04-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f6ac3b950b",
+   "docno": "林造字第1001607522號",
+   "date": "2011-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f74c3c15b4",
+   "docno": "林造字第1001607503號",
+   "date": "2011-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-425cd841b4",
+   "docno": "林造字第1001653886號",
+   "date": "2011-03-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c8e8626cb1",
+   "docno": "林造字第1001740659號",
+   "date": "2011-03-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b7b40d7009",
+   "docno": "林造字第1001653545號",
+   "date": "2011-03-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f7419f163d",
+   "docno": "林造字第1001605266號",
+   "date": "2011-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-36fd12a0c8",
+   "docno": "林造字第1001740510號",
+   "date": "2011-03-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-91df96426a",
+   "docno": "林造字第1001604736號",
+   "date": "2011-03-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7887902f6b",
+   "docno": "林造字第1001604632號",
+   "date": "2011-03-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-98f228d164",
+   "docno": "林造字第1001740506號",
+   "date": "2011-03-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a90a6c3875",
+   "docno": "林造字第1001740484號",
+   "date": "2011-03-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f0ec86dff5",
+   "docno": "林造字第1001740483號",
+   "date": "2011-03-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a96fc48b33",
+   "docno": "林造字第1001740445號",
+   "date": "2011-03-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bc4fadc39c",
+   "docno": "林造字第1001740430號",
+   "date": "2011-03-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5298e24004",
+   "docno": "林造字第1001740367號",
+   "date": "2011-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f27b19557c",
+   "docno": "林造字第1001740254號",
+   "date": "2011-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-71d7e346ab",
+   "docno": "林造字第1001740252號",
+   "date": "2011-02-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-75c04b4a7c",
+   "docno": "林造字第1001740259號",
+   "date": "2011-02-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f4e35eedda",
+   "docno": "林造字第1001740256號",
+   "date": "2011-02-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-730be13318",
+   "docno": "林造字第1001740201號",
+   "date": "2011-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6fee03a79e",
+   "docno": "林造字第1001740173號",
+   "date": "2011-01-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-153a23cfce",
+   "docno": "林造字第1001740153號",
+   "date": "2011-01-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a4c025f202",
+   "docno": "林造字第1001740136號",
+   "date": "2011-01-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4c06444066",
+   "docno": "林造字第1001740106號",
+   "date": "2011-01-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a2beb2eb3a",
+   "docno": "林造字第0991742768號",
+   "date": "2011-01-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-16d982859e",
+   "docno": "林造字第1001740010號",
+   "date": "2011-01-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-75d865ad1e",
+   "docno": "林造字第0991742837號",
+   "date": "2011-01-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-10d1a34d79",
+   "docno": "林造字第0991742793號",
+   "date": "2010-12-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ef68b19c05",
+   "docno": "林造字第0991742816號",
+   "date": "2010-12-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aede61d57a",
+   "docno": "林造字第0991624135號",
+   "date": "2010-12-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f26591228a",
+   "docno": "林造字第0991742721號",
+   "date": "2010-12-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1094e147ca",
+   "docno": "林造字第0991665284號",
+   "date": "2010-12-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-528deb291f",
+   "docno": "林造字第0991622926號",
+   "date": "2010-12-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-eac191848b",
+   "docno": "林造字第0991742576號",
+   "date": "2010-11-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2b10a6e097",
+   "docno": "林造字第0991664213號",
+   "date": "2010-11-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b845d407d2",
+   "docno": "林造字第0991742532號",
+   "date": "2010-11-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-af5e075267",
+   "docno": "農林務字第0991742501號",
+   "date": "2010-11-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6cd8ba4ef2",
+   "docno": "林造字第0990177305號",
+   "date": "2010-11-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b74af6fcfe",
+   "docno": "農授林務字第0991742391號",
+   "date": "2010-11-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c9d9315965",
+   "docno": "林造字第0991742291號",
+   "date": "2010-10-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-be0a858d52",
+   "docno": "林造字第0991742300號",
+   "date": "2010-10-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ce40a89df9",
+   "docno": "林造字第0991742196號",
+   "date": "2010-10-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-12d5278139",
+   "docno": "林造字第0991742279號",
+   "date": "2010-10-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2f414b470f",
+   "docno": "林造字第0991742194號",
+   "date": "2010-10-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2c6cf3d61b",
+   "docno": "林造字第0991742195號",
+   "date": "2010-10-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e97ace5995",
+   "docno": "農授林務字第0991742198號",
+   "date": "2010-10-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4d2e36f59a",
+   "docno": "林造字第0991742077號",
+   "date": "2010-09-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0c0ffdd603",
+   "docno": "林造字第0991741998號",
+   "date": "2010-09-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e210e7fcf9",
+   "docno": "林造字第0991741996號",
+   "date": "2010-09-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bf7cda756d",
+   "docno": "林造字第0991741931號",
+   "date": "2010-09-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2a4170b115",
+   "docno": "林造字第0991741942號",
+   "date": "2010-09-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c6f7f6c245",
+   "docno": "林造字第0991741885號",
+   "date": "2010-09-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3de7920960",
+   "docno": "林造字第0991660578號",
+   "date": "2010-08-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6c0e147c14",
+   "docno": "林造字第0990157239號",
+   "date": "2010-08-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0032c8f66c",
+   "docno": "林造字第0991741890號",
+   "date": "2010-08-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1fb39e6c82",
+   "docno": "林造字第0991741851號",
+   "date": "2010-08-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1eb85da92c",
+   "docno": "林造字第0991741797號",
+   "date": "2010-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-17bbc756a7",
+   "docno": "林造字第0991741786號",
+   "date": "2010-08-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6cd793180b",
+   "docno": "林造字第0991741781號",
+   "date": "2010-08-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-82189db3c3",
+   "docno": "林造字第0991741670號",
+   "date": "2010-07-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb6265609f",
+   "docno": "林造字第0991741633號",
+   "date": "2010-07-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1bcee1d8f4",
+   "docno": "林政字第0991721678號",
+   "date": "2010-07-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c522cc5047",
+   "docno": "林造字第0991741589號",
+   "date": "2010-07-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c6d589293b",
+   "docno": "林造字第0991741548號",
+   "date": "2010-07-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-86713aa618",
+   "docno": "林造字第0991741573號",
+   "date": "2010-07-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-931d52bdb1",
+   "docno": "林造字第0991741496號",
+   "date": "2010-07-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d6d4fd4096",
+   "docno": "林造字第0991741453號",
+   "date": "2010-07-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-423a31f614",
+   "docno": "林造字第0991741493號",
+   "date": "2010-07-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-086f0172a0",
+   "docno": "林造字第0991611778號",
+   "date": "2010-06-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d75546996e",
+   "docno": "林造字第0991741351號",
+   "date": "2010-06-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-78e8fb0f6f",
+   "docno": "林造字第0991611164號",
+   "date": "2010-06-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-925dc5662e",
+   "docno": "林造字第0991741322號",
+   "date": "2010-06-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7d6f5153e4",
+   "docno": "林造字第0991741239號",
+   "date": "2010-06-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cf66aaa5a4",
+   "docno": "農企字第0990126328號",
+   "date": "2010-06-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-302e5755ab",
+   "docno": "林造字第0991741197號",
+   "date": "2010-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1b80fe07ad",
+   "docno": "林造字第0991609894號",
+   "date": "2010-05-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-30cad44462",
+   "docno": "林造字第0991741069號",
+   "date": "2010-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e2e3d397ed",
+   "docno": "林造字第0991740967號",
+   "date": "2010-05-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1e8b843c97",
+   "docno": "林造字第0991608614號",
+   "date": "2010-05-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb6049957a",
+   "docno": "林造字第0991654859號",
+   "date": "2010-05-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4315d962a8",
+   "docno": "林造字第0991608390號",
+   "date": "2010-05-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-deb923241a",
+   "docno": "林造字第0991608389號",
+   "date": "2010-05-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c529ca5de5",
+   "docno": "林造字第0991740949號",
+   "date": "2010-05-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5381bc58ad",
+   "docno": "林造字第0991740984號",
+   "date": "2010-04-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-64327c0618",
+   "docno": "林造字第0991740963號",
+   "date": "2010-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9bfe06e020",
+   "docno": "林造字第0991740951號",
+   "date": "2010-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ab8cbca923",
+   "docno": "林造字第0991740896號",
+   "date": "2010-04-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9ecf8fc575",
+   "docno": "農授林務字第0991740908號",
+   "date": "2010-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-558d05af86",
+   "docno": "農授林務字第0991654325號",
+   "date": "2010-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-058686cbae",
+   "docno": "林造字第0991740876號",
+   "date": "2010-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1afec868e7",
+   "docno": "林造字第0991740875號",
+   "date": "2010-04-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f20937a038",
+   "docno": "農林務字第0990116843號",
+   "date": "2010-04-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-576734d8be",
+   "docno": "林造字第0991740726號",
+   "date": "2010-04-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-38b4d85454",
+   "docno": "林造字第0991740730號",
+   "date": "2010-04-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bfa9c0b574",
+   "docno": "林造字第0991653003號",
+   "date": "2010-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2175250cb5",
+   "docno": "林造字第0991740613號",
+   "date": "2010-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9521f40faa",
+   "docno": "林造字第0991605485號",
+   "date": "2010-03-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-297d6cb0cb",
+   "docno": "林造字第0991740578號",
+   "date": "2010-03-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-31ebb4307e",
+   "docno": "林造字第0991740498號",
+   "date": "2010-03-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-35184cf97b",
+   "docno": "林造字第0991740568號",
+   "date": "2010-03-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c42431539d",
+   "docno": "林造字第0991651989號",
+   "date": "2010-03-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3bbea84bae",
+   "docno": "林造字第0991740356號",
+   "date": "2010-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cbfc069b6b",
+   "docno": "林造字第0991740362號",
+   "date": "2010-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2313a36112",
+   "docno": "林造字第0991740327號",
+   "date": "2010-02-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-957bca8dbc",
+   "docno": "農授林務字第0990107806號",
+   "date": "2010-02-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ad53e2d3c2",
+   "docno": "林造字第0991602609號",
+   "date": "2010-02-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1948a2771c",
+   "docno": "農林務字第0991601612號",
+   "date": "2010-01-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8a00356bff",
+   "docno": "農授林務字第0991740194號",
+   "date": "2010-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c9ccf094b4",
+   "docno": "林造字第0991740209號",
+   "date": "2010-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c564670727",
+   "docno": "林造字第0991740208號",
+   "date": "2010-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3d42ba462a",
+   "docno": "林造字第0991740205號",
+   "date": "2010-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2e391979f6",
+   "docno": "農授林務字第0991740090號",
+   "date": "2010-01-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-326a0bb080",
+   "docno": "農授林務字第0991740087號",
+   "date": "2010-01-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-33692ccfa0",
+   "docno": "林造字第0991740080號",
+   "date": "2010-01-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-32a6921adb",
+   "docno": "林造字第0991600684號",
+   "date": "2010-01-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5b40794749",
+   "docno": "林造字第0991740057號",
+   "date": "2010-01-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-67bf2e7cd8",
+   "docno": "農授林務字第0991740003號",
+   "date": "2010-01-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0c20eb92a5",
+   "docno": "林造字第0981624233號",
+   "date": "2009-12-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e78110f8c7",
+   "docno": "林造字第0981742444號",
+   "date": "2009-12-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-230c4b6f52",
+   "docno": "林造字第0981742426號",
+   "date": "2009-12-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-449fecb3f6",
+   "docno": "農授林務字第0981742386號",
+   "date": "2009-12-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0e82b1383e",
+   "docno": "農授林務字第0981742337號",
+   "date": "2009-12-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aba022a95d",
+   "docno": "農授林務字第0981742312號",
+   "date": "2009-12-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-26d9d2082c",
+   "docno": "林造字第0981622914號",
+   "date": "2009-12-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6e4e42ad50",
+   "docno": "林造字第0981742315號",
+   "date": "2009-12-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-89f3390be2",
+   "docno": "農授林務字第0981742270號",
+   "date": "2009-12-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-acbc3c9893",
+   "docno": "林造字第0981742229號",
+   "date": "2009-11-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4da28d63cd",
+   "docno": "農授林務字第0981742132號",
+   "date": "2009-11-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fbcc374fc6",
+   "docno": "林造字第0981620577號",
+   "date": "2009-11-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c087787a63",
+   "docno": "林造字第0981742129號",
+   "date": "2009-11-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2f4de2e6cc",
+   "docno": "林造字第0981742197號",
+   "date": "2009-11-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c931e72ab7",
+   "docno": "農授林務字第0981741943號",
+   "date": "2009-11-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-eeade5b731",
+   "docno": "林造字第0981742143號",
+   "date": "2009-11-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fbcea843b7",
+   "docno": "農授林務字第0981742087號",
+   "date": "2009-11-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d2e8ef824c",
+   "docno": "農授林務字第0981742086號",
+   "date": "2009-11-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3e7b050988",
+   "docno": "林造字第0981742068號",
+   "date": "2009-11-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-31c5024ac2",
+   "docno": "農授林務字第0981741992號",
+   "date": "2009-11-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a1959db8a5",
+   "docno": "林造字第0981742020號",
+   "date": "2009-10-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8d7254c147",
+   "docno": "林造字第0981741883號",
+   "date": "2009-10-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-596f742172",
+   "docno": "林造字第0981741720號",
+   "date": "2009-10-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-93ac523ad0",
+   "docno": "林造字第0981741839號",
+   "date": "2009-10-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fa1fe6a010",
+   "docno": "農授林務字第0980152563號",
+   "date": "2009-10-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a29124d884",
+   "docno": "農授林務字第0981656178號",
+   "date": "2009-09-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e8ea3ecd76",
+   "docno": "林造字第0980158105號",
+   "date": "2009-09-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c2a25b108f",
+   "docno": "林造字第0981741271號",
+   "date": "2009-09-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6cba354c51",
+   "docno": "林造字第0981741454號",
+   "date": "2009-09-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8afb82bdfd",
+   "docno": "農授林務字第0981741476號",
+   "date": "2009-09-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7a4fe6024d",
+   "docno": "林造字第0981615960號",
+   "date": "2009-09-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0350457333",
+   "docno": "農授林務字第0981658092號",
+   "date": "2009-09-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fc80428b3d",
+   "docno": "林造字第0981741440號",
+   "date": "2009-08-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-312007c435",
+   "docno": "林造字第0981658972號",
+   "date": "2009-08-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e9cf14cf8f",
+   "docno": "法律決字第0980018457號",
+   "date": "2009-08-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a1538ee78f",
+   "docno": "林造字第0981741411號",
+   "date": "2009-08-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2090b4dc10",
+   "docno": "農授林務字第0981741322號",
+   "date": "2009-08-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-792e43d3a0",
+   "docno": "農授林務字第0980140929號",
+   "date": "2009-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1df88555a7",
+   "docno": "林造字第0981741317號",
+   "date": "2009-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5249d59f73",
+   "docno": "林造字第0981741282號",
+   "date": "2009-08-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8380cdc84b",
+   "docno": "林造字第0981741198號",
+   "date": "2009-07-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dc64bedf29",
+   "docno": "農授林務字第0981741262號",
+   "date": "2009-07-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9d3f16654e",
+   "docno": "農授林務字第0981741256號",
+   "date": "2009-07-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-254d4b826f",
+   "docno": "林造字第0981741158號",
+   "date": "2009-07-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2f24c27f45",
+   "docno": "林政字第0981721374號",
+   "date": "2009-07-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b4e249550c",
+   "docno": "林造字第0981613012號",
+   "date": "2009-07-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-94ccf6c281",
+   "docno": "林造字第0981741173號",
+   "date": "2009-07-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0c39f1a470",
+   "docno": "農授林務字第0980141755號",
+   "date": "2009-07-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d03885e78e",
+   "docno": "林造字第0981741177號",
+   "date": "2009-07-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d5145d508e",
+   "docno": "林造字第0981741167號",
+   "date": "2009-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-df245e3a50",
+   "docno": "林造字第0981741166號",
+   "date": "2009-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4c267297d0",
+   "docno": "林造字第0981741142號",
+   "date": "2009-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8a78437efa",
+   "docno": "林造字第0981741144號",
+   "date": "2009-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-761a5f5cbd",
+   "docno": "林造字第0981612098號",
+   "date": "2009-07-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8f29422b66",
+   "docno": "林造字第0981741098號",
+   "date": "2009-07-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8020a71d50",
+   "docno": "林造字第0981611783號",
+   "date": "2009-07-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ca59551e33",
+   "docno": "林造字第0981741073號",
+   "date": "2009-07-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f8366cdf29",
+   "docno": "林造字第0981656737號",
+   "date": "2009-07-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-91249dcba1",
+   "docno": "農授林務字第0980138165號",
+   "date": "2009-07-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4eeb17a075",
+   "docno": "林造字第0981741015號",
+   "date": "2009-06-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-199efef803",
+   "docno": "林造字第0981654638號",
+   "date": "2009-06-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-37c6eabc41",
+   "docno": "農授林務字第0981655152號",
+   "date": "2009-06-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d5608fccf4",
+   "docno": "農授林務字第0980135523號",
+   "date": "2009-06-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-00fb6bda5f",
+   "docno": "農林務字第0981740769號",
+   "date": "2009-06-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-61b24ba183",
+   "docno": "林造字第0981740952號",
+   "date": "2009-06-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-290b52cb85",
+   "docno": "林造字第0981655418號",
+   "date": "2009-06-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a70b1082c6",
+   "docno": "林造字第0981655177號",
+   "date": "2009-06-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8ecd8f9e47",
+   "docno": "林造字第0981655442號",
+   "date": "2009-06-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7fa99a2eb1",
+   "docno": "農授林務字第0980117583號",
+   "date": "2009-06-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ec28b8f6c9",
+   "docno": "林造字第0981609417號",
+   "date": "2009-05-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ebb34848b0",
+   "docno": "林造字第0981740817號",
+   "date": "2009-05-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-52b76bbb90",
+   "docno": "林造字第0981654917號",
+   "date": "2009-05-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-91b026cebc",
+   "docno": "林造字第0981608811號",
+   "date": "2009-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f34f155d26",
+   "docno": "林造字第0981608708號",
+   "date": "2009-05-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b018a1da37",
+   "docno": "林造字第0981608234號",
+   "date": "2009-05-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d5aa748487",
+   "docno": "農授林務字第0981740744號",
+   "date": "2009-05-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4e5b09207c",
+   "docno": "林造字第0981608136號",
+   "date": "2009-05-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-894b17c65d",
+   "docno": "林造字第0981740660號",
+   "date": "2009-05-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-669bc26291",
+   "docno": "林造字第0981740703號",
+   "date": "2009-05-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0ad5527332",
+   "docno": "林造字第0981607732號",
+   "date": "2009-04-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e0c9f867f7",
+   "docno": "林造字第0981740682號",
+   "date": "2009-04-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f3ed132b6a",
+   "docno": "林造字第0981602881號",
+   "date": "2009-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d89cd3f630",
+   "docno": "林造字第0981740656號",
+   "date": "2009-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bdd6e4b0a8",
+   "docno": "林造字第0981607371號",
+   "date": "2009-04-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e391b1264e",
+   "docno": "農授林務字第0980121943號",
+   "date": "2009-04-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1157671f82",
+   "docno": "林造字第0981740639號",
+   "date": "2009-04-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-119c698a87",
+   "docno": "林造字第0981653773號",
+   "date": "2009-04-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-768b9ea4c3",
+   "docno": "林造字第0981653707號",
+   "date": "2009-04-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4ed19855cf",
+   "docno": "林造字第0981653679號",
+   "date": "2009-04-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-919b19b436",
+   "docno": "林造字第0981653490號",
+   "date": "2009-04-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a8ca6d9a59",
+   "docno": "林造字第0981653255號",
+   "date": "2009-04-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-403bc25f7c",
+   "docno": "農林務字第0981652594號",
+   "date": "2009-04-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-91a7c8fe03",
+   "docno": "農林務字第0981605185號",
+   "date": "2009-04-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-76d1b7c9e9",
+   "docno": "林造字第0981606009號",
+   "date": "2009-04-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-773e376e20",
+   "docno": "農企字第0980107133號",
+   "date": "2009-03-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c0d3634a62",
+   "docno": "農授林務字第0981740481號",
+   "date": "2009-03-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fe5399a162",
+   "docno": "林造字第0981605587號",
+   "date": "2009-03-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4b4786641f",
+   "docno": "農授林務字第0981740455號",
+   "date": "2009-03-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0d5289ddac",
+   "docno": "林造字第0981652532號",
+   "date": "2009-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-31cfae0d5b",
+   "docno": "農授林務字第0981651193號",
+   "date": "2009-03-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e23c7a7d10",
+   "docno": "林造字第0981652218號",
+   "date": "2009-03-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e30a0db743",
+   "docno": "林造字第0981603907號",
+   "date": "2009-03-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7e2e4128ce",
+   "docno": "林造字第0981651870號",
+   "date": "2009-03-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-53513f456d",
+   "docno": "農林務字第0970171993號",
+   "date": "2009-02-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1496fc72f3",
+   "docno": "林造字第0981740308號",
+   "date": "2009-02-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-02ac72c47e",
+   "docno": "林造字第0981603593號",
+   "date": "2009-02-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c66bb22e1f",
+   "docno": "林造字第0981740230號",
+   "date": "2009-02-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cca0b67700",
+   "docno": "林造字第0981601474號",
+   "date": "2009-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0779b466b1",
+   "docno": "林造字第0981651633號",
+   "date": "2009-02-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-782f504a7d",
+   "docno": "林造字第0981602984號",
+   "date": "2009-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d94bd0530e",
+   "docno": "林造字第0981602792號",
+   "date": "2009-02-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b89be6a180",
+   "docno": "農授林務字第0980105422號",
+   "date": "2009-02-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fa8776f67d",
+   "docno": "農授林務字第0981601711號",
+   "date": "2009-02-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-413559b59e",
+   "docno": "農授林務字第0980990049號",
+   "date": "2009-02-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-46dec506eb",
+   "docno": "林造字第0981601770號",
+   "date": "2009-01-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5c14a2dfeb",
+   "docno": "農授林務字第0980102924號",
+   "date": "2009-01-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-221cf3aac6",
+   "docno": "林造字第0981600960號",
+   "date": "2009-01-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0e10e72fbe",
+   "docno": "林造字第0981740075號",
+   "date": "2009-01-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3c6050d51a",
+   "docno": "農授林務字第0981650130號",
+   "date": "2009-01-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b6e5f571cd",
+   "docno": "林造字第0981600097號",
+   "date": "2009-01-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8bee1d4895",
+   "docno": "林造字第0971661537號",
+   "date": "2008-12-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d16a7d92fd",
+   "docno": "林造字第0971621785號",
+   "date": "2008-12-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-069a637340",
+   "docno": "農授林務字第0971741514號",
+   "date": "2008-11-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-445342779a",
+   "docno": "林造字第0971660582號",
+   "date": "2008-11-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f4bcd970a4",
+   "docno": "農授林務字第0971741482號",
+   "date": "2008-11-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-854aef8154",
+   "docno": "林造字第0971619685號",
+   "date": "2008-11-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8620b4d937",
+   "docno": "農授林務字第0970159012號",
+   "date": "2008-11-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cab3a2511e",
+   "docno": "林造字第0971741419號",
+   "date": "2008-11-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e08cda2842",
+   "docno": "林造字第0971619242號",
+   "date": "2008-11-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8bd41328c6",
+   "docno": "林造字第0971659192號",
+   "date": "2008-10-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-50333e9f79",
+   "docno": "林造字第0971618733號",
+   "date": "2008-10-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-34ba87e2c1",
+   "docno": "林造字第0971619014號",
+   "date": "2008-10-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-48fe6713b5",
+   "docno": "林政字第0971721596號",
+   "date": "2008-10-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b40423a083",
+   "docno": "農授林務字第0971616270號",
+   "date": "2008-10-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b2c7d34cdf",
+   "docno": "農授林務字第0970154308號",
+   "date": "2008-10-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-72509ffa92",
+   "docno": "林造字第0971741256號",
+   "date": "2008-10-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-abc8b9ee0b",
+   "docno": "農授林務字第0970151419號",
+   "date": "2008-10-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fd3ad67844",
+   "docno": "林造字第0971658676號",
+   "date": "2008-10-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-18198d061e",
+   "docno": "農授林務字第0970149774號",
+   "date": "2008-09-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b57083c5d9",
+   "docno": "農授林務字第0971613152號",
+   "date": "2008-09-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-92bc96593d",
+   "docno": "農授林務字第0971614163號",
+   "date": "2008-09-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6c2f383453",
+   "docno": "林造字第0971615898號",
+   "date": "2008-09-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-44ce3cafb4",
+   "docno": "林造字第0971615057號",
+   "date": "2008-09-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8e55618366",
+   "docno": "林造字第0971657761號",
+   "date": "2008-09-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-24e93278ba",
+   "docno": "農授林務字第0970145076號",
+   "date": "2008-08-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dadd3ebc5e",
+   "docno": "林造字第0971741075號",
+   "date": "2008-08-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-533089aeba",
+   "docno": "林造字第0971741050號",
+   "date": "2008-08-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c3d700a762",
+   "docno": "農授林務字第0970144347號",
+   "date": "2008-08-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c60532d307",
+   "docno": "農授林務字第0971656639號",
+   "date": "2008-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1d2859fa2a",
+   "docno": "農授林務字第0971613663號",
+   "date": "2008-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e9b9c8e648",
+   "docno": "林造字第0971656750號",
+   "date": "2008-08-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-29442e9f8a",
+   "docno": "農林務字第0971611572號",
+   "date": "2008-07-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d6d28f1963",
+   "docno": "林造字第0971655320號",
+   "date": "2008-07-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e43c811474",
+   "docno": "林造字第0971611088號",
+   "date": "2008-07-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c211feffa4",
+   "docno": "林造字第0971612211號",
+   "date": "2008-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2421151fd4",
+   "docno": "林造字第0971612141號",
+   "date": "2008-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f3974fa430",
+   "docno": "農授林務字第0970135639號",
+   "date": "2008-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2b746c4c8b",
+   "docno": "林造字第0971740873號",
+   "date": "2008-07-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d2c63c186d",
+   "docno": "農授林字第0971655597號",
+   "date": "2008-07-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ae25de5e33",
+   "docno": "林造字第0971655870號",
+   "date": "2008-07-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-682b370ed3",
+   "docno": "農授林務字第0971740820號",
+   "date": "2008-06-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a8003a75fe",
+   "docno": "林造字第0971740767號",
+   "date": "2008-06-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-062dddc6e6",
+   "docno": "林造字第0971609859號",
+   "date": "2008-06-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4d43421596",
+   "docno": "林造字第0971610195號",
+   "date": "2008-06-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1aecca604c",
+   "docno": "林造字第0971610456號",
+   "date": "2008-06-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-427c320f00",
+   "docno": "林造字第0971609656號",
+   "date": "2008-06-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2779983ff5",
+   "docno": "林造字第0971609202號",
+   "date": "2008-06-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f800d811a7",
+   "docno": "農授林務字第0971740749號",
+   "date": "2008-06-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-58b772fd2d",
+   "docno": "農授林務字第0971740747號",
+   "date": "2008-06-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-27a16ae77d",
+   "docno": "農林字第0971654488號",
+   "date": "2008-06-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-13f63569cc",
+   "docno": "林造字第0971608134號",
+   "date": "2008-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7fbaf9f253",
+   "docno": "林造字第0971607839號",
+   "date": "2008-05-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-57e00b441e",
+   "docno": "農授林字第0971606387號",
+   "date": "2008-04-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ada288f5ce",
+   "docno": "農林務字第0971653216號",
+   "date": "2008-04-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3f63964fce",
+   "docno": "農授林務字第0971652239號",
+   "date": "2008-03-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2ac32b2670",
+   "docno": "林治字第0971604694號",
+   "date": "2008-03-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d175943037",
+   "docno": "農企字第0970112246號",
+   "date": "2008-03-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-da1bcf1d19",
+   "docno": "林造字第0971604262號",
+   "date": "2008-03-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-efeae6227f",
+   "docno": "農授林務字第0971740293號",
+   "date": "2008-03-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4cbc8d822a",
+   "docno": "林造字第0971740268號",
+   "date": "2008-03-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c248d4046a",
+   "docno": "農林務字第0971650914號",
+   "date": "2008-02-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b2b6c1797c",
+   "docno": "林企字第0971603495號",
+   "date": "2008-02-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5518ddf8f7",
+   "docno": "農林務字第0971650464號",
+   "date": "2008-02-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8fc4ef0f54",
+   "docno": "農林務字第0960173078號",
+   "date": "2008-02-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1ac7be2a0e",
+   "docno": "林造字第0971650909號",
+   "date": "2008-01-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-763a9e08b3",
+   "docno": "農林務字第0970102371號",
+   "date": "2008-01-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8b07e3a8e1",
+   "docno": "林造字第0971650788號",
+   "date": "2008-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-617fefb023",
+   "docno": "農林務字第0970100735號",
+   "date": "2008-01-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5167306ae3",
+   "docno": "林造字第0961661930號",
+   "date": "2007-12-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fdda434640",
+   "docno": "林造字第0961621828號",
+   "date": "2007-12-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-78cfad02c4",
+   "docno": "農授林務字第0960169360號",
+   "date": "2007-12-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b97bc9522d",
+   "docno": "林造字第0961741675號",
+   "date": "2007-12-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-613d1a42f9",
+   "docno": "林造字第0961621346號",
+   "date": "2007-12-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a3f379b1e2",
+   "docno": "林造字第0961621262號",
+   "date": "2007-12-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4dbdc7a59f",
+   "docno": "林造字第0961661476號",
+   "date": "2007-12-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3b03ed72a1",
+   "docno": "林造字第0961661307號",
+   "date": "2007-12-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6ea480cf90",
+   "docno": "農授林務字第0960166895號",
+   "date": "2007-12-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-88bb238b60",
+   "docno": "農授林務字第0961661148號",
+   "date": "2007-12-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d6a5d712d7",
+   "docno": "農林務字第0961660173號",
+   "date": "2007-11-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a1845142b1",
+   "docno": "林造字第0961660654號",
+   "date": "2007-11-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-318d1bcd66",
+   "docno": "林造字第0961618883號",
+   "date": "2007-11-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d4ea1e0948",
+   "docno": "林造字第0961660278號",
+   "date": "2007-11-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e39e215309",
+   "docno": "林造字第0961618042號",
+   "date": "2007-11-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ecfe80d07b",
+   "docno": "農林務字第0960151710號",
+   "date": "2007-10-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d293505d28",
+   "docno": "林企字第0961617426號",
+   "date": "2007-10-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e0243a655d",
+   "docno": "林造字第0961659284號",
+   "date": "2007-10-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e7731b9207",
+   "docno": "農林務字第0961615382號",
+   "date": "2007-10-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0fe6d82ec9",
+   "docno": "農授林務字第0960150528號",
+   "date": "2007-09-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c95f5ab8f7",
+   "docno": "林造字第0961658776號",
+   "date": "2007-09-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-153a09723d",
+   "docno": "林造字第0960150347號",
+   "date": "2007-09-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1c0f04c79b",
+   "docno": "農林務字第0961658255號",
+   "date": "2007-09-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e06d0eaa79",
+   "docno": "林造字第0961614882號",
+   "date": "2007-09-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-94e94f09a0",
+   "docno": "林造字第0961613227號",
+   "date": "2007-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c08dd3f6b0",
+   "docno": "林造字第0961613032號",
+   "date": "2007-08-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2deb16b7aa",
+   "docno": "林造字第0961657354號",
+   "date": "2007-08-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b222f251d9",
+   "docno": "林造字第0961657330號",
+   "date": "2007-08-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-671d6a21e0",
+   "docno": "林造字第0961612550號",
+   "date": "2007-08-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2a64e68492",
+   "docno": "林造字第0960141067號",
+   "date": "2007-08-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-695a4208b6",
+   "docno": "農授林務字第0960141367號",
+   "date": "2007-08-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d79f63405b",
+   "docno": "林造字第0961612407號",
+   "date": "2007-07-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a2317963b1",
+   "docno": "農授林務字第0960990266號",
+   "date": "2007-07-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0f55f766a0",
+   "docno": "林造字第0961656931號",
+   "date": "2007-07-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-701a47fe97",
+   "docno": "農林務字第0960136416號",
+   "date": "2007-07-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4526bf91c9",
+   "docno": "林造字第0961656298號",
+   "date": "2007-07-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bfea1b4221",
+   "docno": "林造字第0961655575號",
+   "date": "2007-07-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6fc09b84ba",
+   "docno": "林造字第0961610554號",
+   "date": "2007-07-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-64418efe38",
+   "docno": "林造字第0961609290號",
+   "date": "2007-06-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-858f5967c2",
+   "docno": "林造字第0961609518號",
+   "date": "2007-06-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7500ad3153",
+   "docno": "林造字第0961655316號",
+   "date": "2007-06-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-94e73d31bb",
+   "docno": "林造字第0961609087號",
+   "date": "2007-06-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fce43450d1",
+   "docno": "農林務字第0961607961號",
+   "date": "2007-05-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-76991baba3",
+   "docno": "林企字第0961654650號",
+   "date": "2007-05-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-efc0e80396",
+   "docno": "農授林務字第0961740719號",
+   "date": "2007-05-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1f702d1228",
+   "docno": "農授林務字第0960124315號",
+   "date": "2007-05-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2421124b92",
+   "docno": "農林務字第0961653927號",
+   "date": "2007-05-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f05deaea92",
+   "docno": "農林務字第0961740638號",
+   "date": "2007-05-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-720576f0a7",
+   "docno": "農授林務字第0961654382號",
+   "date": "2007-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cbf5e64702",
+   "docno": "農授林務字第0960125285號",
+   "date": "2007-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1a9dd8479d",
+   "docno": "農授林務字第0960124488號",
+   "date": "2007-05-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e6efd35130",
+   "docno": "林造字第0961653858號",
+   "date": "2007-04-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cf5b2d9f30",
+   "docno": "農授林務字第0961606684號",
+   "date": "2007-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-67e25e5f8d",
+   "docno": "林造字第0960120143號",
+   "date": "2007-04-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aac3bfc488",
+   "docno": "林造字第0961653994號",
+   "date": "2007-04-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-df4378f2f8",
+   "docno": "林造字第0961740540號",
+   "date": "2007-04-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ea1c6e4a8c",
+   "docno": "林造字第0961653785號",
+   "date": "2007-04-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3e8d703b5a",
+   "docno": "農授林務字第0961740525號",
+   "date": "2007-04-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3e0db460b8",
+   "docno": "林造字第0961606489號",
+   "date": "2007-04-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-162c2a254d",
+   "docno": "林造字第0960119850號",
+   "date": "2007-04-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8ec86eb4b6",
+   "docno": "林造字第0961606022號",
+   "date": "2007-04-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d97f94399f",
+   "docno": "農授林務字第0961605416號",
+   "date": "2007-04-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-60875c55cf",
+   "docno": "農授林務字第0961605523號",
+   "date": "2007-04-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ea0c6607c9",
+   "docno": "農授林務字第0960115520號",
+   "date": "2007-04-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f45fcd5775",
+   "docno": "林政字第0961604924號",
+   "date": "2007-03-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-64f029cc18",
+   "docno": "農授林務字第0961652670號",
+   "date": "2007-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-de0f7f608b",
+   "docno": "林造字第0961740371號",
+   "date": "2007-03-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2ae04937f9",
+   "docno": "農授林務字第0961652651號",
+   "date": "2007-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3474e3b160",
+   "docno": "林造字第0961604793號",
+   "date": "2007-03-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-127b9cd35d",
+   "docno": "農授林務字第0961603943號",
+   "date": "2007-03-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9d6c9205d8",
+   "docno": "農林務字第0960110881號",
+   "date": "2007-03-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-092e809e75",
+   "docno": "林造字第0961740353號",
+   "date": "2007-03-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8a41b40022",
+   "docno": "農林務字第0961603710號",
+   "date": "2007-03-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-03a4b2c7d8",
+   "docno": "林造字第0961652333號",
+   "date": "2007-03-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dce219bf20",
+   "docno": "林造字第0961603556號",
+   "date": "2007-03-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-31bdc42c3f",
+   "docno": "林造字第0961740294號",
+   "date": "2007-03-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-21eda1a634",
+   "docno": "林造字第0961740292號",
+   "date": "2007-03-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-33f382521f",
+   "docno": "農授林務字第0960108274號",
+   "date": "2007-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0850617f74",
+   "docno": "林造字第0961740266號",
+   "date": "2007-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-caab600dbc",
+   "docno": "農林務字第0950173678號",
+   "date": "2007-02-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bf20373e1f",
+   "docno": "林造字第0961651630號",
+   "date": "2007-02-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-823716a350",
+   "docno": "林造字第0961740203號",
+   "date": "2007-02-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dae7302b4f",
+   "docno": "農授林務字第0961602478號",
+   "date": "2007-02-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9e76d5dd27",
+   "docno": "林造字第0961740205號",
+   "date": "2007-02-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-49feec9bcd",
+   "docno": "林造字第0961740197號",
+   "date": "2007-02-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e627369c9f",
+   "docno": "林造字第0961602680號",
+   "date": "2007-02-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-610c6dd24d",
+   "docno": "林造字第0961602190號",
+   "date": "2007-01-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-36e57c90a4",
+   "docno": "農林務字第0961740077號",
+   "date": "2007-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fb98d7bf43",
+   "docno": "農授林務字第0960104532號",
+   "date": "2007-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-de1baa365e",
+   "docno": "農林務字第0961601360號",
+   "date": "2007-01-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cf38999cf5",
+   "docno": "林造字第0961601633號",
+   "date": "2007-01-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fe7bd6b06a",
+   "docno": "林造字第0961650742號",
+   "date": "2007-01-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a16af5145f",
+   "docno": "農林務字第0951622719號",
+   "date": "2007-01-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-274dc98b13",
+   "docno": "林造字第0961601298號",
+   "date": "2007-01-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c4bf7d4e16",
+   "docno": "農林務字第0961740066號",
+   "date": "2007-01-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6b0fb4e356",
+   "docno": "林造字第0961601033號",
+   "date": "2007-01-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fad463475c",
+   "docno": "林造字第0961600609號",
+   "date": "2007-01-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9c6d0d6ff9",
+   "docno": "林造字第0961740040號",
+   "date": "2007-01-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9f85181762",
+   "docno": "林造字第0961740006號",
+   "date": "2007-01-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-742e577da0",
+   "docno": "林造字第0951622971號",
+   "date": "2006-12-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-60891e9e32",
+   "docno": "農授林務字第0951623593號",
+   "date": "2006-12-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2a5d6435cf",
+   "docno": "林造字第0951660720號",
+   "date": "2006-12-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-27e750368d",
+   "docno": "林造字第0951623383號",
+   "date": "2006-12-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3fe8ae3ac0",
+   "docno": "農授林務字第0951741897號",
+   "date": "2006-12-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb7f3d5924",
+   "docno": "農授林務字第0950167476號",
+   "date": "2006-12-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-59d60af85f",
+   "docno": "農授林務字第0951741850號",
+   "date": "2006-12-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-646a8eaec7",
+   "docno": "農授林務字第0950168101號",
+   "date": "2006-12-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ecd4b50632",
+   "docno": "林造字第0951741854號",
+   "date": "2006-12-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aa9b3bc577",
+   "docno": "林造字第0951659821號",
+   "date": "2006-11-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a9f3d6f0de",
+   "docno": "農林務字第0951659482號",
+   "date": "2006-11-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-58f78dc76f",
+   "docno": "林造字第0951621288號",
+   "date": "2006-11-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-131eb735d2",
+   "docno": "林企字第0951710957號",
+   "date": "2006-11-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fa7eb907a2",
+   "docno": "農林務字第0951730503號",
+   "date": "2006-11-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-312083405f",
+   "docno": "林企字第0951710918號",
+   "date": "2006-11-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ea409003b5",
+   "docno": "農林務字第0951741665號",
+   "date": "2006-11-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-840bdeead3",
+   "docno": "林造字第0951741613號",
+   "date": "2006-10-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0f8a19d5ad",
+   "docno": "林造字第0951619374號",
+   "date": "2006-10-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-589d2cff4f",
+   "docno": "林造字第0951618362號",
+   "date": "2006-10-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cde2bff2b9",
+   "docno": "林造字第0951741534號",
+   "date": "2006-10-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-54f48ac179",
+   "docno": "林造字第0951741529號",
+   "date": "2006-10-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-128d585925",
+   "docno": "林造字第0951741537號",
+   "date": "2006-10-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-81f345dbb7",
+   "docno": "農林務字第0950155812號",
+   "date": "2006-10-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-715f2e179b",
+   "docno": "農授林務字第0951741509號",
+   "date": "2006-10-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2b592d3496",
+   "docno": "林造字第0951658286號",
+   "date": "2006-10-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7e96e30e17",
+   "docno": "林造字第0951658255號",
+   "date": "2006-10-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1aaabd8deb",
+   "docno": "林造字第0951618261號",
+   "date": "2006-10-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1fd2c32cda",
+   "docno": "林造字第0951618263號",
+   "date": "2006-10-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-11f5111fec",
+   "docno": "林造字第0951741340號",
+   "date": "2006-09-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a177d6f7e3",
+   "docno": "林造字第0951741341號",
+   "date": "2006-09-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3e12545122",
+   "docno": "林造字第0951617104號",
+   "date": "2006-09-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fbb1b334c7",
+   "docno": "林造字第0951741322號",
+   "date": "2006-09-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a5ebe70e9f",
+   "docno": "林造字第0951657463號",
+   "date": "2006-09-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-acf1c10e9e",
+   "docno": "林造字第0951616867號",
+   "date": "2006-09-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-feac891593",
+   "docno": "林造字第0951616786號",
+   "date": "2006-09-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b2b8077750",
+   "docno": "林造字第0951657159號",
+   "date": "2006-09-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e6a6de3405",
+   "docno": "林造字第0951657139號",
+   "date": "2006-08-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-62c10bf737",
+   "docno": "林造字第0951616167號",
+   "date": "2006-08-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-72ac46bf8f",
+   "docno": "林造字第0951615125號",
+   "date": "2006-08-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1ad59b5bb9",
+   "docno": "林造字第0951615532號",
+   "date": "2006-08-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4bd8cd62ee",
+   "docno": "林造字第0951741074號",
+   "date": "2006-08-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-18a5613bb3",
+   "docno": "農授林務字第0951741062號",
+   "date": "2006-08-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b77e3324fc",
+   "docno": "林造字第0951656214號",
+   "date": "2006-08-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2cfb11d81a",
+   "docno": "林造字第0950990322號",
+   "date": "2006-08-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-af8eb66f40",
+   "docno": "林造字第0951741071號",
+   "date": "2006-08-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-38dd9b1c1f",
+   "docno": "林造字第0951741060號",
+   "date": "2006-07-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c8c8caa5a2",
+   "docno": "林造字第0951614125號",
+   "date": "2006-07-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-79f25145a2",
+   "docno": "林造字第0951613823號",
+   "date": "2006-07-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-28dd897aa4",
+   "docno": "農授林務字第0951613566號",
+   "date": "2006-07-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-65cc9b47a6",
+   "docno": "農授林務字第0950140749號",
+   "date": "2006-07-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-569c93b1a0",
+   "docno": "林造字第0951741004號",
+   "date": "2006-07-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e1a94b3852",
+   "docno": "林造字第0951741003號",
+   "date": "2006-07-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-af0a952e95",
+   "docno": "林造字第0951740931號",
+   "date": "2006-07-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c0a59f28ff",
+   "docno": "林造字第0951740942號",
+   "date": "2006-07-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-224a0795bc",
+   "docno": "農授林務字第0951612212號",
+   "date": "2006-07-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aa8706e1be",
+   "docno": "林造字第0951654892號",
+   "date": "2006-06-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9a7146049d",
+   "docno": "林造字第0951611653號",
+   "date": "2006-06-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d2f2965833",
+   "docno": "林造字第0951654816號",
+   "date": "2006-06-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-24d269fda2",
+   "docno": "林造字第0951611609號",
+   "date": "2006-06-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-47d1f72f9a",
+   "docno": "林造字第0951654700號",
+   "date": "2006-06-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8bf19491bf",
+   "docno": "林造字第0951654708號",
+   "date": "2006-06-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-721981955e",
+   "docno": "林造字第0951610919號",
+   "date": "2006-06-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8bf39aa3b2",
+   "docno": "林造字第0951610494號",
+   "date": "2006-06-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-adbe8ca9be",
+   "docno": "林造字第0951610319號",
+   "date": "2006-06-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9e465d2c01",
+   "docno": "林造字第0951654275號",
+   "date": "2006-06-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d5a3a68e46",
+   "docno": "農授林務字第0951740711號",
+   "date": "2006-06-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-64b57b07fb",
+   "docno": "林造字第0951740719號",
+   "date": "2006-06-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-28288c86ef",
+   "docno": "林造字第0951654074號",
+   "date": "2006-05-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6771790380",
+   "docno": "林造字第0951609973號",
+   "date": "2006-05-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-928e3124de",
+   "docno": "林造字第0951609232號",
+   "date": "2006-05-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ce793d6f03",
+   "docno": "林造字第0951740605號",
+   "date": "2006-05-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-185f4ea45a",
+   "docno": "林造字第0951740645號",
+   "date": "2006-05-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e02fb60002",
+   "docno": "林造字第0951653524號",
+   "date": "2006-05-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-95b62e2313",
+   "docno": "農授林務字第0951809058號",
+   "date": "2006-05-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d1c9645d0f",
+   "docno": "農授林務字第0950123481號",
+   "date": "2006-05-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6727ea1e39",
+   "docno": "林造字第0951607513號",
+   "date": "2006-04-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6f74371174",
+   "docno": "農授林務字第0950120769號",
+   "date": "2006-04-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ed663e1cd0",
+   "docno": "林造字第0951607455號",
+   "date": "2006-04-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-362fc31df8",
+   "docno": "農林務字第0951740445號",
+   "date": "2006-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c500cdaf58",
+   "docno": "林造字第0951740431號",
+   "date": "2006-04-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3e4fb7e142",
+   "docno": "林造字第0951652575號",
+   "date": "2006-04-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6b9c012525",
+   "docno": "林造字第0951606859號",
+   "date": "2006-04-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f684da68bb",
+   "docno": "林造字第0951652598號",
+   "date": "2006-04-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-603ba9373e",
+   "docno": "林造字第0951606371號",
+   "date": "2006-04-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-87965fa550",
+   "docno": "林造字第0951652365號",
+   "date": "2006-04-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-531502b61d",
+   "docno": "農授林務字第0951740444號",
+   "date": "2006-03-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-229bf77d4b",
+   "docno": "農授林務字第0951652302號",
+   "date": "2006-03-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-40be1832cd",
+   "docno": "林造字第0951652163號",
+   "date": "2006-03-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1be6dd30e1",
+   "docno": "林造字第0951605877號",
+   "date": "2006-03-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-762fe58bc1",
+   "docno": "農授林務字第0951603400號",
+   "date": "2006-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1968bfb6ef",
+   "docno": "林造字第0951604670號",
+   "date": "2006-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a029e93d87",
+   "docno": "林造字第0951740380號",
+   "date": "2006-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8f06a8cf8d",
+   "docno": "林造字第0951651624號",
+   "date": "2006-03-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c1552a8b10",
+   "docno": "林造字第0951740372號",
+   "date": "2006-03-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1e4c7dfe0f",
+   "docno": "林造字第0951604894號",
+   "date": "2006-03-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f7ac6b8be5",
+   "docno": "林造字第0951651639號",
+   "date": "2006-03-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-606836085e",
+   "docno": "農林務字第0951740297號",
+   "date": "2006-03-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-803d8e208a",
+   "docno": "林造字第0951604558號",
+   "date": "2006-03-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fcee4f9a29",
+   "docno": "農林務字第0951740128號",
+   "date": "2006-02-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d6fdad7878",
+   "docno": "農授林務字第0950109088號",
+   "date": "2006-02-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3a7fb6e9e9",
+   "docno": "林造字第0951602916號",
+   "date": "2006-02-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b3546587cb",
+   "docno": "農林務字第0951740211號",
+   "date": "2006-02-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-292104a74e",
+   "docno": "農授林務字第0951740052號",
+   "date": "2006-01-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-06277ddd52",
+   "docno": "農授林務字第0940166602號",
+   "date": "2005-12-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-91735891a9",
+   "docno": "農授林務字第0940164004號",
+   "date": "2005-11-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4a5f1c211d",
+   "docno": "林造字第0941624385號",
+   "date": "2005-11-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-894d196b3d",
+   "docno": "農授林務字第0941741394號",
+   "date": "2005-11-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-87bdddcd2a",
+   "docno": "農授林務字第0941741295號",
+   "date": "2005-11-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8172bdc348",
+   "docno": "林造字第0941741342號",
+   "date": "2005-11-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-eb5adc2222",
+   "docno": "林政字第0941620476號",
+   "date": "2005-10-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b817c25868",
+   "docno": "林造字第0941622467號",
+   "date": "2005-10-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0b4e4c704a",
+   "docno": "林造字第0941622435號",
+   "date": "2005-10-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-40024a6471",
+   "docno": "農授林務字第0941741112號",
+   "date": "2005-10-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7885519d4c",
+   "docno": "農授林務字第0941740681號",
+   "date": "2005-09-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-83f841de13",
+   "docno": "林造字第0941617521號",
+   "date": "2005-08-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8d8e1541c1",
+   "docno": "農授林務字第0941655085號",
+   "date": "2005-08-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0ac34ef736",
+   "docno": "林造字第0941616698號",
+   "date": "2005-08-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9e58b807d4",
+   "docno": "林造字第0941616840號",
+   "date": "2005-08-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6b0de97f32",
+   "docno": "林企字第0941710390號",
+   "date": "2005-07-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-29634fe10c",
+   "docno": "農授林務字第0941740687號",
+   "date": "2005-07-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-25121a2227",
+   "docno": "林造字第0941654465號",
+   "date": "2005-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-853deb9536",
+   "docno": "林造字第0941615277號",
+   "date": "2005-07-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d6f063b577",
+   "docno": "林造字第0941614658號",
+   "date": "2005-07-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9bfe5bbd4a",
+   "docno": "農授林務字第0941653977號",
+   "date": "2005-07-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8f9522f125",
+   "docno": "林造字第0941740597號",
+   "date": "2005-06-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e5cd61754c",
+   "docno": "農授林務字第0941613484號",
+   "date": "2005-06-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c8d7bac509",
+   "docno": "林造字第0941740522號",
+   "date": "2005-06-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6168ae3229",
+   "docno": "林造字第0941653340號",
+   "date": "2005-06-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cd80d2cedc",
+   "docno": "林造字第0941612282號",
+   "date": "2005-06-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7a2c79a693",
+   "docno": "林政字第0941611267號",
+   "date": "2005-05-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-70858906df",
+   "docno": "農授林務字第0941740421號",
+   "date": "2005-05-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2854c7b083",
+   "docno": "林造字第0941653058號",
+   "date": "2005-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a2468cc545",
+   "docno": "農授林務字第0941740398號",
+   "date": "2005-05-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-86fcb69639",
+   "docno": "林造字第0941652811號",
+   "date": "2005-05-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-778eec547c",
+   "docno": "農授林務字第0941607728號",
+   "date": "2005-04-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-204fa318e4",
+   "docno": "林造字第0941651834號",
+   "date": "2005-04-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f6260ce269",
+   "docno": "林治字第0941607243號",
+   "date": "2005-04-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ec2b5108f7",
+   "docno": "林造字第0941651556號",
+   "date": "2005-04-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aee6b9bfa8",
+   "docno": "林造字第0941606976號",
+   "date": "2005-04-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0d9fdf921f",
+   "docno": "林造字第0941605934號",
+   "date": "2005-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d9f616db71",
+   "docno": "林造字第0941605174號",
+   "date": "2005-03-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b7c65afeb8",
+   "docno": "林造字第0941605368號",
+   "date": "2005-03-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9441e1fb97",
+   "docno": "林造字第0941603924號",
+   "date": "2005-03-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-38a6f44052",
+   "docno": "農授林務字第0941603689號",
+   "date": "2005-02-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-194eb08a60",
+   "docno": "農授林務字第0941602920號",
+   "date": "2005-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9a37a5d1f9",
+   "docno": "林造字第0941650277號",
+   "date": "2005-01-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-efe56a5f80",
+   "docno": "林造字第0941600411號",
+   "date": "2005-01-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f955a9e475",
+   "docno": "林造字第0931740923號",
+   "date": "2004-11-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-79ff51cb0a",
+   "docno": "林造字第0931622156號",
+   "date": "2004-11-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4352580f41",
+   "docno": "農輔字第0930144750號",
+   "date": "2004-09-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-58b9322034",
+   "docno": "林造字第0931616605號",
+   "date": "2004-08-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-78f1129c8f",
+   "docno": "農授林務字第0931613856號",
+   "date": "2004-07-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a86d0e1e81",
+   "docno": "農授林務字第0931613004號",
+   "date": "2004-07-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8025c86c22",
+   "docno": "農授林務字第0931610768號",
+   "date": "2004-06-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fa44acd481",
+   "docno": "農授林務字第0931609731號",
+   "date": "2004-05-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-895b5b2d75",
+   "docno": "農授林務字第0931609442號",
+   "date": "2004-05-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ff6236fdc5",
+   "docno": "林造字第0931652871號",
+   "date": "2004-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dacaab228c",
+   "docno": "林造字第0931740287號",
+   "date": "2004-04-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2b12340bb5",
+   "docno": "林治字第0931607180號",
+   "date": "2004-04-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d96baef033",
+   "docno": "農授林務字第0931606727號",
+   "date": "2004-04-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-11171bc260",
+   "docno": "農授林務字第0931806526號",
+   "date": "2004-04-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b5be515a9a",
+   "docno": "農授林務字第0931730088號",
+   "date": "2004-03-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7108000028",
+   "docno": "林造字第0931604357號",
+   "date": "2004-03-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-88b55b631c",
+   "docno": "農授林務字第0931604807號",
+   "date": "2004-03-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cb1ae5c3de",
+   "docno": "農授林務字第0931730077號",
+   "date": "2004-03-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c7b4f89804",
+   "docno": "農授林務字第0931730080號",
+   "date": "2004-03-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-322df1164d",
+   "docno": "農林字第0930104775號",
+   "date": "2004-01-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1d25788c32",
+   "docno": "農林字第0920177974號",
+   "date": "2004-01-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fc5338e8eb",
+   "docno": "農林字第0920174080號",
+   "date": "2003-12-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bf8b6b3d23",
+   "docno": "農林字第0920172283號",
+   "date": "2003-12-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3202945cc4",
+   "docno": "農林字第0920168933號",
+   "date": "2003-12-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-022fbc06ad",
+   "docno": "農林字第0920162122號",
+   "date": "2003-10-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb0fa9504a",
+   "docno": "農林字第0920140448號",
+   "date": "2003-08-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b459f70afa",
+   "docno": "農林字第0920143537號",
+   "date": "2003-08-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-448015080a",
+   "docno": "農林字第0920143174號",
+   "date": "2003-08-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8762a362cd",
+   "docno": "農林字第0920142112號",
+   "date": "2003-08-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-21dd744de4",
+   "docno": "農林字第0920144610號",
+   "date": "2003-08-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7917f6ec58",
+   "docno": "農林字第0920134570號",
+   "date": "2003-07-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-15a405807c",
+   "docno": "林造字第0921613587號",
+   "date": "2003-07-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0594b5b81a",
+   "docno": "農林字第0920136276號",
+   "date": "2003-06-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3894776493",
+   "docno": "農林字第0920133864號",
+   "date": "2003-06-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b87d6984f1",
+   "docno": "農林字第0920134438號",
+   "date": "2003-06-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-77fc642817",
+   "docno": "農中生二字第0920133128號",
+   "date": "2003-06-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-979b9bf4e2",
+   "docno": "農林字第0920132665號",
+   "date": "2003-06-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-df88f743f2",
+   "docno": "農林字第0920131897號",
+   "date": "2003-06-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a64aafaf2a",
+   "docno": "農林字第0920131927號",
+   "date": "2003-06-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-acc293269c",
+   "docno": "農林字第0920125867號",
+   "date": "2003-05-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3291adb16e",
+   "docno": "林造字第0921611036號",
+   "date": "2003-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2b5eeb652c",
+   "docno": "農林字第0920130494號",
+   "date": "2003-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-60649db11b",
+   "docno": "農林字第0920121004號",
+   "date": "2003-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9b25ffd3f6",
+   "docno": "林造字第09211652247號",
+   "date": "2003-05-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dd0669fd4f",
+   "docno": "農林字第0920126388號",
+   "date": "2003-05-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1de3be8e69",
+   "docno": "農林字第0920126144號",
+   "date": "2003-05-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cae7bf2a0c",
+   "docno": "農林字第0920030836號",
+   "date": "2003-05-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f62571a271",
+   "docno": "農林字第0920118226號",
+   "date": "2003-05-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-589e84dd1b",
+   "docno": "農林字第0920120248號",
+   "date": "2003-04-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b0884713d7",
+   "docno": "農林字第0920115583號",
+   "date": "2003-04-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3da6099e2b",
+   "docno": "農林字第092117303號",
+   "date": "2003-04-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-eab780eb3e",
+   "docno": "農林字第0920116012號",
+   "date": "2003-04-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a7ebff1219",
+   "docno": "林造字第0921650820號",
+   "date": "2003-03-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0536c8bedb",
+   "docno": "農林字第0920110475號",
+   "date": "2003-03-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6ff72c5fb2",
+   "docno": "農林字第0920106157號",
+   "date": "2003-02-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-33112d4455",
+   "docno": "農林字第0920100235號",
+   "date": "2003-02-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-332bc652e2",
+   "docno": "林造字第0921600787號",
+   "date": "2003-01-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d5b6049924",
+   "docno": "農林字第0920172440號",
+   "date": "2003-01-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cd9a1726f7",
+   "docno": "林造字第0911654937號",
+   "date": "2002-12-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7ba2650c21",
+   "docno": "農林字第0910169860號",
+   "date": "2002-12-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4da8789d95",
+   "docno": "林造字第0911622015號",
+   "date": "2002-12-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7db6fbcf21",
+   "docno": "農林字第0910161953號",
+   "date": "2002-11-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6d9fcec46b",
+   "docno": "農林字第0910157180號",
+   "date": "2002-11-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-28124330df",
+   "docno": "林造字第0911654164號",
+   "date": "2002-10-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-208813fb96",
+   "docno": "農林字第0910159689號",
+   "date": "2002-10-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dfb8d66bb6",
+   "docno": "農林字第0910030572號",
+   "date": "2002-10-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-409d4a704a",
+   "docno": "林造字第0911653898號",
+   "date": "2002-09-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-60cbf0c3af",
+   "docno": "農林字第0910152429號",
+   "date": "2002-09-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f7e029a87a",
+   "docno": "農林字第0910145127號",
+   "date": "2002-09-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a2f71beaad",
+   "docno": "農林字第0910148615號",
+   "date": "2002-09-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2b1465f68f",
+   "docno": "農林字第0910147996號",
+   "date": "2002-09-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-44bc13ebb9",
+   "docno": "農林字第0910146127號",
+   "date": "2002-09-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-25a9d67bb1",
+   "docno": "農林字第0910000477號",
+   "date": "2002-08-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c24cbb8ab1",
+   "docno": "農林字第0910138117號",
+   "date": "2002-08-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1b18d148e7",
+   "docno": "農林字第0910138128號",
+   "date": "2002-07-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-62bae18ffd",
+   "docno": "農林字第0910139493號",
+   "date": "2002-07-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5e1ecbc2ba",
+   "docno": "農林字第0910134341號",
+   "date": "2002-07-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3ec965ee92",
+   "docno": "農林字第0910135295號",
+   "date": "2002-07-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8926e49092",
+   "docno": "農林字第0910135855號",
+   "date": "2002-06-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e72cd7d949",
+   "docno": "農林字第0910130729號",
+   "date": "2002-06-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-be39a8dd4e",
+   "docno": "農林字第0910132539號",
+   "date": "2002-06-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-21d0968669",
+   "docno": "農林字第0910125804號",
+   "date": "2002-06-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-260de966e1",
+   "docno": "農林字第0910130380號",
+   "date": "2002-06-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ab6ddab1a3",
+   "docno": "林造字第0911651689號",
+   "date": "2002-05-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5cb17ae4f6",
+   "docno": "農林字第0910117873號",
+   "date": "2002-05-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f0191479d6",
+   "docno": "林造字第0911650116號",
+   "date": "2002-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dec7abeccd",
+   "docno": "農林字第900171807號",
+   "date": "2002-01-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-72eabde600",
+   "docno": "農林字第901615733號",
+   "date": "2001-12-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1c442cf9e8",
+   "docno": "農林字第900160607號",
+   "date": "2001-11-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-54d62354f8",
+   "docno": "農林字第900157531號",
+   "date": "2001-11-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3f59956190",
+   "docno": "農林字第900154569號",
+   "date": "2001-10-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-35e82f0303",
+   "docno": "農林字第900148477號",
+   "date": "2001-10-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0e4061f660",
+   "docno": "林政字第0901616955號",
+   "date": "2001-09-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ba4baccec9",
+   "docno": "農林字第900141441號",
+   "date": "2001-08-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-59b155c88b",
+   "docno": "農林字第900141670號",
+   "date": "2001-08-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1d5477f096",
+   "docno": "農林字第900138078號",
+   "date": "2001-07-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-165606c418",
+   "docno": "農林字第900133040號",
+   "date": "2001-07-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b1c6864bf7",
+   "docno": "農林字第900133719號",
+   "date": "2001-06-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f2ffaad787",
+   "docno": "農林字第900130042號",
+   "date": "2001-06-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3555b6b94e",
+   "docno": "農林字第900127437號",
+   "date": "2001-05-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ccfe5107d9",
+   "docno": "農林務字第901607654號",
+   "date": "2001-05-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-436ed34b05",
+   "docno": "農林字第900119903號",
+   "date": "2001-04-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8a19452b4d",
+   "docno": "農林字第900117401號",
+   "date": "2001-04-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6ede21495a",
+   "docno": "法令字第008617號",
+   "date": "2001-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4b11d43d06",
+   "docno": "農林字第900112145號",
+   "date": "2001-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-28a7b1ad92",
+   "docno": "農林字第90019594號",
+   "date": "2001-02-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7a2bb64961",
+   "docno": "農林字第890160110號",
+   "date": "2000-11-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-97eaa0f9f5",
+   "docno": "農林字第890156351號",
+   "date": "2000-11-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f392e1abe5",
+   "docno": "農林字第890125135號",
+   "date": "2000-05-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8b63baefb1",
+   "docno": "農林字第890118793號",
+   "date": "2000-04-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dd1040b09e",
+   "docno": "農林字第880028565號",
+   "date": "2000-03-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4d27df7b72",
+   "docno": "農林字第890106841號",
+   "date": "2000-02-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-921b45487f",
+   "docno": "農林字第890102961號",
+   "date": "2000-01-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-99c08cdccd",
+   "docno": "農林字第88166154號",
+   "date": "2000-01-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0e50406998",
+   "docno": "農林字第88151151號",
+   "date": "2000-01-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-78c9038b9e",
+   "docno": "農林字第88153935號",
+   "date": "1999-11-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2484f00e7f",
+   "docno": "林造字第25068號",
+   "date": "1999-10-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fc2e29dd62",
+   "docno": "農林字第88143856號",
+   "date": "1999-09-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-90d394c264",
+   "docno": "農林字第88143411號",
+   "date": "1999-09-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2a6a3f7871",
+   "docno": "農林字第88007058號",
+   "date": "1999-07-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9728cf6732",
+   "docno": "林造字第17610號",
+   "date": "1999-07-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb357d8b25",
+   "docno": "農林字第88030465號",
+   "date": "1999-06-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dff770aa00",
+   "docno": "農林字第88123564號",
+   "date": "1999-06-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7da4eb4dad",
+   "docno": "農林字第88123463號",
+   "date": "1999-05-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cf79c0fa2a",
+   "docno": "農林字第88122934號",
+   "date": "1999-05-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1dfca68d76",
+   "docno": "農林字第88122288號",
+   "date": "1999-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-590f2a26ee",
+   "docno": "農林字第88117346號",
+   "date": "1999-04-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-59b928c2cb",
+   "docno": "農林字第88114517號",
+   "date": "1999-04-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-66c9a93d57",
+   "docno": "農林字第88107351號",
+   "date": "1999-03-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f02b53ff85",
+   "docno": "農林字第88106305號",
+   "date": "1999-02-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0c211d0ee5",
+   "docno": "農林字第88100508號",
+   "date": "1999-01-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-879967f31c",
+   "docno": "林造字第01014號",
+   "date": "1999-01-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8a24b47edf",
+   "docno": "農林字第87159831號",
+   "date": "1998-12-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7e56a6454d",
+   "docno": "農林字第87149901號",
+   "date": "1998-12-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-df943b1e83",
+   "docno": "農林字第87155026號",
+   "date": "1998-12-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-00fc94d15e",
+   "docno": "農林字第87155370號",
+   "date": "1998-11-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-dadfabde51",
+   "docno": "農林字第87152694號",
+   "date": "1998-11-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9a1a6448e4",
+   "docno": "農林字第87120907號",
+   "date": "1998-05-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f5bd015717",
+   "docno": "農林字第87123593號",
+   "date": "1998-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9ba081e8fd",
+   "docno": "農糧字第87113435號",
+   "date": "1998-03-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8e53ee2316",
+   "docno": "農林字第87030100號",
+   "date": "1998-03-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b83e3e55a0",
+   "docno": "農林字第86160976號",
+   "date": "1997-12-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6e8b646274",
+   "docno": "農林字第8614058號",
+   "date": "1997-08-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a1937948d4",
+   "docno": "農林字第86136859號",
+   "date": "1997-07-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2ff8616e71",
+   "docno": "農林字第86130077號",
+   "date": "1997-06-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7cd595ec13",
+   "docno": "農林字第86128077號",
+   "date": "1997-06-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-854f40302b",
+   "docno": "農林字第86124932號",
+   "date": "1997-05-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-017ec77769",
+   "docno": "農林字第86122876號",
+   "date": "1997-05-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-096367dfe6",
+   "docno": "農林字第86115875號",
+   "date": "1997-04-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a2a32c2888",
+   "docno": "林造字第06050號",
+   "date": "1997-03-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4c5b62be58",
+   "docno": "農林字第86030060A號",
+   "date": "1997-01-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-099afc3004",
+   "docno": "林政字第11869號",
+   "date": "1987-04-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ac35ea8ca5",
+   "docno": "農授漁字第1151546489號",
+   "date": "2026-08-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cc5063a523",
+   "docno": "農授漁字第1141546156號",
+   "date": "2025-07-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f36d8a5769",
+   "docno": "配字第1140013400號",
+   "date": "2025-06-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-945daf5d1c",
+   "docno": "農漁字第1141545780號",
+   "date": "2025-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3e927d29cc",
+   "docno": "農漁字第1141544507號",
+   "date": "2025-02-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9c132b285a",
+   "docno": "農授漁字第1141544358號",
+   "date": "2025-02-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ff71068222",
+   "docno": "農授農保字第1130212041號",
+   "date": "2024-04-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f1627028c0",
+   "docno": "農糧資字第1120727931號",
+   "date": "2023-11-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c10b277e78",
+   "docno": "漁四字第1121225953號",
+   "date": "2023-09-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-514c325474",
+   "docno": "能技字第11200155670號",
+   "date": "2023-08-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a19dc555f0",
+   "docno": "能技字第11200158490號",
+   "date": "2023-08-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b2c93243b7",
+   "docno": "漁四字第1121263138號",
+   "date": "2023-06-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7ccbcbcbf4",
+   "docno": "農漁字第1121347245號",
+   "date": "2023-05-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3e28d386b8",
+   "docno": "農授糧字第1121060943號",
+   "date": "2023-05-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-39a435d610",
+   "docno": "農牧字第1120042984號",
+   "date": "2023-05-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6f8b1bd444",
+   "docno": "農漁字第1121250508號",
+   "date": "2023-02-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a7f855b5d7",
+   "docno": "漁四字第1121201239號",
+   "date": "2023-01-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8ce3d73b00",
+   "docno": "農漁字第1110223233號",
+   "date": "2022-06-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d5c321c195",
+   "docno": "農漁字第1111257498號",
+   "date": "2022-05-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c832aaed9e",
+   "docno": "農企字第1110204991號",
+   "date": "2022-02-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-55e9af0a87",
+   "docno": "農企字第1100730064號",
+   "date": "2022-01-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8c50111b08",
+   "docno": "農企字第1100726594號",
+   "date": "2021-11-22"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e4e6a4fa78",
+   "docno": "農企字第1100245004號",
+   "date": "2021-11-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-45464f0323",
+   "docno": "農企字第1100243961號",
+   "date": "2021-10-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cad89d6dcf",
+   "docno": "農授漁字第1100720786號",
+   "date": "2021-09-09"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ff2c16804e",
+   "docno": "農漁字第1106013940號",
+   "date": "2021-07-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3b8efaec16",
+   "docno": "農授漁字第1100223854號",
+   "date": "2021-07-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ffc6bcf606",
+   "docno": "農牧字第1100712209號",
+   "date": "2021-06-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d5686a341f",
+   "docno": "農企字第1100712835號",
+   "date": "2021-05-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fb752c14f5",
+   "docno": "",
+   "date": "2021-05-05"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-314ca7c2f8",
+   "docno": "農牧字第1100707437號",
+   "date": "2021-04-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-db208de644",
+   "docno": "農漁字第1101254006號",
+   "date": "2021-04-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2aa5b901b1",
+   "docno": "農企字第1100707730號",
+   "date": "2021-04-06"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fc98a60e5e",
+   "docno": "農糧字第1101060437號",
+   "date": "2021-03-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-47b34bf91d",
+   "docno": "農授漁字第1100210231號",
+   "date": "2021-03-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1e1c12d5f2",
+   "docno": "農企字第1100209132號",
+   "date": "2021-03-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a3582788e3",
+   "docno": "農漁字第1101346676號",
+   "date": "2021-03-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6ee6b61524",
+   "docno": "農牧字第1100203029號",
+   "date": "2021-02-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b542da7dd8",
+   "docno": "農糧字第1101060082號",
+   "date": "2021-02-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a3b254133f",
+   "docno": "農授漁字第1090255919號",
+   "date": "2021-01-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6342dcb85c",
+   "docno": "農授漁字第1090734085號",
+   "date": "2020-12-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0537b4981f",
+   "docno": "農企字第1090252016號",
+   "date": "2020-12-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7c21136e43",
+   "docno": "",
+   "date": "2020-12-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e727ec2643",
+   "docno": "農企字第1090252082號",
+   "date": "2020-12-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6e2e534121",
+   "docno": "農糧字第1091061747號",
+   "date": "2020-10-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ab220f0084",
+   "docno": "農牧字第1090042857號",
+   "date": "2020-06-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2ee3148444",
+   "docno": "農企字第1090711424號",
+   "date": "2020-05-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2c33ae59aa",
+   "docno": "農企字第1090210141號",
+   "date": "2020-03-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8ef9919d6b",
+   "docno": "農牧字第1080254551號",
+   "date": "2020-01-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4f6081ae94",
+   "docno": "農企字第1080734069號",
+   "date": "2019-12-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3f73ad38b2",
+   "docno": "農企字第1080734579號",
+   "date": "2019-12-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9abe113ea2",
+   "docno": "農企字第1080013563號",
+   "date": "2019-12-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8dd6806d55",
+   "docno": "農企字第1080731037號",
+   "date": "2019-11-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6507f1e912",
+   "docno": "農企字第1080245628號",
+   "date": "2019-10-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f2ed002694",
+   "docno": "農企字第1080729536號",
+   "date": "2019-10-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7c6a092682",
+   "docno": "農企字第1080234332號",
+   "date": "2019-08-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d07e680356",
+   "docno": "農企字第1080234288號",
+   "date": "2019-06-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d3252bf297",
+   "docno": "農授漁字第1080221179號",
+   "date": "2019-05-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d72e223101",
+   "docno": "農授漁字第1080218035號",
+   "date": "2019-05-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5fbd2ace2e",
+   "docno": "農漁字第1080219535號",
+   "date": "2019-05-20"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f9f589aaad",
+   "docno": "農企字第1080713245號",
+   "date": "2019-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-26329fe186",
+   "docno": "農企字第1080713253號",
+   "date": "2019-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-686e6adb76",
+   "docno": "農授漁字第1080708649號",
+   "date": "2019-04-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-6694df841c",
+   "docno": "農牧字第1070043577號",
+   "date": "2018-10-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9f63e58184",
+   "docno": "農企字第1070240811號",
+   "date": "2018-10-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b00754c0f2",
+   "docno": "農企字第1070724956號",
+   "date": "2018-09-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-00b6845fa4",
+   "docno": "農企字第1070013091號",
+   "date": "2018-07-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d17b976273",
+   "docno": "農糧企字第1070221611號",
+   "date": "2018-06-04"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bbd15dc75b",
+   "docno": "農企字第1070213888號",
+   "date": "2018-05-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ec328789fc",
+   "docno": "農漁字第1061348221號",
+   "date": "2018-02-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3b478a62be",
+   "docno": "農輔字第1070703655號",
+   "date": "2018-01-31"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-174b93598a",
+   "docno": "農企字第1070202417號",
+   "date": "2018-01-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7a9216c150",
+   "docno": "農企字第1060246041號",
+   "date": "2017-11-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-92abd8e6c6",
+   "docno": "農企字第1060244906號",
+   "date": "2017-11-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-27f51b2a35",
+   "docno": "農企字第1060232110號",
+   "date": "2017-09-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-12c7640757",
+   "docno": "農牧字第1060043343號",
+   "date": "2017-08-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7038368f17",
+   "docno": "農企字第1060226560號",
+   "date": "2017-08-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fd53b87574",
+   "docno": "農企字第1060225958號",
+   "date": "2017-07-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8113d2d2bd",
+   "docno": "農授糧字第1060217942號",
+   "date": "2017-06-07"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c009587f0b",
+   "docno": "農企字第1050248734號",
+   "date": "2017-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-59d2e5bb07",
+   "docno": "農企字第1040012074號",
+   "date": "2015-02-12"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL000353",
+   "name": "臺中市農業設施高度及樓層審查標準"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL000356",
+   "name": "臺中市申請農業用地整地審查作業要點"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL000354",
+   "name": "臺中市政府辦理農業用地申請賦稅減免優惠案件抽查作業要點"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL000850",
+   "name": "臺中市政府辦理農業設施栽培材料拆遷補償基準"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL001263",
+   "name": "臺中市辦理徵收土地農作改良物水產養殖物及畜禽類補償遷移費查估基準"
+  },
+  {
+   "kind": "added",
+   "type": "law",
+   "id": "TXG-GL001238",
+   "name": "臺中市陸上魚塭養殖漁業登記及管理自治條例"
+  }
+ ],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 1033,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 977,
+   "no_known_cessation": 3964,
+   "needs_review": 66,
+   "amended_by_later": 62
+  },
+  "relations_extracted": 6663,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-10-30T15:21:46+08:00",
+ "result": "success_changed"
+}

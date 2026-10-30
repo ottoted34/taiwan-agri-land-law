@@ -1,0 +1,40 @@
+{
+ "id": "itp-fafd282ecd",
+ "doc_class": "interpretation",
+ "docno": "林造字第1021740459號",
+ "date": "2013-04-02",
+ "date_text": "102/04/02",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢山坡地開發利用回饋金繳交疑義案，復請 查照。",
+ "content": "一、復貴局102年3月25日北農林字第1021488096號函。\n二、查行政院農業委員會95年7月27日農授林務字第0951613566號函說明三「經查山坡地開發利用申請案件均有其興辦事業許可，『興辦事業』許可之有效存續期間亦可確定，嗣後如於同範圍提出其他『興辦事業目的』之申請，已非原『興辦事業』許可之有效存續期間，範圍亦可能發生變異。質言之，為另一案件，自應依其新提送興辦事業之申請掛件日期，作為是否須計收本回饋金之判斷時點。」，倘本案興辦事業之申請掛件日為本辦法訂定生效日前，可免繳交回饋金。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000898?p=17",
+   "fetched_at": "2026-10-30T14:55:51+08:00",
+   "source_key": "forest:0000898"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "31325d77b046e1750e435d9ee2348682707e1f3f416701a1d032995baa6cbe3d",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

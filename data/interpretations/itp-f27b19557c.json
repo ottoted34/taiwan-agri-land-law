@@ -1,0 +1,40 @@
+{
+ "id": "itp-f27b19557c",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740254號",
+ "date": "2011-02-16",
+ "date_text": "100/02/16",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴處轄八仙山事業區第11林班國有林出租造林假號地承租人君申請獎勵輔導造林案，復如說明，請查照。",
+ "content": "一、復貴處100年1月31日勢政字第1003210339號函。\n二、依據獎勵輔導造林辦法相關規定，申請案如符合該辦法之區位、對象及新植造林方式等，則可據以辦理。獎勵造林申請人填具申請書並檢附相關證明文件，向造林所在地之受理機關提出申請，並經主管機關現場勘查後，認有實施造林之需要者予以核准之；經核准之申請案，申請人接到種苗配撥通知後，應於限期內提領，並迅即施行造林，以提高造林成活率；主管機關每年進行造林檢測，符合成活率等檢測條件者，按其造林年度發給造林獎勵金，合先敘明。\n三、本案據貴處函報其程序似不符前揭規定，請貴處本於權責並依規核處。\n正本：東勢林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000118?p=32",
+   "fetched_at": "2026-10-30T14:59:31+08:00",
+   "source_key": "forest:0000118"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c5a8cc007e33a6e03d013da23082e4888345f2932c5239299c6e9be072b54eac",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

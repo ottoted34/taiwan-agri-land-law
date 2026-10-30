@@ -1,0 +1,40 @@
+{
+ "id": "itp-c087787a63",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981742129號",
+ "date": "2009-11-23",
+ "date_text": "098/11/23",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢股份有限公司設置自來水加壓站，是否須繳交山坡地開發利用回饋金疑義案 ，復請 查照 。",
+ "content": "一、復 貴府98年11月12日府農林字第0980265552號函 。\n二、有關○○○○○股份有限公司是否適用山坡地開發利用回饋金繳交辦法第8條第3款明訂 ，由中央 、地方各級政府機關興建者 ，免繳交回饋金之規定乙節 ，查行政院農業委員會前以98年11月17日農授林務字第0981741943號函釋有案 ，檢附該函影本1份供參。\n正本:臺南縣政府\n副本:臺北市政府、高雄市政府、基隆市政府、宜蘭縣政府、臺北縣政府、桃園縣政府、新竹縣政府、新竹市政府、苗栗縣政府、臺中縣政府、臺中市政府、南投縣政府、彰化縣政府、雲林縣政府、嘉義縣政府、嘉義市政府、高雄縣政府、屏東縣政府、臺東縣政府、花蓮縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000562?p=44",
+   "fetched_at": "2026-10-30T15:02:22+08:00",
+   "source_key": "forest:0000562"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4c02ad6e7aea469998dd977320d814cb4cf560c1b3076fe8e70f1164c352496e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

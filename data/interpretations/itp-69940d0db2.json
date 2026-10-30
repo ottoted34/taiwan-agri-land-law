@@ -1,0 +1,40 @@
+{
+ "id": "itp-69940d0db2",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011742779號",
+ "date": "2012-10-03",
+ "date_text": "101/10/03",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問 君申請「開設農路供種植麻竹筍及荔枝」簡易水土保持申報書核算山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、復貴府101年10月1日府農育字第1010284083號函。\n二、本案簡易水土保持申報書之開發種類認定，係屬貴府水土保持主管機關權責。倘簡易水土保持申報書之開發種類，係屬於水土保持計畫審核監督辦法第3條第1款(從事農、林、漁、牧地之開發利用所需之修築農路)、或同條第2款(從事農、林、漁、牧地之開發利用所需之整坡作業)規定者，自符合山坡地開發利用回饋金繳交辦法第8條第6款免繳交回饋金之規定。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000864?p=19",
+   "fetched_at": "2026-10-30T14:56:30+08:00",
+   "source_key": "forest:0000864"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8ada32ad8da4fa11e2049c65598554a5d9bd1f7e12fecd54315a8080a7678807",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -32,9 +32,18 @@
  "last_synced": "2026-10-30T11:51:29+08:00",
  "version": 1,
  "validity": {
-  "status": "no_known_cessation",
+  "status": "needs_review",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "cessation_signal",
+    "by_id": "itp-fc98a60e5e",
+    "by_docno": "農糧字第1101060437號",
+    "by_date": "2021-03-31",
+    "kind": "cease",
+    "phrase": "另查本會農糧署104年9月17日農糧企字第1041013028號函及同年10月19日農糧企字第1041017509號函說明,直接以太陽能板作為屋頂(頂蓋),允難符合容許辦法第28條規定一節,自即日停止適用"
+   }
+  ]
  },
  "content_hash": "a4ee548220d45662ca5c0e8ed77de636340e64e7af5e39431d1582dae622867b",
  "topics": [

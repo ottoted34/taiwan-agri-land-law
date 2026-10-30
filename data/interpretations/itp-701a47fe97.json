@@ -1,0 +1,42 @@
+{
+ "id": "itp-701a47fe97",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0960136416號",
+ "date": "2007-07-18",
+ "date_text": "096/07/18",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "據送貴縣位屬山坡地保育區內農業用地土地開發利用涉及回饋金之收取流程案，請依說明事項辦理，復請查照。",
+ "content": "一、復貴府96年6月29日府農育字第0960130497號函。\n二、有關山坡地開發利用回饋金繳交辦法之適用範圍，為「山坡地」範圍內之開發利用行為，非為「山坡地保育區」內之農業用地為適用範圍，合先敘明。\n三、查位屬於山坡地範圍內之農業用地變更申請案件之審理流程，係先擬具興辦事業計畫，經變更前、後之目的事業主管機關審查核准，並繳交農業用地變更使用回饋金後，其屬開發利用者，始依法擬具水土保持計畫。意即山坡地範圍內之農業用地變更為非農業使用，收取農業用地變更回饋金之程序先於山坡地開發利用回饋金。是以，貴府來函說明二之內容不符現行程序，請貴府重新檢討修正收取流程。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000581?p=65",
+   "fetched_at": "2026-10-30T15:07:39+08:00",
+   "source_key": "forest:0000581"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "41289f38d977b9e7c08aec21bdb6564eca5d0e489e3a202013736fa229d351ea",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

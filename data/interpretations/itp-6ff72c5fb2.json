@@ -1,0 +1,59 @@
+{
+ "id": "itp-6ff72c5fb2",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920106157號",
+ "date": "2003-02-19",
+ "date_text": "092/02/19",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "公司為龍潭－峨眉三四五仟伏特輸電線路第、、號等3座鐵塔用地，申請「變更編定」為特定目的事業用地，可否免繳回饋金疑義一案，復請查照。",
+ "content": "一、復 貴府92年1月23日府農林字第0920000917號函。\n二、本案○○公司之申請，尚在「變更編定」階段，未達山坡地開發利用回饋金繳交辦法第3條：「本辦法所稱山坡地開發利用，指依水土保持法施行細則第8條第1項規定各款，須擬具水土保持計畫之土地開發、經營或使用行為。」之階段，可免繳山坡地開發利用回饋金。\n正本：新竹縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000299?p=92",
+   "fetched_at": "2026-10-30T15:14:18+08:00",
+   "source_key": "forest:0000299"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110002",
+    "law_name": "水土保持法施行細則",
+    "article": "8",
+    "amended_on": "2004-08-31",
+    "history": "中華民國九十三年八月三十一日行政院農業委員會農授水保字第 0931842786 號令修正發布第 4 、30 條條文；並刪除第 5、6、8～19、40、41 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f364e7afbd72d37399cef6e9fd15bf57f80e3a946e07ae49d7c347d26df93b8a",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110002",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "發利用回饋金繳交辦法第3條:「本辦法所稱山坡地開發利用,指依水土保持法施行細則第8條第1項規定各款,須擬具水土保持計畫之土地開發、經營或使用行為。」之階段,可免繳山"
+  }
+ ]
+}

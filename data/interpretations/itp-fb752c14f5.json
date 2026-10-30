@@ -1,0 +1,46 @@
+{
+ "id": "itp-fb752c14f5",
+ "doc_class": "interpretation",
+ "docno": "",
+ "date": "2021-05-05",
+ "date_text": "中華民國110年5月5日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "避免於石虎重要棲地範圍進行光電開發之說明",
+ "content": "農授林務字第1100710555號\n發文日期：中華民國110年5月5日\n旨揭開發計畫基地○○○地號等15筆土地(合計申請開發面積8.322297公頃)，經查皆位於本會林務局公開「石虎重要棲地評析與廊道分析」地理圖資之「石虎重要棲地」範圍，依本會109年12月14日農企字第1090013764號函(計達)有關「2公頃以上農地申請變更作太陽光電設施使用之審查與准駁標準」，建議廠商應避免位於石虎重要棲地範圍進行開發行為。\n另，本會已於林務局自然保育網網站/下載專區/計畫成果/石虎相關報告項下，公開石虎重要棲地保育評析及相關計畫之成果，並更新石虎重要棲地模擬圖，亦可供貴府相關決策參考。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-05-05）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/22d37f6e-8245-46bf-a9a9-f2cb7b755690?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:56+08:00",
+   "source_key": "talis:22d37f6e-8245-46bf-a9a9-f2cb7b755690"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [
+  "docno_unparsed"
+ ],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "760172ed5b3821530d5f59c58ab90c6bce4cfcca32440714bf79a31b7d6038c9",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "docno_unparsed",
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": []
+}

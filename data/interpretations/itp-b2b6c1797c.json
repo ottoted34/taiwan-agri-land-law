@@ -1,0 +1,40 @@
+{
+ "id": "itp-b2b6c1797c",
+ "doc_class": "interpretation",
+ "docno": "林企字第0971603495號",
+ "date": "2008-02-22",
+ "date_text": "097/02/22",
+ "agency_text": "",
+ "category": "保育企劃組／森林登記規則",
+ "subject": "貴府有關土地標示使用地類別為農牧用地之公、私有土地，其地上之群生竹、木，得否依森林登記規則辦理登記疑議案，復如說明，請查照。",
+ "content": "一、復貴府97年2月19日府原地字第09700245360號函。\n二、森林法第3條規定「森林係指林地及其群生竹、木之總稱」，因此辦理森林登記必須以林地為要件。\n三、森林法施行細則於95年重新修訂發布，對於「林地」已有明確之定義，故非森林法施行細則第3條各項所稱之林地，自不受森林法管制，其地上之群生竹、木無須辦理森林登記。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000775?p=61",
+   "fetched_at": "2026-10-30T15:06:37+08:00",
+   "source_key": "forest:0000775"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bf54aa145a1dde561c8c3a78dd368c92677a2cfed22e5a0858329bea75e8f45a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

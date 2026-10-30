@@ -1,0 +1,40 @@
+{
+ "id": "itp-1094e147ca",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991665284號",
+ "date": "2010-12-15",
+ "date_text": "099/12/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢全民造林運動實施計畫之國有租地造林地，倘已完成補辦續租程序，其造林獎勵金得否補發乙事，復如說明，請查照。",
+ "content": "一、復貴府99年12月13日屏府農林字第0990305760號函。\n二、針對旨揭計畫以前年度檢測合格但未發放造林獎勵金之獎勵造林地，如經貴府確認行政程序既已完成，自可於行政程序完成當年度補發造林獎勵金。\n正本：屏東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000409?p=33",
+   "fetched_at": "2026-10-30T14:59:55+08:00",
+   "source_key": "forest:0000409"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a424cd34406cd3dcddb2afe87084f6fc7ed6084fe9b53879377705fb9d8d73bf",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

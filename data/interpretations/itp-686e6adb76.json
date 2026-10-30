@@ -1,0 +1,43 @@
+{
+ "id": "itp-686e6adb76",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1080708649號",
+ "date": "2019-04-16",
+ "date_text": "中華民國108年04月16日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "申請農業經營結合綠能之地面型綠能設施(漁電共生)遮蔽率計算方式之疑義",
+ "content": "針對「漁電共生」之室外養殖池面積較大，一養殖池常橫跨「多筆」地號土地，其地面型綠能設施遮蔽計算方式考量同一養殖池經營之不可分性，雖綠能設施僅坐落該養殖池「部分」地號土地上，該綠能設施如以整體規劃配置，其總面積應可合併計算，惟不得超過該養殖池所占地號土地總面積40%。\n有關貴公司所詢「漁電共生」申請案件，如以相鄰數養殖池結合綠能設施提出同一申請案時，依前述說明，基於整體規劃，其綠能設施總面積得合併計算，且不得超過該申請案綠能設施所坐落養殖池所占地號土地總面積40%(意即貴公司附圖申請案場範圍A~G土地，其綠能設施總面積，不得超過以綠能設施a~f所坐落養殖池所佔地號土地A、B、C、D、F、G之總面積40%)，惟涉及個案申請審查事宜，屬地方主管機關權責，仍請逕向當地直轄市、縣市政府主管機關洽詢。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-04-16）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/785da286-30a0-44bb-b9d8-0e6700a28177?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:05+08:00",
+   "source_key": "talis:785da286-30a0-44bb-b9d8-0e6700a28177"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "819d2a8bd88be7aab5beee3afbc789183b81abd6e0b1b495c7b03ded5beeb921",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

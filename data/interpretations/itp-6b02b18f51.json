@@ -1,0 +1,42 @@
+{
+ "id": "itp-6b02b18f51",
+ "doc_class": "interpretation",
+ "docno": "林政字第1101720486號",
+ "date": "2021-05-31",
+ "date_text": "110/05/31",
+ "agency_text": "",
+ "category": "森林管理組",
+ "subject": "貴處函詢有關森林法第34條規定涉及國有林地行為事實認定之疑義案，復如說明，請查照。",
+ "content": "一、復貴處109年8月26日竹政字第1092212505號函。\n二、查森林法第34條第1項前段規定：「森林區域及森林保護區內，不得有引火行為。」，主要係限制及規範火源不易控制或易釀災之燃燒可燃物行為，又依據行政院農業委員會102年11月6日農林務字第1021711566號函釋內容：「至引火行為係指人為以蓄意方式產生火焰，並藉由此火焰持續燃燒可燃物，以進行活動者，如引火整地、露營營火、烤肉、燃燒冥紙或其他可持續性燃燒物品等行為。」已有明確規範。而利用汽化爐、卡式爐具烹煮食物，因其火源相對容易控制，且炊煮之行為係以爐具點火並輔以鍋具加熱煮食，尚與上開函釋所稱可燃物之燃燒有所不同，應非屬森林法第34條所稱引火行為。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000949?p=7",
+   "fetched_at": "2026-10-30T14:54:20+08:00",
+   "source_key": "forest:0000949"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e943bc2446d5b72cef253a410e5cbdbecb6c32c3094a6531d7faf7afbd169047",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-fbcea843b7",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0981742087號",
+ "date": "2009-11-16",
+ "date_text": "098/11/16",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴轄土城市學院之違建補辦建築執照，是否須繳交山坡地開發利用回饋金(以下簡稱回饋金)疑義案，復請查照。",
+ "content": "一、復貴局98年11月5日北農林字第0980942451號函。\n二、查本會林務局94年3月7日林造字第0941603924號函略以「行政院農業委員會前於94年2月21日以農授林務字第0941603555號函示山坡地開發利用回饋金收取時間點，爰貴府公告乘積比例後，送核之水土保持計畫均須核算回饋金數額，毋論原已違規興建土地，其事後為辦理補照等相關法定程序所核定之水土保持計畫等，均須依規核算回饋金」(正本諒達)。據此，本案請依前揭函文內容辦理。\n正本:臺北縣政府農業局\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000561?p=44",
+   "fetched_at": "2026-10-30T15:02:28+08:00",
+   "source_key": "forest:0000561"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ad0ce5250b00f46540b2938a0db1866616237dd6391082b350b0a5abc68c40f1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

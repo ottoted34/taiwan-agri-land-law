@@ -1,0 +1,40 @@
+{
+ "id": "itp-617fefb023",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0970100735號",
+ "date": "2008-01-21",
+ "date_text": "097/01/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "股份有限公司(以下簡稱公司)於貴轄新店市申請山坡地開發利用，其山坡地開發利用回饋金繳交疑義，復如說明，請查照。",
+ "content": "一、復貴局97年1月2日北農林字第0960844117號函。\n二、本會前曾針對山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)之適用基準日、新舊案之認定等疑義，分別以94年9月2日農授林務字第0941740861號函及94年10月28日農授林務字第0941741229號函釋有案，貴局欲援引比照92年之個案案例，核有未洽。請查明○○公司提送該山坡地開發案件之申請掛件日、是否領得完工證明書等情，審慎衡酌是否有相關函釋之適用。\n三、至本案○○公司有無繳交山坡地開發利用回饋金之紀錄，得以適用本辦法第8條第4款不重複收繳之規定，併請查明逕復該公司。\n正本:臺北縣政府農業局\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000599?p=61",
+   "fetched_at": "2026-10-30T15:06:46+08:00",
+   "source_key": "forest:0000599"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b2ef2a15e0fdb231f5f71d720d870cd89ac1912602bf5322e3b931f05337225f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

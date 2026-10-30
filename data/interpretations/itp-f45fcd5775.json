@@ -1,0 +1,40 @@
+{
+ "id": "itp-f45fcd5775",
+ "doc_class": "interpretation",
+ "docno": "林政字第0961604924號",
+ "date": "2007-03-30",
+ "date_text": "096/03/30",
+ "agency_text": "",
+ "category": "森林產業組／林產物伐採",
+ "subject": "有關「開發行為應實施環境影響評估細目及範圍認定標準」第16條規定之「皆伐面積」是否包括無生長林木之林地1案，復請查照。",
+ "content": "一、復貴院96年3月19日高行獻紀孝96訴00045字第0960002101號函。\n二、本案本局意見如下：\n(一)按森林法第45條規定「凡伐採林產物，應經主管機關許可並經查驗，始得運銷」及林產物伐採查驗規則第2條規定「本規則所稱林產物，係指國、公有或私有林之主產物及副產物。但非供營林為目的者不在此限」；至上開林產物之主產物及副產物已於「國有林林產物處分規則」第3條有明確定義。\n(二)皆伐係指更新伐採林地上之全部林產物。皆伐面積則指在一個林地上，所有林產物均被砍伐的跡地，其是否包括草地，須視採取面積內之生長狀況而定，如林地上同時有喬木、灌木及草類，則其皆伐面積應全部涵蓋在內；如林地上無生長竹、木，於林地開發利用時不須砍伐作業，自無皆伐面積。\n三、檢附森林法、林產物伐採查驗規則及國有林林產物處分規則各1份，請參閱。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000788?p=68",
+   "fetched_at": "2026-10-30T15:08:24+08:00",
+   "source_key": "forest:0000788"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ddfa1698254a79b234bd467dde5786062a44cada80eb39cd97fad02706364a13",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

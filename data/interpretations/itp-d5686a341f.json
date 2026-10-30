@@ -1,0 +1,50 @@
+{
+ "id": "itp-d5686a341f",
+ "doc_class": "interpretation",
+ "docno": "農企字第1100712835號",
+ "date": "2021-05-31",
+ "date_text": "中華民國110年5月31日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關民眾陳情農舍之配合耕地屬土壤及地下水污染整治法公告之污染控制場址、污染整治場址或污染管制區，申請免與農業經營使用相結合綠能設施案",
+ "content": "一、 針對已興建有農舍之農業用地，屬土壤及地下水污染整治法公告之污染控制場址、污染整治場址或污染管制區（以下簡稱受污染土地），得否再依申請農業用地作農業設施容許使用審查辦法（以下簡稱容許辦法）申請免與農業經營使用相結合之綠能設施，查本會前於110年3月23日以農企字第1100209132號函貴府在案，即農舍坐落之農業用地應積極從事具經濟性農業生產使用，並無申設免與農業經營相結合綠能設施之合理性，又屬受污染土地者，應儘速辦理整治復育，以恢復農業生產使用，仍無申設免與農業經營使用相結合綠能設施之情形。另，上開農舍坐落用地係指農舍坐落之該筆農業用地及其配合耕地。\n二、 綜上，本案已興建農舍之農業用地（含農舍未坐落之配合耕地）並經套繪管制，自應符合積極從事具經濟性農業生產使用，尚無得申設免與農業經營使用相結合之綠能設施規定。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-05-31）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/fc68c834-51a8-4512-a045-d519bba3afdd?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:54+08:00",
+   "source_key": "talis:fc68c834-51a8-4512-a045-d519bba3afdd"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8b021146f78b394143ce3b7563de2c1e8bb55d9039f037f60db9ad4c5ac4e28d",
+ "topics": [
+  "farmhouse",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "址、污染整治場址或污染管制區(以下簡稱受污染土地),得否再依申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)申請免與農業經營使用相結合之綠能設施,查本會前於110年3月"
+  }
+ ]
+}

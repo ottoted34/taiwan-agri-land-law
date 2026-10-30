@@ -1,0 +1,50 @@
+{
+ "id": "itp-6342dcb85c",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1090734085號",
+ "date": "2020-12-14",
+ "date_text": "中華民國109年12月14日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關非「先行區」之養殖用地查詢辦理意見案",
+ "content": "一、 依據「申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)」第29條規定，屬該條第一項第一款規劃者，應先擬具農業經營結合綠能之專案計畫，並敘明所規定事項後，送中央主管機關審查核准；或同條第一項第二款之區位範圍，由中央主管機關盤點具漁業經營結合綠能之可行區位，送中央能源主管機關辦理環境與社會檢核機制作業後，由中央能源主管機關會同中央主管機關公告(即先行區)。\n二、 非位於先行區內，即非中央能源主管機關會同中央主管機關公告範圍，倘擬辦理養殖經營結合地面型綠能設施，請依容許辦法第29條及「行政院農業委員會養殖漁業經營結合綠能設施專案計畫審查作業要點」相關規定，擬具專案計畫建議書報請土地所在地之直轄市、縣(市)主管機關後，由地方政府參據並凝聚當地農(漁)民與能源業者之設置意願，擬具農業經營結合綠能之專案計畫，並敘明專區範圍、可行性評估及計畫內設施空間配置等事項再報送本會審查。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2020-12-14）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/ae1bea22-7d6e-4b52-837d-40481bb1d75e?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:12+08:00",
+   "source_key": "talis:ae1bea22-7d6e-4b52-837d-40481bb1d75e"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "848dbd07e4e12004efdf80a199856577fe9f940e0c6062b6ed3e6755d953e579",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關非「先行區」之養殖用地查詢辦理意見案\n一、 依據「申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)」第29條規定,屬該條第一項第一款規劃者,應先擬具農業經營結合綠"
+  }
+ ]
+}

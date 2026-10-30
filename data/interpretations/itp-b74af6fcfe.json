@@ -1,0 +1,47 @@
+{
+ "id": "itp-b74af6fcfe",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0991742391號",
+ "date": "2010-11-04",
+ "date_text": "099/11/04",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "為貴府函詢農業發展條例第3條第l項第7款農民團體指農民依「農會法」所組織之花蓮縣農會可否參加平地造林計畫案，復如說明，請查照。",
+ "content": "一、復貴府99年10月15日府農林字第0990181444號函。\n二、經查本會93年9月24日農輔字第0930144750號函表示，農會為公益社團法人性質，依「平地造林直接給付及種苗配撥實施要點」第7點規定，申請人屬於社團法人或財團法人者，應檢附政府立案證明文件或公司登記證明文件及營利事業登記證影本提出申請，請貴府逕依相關規定辦理。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000358?p=34",
+   "fetched_at": "2026-10-30T15:00:06+08:00",
+   "source_key": "forest:0000358"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f085bc48981b7ab9123a526889dcde584a0205f885870c5aa9a06b8767a8ebad",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "為貴府函詢農業發展條例第3條第l項第7款農民團體指農民依「農會法」所組織之花蓮縣農會可否參加平地造林計畫案,"
+  }
+ ]
+}

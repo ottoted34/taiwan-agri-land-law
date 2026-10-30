@@ -1,0 +1,42 @@
+{
+ "id": "itp-12638fcb27",
+ "doc_class": "interpretation",
+ "docno": "林造字第1031742565號",
+ "date": "2014-10-28",
+ "date_text": "103/10/28",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴處函詢全民造林案件造林面積是否應扣除造林地內自然步徑或碎石路面之面積案，詳如說明，復請查照。",
+ "content": "一、復貴處103年10月6日花作字第1038230727號函。\n二、據報旨揭道路為營林使用之泥土路面或碎石道路等非永久鋪面設施，未來仍可恢復造林使用，倘該造林地內林木栽植株數符合獎勵造林實施要點第6點規定之成活率，且林木平均分布生長於林地，貴處可依據現勘情形，免扣除獎勵造林面積。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000921?p=13",
+   "fetched_at": "2026-10-30T14:55:09+08:00",
+   "source_key": "forest:0000921"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "83997fa0d01670281b65608b95ddf3b4be4dc2c9d568d88a3c5260a7f09ed2e3",
+ "topics": [
+  "paving"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

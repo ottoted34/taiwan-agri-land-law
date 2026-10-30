@@ -1,0 +1,40 @@
+{
+ "id": "itp-1afec868e7",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991740875號",
+ "date": "2010-04-16",
+ "date_text": "099/04/16",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關君申請獎勵造林疑義案，復如說明，請查照。",
+ "content": "一、復貴處99年1月27日嘉作字第0995230138號函。\n二、依據獎勵輔導造林辦法相關規定，申請案如符合該辦法之區位、對象及新植造林方式等，則可據以辦理。獎勵造林申請人填具申請書並檢附相關證明文件，向造林所在地之受理機關提出申請，並經主管機關現場勘查後，認有實施造林之需要者予以核准之；經核准之申請案，申請人接到種苗配撥通知後，應於限期內提領，並迅即施行造林，以提高造林成活率；主管機關每年進行造林檢測，符合成活率等檢測條件者，按其造林年度發給造林獎勵金，合先敘明。\n三、本案如符合前揭規定，並經土地管理機關同意者，則可依據獎勵輔導造林辦法相關規定辦理後續事宜，惟本案程序似不符規定，請貴處查明並依規辦理。\n正本：本局嘉義林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000099?p=40",
+   "fetched_at": "2026-10-30T15:01:24+08:00",
+   "source_key": "forest:0000099"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6c736c5040387ee90d9e51d710de590bdad09590d9d84b5ba7cdc3ec1e5f9244",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

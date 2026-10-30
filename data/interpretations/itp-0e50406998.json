@@ -1,0 +1,40 @@
+{
+ "id": "itp-0e50406998",
+ "doc_class": "interpretation",
+ "docno": "農林字第88151151號",
+ "date": "2000-01-10",
+ "date_text": "089/01/10",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府所詢山坡地超限利用土地，在原種植檳榔、茶樹行株距間依規定補足造林苗木，可否視同已完成造林一案，復請查照。",
+ "content": "一、復貴府八十八年十月六日八八府農字第八八○○一八一一八一號函。\n二、本案所稱在原種植檳榔、茶樹行株距間栽植林木，應屬間植或混植，且原有作物（檳榔、茶樹）會與林木產生競爭，將可能影響其生長，應將超限利用之作物砍除後，才算完成造林。\n正本:高雄縣政府\n副本:台灣省各縣（市）政府（高雄縣政府、台南市政府、澎湖縣政府除外），本會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000686?p=99",
+   "fetched_at": "2026-10-30T15:15:48+08:00",
+   "source_key": "forest:0000686"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5ebfc44f73e4444dac007b1e3250551d8dff444ba41d126e913e4bfa9d4ff865",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

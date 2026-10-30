@@ -1,0 +1,40 @@
+{
+ "id": "itp-cad89d6dcf",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1100720786號",
+ "date": "2021-09-09",
+ "date_text": "中華民國110年9月9日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關貴公司函詢容許辦法相關法規疑義案",
+ "content": "一、 依據容許辦法第4條第5款規定，申請農業用地作農業設施容許使用，應檢附土地使用同意書，但土地為申請人單獨所有者，免附，合先敘明。\n二、 另有關貴公司詢及申請電業籌設、施工許可、電業執照相關申請疑義，請逕洽經濟部能源局。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-09-09）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/fb494f7d-8141-410d-bc06-ea1724f98a39?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:47+08:00",
+   "source_key": "talis:fb494f7d-8141-410d-bc06-ea1724f98a39"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2e1cea9bb76931ac554b3e72dc473acd1bf9de3a22223bd4b35686213e6ac3c5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

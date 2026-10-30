@@ -1,0 +1,40 @@
+{
+ "id": "itp-6b0fb4e356",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961601033號",
+ "date": "2007-01-15",
+ "date_text": "096/01/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關君等5人陳情申請全民造林計畫，核發獎勵金不符疑義案，請依說明辦理，請查照。",
+ "content": "一、依據○○○君、○○○君、○○○君、○○○君、○○○○○○股份有限公司96年1月10日陳情書辦理。\n二、有關造林獎勵金之核發依據獎勵造林實施要點規定，揆其意旨係指於造林人所有權範圍內，業經林業管理經營機關檢測合格在案之實際造林面積，作為核發造林獎勵金之依據；如有溢領造林獎勵金之情事，造林人應依規返還溢領受之獎勵金，先行敘明。\n三、本案造林地之林業管理經營機關係屬貴府，檢附○○○君等5人之陳情書影本1份，其相關疑義移請貴府依規卓處逕復。\n正本:臺東縣政府\n副本:○○○君、○○○君、○○○君、○○○君、○○○○○○股份有限公司",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000024?p=71",
+   "fetched_at": "2026-10-30T15:09:10+08:00",
+   "source_key": "forest:0000024"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1c73f6d7fc951415437dbb1ba71b0d99cb7158e88283030fa6a4cf7eed1f6a85",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-feac891593",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951616786號",
+ "date": "2006-09-07",
+ "date_text": "095/09/07",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴縣所轄苑裡鎮全民造林戶君原參加台灣省獎勵私人造林，後續轉入全民造林運動實施計畫，如欲中途放棄造林，其獎勵金追賠疑議案，復如說明，請查照。",
+ "content": "一、復貴府95年9月4日府農林字第0950113879號函。\n二、有關自備種苗補貼金部份，依據台灣省獎勵私人造林實施要點規定第5點第2款規定，略以……得於造林年度前1年半申請，經各該林業管理經營機關核准後，……補助之。惟經查本案之自備苗木補貼金於造林第2年度核發在案，並非在造林第1年度核發，此節疑義仍請貴府查明原因函復本局後，俾憑辦理後續釋疑。\n正本：苗栗縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000033?p=75",
+   "fetched_at": "2026-10-30T15:10:07+08:00",
+   "source_key": "forest:0000033"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0d46aa2d5cdea5f16db69f696359b37156bb5ae9643bbce59204456a89059d6d",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

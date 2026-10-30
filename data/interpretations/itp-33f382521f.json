@@ -1,0 +1,40 @@
+{
+ "id": "itp-33f382521f",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0960108274號",
+ "date": "2007-02-16",
+ "date_text": "096/02/16",
+ "agency_text": "",
+ "category": "保育企劃組／森林法施行細則",
+ "subject": "貴府函詢有關森林法施行細則第4條規定所稱國有林、公有林及私有林，復如說明，請查照。",
+ "content": "一、復貴府96年2月8日高市建設三字第0960003491號函。\n二、森林法施行細則第4條，係依據森林法第3條第1項森林所有權之歸屬定義：國有林，指屬於國家所有及國家領域內無主之森林；公有林，指依法登記為直轄市、縣﹝市﹞、鄉﹝鎮、市﹞或公法人所有之森林；私有林，指依法登記為自然人或私法人所有之森林。故國、公有及私有林係依其所有權認定其歸屬。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000768?p=70",
+   "fetched_at": "2026-10-30T15:08:43+08:00",
+   "source_key": "forest:0000768"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "57097fa7fa1a6ded8205949029b61e39ad6d28d9d1000ef51a762396cac3c751",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

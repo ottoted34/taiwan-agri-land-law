@@ -1,0 +1,40 @@
+{
+ "id": "itp-cf38999cf5",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961601633號",
+ "date": "2007-01-22",
+ "date_text": "096/01/22",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "函轉貴轄全民造林戶君申訴造林成活率疑義1案，如說明，請查照",
+ "content": "一、依據○○○君96年1月17日申訴書辦理。\n二、依照獎勵造林實施要點第6點規定，造林地於當年度檢測合格者，得核發當年度之造林獎勵金;不合格者即不發給該年獎勵金，獎勵金亦不得追溯;先行敘明。\n三、惟於執行造林成果檢測工作時，查有造林成活率不足之情況，為維護林農權益，應請貴府及鄉鎮公所輔導林農儘速進行補植;如須本局提供補植苗木者，請貴府先行就近向本局南投處申請配撥苗木，如有不足再行向本局調撥。\n四、經查○君申請造林地座落於國姓鄉轄，係屬貴縣轄管土地，隨函檢附○○○君申訴書影本1份，移請貴府依規卓處逕復。\n正本:南投縣政府\n副本:○○○君",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000043?p=71",
+   "fetched_at": "2026-10-30T15:09:03+08:00",
+   "source_key": "forest:0000043"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4c417121ff7bfd62e08a47a41c12761766b563ac5a6570fe637b580ae96cd4a8",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

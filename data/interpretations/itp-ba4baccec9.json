@@ -1,0 +1,40 @@
+{
+ "id": "itp-ba4baccec9",
+ "doc_class": "interpretation",
+ "docno": "農林字第900141441號",
+ "date": "2001-08-14",
+ "date_text": "090/08/14",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "臺端陳情有關獎勵造林一案，復如說明，請 查照。",
+ "content": "一、復臺端九十年八月一日致本會申請書。\n二、造林木達到伐期，是可以申請伐採，需依據「林產物伐採查驗規則」辦理，詳細內容請參閱該規則相關規定辦理。\n三、副本抄送臺北縣政府，請提供技術指導協助○君進行造林工作。\n正本：○○○君\n副本：臺北縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000726?p=96",
+   "fetched_at": "2026-10-30T15:15:16+08:00",
+   "source_key": "forest:0000726"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4810a45d0a08b9f84b4714570ebe9b300ab3ecd92b02dd771b561807bce425a5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

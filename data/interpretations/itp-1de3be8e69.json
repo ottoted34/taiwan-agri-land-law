@@ -1,0 +1,40 @@
+{
+ "id": "itp-1de3be8e69",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920126144號",
+ "date": "2003-05-15",
+ "date_text": "092/05/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "關於貴府函詢是否協助財政部國有財產局南區辦事處臺南分處辦理獎勵造林一案，復如說明，請查照。",
+ "content": "一、復貴府九十二年四月二十八日府農林字第○九二○○六四二八八號函。\n二、經查獎勵造林實施要點第二點規定「本要點所稱林業管理經營機關，指直轄市政府、縣(市)政府、行政院農業委員會林務局林區管理處、各大學實驗林管理處」，各縣、市政府為林業經管理機關殆無疑義，對於推廣造林工作責無旁貸。\n三、另依據財政部於八十五年自訂之「財政部國有財產局將委託各縣市政府管理之國有土地回收自管方案」，原委託縣市政府或土地銀行經管之土地，自八十六年起，已由財政部國有財產局陸續收回，自行管理。該局雖非「獎勵造林實施要點」所稱隻林業經營管理機，惟為推行政府既定之政策，該局應依「行政程式法」之規定委託其他林業經營機關辦理，本會暨其他林業經營機關則應提供其必要之行政及技術協助。\n正本：臺南縣政府\n副本：財政部國有財產局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000674?p=91",
+   "fetched_at": "2026-10-30T15:14:04+08:00",
+   "source_key": "forest:0000674"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "85bdf235c8e3884ea9efb7e6225487d6f3d00126429bfa1b6bfb1f3f6d4becfb",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

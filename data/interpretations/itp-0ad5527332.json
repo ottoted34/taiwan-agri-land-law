@@ -1,0 +1,47 @@
+{
+ "id": "itp-0ad5527332",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981607732號",
+ "date": "2009-04-28",
+ "date_text": "098/04/28",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "為貴府詢問財團法人國民小學於「特定目的事業用地」興建校舍，是否符合水土保持法第12條第1項第4款所稱「開發建築用地」疑義案，請 查照。",
+ "content": "一、依據行政院農業委員會水土保持局98年4月24日水保監字第0981849824號函辦理。\n二、本案前經貴府以98年3月26日北府農林字第0980136772號函詢旨揭一案，前經本局以98年4月7月林造字第0980117871函請水土保持局協助釋示有案，據該局表示興建校舍是否適用「開發建築用地」，應由貴府依具體個案情節及行政院農業委員會97年12月5日農授水保字第0971852133號及98年1月15日農授水保字第0981849058號函釋內容認處。\n三、隨文檢附首揭號函影本1份供參。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000558?p=50",
+   "fetched_at": "2026-10-30T15:04:03+08:00",
+   "source_key": "forest:0000558"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0e0cfb4fc4c608e6f7828b832bfb3c214b2169ed0f7b527fd505dbf431a5a8d3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "詢問財團法人國民小學於「特定目的事業用地」興建校舍,是否符合水土保持法第12條第1項第4款所稱「開發建築用地」疑義案,請 查照。\n一、依據行政院農業委員會水土"
+  }
+ ]
+}

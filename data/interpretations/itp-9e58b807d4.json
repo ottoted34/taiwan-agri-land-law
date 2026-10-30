@@ -1,0 +1,40 @@
+{
+ "id": "itp-9e58b807d4",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941616840號",
+ "date": "2005-08-03",
+ "date_text": "094/08/03",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "台端陳情補發93年度全民造林運動實施計畫第3年造林獎勵金乙案，復如說明，請查照。",
+ "content": "一、依據花蓮縣政府94年7月29日府農林字第09401068280號函辦理暨復台端94年7月20日申請書。\n二、依據獎勵造林實施要點第5點規定，各林業管理經營機關依據造林登記卡，排定日期，於造林3個月後，檢測造林成果。此處所稱「造林三個月後」，係不論新植或補植工作，況補植亦屬新栽植之工作方式之一。是以，花蓮縣政府於93年度前往台端所轄造林地進行檢測工作，檢測不合格，依據要點第6點規定，獎勵金不發給亦無法追溯。惟該造林地如於94年度檢測合格，當可依規核發第4年造林獎勵金。\n正本:○○○君\n副本:花蓮縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000047?p=84",
+   "fetched_at": "2026-10-30T15:12:12+08:00",
+   "source_key": "forest:0000047"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9b2764ba8de69485d3235b3906f6f441374b37b8cd0ed7028522e618ebb95a24",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

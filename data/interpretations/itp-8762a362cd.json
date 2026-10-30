@@ -1,0 +1,42 @@
+{
+ "id": "itp-8762a362cd",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920142112號",
+ "date": "2003-08-05",
+ "date_text": "092/08/05",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴府函詢「椰子」可否納入獎勵造林樹種一案，復如說明，請 查照。",
+ "content": "一、復貴府九十二年七月十五日府農林字第○九二○一一七三三五號函。\n二、經查椰子類植物屬棕櫚科植物，大多數為外來種，根系非屬深根性，且非木類經濟樹種，與本會獎勵造林，國土保安，厚植水土林資源之獎勵意指不符。\n三、本會前於八十年間因可哥椰子為屏東縣縣樹而將其納入獎勵農地造林樹種之列，致使農民競相種植，惟因考慮椰子類與檳榔類等單子葉植物之種植不利於水土保持，且加入WTO 之後，本省所產之椰子無法與進口椰子競爭，目前可哥椰子已列入本會水果產業結構調整計畫─果樹廢園造林優先輔導對象，成不宜再將其列入獎勵造林樹種。\n正本：臺南縣政府\n副本：各縣、市政府（臺南縣政府除外）",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000715?p=90",
+   "fetched_at": "2026-10-30T15:13:39+08:00",
+   "source_key": "forest:0000715"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f0108e1cbdfc082bc5b4ef7945eae28a9b2485c5f30db1e44d8d8a008bd1604e",
+ "topics": [
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

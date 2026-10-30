@@ -1,0 +1,40 @@
+{
+ "id": "itp-7da4eb4dad",
+ "doc_class": "interpretation",
+ "docno": "農林字第88123463號",
+ "date": "1999-05-28",
+ "date_text": "088/05/28",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關「全民造林運動」自備種苗補助費疑義案，核復如說明，請查照。",
+ "content": "一、復貴局八十八年五月二十四日八十八林造字第一一五四七號函。\n二、補植不適用「自備種苗」方式辦理。但政府如有賸餘苗木，可酌予供應，但掘運費需自行負擔。\n正本：台灣省農林廳林務局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000702?p=100",
+   "fetched_at": "2026-10-30T15:16:01+08:00",
+   "source_key": "forest:0000702"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7bd876dd7f4e94f2e1d35ec62a7c725592c44b54458a009875fdde39b87d349b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

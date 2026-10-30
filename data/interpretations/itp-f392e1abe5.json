@@ -1,0 +1,40 @@
+{
+ "id": "itp-f392e1abe5",
+ "doc_class": "interpretation",
+ "docno": "農林字第890125135號",
+ "date": "2000-05-15",
+ "date_text": "089/05/15",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "函為貴縣先生原參加獎勵農林地造林，遭受風害申請全面更新造林及獎勵案，復如說明，請查照。",
+ "content": "一、復貴府八十九年五月六日八九府農林字第○四四六五三號函。\n二、本案所稱造林地於八十五年間遭受「安珀」颱風侵害，造成桉樹折損嚴重並經貴府查明需全面更新造林。該造林地既依規定完成砍伐手續，可同意重新申請造林，並依「獎勵造林實施要點」規定辦理。\n三、該造林地若成新申請造林，原參加獎勵農林地造林之面積應予註銷並敘明理由。另請建議○君選擇較具抗風性之造林樹種並提供技術指導或協助，以避免再度遭受風害。\n正本：花蓮縣政府\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000654?p=98",
+   "fetched_at": "2026-10-30T15:15:39+08:00",
+   "source_key": "forest:0000654"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ca2e9956ddc5af027fe8e5077fd37dfca035427d7b135b51015b8d593c84472c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-bfa9c0b574",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991653003號",
+ "date": "2010-03-22",
+ "date_text": "099/03/22",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問補申請建築執照是否免繳交山坡地開發利用回饋金案，復如說明，請 查照。",
+ "content": "一、復 貴府99年3月17日府農育字第0990059435號函。\n二、查本局94年3月7日林造字第0941603924號函說明二略以「...爰貴府公告乘積比例後，毋論原已違規興建土地，其事後為辦理補照等相關法定程序所核定之水土保持計畫，及為新建寺廟工程所提送之水土保持計畫等，均須依規核算回饋金」。是以，本局99年3月11日林造字第0991604734號函後段所述，係指建物興建及申請補發建築執照而擬具簡易水土保持申報書，均在貴府公告乘積比率前始無須繳交回饋金。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000628?p=40",
+   "fetched_at": "2026-10-30T15:01:30+08:00",
+   "source_key": "forest:0000628"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "414bfe06de67fadb825320c80856231d0886d98df68e31f3c4a76cb6e311f529",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

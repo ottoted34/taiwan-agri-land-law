@@ -1,0 +1,40 @@
+{
+ "id": "itp-6cd8ba4ef2",
+ "doc_class": "interpretation",
+ "docno": "林造字第0990177305號",
+ "date": "2010-11-22",
+ "date_text": "099/11/22",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關平地造林人君因他人鄰地之地界退縮3公尺內造林部分，可否不扣除原造林面積案，復如說明，請查照。",
+ "content": "一、奉行政院農業委員會交下復貴府99年11月15日府農林字第0990199058號函辦理。\n二、為避免早期參與平地造林之林農，因造林木高度及樹冠幅範圍，影響鄰近農作物，倘經貴府現勘及評估後，造林區有影響鄰近農業生產環境之事實，本局同意貴府在造林區與鄰近作物生產區之鄰接地帶，指導林農運用適當造林技術加以改善，惟須符合核准造林面積之成活株數基準，且緩衝帶仍應依旨揭要點規定無其他設施或農、雜作物。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000352?p=34",
+   "fetched_at": "2026-10-30T15:00:04+08:00",
+   "source_key": "forest:0000352"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c9be5e1b20cb12deb80cc1a9fa9fd786dbdb11f571f98f827aa46ca805122df7",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

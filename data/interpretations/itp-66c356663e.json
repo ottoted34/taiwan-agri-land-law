@@ -1,0 +1,40 @@
+{
+ "id": "itp-66c356663e",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第1021740111號",
+ "date": "2013-01-15",
+ "date_text": "102/01/15",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴公司函詢山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第8條第6款規定，是否適用水土保持計畫疑義案，復請 查照。",
+ "content": "一、復貴公司102年1月7日智全字第1020107CCCA號函。\n二、按本辦法第8條第6款規定「屬依水土保持計畫審核監督辦法第3條第1款、第2款或第4款規定擬具簡易水土保持申報書者。」，免繳交回饋金。故貴公司詢問從事農、林、漁、牧地之開發利用所需之整坡作業，係依規需擬具「水土保持計畫」，則應繳交回饋金。\n正本：\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000835?p=18",
+   "fetched_at": "2026-10-30T14:56:09+08:00",
+   "source_key": "forest:0000835"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d425b409f86a2f23c3d56d053e74f30338414a9e223e31d6bd68260f82f96eae",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

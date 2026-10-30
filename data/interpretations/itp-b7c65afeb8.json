@@ -1,0 +1,40 @@
+{
+ "id": "itp-b7c65afeb8",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941605368號",
+ "date": "2005-03-14",
+ "date_text": "094/03/14",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府辦理海端鄉93年度原住民保留地「全民造林運動實施計畫-造林地撫育管理計畫」造林檢測工作，部份原造林地點(號)與實際造林地點不符案，復如說明，請查照。",
+ "content": "一、復貴府94年3月8日府原產字第0940016252號函。\n二、本案既經府會同鄉公所派員檢測會勘清查，本局同意由土地權利人提具相關申請書件辦理造林登記卡變更記載，另造林地若依規檢測合格，准予於登記卡變更完成後發放該年度之造林獎勵金，檢測不合格者，亦請依相關規定辦理。\n三、造林獎勵金之發放以實際造林地之實測面積為計算基礎，若該實測面積小於原申報造林地點面積，則仍應追回溢領部分之獎勵金。\n四、請貴府持續並加強辦理轄內全民造林地之清查業務，依實核發獎勵金，以節省公帑。\n正本：臺東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000010?p=86",
+   "fetched_at": "2026-10-30T15:12:48+08:00",
+   "source_key": "forest:0000010"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1d1af40ce6f6decb9dc634664c891cdf6c62183f3d0d1ce25a5a76c6e1131f0f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

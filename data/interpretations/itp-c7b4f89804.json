@@ -1,0 +1,40 @@
+{
+ "id": "itp-c7b4f89804",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0931730080號",
+ "date": "2004-03-12",
+ "date_text": "093/03/12",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關台北縣政府等辦理山坡地開發利用回饋金之繳交，以該縣(市)政府之「山坡地開發利用回饋金乘積比率」發布為基準日，致發生執行上之疑義案，復如說明，請查照。",
+ "content": "一、復貴府93年2月23日府建三字第09304296700號函。\n二、本會93年1月29日農林字第0930104775號函釋關於山坡地開發利用回饋金繳交辦理疑義案，雖係針對台北縣政府之個案，惟其具有一體適用之規範效力，並無疑義。\n三、惟為期周延，本會近期將邀請貴府及各縣市政府就有關實務共同研商。\n正本：臺北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000309?p=89",
+   "fetched_at": "2026-10-30T15:13:24+08:00",
+   "source_key": "forest:0000309"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "16badb6a7d04c22db02e09e2ba15cef790c2f882e59a400e271ce3ce39a93bdf",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

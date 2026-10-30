@@ -1,0 +1,40 @@
+{
+ "id": "itp-60cbf0c3af",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910152429號",
+ "date": "2002-09-19",
+ "date_text": "091/09/19",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關花蓮光復鄉鄉民女士欲申請參加獎勵全民造林一案，復請查照。",
+ "content": "一、復 貴局九十一年九月十二日九一造字第零九一一六一七零七五號函。\n二、依據全民造林運動綱領第三點規定，國有林地、公私有林地、原住民保留地林業用地均為造林之對象，並以各種租地造林地、原住民保留地林業用地及山坡地林業用地之超限利用者為優先。前述適宜造林之土地，由土地所有權人或承租人實施造林，並由林業主管機關輔導之。全民造林運動綱領第四點規定，軍事用地、農牧用地、工業區、社區、礦區、道路、公園綠地、觀光遊憩地區、學校、運動場所等非林業用地，鼓勵植樹綠化。\n三、另依據獎勵實施造林第八點第四款規定，植樹綠化之軍事用地、工業區、社區、礦區、道路、公園綠地、觀光遊憩地區、學校、運動場所等非林業用地，免費供應苗木，不發給造林獎勵金。本案○○○女士坐落於花蓮縣光復鄉之三筆私有地係屬於農牧用地，依現行規定，農牧用地並無不發給造林獎勵金之規定。\n正本：本會林務局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000664?p=94",
+   "fetched_at": "2026-10-30T15:14:37+08:00",
+   "source_key": "forest:0000664"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fa3211bfdf48d730536e078b1ec9d72814690f29ae050fc4eae2a5de50d29442",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

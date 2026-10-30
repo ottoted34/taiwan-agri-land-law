@@ -1,0 +1,40 @@
+{
+ "id": "itp-4eb0313a38",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001742088號",
+ "date": "2011-09-16",
+ "date_text": "100/09/16",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢田君等3人因莫拉克風災辦理永久住宅個別重建，是否免繳交山坡地開發利用回饋金疑義案，復如說明，請 查照。",
+ "content": "一、復貴局100年8月25日嘉環森字第1000019919號函。\n二、依山坡地開發利用回饋金繳交辦法第8條第3款規定，係由中央、地方各級政府機關及公立學校興辦者，得免繳交回饋金。本案興建費用雖經嘉義縣政府協調由中華民國紅十字會援助，惟非由中央、地方各級政府機關及公立學校興辦，不符合該款規定。仍應繳納回饋金。\n正本：嘉義縣環境保護局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000378?p=26",
+   "fetched_at": "2026-10-30T14:58:06+08:00",
+   "source_key": "forest:0000378"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c558404f762e07ba28827779dcf255deb954338dc9d819ca7eb954c1057e6031",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

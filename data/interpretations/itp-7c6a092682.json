@@ -1,0 +1,51 @@
+{
+ "id": "itp-7c6a092682",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080234332號",
+ "date": "2019-08-14",
+ "date_text": "中華民國108年8月14日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "不利農業經營區之劃設原則",
+ "content": "按「申請農業用地作農業設施容許使用審查辦法」(簡稱容許辦法)第30條規定，為審慎劃設「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍」（簡稱不利農業經營地區），本會已研訂由下而上之劃設作業機制，並於105年6月13日以農企字第1050012446號函（諒達）請各直轄市、縣（市）政府依據劃設原則，進行檢討。又上開範圍之劃設，須以位於經濟部公告之嚴重地層下陷區內，且因長年淹水、土壤鹽化等「非人為原因」所導致難以經營農漁業之區位，始有劃設不利農業經營地區之合理性，以避免造成農地（魚塭）資源流失，影響糧食安全之虞，先予敘明。\n又經各直轄市、縣（市）政府依據劃設原則檢討後，本會業於104年8月14日農企字第1040012601號函與106年9月21日農企字第1060013304號函公告不利農業經營地區共38區在案，惟基於短期內自然環境不致有太大改變下，故現階段不再增設不利農業經營地區。另，查經濟部已於106年廢止嚴重地層下陷地區，且原公告之嚴重地層下陷地區亦無包含貴縣所轄範圍，併予敘明。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-08-14）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/d6756772-ff49-454d-81d3-1460e4434da5?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:45+08:00",
+   "source_key": "talis:d6756772-ff49-454d-81d3-1460e4434da5"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "dd290d290c57ef3a0ecc43eca32c88b06277b5f113d512bbc7181d51a54b4a77",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "不利農業經營區之劃設原則\n按「申請農業用地作農業設施容許使用審查辦法」(簡稱容許辦法)第30條規定,為審慎劃設「嚴重地層下陷地區內不利農業經營得設置綠"
+  }
+ ]
+}

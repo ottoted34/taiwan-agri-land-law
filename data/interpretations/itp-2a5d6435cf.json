@@ -1,0 +1,40 @@
+{
+ "id": "itp-2a5d6435cf",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951660720號",
+ "date": "2006-12-18",
+ "date_text": "095/12/18",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關91年前申請參與獎勵造林案件，於追繳造林獎勵金時，是否需加計利息疑義1案;復如說明，請查照。",
+ "content": "一、復貴府95年12月14日府農林字第0950379595號函。\n二、依據「獎勵造林實施要點」之規定，有關應加利息賠償己領取之造林獎勵金1節，其利率以計收賠償時之台灣銀行牌告基本放款利率為準，與造林戶參與獎勵造林之時點無涉，是以，本案仍請貴府依規辦理。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000022?p=72",
+   "fetched_at": "2026-10-30T15:09:19+08:00",
+   "source_key": "forest:0000022"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c6caaaee97ff5d31c7228f1270cf71c7dae1906edbc0ba485875c01c172780c6",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

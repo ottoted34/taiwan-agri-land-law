@@ -1,0 +1,42 @@
+{
+ "id": "itp-fc80428b3d",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981741440號",
+ "date": "2009-08-28",
+ "date_text": "098/08/28",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "貴府函詢申請參加平地造林計畫之申請人，得否同意其造林直接給付由他人領取案，復如說明，請查照。",
+ "content": "一、復貴府98年8月11日府農育字第0980124011號函。\n二、政府發給造林直接給付係屬授益行政處分，依據平地造林直接給付及種苗配撥實施要點(以下簡稱本要點)第13點規定，造林人負擔義務，如有違反各款規定情形情事，執行機關將廢止其造林直接給付之核准，並命造林人返還已領取之造林費用。從而，造林受有利益並負擔義務，爰造林直接給付應由造林人領取，若僅依據同意書交由他人受領，未來倘造林人違反義務時，恐衍生如何追討疑義。\n三、申請人受領造林直接給付後，即成為私有財產，得自由處分，倘申請人因個人因素，欲由他人領取造林給付，建議申請人可於受領後再將金額移交他人，併供貴府參處。\n正本：嘉義縣政府\n副本：本局嘉義林區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000339?p=46",
+   "fetched_at": "2026-10-30T15:02:52+08:00",
+   "source_key": "forest:0000339"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3a00455a6f3c5f12f4f7a0803112aaf3b57a16bfb9ef4cc815cf384c323f79e9",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

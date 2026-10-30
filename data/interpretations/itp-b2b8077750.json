@@ -1,0 +1,40 @@
+{
+ "id": "itp-b2b8077750",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951657159號",
+ "date": "2006-09-05",
+ "date_text": "095/09/05",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢原依台灣省獎勵私人造林實施要點申請者，於原約6年期滿後，可否轉入全民造林暨獎勵金追償認定乙案，復如說明，請查照。",
+ "content": "一、復貴府95年8月30日府農林字第0950241496號函。\n二、本案亦適用本局95年3月16日林造字第0951740372號函釋，請貴府依據該函辦理。\n正本:臺中縣政府\n副本:宜蘭縣政府、花蓮縣政府、南投縣政府、屏東縣政府、苗栗縣政府、桃園縣政府、高雄縣政府、基隆市政府、雲林縣政府、新竹縣政府、嘉義市政府、嘉義縣政府、彰化縣政府、臺北縣政府、臺東縣政府、臺南縣政府、國立臺灣大學生物資源暨農學院實驗林管理處、本局各林管處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000048?p=75",
+   "fetched_at": "2026-10-30T15:10:09+08:00",
+   "source_key": "forest:0000048"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "565e09d91037242bfe1401f1ab702a8a2d91b4f2c62499d46eef143a2cda5a31",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-64572bdccc",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001741696號",
+ "date": "2011-07-29",
+ "date_text": "100/07/29",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢獎勵造林之林木影響毗鄰農地農作物生長1案，復如說明，請查照。",
+ "content": "一、復貴府100年7月22日屏府農林字第1000186408號函。\n二、獎勵造林地若為新植造林地，造林區與鄰近作物生產區之鄰接地帶，應設置保留行距二~三公尺之緩衝帶。或依樹種之樹冠大小，適當保持植栽行株距，避免影響毗鄰農地之作物生長。獎勵造林地若為已成林之造林地，則應加強修剪側枝或疏伐作業，以減少毗鄰農地農作物日照不足、枯葉飄落散佈農地。倘樹根延串嚴重可執行截根處理，惟應避免傷及樹木生長。另，林地與農地之病蟲害通常不同，據監測研究瞭解，兩者間尚無明顯相互感染情形。\n三、倘若以上措施仍無法解決貴縣所遭遇的問題，建請再邀集專家學者現勘，針對個案提供技術支援，以提升貴縣造林成效。\n正本：屏東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000261?p=27",
+   "fetched_at": "2026-10-30T14:58:24+08:00",
+   "source_key": "forest:0000261"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "560b352e74d318d134ad321e7fb91d13a09f4be17212e88c1bee070cff51f8dc",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

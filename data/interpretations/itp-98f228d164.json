@@ -1,0 +1,40 @@
+{
+ "id": "itp-98f228d164",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740506號",
+ "date": "2011-03-11",
+ "date_text": "100/03/11",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "為貴府函詢問平地造林計畫林農、君等2人因土地轉賣經追繳相關造林費用提出陳情案，復如說明，請查照。",
+ "content": "一、復貴府100年2月24日屏府農林字第1000049901號函。\n二、查「平地造林直接給付及種苗配撥實施要點」第14條第2項規定「土地繼受人依前項規定同意繼續參與造林後，有前點各款情事之一者，應返還造林地期間所有已領取之造林費用」，所以土地繼受人同意繼續造林後，若有涉及應返還造林費用情形，應返還自核准造林以來，造林期間已領取之造林費用。\n正本：屏東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000384?p=31",
+   "fetched_at": "2026-10-30T14:59:22+08:00",
+   "source_key": "forest:0000384"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3392015f41f2c5e84ce98e893d0672bd55526df7e57941e03902e458a11f4d96",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

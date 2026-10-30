@@ -1,0 +1,40 @@
+{
+ "id": "itp-ad53e2d3c2",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991602609號",
+ "date": "2010-02-02",
+ "date_text": "099/02/02",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴轄民眾陳情「芭蕉樹列入獎勵造林樹種」乙案，復如說明，請查照。",
+ "content": "一、復貴府99年1月28日府農林字第0990039929號函。\n二、茲因本局現行推動獎勵輔導造林計畫規範之造林樹種，係依據行政院農業委員會97年9月19日農林務字第0971741108號令發布「獎勵造林樹種及每公頃栽植株數基準表」，其基準表規範要旨係考量造林本應採深根性本土原生樹種，方能達成造林公益及經濟效益;惟貴府來函轉送民眾陳情獎勵造林樹種增列芭蕉樹乙節，經查該植物係屬單子葉多年生，且屬草本植物，本不宜列入造林樹種，故仍請貴府本諸權責及專業，委婉向民眾說明，以杜嗣後爭議。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000211?p=41",
+   "fetched_at": "2026-10-30T15:01:46+08:00",
+   "source_key": "forest:0000211"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9e8214782026b6a694cbae2e8cf9dd2ebd3e8ca6add43c7234c079213bbe28ba",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

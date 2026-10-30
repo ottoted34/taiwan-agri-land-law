@@ -1,0 +1,40 @@
+{
+ "id": "itp-1d25788c32",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920177974號",
+ "date": "2004-01-05",
+ "date_text": "093/01/05",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢山坡地開發利用回饋金繳交疑義一案，復請查照。",
+ "content": "一、復 貴府92年12月29日北府農林字第0920780271號函。\n二、未先擬具水土保持計畫報經核准，即先行修築道路、房舍、寺廟等開發利用行為，是類案件應繳交山坡地開發利用回饋金。\n三、開發面積係指經核定水土保持計畫範圍內，各項水土保持設施、工程、建築、土地開發經營或經營使用行為等之面積總和。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000305?p=89",
+   "fetched_at": "2026-10-30T15:13:27+08:00",
+   "source_key": "forest:0000305"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c7fc0c1b67a8f30b0d2346cd0130a0fdd24c8483ce42543ed05152b8527e574a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-8632077201",
+ "doc_class": "interpretation",
+ "docno": "林企字第1021710201號",
+ "date": "2013-02-05",
+ "date_text": "102/02/05",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "有關貴局詢問烏來區哪哮段2、3-1、3-2、3-3、4、5、6、7、8、9、10、11地號等12筆土地申請採伐林木案。",
+ "content": "一、復 貴局102年1月7日北農林字第1021017460號函。\n二、旨揭12筆土地位處貴府臺北水源特定區計畫範圍內，其採伐方式與面積之限制，應視該特定區計畫之劃設目的及管制內容，以及依據相關法規規定辦理，合先述明。\n三、另查，森林法第10條所稱「限制採伐」並非「禁止採伐」，非法理上禁止為某種行為的法律或命令不作為之規定，乃係基於國土保安之長遠利益，就林地陡峻或土壤淺薄、復舊造林困難者，或伐木後土壤易被沖蝕或影響公益者，抑或位於水庫集水區、溪流水源地帶、河岸沖蝕地帶、海岸衝風地帶、沙丘區域及其他必要限制採伐地區，賦予主管機關得有限制採伐之作業方式、面積限制、材積限制、一定期間內暫停採伐或其他應遵行事項之裁量權。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000892?p=17",
+   "fetched_at": "2026-10-30T14:56:03+08:00",
+   "source_key": "forest:0000892"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "599e91bfb20204d87c2bfe2c0a5076b822f789f6cdd0634759d15f0c5b7f658f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-762fe58bc1",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0951603400號",
+ "date": "2006-03-20",
+ "date_text": "095/03/20",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關臺北市立高中及國立大學因繳交山坡地開發利用回饋金事件提出訴願，涉及山坡地開發利用回饋金繳交辦法第4條所指政府機關1節，復如說明，請查照。",
+ "content": "一、依據本會95年2月15日農訴字第0940164127號函辦理暨復貴府95年3月9日府建三字第09570307400、09574051600號函。\n二、經查政府機關依據促進民間參與公共建設法(以下簡稱促參法)規定，將行政院核定之重大公共建設以招標方式交由民間機構投資興建營運，期滿後並轉移所有權與政府機關，屬執行政府應辦事項，顯與公立學校有所區別，不宜援引比附認公立學校可解為政府機關。\n三、復查本訴願案臺北市立○○高中及國立○○○○大學係屬公立學校，從事山坡地開發利用，且非屬行政院依促參法所核定之重大公共建設，爰依山坡地開發利用回饋金繳交辦法之規定，尚難認定屬免繳之列。\n正本：臺北市政府\n副本：本會法規會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000524?p=81",
+   "fetched_at": "2026-10-30T15:11:30+08:00",
+   "source_key": "forest:0000524"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9d0e1138214244e4021c3e7555b3d3abd9b4ff732c9662c24e728a026ad82fff",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

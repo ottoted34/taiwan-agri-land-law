@@ -1,0 +1,62 @@
+{
+ "id": "itp-7a9216c150",
+ "doc_class": "interpretation",
+ "docno": "農企字第1060246041號",
+ "date": "2017-11-30",
+ "date_text": "中華民國106年11月30日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "農業用地上設置太陽光電發電設備，存有違章建築",
+ "content": "一、 依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第30條規定，於本會公告「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍」申請之綠能設施，雖依法得免與農業經營使用相結合，仍應符合容許辦法及土地使用管制相關規定，始得核發農業設施容許使用之同意文件，合先敘明。\n二、 復依非都市土地使用管制規則第8條第1項規定，「土地使用編定後，其原有使用或原有建築物不合土地使用分區規定者，在政府令其變更使用或拆除建築物前，得為從來之使用．．．」。是以，農業用地存有土地編定前既存之墳墓、廟宇，倘經檢具得為從來使用之證明文件，得續為使用且無違反區域計畫法之規定，並且視為已取得適法存在之證明文件，而得續申請農業設施之容許使用。\n三、 本會前已公開農業及農地資源盤查結果，並建置查詢圖臺，供外界參考，建請貴局轉知能源業者於承租土地前，可透過該圖臺，事先掌握土地使用現況及適法性，作為投入評估之依據。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2017-11-30）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/452335ab-c8c5-4595-84c5-fce1480899d6?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:35+08:00",
+   "source_key": "talis:452335ab-c8c5-4595-84c5-fce1480899d6"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5ad1c46c0ac1081ecf34629b7b74701179de001883ee8858016066acffa0eb5a",
+ "topics": [
+  "land_change",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "農業用地上設置太陽光電發電設備,存有違章建築\n一、 依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第30條規定,於本會公告「嚴重地層下陷地區內不利農業經營得設"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": ",始得核發農業設施容許使用之同意文件,合先敘明。\n二、 復依非都市土地使用管制規則第8條第1項規定,「土地使用編定後,其原有使用或原有建築物不合土地使用分區規定者,在政"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "墓、廟宇,倘經檢具得為從來使用之證明文件,得續為使用且無違反區域計畫法之規定,並且視為已取得適法存在之證明文件,而得續申請農業設施之容許使用。\n三、 "
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "itp-ab6ddab1a3",
+ "doc_class": "interpretation",
+ "docno": "林造字第0911651689號",
+ "date": "2002-05-23",
+ "date_text": "091/05/23",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴處建議全民造林運動新植造林時，凡屬天然下種且非果樹類之樹種，均可視為保留木一併撫育，併計新植與保留木核發造林獎勵金一案，經報奉農業委員會同意辦理，復請 查照。",
+ "content": "一、依據行政院農業委員會91年5月2日農林字第0910117873號函辦理暨復貴處91年2月25日91東政字第0917210061號函。\n二、附行政院農業委員會函影本乙份。\n正本：臺東林區管理處\n副本：行政院原住民族委員會、國立臺灣大學實驗林管理處、各縣市政府、各林區管理處(台東處除外)",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000901?p=95",
+   "fetched_at": "2026-10-30T15:15:01+08:00",
+   "source_key": "forest:0000901"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6fbee94e8aec593651580e0d4b7d17e0cb4ed0d0bbcda5a06ab80297230a5744",
+ "topics": [
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

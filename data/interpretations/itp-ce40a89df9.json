@@ -1,0 +1,40 @@
+{
+ "id": "itp-ce40a89df9",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991742196號",
+ "date": "2010-10-20",
+ "date_text": "099/10/20",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問大飯店業者申請恆春鎮鵝鑾鼻段-、-、-地號等3筆土地之「旅館客房新建工程」水土保持計畫開立山坡地開發利用回饋金之疑義案，復如說明，請 查照。",
+ "content": "一、復貴府99年10月13日屏府農林字第0990251007號函。\n二、依水土保持計畫審核監督辦法第19條第1項規定，水土保持計畫或簡易水土保持申報書於開工前或施工中有該項所列各款情形之一，應辦理變更設計。是以，該變更設計係原有計畫之延續，貴府應依山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第6條第3項規定，重新計算回饋金，並與原回饋金相抵後，無息多退少補。至於貴府所詢原計畫及各次變更計畫之效力是否存在，及是否適用本辦法第9條規定乙節，因貴府所詢疑義並不明確，仍請貴府指出具體爭議問題後，再據以憑辦。\n正本：屏東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000752?p=35",
+   "fetched_at": "2026-10-30T15:00:10+08:00",
+   "source_key": "forest:0000752"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "14e25086c752df2cf47b1f9aaca4b0841c90b1ddc13ed33ff7eee681db8b2383",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

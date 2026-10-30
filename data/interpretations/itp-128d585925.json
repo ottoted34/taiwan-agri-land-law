@@ -1,0 +1,40 @@
+{
+ "id": "itp-128d585925",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951741537號",
+ "date": "2006-10-14",
+ "date_text": "095/10/14",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄造林戶君參加全民造林運動實施計畫，如未善加管理，得否繼續核發獎勵金案，復如說明，請查照。",
+ "content": "一、復貴府95年9月28日府農林字第0950096452號函。\n二、○君造林地自83年起造林迄今，據報造林木桉樹之樹高已達15公尺，該筆造林地如符合獎勵造林實施要點(以下簡稱本要點)第6點規定者，得核發造林獎勵金，先行敘明。\n三、惟依據上揭函經貴府派員檢測，造林地有藤蔓纏繞、雜草叢生1節，依據本要點第2點規定，貴府係為林業管理經營機關，仍請貴府加強輔導造林戶確實撫育，施行造林地中後期撫育作業，俾利林木健全生長。另獎勵金核發與否，仍請貴府本諸權責，依本要點酌處。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000090?p=74",
+   "fetched_at": "2026-10-30T15:09:48+08:00",
+   "source_key": "forest:0000090"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1e54746856205b045e50ae987c283d838b5898689aadfeb56db741a43289def0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

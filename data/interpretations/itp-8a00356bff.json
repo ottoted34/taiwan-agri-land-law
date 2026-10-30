@@ -1,0 +1,40 @@
+{
+ "id": "itp-8a00356bff",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0991740194號",
+ "date": "2010-01-25",
+ "date_text": "099/01/25",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府為民眾陳情，建議本會同意將「桂竹」納入獎勵造林樹種乙事，復如說明，請查照。",
+ "content": "一、復貴府99年1月12日府農林字第0990003779號函。\n二、本會97年9月19日農林務字第0971741108號令發布「獎勵造林樹種及每公頃栽植株數基準表」(以下簡稱本基準表)之備註已敘明:「僅能栽植特殊樹種(如竹類)之地區，須奉中央主管機關核准栽植。」可資遵循，故請貴府依據該規定，如經確認符合上開條件者，專案陳報核准栽植特殊樹種。\n三、惟農民從事造林如欲融資者，得參酌「造林貸款要點」規定，申請長期低利之造林貸款，其屬本會輔導之專案農業貸款項目之一，是項優惠措施應可嘉惠農民從事造林經營事業。仍請貴府參酌上開原則，委婉向民眾說明，以免滋生爭議。\n正本：花蓮縣政府\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000760?p=41",
+   "fetched_at": "2026-10-30T15:01:49+08:00",
+   "source_key": "forest:0000760"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f1eec17b0522efd441b0f170018643f94fb689196317ec33f57b9f4b52a40660",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

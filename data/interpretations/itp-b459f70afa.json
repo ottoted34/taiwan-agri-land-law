@@ -1,0 +1,40 @@
+{
+ "id": "itp-b459f70afa",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920143537號",
+ "date": "2003-08-13",
+ "date_text": "092/08/13",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "關於宜蘭縣原住民參加全民造林運動實施計畫，領取新植造林及撫育管理獎勵金疑議案，惠請依照說明事項辦理，復請查照。",
+ "content": "一、復貴會九十二年七月二十二日原民經字第○九二○○二二九五六號函。\n二、關於造林人亡故其獎勵金發放方式一節，為避免不可預期之繼承民事糾紛考量，如有造林人亡故之情形，應俟期辦妥繼承手續後發給造林獎勵金較為合宜。\n三、另部分鄉公所未詳細查核造林申請人土地有關證件一節，惠請貴會一併調查宜蘭縣及其他縣市是否有類似情事，並請統一造冊敘明申請年度、申請造林面積、已領取之造林獎勵金及是否可於期限內取得土地權利等資料送本會研辦。\n正本：行政院原住民族委員會\n副本：宜蘭縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000738?p=90",
+   "fetched_at": "2026-10-30T15:13:36+08:00",
+   "source_key": "forest:0000738"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c2e5fe8ad14cbca1806ad2b50e70daf6339b7022683eba4f107720329be32bd2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

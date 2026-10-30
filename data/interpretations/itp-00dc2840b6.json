@@ -26,10 +26,16 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農漁字第1100257383號|釋國有非公用土地申請農業用地作水產養殖設施及綠能設施容許使用"
+  },
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/9ed43e18-2f7d-4f9b-b6b9-999be5cc7dfe?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:39+08:00",
+   "source_key": "talis:9ed43e18-2f7d-4f9b-b6b9-999be5cc7dfe"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

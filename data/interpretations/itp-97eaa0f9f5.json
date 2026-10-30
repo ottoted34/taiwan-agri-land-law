@@ -1,0 +1,42 @@
+{
+ "id": "itp-97eaa0f9f5",
+ "doc_class": "interpretation",
+ "docno": "農林字第890156351號",
+ "date": "2000-11-06",
+ "date_text": "089/11/06",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴委員國會辦公室函為先生陳請將龍眼、荔枝列入獎勵造林樹種乙案，復如說明，請函查。",
+ "content": "一、復貴委員國會辦公室八十九年十月二十六日（八九）振字第八九○一一六九號書函。\n二、全民造林運動所獎勵之樹種，原包括芒果、龍眼、橄欖等果樹類，並限以林業經營方式種植，惟部分農民以矮化、嫁接等方式變相經營，造成林務人員認定困擾；又為因應我國加入世界貿易組織（WTO），本會正推動廢園造林，以提升國內水果之競爭力，故自八十九年度起，已不再受理前開樹種之造林。基於上述理由，本案所稱龍眼、荔枝不宜列入獎勵造林樹種。\n正本：立法委員陳振盛國會辦公室\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000706?p=98",
+   "fetched_at": "2026-10-30T15:15:37+08:00",
+   "source_key": "forest:0000706"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e8a58b1e6b98fdaa4ffa62971f745687047e0c98ebbebf5a88accd00836f53f6",
+ "topics": [
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

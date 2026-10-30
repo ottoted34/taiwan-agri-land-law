@@ -1,0 +1,49 @@
+{
+ "id": "itp-5fbd2ace2e",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1080219535號",
+ "date": "2019-05-20",
+ "date_text": "中華民國108年5月20日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關依「申請農業用地作農業設施容許使用審查辦法」第28條規定申請綠能設施，是否可與原核定農業設施申請人不同",
+ "content": "一、 按農業設施係為輔助其坐落農業用地之農業生產或經營，爰農業設施之申請人，應係於該農業用地實際從事農業生產經營者，倘該實際經營者非土地所有權人，須依「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第4條規定，檢附土地使用同意書。又依容許辦法第28條規定，本辦法附表所定之各類農業設施，除申請基準或條件規定不得附屬設置綠能設施外，得在不影響農業設施用途及結合農業經營使用之前提下，依第4條規定，向土地所在地之直轄市、縣(市)主管機關提出申請設置屋頂型綠能設施；其經營計畫應敘明農業經營與綠能設施之結合情形。是以，屋頂型綠能設施須結合農業設施之農業經營，始得設置，故屋頂型綠能設施之申請人，亦以該農業設施之申請人為原則。\n二、 考量現行屋頂型綠能設施設置樣態尚包括光電業者承租農業設施屋頂予以建置及維運，故屋頂型綠能設施與其附屬之農業設施申請人倘有不同時，除須依容許辦法第4條規定檢附土地所有權人出具之土地使用同意書外，應請屋頂型綠能設施之申請人檢附其使用該農業設施屋頂之權利證明文件，復由貴局依個案實情予以審認核處。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-05-20）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/47b7e096-acf9-43b0-b43f-f810d2b65c75?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:57+08:00",
+   "source_key": "talis:47b7e096-acf9-43b0-b43f-f810d2b65c75"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1cddee46c38072ccf79b1cd05b9de004a42664c264e4eb2c6c853842813ecda1",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "28",
+   "kind": "extracted",
+   "snippet": "有關依「申請農業用地作農業設施容許使用審查辦法」第28條規定申請綠能設施,是否可與原核定農業設施申請人不同\n一、 按農業設施係為輔助其坐"
+  }
+ ]
+}

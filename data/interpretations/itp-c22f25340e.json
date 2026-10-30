@@ -1,0 +1,45 @@
+{
+ "id": "itp-c22f25340e",
+ "doc_class": "interpretation",
+ "docno": "林產字第1152204608號",
+ "date": "2026-03-05",
+ "date_text": "115/03/05",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴府申請退還110-114年間溢繳山坡地開發利用回饋金一案，復如說明，請查照。",
+ "content": "一、復貴府115年2月11日府農林字第1150029809號函。\n二、按農業部112年9月6日修正發布「山坡地開發利用回饋金繳交辦法」第6條第2項規定，山坡地開發利用案件涉及農業用地變更回饋金之繳交者，地方主管機關應依農業發展條例第12條第2項規定，將收繳之山坡地開發利用回饋金(以下簡稱回饋金)二分之一存入中央主管機關設置之農業發展基金；餘二分之一存入中央主管機關設置之林務發展及造林基金。其中收繳數額之二分之一如非整數，請無條件進位，優先存入農業發展基金；其餘二分之一則無條件捨去，存入林務發展及造林基金。\n三、綜上，本案請貴府針對110-114年間涉及農業用地變更事實，繕製應退還已繳交回饋金案件及金額清冊，並檢附貴府收據，俾憑續處。\n正本：花蓮縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0001062?p=3",
+   "fetched_at": "2026-10-30T14:53:38+08:00",
+   "source_key": "forest:0001062"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5a0d11a9cb2517fb92efb58ecd0babfa94581b409dbb12b7fc519d078b0fc0d3",
+ "topics": [],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "開發利用案件涉及農業用地變更回饋金之繳交者,地方主管機關應依農業發展條例第12條第2項規定,將收繳之山坡地開發利用回饋金(以下簡稱回饋金)二分之一存入中央主管機"
+  }
+ ]
+}

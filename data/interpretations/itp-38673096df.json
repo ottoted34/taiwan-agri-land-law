@@ -1,0 +1,40 @@
+{
+ "id": "itp-38673096df",
+ "doc_class": "interpretation",
+ "docno": "林造字第1111740322號",
+ "date": "2022-06-20",
+ "date_text": "111/06/20",
+ "agency_text": "",
+ "category": "森林產業組",
+ "subject": "茲修訂本局「國有林事業區租地造林樹種表」（如附），請查照。",
+ "content": "為因應多元生態林業相關政策，本次增修如下：\n油（苦）茶： 刪除原「限於保安林區域外栽種」文字。 栽植方式修正為「應與其他造林木混植，以帶狀交 互排列方式為佳，林帶應設於坡面最下方，面積應 達30%以上。如苦(油)茶種類或其經營方式可達5公 尺以上者可列入30%面積內」。 增加毛柿、森氏紅淡比、榔榆、桃實百日青等樹種。\n為切合實際需要，各處後續如有相關樹種或栽植方式建 議，請提供本局參考，俾利彙整研析、滾動檢討。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0001010?p=6",
+   "fetched_at": "2026-10-30T14:54:19+08:00",
+   "source_key": "forest:0001010"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "07175cb7d4e1e1e0779a180f55e10990e7a31afc9a55f28ed2b0c572ab6f811b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

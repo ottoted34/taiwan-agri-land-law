@@ -1,0 +1,40 @@
+{
+ "id": "itp-5298e24004",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740367號",
+ "date": "2011-02-23",
+ "date_text": "100/02/23",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴府詢問平地造林樹種之選擇案，復如說明，請查照。",
+ "content": "一、復貴府100年2月10日府農林字第1000016477號函。\n二、有關平地造林計畫之獎勵樹種，執行機關應先瞭解申請造林地的環境條件，依適地適木之原則，輔導造林人選擇適當樹種，以提升造林成效\n三、本案貴府來函頃接民眾陳情堅持申請單一樹種羅漢松乙事，鑑於羅漢松苗木培育單價高，囿於政府財政負擔，所育數量有限，又因國內尚有眾多本土原生造林樹種可資替代，並考量生態造林方式，以避免單一樹種造林滋生病蟲害，影響林木正常生長，故本局南投林區管理處酌量提供羅漢松苗木。是以，本案仍請貴府委婉向民眾說明。\n正本：雲林縣政府\n副本：南投林區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000401?p=32",
+   "fetched_at": "2026-10-30T14:59:30+08:00",
+   "source_key": "forest:0000401"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "eefed0ef336d5144383b3f48e865477f0c5c4d3b6dbb1bb50fb64bc8f441ad05",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

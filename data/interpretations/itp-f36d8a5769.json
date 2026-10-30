@@ -1,0 +1,40 @@
+{
+ "id": "itp-f36d8a5769",
+ "doc_class": "interpretation",
+ "docno": "配字第1140013400號",
+ "date": "2025-06-12",
+ "date_text": "中華民國114年6月12日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "釋申請臺電饋線容量是否須先申請農業設施",
+ "content": "一、 本處配合政府推動綠能發展，先前為加速案件申請，開放農業用地申請屋頂型再生能源案件可先取得本公司併聯審查意見書後，於6個月內補附「農業設施容許使用同意」、1年內補附建照，惟規定施行後發現大量案件無法於時限內完成文件申請，造成虛占饋線情形，爰本處於114年1月9日召開「太陽光電饋線容量保留展延審查及防範虛占機制研議會議」，邀集經濟部、農業部、教育部及太陽光電公/協會等機關團體共同協商，會中決議後續屋頂型案件申請時，應檢附建物審認文件，以確保建物於主管機關認定興建可行情況下，再受理案件並核發併聯審查意見書，避免前述情形一再發生。\n二、 相關防範虛占饋線容量機制，本處「配電手冊(八)-再生能源篇」已於114年3月12日公告修訂，後續向本公司申請屋頂型太陽光電併網案件，即須檢附建築物建照、使照、「再生能源發電設備設置管理辦法」第7-1條所列替代文件或主管機關其他審認文件，以減少虛占饋線之情形。\n三、 查農業設施容許使用為申請建照之要件，故於農業用地申請屋頂型再生能源案件，須請設置者取得農業設施容許使用並依上開規定取得建照後，方可向本公司申請併聯饋線容量。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2025-06-12）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/555cd53e-f84a-4177-b625-7c6d40584511?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:11+08:00",
+   "source_key": "talis:555cd53e-f84a-4177-b625-7c6d40584511"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "933f96c9b15bbead6d98ef5f5c339cee773e3eaa16a72c5370f4387f2bf3a9d6",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": []
+}

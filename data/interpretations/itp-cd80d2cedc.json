@@ -1,0 +1,40 @@
+{
+ "id": "itp-cd80d2cedc",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941612282號",
+ "date": "2005-06-06",
+ "date_text": "094/06/06",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府水里鄉鄉民君以土地管理人身份，申請具領造林撫育費案，復如說明，請查照",
+ "content": "一、復貴府94年6月1日府流生字第09400985830號函。\n二、造林獎勵金係發放予土地所有權人，本案仍請貴府於土地繼承相關事宜辦妥後始核發獎勵金予土地所有權人。惟本筆土地參與獎勵期間，貴府仍需依規辦理檢測相關工作，以為後續獎勵金補發之依據。\n正本:南投縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000013?p=85",
+   "fetched_at": "2026-10-30T15:12:28+08:00",
+   "source_key": "forest:0000013"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "617e8c588c98e89b0d6d05b372ac6de1fce10aac84ad59c432eadb057227093d",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

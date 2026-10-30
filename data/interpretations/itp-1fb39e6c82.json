@@ -1,0 +1,40 @@
+{
+ "id": "itp-1fb39e6c82",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991741851號",
+ "date": "2010-08-23",
+ "date_text": "099/08/23",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴縣光復鄉君造林地因光復鄉公所施作「社區閒置空間利用及道路綠美化工程－大華社區入口意象」工程，租借造林地面積100平方公尺，該造林地租借面積可否免予追繳已領取之造林獎勵金，復如說明，請查照。",
+ "content": "一、奉行政院農業委員會交下貴府99年7月29日府農林字第0990127856號函辦理。\n二、查「平地造林直接給付及種苗配撥實施要點」(以下簡稱本要點)第13點但書規定，僅有因病、蟲害、天然災害等不可抗力因素所導致者，造林人無須返還已領取之造林費用，合先敘明。\n三、有關本案○○○君將參與平地造林之土地自願無償借用光復鄉公所施作旨揭工程。雖為作公共設施用地，但似不符本要點第13點但書規定，造林人應返還已領取之造林費用。\n四、鑑於獎勵造林期間為20年，為避免類此案件發生，貴府應函知各鄉鎮公所應優先使用未參加相關造林計畫之土地，而非將已完成造林地移作它用，以維貴縣造林成效。\n正本:花蓮縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000356?p=36",
+   "fetched_at": "2026-10-30T15:00:31+08:00",
+   "source_key": "forest:0000356"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e88afbb9a59fa757cfac69cb2f9c4282de5e8f9291241cd632f3b141e6cad60e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

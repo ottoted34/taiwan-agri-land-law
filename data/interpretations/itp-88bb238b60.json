@@ -1,0 +1,40 @@
+{
+ "id": "itp-88bb238b60",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0961661148號",
+ "date": "2007-12-03",
+ "date_text": "096/12/03",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關辦事處於士林區至善段4小段地號土地申請建築執照，涉及山坡地開發利用回饋金繳交疑義案，復如說明，請查照。",
+ "content": "一、復 貴府96年11月19日府產業農字第096342277400號函。\n二、依據山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第8條第3款規定，中央、地方各級政府機關及公立學校興辦者，免予繳交山坡地開發利用回饋金。是以，旨揭之山坡地開發利用行為，如屬中央、地方各級政府機關興辦，始有本辦法第8條第3款規定之適用。\n三、至○○○○○○○○辦事處是否屬中央、地方各級政府機關興辦，因涉及外交事務認定及國與國之間之平等互惠原則，宜由外交部說明。\n四、副本抄請外交部參處。\n正本: 臺北市政府\n副本: 外交部",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000597?p=62",
+   "fetched_at": "2026-10-30T15:07:01+08:00",
+   "source_key": "forest:0000597"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "84a3b0d17f7910f94c41f3e210000069d0b658172dc520528fbbb1b63cb775ce",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

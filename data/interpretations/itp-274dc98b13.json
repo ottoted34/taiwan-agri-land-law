@@ -1,0 +1,40 @@
+{
+ "id": "itp-274dc98b13",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961601298號",
+ "date": "2007-01-16",
+ "date_text": "096/01/16",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "函轉貴轄民眾君詢問持有之林業用地，有關容許造林之樹種1案，如說明，請查照。",
+ "content": "一、依據○○○君96年1月15日書件辦理。\n二、依據森林法第6條第2項規定:「經編定為林業用地之土地，不得供其他用途之使用。」是以○君之土地因係屬林業用地，須依森林法及相關規定辦理，先行敘明。\n三、惟本案係屬貴轄之土地，檢附○君書件影本1份，請貴府本諸權責，依規卓處逕復。\n正本:臺北縣政府\n副本:○○○君",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000045?p=71",
+   "fetched_at": "2026-10-30T15:09:07+08:00",
+   "source_key": "forest:0000045"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e0ca6814b6bf96e9d579faa51cb57adb5c9a14de2b50fa70b1c4fc8bbbb701c2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

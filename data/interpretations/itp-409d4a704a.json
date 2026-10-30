@@ -1,0 +1,40 @@
+{
+ "id": "itp-409d4a704a",
+ "doc_class": "interpretation",
+ "docno": "林造字第0911653898號",
+ "date": "2002-09-25",
+ "date_text": "091/09/25",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "關於特定專用區之農牧用地是否可參加獎勵全民造林案，報奉行政院農業委員會核示;據報女士座落於花蓮縣光復鄉之三筆私有地係屬農牧用地，依現行規定，農牧用地並無不發給造林獎勵金之規定，復請查照。",
+ "content": "依據行政院農業委員會91年9月19日農林字第0910152429號函辦理暨復貴府91年9月3日府農林字第09100870820號函。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000829?p=94",
+   "fetched_at": "2026-10-30T15:14:36+08:00",
+   "source_key": "forest:0000829"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8c4dd4dbfe58e274b8be1e82f4e7f847effcb2f48e7942a62d8f48920c6c44c0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

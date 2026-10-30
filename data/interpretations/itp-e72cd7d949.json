@@ -1,0 +1,40 @@
+{
+ "id": "itp-e72cd7d949",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910130729號",
+ "date": "2002-06-24",
+ "date_text": "091/06/24",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關全民造林運動新植造林時，如保留林地內原生立木一併撫育，其造林獎勵金之核發疑義一案，復如說明，請查照。",
+ "content": "一、復貴會九十一年五月二十九日台(九十一)原民經字第九一五○九○三號函。\n二、有關併計新植與保留木核發造林獎勵金之方式：新植造林獎勵金發給標準按檢測後新植造林成活株數與規定成活株樹比例發給，至第二年以後之撫育及管理獎勵金則全額發給。另有關以前造林失敗地之獎勵金核發方式，亦請依照上述說明辦理。\n正本：行政院原住民族委員會\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000709?p=95",
+   "fetched_at": "2026-10-30T15:14:55+08:00",
+   "source_key": "forest:0000709"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fa61287c9530925b53ac4d1f830ce11931b48de53a307b4a39ff249b7988fe46",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

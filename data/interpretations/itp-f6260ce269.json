@@ -1,0 +1,40 @@
+{
+ "id": "itp-f6260ce269",
+ "doc_class": "interpretation",
+ "docno": "林治字第0941607243號",
+ "date": "2005-04-11",
+ "date_text": "094/04/11",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴府函為有限公司興建工程處擬使用貴縣蘆竹鄉坑子口段海湖小段-、-、-地號等三筆土地作為敷設管線使用案，復如說明，請查照。",
+ "content": "一、復貴府94年3月31日府農林字第0940083347號函。\n二、本案擬使用土地既屬貴管之公有土地，請貴府就該土地作為敷設管線使用是否符合相關法令規定以及是否影響保安林之整體國土保安功能逕予審核，並副知本局及新竹林區管理處。\n三、至有關山坡地開發利用回饋金乙節，行政院農業委員會前已以93年5月24日農授林務字第0931609731號函釋在案(諒達)。\n正本：桃園縣政府\n副本：行政院農業委員會林務局新竹林區管理處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000506?p=86",
+   "fetched_at": "2026-10-30T15:12:40+08:00",
+   "source_key": "forest:0000506"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4ca375220384e2e4a5e4268e5572e74dbf88c6976838df99e19b2ee1d455fdf2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

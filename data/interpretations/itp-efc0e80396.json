@@ -1,0 +1,40 @@
+{
+ "id": "itp-efc0e80396",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0961740719號",
+ "date": "2007-05-21",
+ "date_text": "096/05/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "本會96年5月17日農林務字第0961653927號函勘誤如說明，請 查照。",
+ "content": "一、該函說明二(一) 1、之本會「95」年，更正為「96」年。\n二、該函說明三 (一)附件一之本會「95」年，更正為「96」年。\n三、該函附件如說明三：附件一：本會「95」年，更正為「96」年。\n正本：臺北市政府\n副本：本會水土保持局、本會法規會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000580?p=66",
+   "fetched_at": "2026-10-30T15:07:54+08:00",
+   "source_key": "forest:0000580"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "988187393d8832911f6700e921bb6493caac649c9fd686ab69cd40b65c71fa78",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

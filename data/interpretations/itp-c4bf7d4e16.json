@@ -1,0 +1,42 @@
+{
+ "id": "itp-c4bf7d4e16",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0961740066號",
+ "date": "2007-01-15",
+ "date_text": "096/01/15",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴部所屬公司煉製事業部煉油廠於山坡地範圍內開挖整地，是否適用山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第4條但書所定「由政府機關興辦者」案，復如說明，請查照。",
+ "content": "一、復貴部95年12月28日經授營字第09520371280號函。\n二、行政院於95年9月18日召開本辦法修正草案檢討會議，主席裁定，應重新檢討政府機關免繳本回饋金涉及之層面。復經本會審慎檢討，認政府機關之定義不宜過度擴張，如無適當限制，則無法達成抑制山坡地開發之實質意義。\n三、查○○公司煉製事業部○○煉油廠並非政府機關，不具行使公權力之能力，係為貴部所屬國營事業機構，依據國營事業管理法第4條規定，具有營利行為。是以，其於山坡地開發利用仍應依本辦法繳交山坡地開發利用回饋金。\n正本:經濟部\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000570?p=71",
+   "fetched_at": "2026-10-30T15:09:09+08:00",
+   "source_key": "forest:0000570"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "565d338b104bbb4cb2c5e62a21f3497500bb9d093c1eda31c3a5156dc5079ae3",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

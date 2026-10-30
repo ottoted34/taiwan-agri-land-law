@@ -1,0 +1,49 @@
+{
+ "id": "itp-1d2859fa2a",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0971613663號",
+ "date": "2008-08-13",
+ "date_text": "097/08/13",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關有限公司於貴縣楊梅鎮重溪段地號土地之集合住宅新建工程之水土保持計畫，經廢止原核定水土保持計畫，申請撤銷山坡地開發利用回饋金繳納案，復請查照。",
+ "content": "一、復貴府97年8月1日府農林字第0970247335號函。\n二、按行政程序法第117條規定，違法行政處分，原處分機關得依職權為全部或一部之撤銷。另同法第122條規定，非授予利益之合法行政處分，得由原處分機關依職權為全部或一部之廢止。\n三、本案原核定水土保持計畫既經廢止，倘經貴府現場認定實際上並無開發利用山坡地情形，貴府可逕依職權「廢止」已通知水土保持義務人繳納山坡地開發利用回饋金之行政處分。\n正本:桃園縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000611?p=57",
+   "fetched_at": "2026-10-30T15:05:49+08:00",
+   "source_key": "forest:0000611"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "efeae15d24b40e80ae5c39e7af9f442d5bbf0b91c42ffbefe5c17fc40b93d2cc",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": "117",
+   "kind": "extracted",
+   "snippet": "府97年8月1日府農林字第0970247335號函。\n二、按行政程序法第117條規定,違法行政處分,原處分機關得依職權為全部或一部之撤銷。另同法第122條規定,"
+  }
+ ]
+}

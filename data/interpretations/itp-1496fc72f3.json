@@ -1,0 +1,42 @@
+{
+ "id": "itp-1496fc72f3",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981740308號",
+ "date": "2009-02-27",
+ "date_text": "098/02/27",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府造林戶君座落高樹鄉加蚋段-號土地種植之桃花心木及台灣櫸一併由債權人聲請查封之疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年2月6日屏府農林字第0980022621號函。\n二、依據民法第六十六條第二項規定:「不動產之出產物，尚未分離者，為該不動產之部分。」準此，土地上之竹木於尚未分離前，為土地的構成部份，即非獨立的不動產，不能單獨成為物權的客體。又依據法院實務見解:「物之構成部分除法律有特別規定外，不得單獨為物權標的物，未與土地分離之水稻依民法第六十六條第二項規定，為土地之構成部分，...，水稻於收割前仍為土地之一部分，屬於土地所有權人所有。」(司法院民國74年民事法律問題研究意見)\n三、本案○○○女士依據強制執行法第十二條向執行查封法院聲明異議，○女士異議是否有理，依規定由法院裁定之。\n四、隨文檢附司法院民國74年民事法律問題研究意見影本1份供參。\n正本：屏東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000330?p=53",
+   "fetched_at": "2026-10-30T15:04:40+08:00",
+   "source_key": "forest:0000330"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "796c9e6dcdeba081b8cb942935b9e3775be042863dfc4690d2eab9c8a5000aaa",
+ "topics": [
+  "partial_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

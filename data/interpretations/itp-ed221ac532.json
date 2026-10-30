@@ -1,0 +1,42 @@
+{
+ "id": "itp-ed221ac532",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011743519號",
+ "date": "2012-12-22",
+ "date_text": "101/12/22",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢先生等5人申請農路及農業資材室工程水土保持計畫，涉及山坡地開發利用回饋金繳交疑義案，復請 查照。",
+ "content": "一、復貴局101年12月17日北農林字第1013121407號函。\n二、當民眾申請設置農業設施之水土保持計畫或簡易水土保持申報書案件，可能會有配置相關水土保持處理與維護設施情形。其中設置之農業設施，倘有符合山坡地開發利用回饋金繳交辦法第8條第7款規定，則該申請案件得免繳交回饋金。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000854?p=18",
+   "fetched_at": "2026-10-30T14:56:12+08:00",
+   "source_key": "forest:0000854"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "26f8b22f1068d15ce8032da94e6ca2415da5cc1ef237ce40fd58bc9295b2c69a",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

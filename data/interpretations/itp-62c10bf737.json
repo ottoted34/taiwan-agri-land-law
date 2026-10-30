@@ -1,0 +1,40 @@
+{
+ "id": "itp-62c10bf737",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951616167號",
+ "date": "2006-08-29",
+ "date_text": "095/08/29",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴縣所轄君93年度申請參與全民造林之造林地，其地號及面積變更疑議案，復如說明，請查照。",
+ "content": "一、復貴府95年8月25日府農林字第0950106318號函。\n二、本案○○○君造林地地號及面積之變更，應以造林申請人土地所有權範圍內，「實際造林面積」為造林獎勵金之核發標準；致造林面積不足部分，仍須依規繳還歷年溢領之造林獎勵金；另如造林地內有已成林之林木應先予扣除，不得併計，合先敘明。\n三、有關貴府95年5月19日府農林字第0950048493號函送辦理造林檢測缺失改正情形表內指出，「將儘速辦理有疑義之地號界址鑑定」，惟本案中未見敘明該項後續辦理情形；又本局羅東林區管理處現場測量結果應為供參資料，實際造林面積之確認應由貴府地政主政；俟實際造林位置及面積確認後，本局俾憑同意更正。\n四、本案後續處理方式俟貴府確認實際造林位置及面積後，仍請依獎勵造林實施要點規定核發造林獎勵金，另請貴府加強輔導所轄造林戶之造林撫育工作，以維持貴縣造林成果。\n正本:宜蘭縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000031?p=76",
+   "fetched_at": "2026-10-30T15:10:12+08:00",
+   "source_key": "forest:0000031"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1b9ba1ca96e216aa94fcea7878b0d4ff163fb4c2efbd4aa5458d9c4eed59a096",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -26,10 +26,16 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第1080218805號|不利農業經營區多筆土地設置面積及隔離緩衝空間得否共同劃設_通"
+  },
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/8ef3b429-42b0-46bd-be89-1b94c2189cfc?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:02+08:00",
+   "source_key": "talis:8ef3b429-42b0-46bd-be89-1b94c2189cfc"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

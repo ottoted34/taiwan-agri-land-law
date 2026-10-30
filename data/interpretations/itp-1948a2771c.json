@@ -1,0 +1,47 @@
+{
+ "id": "itp-1948a2771c",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0991601612號",
+ "date": "2010-01-28",
+ "date_text": "099/01/28",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關屬於公告偏遠地區依法免繳交「農業用地變更回饋金」者，是否可免繳交「山坡地開發利用回饋金」疑義案，復如說明，請 查照。",
+ "content": "一、復 貴服務中心99年1月18日新字第0118號函。\n二、查山坡地開發利用回饋金繳交辦法第8條第5款規定，須「已依農業發展條例繳交相當回饋性質之金錢或代金」者，始得免繳交山坡地開發利用回饋金。本案並未繳交農業用地變更回饋金，爰無法適用該款之規定。\n正本:○○○地政服務中心\n副本:本會企劃處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000625?p=41",
+   "fetched_at": "2026-10-30T15:01:48+08:00",
+   "source_key": "forest:0000625"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "34b49546dc31e1a2994428a532101e9154b78e658bd897f7c1f0a7c28dea66e1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "二、查山坡地開發利用回饋金繳交辦法第8條第5款規定,須「已依農業發展條例繳交相當回饋性質之金錢或代金」者,始得免繳交山坡地開發利用回饋金。本案並未繳交農"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-204fa318e4",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941651834號",
+ "date": "2005-04-13",
+ "date_text": "094/04/13",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關「獎勵造林實施要點」第7點加計利息追繳造林獎勵金之計算方式疑義乙案，復如說明，請查照。",
+ "content": "一、復貴府94年4月8日府農林字第0940090677號函。\n二、經查「獎勵造林實施要點」第7點第2項業已明確規範略以，利率係以計收賠償時之臺灣銀行牌告基本放款利率為準，與其利率變動並無關聯，且應全數追回已領之造林獎勵金。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000054?p=86",
+   "fetched_at": "2026-10-30T15:12:39+08:00",
+   "source_key": "forest:0000054"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0b80bcacbbda79ea9e89ff0ae8eecd04edd910a52e909703c2694d6afa5b0dd8",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

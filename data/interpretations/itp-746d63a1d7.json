@@ -1,0 +1,43 @@
+{
+ "id": "itp-746d63a1d7",
+ "doc_class": "interpretation",
+ "docno": "農林務字第1011742883號",
+ "date": "2012-11-07",
+ "date_text": "101/11/07",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關台端陳情嘉義市政府就坐落市段號土地之興建農舍爭議案，復請 查照。",
+ "content": "一、復台端101年9月17日陳情書。\n二、按「山坡地開發利用回饋金繳交辦法」(以下簡稱本辦法)第5條第1項規定，係以水土保持主管機關核定水土保持計畫或簡易水土保持申報書之「計畫面積」計算回饋金。本會已於100年4月12日公告修正簡易水土保持申報書格式，將「計畫面積(開挖整地面積)」修正為「計畫面積」。爰100年4月12日後之簡易水土保持申請案件，須以100年4月12日修正後簡易水土保持申報書格式內所填列之「計畫面積」計算回饋金。\n三、對於100年4月12日興建農舍申請案件，其簡易水土保持申報書填列之「計畫面積」所衍生核課回饋金之爭議，本會林務局刻正研議修正本辦法之相關規定。\n正本：○○○ 君\n副本：本會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000860?p=19",
+   "fetched_at": "2026-10-30T14:56:22+08:00",
+   "source_key": "forest:0000860"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "07f5ad31a5e4cb95272026a6a8ad03dfe6b799743425b1e7e7ba2b085a5d8873",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

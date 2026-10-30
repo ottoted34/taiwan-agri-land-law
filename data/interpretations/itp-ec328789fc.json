@@ -1,0 +1,51 @@
+{
+ "id": "itp-ec328789fc",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1061348221號",
+ "date": "2018-02-21",
+ "date_text": "中華民國107年2月21日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "申請水產養殖設施設置附屬或非附屬綠能設施僅限使用清水清潔保養",
+ "content": "一、 依民眾反映有關水產養殖設施附屬或非附屬綠能(光電)設施，以酸洗液洗滌太陽能板，擔憂影響養殖生產環境或造成食安之疑慮；爰請貴府依「申請農業用地作農業設施容許使用審查辦法」(下稱本辦法)第28條及第29條之規定，於受理申請水產養殖設施附屬或非附屬綠能(光電)設施時，應要求申請人於經營計畫，敘明對於光電設施清潔保養之方式，並要求不得使用清潔劑或化學洗滌劑，僅限使用清水清潔保養，且不得影響毗鄰土地農(漁)業生產環境。\n二、 倘經貴府審核同意核發農業(綠能)容許使用同意書，應於該同意書之附註-其他(如附件)，加註「本案光電設施清潔保養時，不得使用清潔劑或化學洗滌劑，僅限使用清水清潔保養，且不得影響毗鄰土地之農(漁)業生產環境；倘有違反者，廢止容許使用同意書，並依相關法規處分」。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2018-02-21）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/64537363-60ef-4fcd-b127-9f61f1dc12eb?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:29+08:00",
+   "source_key": "talis:64537363-60ef-4fcd-b127-9f61f1dc12eb"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9a3b6edb59e751df41b39cf631a1959ca00423823338bbe2dd50f1704ed45186",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "滌太陽能板,擔憂影響養殖生產環境或造成食安之疑慮;爰請貴府依「申請農業用地作農業設施容許使用審查辦法」(下稱本辦法)第28條及第29條之規定,於受理申請水產養殖設施附屬或非附屬綠能("
+  }
+ ]
+}

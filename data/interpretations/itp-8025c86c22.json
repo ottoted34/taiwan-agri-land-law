@@ -1,0 +1,63 @@
+{
+ "id": "itp-8025c86c22",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0931610768號",
+ "date": "2004-06-07",
+ "date_text": "093/06/07",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴府函詢有關山坡地開發利用回饋金繳交疑義案，復如說明，請查照。",
+ "content": "一、復貴府93年5月27日府農林字第0930129858號函。\n二、有關山坡地開發利用回饋金繳交乙節，「山坡地開發利用回饋金繳交辦法」第2條及第3條已明定，即位於「水土保持法」第3條第3款所定之山坡地，並依「水土保持法施行細則」第8條第1項規定各款，須擬具水土保持計畫之土地開發、經營或使用行為，均須繳交回饋金，與使用分區或是否申請雜項執照無關。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000314?p=88",
+   "fetched_at": "2026-10-30T15:13:06+08:00",
+   "source_key": "forest:0000314"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110002",
+    "law_name": "水土保持法施行細則",
+    "article": "8",
+    "amended_on": "2004-08-31",
+    "history": "中華民國九十三年八月三十一日行政院農業委員會農授水保字第 0931842786 號令修正發布第 4 、30 條條文；並刪除第 5、6、8～19、40、41 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f76d0a1dbe077afc0a9039877d345e2d8824514a6569a4246423856347005a73",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "「山坡地開發利用回饋金繳交辦法」第2條及第3條已明定,即位於「水土保持法」第3條第3款所定之山坡地,並依「水土保持法施行細則」第8條第1項規定各款,須擬具水土保"
+  },
+  {
+   "law_id": "M0110002",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "條已明定,即位於「水土保持法」第3條第3款所定之山坡地,並依「水土保持法施行細則」第8條第1項規定各款,須擬具水土保持計畫之土地開發、經營或使用行為,均須繳交回饋金,與"
+  }
+ ]
+}

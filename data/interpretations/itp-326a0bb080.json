@@ -1,0 +1,40 @@
+{
+ "id": "itp-326a0bb080",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0991740087號",
+ "date": "2010-01-15",
+ "date_text": "099/01/15",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關「淡海新市鎮區外供水計畫-中繼加壓站工程水土保持計畫」，得否免繳交山坡地開發利用回饋金案，復請 查照。",
+ "content": "一、復貴部98年12月30日經授營字第09820377980號函。\n二、查本會前以98年11月17日農授林務字第0981741943號函敘明，○○○○○股份有限公司屬於國營事業，組織上應為私法人之公司，非山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第8條第3款所稱之「中央、地方各級政府機關」有案，故水土保持計畫之水土保持義務人，若為○○○○○股份有限公司，仍應繳交回饋金，合先敘明。\n三、由於貴部表示本案係內政部興辦，○○○○○股份有限公司僅配合設計及施工。因此，本案水土保持計畫之水土保持義務人，究為內政部抑或○○○○○股份有限公司，惠請貴部先予以釐清。倘水土保持義務人係內政部，則符合本辦法第8條第3款免繳交回饋金之規定。\n正本：經濟部\n副本：內政部、○○○○○股份有限公司",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000630?p=42",
+   "fetched_at": "2026-10-30T15:01:57+08:00",
+   "source_key": "forest:0000630"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "52b3974bf84eb041613c7aa70fa6204291d34eab39c479e8e7597fa00a228006",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

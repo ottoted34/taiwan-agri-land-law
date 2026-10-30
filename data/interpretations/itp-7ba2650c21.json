@@ -1,0 +1,40 @@
+{
+ "id": "itp-7ba2650c21",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910169860號",
+ "date": "2002-12-12",
+ "date_text": "091/12/12",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關 貴府縣民、、先生等三人，因獎勵造林土地及造林木遭受颱風侵害淹埋，申請重新造林乙案，請依說明二、三內容辦理，復請查照。",
+ "content": "一、復貴府九十一年十二月三日府農林字第○九一○一二○○七一○號函。\n二、本案因事隔乙年，請貴府確實查明該造林地之被害是否曾依農作物天然災害損失通報系統通報貴府，並由貴府派員查證，如查屬實，本會同意註銷該三人之獎勵全民造林案，並請將查核資料報本會備查。\n三、另有關重新申請獎勵平地造林新植乙節，因該項業務屬本會林務局主政，請於該三人之獎勵全民造林案確定註銷時，逕行向本會林務局洽詢。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000667?p=93",
+   "fetched_at": "2026-10-30T15:14:25+08:00",
+   "source_key": "forest:0000667"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "366978e46519af22be40bdb07531acd19d1e9eff3e5675b883eb3a2238ea006f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

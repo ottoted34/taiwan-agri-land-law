@@ -1,0 +1,40 @@
+{
+ "id": "itp-c564670727",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991740208號",
+ "date": "2010-01-25",
+ "date_text": "099/01/25",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關營造保安林租地申請獎勵造林行政處分書格式及租地內萌芽杉木可否依林齡向後發給獎勵金疑義案，復如說明，請查照。",
+ "content": "一、復貴處98年10月27日勢治字第0983108978號函。\n二、查行政院農業委員會98年6月18日農林務字第0981740769號函略以…「於民國94年至97年間已實施造林且未申領造林獎勵金者，得依獎勵輔導造林辦法依林齡向後發給獎勵金」，其已實施造林且未申領造林獎勵金者之申請案須符合獎勵輔導造林辦法之對象、區位及新植造林方式等，有關杉木萌芽更新是否受理申請案，請貴處就該租地是否為新植造林作業方式予以認定。\n三、另，有關獎勵輔導造林行政處分書格式乙節，請參考本局98年度全民造林計畫、公私有林經營輔導及獎勵輔導造林計畫期末檢討會暨99年度計畫研提注意事項會議資料之附件七(如附件)。\n正本: 本局東勢林區管理處\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000079?p=42",
+   "fetched_at": "2026-10-30T15:01:52+08:00",
+   "source_key": "forest:0000079"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "cebb4301fa071816eeba7b04dc0410428f3a0fd93520c12383bdb354a1bc22e3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

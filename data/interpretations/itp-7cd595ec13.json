@@ -1,0 +1,40 @@
+{
+ "id": "itp-7cd595ec13",
+ "doc_class": "interpretation",
+ "docno": "農林字第86128077號",
+ "date": "1997-06-04",
+ "date_text": "086/06/04",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "臺端函請將八十四年度已完成農地造林者納入全民造林計畫案，復如說明，請查照。",
+ "content": "一、復臺端八十六年五月二十五日陳情書。\n二、查「獎勵農地造林計畫」係六年計畫，自八十一年度開始至八十六年度為止，八十七年度以後將納入全民造林計畫繼續辦理。另前依「獎勵農地造林要點」申請並完成造林有案者，自八十六年度起均按行政院核定之「獎勵造林實施要點」規定標準核發造林獎勵金。\n正本：○○○君\n副本：雲林縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000638?p=102",
+   "fetched_at": "2026-10-30T15:16:34+08:00",
+   "source_key": "forest:0000638"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6267d6d8bf527db32ae47fa2bb848edb7d9e71b42bd1a0fe82f2f4c649f426ab",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

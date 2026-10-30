@@ -1,0 +1,40 @@
+{
+ "id": "itp-c6f7f6c245",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991741885號",
+ "date": "2010-09-01",
+ "date_text": "099/09/01",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府詢問獎勵造林實施要點第7點第2項規定，是否應每年立切結書案，復如說明，請 查照。",
+ "content": "一、復貴府99年8月17日府農林字第0990258869號函。\n二、查「獎勵輔導造林辦法」(以下簡稱本辦法)係於97年9月5日發布，於本辦法發布前依「獎勵造林實施要點」受理參加獎勵造林者，因該要點第7點規定「造林獎勵金領取人於領取獎勵金時，應立書面切結，同意接受林業主管機關之指導…；如有違背，應加計利息賠償已領取之獎勵金」，所以每年發給造林獎勵金時，應一併請造林獎勵金領取人立書面切結，作為日後可要求造林人加計利息賠償已領取之獎勵金依據。\n三、至於97年9月5日以後依本辦法受理參加獎勵造林者，因本辦法並無命獎勵造林人簽立書面切結之規定，爰若命獎勵造林人簽立書面切結，於法無據。\n正本：臺中縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000274?p=36",
+   "fetched_at": "2026-10-30T15:00:25+08:00",
+   "source_key": "forest:0000274"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3f4c7f13c20c78604af57c592e0b94ad7c1fd83a2378ad171659cc0f7b6e1f7a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

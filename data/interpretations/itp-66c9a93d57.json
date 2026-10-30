@@ -1,0 +1,40 @@
+{
+ "id": "itp-66c9a93d57",
+ "doc_class": "interpretation",
+ "docno": "農林字第88107351號",
+ "date": "1999-03-22",
+ "date_text": "088/03/22",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關國有林租地造林參加民造林，獎勵金核發疑義案，復如說明，請查照。",
+ "content": "一、復貴局八十八年二月十二日八十八年林造字第○三二五六號函。\n二、國有林租地造林者，如欲參加全民造林運動獎勵造林案仍應在不違反租地造林契約及其他相關規定下辦理。\n三、本案及其相關類似案件，本會業已答覆貴局多次在案。另檢附本會八十七年十二月十九日（八七）農林字第八七一四九九○一號及八十七年十二月三十一日（八七）農林字第八七一五九八三一號等函影印本各乙份，請卓參。\n四、至來函所提「檳榔問題管理方案」作業計畫內實施要領：「……鼓勵林農實施造林五年內完成造林……」乙節，其原意為考量執行機關人力物力之限制，分五年執行完畢，而非每一違約個案有長達五年之造林期限，特與敘明。\n正本：台灣省政府農林廳林務局\n副本：行政院秘書處、本會林業處（均含附件）",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000646?p=100",
+   "fetched_at": "2026-10-30T15:16:09+08:00",
+   "source_key": "forest:0000646"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4dac173af8d17521407e895bb068ff0beba09f79bfe8181d3d12633d104dc99a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

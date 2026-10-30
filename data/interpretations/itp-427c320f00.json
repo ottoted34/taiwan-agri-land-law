@@ -1,0 +1,40 @@
+{
+ "id": "itp-427c320f00",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971609656號",
+ "date": "2008-06-12",
+ "date_text": "097/06/12",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢貴轄獎勵造林地，進行造林木補植工作，可否於同地號原造林區域他處進行補植疑義案，復如說明，請查照。",
+ "content": "一、復貴府97年5月30日府農林字第0970172072號函。\n二、依據獎勵造林實施要點規定，造林申請人申請有案之造林地係由林業經營管理機關審核後，方可參與全民造林計畫;故有關補植造林木自應於原申請有案之造林位置施作，以符規定。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000818?p=59",
+   "fetched_at": "2026-10-30T15:06:13+08:00",
+   "source_key": "forest:0000818"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e575c59aa2b557104d358dbf6c86d690698893b6df6d3e6a36244332425889ed",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-bdd6e4b0a8",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981607371號",
+ "date": "2009-04-23",
+ "date_text": "098/04/23",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關財團法人中華民國基金會陳情奉 貴局臺灣南區辦事處南管字第0960015431號函為執行拯救地球節稅減碳造林復育國土行動計畫，規劃於屏東縣滿州鄉九棚段面積526公頃進行造林案，因尚有疑義，詳如說明，請 查照惠復。",
+ "content": "一、依據財團法人中華民國○○○○基金會98年4月20日陳情書辦理。\n二、本案係財團法人中華民國○○○○基金會指稱奉 貴局臺灣南區辦事處南管字第0960015431號函，規劃於屏東縣滿州鄉九棚段面積達526公頃，進行造林工作，並帶動失業人們投入其中，造福地方。\n三、惟查該基金會檢送之陳情書未附上開公函影本，為確認本案土地範圍究屬貴轄？抑或基金會所有?因事涉該基金會對渠等土地是否具有合法土地使用權源，惠請 貴局提供公函影本，並請貴局茲就本案土地之處理情形惠賜卓見，俾利本局續處。\n四、隨文檢附財團法人中華民國○○○○基金會陳情書影本1份供參。\n正本:財政部國有財產局\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000180?p=51",
+   "fetched_at": "2026-10-30T15:04:09+08:00",
+   "source_key": "forest:0000180"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3d6022e06b54299e3fcc285e6468bf83c17671b6166bfa18405886b052fbec4f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

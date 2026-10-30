@@ -1,0 +1,40 @@
+{
+ "id": "itp-d79f63405b",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961612407號",
+ "date": "2007-07-31",
+ "date_text": "096/07/31",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "函轉有關行政院公共工程委員會請各機關於辦理促進民間參與公共建設案件，應注意檢視是否須依法繳交山坡地開發利用回饋金之情形，如有，請於招商文件及投資契約載明，茲檢送原函影本1份，請查照。",
+ "content": "依據行政院農業委員會96年7月30日農授林務字第0960140937號函轉行政院公共工程委員會96年7月24日工程技字第09600299190號函辦理。\n正本:本局各林管處\n副本:本局森林育樂組、集水區治理組(均含附件)",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000588?p=65",
+   "fetched_at": "2026-10-30T15:07:34+08:00",
+   "source_key": "forest:0000588"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "98818cf96263a849a1dcc6ed94134f1ded471d89b2082a2b5984b341ae91fa2a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

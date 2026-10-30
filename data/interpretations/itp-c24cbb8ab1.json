@@ -1,0 +1,40 @@
+{
+ "id": "itp-c24cbb8ab1",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910138117號",
+ "date": "2002-08-19",
+ "date_text": "091/08/19",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴縣來義鄉民代表會提案建請檢討造林政策乙案，說明如下，復請查照。",
+ "content": "一、復 貴府九十一年六月二十八日屏農林字第○九一○○九九一四五號函。\n二、有關林木之採伐均係依據「林產物伐採查驗規則」規定辦理，其中公、私有林林產物之伐採應經直轄市、縣（市）主管機關許可後方得為之（第四條），伐採人必須檢具相關檔向該主管機關申請核發採運許可證（第八條），而主管機關受理申請時應實地勘查後作成報告書，依實際狀況決定是否准予伐採（第九條），此外並有相關之查驗規定配合辦理。\n三、經查本會推動全民造林運動五年之期間，森林伐採面積為三、七七九．一公頃，此與新植造林面積二五、○一九公頃相較，僅佔一五．一％。\n四、全民造林運動之目的係以獎勵方式促使林農造林，以使林地早日恢復覆蓋並減少山坡地超限利用。依「獎勵造林實施要點」規定，申請並完成造林後，經檢測合格者，始發給造林獎勵金。如今被曲解為砍大樹重小樹之政策，似有誤解，本會當加強宣導，以傳達正確之觀念，減少民眾之誤解。\n正本：屏東縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000662?p=94",
+   "fetched_at": "2026-10-30T15:14:46+08:00",
+   "source_key": "forest:0000662"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "468aa3e6c489e7fc8b67e1626f12f8d075afd8abd364b739093d5693646afc2e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

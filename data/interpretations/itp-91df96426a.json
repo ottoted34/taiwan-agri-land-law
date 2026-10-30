@@ -1,0 +1,42 @@
+{
+ "id": "itp-91df96426a",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001604736號",
+ "date": "2011-03-11",
+ "date_text": "100/03/11",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關平地造林計畫林農君因造林失敗經貴府追繳相關造林費用提出陳情案，復如說明，請查照。",
+ "content": "一、復貴府100年3月2日屏府農林字第1000048198號函。\n二、查「平地造林直接給付及種苗配撥實施要點」(以下簡稱本要點)第4點第4款規定，山坡地以外非屬都市計畫區、河川區域或排水設施範圍之農牧用地，且為經環保機關改善完成之重金屬污染農地或經濟部公告之嚴重地層下陷地區，係該要點適用之範圍。次查本要點第13點第4款但書規定，因病、蟲害、天然災害等不可抗力因素所導致者，廢止造林人之造林直接給付核准，造林人免返還已領取之造林費用。\n三、對於陳情人表示地層下陷區土地鹽化不利造林部份，此為事實認定，貴府可參酌「林農申請停止獎勵造林審核機制及處理規範」(如附)辦理。\n正本:屏東縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000396?p=31",
+   "fetched_at": "2026-10-30T14:59:19+08:00",
+   "source_key": "forest:0000396"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ac2238ccf03f55bfa800c2fbe1c708f3b6c91fe26a575db07d0d9fe6e6f28817",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,60 @@
+{
+ "id": "itp-7ccbcbcbf4",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1121347245號",
+ "date": "2023-05-31",
+ "date_text": "中華民國112年5月31日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "漁電共生申請農業用地作農業設施容許之既有農業設施處理原則",
+ "content": "一、為加速推動綠能政策，以達成2025年再生能源之設置目標，重申對配合政策並規劃申請漁電共生案場容許使用時，如其場內已有既成但未取得容許使用之設施，倘確係作為養殖使用性質，其補辦容許變更部分，仍得與漁電共生案場中之綠能設施之申請作業脫鉤辦理，毋須俟拆除改善完成，始得辦理容許使用申請作業，以加速設置流程。\n二、有關上述既有農業設施，其所占面積亦須依申請農業用地作農業設施容許使用審查辦法第7條及第21條附表4等相關規定辦理。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-05-31）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/6fcdeea6-f00e-4153-a5c5-22872ade1b0e?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:27+08:00",
+   "source_key": "talis:6fcdeea6-f00e-4153-a5c5-22872ade1b0e"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "c27d25eb8796a74eac8315d29a3c8dece3198013182399e425ab256aacc1bc6b",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": "以加速設置流程。\n二、有關上述既有農業設施,其所占面積亦須依申請農業用地作農業設施容許使用審查辦法第7條及第21條附表4等相關規定辦理。"
+  }
+ ]
+}

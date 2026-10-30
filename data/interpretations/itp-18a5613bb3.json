@@ -1,0 +1,40 @@
+{
+ "id": "itp-18a5613bb3",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0951741062號",
+ "date": "2006-08-04",
+ "date_text": "095/08/04",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關已完成開發之土地，於同範圍內新增設施致須擬具水土保持計畫，依據本會94年10月28日農授林務字第0941741229號函，屬應繳交山坡地開發利用回饋金案件，復請查照。",
+ "content": "一、復貴府95年7月28日北府農林字第0950535790號函。\n二、本案據來函說明三敘明，該高爾夫球場於83年取得籌設許可，於92年擬具水保計畫並已完工，至此階段，依據本會95年2月24日農林務字第0951740128號函釋，係屬免繳本回饋金案件無誤。惟前揭案件如已取得水土保持完工證明書，因須新增球場設施，於原申請範圍內再次擬具水保計畫，當依本會94年10年28日農授林務字第0941741229號函說明二釋示，屬應繳交本回饋金之案件。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000536?p=76",
+   "fetched_at": "2026-10-30T15:10:18+08:00",
+   "source_key": "forest:0000536"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5dd260419b3ed40e56606e4ff19f09284a27d0f8738045d909594381168e4033",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-8620b4d937",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0970159012號",
+ "date": "2008-11-10",
+ "date_text": "097/11/10",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關辦事處遷址於貴轄內湖新址基地建造後方通道申請建照，是否免繳山坡地開發利用回饋金案，復請 查照。",
+ "content": "一、復 貴府97年10月17日府授產業農字第09707066700號函。\n二、有關外交部97年10月13日外北協行字第09758038760號函表示，○○○○○○○○辦事處係經外交部核准設立之○○駐台代表機構，屬「駐華外國機構及人員特權暨豁免條例」所稱之駐台外國機構。依該例第5條第6款之規定，外國駐台機關所有之房舍，概免繳納中央及地方之稅捐及相關費用乙節，由於山坡地開發利用回饋金之性質上係屬「特別公課」，是否為「稅捐及相關費用」所含括之範疇，宜請外交部釋示，倘包括山坡地開發利用回饋金，即可免繳。\n正本：臺北市政府\n副本：外交部",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000621?p=55",
+   "fetched_at": "2026-10-30T15:05:13+08:00",
+   "source_key": "forest:0000621"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8d9585aae3f38ac8b330cb662d63c00ea25dbf3b5a036e7413489c899530ca59",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

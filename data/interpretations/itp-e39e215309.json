@@ -1,0 +1,40 @@
+{
+ "id": "itp-e39e215309",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961618042號",
+ "date": "2007-11-01",
+ "date_text": "096/11/01",
+ "agency_text": "",
+ "category": "森林產業組／林業天然災害",
+ "subject": "為貴市農民甲君於農牧用地栽植楠木、檳榔、龍眼及荔枝辦理林業天然災害疑義案，復請查照。",
+ "content": "一、森林登記規則第2條明定「本規則適用於國有林、公有林及私有林之林地暨其群生竹、木之登記。」，故非林業用地不在森林登記範圍。\n二、另農業天然災害救助辦法第5條規定略為「本辦法救助對象，係指實際從事農、林、漁、牧生產之自然人。前項救助對象，有下列情形之一者，不予救助：......使用土地、水源及設施，不符有關法令規定者，不予救助。」，本案請貴所依上開規定辦理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000807?p=63",
+   "fetched_at": "2026-10-30T15:07:09+08:00",
+   "source_key": "forest:0000807"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9ae649875dc325966d9b00baf11ec6302af53793f94e7fb196941b2fb4071dfa",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

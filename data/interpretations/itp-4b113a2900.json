@@ -1,0 +1,40 @@
+{
+ "id": "itp-4b113a2900",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011740619號",
+ "date": "2012-03-13",
+ "date_text": "101/03/13",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關101年平地造林計畫申請人君陳請造林面積認定疑義案，詳如說明，請查照。",
+ "content": "一、復貴府101年2月17日府農林字第1010028120號函。\n二、依據「平地造林直接給付及種苗配撥實施要點」第10點第1項第4款規定:「造林區與鄰近作物生產區之鄰接地帶，應設置保留行距三公尺之緩衝帶」。本案既經貴府現勘審認造林地無影響鄰田生長之情事，故無須設置保留行距三公尺之緩衝帶。至核准造林面積應以貴府實測可造林面積予以計算。\n正本:花蓮縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000408?p=22",
+   "fetched_at": "2026-10-30T14:57:10+08:00",
+   "source_key": "forest:0000408"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a28d268b6a4cfacf4c32aa6c7fe08861ecf6da61ecb602e33823f2af8f0d325b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-0c20eb92a5",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981624233號",
+ "date": "2009-12-31",
+ "date_text": "098/12/31",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢貴縣林業用地得否參與獎勵輔導造林計畫案，復如說明，請 查照。",
+ "content": "一、復貴府98年12月23日府農育字第0980195354號函。\n二、針對山坡地林業用地，倘地上現況為裸露地或草生地且無違規之情事者，鑑於該區位屬有實施造林之需要，宜可藉給付獎勵金方式，鼓勵民眾積極參與造林;惟林地如欲申請砍伐者，主管機關應嚴加審核，倘位於環境敏感地區者，基於國土保安、水源涵養等重要因素，自應審酌否准或輔導相關砍伐之申請案，以期有助於加強貴縣境內山坡地水土保持，並達成獎勵輔導造林計畫之目標。\n三、本案仍請貴府逕依上開原則，詳為調查事實個案卓處。\n正本：嘉義縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000165?p=42",
+   "fetched_at": "2026-10-30T15:02:04+08:00",
+   "source_key": "forest:0000165"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e8813833f35a5d459eca99c8530b1610a34b8ed354d88ab2bd202b153b8c40d4",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

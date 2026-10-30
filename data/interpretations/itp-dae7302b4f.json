@@ -1,0 +1,40 @@
+{
+ "id": "itp-dae7302b4f",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0961602478號",
+ "date": "2007-02-06",
+ "date_text": "096/02/06",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關政府機關依據促進民間參與公共建設法規定，將公共建設以招標方式交由民間機構投資興建營運並轉與所有權予政府之案件，非屬山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第4條但書規定，仍應繳交山坡地開發利用回饋金，復請查照。",
+ "content": "一、復貴府96年1月29日府農林字第0960036182號函。\n二、本會前以94年5月26日農授林務字第0941741421號函，就政府機關依據促進民間參與公共建設法規定，將公共建設以招標方式交由民間機構投資興建營運並轉移所有權予政府之案件，釋屬本辦法第4條但書規定，免予繳交山坡地開發利用回饋金1文，業於96年年1月16日以農林務字第0951622719號函知停止適用(正本諒達)。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000568?p=70",
+   "fetched_at": "2026-10-30T15:08:51+08:00",
+   "source_key": "forest:0000568"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f19d11593bfbbaba6bb80eefb52ccf7fe5cdbc80bff769d63de47e2fa6616551",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

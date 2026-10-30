@@ -1,0 +1,42 @@
+{
+ "id": "itp-894d196b3d",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0941741394號",
+ "date": "2005-11-11",
+ "date_text": "094/11/11",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢簡易水土保持申報書於計算山坡地開發利用回饋金時，應以申報處理土地面積或開挖整地面積計算一案，復如說明，請查照。",
+ "content": "一、復貴府94年10月27日北府農林字第0940717685號函。\n二、依據山坡地開發利用回饋金繳交辦法第5條規定，本回饋金之計算方式，應依其開發利用程度之類別，以核定水土保持計畫時之開發面積與其當期公告土地現值乘積百分之6至百分之12計算。\n三、有關開發面積之認定依據，本會前分別於93年3月25日、93年4月14日以農授林務字第0931730088\n、0931606727號函敘明略以，開發面積指經核定水土保持計畫範圍內，各項水土保持設施、工程、建築、土地開發經營或經營使用行為等之面積總和。\n四、另查水土保持計畫審核及監督要點所規範之簡易水土保持申報書內明確載有「開挖整地面積」。是以，經核定之簡易水土保持申報書，應以該面積計算山坡地開發利用回饋金。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000520?p=83",
+   "fetched_at": "2026-10-30T15:11:55+08:00",
+   "source_key": "forest:0000520"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "26fe60fe179eabf08d3e16d26a9ba22875ced6c55485d11c536bd267ad6b601c",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

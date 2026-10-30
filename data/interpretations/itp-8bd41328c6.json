@@ -1,0 +1,40 @@
+{
+ "id": "itp-8bd41328c6",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971659192號",
+ "date": "2008-10-31",
+ "date_text": "097/10/31",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府為君造林獎勵金核發疑義案，復如說明，請查照惠復。",
+ "content": "一、復貴府97年10月7日府農林字第0970222790號函。\n二、有關旨揭○○○君為參與獎勵全民造林計畫有案之獎勵金領取人，惟因未取得全部土地共有人之同意書，致使行政程序尚未完成;今據報土地共有人○○○君出具同意書，同意由 ○○○君繼續參加並領取獎勵金；然經查貴府檢送○○○97 年9月30日同意書影本，○君註記:本人參與獎勵平地造林云云，顯與獎勵全民造林計畫不符，此節仍請貴府儘速查明改正後，檢送修正後同意書過局再議。\n正本:臺南縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000241?p=55",
+   "fetched_at": "2026-10-30T15:05:18+08:00",
+   "source_key": "forest:0000241"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5c1a704882b026e5e9134c543d42e76380fae5bb33111fb6a9f48e83cbc4a3f3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

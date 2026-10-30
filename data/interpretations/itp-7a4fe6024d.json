@@ -1,0 +1,40 @@
+{
+ "id": "itp-7a4fe6024d",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981615960號",
+ "date": "2009-09-03",
+ "date_text": "098/09/03",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴處未接管之國有財產局出租土地，承租人依「獎勵輔導造林辦法」申請獎勵造林，其行政處分書應由國有財產局或由貴處開立案，復如說明，請 查照。",
+ "content": "一、復貴處98年8月31日勢作字第0983231251號函。\n二、有關獎勵輔導造林之申辦，主要係依據獎勵輔導造林辦法及農委會98年3月23日農授林務字第0981740455號函辦理，依前揭函示:有關獎勵輔導造林案件之現場勘查、核准申請案件、發給造林獎勵金及造林成果檢測等工作，授權由貴處辦理。本案土地既經貴處及國有財產局現場勘查完竣，為便於後續造林獎勵金發給及造林成果檢測等工作之統合，請貴處依規開立行政處分書並辦理後續相關事宜。\n正本：東勢林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000451?p=45",
+   "fetched_at": "2026-10-30T15:02:49+08:00",
+   "source_key": "forest:0000451"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c5e2e2752b87da3cd0764162fb5faae9eb81a9f6b03192a0daff9229e9f79346",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

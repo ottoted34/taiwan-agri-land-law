@@ -1,0 +1,40 @@
+{
+ "id": "itp-261801f73e",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011740352號",
+ "date": "2012-02-15",
+ "date_text": "101/02/15",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府辦理獎勵輔導造林計畫之檢測及獎勵金發放作業程序疑義案，詳如說明，復請查照。",
+ "content": "一、復貴府100年12月5日府原產字第1000495405號函。\n二、依據獎勵輔導造林辦法(以下簡稱本辦法)第10條第2項規定略以，獎勵造林人於新植造林完成三個月後，應向受理機關提出報告，依程序辦理檢測。因此，貴府於當年年底核准之獎勵造林案件，依據前揭規定辦理，並核發合格者造林獎勵金，並無不當。\n三、復依據本辦法第9條規定略以，獎勵造林之申請經主管機關核准者，其造林經檢測符合相關條件，主管機關得按其造林年度發給造林獎勵金。因此，主管機關必須分別依據新植檢測及撫育檢測紀錄核發造林獎勵金，不得併案辦理。\n四、副本抄送行政院原住民族委員會。\n正本：桃園縣政府\n副本：行政院原住民族委員會",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000179?p=23",
+   "fetched_at": "2026-10-30T14:57:24+08:00",
+   "source_key": "forest:0000179"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "33f9434a51e37edcf87de406b0603c190e9fbdc000d108e6e3539a8d8e21da61",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

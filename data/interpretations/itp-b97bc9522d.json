@@ -1,0 +1,40 @@
+{
+ "id": "itp-b97bc9522d",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961741675號",
+ "date": "2007-12-18",
+ "date_text": "096/12/18",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府為辦理貴縣議會第16屆第4次定期會縣政總質詢：建請林地造林獎勵金標準請比照農地休耕補助標準辦理案，復如說明，請查照。",
+ "content": "一、復貴府96年12月6日屏府農林字第0960245142號函。\n二、依據森林法規定，林地應為林用，且無農地休耕補貼之相關規定適用;有鑑於各獎勵造林計畫之時空背景不同，政策目標亦有所區隔，且涉及全國通案政策之公平性，經數次會議討論及審慎分析財政收支，實不宜提高獎勵金額度。\n正本:屏東縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000480?p=62",
+   "fetched_at": "2026-10-30T15:06:52+08:00",
+   "source_key": "forest:0000480"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1a5e4e76f185c7e3e12603bad6bda0f23c1b2bfab6a3030485a9ce00a872c089",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-7b63691bdf",
+ "doc_class": "interpretation",
+ "docno": "林產字第1152214456號",
+ "date": "2026-06-09",
+ "date_text": "115/06/09",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢建設有限公司申請退還貴市汐止區白雲段地號等2筆土地內109汐建字第號建造執照已繳交山坡地開發利用回饋金新臺幣206萬6,554元案，復如說明，請查照。",
+ "content": "一、復貴局115年6月3日新北農林字第1151072905號函。\n二、按農業部112年9月6日修正發布「山坡地開發利用回饋金繳交辦法」第4條已明定，回饋金繳交義務人，為向目的事業主管機關申請從事前條各款行為之人。倘因繳交義務人已變更，貴局自得依法廢止原處分，並另就新義務人作成核課處分，先予敘明。\n三、本案回饋金之重新核課與退還作業，請依下列說明辦理：\n(一)新、舊處分須同時辦理：貴局依法廢止「○○建設有限公司」之原課徵處分時，應同時向新義務人「○○建設有限公司」開立課徵處分，以確保行政行為之連續性，並於同一函文或併案處分中敘明新、舊處分之處理方式，以利核對。\n(二)憑廢止公文辦理退款：請貴局憑上開廢止公文，向本署辦理退還回饋金作業。\n正本：新北市政府農業局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0001074?p=2",
+   "fetched_at": "2026-10-30T14:53:17+08:00",
+   "source_key": "forest:0001074"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "64b1c4f30d098e7ccdf487b48ab8d74dbefcd82a7bbb14e61c8e799af4408acd",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [],
+ "relations": []
+}

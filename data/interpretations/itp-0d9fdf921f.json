@@ -1,0 +1,40 @@
+{
+ "id": "itp-0d9fdf921f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0941605934號",
+ "date": "2005-03-22",
+ "date_text": "094/03/22",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關台端陳請准予無條件註銷獎勵造林並同意申辦休耕轉作補助案，復請查照。",
+ "content": "一、復台端等94年3月15日陳情書函。\n二、全民造林獎勵計畫係由人民自由意願申請，非強制參加之政策。現行「獎勵造林實施要點」之獎勵造林樹種多達一百多種且林木收穫後之收益均歸農民所有，只要符合獎勵樹種規定，造林樹種之選擇係為依林農個人喜好選定，林業主管機關僅係從旁協助，進行技術上之輔導。\n三、依照「獎勵造林實施要點」之規定，全民造林係為二十年之長期獎勵，本案仍應依規補植，否則即應依「獎勵造林實施要點」之規定加計利息追賠已領取之獎勵金。\n四、有關同意辦理休耕轉作補助乙節，則請逕洽行政院農業委員會農糧署。\n正本：桃園縣新屋鄉民○○○○\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000011?p=86",
+   "fetched_at": "2026-10-30T15:12:45+08:00",
+   "source_key": "forest:0000011"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f6468a2d34d7a9249adcf0ecdd1a26925aa0f5e74043de35df436839df0c9443",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

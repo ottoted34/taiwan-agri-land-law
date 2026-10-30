@@ -1,0 +1,40 @@
+{
+ "id": "itp-1ab02842d0",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001611008號",
+ "date": "2011-05-31",
+ "date_text": "100/05/31",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "為貴府函詢貴縣鳳林鎮公所提議:「建請研議平地造林補助期滿20年後仍能繼續補助，以維農民之生計」案，復如說明，請查照",
+ "content": "一、復貴府100年5月27日府農林字第1000090598號函。\n二、本局推動獎勵造林計畫期滿20年後，地上林木所有權係屬造林人所有，造林人可自行處置。查平地景觀造林計畫係從91年度起推動，迄今未滿20年，貴府仍應善盡輔導之責，督促造林人妥善撫育造林木，以達成造林目標。\n正本：花蓮縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000382?p=29",
+   "fetched_at": "2026-10-30T14:58:52+08:00",
+   "source_key": "forest:0000382"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fdc5553dd11aedd6675789b523680efb835ec37908b5d81cbdff7f283f42cf6f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

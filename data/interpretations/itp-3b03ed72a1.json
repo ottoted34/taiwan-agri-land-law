@@ -1,0 +1,40 @@
+{
+ "id": "itp-3b03ed72a1",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961661307號",
+ "date": "2007-12-10",
+ "date_text": "096/12/10",
+ "agency_text": "",
+ "category": "森林產業組／林產物伐採",
+ "subject": "有關貴府函詢關廟鄉獎勵造林之農牧用地進行疏伐作業疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年12月4日府農林字第08960262013號函。\n二、依據獎勵造林實施要點(以下簡稱本要點)第2點規定，貴府係屬林業管理經營機關，有關獎勵造林地於獎勵期限內，貴府自應依據本要點規定辦理，輔導造林人妥善撫育造林木竹、執行造林成果檢測及核發造林獎勵金等業務，如查有違反本要點之情事，應依本要點規定辦理;先行敘明。\n三、另本案系爭土地據報位於農牧用地，有關林業用地、農牧用地、水利用地、建築用地等土地內竹木，可否受理伐採申請並核發採運許可證之疑義，仍請依本局95年5月2日林造字第0951608141號函辦理。\n正本：臺南縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000475?p=62",
+   "fetched_at": "2026-10-30T15:06:58+08:00",
+   "source_key": "forest:0000475"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0017162a30487de6af1e35ccc92e4a6f09e529a712d4922b4767b8fbd2536812",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

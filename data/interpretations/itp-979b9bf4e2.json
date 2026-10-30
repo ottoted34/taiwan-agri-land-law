@@ -1,0 +1,42 @@
+{
+ "id": "itp-979b9bf4e2",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920132665號",
+ "date": "2003-06-09",
+ "date_text": "092/06/09",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "臺端對於獎勵造林等疑義案，復如說明，請 查照。",
+ "content": "一、復臺端九十二年五月二十九日陳請書。\n二、本會九十二年度「全民造林運動」新植造林部分經費已全數移至中央對地方政府之一般性輔助款項下，改由地方政府自行編列經費，本年度本會亦無經費辦理新植造林獎勵工作。惟因考量許多縣市政府財政困難，本會已向行政院建議該經費自九十三年度起移回本會編列。\n三、另全民造林運動實施計畫為政府既定之獎勵造林政策，目前仍持續推行並無停辦之情事，各受理機關於政策明令變更前理應仍受理符合條件之申請案件。臺端林地如係向財政部國有財產局承租之國有林地，則應向該局申請獎勵造林。\n四、另臺端建請補助修路鋪設水泥路面經費一節，經查本會並無相關經費補助縣市政府辦理產業道路興修工作，仍應請臺端逕洽臺東縣政府。\n正本：○○○先生\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000678?p=91",
+   "fetched_at": "2026-10-30T15:13:51+08:00",
+   "source_key": "forest:0000678"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "aceda47c9728d1cf2a6e269141e1c4e196363d8324d754e342a7f93016deff69",
+ "topics": [
+  "paving"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

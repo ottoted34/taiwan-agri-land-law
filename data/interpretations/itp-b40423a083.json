@@ -1,0 +1,43 @@
+{
+ "id": "itp-b40423a083",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0971616270號",
+ "date": "2008-10-16",
+ "date_text": "097/10/16",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關有限公司函詢涉及山坡地開發利用回饋金之計畫面積疑義案，復請 查照。",
+ "content": "一、依據本會林務局案陳貴府97年9月11日府經農字第0970219275號函辦理。\n二、有關○○○○○○有限公司來函之說明二、三詢問事項，茲分別說明如下:\n(一)說明二詢問山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)係森林法授權，對於申請前已作為建築用地面積，可否由計畫面積扣除一節，查森林法第48條之1，已明定山坡地開發利用者繳交回饋金，故屬於山坡地範圍內之開發利用行為，依法應繳交回饋金，與土地編定種類無關。\n(二)說明三詢問計畫面積得否扣除規劃為緩衝帶或不可開發建築地區一節，因開發之計畫範圍內，若有涉及邊坡開挖或坡度陡峭而依規需設置緩衝帶或規劃為不可開發建築地區，仍屬於開發行為中之一部分，不因未涉及開挖整地而予以排除。\n三、綜上，本辦法第5條已明定以「計畫面積」計算回饋金，並無可扣除已作為建築用地、規劃為緩衝帶或不可開發建築用地等面積之規定。\n正本：臺中市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000622?p=56",
+   "fetched_at": "2026-10-30T15:05:24+08:00",
+   "source_key": "forest:0000622"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a861372ddaac8db1e34e4a4ea8dc4c7d960571b6081234ac294341b601bf0b11",
+ "topics": [
+  "partial_use",
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

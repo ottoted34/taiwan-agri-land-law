@@ -1,0 +1,44 @@
+{
+ "id": "itp-a3582788e3",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1101346676號",
+ "date": "2021-03-18",
+ "date_text": "中華民國110年3月18日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "推動辦理養殖漁業經營結合綠能設施，涉及養殖事實認定標準案",
+ "content": "一、 農業經營結旨案經本(110)年1月23日經濟部邀集本會等單位召開「太陽光電討論議題研商會議」討論，結論略以:\n(一) 漁電共生為確保實際養殖行為，將以其漁產物具產銷履歷(或ASC等國際相關認驗證)、購買魚苗及飼料單據、放養量申報及魚貨交易等文件作為判斷養殖經營事實之參據項目，並依申請農業容許之養殖經營計畫書內放養量為基準，請漁民落實每年放養量申報，作為地方政府容許審查依據。\n(二) 至於營運期間，除發生天然災害或不可抗力事實外，若未依經營計畫書辦理或未落實放養量申報，將以所提經營養殖物種於漁業統計年報近3年產量平均值7成作為養殖經營事實之判定。\n(三) 另在20年期間，擬變更養殖物種，可向地方農業主管機關申請變更養殖經營計畫。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-03-18）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/67313cff-22fe-4d69-a954-cdcc95b3ed69?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:06+08:00",
+   "source_key": "talis:67313cff-22fe-4d69-a954-cdcc95b3ed69"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b6a08f4a8d655b27e550e3143776b2d29bcb30766d4107bb21583de4921c30b1",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

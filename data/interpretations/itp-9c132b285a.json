@@ -1,0 +1,41 @@
+{
+ "id": "itp-9c132b285a",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1141544358號",
+ "date": "2025-02-07",
+ "date_text": "中華民國114年2月7日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "釋魚塭結合綠能設施是否應辦理環評",
+ "content": "一、 依據環境部「開發行為應實施環境影響評估細目及範圍認定標準」第17條規定略以：「魚塭或魚池之興建或擴建，有下列情形之一者，應實施環境影響評估......」；又環境部「環境影響評估法施行細則」第12條附表1-環境影響評估主管機關管轄分工表第15項規定，魚塭或魚池之開發，其環境影響評估主管機關為直轄市、縣（市）主管機關，合先敘明。\n二、 綜上，魚塭申請結合綠能設施之行為是否屬「魚塭或魚池之興建或擴建」，應由縣市政府本權責審認。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2025-02-07）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/7be17894-bfc9-4c37-91b4-36ed93d8daa8?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:15+08:00",
+   "source_key": "talis:7be17894-bfc9-4c37-91b4-36ed93d8daa8"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3f47e9a0244e3e8ed0c2815af84f54715ff9943670b18330bc4cf296d3ccb71a",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": []
+}

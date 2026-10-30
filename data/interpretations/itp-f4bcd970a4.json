@@ -1,0 +1,49 @@
+{
+ "id": "itp-f4bcd970a4",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0971741482號",
+ "date": "2008-11-24",
+ "date_text": "097/11/24",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴轄甲仙鄉公所詢問農地遭受天然災害整地，與山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)中所謂的「開發利用」是否相符案，復請 查照。",
+ "content": "一、復貴府97年10月24日府農自字第0970249549號函。\n二、查本辦法第3條規定，所稱山坡地開發利用，指水土保持法第12條第1項及第4項規定，應先擬具水土保持計畫或簡易水土保持申報書之行為。據此，農地遭受天然災害而整地行為，倘若須擬具水土保持計畫或簡易水土保持申報書，仍有本辦法第3條規定之適用。\n三、另本會已擬具本辦法修正草案，對於符合簡易水土保持申報書之農業整坡行為，增列為回饋金免繳對象，並陳報行政院核議中。俟本辦法修正草案核定後，應可解決甲仙鄉公所之反映之問題，併此敘明。\n正本：高雄縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000623?p=55",
+   "fetched_at": "2026-10-30T15:05:10+08:00",
+   "source_key": "forest:0000623"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "be5c44446b1431aacd9050f3a938d5eaa9384f2ce596971a5d8cdd3681d72e0a",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "549號函。\n二、查本辦法第3條規定,所稱山坡地開發利用,指水土保持法第12條第1項及第4項規定,應先擬具水土保持計畫或簡易水土保持申報書之行為。據此,農地遭"
+  }
+ ]
+}

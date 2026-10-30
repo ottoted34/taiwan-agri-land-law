@@ -1,0 +1,47 @@
+{
+ "id": "itp-31bdc42c3f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961740294號",
+ "date": "2007-03-02",
+ "date_text": "096/03/02",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "全民造林計畫之造林獎勵金追償疑義，有關事涉公法上請求權之時效性，請依說明事項辦理，請察照。",
+ "content": "一、依據新竹縣政府96年2月15日府農森字第0960010630號函辦理。\n二、依據法務部90年3月22日(90)法令字第008617號函釋略以:行政程序法施行前已發生公法上請求權之消滅時效期間，得類推適用民法消滅時效之規定。\n三、檢附前揭法務部函釋資料1份，敬請大會通知貴管項下各受補助單位，依該函釋辦理。\n正本：行政院原住民族委員會\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000103?p=69",
+   "fetched_at": "2026-10-30T15:08:40+08:00",
+   "source_key": "forest:0000103"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f508edf18f9a94bdae1f77b6c7a92fa25b6d351a8a7d0009b5f2f5c72a02ef1a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "務部90年3月22日(90)法令字第008617號函釋略以:行政程序法施行前已發生公法上請求權之消滅時效期間,得類推適用民法消滅時效之規定。\n三、檢附"
+  }
+ ]
+}

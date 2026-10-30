@@ -1,0 +1,51 @@
+{
+ "id": "itp-a7f855b5d7",
+ "doc_class": "interpretation",
+ "docno": "漁四字第1121201239號",
+ "date": "2023-01-31",
+ "date_text": "中華民國112年1月31日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關養殖漁業經營結合綠能設施之地方查核養殖經營事實辦理",
+ "content": "一、依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第33條規定辦理。\n二、請貴府落實(併同通知所轄公所)依容許辦法辦理第33條規定，應加強對旨揭取得容許使用之農業設施及其坐落之農業用地造冊列管，並視實際需要抽查是否依核定計畫內容使用；未依計畫內容使用者，得廢止其許可，並通知地政、能源等主管機關依相關規定處理。但配合政策休耕、休養、停養者，不在此限。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-01-31）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/f47ab8f3-5e71-4903-831b-361b6010556c?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:33+08:00",
+   "source_key": "talis:f47ab8f3-5e71-4903-831b-361b6010556c"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5b3cc695448cf46252fe09d9737288d996714f18e3c028e3805fd21b9783c6ea",
+ "topics": [
+  "facility_use",
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "關養殖漁業經營結合綠能設施之地方查核養殖經營事實辦理\n一、依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第33條規定辦理。\n二、請貴府落實(併同通知所轄公所)依容許辦法"
+  }
+ ]
+}

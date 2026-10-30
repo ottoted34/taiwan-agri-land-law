@@ -1,0 +1,40 @@
+{
+ "id": "itp-f8366cdf29",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981656737號",
+ "date": "2009-07-03",
+ "date_text": "098/07/03",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府為貴縣員林鎮民眾所有20年以上林木之土地申請獎勵輔導造林計畫案，復如說明，請查照。",
+ "content": "一、復貴府98年7月1日府農育字第0980154009號函。\n二、依據行政院農業委員會98年6月18日農林務字第0981740769號函示有關得申請造林獎勵金者係包含民國94至97年間已實施造林、未領取造林獎勵金且符合獎勵輔導造林辦法規範之區位者，經主管機關現場勘查後，認有實施造林必要者始核准之。\n三、本案據報申請造林獎勵金之土地，其地上林木已逾20年，經查該等造林地未在上開規範範圍內，現行歉難申請造林獎勵金；惟貴府既因基於為避免貴縣發生砍大樹種小樹之情事，此仍應由貴府依據林產物處分相關規定，依據權責准駁民眾處分林木之申請案件，以維貴縣森林覆蓋。\n四、另，倘貴縣有民眾自行從事造林欲融資者，可協助民眾申請造林貸款，裨使提昇貴縣造林成效。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000207?p=48",
+   "fetched_at": "2026-10-30T15:03:30+08:00",
+   "source_key": "forest:0000207"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2dfb5c573b01f375bdf41e80ba424a118dca1d41ebfa92120bfceacf4353885a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

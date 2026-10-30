@@ -1,0 +1,40 @@
+{
+ "id": "itp-af3d6ef2e1",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011740222號",
+ "date": "2012-01-17",
+ "date_text": "101/01/17",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴縣民眾反映依林齡向後發給造林獎勵金，樹種為伐採跡地萌生苗種，為水土保持不挖樹根，不植新樹苗，可否做為納入撫育管理計畫疑義案，詳如說明，復請查照。",
+ "content": "一、復貴府100年11月3日府原經字第1000148762號函。\n二、有關獎勵輔導造林案件之申辦須依據獎勵輔導造林辦法及獎勵造林審查要點等相關規定辦理，貴府函詢萌生樹種可否以撫育方式納入獎勵輔導造林計畫辦理，本局將另案研議，俟有結果後再另函知貴府辦理。\n正本：新竹縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000288?p=24",
+   "fetched_at": "2026-10-30T14:57:28+08:00",
+   "source_key": "forest:0000288"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ef5305fa47d134c1f277e345be9a3b89e2dac478fcc4075db7d4e961cddb4f64",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,44 @@
+{
+ "id": "itp-d17b976273",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第1070221611號",
+ "date": "2018-06-04",
+ "date_text": "中華民國107年6月4日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "農機具設施、農產運銷加工設施及農事操作管理設施，申請附屬設置綠能設施是否應依容許辦法第28條規定採二階段申請疑義案",
+ "content": "一、 查申請農業用地作農業設施容許辦法第28條第2項規定略以，申請農業設施附屬綠能設施，需符合原核定之計畫內容使用，始得依第5條規定核發農業用地作農業設施容許使用同意書。次查行政院農業委員會106年6月7日農授糧字第1060217942號函既已敘明農業設施附屬綠能設施之查核重點，在於農業設施結構及用途，以及農業經營狀況有無符合經營計畫使用，上開設施之設置仍應依其核定用途使用，且面積、高度及配置符合原核定之容許使用同意書及設施配置圖。合先敘明。\n二、 爰申設農機具設施、農產運銷加工設施及農事操作管理設施，仍應先依法申請、完成設置，並查核確為依其核定用途使用後，始有附屬設置綠能設施之可能，亦即採二階段審查，不宜依申請上開農作產銷設施所檢附之產銷實績，逕為核定附屬設置之綠能設施。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2018-06-04）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/d822f3c6-859f-436d-ae8b-2823134d6c6b?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:23+08:00",
+   "source_key": "talis:d822f3c6-859f-436d-ae8b-2823134d6c6b"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0b4f95c74fa8e32c17c8f4c34c2f5879982c8c6da3de425467ed4f9441819acd",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

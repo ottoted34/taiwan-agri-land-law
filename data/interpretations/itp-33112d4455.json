@@ -1,0 +1,40 @@
+{
+ "id": "itp-33112d4455",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920100235號",
+ "date": "2003-02-07",
+ "date_text": "092/02/07",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴府函詢關於林農在修正「獎勵造林實施要點」修正後，其林地符合現行獎勵條件，可否領取撫育管理費案，復如說明，請 查照。",
+ "content": "一、復貴府九十一年十二月三十一日府農林字第九一○五二○一五二七號函。\n二、查「獎勵造林實施要點」之獎勵金包括新植費用、新植撫育費及造林管理費等三項。本案林農於八十二、八十三、八十四年間誤植之樹種在九十一年本會修正「獎勵造林實施要點」後已屬合法獎勵樹種，其新植費用、新植撫育費雖因不符修正前之要點致無法領取，惟造林管理費如符合現行規定者，似得發放。\n三、本案如造林地栽植造林年度可以確認，且林地現況為造林管理經營良好之林地（非屬園藝樹苗栽植方式），准予經林農切結後依其栽植年數發放後續年度之造林獎勵金。\n正本：\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000669?p=93",
+   "fetched_at": "2026-10-30T15:14:19+08:00",
+   "source_key": "forest:0000669"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8742a0cd7ac246ec45e1a71d8c136ab33c0521c45405816158f915dd74421dec",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

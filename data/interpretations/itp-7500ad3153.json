@@ -1,0 +1,42 @@
+{
+ "id": "itp-7500ad3153",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961655316號",
+ "date": "2007-06-07",
+ "date_text": "096/06/07",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢獎勵造林實施計畫追償造林獎勵金事宜1案，復如說明，請查照。",
+ "content": "一、復貴府96年6月5日府農林字第0960184517號函。\n二、有關全民造林運動實施計畫之造林獎勵金追償1節，本局前於94年10月11日林造字第0941741155號函送，有關召開94年度全民造林運動實施計畫期中檢討會議紀錄討論事項二，有關未依規定善加管理經營造林木，追賠獎勵金之相關疑義案，該項決議業依據獎勵造林實施要點第7點規定，已訂定計算方式在案，仍請貴府依據該函示辦理。\n正本:桃園縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000071?p=66",
+   "fetched_at": "2026-10-30T15:07:48+08:00",
+   "source_key": "forest:0000071"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "983b6a98891b727a596c428c53be3ac5598f7a988a458ce5199acc49d4448648",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

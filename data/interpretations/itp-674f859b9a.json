@@ -1,0 +1,50 @@
+{
+ "id": "itp-674f859b9a",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011742090號",
+ "date": "2012-07-30",
+ "date_text": "101/07/30",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局詢問同時申請多項農業設施之山坡地開發利用回饋金繳交疑義案，復請 查照。",
+ "content": "一、復貴局101年7月16日北農林字第1012151984號函。\n二、當民眾申請興建多項農業設施案件時，其中農業資材室、網室、溫室等建築物，如係「農業發展條例」第8條之1第1項及第2項但書免申請建築執照者，依「山坡地開發利用回饋金繳交辦法」第8條第7款規定，該申請案件得免繳交回饋金。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000868?p=20",
+   "fetched_at": "2026-10-30T14:56:37+08:00",
+   "source_key": "forest:0000868"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "53a3ad38983b8b350de5e08e351b11e065c27bd886b07cd5bedb37fcd4eaacde",
+ "topics": [
+  "material_room",
+  "greenhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "多項農業設施案件時,其中農業資材室、網室、溫室等建築物,如係「農業發展條例」第8條之1第1項及第2項但書免申請建築執照者,依「山坡地開發利用回饋金繳交辦法」第8條第7"
+  }
+ ]
+}

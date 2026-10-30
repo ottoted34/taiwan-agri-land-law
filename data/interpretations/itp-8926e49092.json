@@ -1,0 +1,40 @@
+{
+ "id": "itp-8926e49092",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910135855號",
+ "date": "2002-06-27",
+ "date_text": "091/06/27",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴縣(股)公司區營業處因配電線路工程損害農民所植林木，要求以觀賞木單價辦理補償一案，復如說明，請查照。",
+ "content": "一、復貴府九十一年六月十九日府農林字第○九一○○六四○一四號函。\n二、本案所列地上物樹種：福木、大葉山欖、桃花心木、黑板樹等均具有多元化之用途，而依其目的用途之不同，於栽植及經營方式上亦有所差異，故其補償費之核算標準應視現場林木實際情況由貴府認定之。\n正本：臺東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000710?p=95",
+   "fetched_at": "2026-10-30T15:14:54+08:00",
+   "source_key": "forest:0000710"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f8543fb3541530a7ecf56874a11e8516881332e196e404c0df9629f19651a9b1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

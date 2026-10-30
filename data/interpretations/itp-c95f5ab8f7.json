@@ -1,0 +1,47 @@
+{
+ "id": "itp-c95f5ab8f7",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961658776號",
+ "date": "2007-09-19",
+ "date_text": "096/09/19",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄造林戶君申請全民造林計畫有案土地，其造林檢測疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年9月14日府農林字第0960096977號函。\n二、本案仍請貴府依據本局前於96年9月10日林造字第0961614882號函辦理，惟尚須考量行政程序法第102條規定，應給予該處分相對人陳述意見之機會。\n三、貴府係屬林業管理經營機關又為原處分機關，如經貴府查明屬實顯違反獎勵造林第7點規定者，自應依規追回造林獎勵金並附加利息。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000811?p=63",
+   "fetched_at": "2026-10-30T15:07:18+08:00",
+   "source_key": "forest:0000811"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "7b5b2816a9da3dad1f3f0308c013a2108414fc408f6508862a114349850b5c74",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": "102",
+   "kind": "extracted",
+   "snippet": "年9月10日林造字第0961614882號函辦理,惟尚須考量行政程序法第102條規定,應給予該處分相對人陳述意見之機會。\n三、貴府係屬林業管理經營機關又為原處分"
+  }
+ ]
+}

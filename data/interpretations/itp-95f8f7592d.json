@@ -1,0 +1,40 @@
+{
+ "id": "itp-95f8f7592d",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001742190號",
+ "date": "2011-10-03",
+ "date_text": "100/10/03",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴處轄大安溪事業區第129林班假、號地承租人君陳情案，復如說明，請查照。",
+ "content": "一、復貴處100年7月27日勢政字第1003212010號函。\n二、造林獎勵金係屬政府補助民眾造林20年所需之造林成本費用，並非生活補助費或社會福利金。為發揮林地之國土保安及水源涵養功能，達成綠化環境、增加森林碳吸存量，厚植森林資源及減輕天然災害等目標，並依據森林法第48條之授權規定，農委會已於97年9月5日會同原民會辦理會銜公告「獎勵輔導造林辦法」，造林獎勵金每公頃20年合計53萬元已提高為60萬元。\n三、98年莫拉克風災重創台灣山區，各界及民代多方關切應適度提高造林獎勵金，以儘速恢復山林面貌及厚植森林資源，達國土保安，本局並已從機會成本、造林發揮之生態效益、政府財政長期負擔、是否符合公平正義及有無其他措施可資推動造林等議題，多次研擬提高造林獎勵金之可行性並陳報層峰，惟未奉核定，未來將視政府財政狀況許可後，再行研議。\n正本：東勢林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000124?p=26",
+   "fetched_at": "2026-10-30T14:58:00+08:00",
+   "source_key": "forest:0000124"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c8935f9bdf246267353d4440690a903dd1dea237f9cb79fa557240df0081f77c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

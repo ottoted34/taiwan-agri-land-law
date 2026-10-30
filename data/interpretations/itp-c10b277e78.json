@@ -1,0 +1,57 @@
+{
+ "id": "itp-c10b277e78",
+ "doc_class": "interpretation",
+ "docno": "漁四字第1121225953號",
+ "date": "2023-09-27",
+ "date_text": "中華民國112年9月27日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "釋申請農業用地作農業設施容許使用審查辦法第21條附表4一般農業區農牧用地之既存養殖池之認定「該期間」有在養事實定義",
+ "content": "二、針對旨揭「該期間」之認定原則，應係指養殖池設置日起至112年2月20日，又基於農業設施係輔助農業生產，該養殖池應於112年2月20日後亦持續養殖迄今，始有同意容許使用之合理性及必要性，故於一般農業區農牧用地申請室外或室內水產養殖生產設施，其既存養殖池應於設置後迄今有持續養殖之事實，始符合容許辦法之規定。\n三、至於相關證明文件，原則採近3年內放養量申報(查)報作為佐證資料，必要時亦可就經營所需事項資料進行認定，如用電證明、進苗證明、飼料購買單據、出貨單、產銷履歷驗證等相關證明及紀錄。\n四、另倘有養殖池閒置或養殖期間中斷等情形，均未符合容許辦法之規定。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-09-27）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/4f9f51a5-3f67-4327-ae72-d1679d6c6b8b?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:21+08:00",
+   "source_key": "talis:4f9f51a5-3f67-4327-ae72-d1679d6c6b8b"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "21",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "f44949dbaf32ed4679a58ec144253633050dc76332cb300adb24bf93a86ebf64",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "21",
+   "kind": "extracted",
+   "snippet": "釋申請農業用地作農業設施容許使用審查辦法第21條附表4一般農業區農牧用地之既存養殖池之認定「該期間」有在養事實定義\n二、針對旨揭"
+  }
+ ]
+}

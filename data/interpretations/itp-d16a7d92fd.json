@@ -1,0 +1,40 @@
+{
+ "id": "itp-d16a7d92fd",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971621785號",
+ "date": "2008-12-11",
+ "date_text": "097/12/11",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢補助貴府97年度「全民造林運動實施計畫-造林地撫育管理暨苗木培育計畫」之委託勞務費疑義案，復如說明，請查照。",
+ "content": "一、復貴府97年12月5日府農林字第0970187823號函。\n二、旨揭計畫如有須申請展延之情形，應依「行政院農業委員會主管計畫經費處理作業規定」第31條第2款規定:「由執行單位直接向本會申請，申請保留之款項，以計畫書內所核定預算項目之經費，在計畫預定結束以前已發生權責及受契約約束而必須延期支付者為限。」辦理。倘貴府符合前述規定者，得逕依該作業規定申請辦理保留。\n正本：苗栗縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000240?p=55",
+   "fetched_at": "2026-10-30T15:05:06+08:00",
+   "source_key": "forest:0000240"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2745d5a2d58ff6720b3e1df58882e2bbde3547ad9ca5e0806531b68d996b1965",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

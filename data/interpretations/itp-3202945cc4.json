@@ -1,0 +1,42 @@
+{
+ "id": "itp-3202945cc4",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920168933號",
+ "date": "2003-12-08",
+ "date_text": "092/12/08",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "所詢山坡地開發利用回饋金繳交辦法疑義一案，復請查照。",
+ "content": "一、復 貴府92年11月18日府建三字第09224556000號函。\n二、茲說明如下：\n(一)山坡地開發利用回饋金繳交辦法第5條規定以核定水土保持計畫之開發面積計算，其中之開發面積係指開挖整地面積，不包括無開挖整地之法定空地。\n三、以簡易水土保持申報書核定者，須繳交山坡地開發利用回饋金。\n正本：臺北市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000302?p=89",
+   "fetched_at": "2026-10-30T15:13:31+08:00",
+   "source_key": "forest:0000302"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0a7d1c186409ad74899a6cc6a4a5ce6f1f5d8d91a45c4bd5fd895ed47a50b023",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

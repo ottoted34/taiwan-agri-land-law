@@ -1,0 +1,40 @@
+{
+ "id": "itp-199efef803",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981654638號",
+ "date": "2009-06-18",
+ "date_text": "098/06/18",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴公司為配合政策造林，建請本局修正造林獎勵金比照民有土地造林20年每公頃補助240萬元1案，復如說明，請查照。",
+ "content": "一、復貴公司98年5月8日資造字第0980004948號函。\n二、查國營事業係以發展國家資本，促進經濟建設，便利人民生活為目的，貴公司為土地管理者又係屬國營事業範疇，於造林政策上兼負有示範造林之義務，且本局已考量貴公司實際從事造林地撫育所需，業於97年10月29日修正國營事業機構之造林費用額度由補助6年每公頃25萬元修訂為補助20年每公頃48.8萬元，即將第7至20年原不予補助部分，經多方努力爭取後已獲致行政院經濟建設委員會同意補助撫育費每年每公頃1.7萬元，並明定於核定之綠色造林計畫中，爰請貴公司依該核定計畫辦理。\n正本：○○○○公司\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000325?p=48",
+   "fetched_at": "2026-10-30T15:03:34+08:00",
+   "source_key": "forest:0000325"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b124fdb77a249307a8d79768fea8fb0534e8a2926ed8882fbb7af579daec9606",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

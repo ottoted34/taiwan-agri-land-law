@@ -1,0 +1,40 @@
+{
+ "id": "itp-93ac523ad0",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981741839號",
+ "date": "2009-10-09",
+ "date_text": "098/10/09",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府核准造林人參加98年度獎勵輔導造林計畫案，經查應有修正事項，如說明，請查照辦理。",
+ "content": "一、復貴府98年10月6日府農育字第0980153766號函(副本)。\n二、有關獎勵輔導造林計畫係依據「獎勵輔導造林辦法」 (以下簡稱本辦法)規定據以執行，茲就該計畫之行政法律關係依據本辦法第6條規定，業經主管機關現場勘查，認有實施造林之需要者核准後始發生效力。故經核准參與獎勵輔導造林計畫後之造林地，主管機關方能配撥造林苗木予造林人，據以造林。\n三、惟查貴府核准貴轄造林人參與獎勵輔導造林計畫之行政處分書說明三，係於核准前已配撥造林苗木予造林人，此節顯與上開規定不符，請貴府針對爾後類似案件應儘速導正為宜。\n正本：嘉義縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000162?p=45",
+   "fetched_at": "2026-10-30T15:02:39+08:00",
+   "source_key": "forest:0000162"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2d3aea389facf3ab9e89cf5a0a28659bd726e91f1e9a2949c43287cdc608c508",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

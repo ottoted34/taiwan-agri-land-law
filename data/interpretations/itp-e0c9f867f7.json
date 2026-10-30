@@ -1,0 +1,40 @@
+{
+ "id": "itp-e0c9f867f7",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981740682號",
+ "date": "2009-04-28",
+ "date_text": "098/04/28",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關台端建議平地造林計畫可種植白水木案，復如說明，請查照。",
+ "content": "一、依據立法委員鄭汝芬服務處98年4月23日選民服務表暨本局98年4月24日中央民意代表關切事項報告表辦理。\n二、獎勵造林樹種係經政府相關單位及專家學者多次開會後決議，白水木非屬「平地造林直接給付及種苗配撥實施要點」規定之獎勵造林樹種，若台端欲參與獎勵平地造林，所栽植之樹種須符合規定，台端欲造林土地若位於沿海地區之農牧用地，尚有其他樹種如木麻黃、小葉南洋杉、水黃皮、白千層、黃槿等獎勵造林樹種可供選擇，該等樹種均適宜海岸造林，若栽植適當(季節)其存活率亦可提高。\n正本：○○○君\n副本：立法院鄭委員汝芬國會辦公室、彰化縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000331?p=50",
+   "fetched_at": "2026-10-30T15:04:04+08:00",
+   "source_key": "forest:0000331"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d48960719a17a004162f85909c65481cec6ac55a3f57de6866f9644ecc4a00d2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

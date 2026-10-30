@@ -1,0 +1,40 @@
+{
+ "id": "itp-069a637340",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0971741514號",
+ "date": "2008-11-27",
+ "date_text": "097/11/27",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢可否停止收取山坡地開發利用回饋金案，復請 查照。",
+ "content": "一、復貴府97年10月22日府農育字第0970218516號函。\n二、查森林法第48條之1規定，山坡地開發利用者繳交之回饋金作為造林基金來源之一，並授權中央主管機關訂定執行辦法。因法有明文規定，行政機關仍應依法行政。\n三、次查山坡地開發利用回饋金繳交辦法第5條第3款規定，由主管機關公告開發利用程度類別及計算回饋金之乘積比率，係考量因地制宜之目的，始由各地方主管機關在6%至12%之乘積比率範圍內，自行裁量，因此各縣(市)政府計算回饋金數額，自會有所差異。\n四、副本抄送目前尚未公告之縣(市)政府:基隆市政府、南投縣政府、臺東縣政府及花蓮縣政府，仍請依法儘速公告開發利用程度類別及計算回饋金之乘積比率。\n正本:彰化縣政府\n副本:基隆市政府、南投縣政府、臺東縣政府、花蓮縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000624?p=55",
+   "fetched_at": "2026-10-30T15:05:07+08:00",
+   "source_key": "forest:0000624"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "63129f3aadee718c55e72c7d4dd157376cbbd013fabe0750f48c26cef4ce9797",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

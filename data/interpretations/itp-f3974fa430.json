@@ -1,0 +1,40 @@
+{
+ "id": "itp-f3974fa430",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0970135639號",
+ "date": "2008-07-14",
+ "date_text": "097/07/14",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴公司詢問捐贈大溪鎮公所做為道路用地，是否適用山坡地開發利用回饋金繳交辦法第8條第1款規定得以抵繳部分山坡地開發利用回饋金案，復請 查照。",
+ "content": "一、復貴公司97年6月26日富?工程設字第9700025號函。\n二、查山坡地開發利用回饋金繳交辦法第8條第1款規定，係符合「依促進產業升級條例辦理土地捐贈國有或繳交回饋金」者，可免繳交回饋金，並非可予以抵繳回饋金，合先敘明。\n三、 另本案因無法明確判斷是否依據促進產業升級條例而辦理之土地捐贈國有，惠請貴公司查明並提供相關資料後，再憑審查是否符合上開條文之適用。\n正本：○○○○○○有限公司\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000607?p=58",
+   "fetched_at": "2026-10-30T15:06:00+08:00",
+   "source_key": "forest:0000607"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c601877048796960d570c0f6378873e3e9187ee75083df2c2cf3964c0349d2d5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

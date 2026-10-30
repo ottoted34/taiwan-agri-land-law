@@ -1,0 +1,40 @@
+{
+ "id": "itp-30cad44462",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991741069號",
+ "date": "2010-05-14",
+ "date_text": "099/05/14",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴所辦理99年度原住民保留地全民造林計畫及森林保育計畫檢測疑義案，復如說明，請查照。",
+ "content": "一、復貴所99年4月26日茂鄉財字第0990003343號函。\n二、依據獎勵造林實施要點相關規定，造林獎勵金領取人應善加管理經營造林木竹，使之長大成林，不可任其荒廢或擅自拔除毀損；如有違背，應加利息賠償已領取之獎勵金。如確實因病、蟲害、天然災害等不可抗力因素，致造林地無法復植，經審核確定後得免繳回所領取之造林獎勵金，並予以停止造林，註銷相關書面資料；惟如非屬造林地崩塌流失或其他無法復植之原因，均應進行林地整理，並予以補植。\n三、有關原住民保留地森林保育計畫檢測疑義，因屬原民會業務權責，請貴所逕洽該會辦理。\n四、檢附本局95年5月18日林造字第0951740652號函發之「林農申請停止獎勵造林審核機制及處理規範」1份供參。\n正本：高雄縣茂林鄉公所\n副本：行政院原住民族委員會、高雄縣政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000107?p=38",
+   "fetched_at": "2026-10-30T15:01:03+08:00",
+   "source_key": "forest:0000107"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "af85900adbfb319b500ab9d2c48ba62a47b786da17204584e6985bfdb1961450",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

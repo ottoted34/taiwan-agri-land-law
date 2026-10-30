@@ -1,0 +1,40 @@
+{
+ "id": "itp-9d6512cada",
+ "doc_class": "interpretation",
+ "docno": "林造字第1021740755號",
+ "date": "2013-03-06",
+ "date_text": "102/03/06",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問水土保持義務人變更，是否須重新核算山坡地開發利用回饋金疑義案，復如說明，請 查照。",
+ "content": "一、復貴府102年2月27日府授環森字第1020036977號函。\n二、按「山坡地開發利用回饋金繳交辦法」第6條第3項規定「水土保持完工前，其原計畫面積遇有變更時，主管機關應依本辦法規定，重新計算本回饋金，並與原計算金額相抵後，無息多退少補。」。是以，僅有涉及計畫面積變更者，依規才須重新核算回饋金。\n正本：嘉義縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000849?p=17",
+   "fetched_at": "2026-10-30T14:55:55+08:00",
+   "source_key": "forest:0000849"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c06dd067a07347748d7b4960cb53bdeb0f924c8995b128830b3252a7cb1e1b96",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,47 @@
+{
+ "id": "itp-13f63569cc",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971608134號",
+ "date": "2008-05-14",
+ "date_text": "097/05/14",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "承詢「高爾夫球場變更開發計畫案」及「高爾夫球場變更開發計畫案」，是否需繳交山坡地開發利用回饋金案，復如說明，請 查照。",
+ "content": "一、復 貴署97年5月7日營署綜字第0970024879號函。\n二、查山坡地開發利用回饋金繳交辦法第4條規定「山坡地開發利用回饋金之繳交義務人，為擬具水土保持計畫或簡易水土保持申報書之水土保持義務人」。據此，本案之開發計畫申請人，日後若有須依水土保持法規定擬具水土保持計畫或簡易水土保持申報書者，除有符合前揭辦法第8條免繳回饋金之各款規定者外，依法仍須繳納回饋金。\n正本：內政部營建署\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000603?p=60",
+   "fetched_at": "2026-10-30T15:06:21+08:00",
+   "source_key": "forest:0000603"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f617ae060809761f2481d9d336764c9fc598eadfb6d26a3217b8cef29534a973",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "之水土保持義務人」。據此,本案之開發計畫申請人,日後若有須依水土保持法規定擬具水土保持計畫或簡易水土保持申報書者,除有符合前揭辦法第8條免繳回饋金之各"
+  }
+ ]
+}

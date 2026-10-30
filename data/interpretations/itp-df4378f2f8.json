@@ -1,0 +1,40 @@
+{
+ "id": "itp-df4378f2f8",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961740540號",
+ "date": "2007-04-24",
+ "date_text": "096/04/24",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢造林6年以上，林木已達鬱閉，而株數未達標準之疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年2月15日府農林字第0960048847號函。\n二、獎勵造林實施要點(以下簡稱本要點)歷次增訂或修正計有4次，其中有關第6點之相關修正，經查行政院農業委員會前於87年3月27日87農林字第87030135號公告，僅增訂第6點第1項第3款；又依本要點內容及相關函釋，並無所謂造林前6年，補植3個月以上仍存活之造林樹種得併計造林成活率之解釋；先行敘明。\n三、依據全民造林運動綱領第1點，其目標係為達成國土保安、涵養水源、綠化環境及減輕天然災害，故全民造林計畫推行之初，即採密植方式造林，如造林戶施予適當撫育，不應至造林中後期，始發現成活率未達標準之情形。又貴府係屬林業管理經營機關，自應本諸權責，確實依規執行造林成活率檢測工作，並核發造林獎勵金;惟詎今貴府始發生諸多造林問題，影響造林戶權益，此節疏失應請貴府確實檢討，並釐清有無疏失之責。\n正本:臺中縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000115?p=67",
+   "fetched_at": "2026-10-30T15:08:10+08:00",
+   "source_key": "forest:0000115"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f19005561ba8fad8e182a940ae4cc7dce1044c3bda1190f9e25a8cfbede9c594",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

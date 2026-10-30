@@ -1,0 +1,59 @@
+{
+ "id": "itp-1eb7699644",
+ "doc_class": "interpretation",
+ "docno": "林企字第1011659470號",
+ "date": "2012-08-01",
+ "date_text": "101/08/01",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "有關貴府函詢林業用地申請設置林業資材室一案。",
+ "content": "一、復貴府101年7月25日北農林字第1012215817號。\n二、林地之使用限制，依據森林法第6條第2項規定:「經編定為林業用地之土地，不得供其他用途之使用。但經徵得直轄市、縣(市)主管機關同意，報請中央主管機關會同中央地政主管機關核准者，不在此限。」，合先敘明。\n三、至有關林也用地申請設置林業資材室乙節，則應依「申請農業用地作農業設施容許使用審查辦法」第5條規定檢附相關文件，並依其附表之「申請基準或條件」與「可申請用地別」等規定出申請；惟該筆土地係屬國有財產局所管林地，仍應參照「國有財產法」與「國有出粗農業用地同意興建農業設施審查作業要點」等相關規定辦理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000886?p=20",
+   "fetched_at": "2026-10-30T14:56:36+08:00",
+   "source_key": "forest:0000886"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "5",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "cd49f507c222b188bcea1d4e7a8d76bfe1853290832af1de874b24ec40c21246",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "合先敘明。\n三、至有關林也用地申請設置林業資材室乙節,則應依「申請農業用地作農業設施容許使用審查辦法」第5條規定檢附相關文件,並依其附表之「申請基準或條件」與「可申請用地別」等規定出申請;"
+  }
+ ]
+}

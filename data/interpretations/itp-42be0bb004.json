@@ -1,0 +1,42 @@
+{
+ "id": "itp-42be0bb004",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011743121號",
+ "date": "2012-11-08",
+ "date_text": "101/11/08",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢興建個別農舍，其山坡地開發利用回饋金計算疑義案，復請 查照。",
+ "content": "一、復貴府101年11月6日府建農字第1011406333號函。\n二、有關山坡地開發利用回饋金之計算方式，應依「山坡地開發利用回饋金繳交辦法」第5條第1項規定，以水土保持計畫或簡易水土保持申報書之「計畫面積」計算。\n正本：嘉義市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000861?p=19",
+   "fetched_at": "2026-10-30T14:56:21+08:00",
+   "source_key": "forest:0000861"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "822da971c532d04088ca15ad2a28c268bb17a27d59214d2494d953e476f991af",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

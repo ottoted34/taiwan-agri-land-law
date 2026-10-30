@@ -26,10 +26,16 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農牧字第1080202138號|畜牧處畜牧設施得否直接以太陽能板作為屋頂及場內設置配電場所須"
+  },
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/873a56a4-a9d9-468e-957b-bfeff99710c0?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:08+08:00",
+   "source_key": "talis:873a56a4-a9d9-468e-957b-bfeff99710c0"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

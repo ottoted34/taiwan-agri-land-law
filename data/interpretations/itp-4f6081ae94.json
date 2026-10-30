@@ -1,0 +1,50 @@
+{
+ "id": "itp-4f6081ae94",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080734069號",
+ "date": "2019-12-20",
+ "date_text": "中華民國108年12月20日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "申請農業用地作農業設施容許使用之審查原則",
+ "content": "依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第28條第2項規定，「前項申請應檢附農業經營實績之證明文件，並經直轄市、縣(市)主管機關查核確有農業經營事實，且符合原核定之計畫內容使用，始得依第5條規定核發農業用地作農業設施容許使用同意書。」，故農業設施附屬屋頂型綠能設施之審理，以二階段審查為原則，其要件須符合該農業設施具「農業經營實績證明文件」、「確有農業經營事實」及「依原核定計畫內容使用」，合先敘明。\n又，依容許辦法第33條第1項規定略以，「依本辦法取得農業用地作農業設施容許使用者，應依原核定之計畫內容使用．．．」，故針對作物栽培量之認定，應依申請人提出之經營計畫內容所載之作物品項及其栽植數量，並依該作物常態栽植規模予以審認，又後續經營計畫查核，依本會104年8月25日農企字1040012614號函，應至少維持農業統計年報該等作物近三年產量平均值之7成生產量，始符合規定。本案依貴府來函，該農業設施栽植之作物仍未達收穫期間，則其農業經營實績證明文件是否屬該農業設施者，請貴府先行釐清，復就個案實情，依前揭容許辦法之規定及上開原則，本權責予以審認核處。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-12-20）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/fa55b4d5-80d2-44a2-9453-9a5f9ad1c97c?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:32+08:00",
+   "source_key": "talis:fa55b4d5-80d2-44a2-9453-9a5f9ad1c97c"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "84b5daa190bbde8e4d5bfa7476ad7542267e09daaea15b23cb2d1d564340b39a",
+ "topics": [
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請農業用地作農業設施容許使用之審查原則\n依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第28條第2項規定,「前項申請應檢附農業經營實績之證明文件,"
+  }
+ ]
+}

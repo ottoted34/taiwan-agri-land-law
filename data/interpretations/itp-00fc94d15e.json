@@ -1,0 +1,40 @@
+{
+ "id": "itp-00fc94d15e",
+ "doc_class": "interpretation",
+ "docno": "農林字第87155370號",
+ "date": "1998-11-18",
+ "date_text": "087/11/18",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "貴縣縣民擬申請全民造林運動造林獎勵補助案，復如說明，請查照。",
+ "content": "一、復貴府八十七年十一月七日八七屏府農林字第一九五零零一號函。\n二、民眾有意參加造林，本會應予鼓勵。惟本案據報○君承租林地所造之林，多遭羊隻踐踏毀損、火焚、及天候與土壤貧瘠等因素致無法成林。\n三、政府造林經費有限，為能有效達成獎勵造林目的，本案請貴府與○君參考過去造林失敗原因，共同研擬能提高造林績效之具體改進方式，逕送本會林業處審查後再議。\n正本：屏東縣政府\n副本：台灣省政府農林廳林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000699?p=101",
+   "fetched_at": "2026-10-30T15:16:19+08:00",
+   "source_key": "forest:0000699"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6dcd93d9c2b89b1e0b81f51750fb0acd2806b8ac1b98f38eb3e35cca58d4e6cf",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

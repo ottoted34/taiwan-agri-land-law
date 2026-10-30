@@ -1,0 +1,40 @@
+{
+ "id": "itp-2f414b470f",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991742194號",
+ "date": "2010-10-11",
+ "date_text": "099/10/11",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴府函詢君申請平地造林，其土地使用分區均為特定專用區，與「平地造林直接給付及種苗配撥實施要點」之規定未有相符疑義案，復如說明，請查照。",
+ "content": "一、復貴府99年9月21日府農林字第0990118828號函。\n二、經查貴府所附○君陳情書提及本案土地因鄰近台糖地而被劃定為特定專用區，使用地類別亦為農牧用地，實際上一直是從事農業使用，惟並不符合「平地造林直接給付及種苗配撥實施要點」之土地區位。\n三、本案能否請貴府將該土地改劃為一般農業區，以利民眾參與平地造林。倘若重新劃定有窒礙難行之處，請貴府釐清該土地是否能視為一般農業區，以維民眾權益。\n正本：雲林縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000357?p=35",
+   "fetched_at": "2026-10-30T15:00:13+08:00",
+   "source_key": "forest:0000357"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d1e7503d6022e06737f3cf812367fdd54eef7dfb64bc6f8cbd4bb437fe8e4d22",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

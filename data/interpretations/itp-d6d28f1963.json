@@ -1,0 +1,40 @@
+{
+ "id": "itp-d6d28f1963",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971655320號",
+ "date": "2008-07-21",
+ "date_text": "097/07/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢股份有限公司申請「龍潭渴望園區計畫案」時，已無償捐贈土地，是否符合山坡地開發利用回饋金繳交辦法第8條第5款規定案，復請 查照。",
+ "content": "一、復 貴府97年4月2日府農林字第0970100292號函。\n二、查貴府來文表示○○公司在整體開發完成範圍內之建築用地申請建築，擬具水土保持計畫，並經主管機關核定。惟貴府所述之水土保持計畫，係指龍潭渴望園區開發案申請程序中所提出之相關計畫;亦或該園區開發案已完成後，另於園區內因建築需求而提出之水土保持計畫，因涉及本案無償捐贈土地與應收繳之山坡地開發利用回饋金，是否屬於同一案件之認定，仍請貴府先協助查明並提供相關資料，俾利本局憑辦。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000614?p=58",
+   "fetched_at": "2026-10-30T15:05:54+08:00",
+   "source_key": "forest:0000614"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1d717e8c5859b142daf6cdec101f67101876c0decd7f0316a57e9ff143783346",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

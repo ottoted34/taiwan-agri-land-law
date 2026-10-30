@@ -1,0 +1,40 @@
+{
+ "id": "itp-768b9ea4c3",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981653707號",
+ "date": "2009-04-16",
+ "date_text": "098/04/16",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關行政院農業委員會執行「獎勵輔導造林辦法」，授權由貴處於造林獎勵期間，輔導獎勵造林人善加管理經營林木，並按年度派員實施造林成果檢測之執行疑義案，復如說明，請查照。",
+ "content": "一、復貴處98年4月13日竹作字第0982230925號函。\n二、依據獎勵輔導造林辦法第九條之規定，獎勵造林之申請經主管機關核准者(以下簡稱獎勵造林人)，其造林經檢測符合下列條件，主管機關得按其造林年度發給造林獎勵金。爰此，每一年度造林獎勵金之核發係依該年度之檢測結果，如符合規定標準，即可發給造林獎勵金。故本案仍請貴處依據獎勵輔導造林辦法之規定辦理，每年度派員實施造林成果檢測，並據以核發該年度之造林獎勵金。\n正本：本局新竹林區管理處\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000439?p=51",
+   "fetched_at": "2026-10-30T15:04:15+08:00",
+   "source_key": "forest:0000439"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d075bee311ff38957548826be18d430b2f75240327b6a0349688814425ff7c2f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

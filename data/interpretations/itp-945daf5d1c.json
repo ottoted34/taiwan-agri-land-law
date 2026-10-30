@@ -1,0 +1,41 @@
+{
+ "id": "itp-945daf5d1c",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1141545780號",
+ "date": "2025-05-26",
+ "date_text": "中華民國114年5月26日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "屋頂型漁電共生綠能容許與電業程序辦理事項",
+ "content": "一、 按農業部與經濟部業於114年1月13日「農業綠能研商會議」就屋頂型漁電共生綠能容許與電業程序達成共識，經濟部將請臺灣電力股份有限公司(下稱臺電公司)研議於設置者取得綠能容許後，始能申請併聯試運轉，以利解決併網後無養殖行為之爭議，並請農業部門落實「一次施工(農業設施與綠能設施及其附屬設施)，二階段審查」之審查方式，合先敘明。\n二、 現臺電公司業於114年3月12日公告修訂「配電手冊(八)-再生能源篇」，於第6章第2節增列併聯試運轉應備文件規定：「同意備案或施工許可載明併聯試運轉須檢附『綠能設施容許使用證明文件』之案場，於辦理併聯試運轉時，應於申請併聯試運轉時提供綠能設施容許使用證明文件，並於完成併聯試運轉後，完成併聯通知函應一併副知地方政府農業單位。」\n三、 承上，未來屋頂型漁電共生案場完工後，需在具備養殖經營事實並取得第二階段綠能設施容許使用後，始得向臺電公司申請併聯試運轉，爰請貴府未來於審查第一階段農業設施容許使用時，連同綠能設施及其附屬設施等一併審查。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2025-05-26）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/d512dc00-f05f-40ee-8be0-e3885184dbc8?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:12+08:00",
+   "source_key": "talis:d512dc00-f05f-40ee-8be0-e3885184dbc8"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a430988fdbfdd01b36f3f76282d55c2f73517abe6beb62b789dad62e1b3110d9",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": []
+}

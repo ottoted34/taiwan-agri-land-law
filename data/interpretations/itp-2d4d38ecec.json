@@ -1,0 +1,42 @@
+{
+ "id": "itp-2d4d38ecec",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011743103號",
+ "date": "2012-11-06",
+ "date_text": "101/11/06",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢依「未登記工廠補辦臨時工廠登記辦法」輔導合法登記之臨時性工廠，其涉及山坡地開發利用回饋金(以下簡稱回饋金)繳交疑義案，復請 查照。",
+ "content": "一、復貴局101年10月31日北農林字第1012837292號函。\n二、有關臨時性建物設置是否須繳交回饋金部分，檢送農委會97年9月19日農授林務字第0970149774號函影本1份供參。\n三、另同一計畫範圍內有重新開發，需再擬具水土保持計畫，得否免予重複繳納回饋金部分，請貴局參照農委會94年10月28日農授林務字第0941741229號函(正本諒達)辦理。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000862?p=19",
+   "fetched_at": "2026-10-30T14:56:24+08:00",
+   "source_key": "forest:0000862"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "20adc0d255998d4813e655f1e2127b0b614517ee9a958b6ea6fbe23e2538e7ef",
+ "topics": [
+  "container"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-24d269fda2",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951611609號",
+ "date": "2006-06-22",
+ "date_text": "095/06/22",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴縣林口鄉先生申請停止辦理獎勵造林案，據查君之法定繼承人均拋棄繼承，致無法續予管理造林木，為符法制程序，請儘速向法院申報債權並聲請參與分配，以利後處，復請查照。",
+ "content": "復貴府95年6月19日北府農林字第0950461309號函。\n正本: 臺北縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000141?p=78",
+   "fetched_at": "2026-10-30T15:10:43+08:00",
+   "source_key": "forest:0000141"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "52e1a0f87d3808de8f3f9780884fdd9ef66544f780f76bc11ed1241d460fe2c9",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

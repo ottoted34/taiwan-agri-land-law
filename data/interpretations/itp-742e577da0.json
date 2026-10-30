@@ -1,0 +1,40 @@
+{
+ "id": "itp-742e577da0",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951622971號",
+ "date": "2006-12-21",
+ "date_text": "095/12/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關股份有限公司因繳交山坡地開發利用回饋金事件，經訴願審議決定，宜協同作成水土保持計畫新、舊案認定疑義1節，復如說明，請鑒核。",
+ "content": "一、復 鈞會95年12月11日農訴字第0950155001號函副本。\n二、本案經洽詢水土保持局略以，水土保持計畫經核定後，水土保持義務人於申領完工證明書後，則為行政程序之終結。是以，新、舊案之認定基準並無疑義，仍須依 鈞會94年10月28日農授林務字第0941741229號函辦理。\n正本：行政院農業委員會\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000542?p=72",
+   "fetched_at": "2026-10-30T15:09:16+08:00",
+   "source_key": "forest:0000542"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0c0ab53018e40452d6bcc1857f1fcbc06e03b9296cc5fb912b0c5f726bb6d9ba",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

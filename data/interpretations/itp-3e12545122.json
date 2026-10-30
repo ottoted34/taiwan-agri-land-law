@@ -1,0 +1,40 @@
+{
+ "id": "itp-3e12545122",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951617104號",
+ "date": "2006-09-12",
+ "date_text": "095/09/12",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄林農、君之大雅段、、、、地號等5筆全民造林地，因成活率不足，其獎勵金得否免予追回疑義案，復如說明，請查照。",
+ "content": "一、復貴府95年9月8日府農森字第0950115735號函。\n二、據報旨揭5筆造林地成活率不足，函詢得否免予追回已領取之造林獎勵金1節，依據貴府現勘照片，造林地周圍之林木林相完整，且造林地平坦，是以，仍請貴府加強輔導林農，確實把握造林季節進行補植為宜。\n三、如本案造林地經補植後仍不易成活，且經貴府檢測在案者，仍須依本局前於95年5月18日林造字第0951740654號函規定，依照「林農申請停止獎勵造林審核機制及處理規範」辦理。\n正本：新竹縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000038?p=75",
+   "fetched_at": "2026-10-30T15:10:01+08:00",
+   "source_key": "forest:0000038"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "08d0d59efa5bee0867648a64c764baa7535938af06728f8500918546564bbbb5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

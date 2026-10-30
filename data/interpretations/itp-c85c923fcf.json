@@ -1,0 +1,49 @@
+{
+ "id": "itp-c85c923fcf",
+ "doc_class": "interpretation",
+ "docno": "農林務字第1021740282號",
+ "date": "2013-01-24",
+ "date_text": "102/01/24",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關財團法人中華民國佛教慈濟慈善事業基金會函為慈濟志業中心臺中東大園區申請依農業發展條例第12條第2項規定免繳納回饋金案，復請 查照。",
+ "content": "一、復貴局101年12月22日中市都計字第1010183410號函暨102年1月9日中市都計字第1020002303號函。\n二、查「農業發展條例」第12條第2項本文規定，各目的事業主管機關相關法令已明定土地變更使用應捐贈或繳交相當回饋性質之「金錢或代金」者，其繳交及使用，依其法令規定辦理。爰認定其是否回饋性質之「金錢或代金」，係由目的事業主管機關依其法令逕予認定，無須再送由本會確認。\n三、據貴局表示已函詢內政部營建署，並經該署以101年12月4日營署都字第1010075334號函釋在案，貴局應依該函辦理，而非請本會重新函請內政部營建署協助釋示。\n正本：臺中市政府都市發展局\n副本：財團法人中華民國佛教慈濟慈善事業基金會、內政部營建署、臺中市政府農業局、本會企劃處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000845?p=18",
+   "fetched_at": "2026-10-30T14:56:06+08:00",
+   "source_key": "forest:0000845"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c2c676956fb0f24dbbd539af92ad26ba36a002875df6e98fe49b61383af84637",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "民國佛教慈濟慈善事業基金會函為慈濟志業中心臺中東大園區申請依農業發展條例第12條第2項規定免繳納回饋金案,復請 查照。\n一、復貴局101年12月22日中市都計字"
+  }
+ ]
+}

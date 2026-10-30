@@ -1,0 +1,40 @@
+{
+ "id": "itp-65cc9b47a6",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0950140749號",
+ "date": "2006-07-25",
+ "date_text": "095/07/25",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關股份有限公司涉山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第4條所指政府機關認定1節，請依本會93年7月30日農授林務字第0931613856號函辦理，復請查照。",
+ "content": "一 、復貴府95年7月19日府授建三字第09532556400號函。\n二 、本會前以旨揭函復經濟部，同意○○公司興辦電源開發及電力設施，屬本辦法第4條但書所定 「由政府機關興辦者」之範圍，無須繳交本回饋金有案。\n三 、檢附旨揭原函影本乙份 。\n四 、副本抄送其他各縣市政府 。\n正本:臺北市政府\n副本:宜蘭縣政府、花蓮縣政府、南投縣政府、屏東縣政府、苗栗縣政府、桃園縣政府、高雄市政府、高雄縣政府、雲林縣政府、新竹市政府、新竹縣政府、嘉義市政府、嘉義縣政府、彰化縣政府、金門縣政府、福建省連江縣政府、臺中市政府、臺中縣政府、臺北縣政府、臺東縣政府．臺南市政府、臺南縣政府、澎湖縣政府、基隆市政府(均含附件)",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000531?p=77",
+   "fetched_at": "2026-10-30T15:10:30+08:00",
+   "source_key": "forest:0000531"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3189be3c05a539950982cc9910fde3b7b151b52588188c81dd03e5357633dad5",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

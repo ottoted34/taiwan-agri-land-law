@@ -26,10 +26,16 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第1080720670號|非附屬綠能設施農畜共生申請案之最小申請條件"
+  },
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/8c040287-774f-4be0-901a-7af9bdf77313?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:47+08:00",
+   "source_key": "talis:8c040287-774f-4be0-901a-7af9bdf77313"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

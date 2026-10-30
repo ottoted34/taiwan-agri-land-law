@@ -1,0 +1,40 @@
+{
+ "id": "itp-46dec506eb",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981601770號",
+ "date": "2009-01-23",
+ "date_text": "098/01/23",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢非土地所有權人承租私有農(林)地申請獎勵輔導造林，其承租期限未達20年，是否符合獎勵輔導造林辦法第二條之規定案，復如說明，請查照。",
+ "content": "一、復貴府98年1月19日府農育字第0980019645號函。\n二、有關貴府函詢對象，尚符合獎勵輔導造林辦法(以下簡稱本辦法)第二條第四款之對象，惟申請之區位仍應符合本辦法第四條規定，並經貴府執行現勘後，認有實施造林之需要者始核准之;惟鑑於獎勵造林期限長達20年，為避免嗣後衍生糾紛，仍應取得土地所有權人同意書件為妥。是以，仍請貴府詳為查明事實後，依據前述原則本於權責辦理。\n正本：嘉義縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000191?p=54",
+   "fetched_at": "2026-10-30T15:04:55+08:00",
+   "source_key": "forest:0000191"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6d923158af8ea6e1a623010e83e8f42bac9c469c12a6845895d7b0f2495e1cde",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

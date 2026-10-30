@@ -1,0 +1,40 @@
+{
+ "id": "itp-03a4b2c7d8",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961652333號",
+ "date": "2007-03-07",
+ "date_text": "096/03/07",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函詢貴轄造林戶因耕地三七五租約遭公告註銷無法辦理續約，是否能繼續參加全民造林計畫疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年3月5日府農林字第0960039243號函。\n二、本案造林地因係屬承租三七五租約之耕地，非屬私有土地，且至今本案租約已遭註銷在案，申請人○君尚未有合法使用土地之權利，故不適用本局96年2月5日林造字第0961740197號函釋(諒達)；先行敘明。\n三、是以，仍應俟貴府依據本局前於96年1月30日林造字第0961602190號函(諒達)說明儘速查明，並補送相關資料過局後，俾憑辦理後續事宜。\n正本：臺南縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000061?p=69",
+   "fetched_at": "2026-10-30T15:08:37+08:00",
+   "source_key": "forest:0000061"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6bb8e196857bfa9868099300c9240834642f4c570e526ec24c8d707107144a5e",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

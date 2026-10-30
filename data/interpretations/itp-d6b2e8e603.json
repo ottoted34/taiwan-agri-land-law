@@ -1,0 +1,40 @@
+{
+ "id": "itp-d6b2e8e603",
+ "doc_class": "interpretation",
+ "docno": "林企字第1011606435號",
+ "date": "2012-03-29",
+ "date_text": "101/03/29",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "有關貴院函詢阿里山事業區第104林班(貴院來函所指140林班，應屬誤植)是否屬森林法所稱之森林及是否編入保安林一案。",
+ "content": "一、復貴院101年3月22日投院平刑良100訴字第03983號函。\n二、查森林法第3條第1項規定:「森林係指林地及其群生竹、木之總稱。依其所有權屬，分為國有林、公有林及私以林。」，具貴院來函所指贓材失竊地點為本局所管阿里山事業區第104林班，係屬國有林，自為森林法所稱之森林。\n三、再查，該贓材失竊地點未編入保安林。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000887?p=22",
+   "fetched_at": "2026-10-30T14:57:03+08:00",
+   "source_key": "forest:0000887"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "17cb48b8f4fa8cb8c026210dda247a877ecb4d2079a809999a0bce92d11ea4b2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-01ee2e1df1",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001625265號",
+ "date": "2011-12-19",
+ "date_text": "100/12/19",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問山坡地開發利用回饋金繳交疑義案，復如說明，請 查照 。",
+ "content": "一 、復貴府100年12月6日府農育字第1000387454號函 。\n二 、有關山坡地開發利用申請案，倘依山坡地開發利用回饋金繳交辦法及「促進產業升級條例」規定，均須繳交回饋金時，依「山坡地開發利用回饋金繳交辦法」第8條第1款規定，依促進產業升級條例辦理土地捐贈國有或繳交回饋金，得免繳交山坡地開發利用回饋金。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000322?p=24",
+   "fetched_at": "2026-10-30T14:57:33+08:00",
+   "source_key": "forest:0000322"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b8f64e4fbc0bfaae67d9a50f1ea00d09432ea5461c83b98f6cf1035a568f99cb",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

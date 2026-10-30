@@ -1,0 +1,40 @@
+{
+ "id": "itp-bcbb8da1ed",
+ "doc_class": "interpretation",
+ "docno": "林造字第1021740706號",
+ "date": "2013-03-01",
+ "date_text": "102/03/01",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關股份有限公司縣鄉段地號等7筆土地廠房增建之山坡地開發利用回饋金(以下簡稱回饋金)疑義案，復請 查照。",
+ "content": "一、復 貴府102年2月20日府農植字第1020038215號函。\n二、有關山坡地開發利用回饋金計算，應依山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第5條第1項規定辦理之。倘該申請案件有符合本辦法第8條各款情形之一者，則免繳交回饋金。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000851?p=17",
+   "fetched_at": "2026-10-30T14:55:57+08:00",
+   "source_key": "forest:0000851"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3d59ac31f8d84042a146a1d42bc1aef4582d669cb79349f79859db6c69a03ef7",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

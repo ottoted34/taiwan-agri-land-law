@@ -1,0 +1,42 @@
+{
+ "id": "itp-dce219bf20",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961603556號",
+ "date": "2007-03-05",
+ "date_text": "096/03/05",
+ "agency_text": "",
+ "category": "森林產業組／林產物伐採",
+ "subject": "貴府對山坡地保育區「林業用地」內申請土石採取，其實際開發面積超過4公頃以上，是否等同林地開發利用砍伐作業之皆伐面積，而應實施環境影響評估之認定疑義案，復請查照。",
+ "content": "一、復貴府96年2月15日府農林字第0960501121號函。\n二、貴府依森林法第45條及林產物伐採查驗規則受理採取人申請核發採運許可證時，有關皆伐面積之認定，得參據本局95年1月2日林政字第0941659107號函﹝計達﹞說明，亦即應涵蓋伐除地面上之灌、草本等植被面積計之。\n三、至土石採取其實際「開發面積」，是否等同「開發行為應實施環境影響評估細目及範圍認定標準」第16條規定林地開發利用砍伐作業之「皆伐面積」疑義，宜由該法規主管機關行政院環境保護署釋示。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000786?p=69",
+   "fetched_at": "2026-10-30T15:08:39+08:00",
+   "source_key": "forest:0000786"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b598fa39b7226888e82d273b28cd4a8ed7366f76484767ccb16725eb951e0fb0",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "itp-3b478a62be",
+ "doc_class": "interpretation",
+ "docno": "農輔字第1070703655號",
+ "date": "2018-01-31",
+ "date_text": "中華民國107年1月31日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "「嚴重地層下陷地區內不利農業經營得設置綠能設施之農業用地範圍」是否影響農民健康保險權益",
+ "content": "一、按農保為實際從事農業工作並以農作維繫生計農民參加之職域性社會保險，依「農民健康保險條例」及「從事農業工作農民申請參加農民健康保險認定標準及資格審查辦法」相關規定，農民參加農保須持有或承租符合一定面積農業用地，且實際從事農業生產並以農業維繫生計為要件；倘農民未持有或承租符合一定面積農業用地，或未實際從事農業生產，自不符合參加農保資格。先予敘明。\n二、依此，農民持以參加農保之農業用地，倘全數申請設置非營農型綠能設施，而未持有或承租符合一定面積農業用地實際從事農業生產，自不符合參加農保資格；至農業用地倘係申請設置營農型綠能設施，並依據核定之農業經營計畫內容使用，確有農業生產之事實，且農民持續符合前開辦法所定之相關資格條件時，其農保資格應不受影響。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2018-01-31）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/f3536a2d-dd20-41bc-8b2a-d678c9b9d606?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:32+08:00",
+   "source_key": "talis:f3536a2d-dd20-41bc-8b2a-d678c9b9d606"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "232602ca3156d0f2fc546a6a80db8c12e80da8d2c36b72ad879e203e85a8dd9d",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

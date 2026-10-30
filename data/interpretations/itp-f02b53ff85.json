@@ -1,0 +1,40 @@
+{
+ "id": "itp-f02b53ff85",
+ "doc_class": "interpretation",
+ "docno": "農林字第88106305號",
+ "date": "1999-02-12",
+ "date_text": "088/02/12",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "關於貴縣租地造林人要求將造林失敗或林地內散生無利用價值之雜木部分，列入全民造林輔導更新造林並核發給獎勵金乙案，本會復如說明請查照，請查照。",
+ "content": "一、復貴府八十八年二月二日八八屏府農林字第一四○九三號函。\n二、對於造林失敗及其成活率未達百分之七十者，林業管理經營機關自應輔導補植至檢測合格後始發給造林獎勵金，不合格者即不發給造林獎勵金，獎勵金亦不得追搠。新植後連續三年檢測不合格之林地視為造林失敗地，不宜再補植，但得再重新申請獎勵造林，其存留之林木應併入每公頃標準栽植株數計算。\n三、至林地內散生無利用價值之雜木部分，列入全民造林輔導更新造林核發給獎勵金乙節，請貴府查明是否符合租約等相關規定，如符合則請依「獎勵造林實施要點」規定辦理。\n四、餘有關獎勵造林內容，請逕參考現行「獎勵造林實施要點」規定。\n正本﹕屏東縣政府\n副本﹕台灣省政府農林廳林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000685?p=100",
+   "fetched_at": "2026-10-30T15:16:10+08:00",
+   "source_key": "forest:0000685"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0da69e02f5798b4d6361aa638c56ddc55216bfa8b57c5515feb78e845c885454",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-9f85181762",
+ "doc_class": "interpretation",
+ "docno": "林造字第0961740006號",
+ "date": "2007-01-03",
+ "date_text": "096/01/03",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴署函詢內政部為辦理土地上之農林作物查估補償，有關景觀花木與造林木應如何區分1案，復如說明，請查照。",
+ "content": "一、復貴署95年11月17日農糧企字第0950164678號函。\n二、經查造林木查估補償相關規定，係按有無利用價值區分為二:\n(一)無利用價值者，按照造林費計算。其造林費標準，以查估當時當地林業主管機關所公佈最新單價為準。\n(二)有利用價值者，按照山價查定，依查估時該木材市價減去必要之生產(伐木及搬運)費用個案處理。\n三、惟景觀花木區分1節，因非本局業務範疇，未便擅專。\n正本:行政院農業委員會農糧署\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000039?p=72",
+   "fetched_at": "2026-10-30T15:09:15+08:00",
+   "source_key": "forest:0000039"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1e222d92f2f312293d51fb1adf8aa2c06c6e02e4a182627e6347c6cc0addff86",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

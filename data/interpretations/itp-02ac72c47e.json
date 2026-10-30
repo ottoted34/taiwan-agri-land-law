@@ -1,0 +1,40 @@
+{
+ "id": "itp-02ac72c47e",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981603593號",
+ "date": "2009-02-26",
+ "date_text": "098/02/26",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府函詢貴轄已自行完成新植之造林地是否可參加98年度獎勵輔導造林疑義案，復如說明，請查照。",
+ "content": "一、復貴府98年2月23日府農林字第0980031868號函。\n二、鑑於現行推動「獎勵輔導造林計畫」係依據「獎勵輔導造林辦法」規定辦理，該計畫係屬申請核可制，且須俟林業主管機關核准後，行政機關與獎勵造林人之行政法律關係始生效力，獎勵造林人方可執行新植造林工作。\n三、本案據報貴縣陳情人○○○○君係為已完成造林後，欲向貴府申請參加「獎勵輔導造林計畫」，茲因本案未經貴府核准逕已完成造林，顯與「獎勵輔導造林辦法」規定不符，故請貴府審慎考量前開原則卓處。\n正本:臺南縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000196?p=53",
+   "fetched_at": "2026-10-30T15:04:42+08:00",
+   "source_key": "forest:0000196"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6ab0ae268137c4385172af77b66f1fd4e380ec565ae36a0f3fd999d562968af0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

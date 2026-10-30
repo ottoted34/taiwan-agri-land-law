@@ -1,0 +1,40 @@
+{
+ "id": "itp-2c6cf3d61b",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991742195號",
+ "date": "2010-10-08",
+ "date_text": "099/10/08",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問水土保持計畫之計畫面積定義疑義案，復如說明，請 查照。",
+ "content": "一、依據水土保持局99年10月4日水保監字第0991826616號函辦理(副本諒達)。\n二、有關水土保持計畫之計畫面積定義，據水保局表示農委會96年5月17日農林務字第0961653927號函已有類似函釋。倘若貴府仍有疑義，請洽水保局釐清。\n正本:苗栗縣政府\n副本:行政院農業委員會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000751?p=35",
+   "fetched_at": "2026-10-30T15:00:15+08:00",
+   "source_key": "forest:0000751"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8285630201616d9c0edeecdb3648e38c5ec9e0ec2d7740d7d7fdf16bcfe6572c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

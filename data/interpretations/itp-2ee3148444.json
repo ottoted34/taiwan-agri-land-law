@@ -1,0 +1,50 @@
+{
+ "id": "itp-2ee3148444",
+ "doc_class": "interpretation",
+ "docno": "農企字第1090711424號",
+ "date": "2020-05-13",
+ "date_text": "中華民國109年5月13日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關休閒農業設施得否依據容許辦法第28條規定附屬設置綠能設施",
+ "content": "一、 依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第28條規定，本辦法附表所定之各類農業設施，除申請基準或條件規定不得附屬設置綠能設施者外，得在不影響農業設施用途及結合農業經營使用之前提下，依容許辦法第4條規定，向土地所在地之直轄市、縣(市)主管機關提出申請設置屋頂型綠能設施。故依容許辦法得申請設置屋頂型綠能設施，以該辦法之附表所定各類農業設施為限。又，上開附表未包含「休閒農場輔導管理辦法」(以下簡稱休農辦法)所定各項休閒農業設施項目。\n二、 另，查休農辦法第21條明定休閒農場得申請設置下列4款設施：「一、住宿設施。二、餐飲設施。三、農產品加工(釀造)廠。四、農產品與農村文物展示(售)及教育解說中心。」，因其設置須辦理用地變更為特定目的事業用地(或經核准使用)，故該特定目的事業用地上之合法建物，得逕依「再生能源發展條例」及相關規定，申請於屋頂附屬設置太陽光電設施。\n三、 有關申請籌設休閒農場及於休閒農場內農業用地申請農業設施附屬設置屋頂型綠能設施，其受理與審查係屬地方主管機關權責，倘仍有疑義，請逕向臺東縣政府洽詢。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2020-05-13）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/47cbdcf0-cc1d-45ea-bc42-51b0914c84f3?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:26+08:00",
+   "source_key": "talis:47cbdcf0-cc1d-45ea-bc42-51b0914c84f3"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "74f0f6b8e6166f9f57b664c35894cd861147b297754fb87ad42bc3a4bba766d2",
+ "topics": [
+  "green_energy",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "設施得否依據容許辦法第28條規定附屬設置綠能設施\n一、 依據「申請農業用地作農業設施容許使用審查辦法」(以下簡稱容許辦法)第28條規定,本辦法附表所定之各類農業設施,除申請基準或條件"
+  }
+ ]
+}

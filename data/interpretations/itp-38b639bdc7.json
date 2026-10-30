@@ -1,0 +1,47 @@
+{
+ "id": "itp-38b639bdc7",
+ "doc_class": "interpretation",
+ "docno": "農企字第1030218231號",
+ "date": "2014-06-11",
+ "date_text": "103/06/11",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴縣竹山鎮公所申請變更竹山鎮仁德段242-1地號等3筆農業用地作竹山竹文化園區使用，得否依農業發展條例第12條第4項第1款規定免繳農業用地變更回饋金案，復請查照。",
+ "content": "一、復貴府103年5月29日府農務字第1030104469號函。\n二~三(略)",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000940?p=13",
+   "fetched_at": "2026-10-30T14:55:15+08:00",
+   "source_key": "forest:0000940"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8a496f1dd523aaf39a1e7636a509c0b4535b52bab17389059eb832f3408475d8",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "德段242-1地號等3筆農業用地作竹山竹文化園區使用,得否依農業發展條例第12條第4項第1款規定免繳農業用地變更回饋金案,復請查照。\n一、復貴府103年5月29"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-332bc652e2",
+ "doc_class": "interpretation",
+ "docno": "林造字第0921600787號",
+ "date": "2003-01-15",
+ "date_text": "092/01/15",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴縣怡園渡假村申請座落壽豐鄉段地號等91筆土地，列入平地造林或領取回饋金資格乙案，復如說明，請查照。",
+ "content": "一、復貴府92年1月6日府農林字第09101305470號函。\n二、茲因平地造林係根據「獎勵造林實施要點」辦理，自91年1月1日開始實施，並以獎勵馨值造林為主，本案樹齡均已有5年以上且有50年生老樹，依規無法發給獎勵金。感謝怡園渡假村歷年來對造林工作投入心血及善舉，但礙於法令規定，對於所請歉難同意辦理。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000794?p=93",
+   "fetched_at": "2026-10-30T15:14:21+08:00",
+   "source_key": "forest:0000794"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f06597747287f87726fa39846e36bf260a56f12280a44b64a5ad8888e8d17cd1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

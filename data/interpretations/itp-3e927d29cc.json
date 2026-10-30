@@ -1,0 +1,41 @@
+{
+ "id": "itp-3e927d29cc",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1141544507號",
+ "date": "2025-02-18",
+ "date_text": "中華民國114年2月18日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "漁電共生案場規劃顯不合理及設施與養殖經營之必要性顯不相當之樣態",
+ "content": "為利漁電共生農業容許審查，農業部研擬漁電共生案場規劃顯不合理及設施與養殖經營之必要性顯不相當之樣態，請參考。\n漁電共生案場規劃顯不合理及設施與養殖經營之必要性顯不相當之樣態\n類別\n農業部說明\n養殖設施\n蓄水池面積占比達 50%以上，已顯不符合養殖實務需求。\n綠能附屬設施\n光電業者申請綠能設施面積為 1 公頃以下，惟設置超過 1 座綠能附屬設施(如變電箱等)或綠能附屬設施單座面積超過 45 平方公尺。\n養殖規劃\n申請室內型漁電共生案場且計劃1年放養1批白蝦，實務上室內養殖場一般可放養2至3批，倘1年只養1批，顯不符合經營效益。\n申請室內型漁電共生案場，並計劃養殖未符經濟效益魚種(如養殖臺灣鯛1批/年)，因室內養殖場之建置成本與其養殖效益顯有落差，故有不合理之處。\n選址\n選擇山坡地保育區農牧用地設置室內水產養殖生產設施。\n必要性顯不相當樣態\n光電板及其附屬設施分別設置於非相鄰養殖池。\n其他顯不合理或顯不相當樣態：其他因塭堤超過養殖實務所需寬度、養殖池深超過養殖魚種需求等經地方主管機關認定經營計畫內容顯不合理或設施與農業經營之必要性顯不相當樣態。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2025-02-18）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/d6ea5684-68bb-4727-a4bc-a6890743c03e?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:14+08:00",
+   "source_key": "talis:d6ea5684-68bb-4727-a4bc-a6890743c03e"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "2c5fc7fa72ace94a268b046b664579a0a0425d6ecdcb229980cd68a83d0487f7",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-0aa27d898a",
+ "doc_class": "interpretation",
+ "docno": "林造字第1021740284號",
+ "date": "2013-01-29",
+ "date_text": "102/01/29",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴處函詢學校財團法人大學為辦理愛園大樓新建工程，事涉山坡地開發利用回饋金繳交疑義案，復請 查照。",
+ "content": "一、復 貴處102年1月14日北市工地森字第10230234500號函。\n二、查中央法規標準法第18條規定「各機關受理人民聲請許可案件適用法規時，除依其性質適用行為時之法規外，如在處理程序終結前，據以准許之法規有變更者，適用新法規。」，因貴處於101年12月6日核課本案回饋金之處理程序終結前，本辦法尚未修正變動，並無新法規適用疑義。\n正本：臺北市政府工務局大地工程處",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000852?p=18",
+   "fetched_at": "2026-10-30T14:56:04+08:00",
+   "source_key": "forest:0000852"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "1473f0134afc0ad57f5bfe0d0f3c1b756b3b93d22540ac7915acf74bfcd9b6ff",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

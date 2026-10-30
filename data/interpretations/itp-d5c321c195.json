@@ -1,0 +1,56 @@
+{
+ "id": "itp-d5c321c195",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1111257498號",
+ "date": "2022-05-06",
+ "date_text": "中華民國111年5月6日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "室內水產養殖生產設施設置屋頂型綠能設施容許使用之農業用地存在既有設施之處理原則",
+ "content": "一、 依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第28條規定，本辦法附表所定之各類農業設施，除申請基準或條件規定不得附屬設置綠能設施者外，得在不影響農業設施用途及結合農業經營使用之前提下，依該辦法第4條規定，向土地所在地之直轄市、縣(市)主管機關提出申請設置屋頂型綠能設施。\n二、 考量以影響原有養殖漁民最小之施作方式及加速屋頂型太陽光電之推動，倘申請室內水產養殖生產設施之容許使用，且該設施後續擬申請屋頂型綠能設施者，該農業用地現況存在既有違規或未申請容許使用設施且待拆除者，得由貴府按個案實情，依行政程序法第93條第2項第2款規定，於核發容許使用同意書時，加註條件，令其於期限內完成拆除並報經檢查合格後，該容許使用核准始生效力。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2022-05-06）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/88d4ef1a-6aa6-4677-86be-86e17d4ae42d?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:36+08:00",
+   "source_key": "talis:88d4ef1a-6aa6-4677-86be-86e17d4ae42d"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "de9d0b36579a649519f4d88d84776dc6924ded8c824b53528dd43258f9f2d6f4",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "型綠能設施容許使用之農業用地存在既有設施之處理原則\n一、 依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第28條規定,本辦法附表所定之各類農業設施,除申請基準或條件規定"
+  },
+  {
+   "law_id": "A0030055",
+   "article": "93",
+   "kind": "extracted",
+   "snippet": "有違規或未申請容許使用設施且待拆除者,得由貴府按個案實情,依行政程序法第93條第2項第2款規定,於核發容許使用同意書時,加註條件,令其於期限內完成拆除並報經檢"
+  }
+ ]
+}

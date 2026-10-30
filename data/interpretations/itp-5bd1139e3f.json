@@ -1,0 +1,47 @@
+{
+ "id": "itp-5bd1139e3f",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011652501號",
+ "date": "2012-03-13",
+ "date_text": "101/03/13",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關商業同業公會建議都市計畫住宅區用地，應視為不涉及水土保持法第12條規定而免繳交山坡地開發利用回饋金案，其中有無水土保持法適用疑義，係屬貴管權責，爰請貴局卓處逕復，請 查照。",
+ "content": "一、依據臺中市政府農業局101年3月5日中市農林字第1010004871號函辦理(影本如附)。\n二、副本抄送臺中市政府農業局，本案倘經認定無水土保持法第12條適用而無須擬具水土保持計畫，依山坡地開發利用回饋金繳交辦法規定，則無須核課山坡地開發利用回饋金。\n正本:行政院農業委員會水土保持局\n副本:臺中市政府農業局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000385?p=22",
+   "fetched_at": "2026-10-30T14:57:12+08:00",
+   "source_key": "forest:0000385"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "c292c7922d6a862925ddc1ad2fb4105a044ef4c387ea7ad01ffb62591c8c9d68",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "有關商業同業公會建議都市計畫住宅區用地,應視為不涉及水土保持法第12條規定而免繳交山坡地開發利用回饋金案,其中有無水土保持法適用疑義,係屬貴管權責,爰"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "itp-b2c93243b7",
+ "doc_class": "interpretation",
+ "docno": "漁四字第1121263138號",
+ "date": "2023-06-30",
+ "date_text": "中華民國112年6月30日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "外資法人投資漁電共生案場之我國養殖事業可行性",
+ "content": "一、養殖漁業經營結合綠能設施(漁電共生)政策以「養殖為本、綠能加值」為核心，其經營主體必須為養殖業，綠能發電為附屬功能，且其經營者須為養殖漁民、養殖漁民團體或登記為水產養殖業者。\n二、外國人投資養殖漁業相關規定及原則如下:\n(一) 依據漁業法第5條規定，漁業人以中華民國人為限。但外國人經中央主管機關核准與中華民國漁業人合作經營漁業者，不在此限。所以外資投資漁業係列入「僑外投資負面表列」，凡外資投資涉漁業相關行業，需由經濟部投資審議委員會逐案送行政院農業委員會審議。\n(二) 考量水土資源有限，近年來已不鼓勵採行高密度集約式養殖方式，所以外資投資水產養殖漁業不宜擴大產業規模，或應以室內循環水養殖設施等低耗水土資源之養殖方式為宜，以降低環境衝擊，且水產養殖屬傳統產業，為維護國內初級產業發展及漁民生計，應以國人為經營主體。\n(三) 外國資金不可大於或等於50%。\n三、另有關外資與養殖業者合作，以本國籍具養殖事業核可之業者申請農業設施容許使用一節，涉雙方合意之私權契約，惟應遵守法令及商業倫理規範，得採行增進公共利益之行為，以善盡其社會責任。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-06-30）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/d2e6a134-55c5-4d99-8b97-396eab9508be?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:26+08:00",
+   "source_key": "talis:d2e6a134-55c5-4d99-8b97-396eab9508be"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5099bba7216d5e0c8a461361d6f545706d1b8c6858c3b27c5b23f2108d1a26a1",
+ "topics": [
+  "green_energy",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

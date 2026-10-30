@@ -1,0 +1,40 @@
+{
+ "id": "itp-18ffab737b",
+ "doc_class": "interpretation",
+ "docno": "農林務字第1011743158號",
+ "date": "2012-11-23",
+ "date_text": "101/11/23",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢有限公司申請貴縣芬園鄉新縣庄段553地號土地水土保持計畫需繳交山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、依據本會林務局案陳 貴府101年11月9日府農育字第1010331145號函辦理。\n二、本案係○○○○有限公司依「未登記工廠補辦臨時工廠登記辦法」所擬具水土保持計畫，據稱83年、89年及96年分三期興建廠房，均未領有建築執照及使用執照。依本會林務局94年3月7日林造字第0941603924號函(影本如附)說明二，貴府公告乘積比例後，送核之水土保持計畫均須核算回饋金數額，毋論原已違規興建土地，其事後為辦理補照等相關法定程序所核定之水土保持計畫等，均須依規核算回饋金。\n三、有關回饋金計算，應依山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)第5條第1項規定，以水土保持計畫或簡易水土保持申報書之「計畫面積」計算。尚無法將89年11月30日本辦法施行前之已有建物面積扣除。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000858?p=19",
+   "fetched_at": "2026-10-30T14:56:19+08:00",
+   "source_key": "forest:0000858"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e30c555a7ed023a29ab29ddf712d8246bd342f3c09931f29e89bc86ad514ad43",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

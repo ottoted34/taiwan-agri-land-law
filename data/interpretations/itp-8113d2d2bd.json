@@ -1,0 +1,44 @@
+{
+ "id": "itp-8113d2d2bd",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1060217942號",
+ "date": "2017-06-07",
+ "date_text": "中華民國106年6月7日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "申請於農機具設施、農產運銷加工設施及農事操作管理設施附屬設置綠能設施之審查事宜",
+ "content": "按農業設施附屬綠能設施之查核重點，在於農業設施結構及\n用途，以及農業經營狀況有無符合經營計畫使用，考量農機\n具設施、農產運銷加工設施及農事操作管理設施等管理型設\n施屋頂結合綠能設施，尚無遮光及影響植物之生長。惟上開\n設施之設置仍應依其核定用途使用，且面積、高度及配置符\n合原核定之容許使用同意書及設施配置圖。另旨揭設施所坐\n落之土地，扣除設施後之其餘土地，應依原核定經營計畫之\n生產計畫內容作農業生產使用，併就個案實情核實審認。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2017-06-07）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/7992472b-0163-4635-8824-8e58c00a19ad?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:19:45+08:00",
+   "source_key": "talis:7992472b-0163-4635-8824-8e58c00a19ad"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "6c7b0010cac6a9944f74c72c8c8801ed40b71a1923776b1c8f364d4d9b7f12f0",
+ "topics": [
+  "machinery_room",
+  "facility_use",
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

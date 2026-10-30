@@ -1,0 +1,40 @@
+{
+ "id": "itp-297d6cb0cb",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991740578號",
+ "date": "2010-03-18",
+ "date_text": "099/03/18",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關行政院農業委員會91年1月8日農林字第900171807號函示「全民造林運動新植造林時，如保留林地內原生立木一併撫育，得併計新植與保留木核發造林獎勵金」得否適用獎勵輔導造林計畫案，復如說明，請查照。",
+ "content": "一、復貴處99年1月15日花作字第0998230041號函。\n二、有關獎勵輔導造林案件之申辦，主要係依據獎勵輔導造林辦法及其他相關規定，申請案如符合該辦法之對象、區位及新植造林方式等，則可據以辦理。有關旨揭函示係適用於全民造林計畫，惟不符合獎勵輔導造林辦法之規定，目前尚不適用於獎勵輔導造林計畫。\n正本:本局花蓮林區管理處\n副本:本局各林管處(花蓮處除外)",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000091?p=40",
+   "fetched_at": "2026-10-30T15:01:34+08:00",
+   "source_key": "forest:0000091"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "54c44cef4df539d3eedcaadae1b79104bfb15840a0fdd6d18adc579cb03c8054",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-2b12340bb5",
+ "doc_class": "interpretation",
+ "docno": "林治字第0931607180號",
+ "date": "2004-04-23",
+ "date_text": "093/04/23",
+ "agency_text": "",
+ "category": "森林管理組／保安林",
+ "subject": "貴處函詢荔枝栽植於保安林區域內租地造林地，可否作為契約之造林樹種辦理續租案，復請查照。",
+ "content": "一、復貴處93年4月12日投治字第0934103845號函。\n二、有關荔枝列為租地造林樹種之規定，前經本局76年3月4日林政字第06519號函核定列為租地造林樹種，並未限定保安林區域外栽植，為考量荔枝多採矮化經營，且多以經濟作物栽培，復於本局92年3月25日林造字第0921740074號函修正租地造林樹種表中，荔枝限於保安林區域外栽植。\n三、因此本案位於保安林區域內租地造林地所種之荔枝，如確係於修正規定前栽植者，同意視同造林樹種，惟不得再有新植情事。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000804?p=88",
+   "fetched_at": "2026-10-30T15:13:13+08:00",
+   "source_key": "forest:0000804"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d363d6b0106a681a46bb53cdd56c436cf399c13ac047974ba9fba285aa73afbb",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

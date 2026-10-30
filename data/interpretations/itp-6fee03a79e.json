@@ -1,0 +1,40 @@
+{
+ "id": "itp-6fee03a79e",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001740173號",
+ "date": "2011-01-24",
+ "date_text": "100/01/24",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府詢問山坡地超限利用列管有案之土地輔導造林，能否依「獎勵造林審查要點」第2點第11款規定參加獎勵造林案，復如說明，請 查照。",
+ "content": "一、復貴府100年1月17日府水保字第1000024088號函。\n二、為鼓勵民眾造林以排除超限利用行為，當主管機關依「獎勵輔導造林辦法」第6條規定審查有無實施造林之需要時，可依「獎勵造林審查要點」第2點第11款「經水土保持主管機關列管之超限利用土地」作為認定依據。至於受理核准之案件，於各年度之造林檢測時，仍應符合「獎勵輔導造林辦法」第9條第1項第3款規定無超限利用情形，始得按其造林年度發給造林獎勵金。\n正本：嘉義縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000278?p=32",
+   "fetched_at": "2026-10-30T14:59:39+08:00",
+   "source_key": "forest:0000278"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "67313c9efe7410a9cade724eb06d43aaf21cef04d264d9c915b49a8376c207f3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

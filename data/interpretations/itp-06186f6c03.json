@@ -1,0 +1,40 @@
+{
+ "id": "itp-06186f6c03",
+ "doc_class": "interpretation",
+ "docno": "農林務字第1001741252號",
+ "date": "2011-06-10",
+ "date_text": "100/06/10",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴處詢問於桃園縣龜山鄉樂善段-及-地號內辦理純建築行為，得否免辦水土保持計畫及免繳交開發利用回饋金案，復請 查照。",
+ "content": "一、復貴處100年5月25日D建字第10005063401號函。\n二、按山坡地開發利用回饋金繳交辦法第4條規定「山坡地開發利用回饋金之繳交義務人，為擬具水土保持計畫或簡易水土保持申報書之水土保持義務人。」，本案是否符合本會94年3月4日農授水保字第0941803754號函及96年7月9日農授水保字第0961856151號函所謂之純建築行為而免擬具水土保持計畫或簡易水土保持申報書，及後續是否須繳交山坡地開發利用回饋金，應由桃園縣政府就具體事實個案認定之。\n正本：○○○○股份有限公司營建處\n副本：桃園縣政府、本會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000351?p=29",
+   "fetched_at": "2026-10-30T14:58:49+08:00",
+   "source_key": "forest:0000351"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "3a80057ea50f95c45547f1520aaa727678e4120146e13bdffbc0e10e8b960860",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

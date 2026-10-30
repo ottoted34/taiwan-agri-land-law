@@ -1,0 +1,40 @@
+{
+ "id": "itp-0c0ffdd603",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991741998號",
+ "date": "2010-09-16",
+ "date_text": "099/09/16",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關詢問已繳交市地重劃區負擔費用，是否免繳交山坡地開發利用回饋金(以下簡稱回饋金)疑義案，復如說明，請 查照。",
+ "content": "一、復貴府99年9月8日府農育字第0990221042號函。\n二、依山坡地開發利用回饋金繳交辦法規定，凡擬具水土保持計畫或簡易水土保持申報書者，除有第8條免繳交回饋金情形者外，應核處回饋金。另，臺北高等行政法院判決94年度訴字第3297號判決理由略以:「復按平均地權條例第60條規定實施市地重劃時之工程費用，重劃費用及貸款利息，均由參加重劃土地所有人按其土地受益比例共同負擔，並得以重劃區內未建築土地折價抵付，係屬工程受益費之性質，而回饋金之性質係透過造林措施加強山坡地生態維護，二者收繳目的及計算基準有所不同，應無重複負擔之問題」。是以，尚無法因負擔自辦市地重劃區費用，而免除回饋金繳交義務。\n正本：彰化縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000749?p=35",
+   "fetched_at": "2026-10-30T15:00:19+08:00",
+   "source_key": "forest:0000749"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "71b40314039b65e380914875591a4da62dfd013d3348e1b53a36e3122c8547c2",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "itp-afb1d1aff4",
+ "doc_class": "interpretation",
+ "docno": "林造字第1001741311號",
+ "date": "2011-06-17",
+ "date_text": "100/06/17",
+ "agency_text": "",
+ "category": "森林產業組／平地造林",
+ "subject": "有關貴府函復貴縣民眾君參加93年度平地造林計畫之土地，因經濟部水利署中區水資源局辦理「湖山水庫下游連接管路工程用地」徵收案，復如說明，請查照。",
+ "content": "一、復貴府100年6月3日府農林字第1000067896暨1000504447號函。\n二、查「平地造林直接給付及種苗配撥實施要點」(以下簡稱本要點)業經行政院農業委員以100年6月13日農林務字第1001740884號令修正，依本要點第13點規定，因政府依法辦理徵收造林地，致未達獎勵年限二十年，須中途退出者，廢止其造林直接給付之核准，除屬國營事業機構造林地者，應命造林人返還已領取之造林費用外，其餘者免返還已領取之造林費用，爰請貴府逕依該規定辦理。\n正本：雲林縣政府\n副本：立法院劉委員建國國會辦公室",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000391?p=29",
+   "fetched_at": "2026-10-30T14:58:43+08:00",
+   "source_key": "forest:0000391"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ddd9c375278e59bc831d8fd6dce12332301c40da4542ca8bd9372e19b0a7ef89",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

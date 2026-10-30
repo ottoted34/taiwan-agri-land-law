@@ -1,0 +1,40 @@
+{
+ "id": "itp-11171bc260",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0931806526號",
+ "date": "2004-04-13",
+ "date_text": "093/04/13",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴府函詢有關山坡地開發利用回饋金繳交案，復如說明，請查照。",
+ "content": "一、復貴府93年3月23日府農林字第0930065976號函。\n二、查「山坡地開發利用回饋金繳交辦法」第4條明定：「山坡地開發利用回饋金(以下簡稱本回饋金)之繳交義務人，為前條山坡地開發利用之申請人。但由政府機關興辦者不在此限。」，本案○○公司為國營事業機構，非屬上開條文所稱「政府機關」，仍應依規繳交山坡地開發利用回饋金。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000317?p=88",
+   "fetched_at": "2026-10-30T15:13:16+08:00",
+   "source_key": "forest:0000317"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "de6d89ec26e34aaf1c936e406bcdcde746d1136b62123635f4187c97f8cf47e0",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

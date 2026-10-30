@@ -1,0 +1,40 @@
+{
+ "id": "itp-208813fb96",
+ "doc_class": "interpretation",
+ "docno": "農林字第0910159689號",
+ "date": "2002-10-22",
+ "date_text": "091/10/22",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關適種於沿海地區土地之樹種象牙樹及瓊崖海棠，若栽種於一般林地及農牧用地，仍能成活並生長良好，亦可推廣栽種，復請查照。",
+ "content": "復貴局九十一年十月十七日九一林造字第○九一一六一八七四二號函。\n正本：本會林務局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000712?p=93",
+   "fetched_at": "2026-10-30T15:14:33+08:00",
+   "source_key": "forest:0000712"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "824412b7b085aa00162c7871ad692ede13ffe414ba90b2ba21ac32f03111050a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

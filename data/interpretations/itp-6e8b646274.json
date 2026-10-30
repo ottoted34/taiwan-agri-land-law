@@ -1,0 +1,40 @@
+{
+ "id": "itp-6e8b646274",
+ "doc_class": "interpretation",
+ "docno": "農林字第8614058號",
+ "date": "1997-08-08",
+ "date_text": "086/08/08",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "所詢稻田轉作造林部分自八十七年度起納入全民造林計劃，有關出入耕之執行疑義，釋如說明，請查照。",
+ "content": "一、復貴府八十六年七月二十四日八十六府農務字第一四三零八二號函。\n二、據現行之「獎勵造林實施要點」規定，受理申請造林、配苗、成活率檢測及造林獎勵金核發等工作係由造林地所屬鄉(鎮、市、區)公所辦理；故前於八十一年度起依「獎勵造林實施要點」規定申請造林，且造林地與戶籍地不在同一鄉(鎮、市、區)公所轄內者，林業管理經營機關自應主動查明並本諸權責逕行要求該受理公所將相關資料移送造林地所屬公所辦理。\n正本：桃園縣政府\n副本：台灣省林務局、各縣政府、基隆市政府",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000636?p=102",
+   "fetched_at": "2026-10-30T15:16:30+08:00",
+   "source_key": "forest:0000636"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "5aaa10c140069d572bbbc835add4bf31a554bf6b0de6433dbdf4ee73f7cfdf79",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,43 @@
+{
+ "id": "itp-403bc25f7c",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0981652594號",
+ "date": "2009-04-03",
+ "date_text": "098/04/03",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府詢問興建農舍之簡易水土保持申報書，應適用水土保持計畫審核監督辦法第3條何款及是否需繳交山坡地開發利用回饋金案，復請 查照。",
+ "content": "一、復貴府98年3月17日北府農林字第0980198687號函。\n二、有關興建農舍應適用水土保持計畫審核監督辦法第3條何款一節，經查本會97年12月5日農授水保字第0971852133號函釋內容:興建農舍或農業設施並無「建築基地面積」可供認定，故無從適用水土保持計畫審核監督辦法第3條第1項第5款「開發建築用地」規定，故仍應維持同辦法第3條第1項第7款「其他開挖整地」之適用。\n三、另依山坡地開發利用回饋金繳交辦法第4條規定，回饋金之繳交義務人，為擬具水土保持計畫或簡易水土保持申報書之水土保持義務人。因此，興建農舍若無該辦法第8條各款所列免繳交回饋金情形者，仍應繳交回饋金。\n正本：臺北縣政府\n副本：本會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000555?p=52",
+   "fetched_at": "2026-10-30T15:04:21+08:00",
+   "source_key": "forest:0000555"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a10939fe11779b66f3d55e13c6ada6de9d48600ea9151d8c8af68c7a78e6f770",
+ "topics": [
+  "landfill",
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

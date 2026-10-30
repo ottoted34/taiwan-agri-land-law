@@ -1,0 +1,40 @@
+{
+ "id": "itp-f63cb5fab9",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第1100206611號",
+ "date": "2021-03-18",
+ "date_text": "110/03/18",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴局函詢建築經理股份有限公司(代表人：)申請住宅新建工程建造執照(坐落新北市新店區安康段地號)之溢繳山坡地開發利用回饋金退還疑義一案，復如說明，請查照。",
+ "content": "一、復貴局110年2月20日新北農林字第1100330455號函。\n二、查，貴局110年2月8日新北農林字第1100273123號函(略以)係因開發面積變動，重新計算山坡地開發利用回饋金（下稱回饋金），請本會林務局退還回饋金溢繳之1萬7,932元，該局業以110年2月18日林造字第1101604773號函函復貴局並將申退款項匯入貴局指定帳戶在案。\n三、至本案應將溢繳回饋金退還〇〇〇君或〇〇建築經理股份有限公司，仍請貴局依實際事實認定，本權責依規辦理。\n正本：新北市政府農業局\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0001051?p=7",
+   "fetched_at": "2026-10-30T14:54:24+08:00",
+   "source_key": "forest:0001051"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "10adc3bd9cd275d40806c806a41e477090da8243a01815063b1f304359b801d6",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

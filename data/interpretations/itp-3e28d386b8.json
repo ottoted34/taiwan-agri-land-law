@@ -1,0 +1,59 @@
+{
+ "id": "itp-3e28d386b8",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第1121060943號",
+ "date": "2023-05-25",
+ "date_text": "中華民國112年5月25日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "重申既成設施但未取得容許使用之農作產銷設施屋頂附屬設置太陽光電案件辦理原則",
+ "content": "一、查旨揭案件之處理原則，本會業以109年10月14日農糧字第1091061747號函(諒達)請貴府(局)配合辦理在案；為加速推動綠能政策，以達成2025年再生能源之設置目標，重申對配合政策並規劃於農作產銷設施屋頂設置綠能(太陽光電)設施，如其場內已有既成但未取得容許使用之設施，倘確係作為農業使用性質，其補辦容許使用部分，仍得與農作產銷設施附屬設置屋頂型綠能設施之申請作業脫鉤辦理，毋須俟農作產銷設施處罰或拆除改善完成，始得辦理綠能設施容許使用申請作業，以加速設置流程。\n二、至其農作產銷設施坐落之土地總面積涉及申請農業用地作農業設施容許使用審查辦法第7條規定者，請貴府(局)本權責另行依個案情形輔導辦理。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-05-25）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/56b7827a-7d8c-4af6-b036-a66f0bb386ad?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:29+08:00",
+   "source_key": "talis:56b7827a-7d8c-4af6-b036-a66f0bb386ad"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "7",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "d2ab28994612a3e59a88d21e800aeb1643927705d8f03729292858fd69cfbcab",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "7",
+   "kind": "extracted",
+   "snippet": ",以加速設置流程。\n二、至其農作產銷設施坐落之土地總面積涉及申請農業用地作農業設施容許使用審查辦法第7條規定者,請貴府(局)本權責另行依個案情形輔導辦理。"
+  }
+ ]
+}

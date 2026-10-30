@@ -1,0 +1,40 @@
+{
+ "id": "itp-fc2e29dd62",
+ "doc_class": "interpretation",
+ "docno": "農林字第88143856號",
+ "date": "1999-09-06",
+ "date_text": "088/09/06",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "函詢有關獎勵造林苗木配撥案，復如說明，請查照。",
+ "content": "一、復貴府八十八年八月二十七日八八府農林自第一八四九四二號函。\n二、「全民造林運動造林苗木培育計畫」所培養之苗木，應優先提供於依規申請獎勵造林土地新植之用，並由本會林務局統籌調配，若有賸餘苗木，再提供其他地區造林綠化之需。貴府對於上揭苗木申請配撥，應確實審核，掌握苗木流向，並追蹤瞭解生長成活情形，避免浪費苗木。\n正本：桃園縣政府\n副本：本會林務局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000704?p=99",
+   "fetched_at": "2026-10-30T15:15:52+08:00",
+   "source_key": "forest:0000704"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "65c6d6cd86763a3c5f85ce848255e67e5e9253f391903f47ee71a637fb101a93",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

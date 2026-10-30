@@ -1,0 +1,40 @@
+{
+ "id": "itp-33692ccfa0",
+ "doc_class": "interpretation",
+ "docno": "林造字第0991740080號",
+ "date": "2010-01-13",
+ "date_text": "099/01/13",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "貴府函詢參加獎勵造林之農牧用地，發生法拍或所有權移轉，繼受土地之所有人不願繼續撫育造林，其林木得否准予自行處分疑義1案，復如說明，請查照。",
+ "content": "一、復貴府99年1月5日府農林字第0983048129號函。\n二、有關參與獎勵造林之土地發生所有權移轉，繼受土地之所有人不願繼續造林之處理方式，本局95年3月20日林造字第0951740380號函(影本如附)業已釋示在案。\n三、本案據報繼受土地之所有人未曾領取造林獎勵金，倘繼受土地之所有人於未達20年獎勵期限，即欲處分造林木，貴府自應向繼受前之原造林人請求返還造林獎勵金。至該獎勵造林之繼受人是否可自行處分林木乙節，鑑於農牧用地之土地尚不受森林法之拘束，貴府得考量該區位是否位於環境敏感地區及是否影響水土保持等原則，併依「林產物伐採查驗規則」之規定自行准駁。\n正本：臺東縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000175?p=42",
+   "fetched_at": "2026-10-30T15:01:58+08:00",
+   "source_key": "forest:0000175"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "060bc655c4ddaa16b3d73074b54b49e9313b7c2595fd409370d1e84d7e5eb21c",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

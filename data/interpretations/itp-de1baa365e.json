@@ -1,0 +1,40 @@
+{
+ "id": "itp-de1baa365e",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0961601360號",
+ "date": "2007-01-22",
+ "date_text": "096/01/22",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關山坡地開發利用回饋金之開發面積計算疑義，復如說明，請查照。",
+ "content": "一、依據本會林務局案轉貴府96年1月12日府農林字第0960017042號函辦理。\n二、有關開發面積之認定，本會曾以93年3月25日農授林務字第0931730088號函以:經核定水土保持計畫書範圍內，各項水土保持設施、工程、建築、土地開發經營或經營使用行為等之面積總和。\n三、檢附本會93年3月25日農授林務字第0931730088號函影本1份。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000567?p=71",
+   "fetched_at": "2026-10-30T15:09:01+08:00",
+   "source_key": "forest:0000567"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0e458d28616ab28733ac966aae26e99461036035e937a44ecd9ad4541348899f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

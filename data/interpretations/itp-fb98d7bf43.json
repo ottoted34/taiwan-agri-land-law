@@ -1,0 +1,47 @@
+{
+ "id": "itp-fb98d7bf43",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0960104532號",
+ "date": "2007-01-25",
+ "date_text": "096/01/25",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關山坡地開發利用回饋金繳交辦法執行疑義，請依說明事項查明逕處，復請查照。",
+ "content": "一、復貴府96年1月17日府建農字第0960006455號函。\n二、依據行政院農業委員會95年6月1日農授林務字第0951740711號函釋示略以，確屬依水土保持法第12條規定，必須擬具水土保持計畫(含簡易水保申報書)，且無山坡地開發利用回饋金繳交辦法第4條及第8條所定免繳或視同已繳交之情況，均須繳交本回饋金，合先敘明。\n三、依據水土保持計畫審核監督辦法第4條第1項第2款規定：水土保持義務人有下列情形，免擬具水土保持計畫或簡易水土保持申報書送請主管機關審核:經營農場或其他農業經營需要修築園內道或作業道，路基寬度在2.5公尺以下且長度在100公尺以下者。是以，本案修築道路未滿80公尺，是否確屬須依據水土保持法第12條規定擬具水保計畫或簡易水保之案件，宜先查明。\n正本：新竹市政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000565?p=71",
+   "fetched_at": "2026-10-30T15:09:00+08:00",
+   "source_key": "forest:0000565"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "aafae2f7ec2f1728bca22a25707ca6f24aaa02e94568dbe97a608a794f166030",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "6月1日農授林務字第0951740711號函釋示略以,確屬依水土保持法第12條規定,必須擬具水土保持計畫(含簡易水保申報書),且無山坡地開發利用回饋金繳交辦法"
+  }
+ ]
+}

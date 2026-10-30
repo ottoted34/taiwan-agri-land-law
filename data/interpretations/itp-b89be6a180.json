@@ -1,0 +1,42 @@
+{
+ "id": "itp-b89be6a180",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0980105422號",
+ "date": "2009-02-12",
+ "date_text": "098/02/12",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "為貴局函詢等11人共同繳交山坡地開發利用回饋金之疑義案，復請 查照。",
+ "content": "一、復貴局98年1月22日北農林字第0980027919號函。\n二、查本會93年4月14日農授林務字第0931606727號函敘明略以，開發面積之計算，為經核定水土保持計畫範圍內，各項水土保持設施、工程、建築、土地開發經營或經營使用行為等之開挖整地面積總和，不包括無開挖整地之法定空地。有關○○○○○○有限公司98年1月10日98漢工字第001-1號函表示本案有將無開挖整地之面積納入計算回饋金一節，仍請貴府就具體個案事實認定，並就有涉及開挖整地之面積總和，計算開發面積。\n正本：臺北縣政府農業局\n副本：○○○○○○有限公司、立法委員張慶忠國會辦公室",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000549?p=54",
+   "fetched_at": "2026-10-30T15:04:51+08:00",
+   "source_key": "forest:0000549"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "abed7240b5ca46b0c3569b0e163eb81cc5075b9043be6f5bee421fd03bd908d6",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

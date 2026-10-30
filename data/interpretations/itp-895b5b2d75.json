@@ -1,0 +1,43 @@
+{
+ "id": "itp-895b5b2d75",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0931609442號",
+ "date": "2004-05-19",
+ "date_text": "093/05/19",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴府函詢有關山坡地開發利用回饋金繳交疑義案，復如說明，請查照。",
+ "content": "一、復貴府93年5月12日府農林字第0930114741號函。\n二、山坡地開發利用回饋金之繳交，係依據核定水土保持計畫中，實際開挖整地面積予以計收；本案所指申請增建或修建倉庫，若涉及開挖整地等新開發面積，仍應繳交山坡地開發利用回饋金。至申請栽植草皮或種植果樹是否應繳交山坡地開發利用回饋金，仍請依上開原則辦理。\n正本：桃園縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000312?p=88",
+   "fetched_at": "2026-10-30T15:13:09+08:00",
+   "source_key": "forest:0000312"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "8f93ec37ecac042f967bc49a1330df2c808a29cea68ae5dd6206474eb0d851bc",
+ "topics": [
+  "landfill",
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

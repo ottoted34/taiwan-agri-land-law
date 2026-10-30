@@ -1,0 +1,56 @@
+{
+ "id": "itp-d07e680356",
+ "doc_class": "interpretation",
+ "docno": "農企字第1080234288號",
+ "date": "2019-06-14",
+ "date_text": "中華民國108年6月14日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "申請變更範圍內有夾雜未申請變更之農業用地者原則上不同意變更使用",
+ "content": "一、 查農業發展條例第10條明定，農業用地劃定或變更為非農業使用時，應以不影響農業生產環境之完整；復依據「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款規定：「農業用地變更使用，應避免影響農業生產環境之完整。有下列情形之一者，不同意變更使用：(三)申請變更範圍內夾雜未申請變更之農業用地且妨礙其農業經營者。」，又所稱「夾雜」係指未申請變更之農業用地為新申請變更編定之用地與原已變更編定之用地所包圍，致該農業用地無通路與外界聯絡等情形，故申請變更範圍內有夾雜未申請變更之農業用地者，原則上不同意變更使用，合先敘明。\n二、 旨案貴府來函所附文件，顯示申請變更範圍內夾雜未申請變更之農業用地，且留設於隔離綠帶或設施範圍內，並無通路與外界聯絡，恐妨礙其農業經營外，亦造成農地零碎使用情形，原則上不同意變更使用，倘本案仍有變更使用之需要，應以不影響農業生產環境之完整下，調整原申請變更範圍，或取得該夾雜農業用地之所有權人同意，合併辦理用地變更為宜。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2019-06-14）",
+ "agency_id": "moa",
+ "agency_name": null,
+ "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/7294cb88-6851-4a1f-b4c1-023398d6596d?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:53+08:00",
+   "source_key": "talis:7294cb88-6851-4a1f-b4c1-023398d6596d"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "bd51c3f15c9363c3a4cefa79d45e1db6319a18cde3e230b6105d6309c44dedc9",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "10",
+   "kind": "extracted",
+   "snippet": "內有夾雜未申請變更之農業用地者原則上不同意變更使用\n一、 查農業發展條例第10條明定,農業用地劃定或變更為非農業使用時,應以不影響農業生產環境之完整;復依據「農"
+  },
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定或變更為非農業使用時,應以不影響農業生產環境之完整;復依據「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款規定:「農業用地變更使用,應避免影響農業生產環境之完整。有下列情形之"
+  }
+ ]
+}

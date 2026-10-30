@@ -1,0 +1,50 @@
+{
+ "id": "itp-6f8b1bd444",
+ "doc_class": "interpretation",
+ "docno": "農漁字第1121250508號",
+ "date": "2023-02-16",
+ "date_text": "中華民國112年2月16日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "既存魚塭涉及非農業用地之容許申請",
+ "content": "一、查申請農業用地作農業設施容許使用審查辦法（以下簡稱容許辦法）第2條規定，有容許辦法所稱農業用地範圍，故屬該條規定之農業用地範圍土地，始有容許辦法之適用。\n二、復依容許辦法第4條規定，申請農業用地作農業設施容許使用，係由申請人檢附經營計畫及設施配置圖等文件，向土地所在地之直轄市或縣（市）主管機關提出。倘同一魚塭同時坐落於農業用地及非農業用地，申請人應僅就農業用地提出容許使用之申請，惟考量魚塭之完整性，應於其經營計畫併同敘明該魚塭所坐落之非農業用地基地地號、興建面積及設施建造方式等事項，並於設施配置圖一併載明。又農業主管機關係就農業用地部分進行審查，倘合於容許辦法相關規定，亦可就農業用地核發農業設施容許使用同意書。至於非農業用地得否設置魚塭或辦理變更編定作業，應洽該土地主管機關審認及協處。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2023-02-16）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/512ccae0-e1af-468e-8025-b19069085c9c?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:17:32+08:00",
+   "source_key": "talis:512ccae0-e1af-468e-8025-b19069085c9c"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "52d9d4b564ea5d0c0dcf7ffd3a81e1af7fcd2cc2884333c25252bfcea3f1ea2e",
+ "topics": [
+  "land_change",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "既存魚塭涉及非農業用地之容許申請\n一、查申請農業用地作農業設施容許使用審查辦法(以下簡稱容許辦法)第2條規定,有容許辦法所稱農業用地範圍,故屬該條規定之農業用"
+  }
+ ]
+}

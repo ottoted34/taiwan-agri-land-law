@@ -1,0 +1,69 @@
+{
+ "id": "itp-76991baba3",
+ "doc_class": "interpretation",
+ "docno": "林企字第0961654650號",
+ "date": "2007-05-22",
+ "date_text": "096/05/22",
+ "agency_text": "",
+ "category": "保育企劃組／森林登記規則",
+ "subject": "有關貴府函詢林業用地依「農業用地容許作農業設施使用審查辦法」，申請林業設施作育苗室、資材室、管理室之容許使用，應否先辦妥森林登記，復如說明，請查照。",
+ "content": "一、復貴府96年5月16日府農林字第09600730380號函。\n二、經查農業用地容許作農業設施使用審查辦法第5條第1項第1款至第6款規定，該項申請應檢附之資料無「農業用地作農業使用證明」及「森林登記證」在內；惟森林登記是否列為該條第1項第7款之規定文件，請依主管權責認定之。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000776?p=66",
+   "fetched_at": "2026-10-30T15:07:52+08:00",
+   "source_key": "forest:0000776"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "5",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "5",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "03e8a9e74e791baa7070b75f3dda9a6c95b416f4301ce0da2ffea26163f177e2",
+ "topics": [
+  "farm_use_cert",
+  "material_room"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "5",
+   "kind": "extracted",
+   "snippet": "年5月16日府農林字第09600730380號函。\n二、經查農業用地容許作農業設施使用審查辦法第5條第1項第1款至第6款規定,該項申請應檢附之資料無「農業用地作農業使用證明」及「森"
+  }
+ ]
+}

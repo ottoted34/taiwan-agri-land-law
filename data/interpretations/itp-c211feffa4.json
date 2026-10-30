@@ -1,0 +1,40 @@
+{
+ "id": "itp-c211feffa4",
+ "doc_class": "interpretation",
+ "docno": "林造字第0971612211號",
+ "date": "2008-07-14",
+ "date_text": "097/07/14",
+ "agency_text": "",
+ "category": "森林產業組／全民造林",
+ "subject": "有關貴府函復貴轄國姓鄉公所有關貴縣獎勵造林戶君陳情案，請依說明事項辦理，請查照。",
+ "content": "一、復貴府97年7月9日農林字第09701193430號函(副本)。\n二、依據獎勵造林實施要點(以下簡稱本要點)規定，貴府係屬林業管理經營機關，自應依據本要點規定，執行造林成果檢測，倘有造林地成活率不足之情形，亦應依據權責，儘速輔導造林人完成補植，且補植樹種亦應考量符合本要點規定，及適地適木為原則，俟符合造林檢測標準，得俾憑核發當年度造林獎勵金，以維護林農權益；先行敘明。\n三、 惟貴府稱造林成活率及株數之計算不盡合理云云，容有未洽，茲因造林地自參加獎勵全民造林計畫起，倘貴府確實輔導造林人善加撫育造林木，其成活率必有7成以上，且於造林第7年起，依本要點規定尚可扣除成活率2%；今系爭造林地業經貴府歷年檢測及發放獎勵金有案，不應至造林中後期始發現有造林成活率不足之情形；是以，仍請貴府應予以檢討業務執行有無疏失，並儘速改正為禱。\n正本：南投縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000828?p=58",
+   "fetched_at": "2026-10-30T15:05:57+08:00",
+   "source_key": "forest:0000828"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fb17a69369102cbfd498fb4cca3947feb84429633ae2d09f521bce5f48423f6a",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

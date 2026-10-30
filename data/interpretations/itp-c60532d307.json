@@ -1,0 +1,42 @@
+{
+ "id": "itp-c60532d307",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0971656639號",
+ "date": "2008-08-13",
+ "date_text": "097/08/13",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢為辦理宮新建寺廟工程繳交山坡地開發利用回饋金事宜案，復如說明，請 查照。",
+ "content": "一、依據本會林務局案陳 貴局97年7月29日北農林字第0970557990號函辦理。\n二、按山坡地開發利用回饋金繳交辦法第6條第3項規定，僅規範於水土保持完工前，遇有原計畫面積變更之情況，如何計算回饋金與抵繳之規定，並未規定未繳回饋金可拒不予核定變更水土保持計畫，合先敘明。\n三、另回饋金繳交義務人迄今未依貴府92年5月23日北府農林字第0920353731號函繳納回饋金一節，依行政執行法第7條規定「行政執行，自處分、裁定確定之日或其他依法令負有義務經通知限期履行之文書所定期間屆滿之日起，5年內未經執行者，不再執行;其於5年期間屆滿前已開始執行者，仍得繼續執行。但自5年期間屆滿之日起已逾5年尚未執行終結者，不得再執行」，請貴局注意其移送執行之時效規定。\n正本：臺北縣政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000616?p=57",
+   "fetched_at": "2026-10-30T15:05:48+08:00",
+   "source_key": "forest:0000616"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "0276b7031dc3d6620a686297203598e30fe93eefe385b77e52a58de99dd631c6",
+ "topics": [
+  "facility_use"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,50 @@
+{
+ "id": "itp-47b34bf91d",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第1100210231號",
+ "date": "2021-03-29",
+ "date_text": "中華民國110年3月29日",
+ "agency_text": "",
+ "category": "農業綠能",
+ "subject": "有關「防疫型簡易養殖設施」審辦疑義案",
+ "content": "一、 本會109年9月9日修正發布之申請農業用地作農業設施容許使用審查辦法(下稱本辦法)第21條附表4，增訂之「防疫型簡易養殖設施」係考量實務需求，以減緩養殖漁業受極端氣候衝擊，該設施係指以鍍鋅錏管等作為主要支架，並覆以具防疫效果之阻隔設施，為有固定基礎且未涉及建築行為之臨時性、簡易性與農業生產有關之設施。\n二、 本辦法所定之「室內水產養殖生產設施」類別，係為協助「有內外區隔」之「室內建築物或設施」行使水產養殖之權，爰申請「室內水產養殖生產設施」類別項下之許可使用細目，倘符合法令明定之條件，並經貴府就常態經營及管理所需，判定設置之合理性及必要性，得於該設施細目設置範圍內作與生產有關之配置與規劃，毋需再以其他許可使用細目申請。\n三、 本案應請貴府秉前揭規定及原則，適時協助所轄公所，倘仍有法規適用或個案審認疑義，請詳述問題爭點，併貴府意見函送本會，俾提供協處意見。",
+ "memo": "農業綠能發展資訊網函釋查詢（網站發布時間 2021-03-29）",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "talis-green-energy",
+   "url": "https://talis.moa.gov.tw/age/Page/Content/66b8845d-c81c-45cc-b6bc-4e259c595a64?group=Regulation&category=Explanation",
+   "fetched_at": "2026-10-30T15:18:03+08:00",
+   "source_key": "talis:66b8845d-c81c-45cc-b6bc-4e259c595a64"
+  }
+ ],
+ "first_seen": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-10-30T15:19:53+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "69e58fc80e2d0a7ee63d55988812e0fbbdd362099849d49b997ec2fa15d1e95b",
+ "topics": [
+  "container",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "易養殖設施」審辦疑義案\n一、 本會109年9月9日修正發布之申請農業用地作農業設施容許使用審查辦法(下稱本辦法)第21條附表4,增訂之「防疫型簡易養殖設施」係考量實務需求,以減緩"
+  }
+ ]
+}

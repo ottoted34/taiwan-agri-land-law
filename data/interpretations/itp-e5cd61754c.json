@@ -1,0 +1,40 @@
+{
+ "id": "itp-e5cd61754c",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0941613484號",
+ "date": "2005-06-21",
+ "date_text": "094/06/21",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關山坡地開發利用回饋金繳交時點疑義，本會林務局前以94年1月28日林造字第0941650277號函(正本諒達)釋，應以水土保持計畫核定日期為繳交之時點，是財團法人基金會申請開發山坡地之水土保持計畫核定日期，貴府業已公告回饋金之乘積比率，則自應依規定繳交回饋金，復請查照。",
+ "content": "一、復貴府94年6月16日北府農林字第0940453825號函。\n二、檢附前揭函文影本乙份。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000508?p=85",
+   "fetched_at": "2026-10-30T15:12:24+08:00",
+   "source_key": "forest:0000508"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b7f3c254aa13533b0245032d142de236140905877cf98a5c783eeff806e3752b",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "itp-48795ac3ca",
+ "doc_class": "interpretation",
+ "docno": "林造字第1011603445號",
+ "date": "2012-02-23",
+ "date_text": "101/02/23",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局詢問股份有限公司「裕大花園別墅D區」開發案之山坡地開發利用回饋金得否免繳交疑義案，復請 查照。",
+ "content": "一、復貴局101年2月13日中市農林字第1010002941號函。\n二、查農委會94年9月2日農授林務字第0941740861號函示略以「..於本辦法訂定生效日(89年12月2日)後，申請掛件之山坡地開發利用案件，且其水土保持計畫於主管機關公告開發利用類別及乘積比率日期後核定者，須依據本辦法繳交回饋金，餘均免予繳交。」，既貴局來文說明本案係於山坡地開發利用回饋金繳交辦法訂定前提出開發申請，自可依前開函示逕行認定得否免繳交回饋金。\n正本：臺中市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000383?p=23",
+   "fetched_at": "2026-10-30T14:57:15+08:00",
+   "source_key": "forest:0000383"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d132ccdf0c77808560812303a3af93c7b75f36a384d6da16ca0495515f6c100f",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

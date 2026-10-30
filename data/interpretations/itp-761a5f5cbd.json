@@ -1,0 +1,40 @@
+{
+ "id": "itp-761a5f5cbd",
+ "doc_class": "interpretation",
+ "docno": "林造字第0981612098號",
+ "date": "2009-07-09",
+ "date_text": "098/07/09",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴處轄八仙山事業區第7林班營造保安林假號租地承租人君陳情免追繳租地內面積1.3公頃造林獎勵金案，復如說明，請查照。",
+ "content": "一、復貴處98年7月3日勢治字第0983105356號函。\n二、依據獎勵造林實施要點第七點:「造林獎勵金領取人應善加管理經營造林木竹，使之長大成林，不可任其荒廢或擅自拔除毀損；如有違背，應加利息賠償已領取之獎勵金....」之規定，○君如違反前揭規定，應依規加計利息繳還已領取之獎勵金。\n三、有關停止獎勵造林案件之申辦，請貴處依據「林農申請停止獎勵造林審核機制及處理規範」之規定辦理，就停止獎勵造林條件依程序辦理。\n四、另請貴處查明○君租地如確屬無法營林，則可終止契約收回林地。\n正本：本局東勢林區管理處\n副本：本局集水區治理組",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000448?p=48",
+   "fetched_at": "2026-10-30T15:03:24+08:00",
+   "source_key": "forest:0000448"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "d986a42b55dae2ebe28950390ea51dab7640886de4ab6d472d3f99419aa3e8df",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

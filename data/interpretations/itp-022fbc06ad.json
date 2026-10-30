@@ -1,0 +1,40 @@
+{
+ "id": "itp-022fbc06ad",
+ "doc_class": "interpretation",
+ "docno": "農林字第0920162122號",
+ "date": "2003-10-24",
+ "date_text": "092/10/24",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "關於山坡地開發利用回饋金繳交案件疑義，復請查照。",
+ "content": "一、復 貴府92年10月17日北府農林字第0920633418號函。\n二、本案既依核定水保計畫，仍有新增、補強之新開發面積，該新開發部分，應繳交山坡地開發利用回饋金。\n正本：臺北縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000301?p=89",
+   "fetched_at": "2026-10-30T15:13:33+08:00",
+   "source_key": "forest:0000301"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "9a3fae6912fa657ffe9012cc044230958c818efe6efff59bec6a7f5b39823179",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

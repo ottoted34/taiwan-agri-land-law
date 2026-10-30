@@ -1,0 +1,40 @@
+{
+ "id": "itp-91a7c8fe03",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0981605185號",
+ "date": "2009-04-02",
+ "date_text": "098/04/02",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關簡易水土保持申報書涉及2種以上開發目的，應如何收取山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、復貴府98年2月12日府農育字第0980028456號函。\n二、於山坡地內從事開發行為，如該行為同時涉及2種以上之開發目的，且均符合水土保持計畫審核監督辦法第3條所列各款之種類及規模，自可以1件簡易水土保持申報書提出申請。\n三、若1件簡易水土保持申報書同時涉及2種以上之開發目的時，可將符合山坡地開發利用回饋金繳交辦法第8條規定免繳交回饋金之計畫面積予以扣除。\n正本:嘉義縣政府\n副本:臺北市政府、高雄市政府、宜蘭縣政府、基隆市政府、臺北縣政府、桃園縣政府、新竹縣政府、新竹市政府、苗栗縣政府、臺中縣政府、臺中市政府、彰化縣政府、南投縣政府、雲林縣政府、嘉義市政府、臺南縣政府、高雄縣政府、屏東縣政府、臺東縣政府、花蓮縣政府、本會水土保持局",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000553?p=52",
+   "fetched_at": "2026-10-30T15:04:22+08:00",
+   "source_key": "forest:0000553"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f715afa0c644b00b8117ddd319f226644bae95d0f90423716fe5d67b7707dbb1",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

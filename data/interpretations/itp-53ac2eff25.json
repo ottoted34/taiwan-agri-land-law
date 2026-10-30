@@ -1,0 +1,42 @@
+{
+ "id": "itp-53ac2eff25",
+ "doc_class": "interpretation",
+ "docno": "林造字第1031741057號",
+ "date": "2014-04-29",
+ "date_text": "103/04/29",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴局函詢興辦事業計畫旁邊土地申請樣品屋之水土保持計畫，之後於樣品屋之土地亦辦理另一興辦事業計畫之水土保持計畫，是否須再繳交山坡地開發利用回饋金疑義案，復請 查照。",
+ "content": "一、復貴局103年4月21日北農林字第1030683700號函。\n二、依行政院農業委員會102年11月4日農林務字第1021742852號函(正本諒達)說明二略以，以興辦事業許可之有效存續期間，判斷是否為同一案件。倘若為同一興辦事業計畫，已於辦理用地變更編定前繳交回饋金者，則後續於相同計畫範圍內申請建築行為而擬具之水土保持計畫時，可免再重複繳交回饋金。\n三、請貴局依上開號函釋判斷，倘為不同事業計畫，其興辦事業許可之有效存續期間並不相同，則不同案件自應分別依主管機關之核定金額、期限繳交回饋金。\n正本：新北市政府農業局\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000910?p=14",
+   "fetched_at": "2026-10-30T14:55:19+08:00",
+   "source_key": "forest:0000910"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "42fe13b7e126dda3739092de8af80836a62c5eafcb91891f1076add8462a7444",
+ "topics": [
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

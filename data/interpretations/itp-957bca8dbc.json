@@ -1,0 +1,40 @@
+{
+ "id": "itp-957bca8dbc",
+ "doc_class": "interpretation",
+ "docno": "農授林務字第0990107806號",
+ "date": "2010-02-05",
+ "date_text": "099/02/05",
+ "agency_text": "",
+ "category": "森林產業組／獎勵造林",
+ "subject": "有關貴府建議民國94年至97年間已實施造林且未申領造林獎勵金者，經受理核准後一律由造林年度第2年發給案，復請查照。",
+ "content": "一、復 貴府99年2月1日府農森字第0980190675號函。\n二、有關貴府建議事項，將會忽略實際造林木林齡。此外，均由第2年發給造林獎勵金，除與現況明顯不符外，也涉及追溯發給獎勵金情形。一般立法以不溯及既往及公平正義為原則，如要溯及由第2年發給造林獎勵金於法無據。\n三、本案造林獎勵金之發放方式，仍請依照實際造林木林齡向後發給造林獎勵金。\n正本：新竹縣政府\n副本：",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000273?p=41",
+   "fetched_at": "2026-10-30T15:01:45+08:00",
+   "source_key": "forest:0000273"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "e166736a8487d8733211c21962b0290733ea79a2f821be456db27b87b0f73de3",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

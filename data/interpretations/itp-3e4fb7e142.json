@@ -1,0 +1,40 @@
+{
+ "id": "itp-3e4fb7e142",
+ "doc_class": "interpretation",
+ "docno": "林造字第0951652575號",
+ "date": "2006-04-13",
+ "date_text": "095/04/13",
+ "agency_text": "",
+ "category": "保育企劃組／森林法",
+ "subject": "有關貴府函詢未申報編列年度伐木計畫，可否受理森林所有人申請伐採公、私有林林木案件疑義。",
+ "content": "一、復貴府95年4月6日府農林字第0950062836號函暨95年4月6日府農林字第0950071529號函。\n二、查森林法第15條規定之年度伐採計畫，乃針對國有林林產物之採取所設。然基於行政院頒「臺灣森林經營管理方案」之精神，為管制臺灣地區年度總伐木量，乃要求各級林業主管機關，將國、公、私有林之伐採量皆預估編列年度伐採計畫。貴轄私有林之森林所有人申請伐採時，貴府能應依林產物伐採查驗規則規定，受理申請，並做出適法之行政處分。\n三、另，台灣糖業公司為經濟部所屬國營事業，所營森林不屬私有林，自應受行政院頒「臺灣森林經營管理方案」之限制，森林所有人如有伐採之急迫性，貴府應辦理變更年度伐木計畫，追加伐採量。",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000879?p=80",
+   "fetched_at": "2026-10-30T15:11:16+08:00",
+   "source_key": "forest:0000879"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "b1147958c20ed351ac9a6f9acfc680bc8dd5b47b990465f4b3bcd2218c578bd9",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": []
+}

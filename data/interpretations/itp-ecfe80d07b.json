@@ -1,0 +1,47 @@
+{
+ "id": "itp-ecfe80d07b",
+ "doc_class": "interpretation",
+ "docno": "農林務字第0960151710號",
+ "date": "2007-10-22",
+ "date_text": "096/10/22",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "有關貴府函詢山坡地開發利用回饋金繳交辦法(以下簡稱本辦法)執行程序疑義案，復如說明，請查照。",
+ "content": "一、復貴府96年9月13日府農育字第0960187336號函。\n二、依森林法及水土保持法規定，主管機關在縣(市)為縣(市)政府，有關行政處分事項由主管機關依規為之，至由內部何單位辦理，建請由貴府相關單位協調處理。\n三、有關山坡地開發利用回饋金行政處分書之作業及流程1節，請依據本辦法第5條及第6條規定辦理。\n四、至山坡地開發利用回饋金之計算及通知繳納之時間點，本會已以96年5月14日農授林務字第0961654382號函知各主管機關有案，為免擾民，建議貴府於審核水土保持相關書件時，併同計算回饋金，不宜重複向民眾要求提供水土保持相關書件。\n正本:彰化縣政府\n副本:",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": "（原文未載發文機關；改制前文件）",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0000591?p=63",
+   "fetched_at": "2026-10-30T15:07:10+08:00",
+   "source_key": "forest:0000591"
+  }
+ ],
+ "first_seen": "2026-10-30T15:16:44+08:00",
+ "last_synced": "2026-10-30T15:16:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "18d95c11ac5e6b595111a4c3de5104c4ffbfe539e5b9e8f0e11cf49f9c5a1af9",
+ "topics": [],
+ "flags": [
+  "historical_agency"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "月13日府農育字第0960187336號函。\n二、依森林法及水土保持法規定,主管機關在縣(市)為縣(市)政府,有關行政處分事項由主管機關依規為之,至由"
+  }
+ ]
+}
