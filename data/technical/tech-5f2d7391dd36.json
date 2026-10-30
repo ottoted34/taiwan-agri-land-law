@@ -1,0 +1,38 @@
+{
+ "id": "tech-5f2d7391dd36",
+ "source_key": "datamoa:B86:f41fe9c3493796b8",
+ "title": "貴單位是否有少量(紅糯米及紫糯米)的種子可申請？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 紫米及紅米屬有色米品種，為避免造成田間品種混雜，對於有色米品種的種源及種植區域均會有所限制。2. 本場沒有育成有色米品種，因此無法提供種子，請逕向育成單位洽詢（如花蓮場）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "稻作",
+  "問題": "貴單位是否有少量(紅糯米及紫糯米)的種子可申請？",
+  "解答": "1. 紫米及紅米屬有色米品種，為避免造成田間品種混雜，對於有色米品種的種源及種植區域均會有所限制。2. 本場沒有育成有色米品種，因此無法提供種子，請逕向育成單位洽詢（如花蓮場）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "1885bfdf41b93bb8627ff417a1801684a134ad87927fd0f2ce9185eea910d1c7",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

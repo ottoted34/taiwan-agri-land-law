@@ -1,0 +1,38 @@
+{
+ "id": "tech-543f2568594d",
+ "source_key": "datamoa:B86:1df2bc3130c1363c",
+ "title": "如何分辨韭菜青頭及白頭種類？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "白頭種植株大，葉片較長且寬，莖部白色，辛香味淡。青頭種植株及葉片略小，莖部淡綠色，辛香味較濃烈。 【聲明：本件回復內容，係就台端所述之問題，提供本場意見與建議，不供作任何證明、商業宣傳及訴訟使用。】",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "如何分辨韭菜青頭及白頭種類？",
+  "解答": "白頭種植株大，葉片較長且寬，莖部白色，辛香味淡。青頭種植株及葉片略小，莖部淡綠色，辛香味較濃烈。 【聲明：本件回復內容，係就台端所述之問題，提供本場意見與建議，不供作任何證明、商業宣傳及訴訟使用。】"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "5ce2e6218bc68a3ceb378dfe587e96ee6c25d197fa919198a1599f7a947f2ced",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

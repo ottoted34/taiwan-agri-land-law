@@ -1,0 +1,38 @@
+{
+ "id": "tech-949e61b03ebd",
+ "source_key": "datamoa:B86:338882b147190c21",
+ "title": "請問臺灣藜種子可寄到香港嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "基於保護本土產業種原，無法將種子寄出國外，敬請諒解。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "請問臺灣藜種子可寄到香港嗎？",
+  "解答": "基於保護本土產業種原，無法將種子寄出國外，敬請諒解。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "44969029d38d442552d12cf79bcaa6b39bcc20e4b7cdc068f14f5fdb6b4588db",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

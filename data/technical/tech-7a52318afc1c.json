@@ -1,0 +1,38 @@
+{
+ "id": "tech-7a52318afc1c",
+ "source_key": "datamoa:115:5a39c0f4de97a8ab",
+ "title": "香瓜茄要怎麼繁殖?栽培?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "香瓜茄繁殖首先應建立健康種苗母圃，於八月份採集母株上端 ( 植株三分之一地方 ) 的側芽，扦插於 50 格的穴盆苗繁殖，種植期以 9 月中旬最適宜，香瓜茄果實品質佳，生育期不摘心處理為宜。生育期中施用糖醋液者產量與品質均優於不施用者，鉀肥則以施用氧化鉀 1,440 kg/ha 為佳。而香瓜茄種苗母圃於夏作有越夏之問題，作遮陰 80% 者較不遮蔭者存活率提高 98% 。詳細栽培整支方式，可參考本場農技報導 第 61 期 - 高品質香瓜茄之栽培管理。 （https://www.kdais.gov.tw/files/kdais/web_structure/6025/262.pdf）",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "澎湖分場",
+  "問題": "香瓜茄要怎麼繁殖?栽培?",
+  "解答": "香瓜茄繁殖首先應建立健康種苗母圃，於八月份採集母株上端 ( 植株三分之一地方 ) 的側芽，扦插於 50 格的穴盆苗繁殖，種植期以 9 月中旬最適宜，香瓜茄果實品質佳，生育期不摘心處理為宜。生育期中施用糖醋液者產量與品質均優於不施用者，鉀肥則以施用氧化鉀 1,440 kg/ha 為佳。而香瓜茄種苗母圃於夏作有越夏之問題，作遮陰 80% 者較不遮蔭者存活率提高 98% 。詳細栽培整支方式，可參考本場農技報導 第 61 期 - 高品質香瓜茄之栽培管理。 （https://www.kdais.gov.tw/files/kdais/web_structure/6025/262.pdf）"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "94b1edf8d57a79884797b35d47df63be8024d4fe1106f43845139c4a5e337661",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

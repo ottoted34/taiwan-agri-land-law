@@ -1,0 +1,40 @@
+{
+ "id": "tech-6b2f182e8d6e",
+ "source_key": "datamoa:B86:f0411e5389519ee5",
+ "title": "請問貴場研發的洛神梅即溶養生飲，目前市面上有販售嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場所研發該產品僅提供技術移轉相關廠商用，目前並未在市場販售。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "請問貴場研發的洛神梅即溶養生飲，目前市面上有販售嗎？",
+  "解答": "本場所研發該產品僅提供技術移轉相關廠商用，目前並未在市場販售。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "fcf91027e2edb6b00782701961a09159be95be293c1dbe2f5ed201ed4b64be38",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "special"
+ ]
+}

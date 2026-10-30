@@ -1,0 +1,38 @@
+{
+ "id": "tech-93ff7334d686",
+ "source_key": "datamoa:B86:b993194406c9060c",
+ "title": "樹豆栽培詢問：7月在新北市的坪林山區種植，已開花近2個月，但都一直落花沒有著果。請問是否太過低溫或是養分不足？花期過後需要修剪嗎？或是需要移除重新種植？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "樹豆是耐旱性作物，開花期間尤需充足的陽光才能進行授粉結莢，種植前應施用有機質肥料供給生長期間充足的養分；開花、結莢、成熟採收後可進行宿根栽培，即將採收後植株修剪枝條，讓植株重新長出新枝條，此時應再補充有機質肥料，惟第二年產量會降低，故建議採收後將植株拔除重新播種。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "樹豆栽培詢問：7月在新北市的坪林山區種植，已開花近2個月，但都一直落花沒有著果。請問是否太過低溫或是養分不足？花期過後需要修剪嗎？或是需要移除重新種植？",
+  "解答": "樹豆是耐旱性作物，開花期間尤需充足的陽光才能進行授粉結莢，種植前應施用有機質肥料供給生長期間充足的養分；開花、結莢、成熟採收後可進行宿根栽培，即將採收後植株修剪枝條，讓植株重新長出新枝條，此時應再補充有機質肥料，惟第二年產量會降低，故建議採收後將植株拔除重新播種。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "22d8b133d2450d716f87d3891b1faebe1a73244a4530eeea4dec706168666afb",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

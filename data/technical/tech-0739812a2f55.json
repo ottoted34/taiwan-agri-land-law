@@ -1,0 +1,40 @@
+{
+ "id": "tech-0739812a2f55",
+ "source_key": "datamoa:B86:4fabee07d026f0d9",
+ "title": "貴場有香草相關精油產品可選購嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場為研發機關，對於所開發之精油產品，僅提供有償之精油萃取技術移轉，並無對外販售精油產品。若您需要購買精油相關產品，可至各香草精油專賣店選購。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "貴場有香草相關精油產品可選購嗎？",
+  "解答": "本場為研發機關，對於所開發之精油產品，僅提供有償之精油萃取技術移轉，並無對外販售精油產品。若您需要購買精油相關產品，可至各香草精油專賣店選購。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "5b12c41c648ce8b0bcd38adb65b6a210785397c1e05d03da8c291821ff2d6407",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "special"
+ ]
+}

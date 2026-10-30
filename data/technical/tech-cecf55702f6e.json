@@ -1,0 +1,40 @@
+{
+ "id": "tech-cecf55702f6e",
+ "source_key": "datamoa:115:2c43df1d0dc938ff",
+ "title": "請問飛彈蓮霧的特性?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "飛彈蓮霧即泰國種Thub Thim Chan，相較於傳統栽培的粉紅種蓮霧，泰國種果實較長、著色穩定、裂果率低，適合夏季生產。果實糖度高，但纖維較粗，且因為著色較早，成熟度不易判定，過早採收則帶有澀味，影響口感，採收時應特別注意果臍開張且果窪泛紅時採收，以穩定品質。此品種耐寒性較差，冬季易落葉，若生產冬果需更注意防寒。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "請問飛彈蓮霧的特性?",
+  "解答": "飛彈蓮霧即泰國種Thub Thim Chan，相較於傳統栽培的粉紅種蓮霧，泰國種果實較長、著色穩定、裂果率低，適合夏季生產。果實糖度高，但纖維較粗，且因為著色較早，成熟度不易判定，過早採收則帶有澀味，影響口感，採收時應特別注意果臍開張且果窪泛紅時採收，以穩定品質。此品種耐寒性較差，冬季易落葉，若生產冬果需更注意防寒。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "b2713f84c32e4fbe7aa66390c8043a795677f0410bf89a9435d1ec695a34acf5",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

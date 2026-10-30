@@ -1,0 +1,38 @@
+{
+ "id": "tech-43505fcb88d2",
+ "source_key": "datamoa:115:374540114e2af0de",
+ "title": "想用樹枝粉粹機來處理蜜棗的枝條.不知哪裡可以租借到",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "請本場黃柏昇打聽看看；我知道南州蔡順得班長在蓮霧上用很多。蔡順得班長電話：0928-707038。建議您也洽阿蓮區農會看看。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "場長室",
+  "問題": "想用樹枝粉粹機來處理蜜棗的枝條.不知哪裡可以租借到   ",
+  "解答": "請本場黃柏昇打聽看看；我知道南州蔡順得班長在蓮霧上用很多。蔡順得班長電話：0928-707038。建議您也洽阿蓮區農會看看。  "
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "aa7eab93a9fca5ab1be61a8a7add6b6d36b26fa44cb781c5f4f6e199d1fbe595",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

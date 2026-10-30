@@ -1,0 +1,40 @@
+{
+ "id": "tech-a8560e93e86d",
+ "source_key": "datamoa:B86:4c12082c698b6d22",
+ "title": "索取樹豆臺東1號(白色)、臺東2號(茶褐色)、臺東3號(黑色)的種子？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場將依您留下姓名、住址及聯絡電話盡快寄送；為避免品種間雜交，一次僅提供一個品種試種，接獲種子後請您將「生物材料移轉申請表」寄回，以利核銷。2. 相關樹豆栽培技術等相關資訊，請您於上班時間與本場作物改良課雜糧研究室聯絡，聯絡電話：089-322279。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "索取樹豆臺東1號(白色)、臺東2號(茶褐色)、臺東3號(黑色)的種子？",
+  "解答": "1. 本場將依您留下姓名、住址及聯絡電話盡快寄送；為避免品種間雜交，一次僅提供一個品種試種，接獲種子後請您將「生物材料移轉申請表」寄回，以利核銷。2. 相關樹豆栽培技術等相關資訊，請您於上班時間與本場作物改良課雜糧研究室聯絡，聯絡電話：089-322279。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "78e77af2c975a31c1f0929955278749b8d534827417b445ce9009a06648b2472",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "tea"
+ ]
+}

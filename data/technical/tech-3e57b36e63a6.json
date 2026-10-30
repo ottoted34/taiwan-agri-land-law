@@ -1,0 +1,38 @@
+{
+ "id": "tech-3e57b36e63a6",
+ "source_key": "datamoa:B86:291bdebe5443927f",
+ "title": "請問貴場有臺灣香檬(山柑仔)種子或枝條可提供嗎？阡挿會活嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場並無種植或研究臺灣香檬，所以無法提供種子或枝條，敬請見諒。2. 檸檬類作物以高雄區農業改良場研究較多，建議可向該場果樹研究室洽詢。電話：08-7746741。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問貴場有臺灣香檬(山柑仔)種子或枝條可提供嗎？阡挿會活嗎？",
+  "解答": "1. 本場並無種植或研究臺灣香檬，所以無法提供種子或枝條，敬請見諒。2. 檸檬類作物以高雄區農業改良場研究較多，建議可向該場果樹研究室洽詢。電話：08-7746741。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "58e693dc7ab60edc6d3ab332f097d8f9e0083447d26dea5302ab637d9bb883a2",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

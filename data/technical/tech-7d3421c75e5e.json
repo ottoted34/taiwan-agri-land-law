@@ -1,0 +1,38 @@
+{
+ "id": "tech-7d3421c75e5e",
+ "source_key": "datamoa:B86:f7030cf057d7b4d5",
+ "title": "請問蠅翼草在作為草皮抑制其他草種時，根部會成為線蟲的寄宿主嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "關於蠅翼草是否為根瘤線蟲宿主，本場尚未進行正式試驗研究，故尚無科學數據可供參考；惟本場有機蔬菜田區曾使用蠅翼草為地被覆蓋，於兩年之種植期間，其他作物均無根瘤線蟲為害發生。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "請問蠅翼草在作為草皮抑制其他草種時，根部會成為線蟲的寄宿主嗎？",
+  "解答": "關於蠅翼草是否為根瘤線蟲宿主，本場尚未進行正式試驗研究，故尚無科學數據可供參考；惟本場有機蔬菜田區曾使用蠅翼草為地被覆蓋，於兩年之種植期間，其他作物均無根瘤線蟲為害發生。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "f872984219d7471f8f9ed588337e485051f0476fb2cc9ded6bffd9ab39fd9885",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-30aeff196cdd",
+ "source_key": "datamoa:B86:e38bc9e16772b09d",
+ "title": "蠅翼草、金腰箭舅如何栽種、管理？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "蠅翼草栽培管理可參閱本場第87期農業專訊「優良原生地被植物－蠅翼草之繁殖與應用」；金腰箭舅可參閱本場第88期農業專訊「地被植物金腰箭舅之繁殖與應用」（皆可網路搜尋下載）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "蠅翼草、金腰箭舅如何栽種、管理？",
+  "解答": "蠅翼草栽培管理可參閱本場第87期農業專訊「優良原生地被植物－蠅翼草之繁殖與應用」；金腰箭舅可參閱本場第88期農業專訊「地被植物金腰箭舅之繁殖與應用」（皆可網路搜尋下載）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "394cd9300cecb7ea756a6bb0d50bf2f555bbb8c3a0c2c19c90ee0450d2d897a2",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-60b911d05b9a",
+ "source_key": "datamoa:B86:efa0d05a8ac04379",
+ "title": "請問蘭嶼在地植物芋頭為幾號(或名為什麼芋頭)？番薯為幾號(或名為什麼番薯)？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "蘭嶼主要栽培作物有山芋、水芋、甘藷、小米及落花生等，一般蘭嶼農民種植山芋、水芋及甘藷都以先民流傳下來的子芋或甘藷枝條作為繁殖用，芋頭的品種以紅梗（在地種）及高雄1號為主，至於甘藷的品種，改良場曾在民國82年引進台農57號等品種，然在當地推廣不順利，目前應以在地種為主，但品種名稱不明；除非利用分子鑑定法來比對目前的品種，否則無法用植株外觀判斷是屬於何種品種，以上簡略答覆。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "請問蘭嶼在地植物芋頭為幾號(或名為什麼芋頭)？番薯為幾號(或名為什麼番薯)？",
+  "解答": "蘭嶼主要栽培作物有山芋、水芋、甘藷、小米及落花生等，一般蘭嶼農民種植山芋、水芋及甘藷都以先民流傳下來的子芋或甘藷枝條作為繁殖用，芋頭的品種以紅梗（在地種）及高雄1號為主，至於甘藷的品種，改良場曾在民國82年引進台農57號等品種，然在當地推廣不順利，目前應以在地種為主，但品種名稱不明；除非利用分子鑑定法來比對目前的品種，否則無法用植株外觀判斷是屬於何種品種，以上簡略答覆。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "e5418bb5e181a36b9542d2179e51987d6a5639f4d240fb36c6fbecaeb7fedb3b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

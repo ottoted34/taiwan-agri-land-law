@@ -1,0 +1,38 @@
+{
+ "id": "tech-c550cdaf4938",
+ "source_key": "datamoa:B86:cec01cadc22a5fbc",
+ "title": "請問有樹豆種子及種植的相關資料可索取？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 請您留下姓名、住址及聯絡電話，本場將盡快寄送，接獲種子後請您將「生物材料移轉申請表」寄回，以利核銷。2. 相關樹豆栽培技術等相關資訊，請您於上班時間與本場作物改良課雜糧研究室聯絡，聯絡電話：089-322279。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "請問有樹豆種子及種植的相關資料可索取？",
+  "解答": "1. 請您留下姓名、住址及聯絡電話，本場將盡快寄送，接獲種子後請您將「生物材料移轉申請表」寄回，以利核銷。2. 相關樹豆栽培技術等相關資訊，請您於上班時間與本場作物改良課雜糧研究室聯絡，聯絡電話：089-322279。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "cf3d9e5961218ba6405e53cf1cf48b7b4dbb98fb892ee276d1f1780890105223",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

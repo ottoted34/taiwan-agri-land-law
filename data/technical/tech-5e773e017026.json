@@ -1,0 +1,40 @@
+{
+ "id": "tech-5e773e017026",
+ "source_key": "datamoa:809:126dc1c05f46223f",
+ "title": "台灣山芋(Dioscorea bulbifera L.)植株性狀遺傳變異研究 PDF",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "龔財立 \n林順福",
+ "date": "2016-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19311&file_name=H9OCz6Om4u40PhGpAycTA6OdXVi16k6hE8cPgea6vN06F9WGPlusfVEWGEqualOjTMO08WDjNCG61cWGPlusc0sluB0MZDtqygw6ni4uDqQ7h5qryUPNt27JQg8E",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "79",
+  "出版日期": "105年6月",
+  "內容": "台灣山芋(Dioscorea bulbifera L.)植株性狀遺傳變異研究 PDF",
+  "作者": "龔財立 \n林順福 ",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19311&file_name=H9OCz6Om4u40PhGpAycTA6OdXVi16k6hE8cPgea6vN06F9WGPlusfVEWGEqualOjTMO08WDjNCG61cWGPlusc0sluB0MZDtqygw6ni4uDqQ7h5qryUPNt27JQg8E"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "77dca8bcd411a5a21e925278286b210a4359993a407c8b8e08a3543c2546393b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

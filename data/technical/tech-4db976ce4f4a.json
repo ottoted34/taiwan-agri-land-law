@@ -1,0 +1,40 @@
+{
+ "id": "tech-4db976ce4f4a",
+ "source_key": "datamoa:115:b65ad1d67edb94f9",
+ "title": "請問何處可找到\"芒果套袋的圖示教學\"?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "果實越早套袋，對病蟲害的預防效果越好，但因考慮到結果的穩定性，最遲在果實發育到雞蛋大時，即應選擇大小適中的紙袋進行套袋，套袋前應使用安全採收期較短的藥劑，進行薊馬、炭疽病等病蟲害的防治；另，避免下雨天或露水未乾時作業，紙袋封口需緊貼果梗，封口處不要貼住果蒂，果實宜在袋內中心。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "請問何處可找到\"芒果套袋的圖示教學\"?",
+  "解答": "果實越早套袋，對病蟲害的預防效果越好，但因考慮到結果的穩定性，最遲在果實發育到雞蛋大時，即應選擇大小適中的紙袋進行套袋，套袋前應使用安全採收期較短的藥劑，進行薊馬、炭疽病等病蟲害的防治；另，避免下雨天或露水未乾時作業，紙袋封口需緊貼果梗，封口處不要貼住果蒂，果實宜在袋內中心。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "1ebbbfd7444b68a9ea748f16ba48908088504a7af55ced318084cb6902d0d053",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

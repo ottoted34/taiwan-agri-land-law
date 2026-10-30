@@ -1,0 +1,41 @@
+{
+ "id": "tech-6f8c4b1702a9",
+ "source_key": "datamoa:115:4168f5c9ca0f3288",
+ "title": "我的老公是種植溫室小黃瓜的農夫,現有遇到種稙上的問題,如下方圖片,小黃瓜都頭大尾小,不曉得是缺何種肥料或何種微量元素？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "由圖片看起來，有可能是高溫影響。因為小胡瓜，溫度超過38度以上會有高溫傷害，影響果實形成。要請您改善溫室內通風及降溫，另請在液肥施用上可以稍微增施鈣鎂肥，但主要還是降溫喔！",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "旗南分場",
+  "問題": "我的老公是種植溫室小黃瓜的農夫,現有遇到種稙上的問題,如下方圖片,小黃瓜都頭大尾小,不曉得是缺何種肥料或何種微量元素？",
+  "解答": "由圖片看起來，有可能是高溫影響。因為小胡瓜，溫度超過38度以上會有高溫傷害，影響果實形成。要請您改善溫室內通風及降溫，另請在液肥施用上可以稍微增施鈣鎂肥，但主要還是降溫喔！"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "96289ff1731c08796a2ab871962e98a8fd148807163314d10d242524fcb970e0",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "materials",
+  "greenhouse_t"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-5c61e5d304f1",
+ "source_key": "datamoa:B86:f638d53bdd500ed6",
+ "title": "請問臺灣生產的黃皮紅肉葡萄柚，實生苗到開花結果需要幾年呢？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "一般實生苗定植後約在7～8年後開花，嫁接苗比較快，可縮短1～2年（即定植後5～6年可開花）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問臺灣生產的黃皮紅肉葡萄柚，實生苗到開花結果需要幾年呢？",
+  "解答": "一般實生苗定植後約在7～8年後開花，嫁接苗比較快，可縮短1～2年（即定植後5～6年可開花）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "ae0134dcdfb3cf4fd3459abc8a7ce9f0a50327e99ddecefbd1935da3f1a543ca",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

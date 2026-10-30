@@ -1,0 +1,38 @@
+{
+ "id": "tech-ae2ec8b02eb2",
+ "source_key": "datamoa:B86:fb4230c7fbcad95e",
+ "title": "請問防猴網可以使用幾年？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場研製之網罩為24目白色紗網製成，正常使用至少應可耐用3~5年。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問防猴網可以使用幾年？",
+  "解答": "本場研製之網罩為24目白色紗網製成，正常使用至少應可耐用3~5年。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "384f7043d049fa4ee30e2094a9e41cc44a6469002d5b82298dfc5f37d484b710",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-87aba62a267c",
+ "source_key": "datamoa:809:1673e0ab6a8f8afb",
+ "title": "稻種水分含量與不同儲放時間及溫度對稻種發芽率之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "簡禎佑 \n黃家康",
+ "date": "2016-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19310&file_name=uswJ1AxBjbORoLp9GNHOkOy53k8Gr2V2fst3vdLLVPFaozNqF3WGSlashRuDziCMWGEqualhJ8WGPlus9AK3jYoJHwK84X1IWGPlusV2IL2gDBHwy4BG0L5YpABsgM2H60WGSlashWGPl",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "79",
+  "出版日期": "105年6月",
+  "內容": "稻種水分含量與不同儲放時間及溫度對稻種發芽率之影響",
+  "作者": "簡禎佑 \n黃家康",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19310&file_name=uswJ1AxBjbORoLp9GNHOkOy53k8Gr2V2fst3vdLLVPFaozNqF3WGSlashRuDziCMWGEqualhJ8WGPlus9AK3jYoJHwK84X1IWGPlusV2IL2gDBHwy4BG0L5YpABsgM2H60WGSlashWGPl"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "a596677b1672cc6b85a233789f9ed3e3903b20ee01acc392966185e2696eb615",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

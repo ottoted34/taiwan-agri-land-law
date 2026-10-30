@@ -1,0 +1,38 @@
+{
+ "id": "tech-f30d647d8991",
+ "source_key": "datamoa:B86:87cc935c6e4727c5",
+ "title": "請問溺水式太陽能捕蟲器價格多少？如何購買？作用面積？可達成效？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場技術研發之溺水式太陽能捕蟲器，業已技轉清旺工業股份有限公司（CHING WANG Industrial Co. , Ltd.），地址：高雄市大寮區大寮路717號　電話：07-7883324　傳真：07-7884497　生產製造。作用面積為1公頃放置4支太陽能捕蟲器，可捕獲斜紋夜蛾和甜菜夜蛾等夜行性害蟲。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問溺水式太陽能捕蟲器價格多少？如何購買？作用面積？可達成效？",
+  "解答": "本場技術研發之溺水式太陽能捕蟲器，業已技轉清旺工業股份有限公司（CHING WANG Industrial Co. , Ltd.），地址：高雄市大寮區大寮路717號　電話：07-7883324　傳真：07-7884497　生產製造。作用面積為1公頃放置4支太陽能捕蟲器，可捕獲斜紋夜蛾和甜菜夜蛾等夜行性害蟲。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "10d0ddbd739275367f2ff6c9e90286b729169acdb04a76108a99f49285760310",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

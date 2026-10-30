@@ -1,0 +1,38 @@
+{
+ "id": "tech-725c11533244",
+ "source_key": "datamoa:115:6fc7b24969f10710",
+ "title": "因冰店面新開幕需原料綠豆，想諮詢有種植綠豆買賣農場連絡相關資訊",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "本場沒有從事綠豆相關研究與推廣，無法提供產銷資訊。建議洽詢台南區農業改良場",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "場長室",
+  "問題": "因冰店面新開幕需原料綠豆，想諮詢有種植綠豆買賣農場連絡相關資訊   ",
+  "解答": "本場沒有從事綠豆相關研究與推廣，無法提供產銷資訊。建議洽詢台南區農業改良場  "
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "ef5e17d11607bbc3670c2ba00faa6ec2c6d1caa7f10ea5211607da7b86817956",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

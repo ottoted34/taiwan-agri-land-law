@@ -1,0 +1,38 @@
+{
+ "id": "tech-08b6b09e856a",
+ "source_key": "datamoa:B86:b2ef8771c5b9e2e0",
+ "title": "貴場研發之「全喂入式收穫機」是否有購買或租用的管道？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "可電洽 蓮東農機有限公司03-8883020 或 泰菱農機行089-335089 相關購入資訊。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "貴場研發之「全喂入式收穫機」是否有購買或租用的管道？",
+  "解答": "可電洽 蓮東農機有限公司03-8883020 或 泰菱農機行089-335089 相關購入資訊。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "731e456b74f1561fdf3f549804a7477fd13831bcc4152235218fe48c5d829bc5",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

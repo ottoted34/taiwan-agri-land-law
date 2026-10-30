@@ -1,0 +1,40 @@
+{
+ "id": "tech-36393b5eb699",
+ "source_key": "datamoa:B86:51c1840daaf9dff8",
+ "title": "可在何處購買洛神花去籽機？價格為何？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "目前本場研發之鑽穴式洛神葵去籽機已技轉高雄劦崇企業有限公司，電話：07-3639911或0935-450209，價格約為25萬。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "可在何處購買洛神花去籽機？價格為何？",
+  "解答": "目前本場研發之鑽穴式洛神葵去籽機已技轉高雄劦崇企業有限公司，電話：07-3639911或0935-450209，價格約為25萬。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "fea2592408b7118d6ac07f0c3ccef56cceb6e2a05c381b48d836abdb55c1e695",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "special"
+ ]
+}

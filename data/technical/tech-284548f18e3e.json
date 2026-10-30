@@ -1,0 +1,40 @@
+{
+ "id": "tech-284548f18e3e",
+ "source_key": "datamoa:B86:5a24553aad01d484",
+ "title": "有看到貴場有\"試作生物材料(種苗)申請\"，請問目前有何種可申請？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 目前本場可申請之稻種包括水稻臺東32號，糯稻臺東糯31號及陸稻東陸1至3號。臺東30號及臺東33號因已進行技轉公告，無法提供。另東陸1至3號因稻種存量因素，僅能提供1公斤，且請透過農會或產銷班申請為宜。2. 相關表格可至本場網頁便民服務項下查詢。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "稻作",
+  "問題": "有看到貴場有\"試作生物材料(種苗)申請\"，請問目前有何種可申請？",
+  "解答": "1. 目前本場可申請之稻種包括水稻臺東32號，糯稻臺東糯31號及陸稻東陸1至3號。臺東30號及臺東33號因已進行技轉公告，無法提供。另東陸1至3號因稻種存量因素，僅能提供1公斤，且請透過農會或產銷班申請為宜。2. 相關表格可至本場網頁便民服務項下查詢。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "54b201db8fa09d3c0beb03cf90ddfdeec79c7a9690d1de69ae5cb56cd5904b7a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "seedling"
+ ]
+}

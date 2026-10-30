@@ -1,0 +1,38 @@
+{
+ "id": "tech-d1d0b0e1d168",
+ "source_key": "datamoa:B86:d2836f8021686e80",
+ "title": "木虌果種植3年了，產量卻很少。請問該如何增產？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 作物環境及栽培管理：栽培管理如行株距、灌排水及株型調整等均影響作物生育，木虌果之栽培管理可參考本場104年出版之「木虌果栽培管理」（線上閱覽網址：http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/3587/38.pdf）。2. 土壤改良：土壤影響作物養分吸收效率及元素間拮抗，不同土壤其元素含量不同及性質，需採用不同管理方式；但相同土壤在長期不同管理方式下，其土壤性質也會隨之改變。土壤酸鹼質影響土壤養分有效性，單一元素過量可能造成元素間拮抗而缺乏（如鈣、鎂、鉀間拮抗）。建議採取土壤樣本送當地所轄之改良場分析，依照分析結果調整施肥量，採樣方式請參考本場網站：http://www.ttdares.gov.tw/view.php?catid=1#a1。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "木虌果種植3年了，產量卻很少。請問該如何增產？",
+  "解答": "1. 作物環境及栽培管理：栽培管理如行株距、灌排水及株型調整等均影響作物生育，木虌果之栽培管理可參考本場104年出版之「木虌果栽培管理」（線上閱覽網址：http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/3587/38.pdf）。2. 土壤改良：土壤影響作物養分吸收效率及元素間拮抗，不同土壤其元素含量不同及性質，需採用不同管理方式；但相同土壤在長期不同管理方式下，其土壤性質也會隨之改變。土壤酸鹼質影響土壤養分有效性，單一元素過量可能造成元素間拮抗而缺乏（如鈣、鎂、鉀間拮抗）。建議採取土壤樣本送當地所轄之改良場分析，依照分析結果調整施肥量，採樣方式請參考本場網站：http://www.ttdares.gov.tw/view.php?catid=1#a1。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3bf74b2d312256f95465ce59959a8741af4edfdb140a865fcf230085cb96547a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

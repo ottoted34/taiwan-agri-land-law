@@ -1,0 +1,41 @@
+{
+ "id": "tech-0a9991b9a365",
+ "source_key": "datamoa:115:89551a9b60fb9d9c",
+ "title": "樹葉呈長橢圓形，白色花，結綠色果實，成熟時果實轉為紅色，果實帶有微微的咖啡香。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "1.科別：Tiliaceae(椴樹科或田麻科)；\n2.地方俗名：南美假櫻桃、西印度櫻桃、昔來薩樹、台灣咖啡；\n3.學名：Muntingia calabura L.；\n4.地方俗名會造成同名異物或異物同名爭議；\n5.學名為統一名稱没有爭議，放諸四海皆準",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "農業經營研究室",
+  "問題": "樹葉呈長橢圓形，白色花，結綠色果實，成熟時果實轉為紅色，果實帶有微微的咖啡香。",
+  "解答": "1.科別：Tiliaceae(椴樹科或田麻科)；\n2.地方俗名：南美假櫻桃、西印度櫻桃、昔來薩樹、台灣咖啡；\n3.學名：Muntingia calabura L.；\n4.地方俗名會造成同名異物或異物同名爭議；\n5.學名為統一名稱没有爭議，放諸四海皆準"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "3698ab8e33a123dfe2de7bd3bc49c106d4d65f0f07d4bba9980169fa20284136",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special",
+  "tea"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-3bb9ee8d84f9",
+ "source_key": "datamoa:809:cf581dc3b6800149",
+ "title": "驅猴預警系統之研發",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "李汪盛",
+ "date": "2016-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19314&file_name=YJH9DFK7ixyVw9aYpsWGEqualeVGWfeuF7lIlIVaz32lFAIReH",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "79",
+  "出版日期": "105年6月",
+  "內容": "驅猴預警系統之研發",
+  "作者": "李汪盛 ",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19314&file_name=YJH9DFK7ixyVw9aYpsWGEqualeVGWfeuF7lIlIVaz32lFAIReH"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "4b61d1c943e244d331f445699a3effe6e59dc11c8bef9b2c3b8bd26c4966f5c6",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

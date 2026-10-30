@@ -1,0 +1,40 @@
+{
+ "id": "tech-54ee2d0c67e7",
+ "source_key": "datamoa:B86:f9cf10664a9515ae",
+ "title": "請問是否有靈芝種苗可索取？有幾種品種？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場無進行靈芝相關試驗研究及種原保存，因此無提供相關種苗供民眾索取。經查農業試驗所的菇類研究室有進行靈芝相關研究，可逕行洽詢相關資訊，聯絡資訊：04-23317514。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "請問是否有靈芝種苗可索取？有幾種品種？",
+  "解答": "本場無進行靈芝相關試驗研究及種原保存，因此無提供相關種苗供民眾索取。經查農業試驗所的菇類研究室有進行靈芝相關研究，可逕行洽詢相關資訊，聯絡資訊：04-23317514。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "aa7ad33bb62c83bda52a53e5594eba2cf36a27717bfa1cc9bcbc8ea94d64ef66",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "seedling"
+ ]
+}

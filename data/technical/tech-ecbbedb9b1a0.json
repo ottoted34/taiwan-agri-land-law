@@ -1,0 +1,38 @@
+{
+ "id": "tech-ecbbedb9b1a0",
+ "source_key": "datamoa:115:e0c0c77ab7d65ce6",
+ "title": "我是中興大學園藝大四的學生，因報告內容為薰衣草，在本網站看到許多相關訊息，看到的研究資訊都較久一點，想請問是否有較新的資訊，或是您有較推薦關於薰衣草相關的栽培訊息網站呢?。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "本場近年來未對薰衣草植物進行相關之試驗研究，故無法提供您較新的資訊。貴校圖書館及網路資訊齊備，建議 您利用時間前往查詢，若需最新資訊建議您至國外網站查詢。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "教育資訊研究室",
+  "問題": "我是中興大學園藝大四的學生，因報告內容為薰衣草，在本網站看到許多相關訊息，看到的研究資訊都較久一點，想請問是否有較新的資訊，或是您有較推薦關於薰衣草相關的栽培訊息網站呢?。",
+  "解答": "本場近年來未對薰衣草植物進行相關之試驗研究，故無法提供您較新的資訊。貴校圖書館及網路資訊齊備，建議 您利用時間前往查詢，若需最新資訊建議您至國外網站查詢。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "6b952a55a653fe293a3fb113da7f969c6fc08d735ee844ef4deecb1b4e0d1271",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

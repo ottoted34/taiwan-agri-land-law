@@ -1,0 +1,40 @@
+{
+ "id": "tech-838559459556",
+ "source_key": "datamoa:809:42cf59cb2890cf44",
+ "title": "栽培密度對臺灣北部地區茭白生育與產量之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "楊志維\n林禎祥\n簡禎佑\n林孟輝",
+ "date": "2018-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19339&file_name=Y0lrJY7wpfaHwA4vnDOeT0mCNawPLi3Ygok4tUO6YE5cEWGSlash27mq48KC9cWGEqual6r4MkLWGPluspMCpmbxLLS8gbWGSlashs8mUR9ySELWGSlashbV9sAo5uuPMCHef8Sgz",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "84",
+  "出版日期": "107年12月",
+  "內容": "栽培密度對臺灣北部地區茭白生育與產量之影響",
+  "作者": "楊志維\n林禎祥\n簡禎佑\n林孟輝",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19339&file_name=Y0lrJY7wpfaHwA4vnDOeT0mCNawPLi3Ygok4tUO6YE5cEWGSlash27mq48KC9cWGEqual6r4MkLWGPluspMCpmbxLLS8gbWGSlashs8mUR9ySELWGSlashbV9sAo5uuPMCHef8Sgz"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "0f3401a2128c0a47db598139b48346361b7b60bcf9b39136142ccb732a9d613a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

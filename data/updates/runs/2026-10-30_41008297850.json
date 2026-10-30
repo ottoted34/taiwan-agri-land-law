@@ -1,0 +1,52 @@
+{
+ "run_id": "41008297850",
+ "mode": "technical",
+ "started_at": "2026-10-30T13:25:02+08:00",
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "status": "ok",
+   "complete": true,
+   "added": 1304,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 695,
+   "requests": 12,
+   "notes": [
+    "出版品資料集 12 個",
+    "桃園區農業改良場研究彙報：109 筆",
+    "臺中區農業改良場研究彙報：1 筆",
+    "臺中區農業改良場常見問答：1 筆",
+    "臺中區農業改良場農業技術專刊：1 筆",
+    "臺南區農業改良場技術專刊目錄：120 筆",
+    "高雄區農業改良場研究彙報：1 筆",
+    "高雄區農業改良場建場百週年紀念專刊：16 筆",
+    "高雄區農業改良場轄區常見農業相關問題(問答Q&A)：350 筆",
+    "臺東區農業改良場常見問答集：173 筆",
+    "臺東區農業改良場技術專刊：77 筆",
+    "臺東區農業改良場農情月刊：318 筆",
+    "臺東區農業改良場農業專訊：137 筆"
+   ],
+   "errors": []
+  }
+ ],
+ "events": [],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 0,
+  "technical_updated": 1304,
+  "validity_counts": {
+   "possibly_affected": 927,
+   "no_known_cessation": 3004,
+   "needs_review": 53,
+   "amended_by_later": 56
+  },
+  "relations_extracted": 6289,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-10-30T13:25:44+08:00",
+ "result": "success_changed"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-6675378da567",
+ "source_key": "datamoa:809:c99f2418af687029",
+ "title": "農民直銷站經營管理之研究─以新竹地區為例",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "陳永漢",
+ "date": "2020-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19919&file_name=JZ8K2ODiDketmTQ5CfChnRxY1pnm6QViyPXiTHAWGEqualWGEqualiF5RR8tonu9poGFq8SNmp1z96BdQX0JqD8KrCGuOk7VVQ2WGSlash",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "87",
+  "出版日期": "109年6月",
+  "內容": "農民直銷站經營管理之研究─以新竹地區為例",
+  "作者": "陳永漢",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19919&file_name=JZ8K2ODiDketmTQ5CfChnRxY1pnm6QViyPXiTHAWGEqualWGEqualiF5RR8tonu9poGFq8SNmp1z96BdQX0JqD8KrCGuOk7VVQ2WGSlash"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "e067db75d568eceb2299a9e84664ca774dd04cdcc70eb9307a8a76698c1ca0c0",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

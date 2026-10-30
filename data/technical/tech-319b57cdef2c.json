@@ -1,0 +1,38 @@
+{
+ "id": "tech-319b57cdef2c",
+ "source_key": "datamoa:B86:003361c9906c2904",
+ "title": "請問臺灣原生蕨類之中是否有適合陽台、室內盆栽造景用的種類呢？是否有人在繁殖或販賣？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 蕨類多數種類性喜陰暗潮濕環境，蘭嶼觀音座蓮、蘭嶼鐵線蕨及扇葉鐵線蕨等較適合室內種植，鹿角蕨、鱗蓋鳳尾蕨及筆筒樹等性喜光線充足的環境，以上資訊供參考。2. 蕨類購買管道多元，建議利用網路搜尋蕨類種苗賣家，列舉農友種苗公司（07-6519668）及裕通蘭園（04-8244579）供參考。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問臺灣原生蕨類之中是否有適合陽台、室內盆栽造景用的種類呢？是否有人在繁殖或販賣？",
+  "解答": "1. 蕨類多數種類性喜陰暗潮濕環境，蘭嶼觀音座蓮、蘭嶼鐵線蕨及扇葉鐵線蕨等較適合室內種植，鹿角蕨、鱗蓋鳳尾蕨及筆筒樹等性喜光線充足的環境，以上資訊供參考。2. 蕨類購買管道多元，建議利用網路搜尋蕨類種苗賣家，列舉農友種苗公司（07-6519668）及裕通蘭園（04-8244579）供參考。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "422a55a9636c5c79da4dc5da517d0f0bb9483de975cca9d2f7fabcee31e20b91",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

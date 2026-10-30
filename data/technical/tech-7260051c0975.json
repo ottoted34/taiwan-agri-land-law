@@ -1,0 +1,38 @@
+{
+ "id": "tech-7260051c0975",
+ "source_key": "datamoa:B86:6769d6e36dc2cd34",
+ "title": "請問木虌果苗如何購買？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 原生種木虌果種苗可以洽本場技術移轉業者購買，購買資訊如下：臺東縣成功鎮農會089-851017 (洽蘇主任)。2. 有關木虌果栽培管理資訊可參考本場農技報導第38期。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問木虌果苗如何購買？",
+  "解答": "1. 原生種木虌果種苗可以洽本場技術移轉業者購買，購買資訊如下：臺東縣成功鎮農會089-851017 (洽蘇主任)。2. 有關木虌果栽培管理資訊可參考本場農技報導第38期。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3a86cf9467da891c28da12d8dce0f4e39554bf871a54981806714b963b8f0807",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

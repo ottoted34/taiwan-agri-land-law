@@ -1,0 +1,38 @@
+{
+ "id": "tech-1cada6aeaeda",
+ "source_key": "datamoa:B86:c4c76f1f92c2ddfa",
+ "title": "尋找紫芋農家？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關台端想大量收購紫芋梗，因紫芋蘭嶼有部分農民種植，請直接洽蘭嶼鄉公所農業課詢問，電話 089-731665。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "尋找紫芋農家？",
+  "解答": "有關台端想大量收購紫芋梗，因紫芋蘭嶼有部分農民種植，請直接洽蘭嶼鄉公所農業課詢問，電話 089-731665。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "a05366eab8f5e5db222c1bbe48e8179e830e694a62ed79f170ce67093aedf4e2",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

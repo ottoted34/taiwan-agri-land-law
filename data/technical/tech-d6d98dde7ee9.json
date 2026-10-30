@@ -1,0 +1,38 @@
+{
+ "id": "tech-d6d98dde7ee9",
+ "source_key": "datamoa:B86:c05d53cbed3af858",
+ "title": "「嫁接株的種子會跟砧木品種一樣」請問這句話的真實性？那是不是只要以稼接長出來果實種子都是跟覘木一樣？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 經詢問本場斑鳩分場果樹研究人員及現場實務經驗，嫁接後開花及果實的表現品種即為原本行嫁接之品種，如高接梨，接穗開花果之表現型為行嫁接之高接梨品種。再如番茄嫁接茄子，開花結果後表現型為行嫁接之番茄品種，不會為砧木茄子。2. 至於種子部份，因授粉行為屬異質結合，實生苗通常性狀會分離，可能會不同於接穗母株。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "「嫁接株的種子會跟砧木品種一樣」請問這句話的真實性？那是不是只要以稼接長出來果實種子都是跟覘木一樣？",
+  "解答": "1. 經詢問本場斑鳩分場果樹研究人員及現場實務經驗，嫁接後開花及果實的表現品種即為原本行嫁接之品種，如高接梨，接穗開花果之表現型為行嫁接之高接梨品種。再如番茄嫁接茄子，開花結果後表現型為行嫁接之番茄品種，不會為砧木茄子。2. 至於種子部份，因授粉行為屬異質結合，實生苗通常性狀會分離，可能會不同於接穗母株。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "218e230ec736b9ebddaffa8faed745802df06a5ab978547b7ef3ea08e4990b7a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

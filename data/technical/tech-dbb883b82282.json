@@ -1,0 +1,40 @@
+{
+ "id": "tech-dbb883b82282",
+ "source_key": "datamoa:B86:26653bcbd805a005",
+ "title": "請問貴單位有蒟蒻種苗可購買？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場雖曾於民國84年發表蒟蒻在果園的間作效應報告，由於此項作物未能形成產業，推廣不易，目前並沒有相關的研究與材料，因此無法提供種苗試種。相關的栽培管理資訊請洽詢作物改良課園藝研究室，聯繫電話：089-325110轉634。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "請問貴單位有蒟蒻種苗可購買？",
+  "解答": "本場雖曾於民國84年發表蒟蒻在果園的間作效應報告，由於此項作物未能形成產業，推廣不易，目前並沒有相關的研究與材料，因此無法提供種苗試種。相關的栽培管理資訊請洽詢作物改良課園藝研究室，聯繫電話：089-325110轉634。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "31a63b1fd6f3296962ba28604e256586b8d5f1746d4bbdcc2bfae6fcaea41a68",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "seedling"
+ ]
+}

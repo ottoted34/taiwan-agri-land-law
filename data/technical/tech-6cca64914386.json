@@ -1,0 +1,40 @@
+{
+ "id": "tech-6cca64914386",
+ "source_key": "datamoa:809:dfc0c27681817587",
+ "title": "非破壞厚皮水果糖度測定儀之研發",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "李汪盛",
+ "date": "2016-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19313&file_name=wrw0waQZ4eOga9PPWGSlashre5bZZrGjV6i8GrpYz0oxVBfXPKJ2ZQppkLtLkmtgIePF6V",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "79",
+  "出版日期": "105年6月",
+  "內容": "非破壞厚皮水果糖度測定儀之研發",
+  "作者": "李汪盛 ",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19313&file_name=wrw0waQZ4eOga9PPWGSlashre5bZZrGjV6i8GrpYz0oxVBfXPKJ2ZQppkLtLkmtgIePF6V"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "2a410ee40d35a8bb69b25e1490d57bc0c4c6938c15dba557f98e78282f1974b2",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "tech-159aaea3cc65",
+ "source_key": "datamoa:D97:bd4cbd568f3adcad",
+ "title": "技術專刊 39",
+ "series": "技術專刊",
+ "issue": "39",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2762",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "39",
+  "出刊年月": "200912",
+  "期刊名稱": "全國 A Bai 風味餐競賽食譜",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2762"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T13:25:37+08:00"
+  }
+ ],
+ "content_hash": "61a70172ca31154086b12aed34f8e6f3b3315ef723e5a0b0c2691f24b05698aa",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

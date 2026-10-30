@@ -1,0 +1,39 @@
+{
+ "id": "tech-7993b06c06af",
+ "source_key": "datamoa:D97:937458c545b2d5e8",
+ "title": "技術專刊 15",
+ "series": "技術專刊",
+ "issue": "15",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=2338",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "15",
+  "出刊年月": "200806",
+  "期刊名稱": "休耕稻田的管理與運用",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=2338"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T13:25:37+08:00"
+  }
+ ],
+ "content_hash": "b7e14edb686dd3848b2248c1e834c41aa3f21a2a36fb1ff97e3888ccf4e96c2b",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

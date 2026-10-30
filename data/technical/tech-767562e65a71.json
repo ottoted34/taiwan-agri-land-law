@@ -1,0 +1,38 @@
+{
+ "id": "tech-767562e65a71",
+ "source_key": "datamoa:115:0b4b6984a68ec97f",
+ "title": "濃縮絲瓜水與一般坊間所賣有何差異？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "絲瓜水為民間秋天絲瓜採收後，將離地2尺處之瓜籐截斷自流出之汁液，俗稱天羅水，民間常用於美白，亦可供內服退熱。具研究顯示：具抗氧化能力及促進纖維母細胞的生長。為擴增絲瓜之加工利用，本單位採低溫濃縮、無菌過濾方式製成產品，以便於消費者養身使用。一般坊間，只能視場商在產品來源的衛生條件及濃縮條件來斷定其差異。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "加工研究室",
+  "問題": "濃縮絲瓜水與一般坊間所賣有何差異？",
+  "解答": "絲瓜水為民間秋天絲瓜採收後，將離地2尺處之瓜籐截斷自流出之汁液，俗稱天羅水，民間常用於美白，亦可供內服退熱。具研究顯示：具抗氧化能力及促進纖維母細胞的生長。為擴增絲瓜之加工利用，本單位採低溫濃縮、無菌過濾方式製成產品，以便於消費者養身使用。一般坊間，只能視場商在產品來源的衛生條件及濃縮條件來斷定其差異。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "b10f1fbbb37d323c6c005932b05194c3230da60b23f412eab8a94343662f030f",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

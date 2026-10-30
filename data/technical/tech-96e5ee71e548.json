@@ -1,0 +1,42 @@
+{
+ "id": "tech-96e5ee71e548",
+ "source_key": "datamoa:809:29dac8ef6a835335",
+ "title": "杜鵑花新品種‘桃園1 號-紅玫瑰’之育成",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "許 雅 婷 \n傅 仰 人 \n陳 錦 木",
+ "date": "2016-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19317&file_name=GPlusWGSlashU9Q3wW9agtWGPluschF8m2mNpwJgH8BCRVE23wWGEqualWGEqualekbfVdyYWGSlashlXL14aYn55BLrtxmli4RHN1AmmwGwGgeQS06fPg0WGSlash8W",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "80",
+  "出版日期": "105年12月",
+  "內容": "杜鵑花新品種‘桃園1 號-紅玫瑰’之育成",
+  "作者": "許 雅 婷 \n傅 仰 人 \n陳 錦 木",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19317&file_name=GPlusWGSlashU9Q3wW9agtWGPluschF8m2mNpwJgH8BCRVE23wWGEqualWGEqualekbfVdyYWGSlashlXL14aYn55BLrtxmli4RHN1AmmwGwGgeQS06fPg0WGSlash8W"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "7e56f797faf3555d296dd056a09198d74596ba250114c7340f38f539e73c65bf",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

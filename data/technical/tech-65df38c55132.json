@@ -1,0 +1,40 @@
+{
+ "id": "tech-65df38c55132",
+ "source_key": "datamoa:B86:a71742b34d67d864",
+ "title": "請問防治金針鏽病的33%鋅錳乃浦水懸劑及全透力可在哪裡購得？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 金針銹病核准防治藥劑有33%鋅錳乃浦水懸劑500倍，使用時加展著劑「全透力」3,000倍。藥劑可至農藥行詢問購買。2. 藥劑使用時請注意防治時機及葉面撒布均勻以達藥效，使用後15天內不得採收。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "請問防治金針鏽病的33%鋅錳乃浦水懸劑及全透力可在哪裡購得？",
+  "解答": "1. 金針銹病核准防治藥劑有33%鋅錳乃浦水懸劑500倍，使用時加展著劑「全透力」3,000倍。藥劑可至農藥行詢問購買。2. 藥劑使用時請注意防治時機及葉面撒布均勻以達藥效，使用後15天內不得採收。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "6b8ea664e80c8ce287be387a51679798140fed7a59399945064c6d9dd2918df3",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "pest"
+ ]
+}

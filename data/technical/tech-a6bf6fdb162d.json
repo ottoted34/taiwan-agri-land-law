@@ -1,0 +1,38 @@
+{
+ "id": "tech-a6bf6fdb162d",
+ "source_key": "datamoa:B86:3c65dae007c7eda2",
+ "title": "詢問貴單位是否有關於光譜色紙的資訊？能否提供該色紙？（觀察樺斑蝶的蝶蛹變色實驗用）",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場協助農民進行植物害蟲防治之研究，使用各色誘蟲黏紙（黃、白、藍、綠4色），與台端所指「光譜色紙」不同，且本場暫無相關研究。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "詢問貴單位是否有關於光譜色紙的資訊？能否提供該色紙？（觀察樺斑蝶的蝶蛹變色實驗用）",
+  "解答": "本場協助農民進行植物害蟲防治之研究，使用各色誘蟲黏紙（黃、白、藍、綠4色），與台端所指「光譜色紙」不同，且本場暫無相關研究。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "c96df410c2e39763d11931db5fa1a723cee281ee42a0dc3f6473942475a01d17",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

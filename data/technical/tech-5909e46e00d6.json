@@ -1,0 +1,40 @@
+{
+ "id": "tech-5909e46e00d6",
+ "source_key": "datamoa:809:9aeab7ffe35033d1",
+ "title": "台灣華南薯(Dioscorea collettii Hook. f)蓣植株性狀遺傳變異研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "龔財立\n林順福",
+ "date": "2016-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19312&file_name=ejWGSlashsWoOzvJDveH9mMXMPvkjMbjOV0j2hoG0Hz8a9JSAfJiDTli9rXG0YWGEqualGCSsiONWGSlashDvJnZY0g05IR3u3YMA0RNnChRw18WNwAvEWGPlus646n33nWGSlash",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "79",
+  "出版日期": "105年6月",
+  "內容": "台灣華南薯(Dioscorea collettii Hook. f)蓣植株性狀遺傳變異研究",
+  "作者": "龔財立\n林順福",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19312&file_name=ejWGSlashsWoOzvJDveH9mMXMPvkjMbjOV0j2hoG0Hz8a9JSAfJiDTli9rXG0YWGEqualGCSsiONWGSlashDvJnZY0g05IR3u3YMA0RNnChRw18WNwAvEWGPlus646n33nWGSlash"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "3a3df5a6ef5b7d256fee9af3a9da9dc46943656b987af4ea58498c4c0abc006c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

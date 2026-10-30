@@ -1,0 +1,38 @@
+{
+ "id": "tech-7161149e55a8",
+ "source_key": "datamoa:B86:42e3e4e459137c07",
+ "title": "索取臺灣藜(紅藜)種子？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "因目前非種植季節(種植季節：10月至隔年1月)，若有需求，煩請於種植前兩週致電本場作物改良課雜糧研究室，聯絡電話089-322279，可免費提供臺灣藜種子(20克)供繁殖用，本場將郵寄至台端處；若種子需求量較多，請洽詢金峰鄉雜糧產銷班高先生（0989-706223）或小米工坊--利小姐（0953-018657）購買。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "索取臺灣藜(紅藜)種子？",
+  "解答": "因目前非種植季節(種植季節：10月至隔年1月)，若有需求，煩請於種植前兩週致電本場作物改良課雜糧研究室，聯絡電話089-322279，可免費提供臺灣藜種子(20克)供繁殖用，本場將郵寄至台端處；若種子需求量較多，請洽詢金峰鄉雜糧產銷班高先生（0989-706223）或小米工坊--利小姐（0953-018657）購買。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "dadd6aee483766e2ade1321ea58b8c982d50d82ece484b57d962d134915d7348",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

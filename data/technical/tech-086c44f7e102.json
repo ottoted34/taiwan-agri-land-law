@@ -1,0 +1,38 @@
+{
+ "id": "tech-086c44f7e102",
+ "source_key": "datamoa:B86:f4f62804e1efb3f1",
+ "title": "防鳥彩帶是進口商品或是我國廠商生產之產品？可於何處購得？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場防鳥彩帶係購置於安東塑膠股份有限公司（地址：950臺東縣臺東市中華路四段6號。聯絡電話：089-325439），防鳥彩帶產地為臺灣。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "防鳥彩帶是進口商品或是我國廠商生產之產品？可於何處購得？",
+  "解答": "本場防鳥彩帶係購置於安東塑膠股份有限公司（地址：950臺東縣臺東市中華路四段6號。聯絡電話：089-325439），防鳥彩帶產地為臺灣。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "192ab54700b75e3128257a8aee54634ec453af494b6cef636ddca8474ed54a29",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-189a8cdd1244",
+ "source_key": "datamoa:B86:4bc64b52b3aab9e7",
+ "title": "紅藜適合栽種地點？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺灣藜為原住民傳統作物，一般環境皆可栽培，播種期為每年11月至翌年3月，生長期3-4個月，除黏質壤土或排水不易之土壤外皆可種植。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "紅藜適合栽種地點？",
+  "解答": "臺灣藜為原住民傳統作物，一般環境皆可栽培，播種期為每年11月至翌年3月，生長期3-4個月，除黏質壤土或排水不易之土壤外皆可種植。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "8121d6e1d0be3b00759a08b5fb48f066713490d8cd3f733cad73b9d1facef0ef",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

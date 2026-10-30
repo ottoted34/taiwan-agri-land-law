@@ -1,0 +1,46 @@
+{
+ "id": "tech-9f7a71cc93e0",
+ "source_key": "datamoa:740:0fae4404624931a3",
+ "title": "臺灣花生栽培技術及收穫調製",
+ "series": "技術專刊",
+ "issue": "技術專刊106-1(NO.167)",
+ "agency_id": "tndais",
+ "authors": "陳國憲、楊藹華、蔡孟旅、陳昇寬、鄭安秀、江汶錦",
+ "date": "2017-07",
+ "abstract": null,
+ "url": "https://book.tndais.gov.tw/Brochure/tech167.pdf",
+ "isbn": "978-986-05-2922-7",
+ "gpn": "1010600944",
+ "pages": "31頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊106-1(NO.167)",
+  "題目": "臺灣花生栽培技術及收穫調製",
+  "作者": "陳國憲、楊藹華、蔡孟旅、陳昇寬、鄭安秀、江汶錦",
+  "出版日期年月": "10607",
+  "頁數": "31頁",
+  "定價": "50",
+  "政府出版品編號GPN": "1010600944",
+  "ISBN": "978-986-05-2922-7",
+  "連結位址1PDF": "https://book.tndais.gov.tw/Brochure/tech167.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "180145abf30a5fcbf5720435cbb2617057d6f1101c7c9e1e554f0cc94687fdf6",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "mgmt"
+ ]
+}

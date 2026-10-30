@@ -1,0 +1,38 @@
+{
+ "id": "tech-a522c759bdba",
+ "source_key": "datamoa:B86:f3265b174032c508",
+ "title": "如何取得金針菜臺東7號培育技術資訊？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "提供本場第16期農技報導「金針菜『臺東7號』新品種介紹」電子檔以供參考。（http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/3587/16.pdf）",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "如何取得金針菜臺東7號培育技術資訊？",
+  "解答": "提供本場第16期農技報導「金針菜『臺東7號』新品種介紹」電子檔以供參考。（http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/3587/16.pdf）"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "bacc9e174711afca95fec032c8710d210a3a8c102aa1c86c84b78af5eebd266c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

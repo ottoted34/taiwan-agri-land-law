@@ -1,0 +1,40 @@
+{
+ "id": "tech-1ad7acddb460",
+ "source_key": "datamoa:B86:37b9fa9eb9ad7b0d",
+ "title": "可否推薦好種適宜12月種植的果樹(室外、土質偏黏、有石頭)？貴場是否有販售此類植株？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 果樹一般需排水良好的土壤，如您的土壤不會太黏就沒有什麼問題。2. 如您要種植的位置海拔在500公尺以上，可以種植桃、李、梅、梨等落葉果樹；如在海拔500公尺以下，可種植亞熱帶或熱帶之常綠果樹，如番石榴、番荔枝、酪梨、木瓜、紅龍果等。3. 因本場並未繁殖果樹苗木，所以無法提供果苗，敬請見諒。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "可否推薦好種適宜12月種植的果樹(室外、土質偏黏、有石頭)？貴場是否有販售此類植株？",
+  "解答": "1. 果樹一般需排水良好的土壤，如您的土壤不會太黏就沒有什麼問題。2. 如您要種植的位置海拔在500公尺以上，可以種植桃、李、梅、梨等落葉果樹；如在海拔500公尺以下，可種植亞熱帶或熱帶之常綠果樹，如番石榴、番荔枝、酪梨、木瓜、紅龍果等。3. 因本場並未繁殖果樹苗木，所以無法提供果苗，敬請見諒。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "da01c78af013f0dc57ad8fe62ee822b40693530566e47a0ceda192effc0ab4b5",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

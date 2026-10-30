@@ -1,0 +1,38 @@
+{
+ "id": "tech-5ad27fc0dfbc",
+ "source_key": "datamoa:B86:c2b5b72426f953da",
+ "title": "如何加入產銷履歷？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "申請方式：請先至臺灣農產品安全追溯資訊網http://taft.coa.gov.tw/ct.asp?xItem=706&CtNode=271&role=C點選「如何加入產銷履歷」項目規定辦理，了解相關申請作業後，請依作物別選擇「產銷履歷的驗證機構」或電洽產銷履歷諮詢服務專線：0800-201051。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "如何加入產銷履歷？",
+  "解答": "申請方式：請先至臺灣農產品安全追溯資訊網http://taft.coa.gov.tw/ct.asp?xItem=706&CtNode=271&role=C點選「如何加入產銷履歷」項目規定辦理，了解相關申請作業後，請依作物別選擇「產銷履歷的驗證機構」或電洽產銷履歷諮詢服務專線：0800-201051。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "c8ed9bef3392627ef18392fdfba831d1e30eb68b8c8c2cc4f067d47f52268703",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-7fef187203cc",
+ "source_key": "datamoa:115:961e9d9bc8b8f906",
+ "title": "貴單位有做苦瓜濃縮汁，就苦瓜而言有何其功用？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "苦瓜之果實表面有瘤粒狀突起，含腺鹼、hydroxytryptamin，呈苦味，其果肉中脂肪、胡蘿蔔素及磷之含量少，但維生素C之含量高，尤勝於番茄之含量。而在機能上具有消暑、退熱、提神、解勞、清心和明目之效果，亦可外用治療痱子及疔癤。國內近年有關其生理活性研究亦指出，其萃取液具抑制活化巨噬細胞生成PGE2的效應，具開發成非固醇類消炎劑潛力，可作為患有發炎性疾病者的食物選擇。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "加工研究室",
+  "問題": "貴單位有做苦瓜濃縮汁，就苦瓜而言有何其功用？",
+  "解答": "苦瓜之果實表面有瘤粒狀突起，含腺鹼、hydroxytryptamin，呈苦味，其果肉中脂肪、胡蘿蔔素及磷之含量少，但維生素C之含量高，尤勝於番茄之含量。而在機能上具有消暑、退熱、提神、解勞、清心和明目之效果，亦可外用治療痱子及疔癤。國內近年有關其生理活性研究亦指出，其萃取液具抑制活化巨噬細胞生成PGE2的效應，具開發成非固醇類消炎劑潛力，可作為患有發炎性疾病者的食物選擇。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "9503fb3e35b07f0fe965cef60185630e41846c05ed10dac01d8196a78b1edc69",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-5030f4235fda",
+ "source_key": "datamoa:B86:17ba2cba77637a2e",
+ "title": "請教骨碎補功效是否會因為是鮮品或是乾品而有所差異？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "目前本場並未進行骨碎補乾品及鮮品功效比較試驗，因此暫無相關試驗數據提供；中國醫藥大學有針對骨碎補功效性作基礎研究，相關問題可請益中國醫藥大學林文川教授，連絡電話：04-22053366 #2229。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "請教骨碎補功效是否會因為是鮮品或是乾品而有所差異？",
+  "解答": "目前本場並未進行骨碎補乾品及鮮品功效比較試驗，因此暫無相關試驗數據提供；中國醫藥大學有針對骨碎補功效性作基礎研究，相關問題可請益中國醫藥大學林文川教授，連絡電話：04-22053366 #2229。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "dfa0d6c8d3e253f9ec98f1cca3a4c85ac6bc79010192b9cec20dd53d3953271d",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "tech-39c5365e691c",
+ "source_key": "datamoa:115:8893602b9c4972e2",
+ "title": "我種無花果!這半年來都一直有個病蟲害問題,無法解決!,想請教如此病蟲害如何防治解決？我都把果樹砍掉再把樹掰開!捉鑽骨蟲,可是蟲抓到了,樹也死亡了! 想請教這種蟲如何防治？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "這是咖啡木蠹蛾危害，發現某一枝條逐漸乾枯時，就得去尋找是否有糞便蟲孔，於糞便蟲孔下方健康處截枝，並帶離果園或焚毀，以減少自己在果園內養蟲機會。若要用藥劑，可參考第滅寧或加保扶等藥劑，約隔 10-15 天噴 1 次，連續 2-3 次，應可有效防治此蟲。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "植物保護研究室",
+  "問題": "我種無花果!這半年來都一直有個病蟲害問題,無法解決!,想請教如此病蟲害如何防治解決？我都把果樹砍掉再把樹掰開!捉鑽骨蟲,可是蟲抓到了,樹也死亡了! 想請教這種蟲如何防治？",
+  "解答": "這是咖啡木蠹蛾危害，發現某一枝條逐漸乾枯時，就得去尋找是否有糞便蟲孔，於糞便蟲孔下方健康處截枝，並帶離果園或焚毀，以減少自己在果園內養蟲機會。若要用藥劑，可參考第滅寧或加保扶等藥劑，約隔 10-15 天噴 1 次，連續 2-3 次，應可有效防治此蟲。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "57e8c6d861b8f0cbb9b24d1ec978c5ed798e4d71d8191cf8efc28e2d75deeb45",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit",
+  "pest"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-5a8da17af94a",
+ "source_key": "datamoa:115:3b0a506cd99133bb",
+ "title": "請教苦瓜生長初期如何理蔓？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "苦瓜是子、孫蔓結果的瓜類，如果您的棚架是水平棚架加上直立網或是拱型棚架，在 20 節的位置摘心留生長較旺盛的蔓 5 條，將每條蔓的距離平均拉開、固定在直立網上在 9-12 節起就會開始開花。如果是水平棚架加單支支柱則需等待母蔓爬上棚架後約 30 公分 (1 台尺 ) 的位置摘心、留 3-5 條子蔓，也大約在 9-12 節起開始開花。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "旗南分場",
+  "問題": "請教苦瓜生長初期如何理蔓？",
+  "解答": "苦瓜是子、孫蔓結果的瓜類，如果您的棚架是水平棚架加上直立網或是拱型棚架，在 20 節的位置摘心留生長較旺盛的蔓 5 條，將每條蔓的距離平均拉開、固定在直立網上在 9-12 節起就會開始開花。如果是水平棚架加單支支柱則需等待母蔓爬上棚架後約 30 公分 (1 台尺 ) 的位置摘心、留 3-5 條子蔓，也大約在 9-12 節起開始開花。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "eed48f85841c6b2d23a4b87ec747316a1d3aab7bb905a972ac6d4aac5716fc1b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

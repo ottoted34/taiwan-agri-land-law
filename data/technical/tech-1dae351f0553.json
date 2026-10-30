@@ -1,0 +1,38 @@
+{
+ "id": "tech-1dae351f0553",
+ "source_key": "datamoa:B86:bffea089c5ffaa60",
+ "title": "貴場有協助農民種植有經濟價值的中藥嗎(較有收入的中草藥)？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "目前本場輔導栽培者為臺東地區原生特色作物－洛神葵及杭菊之栽培輔導。此二項作物在臺東地區栽培面積較大，其餘都是小面積栽培，產值不大。若要栽培中草藥植物，需考慮其銷路、作物適應性等，否則將來必然遭遇到許多問題，臺灣中草藥產業即是有栽培成本高，面積不大，不足以持續供應等問題，是需克服的難題。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "貴場有協助農民種植有經濟價值的中藥嗎(較有收入的中草藥)？",
+  "解答": "目前本場輔導栽培者為臺東地區原生特色作物－洛神葵及杭菊之栽培輔導。此二項作物在臺東地區栽培面積較大，其餘都是小面積栽培，產值不大。若要栽培中草藥植物，需考慮其銷路、作物適應性等，否則將來必然遭遇到許多問題，臺灣中草藥產業即是有栽培成本高，面積不大，不足以持續供應等問題，是需克服的難題。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "d93e6c1a076e707f0cc437649e4fbe58a3d2a7c68b7bec44a923d7190a98b476",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

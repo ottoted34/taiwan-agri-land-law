@@ -1,0 +1,39 @@
+{
+ "id": "tech-84563e322584",
+ "source_key": "datamoa:D97:a3bd112606122130",
+ "title": "技術專刊 67",
+ "series": "技術專刊",
+ "issue": "67",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=7978",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "67",
+  "出刊年月": "201801",
+  "期刊名稱": "友善生態之果樹猴害防範技術與策略-防猴網罩之應用",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=7978"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T13:25:37+08:00"
+  }
+ ],
+ "content_hash": "6c893248976af3b4208883b9e3039429305f94716636a5a75929d5ee56116320",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-92e7cc99c24b",
+ "source_key": "datamoa:115:18aa84be561443c6",
+ "title": "蘿蔔皮膚變黑色，是得了什麼病蟲害；要使用何種藥劑才可治癒。PS：你們的信箱，要如何傳送照片，可否告知方法。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "在這個季節，蘿蔔皮膚變黑色，很有可能是黃條葉蚤的幼蟲啃食的結果，欲防治此蟲，需在種植前就做好淹水措施，以降低土壤中幼蟲數目。成蟲部分亦可用佈飛松、阿巴汀等藥劑防治，因為沒看到照片 因此蘿蔔皮膚變黑色亦有可能由其他病蟲害所造成，建議您將照片(2MB以內皆可)以附加檔案方式上傳即可",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "植物保護研究室",
+  "問題": "蘿蔔皮膚變黑色，是得了什麼病蟲害；要使用何種藥劑才可治癒。PS：你們的信箱，要如何傳送照片，可否告知方法。",
+  "解答": "在這個季節，蘿蔔皮膚變黑色，很有可能是黃條葉蚤的幼蟲啃食的結果，欲防治此蟲，需在種植前就做好淹水措施，以降低土壤中幼蟲數目。成蟲部分亦可用佈飛松、阿巴汀等藥劑防治，因為沒看到照片 因此蘿蔔皮膚變黑色亦有可能由其他病蟲害所造成，建議您將照片(2MB以內皆可)以附加檔案方式上傳即可"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "f57903a84cf96ca5e18af36b8b265baeed1f767df605ba0ae3cdc41937835add",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "pest"
+ ]
+}

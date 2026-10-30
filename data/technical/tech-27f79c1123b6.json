@@ -1,0 +1,38 @@
+{
+ "id": "tech-27f79c1123b6",
+ "source_key": "datamoa:D54:730ccfecace2f056",
+ "title": "臺中區農業改良場農業技術專刊",
+ "series": "農業技術專刊",
+ "issue": "",
+ "agency_id": "tcdares",
+ "authors": "",
+ "date": "2022-11-16",
+ "abstract": null,
+ "url": "https://www.tcdares.gov.tw/ws.php?id=353",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D54",
+  "title": "臺中區農業改良場農業技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D54"
+ },
+ "raw": {
+  "名稱": "臺中區農業改良場農業技術專刊",
+  "連結": "https://www.tcdares.gov.tw/ws.php?id=353",
+  "資料日期": "2022-11-16"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D54",
+   "fetched_at": "2026-10-30T13:25:28+08:00"
+  }
+ ],
+ "content_hash": "466f17c1d6e5af2feaa665880b8c6c5b65c8e6c4941322f8fa1b8fb53736f8ab",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

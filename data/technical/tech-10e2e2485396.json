@@ -1,0 +1,39 @@
+{
+ "id": "tech-10e2e2485396",
+ "source_key": "datamoa:D97:7dfc4a282fd3c71d",
+ "title": "技術專刊 42",
+ "series": "技術專刊",
+ "issue": "42",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=3449",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "42",
+  "出刊年月": "201007",
+  "期刊名稱": "香草藝術饗宴",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=3449"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T13:25:37+08:00"
+  }
+ ],
+ "content_hash": "ae595f812e30d638fbba573589cf7dc831c8e95477e753f24e02a183828feb16",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tech-037eee8b965c",
+ "source_key": "datamoa:809:e5f55018e806f715",
+ "title": "播種量及栽植株距對水稻農藝性狀與產量之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "楊志維\n簡禎佑\n林佩瑩\n林孟輝",
+ "date": "2011-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/1947/70-1.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "70",
+  "出版日期": "100年12月",
+  "內容": "播種量及栽植株距對水稻農藝性狀與產量之影響",
+  "作者": "楊志維\n簡禎佑\n林佩瑩\n林孟輝",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/1947/70-1.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "ab6f46783aaaca9c40fee91037f99988c32537efd5e164249eb6134dfdd24c6a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "rice"
+ ]
+}

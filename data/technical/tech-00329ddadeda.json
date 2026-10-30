@@ -1,0 +1,38 @@
+{
+ "id": "tech-00329ddadeda",
+ "source_key": "datamoa:115:6026b76f64b2a68b",
+ "title": "茉莉新葉出來不久會黃化，是什麼情形?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "經檢測土壤為鹼性土壤，有可能土壤中的微量元素被固定無法被植物吸收，建議可採取葉片進一步檢測",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "土壤肥料研究室",
+  "問題": "茉莉新葉出來不久會黃化，是什麼情形?",
+  "解答": "經檢測土壤為鹼性土壤，有可能土壤中的微量元素被固定無法被植物吸收，建議可採取葉片進一步檢測"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "3789adcd5fde603af00886a91bf2c844a43c55ccb0adfe0f430a3426eb0a5b67",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-8daf30e7c536",
+ "source_key": "datamoa:B86:fff0ca6f5afa9df8",
+ "title": "請教是否有紅藜篩選和脫殼相關農機具或公司行號可以推薦使用？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場研製之搬運車附掛施肥撒布裝置已技轉郡野實業有限公司，電話 07-6142600。有關臺灣藜篩選機械可洽本場農機研究室曾先生，電話：089-325110#755。其他臺灣藜脫粒、脫殼機械可逕洽生產業者，右豐實業有限公司，電話 04-25625365。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請教是否有紅藜篩選和脫殼相關農機具或公司行號可以推薦使用？",
+  "解答": "本場研製之搬運車附掛施肥撒布裝置已技轉郡野實業有限公司，電話 07-6142600。有關臺灣藜篩選機械可洽本場農機研究室曾先生，電話：089-325110#755。其他臺灣藜脫粒、脫殼機械可逕洽生產業者，右豐實業有限公司，電話 04-25625365。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "010d8726fbe0bc9278ccc10e1d96a2ba7443bf2ebf16cec60e9acc87fe5cd230",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "machinery"
+ ]
+}

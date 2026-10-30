@@ -1,0 +1,40 @@
+{
+ "id": "tech-896d14923df0",
+ "source_key": "datamoa:B86:7cef267e48277c85",
+ "title": "若番茄最下層葉子偏黃(上層不會)，請問是病毒或缺元素？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 由您來信所附照片，推測可能為缺鎂以及疑似毒素病病徵。但因所附照片資訊不足，難以確切判斷。2. 建議您盡速摘取植株樣本，就近至您田區鄰近的農業改良場植物保護或土壤肥料研究單位洽詢。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "若番茄最下層葉子偏黃(上層不會)，請問是病毒或缺元素？",
+  "解答": "1. 由您來信所附照片，推測可能為缺鎂以及疑似毒素病病徵。但因所附照片資訊不足，難以確切判斷。2. 建議您盡速摘取植株樣本，就近至您田區鄰近的農業改良場植物保護或土壤肥料研究單位洽詢。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "39c1de6f187ed206cc9f13fc221a5ba37b2a95a21fa58f665fd8e1fd491353d9",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "vegetable"
+ ]
+}

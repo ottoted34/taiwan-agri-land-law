@@ -1,0 +1,40 @@
+{
+ "id": "tech-5c706bd01bbf",
+ "source_key": "datamoa:809:ee7a7ca248200d0d",
+ "title": "北部地區農民對農業線上學習需求程度與使用意願關係之研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "賴信忠\n李宗樺\n傅智麟",
+ "date": "2013-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/74-4.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "74",
+  "出版日期": "102年12月",
+  "內容": "北部地區農民對農業線上學習需求程度與使用意願關係之研究",
+  "作者": "賴信忠\n李宗樺\n傅智麟",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/74-4.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "02343f5c3700bad8492b834280ff45ea2b56bde905d51180b14540d49788f915",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

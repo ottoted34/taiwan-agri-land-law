@@ -1,0 +1,40 @@
+{
+ "id": "tech-af1b25d8dead",
+ "source_key": "datamoa:809:087fdc93e644a23b",
+ "title": "槽耕電動鬆土機之研發",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "吳有恒",
+ "date": "2016-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19319&file_name=xl7KuDGUOKfUZrS5DMWGEqualCdQ4G92LSaFhlrpwvJwEKBCCC",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "80",
+  "出版日期": "105年12月",
+  "內容": "槽耕電動鬆土機之研發",
+  "作者": "吳有恒",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19319&file_name=xl7KuDGUOKfUZrS5DMWGEqualCdQ4G92LSaFhlrpwvJwEKBCCC"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "4e1ee55bafb8ac2aaa9f528bf797c6a825d6d69ce08912f66e166b73f965d9fc",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

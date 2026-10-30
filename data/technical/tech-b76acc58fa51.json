@@ -1,0 +1,38 @@
+{
+ "id": "tech-b76acc58fa51",
+ "source_key": "datamoa:B86:ec30e0af0b4ade68",
+ "title": "在貴場出版刊物「農技報導 第26期」裡看到ㄧ張圖片，「利用尼龍網袋可有效杜絕碎石混入」想請問此「尼龍網袋」何處可購得？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "請逕向臺東市安東塑膠公司訂購，聯絡電話 089-325439。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "在貴場出版刊物「農技報導 第26期」裡看到ㄧ張圖片，「利用尼龍網袋可有效杜絕碎石混入」想請問此「尼龍網袋」何處可購得？",
+  "解答": "請逕向臺東市安東塑膠公司訂購，聯絡電話 089-325439。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "f5ba360cfbd3462ba3bf967d8d25ec005fb1b33c149808d1085c28a1643ccbc4",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

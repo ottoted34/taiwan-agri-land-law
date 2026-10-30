@@ -1,0 +1,42 @@
+{
+ "id": "tech-953c915cf7af",
+ "source_key": "datamoa:809:73a7b50bcf1319dd",
+ "title": "不同肥培管理對桶柑(Citrus tankan Hayata)產量與品質影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "賴昭宏",
+ "date": "2021-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=20282&file_name=s7qG9Fsy0ca2ptTZ09B98clOWGPlussiDrvrz5BisZWpaUgrDGWwqPN2iYWGEqualFwAPCWey7qVzVFoszn4fnnZLKv4iKNcS2qQgDOFu2Rk8Kp0aYHrWGSlashXCWGPlu",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "90",
+  "出版日期": "110年12月",
+  "內容": "不同肥培管理對桶柑(Citrus tankan Hayata)產量與品質影響",
+  "作者": "賴昭宏",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=20282&file_name=s7qG9Fsy0ca2ptTZ09B98clOWGPlussiDrvrz5BisZWpaUgrDGWwqPN2iYWGEqualFwAPCWey7qVzVFoszn4fnnZLKv4iKNcS2qQgDOFu2Rk8Kp0aYHrWGSlashXCWGPlu"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "bd9c6e1c40033e943ae773790aee3108f82363de591a95a3c432937fc1f4ef7f",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "soil"
+ ]
+}

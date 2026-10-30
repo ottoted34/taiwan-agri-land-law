@@ -1,0 +1,43 @@
+{
+ "id": "tech-512608d9dbd9",
+ "source_key": "datamoa:809:2a4b7dd3573e9cab",
+ "title": "甘藷基腐病發生生態研究及防治技術開發 PDF",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "張為斌 \n莊國鴻",
+ "date": "2016-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19318&file_name=HBjkBgSsya0Lm7vbz8oPR94KaWWGPlusMLzUWZgWGEqualWGEqualPtdYJb2JmtJOFdWhBuAPFD6ZXSUeagjq78iL1tcuAV0WM1JFN1Ig",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "80",
+  "出版日期": "105年12月",
+  "內容": "甘藷基腐病發生生態研究及防治技術開發 PDF",
+  "作者": "張為斌 \n莊國鴻",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19318&file_name=HBjkBgSsya0Lm7vbz8oPR94KaWWGPlusMLzUWZgWGEqualWGEqualPtdYJb2JmtJOFdWhBuAPFD6ZXSUeagjq78iL1tcuAV0WM1JFN1Ig"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "698c94ff5bbd00d51ddb5592fb2fb40e0d4d5af701d490ebeb756eccae04deb6",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "grain",
+  "pest"
+ ]
+}

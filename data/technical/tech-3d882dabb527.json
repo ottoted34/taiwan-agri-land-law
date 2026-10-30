@@ -1,0 +1,40 @@
+{
+ "id": "tech-3d882dabb527",
+ "source_key": "datamoa:B86:5d35fbb73d12070e",
+ "title": "請問農技報導第38期，木虌果栽培管理中所說的理蔓作業該如何進行？另外每0.1公頃施用有機肥40包當基肥，若改用雞糞則使用量一樣嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 木虌果理蔓作業一般於每年春季或定植後，莖蔓開始生長後進行。理蔓時，視栽培生長空間，調整莖蔓生長位置，使其盡可能均勻分布在栽培網或棚架上方，避免局部生長過於密集。2. 雞糞肥施用量可低於有機肥用量的1/3至1/2。惟雞糞肥應選用腐熟者且利用小型耕耘機或中耕機均勻混拌入土中，不宜使用生雞糞。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問農技報導第38期，木虌果栽培管理中所說的理蔓作業該如何進行？另外每0.1公頃施用有機肥40包當基肥，若改用雞糞則使用量一樣嗎？",
+  "解答": "1. 木虌果理蔓作業一般於每年春季或定植後，莖蔓開始生長後進行。理蔓時，視栽培生長空間，調整莖蔓生長位置，使其盡可能均勻分布在栽培網或棚架上方，避免局部生長過於密集。2. 雞糞肥施用量可低於有機肥用量的1/3至1/2。惟雞糞肥應選用腐熟者且利用小型耕耘機或中耕機均勻混拌入土中，不宜使用生雞糞。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "913af57fe60406112d83da34031bc23712530d5f7808941922ae736481905927",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "mgmt"
+ ]
+}

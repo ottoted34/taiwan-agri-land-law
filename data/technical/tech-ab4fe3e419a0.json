@@ -1,0 +1,40 @@
+{
+ "id": "tech-ab4fe3e419a0",
+ "source_key": "datamoa:115:0d6b651e173a74cc",
+ "title": "文心蘭產期調節的方法有哪些?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "文心蘭產期調節的方法有(1)提早開花：使用肥培管理、冬季加溫或進行電照處理來提早產期。(2)延遲開花：以剪除花芽或剪除新芽來延後產期。目前業者較常採用的方法為剪除新芽來進行產期調節。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "花卉研究室",
+  "問題": "文心蘭產期調節的方法有哪些?",
+  "解答": "文心蘭產期調節的方法有(1)提早開花：使用肥培管理、冬季加溫或進行電照處理來提早產期。(2)延遲開花：以剪除花芽或剪除新芽來延後產期。目前業者較常採用的方法為剪除新芽來進行產期調節。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "8ad1488df4f652b940028cf4f65169c95b285d71ffc2eb284ef4ad3497eca65c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

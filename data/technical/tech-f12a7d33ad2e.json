@@ -1,0 +1,38 @@
+{
+ "id": "tech-f12a7d33ad2e",
+ "source_key": "datamoa:B86:53bd17c3cb36a363",
+ "title": "請問貴場的石竹花臺東1號香粉雲是否有種子出售？何處可買到種子？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 石竹臺東一號香粉雲擁有植物品種權，僅適用品種授權(技轉)方式購買。2. 本場石竹臺東一號已授權池上鄉農會生產及販賣，相關事宜請洽農會推廣部（電話：089-862203）。3. 或至本場辦理非專屬授權，辦理授權事宜請洽本場園藝研究室（電話：089-325110轉661）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "請問貴場的石竹花臺東1號香粉雲是否有種子出售？何處可買到種子？",
+  "解答": "1. 石竹臺東一號香粉雲擁有植物品種權，僅適用品種授權(技轉)方式購買。2. 本場石竹臺東一號已授權池上鄉農會生產及販賣，相關事宜請洽農會推廣部（電話：089-862203）。3. 或至本場辦理非專屬授權，辦理授權事宜請洽本場園藝研究室（電話：089-325110轉661）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3fee9540e6aff7cee3e6af97866225d7889868a1ecb6afcb190301e26025d8bb",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

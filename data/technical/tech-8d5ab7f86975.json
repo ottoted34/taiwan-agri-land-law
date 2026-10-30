@@ -1,0 +1,40 @@
+{
+ "id": "tech-8d5ab7f86975",
+ "source_key": "datamoa:115:4c3908144b82930d",
+ "title": "請問使用防治瓜實蠅，25%馬拉松可濕性粉劑(Malathion)還要添加的毒蛋白質水要去哪裡購買？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "我們一般的說法是蛋白質水解物搭配農藥使用。蛋白質水解物為一種食物誘引方法，可購買市面上的酵母粉加水溶解，或利用瓜實蠅喜好的糖蜜或寄主植物如番石榴、洋香瓜等切碎打成泥漿，再混合廣效性的殺蟲劑，如納乃得或馬拉松，即為食物誘引劑。於瓜果開花或結果期，噴佈於較無行走的田埂雜草上或附近瓜蠅喜棲息的遮蔭隱敝處，不可直接噴於果實上。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "植物保護研究室",
+  "問題": "請問使用防治瓜實蠅，25%馬拉松可濕性粉劑(Malathion)還要添加的毒蛋白質水要去哪裡購買？",
+  "解答": "我們一般的說法是蛋白質水解物搭配農藥使用。蛋白質水解物為一種食物誘引方法，可購買市面上的酵母粉加水溶解，或利用瓜實蠅喜好的糖蜜或寄主植物如番石榴、洋香瓜等切碎打成泥漿，再混合廣效性的殺蟲劑，如納乃得或馬拉松，即為食物誘引劑。於瓜果開花或結果期，噴佈於較無行走的田埂雜草上或附近瓜蠅喜棲息的遮蔭隱敝處，不可直接噴於果實上。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "71f94b24731c4fe29104490386666581ff46bfe8085fca5e0be7e7b3e979fac5",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "pest"
+ ]
+}

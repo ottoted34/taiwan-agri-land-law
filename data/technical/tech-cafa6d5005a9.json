@@ -1,0 +1,40 @@
+{
+ "id": "tech-cafa6d5005a9",
+ "source_key": "datamoa:B86:327badf544b1befb",
+ "title": "洛神葵該如何乾燥，才能保持洛神色澤不黑掉？陽光乾燥變黑原因是什麼呢？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "洛神葵採收去籽後水洗，以90℃熱水迅速殺菁30秒，瀝乾後放入熱風乾燥箱，平鋪於乾燥盤，以70-80℃熱風乾燥8小時以上，過程中1-2小時必須翻拌一次，使之受熱平均，水分含量為12-18%。乾燥的溫度及時間為造成外觀褐變的原因，與花青素及維生素C的裂解呈現顯著性相關。詳情可逕行至本場官方網站查詢「技術專刊第35輯-洛神葵之加工及利用」。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "洛神葵該如何乾燥，才能保持洛神色澤不黑掉？陽光乾燥變黑原因是什麼呢？",
+  "解答": "洛神葵採收去籽後水洗，以90℃熱水迅速殺菁30秒，瀝乾後放入熱風乾燥箱，平鋪於乾燥盤，以70-80℃熱風乾燥8小時以上，過程中1-2小時必須翻拌一次，使之受熱平均，水分含量為12-18%。乾燥的溫度及時間為造成外觀褐變的原因，與花青素及維生素C的裂解呈現顯著性相關。詳情可逕行至本場官方網站查詢「技術專刊第35輯-洛神葵之加工及利用」。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "f119af17c808d77e7d51bb4717048fb00f42875c5b35407c4b5f3835697e7905",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special"
+ ]
+}

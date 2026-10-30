@@ -1,0 +1,38 @@
+{
+ "id": "tech-f054d6337dfd",
+ "source_key": "datamoa:B86:d4cce94955daf978",
+ "title": "是否有朝天椒抗痰疽病的新品種(原生種的更好)？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場屬試驗研究單位，無販售種苗營利業務，故無法提供相關種苗購買服務。如欲購買種苗，可逕洽各大種苗公司，如農友種苗及生生種苗等。有關抗病之番椒品種，請向種苗改良繁殖場洽詢，該場有多項抗病新品種，種苗場網址http://www.tss.gov.tw。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "是否有朝天椒抗痰疽病的新品種(原生種的更好)？",
+  "解答": "本場屬試驗研究單位，無販售種苗營利業務，故無法提供相關種苗購買服務。如欲購買種苗，可逕洽各大種苗公司，如農友種苗及生生種苗等。有關抗病之番椒品種，請向種苗改良繁殖場洽詢，該場有多項抗病新品種，種苗場網址http://www.tss.gov.tw。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3adf22fb4d93e4325441f9b91d37091634fa4dc4b703de0290b6568c0eec2a26",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

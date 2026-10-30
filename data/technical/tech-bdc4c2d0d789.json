@@ -1,0 +1,40 @@
+{
+ "id": "tech-bdc4c2d0d789",
+ "source_key": "datamoa:809:fae235ad34f84b39",
+ "title": "仙草新品種桃園2號之育成",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "龔財立\n姜金龍",
+ "date": "2014-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/75-1.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "75",
+  "出版日期": "103年6月",
+  "內容": "仙草新品種桃園2號之育成 ",
+  "作者": "龔財立\n姜金龍",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/75-1.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "bfa9fac09e3eeae528fab189101cdd0c0afbcd2116cd247b6caa792f13295926",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

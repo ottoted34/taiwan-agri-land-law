@@ -1,0 +1,38 @@
+{
+ "id": "tech-ece5d8ea814c",
+ "source_key": "datamoa:B86:ecfdf4c73dd5f1ca",
+ "title": "臺灣藜種植多大面積才有經濟價值？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺灣藜生長期約四個月，產量約1,000公斤/公頃，目前每公斤收購價為180-200元（曬乾未脫殼），市售價格為每斤600元（脫殼），大面積種植建議先規劃產銷通路或以契作方式栽培，以上資訊提供您作參考。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "臺灣藜種植多大面積才有經濟價值？",
+  "解答": "臺灣藜生長期約四個月，產量約1,000公斤/公頃，目前每公斤收購價為180-200元（曬乾未脫殼），市售價格為每斤600元（脫殼），大面積種植建議先規劃產銷通路或以契作方式栽培，以上資訊提供您作參考。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "ec205b09483281432081af78c9405becc11ab694f5c7e8ef6f5c8998e835ecf2",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "tech-80a15ae4f64b",
+ "source_key": "datamoa:115:0273ad3bbb4aab55",
+ "title": "利用組織培養技術生產觀賞鳳梨種苗，約需多久時間可形成一株種苗？又可不可以添加有益微生物來幫助種苗之生產？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "觀賞鳳梨組織培養苗之生產速度，若僅考慮從吸芽分生組織培育形成定芽，再形成一植株，不考慮量產的話，則大約6、7個月即可形成一株種苗；但若需要大量培養，經分切組培苗繁殖，則大概要2年的時間才可能形成一定數量之種苗，端視繁殖的數量而定。至於添加有益微生物來幫助種苗生產的構想則不予考慮，因為在培養基中會造成微生物過度生長，進而危害植物，造成腐爛等。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "花卉研究室",
+  "問題": "利用組織培養技術生產觀賞鳳梨種苗，約需多久時間可形成一株種苗？又可不可以添加有益微生物來幫助種苗之生產？",
+  "解答": "觀賞鳳梨組織培養苗之生產速度，若僅考慮從吸芽分生組織培育形成定芽，再形成一植株，不考慮量產的話，則大約6、7個月即可形成一株種苗；但若需要大量培養，經分切組培苗繁殖，則大概要2年的時間才可能形成一定數量之種苗，端視繁殖的數量而定。至於添加有益微生物來幫助種苗生產的構想則不予考慮，因為在培養基中會造成微生物過度生長，進而危害植物，造成腐爛等。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "e96f6e15f411ffadfa797086d1f929edde8870a196ba890cfcad13e135c7907d",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit",
+  "seedling"
+ ]
+}

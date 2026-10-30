@@ -1,0 +1,38 @@
+{
+ "id": "tech-1b79cca629e8",
+ "source_key": "datamoa:B86:fdd716dd96fb1921",
+ "title": "臺灣藜的殼ㄧ般碾米廠可以碾嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺灣藜因籽粒較小，一般碾米廠不適用，建議可利用市售小型碾米機，調整出口壓力彈簧強度後再行作業，詳細可參考臺東區農業專訊74期（http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/3282/NO.74%208.pdf），或請產銷班進行代工。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "臺灣藜的殼ㄧ般碾米廠可以碾嗎？ ",
+  "解答": "臺灣藜因籽粒較小，一般碾米廠不適用，建議可利用市售小型碾米機，調整出口壓力彈簧強度後再行作業，詳細可參考臺東區農業專訊74期（http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/3282/NO.74%208.pdf），或請產銷班進行代工。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "ed557eb3d16e19360841d2ff3c6c051a6a9d39d0060f60915d63d5eb13bf2995",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

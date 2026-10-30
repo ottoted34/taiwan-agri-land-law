@@ -1,0 +1,40 @@
+{
+ "id": "tech-ab4c36ef21e5",
+ "source_key": "datamoa:B86:01418c7703cfd4a2",
+ "title": "請問要在一個半沙半土、種荖葉快30年(碰風土)、夏天露水重的土地上改種酪梨可行嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 酪梨種植土壤以壤土為佳，pH值在5.5∼7.0均可。以信件內容，建議先採集土壤，檢測土壤特性。本場提供土壤檢測服務，歡迎來電洽詢 089-345756。2. 果園依據面積大小，在中前左右後各處（如面積太大可分成若干區塊，每個區塊大小約0.1～0.2公頃，分別在各區塊之中前左右後各處採土)，分別採8-12點。於表土0-20公分及20-40公分兩個不同深度分別採土；分裝於兩個容器內，依採樣深度分別裝入兩個水桶內（0-20公分裝一桶混合、20-40公分裝一桶混合）。如需詳細資訊，請參考網頁說明，網址如下：http://www.ttdares.gov.tw/view.php?catid=1999",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問要在一個半沙半土、種荖葉快30年(碰風土)、夏天露水重的土地上改種酪梨可行嗎？",
+  "解答": "1. 酪梨種植土壤以壤土為佳，pH值在5.5∼7.0均可。以信件內容，建議先採集土壤，檢測土壤特性。本場提供土壤檢測服務，歡迎來電洽詢 089-345756。2. 果園依據面積大小，在中前左右後各處（如面積太大可分成若干區塊，每個區塊大小約0.1～0.2公頃，分別在各區塊之中前左右後各處採土)，分別採8-12點。於表土0-20公分及20-40公分兩個不同深度分別採土；分裝於兩個容器內，依採樣深度分別裝入兩個水桶內（0-20公分裝一桶混合、20-40公分裝一桶混合）。如需詳細資訊，請參考網頁說明，網址如下：http://www.ttdares.gov.tw/view.php?catid=1999"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "06b88ea095bb305c59e1596dc5c2cdf1f3cee3fb2b9632e0ecb79c84ba6b435f",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

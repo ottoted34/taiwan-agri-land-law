@@ -1,0 +1,45 @@
+{
+ "id": "tech-9109599bd4b4",
+ "source_key": "datamoa:740:16cc9d892201da13",
+ "title": "酪梨栽培與食譜利用",
+ "series": "技術專刊",
+ "issue": "技術專刊86-4(NO.70)",
+ "agency_id": "tndais",
+ "authors": "黃和炎、李月寶",
+ "date": "1997-06",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech70.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "10頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊86-4(NO.70)",
+  "題目": "酪梨栽培與食譜利用",
+  "作者": "黃和炎、李月寶",
+  "出版日期年月": "08606",
+  "頁數": "10頁",
+  "定價": "30",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech70.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech70.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "155f6044258a8b3e33370acd6691e4f3fbfdc12627460a2e1fac544e7ef75b6c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

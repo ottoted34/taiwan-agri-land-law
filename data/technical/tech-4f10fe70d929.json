@@ -1,0 +1,42 @@
+{
+ "id": "tech-4f10fe70d929",
+ "source_key": "datamoa:809:0fa95dbfdd3f51cf",
+ "title": "臺灣北部杜鵑紅山茶開花及新梢生長習性之調查研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "許雅婷",
+ "date": "2021-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=20280&file_name=CPJggQpd3WGPlus3WTMilzSsfpOSNvPZITwzygkHpj1VvLpN9s2E7UAWGEqualPozMutmWGPlusDaKrQw8PpdGUrjFEzhHSnw1vTifnm4RlWnQnJwE2iNv6DqRXi",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "90",
+  "出版日期": "110年12月",
+  "內容": "臺灣北部杜鵑紅山茶開花及新梢生長習性之調查研究",
+  "作者": "許雅婷",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=20280&file_name=CPJggQpd3WGPlus3WTMilzSsfpOSNvPZITwzygkHpj1VvLpN9s2E7UAWGEqualPozMutmWGPlusDaKrQw8PpdGUrjFEzhHSnw1vTifnm4RlWnQnJwE2iNv6DqRXi"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "6c80318f736f4e75f6997f761630f8758280eae29c8128dff0609e75ecf6560b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "tea"
+ ]
+}

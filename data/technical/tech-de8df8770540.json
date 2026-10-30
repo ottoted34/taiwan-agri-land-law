@@ -1,0 +1,43 @@
+{
+ "id": "tech-de8df8770540",
+ "source_key": "datamoa:740:d43bd63bf93b15fa",
+ "title": "南改型蒜頭剝瓣選別分級機",
+ "series": "技術專刊",
+ "issue": "技術專刊88-5(NO.91)",
+ "agency_id": "tndais",
+ "authors": "施清田、鄭榮瑞",
+ "date": "1999-05",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech91.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "6頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊88-5(NO.91)",
+  "題目": "南改型蒜頭剝瓣選別分級機",
+  "作者": "施清田、鄭榮瑞",
+  "出版日期年月": "08805",
+  "頁數": "6頁",
+  "定價": "25",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech91.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech91.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "3e265da0bf479fc4185d6a820039fa9ae3a0acf7cc2e50dc11819db6a5925a31",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

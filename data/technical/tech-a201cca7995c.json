@@ -1,0 +1,40 @@
+{
+ "id": "tech-a201cca7995c",
+ "source_key": "datamoa:B86:0f27cf5a419baeb3",
+ "title": "在網路上發現貴單位有作蒟蒻芋的栽種研究，能否協助提供臺灣本土產的蒟蒻相關資料，包括有生產蒟蒻芋的農家及使用國產蒟蒻芋來製造成加工品的廠商？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場雖曾在20年前進行蒟蒻的栽培管理研究，但在轄區內沒有形成產業，目前並沒有進行蒟蒻芋之栽培相關研究，因此沒有蒟蒻栽培農戶與加工業者資訊可以提供，但請見諒。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "在網路上發現貴單位有作蒟蒻芋的栽種研究，能否協助提供臺灣本土產的蒟蒻相關資料，包括有生產蒟蒻芋的農家及使用國產蒟蒻芋來製造成加工品的廠商？",
+  "解答": "本場雖曾在20年前進行蒟蒻的栽培管理研究，但在轄區內沒有形成產業，目前並沒有進行蒟蒻芋之栽培相關研究，因此沒有蒟蒻栽培農戶與加工業者資訊可以提供，但請見諒。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "2c429484e6598892591bafc8015956a05eda77abac82506b5b6be1b7fbf2616b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "processing"
+ ]
+}

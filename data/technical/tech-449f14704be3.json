@@ -1,0 +1,40 @@
+{
+ "id": "tech-449f14704be3",
+ "source_key": "datamoa:809:69ac3ed8f9b80982",
+ "title": "建構農民學院課程訓練成效評核機制",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "賴信忠\n李宗樺\n戴介三",
+ "date": "2018-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19336&file_name=usDHuYW83ijcYT9P4zucDTclpXle2BsxpHXEPgUbUQWGEqualWGEqualVWFpBclWGSlashjPRRZ6tMtqT7QXpZtXAYrR4qfOOuIogiqDUjBWGPl",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "83",
+  "出版日期": "107年6月",
+  "內容": "建構農民學院課程訓練成效評核機制",
+  "作者": "賴信忠\n李宗樺\n戴介三",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19336&file_name=usDHuYW83ijcYT9P4zucDTclpXle2BsxpHXEPgUbUQWGEqualWGEqualVWFpBclWGSlashjPRRZ6tMtqT7QXpZtXAYrR4qfOOuIogiqDUjBWGPl"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "77b0401ee2cf2d1e38ae7ccc89bfa2b5ab4238cbf110bc7470d3885c7bd27deb",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

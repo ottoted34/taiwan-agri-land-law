@@ -1,0 +1,44 @@
+{
+ "id": "tech-635287d215d4",
+ "source_key": "datamoa:740:f72426dd87390b32",
+ "title": "米糆包製作技術～世界經典糆包",
+ "series": "技術專刊",
+ "issue": "技術專刊107-2(NO.170)",
+ "agency_id": "tndais",
+ "authors": "陳曉菁、王仕賢、陳豐昇、楊藹華、謝宜筠",
+ "date": "2018-07",
+ "abstract": null,
+ "url": null,
+ "isbn": "978-986-05-6482-2",
+ "gpn": "1010701159",
+ "pages": "111頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊107-2(NO.170)",
+  "題目": "米糆包製作技術～世界經典糆包",
+  "作者": "陳曉菁、王仕賢、陳豐昇、楊藹華、謝宜筠",
+  "出版日期年月": "10707",
+  "頁數": "111頁",
+  "定價": "200",
+  "政府出版品編號GPN": "1010701159",
+  "ISBN": "978-986-05-6482-2",
+  "連結位址2HTM": "https://book.tndais.gov.tw/Brochure/tech170.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "221f853600f8e843332c76d56c5a4a14501492f497e994d64cb532e1a0e062a5",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

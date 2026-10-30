@@ -1,0 +1,38 @@
+{
+ "id": "tech-1b70fe5a8ece",
+ "source_key": "datamoa:B86:380a6a3a050f4e97",
+ "title": "請問小米臺東8號500克種子可種的面積大概多少？種子處理是否要曬種？50℃水溫浸種催芽嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關您詢問本場小米推廣品種－臺東8號種子500公克，約可種植0.1公頃(1分地)的面積，乾燥的種子可直接播種不需要再進行日曬，若要進行溫湯浸種，可用55℃的溫水浸種10分鐘後，待種子晾乾後再播種，可預防小米露菌病的發生。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "請問小米臺東8號500克種子可種的面積大概多少？種子處理是否要曬種？50℃水溫浸種催芽嗎？",
+  "解答": "有關您詢問本場小米推廣品種－臺東8號種子500公克，約可種植0.1公頃(1分地)的面積，乾燥的種子可直接播種不需要再進行日曬，若要進行溫湯浸種，可用55℃的溫水浸種10分鐘後，待種子晾乾後再播種，可預防小米露菌病的發生。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "8ede5598c51c3e51b947c7d32b9f0e707e6b94473dc8dad2e27f73cf712e7022",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

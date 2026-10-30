@@ -1,0 +1,46 @@
+{
+ "id": "tech-b1e4e0ad9fcd",
+ "source_key": "datamoa:740:d5c8a6634c125ac5",
+ "title": "優質茂谷柑生產管理技術",
+ "series": "技術專刊",
+ "issue": "技術專刊98-7(NO.142)",
+ "agency_id": "tndais",
+ "authors": "張汶肇、林明瑩、卓家榮",
+ "date": "2009-11",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech142.pdf",
+ "isbn": "978-986-02-0445-2",
+ "gpn": "1009802943",
+ "pages": "37頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊98-7(NO.142)",
+  "題目": "優質茂谷柑生產管理技術",
+  "作者": "張汶肇、林明瑩、卓家榮",
+  "出版日期年月": "09811",
+  "頁數": "37頁",
+  "定價": "55",
+  "政府出版品編號GPN": "1009802943",
+  "ISBN": "978-986-02-0445-2",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech142.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "c48324c8f51b6b2e69abe871e25af9b10ae64e4f408571c743774554e0d3a7f9",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "mgmt"
+ ]
+}

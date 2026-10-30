@@ -1,0 +1,41 @@
+{
+ "id": "tech-f781195f6129",
+ "source_key": "datamoa:115:f6576913a9f95f03",
+ "title": "有關夏雪芒果種植問題，謝謝您的說明，我其它農友說明，改良場有至農有田地檢視土壤，我種在新埤打鐵的芒果確實是問題很多，可否幫忙指導。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "請李雪如老師與您聯絡，並至田間了解。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "場長室",
+  "問題": "有關夏雪芒果種植問題，謝謝您的說明，我其它農友說明，改良場有至農有田地檢視土壤，我種在新埤打鐵的芒果確實是問題很多，可否幫忙指導。   ",
+  "解答": "請李雪如老師與您聯絡，並至田間了解。  "
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "60f085d0006614a89d6dd8c4d057522783f1f6979bb07589e34b4e83d87059fb",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit",
+  "soil"
+ ]
+}

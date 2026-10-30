@@ -1,0 +1,40 @@
+{
+ "id": "tech-40eaef58aa74",
+ "source_key": "datamoa:115:027224fc00be0dbe",
+ "title": "玉文芒果已開始抽花穗, 請問有方法讓玉文的花梗變短嗎? 常常是3尺甚超過1米. 太長了導致芒果著地, 造成管理上不便。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "玉文芒果大花穗是其品種的特性，目前尚未試驗過縮短花穗的方法。無法提供正確且有效的方法，所以，若數量不多，直接利用人工剪短。如果您考量果實著地問題，果實生長期懸吊枝條，或者下年度修剪時，下位枝條剪除",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "玉文芒果已開始抽花穗, 請問有方法讓玉文的花梗變短嗎? 常常是3尺甚超過1米. 太長了導致芒果著地, 造成管理上不便。",
+  "解答": "玉文芒果大花穗是其品種的特性，目前尚未試驗過縮短花穗的方法。無法提供正確且有效的方法，所以，若數量不多，直接利用人工剪短。如果您考量果實著地問題，果實生長期懸吊枝條，或者下年度修剪時，下位枝條剪除 "
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "87542d296e1aac6894977858663e54e99c2c68360c0449699ce372f8ae22a4aa",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

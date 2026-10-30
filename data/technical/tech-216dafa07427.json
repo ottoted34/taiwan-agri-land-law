@@ -1,0 +1,38 @@
+{
+ "id": "tech-216dafa07427",
+ "source_key": "datamoa:115:aa4d336f826ca485",
+ "title": "我在農業知識入口網-農業知識家 詢問檸檬葉子捲曲問題，貴單位駐站專家指出可以索取栽培手冊.故,該如何索取檸檬栽培手冊,若附回郵信封,該附上多少郵資,或是有電子檔可以提供",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "為環保考慮強烈建議您優先下載電子檔。本場之推廣刊物皆有電子檔置放於本場網頁，\n　　您所指之檸檬栽培管理及產期調節之電子檔亦放在本場網頁，請您依所附網址 直接下載即可(https://www.kdais.gov.tw/files/kdais/web_structure/6490/292.pdf)。日後您亦可隨時至本場網頁搜尋其它相關栽培管理或植物病蟲害之防治資訊例如本場網頁→「出版刊物」→「高雄區農技報導」由列表中即可找到電子檔直接下載。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "教育資訊研究室",
+  "問題": "我在農業知識入口網-農業知識家 詢問檸檬葉子捲曲問題，貴單位駐站專家指出可以索取栽培手冊.故,該如何索取檸檬栽培手冊,若附回郵信封,該附上多少郵資,或是有電子檔可以提供",
+  "解答": "為環保考慮強烈建議您優先下載電子檔。本場之推廣刊物皆有電子檔置放於本場網頁，\n　　您所指之檸檬栽培管理及產期調節之電子檔亦放在本場網頁，請您依所附網址 直接下載即可(https://www.kdais.gov.tw/files/kdais/web_structure/6490/292.pdf)。日後您亦可隨時至本場網頁搜尋其它相關栽培管理或植物病蟲害之防治資訊例如本場網頁→「出版刊物」→「高雄區農技報導」由列表中即可找到電子檔直接下載。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "c44f2bc257bdb877185c551eebcdcee87688939ac37eaa9be8a4404ebf7f80d3",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

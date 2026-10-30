@@ -1,0 +1,40 @@
+{
+ "id": "tech-68d545bd2da9",
+ "source_key": "datamoa:B86:9377119e7de8c37a",
+ "title": "請問有沒有榴槤的種苗？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 場內目前並無繁植榴槤種苗。2. 因榴槤植株高大，易受颱風危害而析枝、倒伏，建議種植於避風處，或果園迎風面種植防風林，以減少危害。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問有沒有榴槤的種苗？",
+  "解答": "1. 場內目前並無繁植榴槤種苗。2. 因榴槤植株高大，易受颱風危害而析枝、倒伏，建議種植於避風處，或果園迎風面種植防風林，以減少危害。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "dc6fa38707f7b71fa3a7ba21e513f60c39ac41d7fac8da993f1d4839f68ab5de",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "seedling"
+ ]
+}

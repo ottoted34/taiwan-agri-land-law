@@ -1,0 +1,38 @@
+{
+ "id": "tech-dfc015c14584",
+ "source_key": "datamoa:115:150ba847787413e7",
+ "title": "芋頭採收後一直煮不爛是什麼原因？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "芋頭煮不爛是因品質劣便，農民稱為 ” 芋底 ” ，發生的原因歸納如下：\n1.施肥不當：氮肥施用過量及停止施肥時間太慢，建議在定植滿 6 個月後就不再施肥。\n2.生育後期水分管理不當：芋頭在採收前 6 週起要逐步減少水份供應，到採收前 3 週停止灌溉，若持續供水，會讓已經進入休眠的植株恢復生長，抽出新葉，造成芋頭球莖中累積的澱粉被利用掉，形成煮不爛的情形。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "旗南分場",
+  "問題": "芋頭採收後一直煮不爛是什麼原因？",
+  "解答": "芋頭煮不爛是因品質劣便，農民稱為 ” 芋底 ” ，發生的原因歸納如下：\n1.施肥不當：氮肥施用過量及停止施肥時間太慢，建議在定植滿 6 個月後就不再施肥。\n2.生育後期水分管理不當：芋頭在採收前 6 週起要逐步減少水份供應，到採收前 3 週停止灌溉，若持續供水，會讓已經進入休眠的植株恢復生長，抽出新葉，造成芋頭球莖中累積的澱粉被利用掉，形成煮不爛的情形。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "ee9b5fab2fffcea0d088bc8809c419545ffc3fbc626257108dd879fbdbb63e63",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

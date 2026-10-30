@@ -1,0 +1,38 @@
+{
+ "id": "tech-c9ddd2675950",
+ "source_key": "datamoa:B86:bc045142e95a52db",
+ "title": "有棵用avocado種子種的樹，想用人工授粉，請問該如何採集花粉？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "原則上鮮黃色圍繞一圈的是雄蕊，中間單一支雌蕊。相關照片可參考農委會酪梨主題館，網址如下，內有詳細花朵照片http://kmweb.coa.gov.tw/subject/mp.asp?mp=302",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "有棵用avocado種子種的樹，想用人工授粉，請問該如何採集花粉？",
+  "解答": "原則上鮮黃色圍繞一圈的是雄蕊，中間單一支雌蕊。相關照片可參考農委會酪梨主題館，網址如下，內有詳細花朵照片http://kmweb.coa.gov.tw/subject/mp.asp?mp=302"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "87bdea86f5a7f84b4e2a421cc91442b056777d74d401093e4ea73fa21d202a28",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

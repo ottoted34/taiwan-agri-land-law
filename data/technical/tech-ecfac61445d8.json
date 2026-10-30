@@ -1,0 +1,38 @@
+{
+ "id": "tech-ecfac61445d8",
+ "source_key": "datamoa:B86:e6e8c0682c54f6cb",
+ "title": "最近看網路資料說，萱草跟食用金針是同屬不同種，萱草學名為Hemerocallis fulva，食用金針是Hemerocallis citrina。農委會網站資訊臺灣栽培的品種為Hemerocallis fulva L.想請問是否臺灣食用的即為萱草？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 臺灣東部地區(如花蓮六十石山、花蓮赤柯山及臺東金針山)主要種植品種為Hemerocallis fulva L.，其他品種Hemerocallis citrina L.(非citrine)、Hemerocallis minor Mill、Hemerocallis flava L.等亦有栽培作花蕾加工製成乾金針使用。2. 萱草泛指包含金針菜及其同屬(Hemerocallis)的金針花(Hemerocallis sp.)在內的植物，其種類繁多，花色豔麗，除金針菜外，多做觀賞用。【聲明：本件回復內容，係就台端所述之問題，提供本場意見與建議，不供作任何證明、商業宣傳及訴訟使用。】",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "最近看網路資料說，萱草跟食用金針是同屬不同種，萱草學名為Hemerocallis fulva，食用金針是Hemerocallis citrina。農委會網站資訊臺灣栽培的品種為Hemerocallis fulva L.想請問是否臺灣食用的即為萱草？",
+  "解答": "1. 臺灣東部地區(如花蓮六十石山、花蓮赤柯山及臺東金針山)主要種植品種為Hemerocallis fulva L.，其他品種Hemerocallis citrina L.(非citrine)、Hemerocallis minor Mill、Hemerocallis flava L.等亦有栽培作花蕾加工製成乾金針使用。2. 萱草泛指包含金針菜及其同屬(Hemerocallis)的金針花(Hemerocallis sp.)在內的植物，其種類繁多，花色豔麗，除金針菜外，多做觀賞用。【聲明：本件回復內容，係就台端所述之問題，提供本場意見與建議，不供作任何證明、商業宣傳及訴訟使用。】"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "c565db4de7452dbfd55e0dd8555da00d0584cdce91b2c10d567a45b4985148d7",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,45 @@
+{
+ "id": "tech-1cf84c1f55f7",
+ "source_key": "datamoa:740:38fc98224cdf60e2",
+ "title": "農作物現代化生產技術－良質米生產",
+ "series": "技術專刊",
+ "issue": "技術專刊87-13(NO.85)",
+ "agency_id": "tndais",
+ "authors": "吳炳奇、吳文政、林國清",
+ "date": "1998-10",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech85.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "6頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊87-13(NO.85)",
+  "題目": "農作物現代化生產技術－良質米生產",
+  "作者": "吳炳奇、吳文政、林國清",
+  "出版日期年月": "08710",
+  "頁數": "6頁",
+  "定價": "25",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech85.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech85.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "2ea55879bc5520a1d16590779ae1adfd283527337e0ecbc218679eb50fd9942a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "mgmt"
+ ]
+}

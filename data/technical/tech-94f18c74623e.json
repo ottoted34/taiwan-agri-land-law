@@ -1,0 +1,40 @@
+{
+ "id": "tech-94f18c74623e",
+ "source_key": "datamoa:809:d7d865c3e1e19983",
+ "title": "稉稻重要數量性狀之基因定位研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "簡禎佑\n郭婷玫\n林順福",
+ "date": "2012-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/72-2.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "72",
+  "出版日期": "101年12月",
+  "內容": "稉稻重要數量性狀之基因定位研究",
+  "作者": "簡禎佑\n郭婷玫\n林順福",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/72-2.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "6e619fa6dbfc08109b2a48eb2a89d05ab709c0d5f769e0e5b4d26393acf30646",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

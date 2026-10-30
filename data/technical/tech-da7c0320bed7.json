@@ -1,0 +1,40 @@
+{
+ "id": "tech-da7c0320bed7",
+ "source_key": "datamoa:B86:a7bb4f2cf25d640c",
+ "title": "請問貴單位是否有釋迦果實及其葉子的Annonacin的含量數據？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場並未進行Annonacin分析試驗，無其含量之數據。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問貴單位是否有釋迦果實及其葉子的Annonacin的含量數據？",
+  "解答": "本場並未進行Annonacin分析試驗，無其含量之數據。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3af4bfed1edc48e8ff4b7f5f17c4a60c16849f7e2fe32536ed3704ca3a8e7f73",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

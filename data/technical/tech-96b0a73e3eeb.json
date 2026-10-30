@@ -36,5 +36,6 @@
  "first_seen": "2026-10-30T11:58:05+08:00",
  "topics": [
   "fruit"
- ]
+ ],
+ "source_missing_since": "2026-10-30T13:25:41+08:00"
 }

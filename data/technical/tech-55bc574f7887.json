@@ -1,0 +1,40 @@
+{
+ "id": "tech-55bc574f7887",
+ "source_key": "datamoa:809:6b183fd7f6094c3f",
+ "title": "桃園區農產加值打樣諮詢服務樣態之研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "任珮君\n何昱圻\n蘇庭逸",
+ "date": "2021-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19926&file_name=us2Sh0LKEkKNULPXuT3cJQskCStaUQ1JViPGRBAWGEqualWGEqualO5IxwPPkOz9rW6Xx1h9Wm2anUNuFg3txIReMbnHVHk0yeV48WGPl",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "89",
+  "出版日期": "110年6月",
+  "內容": "桃園區農產加值打樣諮詢服務樣態之研究",
+  "作者": "任珮君\n何昱圻\n蘇庭逸",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19926&file_name=us2Sh0LKEkKNULPXuT3cJQskCStaUQ1JViPGRBAWGEqualWGEqualO5IxwPPkOz9rW6Xx1h9Wm2anUNuFg3txIReMbnHVHk0yeV48WGPl"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "0bad9ddc8866955c7dc3c5509243c89ab1f1740840e7da9c0b326ae957a7f7bc",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

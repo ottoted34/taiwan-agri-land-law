@@ -1,0 +1,43 @@
+{
+ "id": "tech-576a0fa2ead8",
+ "source_key": "datamoa:740:773e7b494ae2c7d7",
+ "title": "黑豆台南3號的育成與推廣",
+ "series": "技術專刊",
+ "issue": "技術專刊87-5(NO.77)",
+ "agency_id": "tndais",
+ "authors": "連大進、游添榮、吳昭慧",
+ "date": "1998-06",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech77.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "6頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊87-5(NO.77)",
+  "題目": "黑豆台南3號的育成與推廣",
+  "作者": "連大進、游添榮、吳昭慧",
+  "出版日期年月": "08706",
+  "頁數": "6頁",
+  "定價": "25",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech77.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech77.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "025d1da29d96d9048373bba64920edd574583eef57027bf12cedd2c61341bc4b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

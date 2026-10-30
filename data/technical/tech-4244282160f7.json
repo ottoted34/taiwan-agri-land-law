@@ -1,0 +1,38 @@
+{
+ "id": "tech-4244282160f7",
+ "source_key": "datamoa:115:930372e849d34b42",
+ "title": "新鮮胡椒採收後如何保色?我試過:直接冷凍,殺青後冷凍,泡不同濃度鹽水,殺青後泡鹽水,常温下乾燥,最後都會變黑褐色(黑胡椒的顏色)請問:如何才能讓它維持原來的鮮綠色?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "真抱歉！本場從未進行胡椒研究，無法答覆相關問題。建議自行上網搜尋相關資料。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "場長室",
+  "問題": "新鮮胡椒採收後如何保色?我試過:直接冷凍,殺青後冷凍,泡不同濃度鹽水,殺青後泡鹽水,常温下乾燥,最後都會變黑褐色(黑胡椒的顏色)請問:如何才能讓它維持原來的鮮綠色?   ",
+  "解答": "真抱歉！本場從未進行胡椒研究，無法答覆相關問題。建議自行上網搜尋相關資料。  "
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "c6044e37b06d93bc5516d8d9dc716efd97403963cd687e37660065cc8a53f2c5",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

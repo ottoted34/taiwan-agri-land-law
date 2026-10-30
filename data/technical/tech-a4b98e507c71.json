@@ -1,0 +1,42 @@
+{
+ "id": "tech-a4b98e507c71",
+ "source_key": "datamoa:809:f95001c032b230bc",
+ "title": "栽培密度對北部地區薏苡生育與產量之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "林禎祥\n林孟輝",
+ "date": "2019-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19351&file_name=GSlashUzEyiVZh2xLWaUj1fdhwqsNTHhrKWBlkgWGEqualWGEqualmjYb2WoaFjBCiholzteQYBpV5zVuH6FZ1GRpV55zbb3sLPWyaBdNW",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "86",
+  "出版日期": "108年12月",
+  "內容": "栽培密度對北部地區薏苡生育與產量之影響 ",
+  "作者": "林禎祥\n林孟輝",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19351&file_name=GSlashUzEyiVZh2xLWaUj1fdhwqsNTHhrKWBlkgWGEqualWGEqualmjYb2WoaFjBCiholzteQYBpV5zVuH6FZ1GRpV55zbb3sLPWyaBdNW"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "f9161f5c07eb305dc81ae6bf4d640e2a4b12b31ec3823c7da48b0422bec639d8",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special"
+ ]
+}

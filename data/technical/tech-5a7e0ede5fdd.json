@@ -1,0 +1,38 @@
+{
+ "id": "tech-5a7e0ede5fdd",
+ "source_key": "datamoa:B83:215ed47f1c823886",
+ "title": "農情月刊 116",
+ "series": "農情月刊",
+ "issue": "116",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": "2009-08",
+ "abstract": null,
+ "url": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/116.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B83",
+  "title": "臺東區農業改良場農情月刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83"
+ },
+ "raw": {
+  "期別": "116",
+  "出刊時間": "200908",
+  "檔案連結": "https://www.ttdares.gov.tw/upload/ttdares/files/web_structure/1574/116.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B83",
+   "fetched_at": "2026-10-30T13:25:39+08:00"
+  }
+ ],
+ "content_hash": "486a107ba87c7cd2b4662cbc8c38a2bca1f8cfda7c466010d89d7bd03ad22351",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

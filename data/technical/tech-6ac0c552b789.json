@@ -1,0 +1,40 @@
+{
+ "id": "tech-6ac0c552b789",
+ "source_key": "datamoa:115:6c414d0b4301cd8b",
+ "title": "芒果嫁接最佳的時間，接穗如何選擇？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "1.芒果嫁接時間以3-4月及9-10月最佳。其餘時間以避免高溫多雨季節為宜。 2.以成長6-12個月的枝條最佳，太嫩的枝條不易成活，已轉成褐色的枝條則太硬不容易操作。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "芒果嫁接最佳的時間，接穗如何選擇？",
+  "解答": "1.芒果嫁接時間以3-4月及9-10月最佳。其餘時間以避免高溫多雨季節為宜。 2.以成長6-12個月的枝條最佳，太嫩的枝條不易成活，已轉成褐色的枝條則太硬不容易操作。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "23a7852e59d9d1afc207c94db9a0fbd566ea5c4b2c0f90fbb1300fc7235bd181",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

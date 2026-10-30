@@ -1,0 +1,40 @@
+{
+ "id": "tech-d1c279cbbbfc",
+ "source_key": "datamoa:115:a5c8753175f67eee",
+ "title": "我可以購買夏雪芒果樹苗一棵和蜜雪芒果一棵",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "依照政府規定，試驗改良場所研發之成果皆須技轉予業界，故此二種芒果皆已技轉予業界，煩請逕洽技轉業者購買。1.夏雪芒果－福爾摩莎公司 洪志誠先生(0932-783961)。2.蜜雪芒果－潘連進先生(0919-754319)。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "我可以購買夏雪芒果樹苗一棵和蜜雪芒果一棵",
+  "解答": "依照政府規定，試驗改良場所研發之成果皆須技轉予業界，故此二種芒果皆已技轉予業界，煩請逕洽技轉業者購買。1.夏雪芒果－福爾摩莎公司 洪志誠先生(0932-783961)。2.蜜雪芒果－潘連進先生(0919-754319)。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "e8c597f0a7ed135f96aca2ce233a41e85047987c8c1d266ef5c4f7fb4f905804",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

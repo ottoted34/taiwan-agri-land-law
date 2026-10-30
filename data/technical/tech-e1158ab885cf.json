@@ -1,0 +1,38 @@
+{
+ "id": "tech-e1158ab885cf",
+ "source_key": "datamoa:B86:4a1a9c01500b6629",
+ "title": "何處可購買貴場在數年前研發的魚腥草相關美容產品？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "魚腥草化妝水產品本場已技轉廠商生產，相關廠商聯絡電話：04-24853376 賁發股份有限公司。因已是96年技轉之廠商，產品是否有繼續生產，可能需詢問該公司。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "何處可購買貴場在數年前研發的魚腥草相關美容產品？",
+  "解答": "魚腥草化妝水產品本場已技轉廠商生產，相關廠商聯絡電話：04-24853376 賁發股份有限公司。因已是96年技轉之廠商，產品是否有繼續生產，可能需詢問該公司。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "06ba141d837e56ceaf2c0c7d724a22a0e0fc962a7f3b60df935e401ea5ab21d6",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

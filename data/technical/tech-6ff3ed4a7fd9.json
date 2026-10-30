@@ -1,0 +1,38 @@
+{
+ "id": "tech-6ff3ed4a7fd9",
+ "source_key": "datamoa:B86:87a6b10714fe9bf4",
+ "title": "索取臺東8號小米種子，及其相關種植？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場可提供少量小米－臺東8號種子供繁殖用，將依您所留下姓名、聯絡住址將小米及臺灣藜種子盡快寄送；接獲種子後請您將所附「生物材料移轉申請表」寄回，以利核銷。有關小米及臺灣藜栽培技術等相關資訊，請您於上班時間與本場作物改良課雜糧研究室聯絡，聯絡電話：089-322279。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "索取臺東8號小米種子，及其相關種植？ ",
+  "解答": "本場可提供少量小米－臺東8號種子供繁殖用，將依您所留下姓名、聯絡住址將小米及臺灣藜種子盡快寄送；接獲種子後請您將所附「生物材料移轉申請表」寄回，以利核銷。有關小米及臺灣藜栽培技術等相關資訊，請您於上班時間與本場作物改良課雜糧研究室聯絡，聯絡電話：089-322279。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "d4f03547cae1e3627f54a99396fc59cb4400f2e2515388ab35ad7c3e2f59ebcd",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

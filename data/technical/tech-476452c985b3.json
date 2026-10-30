@@ -1,0 +1,40 @@
+{
+ "id": "tech-476452c985b3",
+ "source_key": "datamoa:B86:454e0725cf2f5b47",
+ "title": "最近洛神的葉子都皺皺的，水分都足夠，是不是得病了？該如何解決？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "洛神葵葉片皺縮可能為蟲害所致，並非缺水現象，造成可能原因：蚜蟲、葉蟬類或粉介殼蟲，建議可進行蟲害防治作業，詳情可洽詢本場作物改良課園藝研究室，實際瞭解種植情形，提供確切資訊。聯絡資訊：089-325110轉634。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "最近洛神的葉子都皺皺的，水分都足夠，是不是得病了？該如何解決？",
+  "解答": "洛神葵葉片皺縮可能為蟲害所致，並非缺水現象，造成可能原因：蚜蟲、葉蟬類或粉介殼蟲，建議可進行蟲害防治作業，詳情可洽詢本場作物改良課園藝研究室，實際瞭解種植情形，提供確切資訊。聯絡資訊：089-325110轉634。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3a29cdc390aa8bc79119362c217526daa6615bff5ae5ebd3c595bc1598517b9c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special"
+ ]
+}

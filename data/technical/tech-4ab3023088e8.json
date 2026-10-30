@@ -1,0 +1,40 @@
+{
+ "id": "tech-4ab3023088e8",
+ "source_key": "datamoa:B86:b960df5b95d75008",
+ "title": "請問如何取得夏南瓜臺南x號的品種種子或種苗？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "夏南瓜臺南1-4號為臺南區農業改良場育成品種，請洽臺南區農業改良場作物改良課蔬菜研究室黃圓滿副研究員詢問如何購買種子或種苗。連絡電話：06-5912901分機539",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問如何取得夏南瓜臺南x號的品種種子或種苗？",
+  "解答": "夏南瓜臺南1-4號為臺南區農業改良場育成品種，請洽臺南區農業改良場作物改良課蔬菜研究室黃圓滿副研究員詢問如何購買種子或種苗。連絡電話：06-5912901分機539"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "4da6f3309a7c40382e8baffff73665559bcd2205e325f06cf4fcccfb967a3c5f",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "seedling"
+ ]
+}

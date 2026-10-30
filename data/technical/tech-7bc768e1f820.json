@@ -1,0 +1,43 @@
+{
+ "id": "tech-7bc768e1f820",
+ "source_key": "datamoa:740:8379b59ebfd35773",
+ "title": "農家有機廢棄資源處理與應用",
+ "series": "技術專刊",
+ "issue": "技術專刊87-9(NO.81)",
+ "agency_id": "tndais",
+ "authors": "李月寶",
+ "date": "1998-10",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech81.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": "10頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊87-9(NO.81)",
+  "題目": "農家有機廢棄資源處理與應用",
+  "作者": "李月寶",
+  "出版日期年月": "08710",
+  "頁數": "10頁",
+  "定價": "30",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech81.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech81.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "b29e9cbca1ad37d3232dd6eaaa076a4113dc776f99687395133f320e159b85e9",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

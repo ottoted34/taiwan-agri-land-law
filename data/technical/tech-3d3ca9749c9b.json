@@ -1,0 +1,42 @@
+{
+ "id": "tech-3d3ca9749c9b",
+ "source_key": "datamoa:809:3fb8e83469d45628",
+ "title": "曳引機附掛甘藷去藤收穫一貫作業機之研發",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "邱銀珍\n黃柏昇",
+ "date": "2019-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19355&file_name=efr6lv939ZmDlXbNWGSlashPp2punVf1xjWGPlustXdsgWGEqualWGEqualAQdEsc9ootS1qaHw3PSUtT58suvcACA2gFcWGSlashZHZibeHHd9dYMGrf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "86",
+  "出版日期": "108年12月",
+  "內容": "曳引機附掛甘藷去藤收穫一貫作業機之研發",
+  "作者": "邱銀珍\n黃柏昇",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19355&file_name=efr6lv939ZmDlXbNWGSlashPp2punVf1xjWGPlustXdsgWGEqualWGEqualAQdEsc9ootS1qaHw3PSUtT58suvcACA2gFcWGSlashZHZibeHHd9dYMGrf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "450f72cbc1092d43f24601d7738073998f6133c6d0252acc70baf10e225f2026",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "grain"
+ ]
+}

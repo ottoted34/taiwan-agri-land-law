@@ -1,0 +1,43 @@
+{
+ "id": "tech-0b4760d0d107",
+ "source_key": "datamoa:809:9520431589013793",
+ "title": "整合地下水、雨水及臭氧殺菌之溫網室灌溉水處理系統設計",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "吳有恒",
+ "date": "2015-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19309&file_name=cbStvsDJYgmWGPlusLw7DRyUDWw2TBnYcXgoYUfTe4EFPI67JfTNa7C5ZUWGEqualvXBbhSmJmQY4IaCLQNsw3WGPluswVWGSlashDbLvYi9pS6cTGE2rg0h80rO1KJ4M9",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "78",
+  "出版日期": "104年12月",
+  "內容": "整合地下水、雨水及臭氧殺菌之溫網室灌溉水處理系統設計",
+  "作者": "吳有恒 ",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19309&file_name=cbStvsDJYgmWGPlusLw7DRyUDWw2TBnYcXgoYUfTe4EFPI67JfTNa7C5ZUWGEqualvXBbhSmJmQY4IaCLQNsw3WGPluswVWGSlashDbLvYi9pS6cTGE2rg0h80rO1KJ4M9"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "b5fa4b713304809043f398f35bb49c4f012cb4782ad8ebd95951f388ad03571e",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "greenhouse_t",
+  "irrigation"
+ ]
+}

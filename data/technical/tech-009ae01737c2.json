@@ -1,0 +1,40 @@
+{
+ "id": "tech-009ae01737c2",
+ "source_key": "datamoa:809:bc016ace41059051",
+ "title": "台灣假山藥薯(Dioscorea persimilis Prain & Burkill)植株性狀遺傳變異研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "龔財立 \n林順福",
+ "date": "2015-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19307&file_name=HlWGPluslZlTtoB3i4OD3GTsxQfTbIUFF9bPXCjMcEXkWGSlashqM2mFIhHkeve3akdXuDeykU5NKHxUFHEXdTeapQD704CVAQfedUvviHJjCv9dNrXWGPlusHLvF75gQWGPlusbZrIspW74WLJGJ",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "78",
+  "出版日期": "104年12月",
+  "內容": "台灣假山藥薯(Dioscorea persimilis Prain & Burkill)植株性狀遺傳變異研究",
+  "作者": "龔財立 \n林順福 ",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19307&file_name=HlWGPluslZlTtoB3i4OD3GTsxQfTbIUFF9bPXCjMcEXkWGSlashqM2mFIhHkeve3akdXuDeykU5NKHxUFHEXdTeapQD704CVAQfedUvviHJjCv9dNrXWGPlusHLvF75gQWGPlusbZrIspW74WLJGJ"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "27945b8411dd4ad212a0fc07202b9664e9f6a17b6aa855b5b8437f98abb73189",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

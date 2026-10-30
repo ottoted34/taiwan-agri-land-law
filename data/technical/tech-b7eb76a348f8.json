@@ -1,0 +1,42 @@
+{
+ "id": "tech-b7eb76a348f8",
+ "source_key": "datamoa:809:7331e1b058976a09",
+ "title": "播種期對臺灣北部地區大豆生育及產量之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "林禎祥\n楊采文\n林孟輝",
+ "date": "2019-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19342&file_name=9EfBnIfGQWGSlashdyj17HorsWGSlashaUHUWGSlashTrv1t0HngcgWGEqualWGEqualTSpwr2aoekbfo92KAWGPlusHYuT43amIDCZ4pk2Trqq078MKd0xWGSlashWWGSlashj",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "85",
+  "出版日期": "108年6月",
+  "內容": "播種期對臺灣北部地區大豆生育及產量之影響",
+  "作者": "林禎祥\n楊采文\n林孟輝",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19342&file_name=9EfBnIfGQWGSlashdyj17HorsWGSlashaUHUWGSlashTrv1t0HngcgWGEqualWGEqualTSpwr2aoekbfo92KAWGPlusHYuT43amIDCZ4pk2Trqq078MKd0xWGSlashWWGSlashj"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "f2faaa26ebf8bbe3e5727d79c4fedc3b8a3965977d72d74cd976b6934dbbf0ab",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "grain"
+ ]
+}

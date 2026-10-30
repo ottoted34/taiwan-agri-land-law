@@ -1,0 +1,40 @@
+{
+ "id": "tech-bba8eb8ad3cd",
+ "source_key": "datamoa:B86:dbe49d2fcf177358",
+ "title": "請問貴場「可附掛小型搬運施肥機」 如何購買及價格多少錢？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "請逕洽技轉廠商 郡野實業有限公司，電話 07-6142600。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問貴場「可附掛小型搬運施肥機」 如何購買及價格多少錢？",
+  "解答": "請逕洽技轉廠商 郡野實業有限公司，電話 07-6142600。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "46b1ae153d55048e1c224fcfa13045a0ce86659c37f6c1edc960951cb17588d3",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "soil"
+ ]
+}

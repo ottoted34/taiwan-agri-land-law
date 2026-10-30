@@ -1,0 +1,40 @@
+{
+ "id": "tech-023599270c2f",
+ "source_key": "datamoa:809:ce201fa3322c1593",
+ "title": "利用形態性狀及RAPD、ISSR 分子標誌探討馬祖東引地區換錦石蒜(Lycoris sprengeri)種原歧異度",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "蔣順惠\n葉志新\n蔡錫鍊\n曹爾元\n廖芳心\n傅仰人",
+ "date": "2012-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/72-3.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "72",
+  "出版日期": "101年12月",
+  "內容": "利用形態性狀及RAPD、ISSR 分子標誌探討馬祖東引地區換錦石蒜(Lycoris sprengeri)種原歧異度",
+  "作者": "蔣順惠\n葉志新\n蔡錫鍊\n曹爾元\n廖芳心\n傅仰人",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/72-3.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "924b07fa69937f9a923ac4352a85f5516bcbf737d7572460e3a444d6fc7895b6",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-40d9c9c058e3",
+ "source_key": "datamoa:809:f4d2c1a23c1a9f68",
+ "title": "強烈寒流對桶柑及茂谷柑果實損害及貯藏性之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "施伯明",
+ "date": "2017-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19328&file_name=NhHsVnY9vWGPlus19BEyARBjK5n1E8TdJyyxtpPJaND23nqCv5TSjigWGEqualbMdkYdeb7TBHHhJz9hfFSWFut6p3fwNZ7CdAYKLWGPlusYSGOnbONxcUKCREaL",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "82",
+  "出版日期": "106年12月",
+  "內容": "強烈寒流對桶柑及茂谷柑果實損害及貯藏性之影響",
+  "作者": "施伯明",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19328&file_name=NhHsVnY9vWGPlus19BEyARBjK5n1E8TdJyyxtpPJaND23nqCv5TSjigWGEqualbMdkYdeb7TBHHhJz9hfFSWFut6p3fwNZ7CdAYKLWGPlusYSGOnbONxcUKCREaL"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "6b124029677b045e489defcefc4f23070684cab012c885a867036af9b83e34b3",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-b37279491517",
+ "source_key": "datamoa:B86:6a194cf0870ed36d",
+ "title": "請教教學「無硫加工術」？(麻竹筍用)",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場改良之金針無硫加工技術與作物品種金針菜臺東7號加工適性有絕對關係，此品種本身非常適合製作無硫加工之乾金針，因此本場對此進行研究及技術改良，而在竹筍方面並未進行研究，很抱歉無法進行技術指導，提供臺灣農家要覽之傳統筍乾製作方法供參，中興大學食品科學系食品加工研究室江伯源副教授（http://web.nchu.edu.tw/~py38554/index.html）曾進行竹筍相關研究，建議您向江老師請教。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "請教教學「無硫加工術」？(麻竹筍用)",
+  "解答": "本場改良之金針無硫加工技術與作物品種金針菜臺東7號加工適性有絕對關係，此品種本身非常適合製作無硫加工之乾金針，因此本場對此進行研究及技術改良，而在竹筍方面並未進行研究，很抱歉無法進行技術指導，提供臺灣農家要覽之傳統筍乾製作方法供參，中興大學食品科學系食品加工研究室江伯源副教授（http://web.nchu.edu.tw/~py38554/index.html）曾進行竹筍相關研究，建議您向江老師請教。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "a99249c4ebd4102772451f6b0b79a68c2519fb91b2e87f06b423d7db61d9c6fd",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "processing"
+ ]
+}

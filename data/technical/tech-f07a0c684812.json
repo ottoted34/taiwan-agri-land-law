@@ -1,0 +1,38 @@
+{
+ "id": "tech-f07a0c684812",
+ "source_key": "datamoa:B86:e090b94b011d860a",
+ "title": "請問貴場是否有黃豆脫粒機的廠商資訊？何處可租借到黃豆脫粒機？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "可逕洽穀物脫粒設備生產者，右豐實業04-25625365。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問貴場是否有黃豆脫粒機的廠商資訊？何處可租借到黃豆脫粒機？",
+  "解答": "可逕洽穀物脫粒設備生產者，右豐實業04-25625365。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "084f27da162b131be0c9268e329894d67a5e617fe00cd7fea9459d6feb222c87",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

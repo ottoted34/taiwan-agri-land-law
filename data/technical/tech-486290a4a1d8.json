@@ -1,0 +1,40 @@
+{
+ "id": "tech-486290a4a1d8",
+ "source_key": "datamoa:115:3f3cf5dcf78a8bc9",
+ "title": "土壤檢驗之後土壤偏鹼性7.95，鈣質含量也高4133ppm，有何改善方式？或將土壤移除",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "您好:這樣子的土壤很普遍，不用移除，只要注意以後的施肥便可。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "土壤肥料研究室",
+  "問題": "土壤檢驗之後土壤偏鹼性7.95，鈣質含量也高4133ppm，有何改善方式？或將土壤移除",
+  "解答": "您好:這樣子的土壤很普遍，不用移除，只要注意以後的施肥便可。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "23920e28604c1213fe223b8175d55c19115f90a195d036bf98b6d6709c1cdcb1",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "soil"
+ ]
+}

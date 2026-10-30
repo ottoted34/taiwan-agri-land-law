@@ -1,0 +1,38 @@
+{
+ "id": "tech-72f305e29d98",
+ "source_key": "datamoa:B86:e6b2239722d78387",
+ "title": "請問小型微電腦語音蔬果重量分級秤何處可購得？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "請逕洽製造廠商華興農機有限公司05-2611309，豐洲企業有限公司05-2269667，或統農機械有限公司04-22787119詢問當地經銷資訊。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問小型微電腦語音蔬果重量分級秤何處可購得？",
+  "解答": "請逕洽製造廠商華興農機有限公司05-2611309，豐洲企業有限公司05-2269667，或統農機械有限公司04-22787119詢問當地經銷資訊。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "347249cf76e534b999ea57645338305eaebd9f0be06a638bd171e6db6946db78",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

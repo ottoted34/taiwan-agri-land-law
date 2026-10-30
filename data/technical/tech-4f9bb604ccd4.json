@@ -1,0 +1,40 @@
+{
+ "id": "tech-4f9bb604ccd4",
+ "source_key": "datamoa:115:93714b26ed4f9076",
+ "title": "1：請問番茄萎凋病的鐮胞菌不會感染茄子 ，那是不是利用茄子鉆木嫁接番茄便能抗番茄萎凋病？2：有發生番茄萎凋病的田地能種洋香瓜嗎?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "有關您提到的問題，是否利用茄子砧木嫁接番茄便能抗番茄萎凋病？因番茄萎凋病並不會感染茄子，故的確可應用嫁接的策略來進行病害控制。\n雖然番茄萎凋病不會感染洋香瓜，但還是建議您在種植洋香瓜前先進行土壤消毒與整地，因土壤中仍可能有其他病原，例如根瘤線蟲，保持土壤健康，才是病害防治之良策。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "植物保護研究室",
+  "問題": "1：請問番茄萎凋病的鐮胞菌不會感染茄子 ，那是不是利用茄子鉆木嫁接番茄便能抗番茄萎凋病？2：有發生番茄萎凋病的田地能種洋香瓜嗎?",
+  "解答": "有關您提到的問題，是否利用茄子砧木嫁接番茄便能抗番茄萎凋病？因番茄萎凋病並不會感染茄子，故的確可應用嫁接的策略來進行病害控制。\n雖然番茄萎凋病不會感染洋香瓜，但還是建議您在種植洋香瓜前先進行土壤消毒與整地，因土壤中仍可能有其他病原，例如根瘤線蟲，保持土壤健康，才是病害防治之良策。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "dec1c199b031a1decccdec4033a1699c0eccfddf554df6df76953bc07ad96437",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "vegetable"
+ ]
+}

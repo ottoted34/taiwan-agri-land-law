@@ -1,0 +1,42 @@
+{
+ "id": "tech-904d300d0f60",
+ "source_key": "datamoa:809:15e71a35f63bfce5",
+ "title": "北部地區青年農民蔬菜產業經營管理能力與需求程度關聯之研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "傅智麟 \n張志展 \n李金玲 \n賴信忠",
+ "date": "2017-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19325&file_name=7tjY8bcrTyciIK5ssUqWGSlashBoBUMd2EgsEsiuCAaPwdfAAPFHSBbN0mQvOwfXswmxg4VhJe8HbEw7gKWpEgCHhHZtwMcgodOcvcM623S6VBws4muWeLTIi6XhjDKegeNJRt",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "81",
+  "出版日期": "106年6月",
+  "內容": "北部地區青年農民蔬菜產業經營管理能力與需求程度關聯之研究",
+  "作者": "傅智麟 \n張志展 \n李金玲 \n賴信忠",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19325&file_name=7tjY8bcrTyciIK5ssUqWGSlashBoBUMd2EgsEsiuCAaPwdfAAPFHSBbN0mQvOwfXswmxg4VhJe8HbEw7gKWpEgCHhHZtwMcgodOcvcM623S6VBws4muWeLTIi6XhjDKegeNJRt"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "3d11fbe6727c644febc8bc046da23295bdb028c33b0c443b15e46d2dd4ec3374",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "vegetable"
+ ]
+}

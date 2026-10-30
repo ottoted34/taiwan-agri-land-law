@@ -1,0 +1,38 @@
+{
+ "id": "tech-9d30e6a39e00",
+ "source_key": "datamoa:115:8cf34596ae374944",
+ "title": "割草機久未使用而造成發不動的情形，是什麼問題?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "割草機在久未使用的情況下發不動，可能的原因是有殘留汽油，汽油會蒸發造成油垢或殘留沉澱物，使油嘴堵塞，所以才會發不動。割草機若長久未使用，應將汽油用完，包括化油器裡的油，若用不完可倒出來，化油器則是轉動底部的洩油螺絲將油放光。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "農業機械研究室",
+  "問題": "割草機久未使用而造成發不動的情形，是什麼問題?",
+  "解答": "割草機在久未使用的情況下發不動，可能的原因是有殘留汽油，汽油會蒸發造成油垢或殘留沉澱物，使油嘴堵塞，所以才會發不動。割草機若長久未使用，應將汽油用完，包括化油器裡的油，若用不完可倒出來，化油器則是轉動底部的洩油螺絲將油放光。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "35b0113940cf4f98f287378a16dc2b27381033ab3b5015c6c335412e6c0a6b81",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

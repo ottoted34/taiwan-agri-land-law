@@ -1,0 +1,47 @@
+{
+ "id": "tech-7a89c93a7f85",
+ "source_key": "datamoa:740:e0f1cdaf744f33fb",
+ "title": "芒果合理化施肥技術",
+ "series": "技術專刊",
+ "issue": "技術專刊98-6(NO.141)",
+ "agency_id": "tndais",
+ "authors": "張錦興、卓家榮、鄭安秀、林明瑩",
+ "date": "2009-11",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech141.pdf",
+ "isbn": "978-986-02-0586-2",
+ "gpn": "1009802960",
+ "pages": "20頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊98-6(NO.141)",
+  "題目": "芒果合理化施肥技術",
+  "作者": "張錦興、卓家榮、鄭安秀、林明瑩",
+  "出版日期年月": "09811",
+  "頁數": "20頁",
+  "定價": "45",
+  "政府出版品編號GPN": "1009802960",
+  "ISBN": "978-986-02-0586-2",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech141.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "eb9a3915a6ef9686f16d88ca3643bb5dee3c9f14073d9c632669b3a285b2cdd4",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit",
+  "soil"
+ ]
+}

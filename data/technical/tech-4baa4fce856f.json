@@ -1,0 +1,38 @@
+{
+ "id": "tech-4baa4fce856f",
+ "source_key": "datamoa:115:967c348d3462fc36",
+ "title": "農用柴油引擎作動時排氣顏色不正常，是什麼原因?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "不正常的排氣會排出白煙、黑煙、藍煙、灰煙；排放白煙代表燃油中含有水氣；黑煙則是燃燒不完全，如噴出的高壓油沒有霧化或是燃油過濃都可能造成燃燒不完全；藍煙是機油因引擎迴轉部分磨耗而混入燃油一起燃燒所導致；灰煙則是黑煙與藍煙混合的產物，冷卻不足而過熱。若是因燃油沒有霧化而燃燒不完全，應清洗噴油嘴，並檢查機油是否符合機油量桿指示的油面，請勿超過負載。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "農業機械研究室",
+  "問題": "農用柴油引擎作動時排氣顏色不正常，是什麼原因?",
+  "解答": "不正常的排氣會排出白煙、黑煙、藍煙、灰煙；排放白煙代表燃油中含有水氣；黑煙則是燃燒不完全，如噴出的高壓油沒有霧化或是燃油過濃都可能造成燃燒不完全；藍煙是機油因引擎迴轉部分磨耗而混入燃油一起燃燒所導致；灰煙則是黑煙與藍煙混合的產物，冷卻不足而過熱。若是因燃油沒有霧化而燃燒不完全，應清洗噴油嘴，並檢查機油是否符合機油量桿指示的油面，請勿超過負載。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "fdf309267a2fe91584ca15acafac3b24664349332819879187314a61823f46e4",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

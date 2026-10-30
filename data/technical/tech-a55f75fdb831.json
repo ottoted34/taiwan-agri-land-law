@@ -1,0 +1,38 @@
+{
+ "id": "tech-a55f75fdb831",
+ "source_key": "datamoa:B86:fd810a4996669209",
+ "title": "最近關山人工濕地園區中有幾株樹木枯死，下方長出靈芝，是否有可能罹患褐根病？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "造成樹木枯死的可能因素繁雜，因樹種而有所差異；若樹木枯死且生成靈芝菌，感染褐根病的可能性不大，仍需現場診斷後方可確認。若有其他疑問請逕洽本場植物保護研究室（089-325015）或洽各區病蟲害診斷服務站（免付費專線電話：0800-069-880）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "最近關山人工濕地園區中有幾株樹木枯死，下方長出靈芝，是否有可能罹患褐根病？",
+  "解答": "造成樹木枯死的可能因素繁雜，因樹種而有所差異；若樹木枯死且生成靈芝菌，感染褐根病的可能性不大，仍需現場診斷後方可確認。若有其他疑問請逕洽本場植物保護研究室（089-325015）或洽各區病蟲害診斷服務站（免付費專線電話：0800-069-880）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "aaa1f160cbb72c5eef2ec439f1bf4233907f61c4fe79dafc33bbeaac626f95e6",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

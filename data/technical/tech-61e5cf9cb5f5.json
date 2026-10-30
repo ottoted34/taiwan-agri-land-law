@@ -1,0 +1,38 @@
+{
+ "id": "tech-61e5cf9cb5f5",
+ "source_key": "datamoa:115:08e75679e0009433",
+ "title": "我想種台灣香檬(有人說山柑仔)果子像金桔表皮較粗糙，貴所有台灣香檬種子或枝條(扦插會活嗎?)嗎?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "本所並無台灣香檬種子,至於枝條扦插並不容易成活.本轄區永信生產合作社邱永豐主席有販售苗木,請逕行聯絡,08-7221602,0912-746576",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "場長室",
+  "問題": "我想種台灣香檬(有人說山柑仔)果子像金桔表皮較粗糙，貴所有台灣香檬種子或枝條(扦插會活嗎?)嗎?   ",
+  "解答": "本所並無台灣香檬種子,至於枝條扦插並不容易成活.本轄區永信生產合作社邱永豐主席有販售苗木,請逕行聯絡,08-7221602,0912-746576  "
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "22fd213d46d24891da54e409e43ca27cd1dca9c04087f7f573125e02375884d3",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

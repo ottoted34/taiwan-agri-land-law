@@ -1,0 +1,38 @@
+{
+ "id": "tech-c4d0aee71693",
+ "source_key": "datamoa:115:cc1729d3deb99902",
+ "title": "貴場在推廣棗園草生栽培請問草種要那裡買呢？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "麻煩請您直接與作物環境課土肥研究室張耀聰副研究員聯繫 (08-7746767)",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "教育資訊研究室",
+  "問題": "貴場在推廣棗園草生栽培請問草種要那裡買呢？",
+  "解答": "麻煩請您直接與作物環境課土肥研究室張耀聰副研究員聯繫 (08-7746767)"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "7ba29e9e2e4fb4817ecac5b6314950335fde36c378c733901931be9cf3f91a74",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

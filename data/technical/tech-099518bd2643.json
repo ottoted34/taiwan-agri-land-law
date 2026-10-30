@@ -1,0 +1,38 @@
+{
+ "id": "tech-099518bd2643",
+ "source_key": "datamoa:B86:db0764931bbd2d4c",
+ "title": "(1)臺灣目前種植黑豆區域分佈？(2)臺東地區是否適合種植黑豆？種植時期為何？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "黑豆依子實特性可分青仁黑豆及黃仁黑豆，生長與開花之適合溫度為20℃至30℃，栽培地區以雲嘉南地區最多。土壤條件以富含有機質砂質壤土或壤土，酸鹼值在pH6.0~7.0之間為宜，播種適期於春作為1月下旬至2月上旬，夏作為6~7月，秋作為8月中旬~10月。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "(1)臺灣目前種植黑豆區域分佈？(2)臺東地區是否適合種植黑豆？種植時期為何？",
+  "解答": "黑豆依子實特性可分青仁黑豆及黃仁黑豆，生長與開花之適合溫度為20℃至30℃，栽培地區以雲嘉南地區最多。土壤條件以富含有機質砂質壤土或壤土，酸鹼值在pH6.0~7.0之間為宜，播種適期於春作為1月下旬至2月上旬，夏作為6~7月，秋作為8月中旬~10月。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "eb21ae52390dd0bb5b6eef78d85b260b271919f397a70443cb428c20e234e622",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

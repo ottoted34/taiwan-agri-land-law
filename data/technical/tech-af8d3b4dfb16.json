@@ -1,0 +1,39 @@
+{
+ "id": "tech-af8d3b4dfb16",
+ "source_key": "datamoa:D97:182beb05481b42d8",
+ "title": "技術專刊 41",
+ "series": "技術專刊",
+ "issue": "41",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": null,
+ "url": "https://www.ttdares.gov.tw/ws.php?id=3448",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "D97",
+  "title": "臺東區農業改良場技術專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97"
+ },
+ "raw": {
+  "期別": "41",
+  "出刊年月": "201006",
+  "期刊名稱": "番荔枝生產管理手冊",
+  "檔案連結": "https://www.ttdares.gov.tw/ws.php?id=3448"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=D97",
+   "fetched_at": "2026-10-30T13:25:37+08:00"
+  }
+ ],
+ "content_hash": "5c7180d78fec07a086fb9fb5cda0c8f0a4e4a6033d5d71966a695c8ad9de52a2",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

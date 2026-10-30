@@ -1,0 +1,38 @@
+{
+ "id": "tech-ed8b9cf02694",
+ "source_key": "datamoa:B86:62d65200f0fae5ce",
+ "title": "請問有胭脂樹的種子可索取嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場胭脂樹豆種子因數量有限，僅能酌量提供，請留下聯絡地址，本場將為您寄送；收到種子後，並請回傳生物材料移轉單，以利核銷。2. 有關栽培管理技術方面，請洽本場作物改良課園藝研究室，電話：089-325110轉634。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "請問有胭脂樹的種子可索取嗎？",
+  "解答": "1. 本場胭脂樹豆種子因數量有限，僅能酌量提供，請留下聯絡地址，本場將為您寄送；收到種子後，並請回傳生物材料移轉單，以利核銷。2. 有關栽培管理技術方面，請洽本場作物改良課園藝研究室，電話：089-325110轉634。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "dbdf23ba56b9f5c06bb47c2183d1ccfee605bf0c4aa3f0dbfacd3e922c4f6b14",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

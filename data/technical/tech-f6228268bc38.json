@@ -1,0 +1,38 @@
+{
+ "id": "tech-f6228268bc38",
+ "source_key": "datamoa:115:a387e2c0aeeec447",
+ "title": "請問長治鄉黃永岡先生，種植的有機甜龍筍，不知 貴部是否有他的電話及地址？因想要種植這產品銷售",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "本場無該農民之資料，煩請您洽問屏東縣長治鄉農會(推廣股08-7385107)試試看",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "農業經營研究室",
+  "問題": "請問長治鄉黃永岡先生，種植的有機甜龍筍，不知 貴部是否有他的電話及地址？因想要種植這產品銷售",
+  "解答": "本場無該農民之資料，煩請您洽問屏東縣長治鄉農會(推廣股08-7385107)試試看"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "a93dc4a2c052acf0d535235edfd296f5d7cd1f29ee6adb1a61d0ef64a9946d87",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

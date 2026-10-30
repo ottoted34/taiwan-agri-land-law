@@ -1,0 +1,42 @@
+{
+ "id": "tech-98a5eaa2b883",
+ "source_key": "datamoa:875:13ff9f2ca47117f7",
+ "title": "第四篇第一章　農業化學研究-土壤肥料",
+ "series": "建場百週年紀念專刊",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": "2002-10-24",
+ "abstract": null,
+ "url": "https://www.kdais.gov.tw/upload/kdais/files/web_structure/418/k100-04a.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "875",
+  "title": "高雄區農業改良場建場百週年紀念專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=875"
+ },
+ "raw": {
+  "標題": "第四篇第一章　農業化學研究-土壤肥料",
+  "刊物網址": "https://www.kdais.gov.tw/upload/kdais/files/web_structure/418/k100-04a.pdf",
+  "檔案類型": "PDF",
+  "資料日期": "2002-10-24"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=875",
+   "fetched_at": "2026-10-30T13:25:33+08:00"
+  }
+ ],
+ "content_hash": "f60be98f3e49c36720ea8c1b5699226aafe901e961ee4079d05f3b5945b27547",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "materials",
+  "soil"
+ ]
+}

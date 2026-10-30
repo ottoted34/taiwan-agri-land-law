@@ -1,0 +1,38 @@
+{
+ "id": "tech-7f6b197acc6e",
+ "source_key": "datamoa:B86:60ea582f41a7b871",
+ "title": "種植紅藜技術和支援？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關臺灣藜種植技術可先至臺東區農業改良場網站（http://www.ttdares.gov.tw）－出版刊物介紹中瀏覽。詳細技術指導及支援，歡迎台端直接至本場詢問及參訪，亦可以聯繫雜糧研究室（089-322279）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "種植紅藜技術和支援？",
+  "解答": "有關臺灣藜種植技術可先至臺東區農業改良場網站（http://www.ttdares.gov.tw）－出版刊物介紹中瀏覽。詳細技術指導及支援，歡迎台端直接至本場詢問及參訪，亦可以聯繫雜糧研究室（089-322279）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "f73f7f534fd1dab71d9b0185146d020fc5d6c9e7e50313b79ccb1ed8fee317e3",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

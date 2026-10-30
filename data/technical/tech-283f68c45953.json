@@ -1,0 +1,40 @@
+{
+ "id": "tech-283f68c45953",
+ "source_key": "datamoa:809:c9fa689bf61ab46e",
+ "title": "利用重組自交系族群定位稉稻脫粒性與穗上發芽相關之基因",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "簡禎佑\n郭婷玫\n林孟輝\n林順福",
+ "date": "2014-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/76-2.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "76",
+  "出版日期": "103年12月",
+  "內容": "利用重組自交系族群定位稉稻脫粒性與穗上發芽相關之基因",
+  "作者": "簡禎佑\n郭婷玫\n林孟輝\n林順福",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/76-2.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "39795251460aeebe1765e95d8004afa1e51f47232b20d79043cd03f499e2f2cc",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

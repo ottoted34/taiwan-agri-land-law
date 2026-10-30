@@ -1,0 +1,40 @@
+{
+ "id": "tech-48978c3dd2f4",
+ "source_key": "datamoa:B86:27b00af85d963e8b",
+ "title": "休耕想種植樹豆為綠肥，請問8公頃休耕地需要多少種子，所需費用為何？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "目前市售樹豆600公克市價300元以上，大面積休耕田種植綠肥請考慮其他綠肥作物，例如綠肥大豆、田菁、太陽麻等綠肥作物，以節省成本。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "休耕想種植樹豆為綠肥，請問8公頃休耕地需要多少種子，所需費用為何？",
+  "解答": "目前市售樹豆600公克市價300元以上，大面積休耕田種植綠肥請考慮其他綠肥作物，例如綠肥大豆、田菁、太陽麻等綠肥作物，以節省成本。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "6af3beef61fcc1b0f4c6a1e334f054d241585d9ab5e677b0bf854ad41615d637",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "rotation"
+ ]
+}

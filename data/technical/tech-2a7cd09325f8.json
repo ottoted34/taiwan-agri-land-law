@@ -1,0 +1,40 @@
+{
+ "id": "tech-2a7cd09325f8",
+ "source_key": "datamoa:115:44bdbac54dd08ce2",
+ "title": "請問青木瓜採收有訣竅嗎？我採青木瓜外表綠色的但是裡面都紅了，請問外面可以分別紅，白色的嗎？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "如果是青木瓜目前沒有方法可以從果實外觀觀察果肉顏色。可以做的方法是在果實結果初期標記日期，果實發育日數100-110天以內，果肉大概還沒轉色，不過這與季節有關，夏季會比冬季快轉色，這還是要請您自行觀察。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "請問青木瓜採收有訣竅嗎？我採青木瓜外表綠色的但是裡面都紅了，請問外面可以分別紅，白色的嗎？",
+  "解答": "如果是青木瓜目前沒有方法可以從果實外觀觀察果肉顏色。可以做的方法是在果實結果初期標記日期，果實發育日數100-110天以內，果肉大概還沒轉色，不過這與季節有關，夏季會比冬季快轉色，這還是要請您自行觀察。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "f0a79baef28be1c36b294afca030a75117368441b91a655be3ca26305860b98a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

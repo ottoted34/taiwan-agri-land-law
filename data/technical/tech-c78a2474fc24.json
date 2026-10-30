@@ -1,0 +1,40 @@
+{
+ "id": "tech-c78a2474fc24",
+ "source_key": "datamoa:115:69a1d7d46fe4a5a8",
+ "title": "如何預防火鶴花冬季寒流及夏季高溫障礙？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "冬季應避免15℃以下的低溫，否則易發生寒害，因此寒流來襲時，可於網室四周圍上活動式塑膠布，以保持網室內溫度不會繼續下降。夏季溫度勿超過35℃，否則會造成葉燒、苞片褪色及花鼻心變形，降低花朵品質及瓶插壽命，此時可利用微霧及循環風扇達到降溫效果。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "花卉研究室",
+  "問題": "如何預防火鶴花冬季寒流及夏季高溫障礙？",
+  "解答": "冬季應避免15℃以下的低溫，否則易發生寒害，因此寒流來襲時，可於網室四周圍上活動式塑膠布，以保持網室內溫度不會繼續下降。夏季溫度勿超過35℃，否則會造成葉燒、苞片褪色及花鼻心變形，降低花朵品質及瓶插壽命，此時可利用微霧及循環風扇達到降溫效果。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "844785b2fff5acc2b97d35101ccdd18ca844d27c7c146ad623ec4ccf944c7d7e",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

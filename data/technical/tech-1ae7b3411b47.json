@@ -1,0 +1,38 @@
+{
+ "id": "tech-1ae7b3411b47",
+ "source_key": "datamoa:B86:cc49bf7fa9abc225",
+ "title": "請問有水田中耕除草機技轉廠商連絡方式嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場技轉業者： 清旺工業股份有限公司 07-7883324 / 昶維工業有限公司 07-7315235",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問有水田中耕除草機技轉廠商連絡方式嗎？",
+  "解答": "本場技轉業者： 清旺工業股份有限公司 07-7883324 / 昶維工業有限公司 07-7315235"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "ea796ff1ed9ac10209ac8b26c574a7a03958d07d6022ea5301ffe070a7e96fc4",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

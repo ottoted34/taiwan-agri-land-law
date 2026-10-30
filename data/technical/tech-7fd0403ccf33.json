@@ -1,0 +1,40 @@
+{
+ "id": "tech-7fd0403ccf33",
+ "source_key": "datamoa:115:c3f43682a9b0511c",
+ "title": "貴場有建立蘭花雜交育種技術平台，請問其運作模式？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "蘭花雜交育種技術平台主要的任務是協助台灣蘭花業者克服具雜交障礙的蘭花雜交組合，業者僅需將選定的開花親本攜至本場，本場專責人員協助完成雜交並獲得雜交後代瓶苗後，整批瓶苗經本場研管小組及農委會智審會核可後，即可有償讓與給業界利用。若無法獲得雜交後代，則業界不用負擔任何費用，本場歸還親本，本場對於業者提供的親本有保管之責。不過目前此平台僅針對蘭科萬代蘭族成員的屬間或屬內雜交。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "花卉研究室",
+  "問題": "貴場有建立蘭花雜交育種技術平台，請問其運作模式？",
+  "解答": "蘭花雜交育種技術平台主要的任務是協助台灣蘭花業者克服具雜交障礙的蘭花雜交組合，業者僅需將選定的開花親本攜至本場，本場專責人員協助完成雜交並獲得雜交後代瓶苗後，整批瓶苗經本場研管小組及農委會智審會核可後，即可有償讓與給業界利用。若無法獲得雜交後代，則業界不用負擔任何費用，本場歸還親本，本場對於業者提供的親本有保管之責。不過目前此平台僅針對蘭科萬代蘭族成員的屬間或屬內雜交。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "a7f1f8a01b785f74436d3b50267dcf96521d630343a341db283beb3d1f61c3ea",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

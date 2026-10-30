@@ -1,0 +1,42 @@
+{
+ "id": "tech-8267230a5366",
+ "source_key": "datamoa:809:c4492b2312ba295c",
+ "title": "山藥葉茶抗氧化活性、感官品質及保健飲品之開發",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "羅國偉\n龔財立",
+ "date": "2017-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19326&file_name=2RjSm5AZWQo856tQbRWnlW1diI006dnJVRlWGSlashO6Rt7RlZBAifpiKK8WGEqualcWMlRyhkZlzCIiLedmqzH9OBMG6LWGSlashmT8XnIZWjZbQSXppxWGSlashelcfGqU",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "82",
+  "出版日期": "106年12月",
+  "內容": "山藥葉茶抗氧化活性、感官品質及保健飲品之開發",
+  "作者": "羅國偉\n龔財立",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19326&file_name=2RjSm5AZWQo856tQbRWnlW1diI006dnJVRlWGSlashO6Rt7RlZBAifpiKK8WGEqualcWMlRyhkZlzCIiLedmqzH9OBMG6LWGSlashmT8XnIZWjZbQSXppxWGSlashelcfGqU"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "7dc152a82c9d4a7c859d76ab160115218202e4352bc56d2cb5c291365da0f372",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "tea"
+ ]
+}

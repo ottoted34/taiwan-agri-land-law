@@ -1,0 +1,40 @@
+{
+ "id": "tech-594565f19d0d",
+ "source_key": "datamoa:115:19768f47b5a75bac",
+ "title": "芋頭腐爛的主要因素及防治方法？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "芋頭球莖腐爛最常主要的是由軟腐病引起，由於並沒有適當的推薦藥劑可供防治，建議防治方式如下： \n1.選用健康種苗，避免將軟腐病菌帶入田間。 \n2.注意水分管理，生育後期避免浸水與噴灌，以減少病原菌在田間散播，降低病害之發生機會。 \n3.避免過度施用氮肥並增加鈣肥之用量，以增加植株對軟腐病菌之抗性。 \n4.田間作業時避免芋頭受到機械傷害。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "旗南分場",
+  "問題": "芋頭腐爛的主要因素及防治方法？",
+  "解答": "芋頭球莖腐爛最常主要的是由軟腐病引起，由於並沒有適當的推薦藥劑可供防治，建議防治方式如下： \n1.選用健康種苗，避免將軟腐病菌帶入田間。 \n2.注意水分管理，生育後期避免浸水與噴灌，以減少病原菌在田間散播，降低病害之發生機會。 \n3.避免過度施用氮肥並增加鈣肥之用量，以增加植株對軟腐病菌之抗性。 \n4.田間作業時避免芋頭受到機械傷害。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "92fb8f8c04794eccb09036db9e4695515c6f45cd2cecf5774a7fed07f5b94493",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "pest"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-188aa1b91740",
+ "source_key": "datamoa:B86:b0f959d44acaf87f",
+ "title": "請問南瓜有機棚架式栽培示範觀摩會中，棚架相關尺寸及價格費用、肥料資材資料。",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本次觀摩會所使用之棚架為利用錏管搭設而成，錏管規格為6公尺長，6分管；拱型錏管為利用前述規格之錏管，請鐵工廠進行彎曲，跨距為3公尺。錏管每隻價格約在170元左右，鐵工廠之捲工每支另需30-40元。2. 肥料部分，在栽培初期追肥主要以含氮量較高之有機液肥或固態肥料進行，結果期則以含磷鉀較高之有機肥料進行追肥即可。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "溫室、網室設施",
+  "問題": "請問南瓜有機棚架式栽培示範觀摩會中，棚架相關尺寸及價格費用、肥料資材資料。",
+  "解答": "1. 本次觀摩會所使用之棚架為利用錏管搭設而成，錏管規格為6公尺長，6分管；拱型錏管為利用前述規格之錏管，請鐵工廠進行彎曲，跨距為3公尺。錏管每隻價格約在170元左右，鐵工廠之捲工每支另需30-40元。2. 肥料部分，在栽培初期追肥主要以含氮量較高之有機液肥或固態肥料進行，結果期則以含磷鉀較高之有機肥料進行追肥即可。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "5fc3823bbf13db6270684353822eacf0be4c76d0176797c69be4c994a90801d7",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "materials"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-bd1cda65aef1",
+ "source_key": "datamoa:115:b27675e8ffb704dc",
+ "title": "請政府能補助產銷班農機具？（102.7.28 枋山座談會）",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "1.高雄場針對產銷班有小額補助，惟產銷班的最近年度考評成績需達 70 分以上。產銷班如有小型農機具需求，可經由輔導合作社提送計畫，函送高雄區農業改良場審查辦理。\n2.農糧署地區性農機輔導原則列小牛搬運車，為汽油式搬運車（售價 75,000 元 / 台），農糧署補助 1/3 （ 25,000 元），產銷班如有小型農機（小牛搬運車等）需求，建議由輔導合作社彙整產銷班需求，南區分署列入明（ 103 ）年度規劃補助單位。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "農業經營研究室",
+  "問題": "請政府能補助產銷班農機具？（102.7.28 枋山座談會）",
+  "解答": "1.高雄場針對產銷班有小額補助，惟產銷班的最近年度考評成績需達 70 分以上。產銷班如有小型農機具需求，可經由輔導合作社提送計畫，函送高雄區農業改良場審查辦理。\n2.農糧署地區性農機輔導原則列小牛搬運車，為汽油式搬運車（售價 75,000 元 / 台），農糧署補助 1/3 （ 25,000 元），產銷班如有小型農機（小牛搬運車等）需求，建議由輔導合作社彙整產銷班需求，南區分署列入明（ 103 ）年度規劃補助單位。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "5c0a1b8ba9e4845a90931717d6bd5a11466d2e18499dc8318ab429fbe9b2415c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "machinery"
+ ]
+}

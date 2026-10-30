@@ -1,0 +1,40 @@
+{
+ "id": "tech-8dafb39346bd",
+ "source_key": "datamoa:115:0ce92cd2c16f295d",
+ "title": "何謂花卉環保生產認證(MPS)？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "MPS(荷蘭語MilieuProgrammaSierteelt)，係以花卉生產者及運銷商為對像之一種花卉產業綜合認證體系，其宗旨為環境、品質及社會責任。認證的主要目的是降低花卉生產對環境的破壞(例如：農業生產過程中產生的農藥、肥料、CO2…等污染)，永續改善花卉產業形象，節約能源消耗，制定花卉產品的生產技術和行銷管理模式，保證供銷無毒害、健康、安全、信用的花卉，進行稽查驗證憑以核發產品稽核等級標章。MPS認證制度的主要評比指標包括：病蟲害的防治手段、氮磷肥料的使用、能源的使用…等等。生產者能否獲得MPS的認證，完全取決於所採用的生產方式。MPS的認證有助於提升園藝生產的技術水準及環境品質，在國際市場的拓展上，可提高競爭力。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "花卉研究室",
+  "問題": "何謂花卉環保生產認證(MPS)？",
+  "解答": "MPS(荷蘭語MilieuProgrammaSierteelt)，係以花卉生產者及運銷商為對像之一種花卉產業綜合認證體系，其宗旨為環境、品質及社會責任。認證的主要目的是降低花卉生產對環境的破壞(例如：農業生產過程中產生的農藥、肥料、CO2…等污染)，永續改善花卉產業形象，節約能源消耗，制定花卉產品的生產技術和行銷管理模式，保證供銷無毒害、健康、安全、信用的花卉，進行稽查驗證憑以核發產品稽核等級標章。MPS認證制度的主要評比指標包括：病蟲害的防治手段、氮磷肥料的使用、能源的使用…等等。生產者能否獲得MPS的認證，完全取決於所採用的生產方式。MPS的認證有助於提升園藝生產的技術水準及環境品質，在國際市場的拓展上，可提高競爭力。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "08e7e514ff5a9d7913dcaa8141d6026cde4cfeda307fadb96d3ab7a036d3b6be",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-642228bd5de7",
+ "source_key": "datamoa:B86:7f7314bc762b812b",
+ "title": "防猴網單價為何？如何購買？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場研發之防猴網為一概念式設計，目前並無固定大小之現成商品販售，需要時針對所要保護之果樹植株大小，洽農業資材業者訂製。2. 若以大小為長3.6公尺 × 寬3公尺 × 高3公尺之規格，訂製參考價格約1,600元～1,800元。3. 本場研發之防猴網製作規格及使用方法可上本場網站，查詢「出版刊物介紹」中農技報導第27期參考使用。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "防猴網單價為何？如何購買？",
+  "解答": "1. 本場研發之防猴網為一概念式設計，目前並無固定大小之現成商品販售，需要時針對所要保護之果樹植株大小，洽農業資材業者訂製。2. 若以大小為長3.6公尺 × 寬3公尺 × 高3公尺之規格，訂製參考價格約1,600元～1,800元。3. 本場研發之防猴網製作規格及使用方法可上本場網站，查詢「出版刊物介紹」中農技報導第27期參考使用。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "0bd50c932ad7fde2ffaf6da8118e537a5c38f80d4f040c2f6367abab30ff8b77",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

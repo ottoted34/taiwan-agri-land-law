@@ -1,0 +1,43 @@
+{
+ "id": "tech-d974c6489634",
+ "source_key": "datamoa:809:a5e9546202697819",
+ "title": "水稻有機栽培專用有機質肥料配方開發",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "莊浚釗/羅秋雄",
+ "date": "2015-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/77-3.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "77",
+  "出版日期": "104年6月",
+  "內容": "水稻有機栽培專用有機質肥料配方開發",
+  "作者": "莊浚釗/羅秋雄",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/77-3.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "2cd5942a32e02aa41f64935e80f3a692810819ee471b8c569e123d015dc32900",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "rice",
+  "materials"
+ ]
+}

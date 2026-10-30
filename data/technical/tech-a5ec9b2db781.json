@@ -1,0 +1,38 @@
+{
+ "id": "tech-a5ec9b2db781",
+ "source_key": "datamoa:B86:8e6be558ca35bf3d",
+ "title": "請問(1)臺灣藜及小米的播種機售價、經銷商？(2)臺灣藜及小米的脫殼機售價、經銷商？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺灣藜及小米的播種機、脫殼機皆通用，相關廠商資訊如下：播種機—鄭先生（0939-298163），脫殼機－東元機電行（089-326495）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問(1)臺灣藜及小米的播種機售價、經銷商？(2)臺灣藜及小米的脫殼機售價、經銷商？",
+  "解答": "臺灣藜及小米的播種機、脫殼機皆通用，相關廠商資訊如下：播種機—鄭先生（0939-298163），脫殼機－東元機電行（089-326495）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "5e2072ce83d1ce7115f0a2b4a040e9b7685cb523b57f60916239d81e03f95fcb",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

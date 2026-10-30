@@ -1,0 +1,40 @@
+{
+ "id": "tech-3c3a5b79ee7d",
+ "source_key": "datamoa:809:b99c870f3618e21d",
+ "title": "桃園地區三種景觀作物害蟲與有害動物種類發生調查",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "莊國鴻\n施錫彬",
+ "date": "2013-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/73-3.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "73",
+  "出版日期": "102年6月",
+  "內容": "桃園地區三種景觀作物害蟲與有害動物種類發生調查",
+  "作者": "莊國鴻\n施錫彬",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/73-3.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "68b629aeecfbbc4523e4df2ea166380cf61e7723fa395e3301a36a1575ec9c1c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

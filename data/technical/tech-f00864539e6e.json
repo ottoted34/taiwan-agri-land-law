@@ -1,0 +1,38 @@
+{
+ "id": "tech-f00864539e6e",
+ "source_key": "datamoa:B86:83c313bdda76d758",
+ "title": "能否提供天然紅木種子供試種？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "請填妥本場試作生物材料(種苗)申請書（http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/5/f6-2.doc）後，傳真至089-360502，或寄信至本場（臺東市中華路一段675號）陳敬文助理研究員收，俾憑辦理。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "能否提供天然紅木種子供試種？",
+  "解答": "請填妥本場試作生物材料(種苗)申請書（http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/5/f6-2.doc）後，傳真至089-360502，或寄信至本場（臺東市中華路一段675號）陳敬文助理研究員收，俾憑辦理。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "b71b8127cb44187a31462ce78f8e590d068abd1721a1643c308a4c590bdacc3c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

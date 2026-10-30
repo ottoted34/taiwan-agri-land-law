@@ -1,0 +1,42 @@
+{
+ "id": "tech-89d5c2ed04da",
+ "source_key": "datamoa:809:aa1e2a8b0868f926",
+ "title": "電動葉菜散裝收穫機之開發",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "邱銀珍\n黃柏昇",
+ "date": "2020-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19916&file_name=GPlusqFk752WGSlashvldIpvlA5JJlUHHwhMQkrsheG87Nzk0WGPlusapOw6lWGPlus0HSFQR0HnXL8GkADBW",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "87",
+  "出版日期": "109年6月",
+  "內容": "電動葉菜散裝收穫機之開發",
+  "作者": "邱銀珍\n黃柏昇",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19916&file_name=GPlusqFk752WGSlashvldIpvlA5JJlUHHwhMQkrsheG87Nzk0WGPlusapOw6lWGPlus0HSFQR0HnXL8GkADBW"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "3c95d317381cd6d9dac374025393f1837bef27f006283057f6b3d55c0271c577",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "vegetable"
+ ]
+}

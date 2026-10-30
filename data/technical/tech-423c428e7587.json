@@ -1,0 +1,38 @@
+{
+ "id": "tech-423c428e7587",
+ "source_key": "datamoa:115:03a69fdf9f199db7",
+ "title": "中耕機引擎，使用浮筒式化油器，怠速運轉時轉速穩定，但當高速運轉時轉速會有忽高忽低的轉速不穩情形，不知是何原因？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "問題出在化油器，浮筒室內中心內鎖浮桶室螺絲座內有油針，油針有分2節或1節，拆解下來將油針上會發現有好幾個小孔與中心孔內充滿油垢，使用鐵線清理，並觀察通往阻風開關處與中心出油孔，是否阻塞，分別清理後，即可解決。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "農業機械研究室",
+  "問題": "中耕機引擎，使用浮筒式化油器，怠速運轉時轉速穩定，但當高速運轉時轉速會有忽高忽低的轉速不穩情形，不知是何原因？",
+  "解答": "問題出在化油器，浮筒室內中心內鎖浮桶室螺絲座內有油針，油針有分2節或1節，拆解下來將油針上會發現有好幾個小孔與中心孔內充滿油垢，使用鐵線清理，並觀察通往阻風開關處與中心出油孔，是否阻塞，分別清理後，即可解決。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "3b641e2863c6728ff2270f193bb022e4a58584fb3b3b7b36abd00975c9a8d014",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

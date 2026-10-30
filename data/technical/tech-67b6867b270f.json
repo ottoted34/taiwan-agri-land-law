@@ -1,0 +1,40 @@
+{
+ "id": "tech-67b6867b270f",
+ "source_key": "datamoa:B86:06a39b76445d29dc",
+ "title": "在10/3採收的洛神花尾端顏色呈現紅黑色，是太早採收還是品種問題（如附件）？另想請問這是什麼品種？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "依照片內容初步判定，果萼先端顏色呈現較深，但每顆果萼之先端顏色分布範圍不均；且果萼先端性狀開萼、閉萼程度亦不均，顯示此批果萼為未經純化之地方品系。因照片提供資訊有限，是否因採收時期影響其果萼性狀，恕無從判定。更多詳情請洽詢本場園藝研究室，電話：089-325110轉634。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "在10/3採收的洛神花尾端顏色呈現紅黑色，是太早採收還是品種問題（如附件）？另想請問這是什麼品種？",
+  "解答": "依照片內容初步判定，果萼先端顏色呈現較深，但每顆果萼之先端顏色分布範圍不均；且果萼先端性狀開萼、閉萼程度亦不均，顯示此批果萼為未經純化之地方品系。因照片提供資訊有限，是否因採收時期影響其果萼性狀，恕無從判定。更多詳情請洽詢本場園藝研究室，電話：089-325110轉634。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "b967cb3609cee33a6d20ac92937f3d93119fb9ba5223ba9360261ec5ad8f0f31",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-cb3a1b13e79d",
+ "source_key": "datamoa:B86:667e2666a09f83d0",
+ "title": "如何加入小地主大佃農？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關小地主大佃農參與之相關資格或資訊可至農糧署小地主大佃農專區，網址：http://www.afa.gov.tw/ 。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "如何加入小地主大佃農？",
+  "解答": "有關小地主大佃農參與之相關資格或資訊可至農糧署小地主大佃農專區，網址：http://www.afa.gov.tw/ 。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "98a6216df4fd868ab7803a31cb546859bebbf8bd15ac7209f95a75a996990556",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

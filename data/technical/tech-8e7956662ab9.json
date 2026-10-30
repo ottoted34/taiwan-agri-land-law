@@ -1,0 +1,38 @@
+{
+ "id": "tech-8e7956662ab9",
+ "source_key": "datamoa:B86:8702a520be9a4564",
+ "title": "臺灣小米是否是臺灣原生種植物？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺灣於約4,500年前就有小米種植的相關記載，近幾年於臺灣各地原住民部落中蒐集的小米多達324種，且這些小米皆為部落中使用已久的品種。因栽培歷史悠久，故可能有原生種小米的存在，但實際的驗證得由小米的分布及遷移資料、查詢標本或分析臺灣小米與其他國家小米之遺傳背景才能確認。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "臺灣小米是否是臺灣原生種植物？",
+  "解答": "臺灣於約4,500年前就有小米種植的相關記載，近幾年於臺灣各地原住民部落中蒐集的小米多達324種，且這些小米皆為部落中使用已久的品種。因栽培歷史悠久，故可能有原生種小米的存在，但實際的驗證得由小米的分布及遷移資料、查詢標本或分析臺灣小米與其他國家小米之遺傳背景才能確認。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "c01e01052d3dfa88672c5e244bed4aec6359914ea6c91e72f8a9c54a8652181b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

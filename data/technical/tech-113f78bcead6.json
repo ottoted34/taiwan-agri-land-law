@@ -1,0 +1,44 @@
+{
+ "id": "tech-113f78bcead6",
+ "source_key": "datamoa:740:70de47e1106bf1d1",
+ "title": "可分解塑膠在農業上之利用",
+ "series": "技術專刊",
+ "issue": "技術專刊89-6(NO.104)",
+ "agency_id": "tndais",
+ "authors": "楊紹榮",
+ "date": "2000-11",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech104.pdf",
+ "isbn": null,
+ "gpn": "25369890100",
+ "pages": "14頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊89-6(NO.104)",
+  "題目": "可分解塑膠在農業上之利用",
+  "作者": "楊紹榮",
+  "出版日期年月": "08911",
+  "頁數": "14頁",
+  "定價": "40",
+  "政府出版品編號GPN": "25369890100",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech104.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech104.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "c57cccdadd12d3838feea7cfd400e2bd38d3ffcff3fdd95d885e5cb919a13f63",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

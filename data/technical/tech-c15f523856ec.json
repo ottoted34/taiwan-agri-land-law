@@ -1,0 +1,38 @@
+{
+ "id": "tech-c15f523856ec",
+ "source_key": "datamoa:B86:9b5893889fc659e0",
+ "title": "請教：(1)原文為graviola的植物，中文翻譯是什麼？臺灣有嗎？(2)俗稱羅李亮果的是哪一種？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. graviola是刺番荔枝，臺灣有種植。（學名：Annona muricata L.　英名：soursop）2. 羅李亮果為山刺番荔枝，臺灣有種植。（學名：Annona montana M.　英名：mountain soursop）",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請教：(1)原文為graviola的植物，中文翻譯是什麼？臺灣有嗎？(2)俗稱羅李亮果的是哪一種？",
+  "解答": "1. graviola是刺番荔枝，臺灣有種植。（學名：Annona muricata L.　英名：soursop）2. 羅李亮果為山刺番荔枝，臺灣有種植。（學名：Annona montana M.　英名：mountain soursop）"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "37b388965df07592f81f3c5819694e8c49081070d5996f55bd599fb05c650f24",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

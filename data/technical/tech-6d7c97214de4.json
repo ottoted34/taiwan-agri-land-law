@@ -1,0 +1,38 @@
+{
+ "id": "tech-6d7c97214de4",
+ "source_key": "datamoa:115:4103880ca871de16",
+ "title": "您好：照貴所點附網址後，可看到第93期目錄，但只載下封面PDF無法連結內頁，可否提供正確連結網址",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "煩請您依所附檔案之步驟連結，若您只下載封面是無法與文章連結的。煩請您用滑鼠點選欲閱讀之文章篇名，即可連結至內文閱讀。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "教育資訊研究室",
+  "問題": "您好：照貴所點附網址後，可看到第93期目錄，但只載下封面PDF無法連結內頁，可否提供正確連結網址",
+  "解答": "煩請您依所附檔案之步驟連結，若您只下載封面是無法與文章連結的。煩請您用滑鼠點選欲閱讀之文章篇名，即可連結至內文閱讀。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "c9ab6d8620f07a90cdf011eefbf10099a0d57273320aff35ec9c5177dff06849",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

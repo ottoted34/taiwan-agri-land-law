@@ -1,0 +1,40 @@
+{
+ "id": "tech-153cf6cf8a0a",
+ "source_key": "datamoa:809:9a48f6c7896c6d3a",
+ "title": "休閒農場團體套裝行程之消費體驗、滿意度與忠誠度之研究-以桃園縣觀音鄉元音休閒農場為例",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "李宗樺\n李金玲\n賴信忠",
+ "date": "2013-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/74-5.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "74",
+  "出版日期": "102年12月",
+  "內容": "休閒農場團體套裝行程之消費體驗、滿意度與忠誠度之研究-以桃園縣觀音鄉元音休閒農場為例",
+  "作者": "李宗樺\n李金玲\n賴信忠",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/4013/74-5.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "da0fed1919262d3bcd5395cc349af70437e1f8f9c4c48302e5a41784b3c97600",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

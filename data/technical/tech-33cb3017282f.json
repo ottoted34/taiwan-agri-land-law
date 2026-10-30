@@ -1,0 +1,41 @@
+{
+ "id": "tech-33cb3017282f",
+ "source_key": "datamoa:875:68a7b0c239536831",
+ "title": "第二篇第一章　農藝作物改良-稻作",
+ "series": "建場百週年紀念專刊",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": "2002-10-24",
+ "abstract": null,
+ "url": "https://www.kdais.gov.tw/upload/kdais/files/web_structure/418/k100-02a.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "875",
+  "title": "高雄區農業改良場建場百週年紀念專刊",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=875"
+ },
+ "raw": {
+  "標題": "第二篇第一章　農藝作物改良-稻作",
+  "刊物網址": "https://www.kdais.gov.tw/upload/kdais/files/web_structure/418/k100-02a.pdf",
+  "檔案類型": "PDF",
+  "資料日期": "2002-10-24"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=875",
+   "fetched_at": "2026-10-30T13:25:33+08:00"
+  }
+ ],
+ "content_hash": "ccce5240136e8725b24928d0d9e027e6fb0275d1be12d4141bca67d484b7e560",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "rice"
+ ]
+}

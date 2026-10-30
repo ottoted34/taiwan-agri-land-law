@@ -1,0 +1,40 @@
+{
+ "id": "tech-bbe3dcac99ea",
+ "source_key": "datamoa:B86:0d40a73cacedc5d1",
+ "title": "紅藜小苗出現捲葉情況，是什麼病蟲害造成？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關臺灣藜新葉捲曲現象，研判應為小葉藜木蝨取食為害所致，目前暫無核准使用防治藥劑，相關詳細資訊可參考本場臺東區農業專訊第97期「臺灣藜害蟲發生與防治概述」（網址：http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/6517/97-08.pdf）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "紅藜小苗出現捲葉情況，是什麼病蟲害造成？",
+  "解答": "有關臺灣藜新葉捲曲現象，研判應為小葉藜木蝨取食為害所致，目前暫無核准使用防治藥劑，相關詳細資訊可參考本場臺東區農業專訊第97期「臺灣藜害蟲發生與防治概述」（網址：http://www.ttdares.gov.tw/htmlarea_file/web_articles/ttdares/6517/97-08.pdf）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "9477f261ab303f7c6e1eb85b7a9cb3af7de8daa8537b370a55b9550c32d244c1",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "pest"
+ ]
+}

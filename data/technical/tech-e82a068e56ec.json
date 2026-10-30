@@ -1,0 +1,47 @@
+{
+ "id": "tech-e82a068e56ec",
+ "source_key": "datamoa:740:2b97219f2298ee84",
+ "title": "豆科綠肥作物新品種--綠肥大豆台南4號",
+ "series": "技術專刊",
+ "issue": "技術專刊90-3(NO.112)",
+ "agency_id": "tndais",
+ "authors": "連大進、吳昭慧",
+ "date": "2001-04",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech112.pdf",
+ "isbn": null,
+ "gpn": "1009000983",
+ "pages": "4頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊90-3(NO.112)",
+  "題目": "豆科綠肥作物新品種--綠肥大豆台南4號",
+  "作者": "連大進、吳昭慧",
+  "出版日期年月": "09004",
+  "頁數": "4頁",
+  "定價": "20",
+  "政府出版品編號GPN": "1009000983",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech112.pdf",
+  "連結位址2HTM": "http://book.tndais.gov.tw/Brochure/tech112.htm"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "83b5c2a7a85312a40a01d56ada3939c94027347fca4af90543900d7c66b7ecb4",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "grain",
+  "rotation"
+ ]
+}

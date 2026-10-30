@@ -1,0 +1,38 @@
+{
+ "id": "tech-e58dc2c2598e",
+ "source_key": "datamoa:B86:ba6640200f63a1e6",
+ "title": "聽說木虌果植栽有公母之分且需要一起種，在沒開花前無法分辨公母，那初種者要怎麼種？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "木虌果因雌雄異株且目前並無方法可由幼苗或種子判斷性別，目前僅能以增加種植株數方式，提高同時獲得雌株與雄株。少量種植，建議一次種植5株以上，確保至少有一雌株或雄株。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "聽說木虌果植栽有公母之分且需要一起種，在沒開花前無法分辨公母，那初種者要怎麼種？",
+  "解答": "木虌果因雌雄異株且目前並無方法可由幼苗或種子判斷性別，目前僅能以增加種植株數方式，提高同時獲得雌株與雄株。少量種植，建議一次種植5株以上，確保至少有一雌株或雄株。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "89dd4ec2632b3f21d662b0606d84258064a3442b863430ed59b074b14f9d4ba0",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

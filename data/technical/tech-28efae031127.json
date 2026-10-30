@@ -1,0 +1,40 @@
+{
+ "id": "tech-28efae031127",
+ "source_key": "datamoa:809:d96f490c33fb1e7f",
+ "title": "以不同分子標誌評估稻屬物種遺傳歧異度之能力",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "鄭智允\n古新梅",
+ "date": "2020-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19821&file_name=shOQjAI48qVuCqY3ykL0DYPWCIf32BdnknasdmSKGdKpWGPlus8WGSlashEoh6ikWGEqualWWGPluslUm14HqlPZowGquMykYyVeXsH5fI8sQaXcEoAV3Wb8SGhedWGPlus0iQljWGSla",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "88",
+  "出版日期": "109年12月",
+  "內容": "以不同分子標誌評估稻屬物種遺傳歧異度之能力",
+  "作者": "鄭智允\n古新梅",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19821&file_name=shOQjAI48qVuCqY3ykL0DYPWCIf32BdnknasdmSKGdKpWGPlus8WGSlashEoh6ikWGEqualWWGPluslUm14HqlPZowGquMykYyVeXsH5fI8sQaXcEoAV3Wb8SGhedWGPlus0iQljWGSla"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "d9f55b78be48927ac6f60f311222ae2e2b3e0a8743e252b8c6ad82a1df5fe8b4",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

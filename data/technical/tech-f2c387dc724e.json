@@ -1,0 +1,40 @@
+{
+ "id": "tech-f2c387dc724e",
+ "source_key": "datamoa:115:e6b3d4df2cf8b557",
+ "title": "關於貴單位篩選了台灣優良毛豆生產者組織了台灣毛豆聯盟,我們具有高度的興趣,我們主要是針對外銷日本市場的團隊,是否可以提供台灣毛豆聯盟相關外銷業務接洽窗口負責人:1.優先能接洽現有毛豆業者,我們負責加工及出口;2.直接採購出口；3.洽談未來契作合作的計劃545",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "有關台灣毛豆聯盟相關外銷業務接洽窗口負責人資料，請本場周國隆課長協助",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "場長室",
+  "問題": "關於貴單位篩選了台灣優良毛豆生產者組織了台灣毛豆聯盟,我們具有高度的興趣,我們主要是針對外銷日本市場的團隊,是否可以提供台灣毛豆聯盟相關外銷業務接洽窗口負責人:1.優先能接洽現有毛豆業者,我們負責加工及出口;2.直接採購出口；3.洽談未來契作合作的計劃545   ",
+  "解答": "有關台灣毛豆聯盟相關外銷業務接洽窗口負責人資料，請本場周國隆課長協助  "
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "2de1db2c5e22279d036a86557b47d0cc90024be0f1a1393421ccada644d59c9e",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "processing"
+ ]
+}

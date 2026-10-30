@@ -1,0 +1,44 @@
+{
+ "id": "tech-e8f40a074d86",
+ "source_key": "datamoa:809:e1599e1822654eae",
+ "title": "北部地區小果油茶病蟲害發生調查及油茶炭疽病防治資材篩選",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "陳巧燕\n吳信郁",
+ "date": "2019-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19354&file_name=R3Nnl2qTQWGPlus29g4TVxA1UfcLWGSlashb6kbQEWGSlashkGALSjmDRnmLWGSlashp16zmcMZHtdytyV71Ee96IiEbqHaWWGSlashnlWTLRsftriCCfCyLOVQnH0nxsT3KVVWqOxuwqlXykTyjk6T3Da3yP",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "86",
+  "出版日期": "108年12月",
+  "內容": "北部地區小果油茶病蟲害發生調查及油茶炭疽病防治資材篩選",
+  "作者": "陳巧燕\n吳信郁",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19354&file_name=R3Nnl2qTQWGPlus29g4TVxA1UfcLWGSlashb6kbQEWGSlashkGALSjmDRnmLWGSlashp16zmcMZHtdytyV71Ee96IiEbqHaWWGSlashnlWTLRsftriCCfCyLOVQnH0nxsT3KVVWqOxuwqlXykTyjk6T3Da3yP"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "088e7d715d51932b8b5c2bf45a4231241b70845754158f70e8c699253c9c049e",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "tea",
+  "materials",
+  "pest"
+ ]
+}

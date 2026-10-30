@@ -1,0 +1,38 @@
+{
+ "id": "tech-5f2a8e1d9fc0",
+ "source_key": "datamoa:B86:0f096e7263a38aaf",
+ "title": "請問哪間技轉廠商有做脫水果乾？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場曾於104年12月技轉「柑桔乾製品製作技術」于華珍食品股份有限公司，該公司主要產品為烘焙糕餅類產品。2. 若有脫水果乾需求，可逕洽華珍食品股份有限公司洽詢 07-7874567。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問哪間技轉廠商有做脫水果乾？",
+  "解答": "1. 本場曾於104年12月技轉「柑桔乾製品製作技術」于華珍食品股份有限公司，該公司主要產品為烘焙糕餅類產品。2. 若有脫水果乾需求，可逕洽華珍食品股份有限公司洽詢  07-7874567。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "6a4779205f618e8664766c68452f00dec5afc203359ba1b550b22824bdba6baf",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tech-755e9e5e3339",
+ "source_key": "datamoa:809:50c87e32e8bd2a52",
+ "title": "北部地區國產大豆氮施用量之研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "林勇偉",
+ "date": "2021-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=20281&file_name=hZ4G4PnzpfqL3MQRYU4dj27O6OD1BiOyslFxlPpOWGSlashKMRDUHjp7052IAd6T4GqOmfWGSlas",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "90",
+  "出版日期": "110年12月",
+  "內容": "北部地區國產大豆氮施用量之研究",
+  "作者": "林勇偉",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=20281&file_name=hZ4G4PnzpfqL3MQRYU4dj27O6OD1BiOyslFxlPpOWGSlashKMRDUHjp7052IAd6T4GqOmfWGSlas"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "ddd08be306ad211a9575c97b57a2678d05998a4a322110ab623744d6ace523b4",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "grain"
+ ]
+}

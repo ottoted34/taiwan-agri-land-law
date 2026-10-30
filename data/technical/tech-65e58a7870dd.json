@@ -1,0 +1,41 @@
+{
+ "id": "tech-65e58a7870dd",
+ "source_key": "datamoa:115:17b4e819220f26ec",
+ "title": "請問貴單位有無可提供蔬菜農藥快速篩檢的服務或試劑？因為我從農剛滿一年，朝有機農業努力，只使用台糖的植物性有機肥料，進口印楝粕，配合木醋液，不知道產出的產品是否已達到無農藥檢出的理想，一般民間檢驗單位收費實在不是我這新手小農能夠負擔的。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "請抱歉，本場未進行蔬菜農業快速篩檢的服務，麻煩請您洽農委會農業試驗所應用動物組 高靜華組長兼研究員 (04-23317613 或 23317621 / E-mail ： chkao@tari.gov.tw) 。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "植物保護研究室",
+  "問題": "請問貴單位有無可提供蔬菜農藥快速篩檢的服務或試劑？因為我從農剛滿一年，朝有機農業努力，只使用台糖的植物性有機肥料，進口印楝粕，配合木醋液，不知道產出的產品是否已達到無農藥檢出的理想，一般民間檢驗單位收費實在不是我這新手小農能夠負擔的。",
+  "解答": "請抱歉，本場未進行蔬菜農業快速篩檢的服務，麻煩請您洽農委會農業試驗所應用動物組 高靜華組長兼研究員 (04-23317613 或 23317621 / E-mail ： chkao@tari.gov.tw) 。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "358cfddd11084c48ed1caa4d5d38239f30218f3ed1fec016891b1409f4a8dd73",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "vegetable",
+  "materials"
+ ]
+}

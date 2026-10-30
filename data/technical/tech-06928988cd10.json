@@ -1,0 +1,40 @@
+{
+ "id": "tech-06928988cd10",
+ "source_key": "datamoa:B86:ffe87615d2737184",
+ "title": "想洽詢茶葉樹苗相關資訊？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關山茶或苦茶相關輔導業務已由茶業改良場負責，請您於上班時間逕洽茶業改良場臺東分場聯絡，聯絡電話：089-551446 即可。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "想洽詢茶葉樹苗相關資訊？",
+  "解答": "有關山茶或苦茶相關輔導業務已由茶業改良場負責，請您於上班時間逕洽茶業改良場臺東分場聯絡，聯絡電話：089-551446 即可。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3e002206ab3a4a68a92980af735eb9688934e53b06954e068ad8c54eed52c9f0",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "tea"
+ ]
+}

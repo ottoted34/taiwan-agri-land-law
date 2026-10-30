@@ -1,0 +1,40 @@
+{
+ "id": "tech-22fc94436fb9",
+ "source_key": "datamoa:B86:268620d8241b573c",
+ "title": "請問貴場是否有關於釋迦糖含量的檢測資料（總糖 葡萄糖 果糖 蔗糖 乳糖 麥芽糖）？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "釋迦粗鱗種果實所含糖類，主要以蔗糖、果糖及葡萄糖三種，相關數據請參考中國園藝29(4):257-268.圖4.。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問貴場是否有關於釋迦糖含量的檢測資料（總糖 葡萄糖 果糖 蔗糖 乳糖 麥芽糖）？",
+  "解答": "釋迦粗鱗種果實所含糖類，主要以蔗糖、果糖及葡萄糖三種，相關數據請參考中國園藝29(4):257-268.圖4.。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "0676b9c6b672bbeef04ecfe51456440dc76501796c3a17d0e203c033a15bcd05",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

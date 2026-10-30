@@ -1,0 +1,40 @@
+{
+ "id": "tech-d3aa1c1d4f64",
+ "source_key": "datamoa:809:f3da8a08d9b8a960",
+ "title": "北部地區學校支援型食農教育種子師資培訓需求之研究地區學校支援型食農教育種子師資培訓需求之研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "戴介三\n李宗樺\n賴信忠",
+ "date": "2019-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19346&file_name=DjZlSE5xvQwNeo0hUq3sLdqlQRqYkUVNR3n9CrnZVyWGPlush8U9TLGYWGEqualeHtxPzaAsc3Vd6D9YPZsAsqkWGSlashsEIlbO9sC2NFjDStHja3iAUBMH4cMiO",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "85",
+  "出版日期": "108年6月",
+  "內容": "北部地區學校支援型食農教育種子師資培訓需求之研究地區學校支援型食農教育種子師資培訓需求之研究",
+  "作者": "戴介三\n李宗樺\n賴信忠",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19346&file_name=DjZlSE5xvQwNeo0hUq3sLdqlQRqYkUVNR3n9CrnZVyWGPlush8U9TLGYWGEqualeHtxPzaAsc3Vd6D9YPZsAsqkWGSlashsEIlbO9sC2NFjDStHja3iAUBMH4cMiO"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "9ff3b57d2740bf7ce1b0613c543644b65db40243a13e943aadcd681164da9f54",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

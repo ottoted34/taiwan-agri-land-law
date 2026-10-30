@@ -1,0 +1,44 @@
+{
+ "id": "tech-95284407cc7d",
+ "source_key": "datamoa:740:c5d74f7a56ae654c",
+ "title": "夏南瓜栽培與食譜利用瀏覽",
+ "series": "技術專刊",
+ "issue": "技術專刊103-3(NO.159)",
+ "agency_id": "tndais",
+ "authors": "黃圓滿、李月寶、陳曉菁",
+ "date": "2014-12",
+ "abstract": null,
+ "url": "http://book.tndais.gov.tw/Brochure/tech159.pdf",
+ "isbn": "978-986-04-3098-1",
+ "gpn": "1010302389",
+ "pages": "27頁",
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "740",
+  "title": "臺南區農業改良場技術專刊目錄",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740"
+ },
+ "raw": {
+  "編號": "技術專刊103-3(NO.159)",
+  "題目": "夏南瓜栽培與食譜利用瀏覽",
+  "作者": "黃圓滿、李月寶、陳曉菁",
+  "出版日期年月": "10312",
+  "頁數": "27頁",
+  "定價": "50",
+  "政府出版品編號GPN": "1010302389",
+  "ISBN": "978-986-04-3098-1",
+  "連結位址1PDF": "http://book.tndais.gov.tw/Brochure/tech159.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=740",
+   "fetched_at": "2026-10-30T13:25:30+08:00"
+  }
+ ],
+ "content_hash": "93e31f00a34c7c223ba9c1f1ddac74079c76cd50712e7ce0984f7e3df4faec95",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

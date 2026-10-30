@@ -1,0 +1,45 @@
+{
+ "id": "tech-f66e807e3d45",
+ "source_key": "datamoa:B86:1a1b45fac7fd7c25",
+ "title": "(1)請問杭菊種苗要如何獲得？(2)可否提供杭菊非農藥防治技術及杭菊肥培管理技術，杭菊栽培管理手冊等相關資料？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場有出版「臺東地區杭菊栽培與病蟲害管理」之技術專刊，可至本場官方網站查詢電子刊物（http://ttdares.coa.gov.tw/show_index.php）或聯絡本場農業推廣課索取紙本刊物，聯絡電話：089-325110轉803洽詢。2. 杭菊目前係由茶業改良場臺東分場負責的特用作物，相關的非農藥防治技術、肥培管理技術及栽培資訊日後可查詢茶業改良場官方網站（http://teais.coa.gov.tw/show_index.php）或致電詢問，茶業改良場臺東分場聯絡電話：089-551446。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "(1)請問杭菊種苗要如何獲得？(2)可否提供杭菊非農藥防治技術及杭菊肥培管理技術，杭菊栽培管理手冊等相關資料？",
+  "解答": "1. 本場有出版「臺東地區杭菊栽培與病蟲害管理」之技術專刊，可至本場官方網站查詢電子刊物（http://ttdares.coa.gov.tw/show_index.php）或聯絡本場農業推廣課索取紙本刊物，聯絡電話：089-325110轉803洽詢。2. 杭菊目前係由茶業改良場臺東分場負責的特用作物，相關的非農藥防治技術、肥培管理技術及栽培資訊日後可查詢茶業改良場官方網站（http://teais.coa.gov.tw/show_index.php）或致電詢問，茶業改良場臺東分場聯絡電話：089-551446。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "4a5d2ef67e689fd7c074e9c25866771f724bc9b9573f3a1d2f1399096e761666",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower",
+  "seedling",
+  "mgmt",
+  "materials",
+  "soil",
+  "pest"
+ ]
+}

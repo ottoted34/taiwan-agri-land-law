@@ -1,0 +1,38 @@
+{
+ "id": "tech-55857985782c",
+ "source_key": "datamoa:B86:5d6bb78bb43bc35e",
+ "title": "請問高壓噴霧機能否反過來，用於抽水(不要很快速的大量抽水，例如抽水10-20升/分鐘鐘就夠了)？或者應如何設計(無法移動電源位置)？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "可至農機行購買高壓噴霧機專用之抽水頭，即可將高壓噴霧機之高壓少量水轉換為低壓高流量水。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問高壓噴霧機能否反過來，用於抽水(不要很快速的大量抽水，例如抽水10-20升/分鐘鐘就夠了)？或者應如何設計(無法移動電源位置)？",
+  "解答": "可至農機行購買高壓噴霧機專用之抽水頭，即可將高壓噴霧機之高壓少量水轉換為低壓高流量水。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "64ca841baec6d5e4f99795b4b24f20610de5707219701f334f66e2134cb6ea25",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

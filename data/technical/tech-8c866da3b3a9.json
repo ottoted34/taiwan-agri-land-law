@@ -1,0 +1,38 @@
+{
+ "id": "tech-8c866da3b3a9",
+ "source_key": "datamoa:115:7dc0388a0c37ff53",
+ "title": "照片檔案大傳不過去請問有其他方式可傳嗎？謝謝 還是有沒有line之類的管道 謝謝",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "很抱歉，本場進行試驗研究之作物為果樹、蔬菜及花卉，您所提問之作物「紫檀」屬於林木，因本場未進行此木本植物之相關試驗研究，故無法提供您詳盡的答案。煩請您至林業試驗所之「樹木醫學 林木疫情鑑定與資訊中心」／林木疫情服務專線：02-23039978 分機：2668 洽詢。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "教育資訊研究室",
+  "問題": "照片檔案大傳不過去請問有其他方式可傳嗎？謝謝 還是有沒有line之類的管道 謝謝",
+  "解答": "很抱歉，本場進行試驗研究之作物為果樹、蔬菜及花卉，您所提問之作物「紫檀」屬於林木，因本場未進行此木本植物之相關試驗研究，故無法提供您詳盡的答案。煩請您至林業試驗所之「樹木醫學 林木疫情鑑定與資訊中心」／林木疫情服務專線：02-23039978 分機：2668 洽詢。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "34978ec70bb75617fda932c0942822347f6330f797618c3ce0113059dc6bc05a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

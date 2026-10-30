@@ -1,0 +1,40 @@
+{
+ "id": "tech-8f408ca1d665",
+ "source_key": "datamoa:B86:37a677edd9bc92e4",
+ "title": "請問洛神葵的種子(苗) 要如何購得？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "目前常見流通品種為本場育成之‘臺東1至5號’（種子100克可種植1分地），可洽本場技轉廠商：洛神葵臺東3號技轉業者：長濱鄉農會089-832389、初鹿牧場089-571002，臺東4號-紅斑馬品種權技轉業者：初鹿牧場089-571002。或與本場簽訂技轉合約取得種子，請洽詢本場園藝研究室，電話：089-325110轉634。繁殖技術詳洽本場技術專刊網址：http://www.ttdares.gov.tw/view.php?catid=2334&previewdata=1",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "請問洛神葵的種子(苗) 要如何購得？",
+  "解答": "目前常見流通品種為本場育成之‘臺東1至5號’（種子100克可種植1分地），可洽本場技轉廠商：洛神葵臺東3號技轉業者：長濱鄉農會089-832389、初鹿牧場089-571002，臺東4號-紅斑馬品種權技轉業者：初鹿牧場089-571002。或與本場簽訂技轉合約取得種子，請洽詢本場園藝研究室，電話：089-325110轉634。繁殖技術詳洽本場技術專刊網址：http://www.ttdares.gov.tw/view.php?catid=2334&previewdata=1"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "99b39d81869e3949ac0fd6986ff472e07fd92eb315b41958c53cd18335477d33",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special"
+ ]
+}

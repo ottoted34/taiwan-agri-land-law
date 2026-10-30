@@ -1,0 +1,38 @@
+{
+ "id": "tech-83feb2912522",
+ "source_key": "datamoa:115:87eb5604ffe92e92",
+ "title": "何謂「小地主大佃農」？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "( 一 ) 「小地主大佃農」政策，係指政府輔導無力或無意耕作之農民 或地主，將自有土地長期出租給有意願擴大農場經營規模之農業經營者，促進農業勞動結構年輕化，並使老農安心享受離農或退休生活。同時，政府協助農業經營者（大佃農）順利承租農地，擴大經營規模，降低生產成本，並輔導改善經營設備（施），提高農業經營效益及競爭力。\n\n( 二 ) 申請「小地主大佃農」輔導應具備什麼條件？\n\n小地主必須為持有農地所有權之自然人，大佃農為符合專業農、產銷班、合作社、農會或農企業公司身分條件，且承租農地擴大經營總面積達一定規模者，才能納入輔導對象。\n\n( 三 ) 大佃農如何申請輔導？https://www.kdais.gov.tw/upload/kdais/images/question/5974/20150116.jpg",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "農業經營研究室",
+  "問題": "何謂「小地主大佃農」？",
+  "解答": "( 一 ) 「小地主大佃農」政策，係指政府輔導無力或無意耕作之農民 或地主，將自有土地長期出租給有意願擴大農場經營規模之農業經營者，促進農業勞動結構年輕化，並使老農安心享受離農或退休生活。同時，政府協助農業經營者（大佃農）順利承租農地，擴大經營規模，降低生產成本，並輔導改善經營設備（施），提高農業經營效益及競爭力。\n\n( 二 ) 申請「小地主大佃農」輔導應具備什麼條件？\n\n小地主必須為持有農地所有權之自然人，大佃農為符合專業農、產銷班、合作社、農會或農企業公司身分條件，且承租農地擴大經營總面積達一定規模者，才能納入輔導對象。\n\n( 三 ) 大佃農如何申請輔導？https://www.kdais.gov.tw/upload/kdais/images/question/5974/20150116.jpg"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "ea0554b4c594714158754a98839192808031c595fccc3dc8db18513dd5ce77fa",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-a671af26e98c",
+ "source_key": "datamoa:B86:7ff0aba96340e86e",
+ "title": "詢問苦茶苗業者的資訊？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關苦茶樹苗販賣業者或苦茶栽培相關技術，請您於上班時間與行政院農業委員會茶業改良場臺東分場聯絡，聯絡電話：089-551446。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "詢問苦茶苗業者的資訊？",
+  "解答": "有關苦茶樹苗販賣業者或苦茶栽培相關技術，請您於上班時間與行政院農業委員會茶業改良場臺東分場聯絡，聯絡電話：089-551446。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "b600f2c997d7aa387cc3709fa8db49aa16f6c45db2c808d51dbcb96bc9abd9be",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "tea"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-3f98a84e2897",
+ "source_key": "datamoa:B86:2bcd91b9af39fa7a",
+ "title": "請問貴場所發表的臺灣藜脫殼技術文章中所提的脫殼機廠牌及型號為何？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "紅藜脫殼採用一般市售小型碾米機即可，可洽東元機電行（089-326495）或就近之廠商詢問。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "請問貴場所發表的臺灣藜脫殼技術文章中所提的脫殼機廠牌及型號為何？",
+  "解答": "紅藜脫殼採用一般市售小型碾米機即可，可洽東元機電行（089-326495）或就近之廠商詢問。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3dac121ae250d07a0cece46bea12a8474edf39e4a4d924bfbb473f7e6b31422c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

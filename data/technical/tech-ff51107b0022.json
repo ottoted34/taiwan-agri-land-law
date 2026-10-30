@@ -1,0 +1,38 @@
+{
+ "id": "tech-ff51107b0022",
+ "source_key": "datamoa:B86:33cb50483446524c",
+ "title": "有賣金針苗嗎？一株多少錢？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場屬試驗研究單位，無販售種苗營利業務，故無法提供相關種苗購買服務。如欲少量購買種苗，可依需求品種逕洽以下農友：金針菜臺東7號（中低海拔或平地）：林先生0910-552280 / 張先生0937-533644；金針菜臺東6號（中低海拔或平地）：林先生0910-552280；本地種（適合種植中高海拔地區）：沈先生0921-578830。如您於平地需種植較大面積，可參考本場金針菜臺東7號優良種苗繁殖技術移轉案（http://www.ttdares.gov.tw/view.php?catid=7387）。相關細節請洽本場作物改良課園藝研究室（089-325110＃633）",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "有賣金針苗嗎？一株多少錢？",
+  "解答": "本場屬試驗研究單位，無販售種苗營利業務，故無法提供相關種苗購買服務。如欲少量購買種苗，可依需求品種逕洽以下農友：金針菜臺東7號（中低海拔或平地）：林先生0910-552280 / 張先生0937-533644；金針菜臺東6號（中低海拔或平地）：林先生0910-552280；本地種（適合種植中高海拔地區）：沈先生0921-578830。如您於平地需種植較大面積，可參考本場金針菜臺東7號優良種苗繁殖技術移轉案（http://www.ttdares.gov.tw/view.php?catid=7387）。相關細節請洽本場作物改良課園藝研究室（089-325110＃633）"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "31803b14241bf85af38106d215e014884d37752e997dcf0cd217e05735d2c50b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

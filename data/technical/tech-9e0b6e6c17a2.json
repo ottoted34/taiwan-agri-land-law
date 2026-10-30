@@ -1,0 +1,40 @@
+{
+ "id": "tech-9e0b6e6c17a2",
+ "source_key": "datamoa:B86:a6659aa42ec1397c",
+ "title": "近期發現家裡種植幾棵玫瑰花剛冒出的每個花苞都有一隻綠色蟲蟲佇立，吃掉花苞，另外，小鍋牛也很多(長像圓圈圈形狀) ，請問該如何處理呢？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 如為家庭式少量栽培，推薦應用非農藥防治方法，鱗翅目幼蟲（您所提到之綠色小蟲）可選用4.5%印楝素乳劑或蘇力菌進行防治。2. 蝸牛可以聚乙醛（市售農藥）、苦茶粕灑布於植株周圍防治；另可於枝幹基部繫綁銅條或銅帶，利用蝸牛忌避氧化銅綠之原理驅離。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "近期發現家裡種植幾棵玫瑰花剛冒出的每個花苞都有一隻綠色蟲蟲佇立，吃掉花苞，另外，小鍋牛也很多(長像圓圈圈形狀) ，請問該如何處理呢？",
+  "解答": "1. 如為家庭式少量栽培，推薦應用非農藥防治方法，鱗翅目幼蟲（您所提到之綠色小蟲）可選用4.5%印楝素乳劑或蘇力菌進行防治。2. 蝸牛可以聚乙醛（市售農藥）、苦茶粕灑布於植株周圍防治；另可於枝幹基部繫綁銅條或銅帶，利用蝸牛忌避氧化銅綠之原理驅離。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "64fec962e103656501966476f5bc0c1c7b2dbaeb1868354428409bd7b57cfae3",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-d73afaec8225",
+ "source_key": "datamoa:B86:0a5a02c5d3aedca5",
+ "title": "請問金針菜臺東7號1分地可種植多少株？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 金針菜臺東7號栽培行株距建議單行植時，行距100公分，株距30公分，每分地種苗量約3,300株；雙行植時畦寬120公分，溝寬40公分，行間距離80公分，株距30公分，每分地種苗量約4,000株。2. 建議定植季節為10月過後。3. 有關金針菜資訊可參考本場農技報導第30期。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問金針菜臺東7號1分地可種植多少株？",
+  "解答": "1. 金針菜臺東7號栽培行株距建議單行植時，行距100公分，株距30公分，每分地種苗量約3,300株；雙行植時畦寬120公分，溝寬40公分，行間距離80公分，株距30公分，每分地種苗量約4,000株。2. 建議定植季節為10月過後。3. 有關金針菜資訊可參考本場農技報導第30期。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "382f3955d8f40db423d512595dd1e87ef83801957e28d8cd34375710b3edbb93",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

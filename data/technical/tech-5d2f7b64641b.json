@@ -1,0 +1,40 @@
+{
+ "id": "tech-5d2f7b64641b",
+ "source_key": "datamoa:809:9d802df26dee9303",
+ "title": "三種植物萃取物對福壽螺生物活性測定",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "莊國鴻 \n施錫彬",
+ "date": "2017-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19322&file_name=8lAOrnMtNfnRnVoVoeDz4Kk4a3jwJkTSxaajX6QWGEqualWGEqualngtxmah8cCZVTV6sWGPlusOCNPv4ZP60aUWKhwuSZ3QpI65jTfgC",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "81",
+  "出版日期": "106年6月",
+  "內容": "三種植物萃取物對福壽螺生物活性測定 ",
+  "作者": "莊國鴻 \n施錫彬",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19322&file_name=8lAOrnMtNfnRnVoVoeDz4Kk4a3jwJkTSxaajX6QWGEqualWGEqualngtxmah8cCZVTV6sWGPlusOCNPv4ZP60aUWKhwuSZ3QpI65jTfgC"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "161cc6895bd2101d9f675fa08ceb72dbc32631d11e1bbdb87302ce9ca215972b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

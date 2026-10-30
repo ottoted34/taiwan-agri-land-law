@@ -1,0 +1,42 @@
+{
+ "id": "tech-785114089750",
+ "source_key": "datamoa:809:e7487a4cefe6addb",
+ "title": "擺飾場域及栽培介質水分管理對聖誕紅盆花觀賞性之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "楊雅淨",
+ "date": "2019-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19352&file_name=tp0CNZElWGPlusxKMHWGSlashsTNn7s8GVx87DiWGPlusfWn7yp50Gz3wEWGEqualhoJBdl1HjVtVv5KoR57GbKqFjDAnZ7eoFt24hlXK8s0gx9h5AoclWnkZeDOogzuQ4",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "86",
+  "出版日期": "108年12月",
+  "內容": "擺飾場域及栽培介質水分管理對聖誕紅盆花觀賞性之影響",
+  "作者": "楊雅淨",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19352&file_name=tp0CNZElWGPlusxKMHWGSlashsTNn7s8GVx87DiWGPlusfWn7yp50Gz3wEWGEqualhoJBdl1HjVtVv5KoR57GbKqFjDAnZ7eoFt24hlXK8s0gx9h5AoclWnkZeDOogzuQ4"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "1e44d57ce28fbe33cf629445e98c438700876b397b7e4f008eec7a83953dcdae",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "materials"
+ ]
+}

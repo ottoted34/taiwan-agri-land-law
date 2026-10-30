@@ -1,0 +1,38 @@
+{
+ "id": "tech-66e1e86262d3",
+ "source_key": "datamoa:B86:fe3fae5d04918ed7",
+ "title": "關於黑木耳種植的相關知識該向哪個單位請教？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "因本場非為專業菇類研究單位，建議貴協會可直接洽詢農業試驗所植物病理組的菇類研究室（電話：04-23302301轉菇類研究室）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "關於黑木耳種植的相關知識該向哪個單位請教？",
+  "解答": "因本場非為專業菇類研究單位，建議貴協會可直接洽詢農業試驗所植物病理組的菇類研究室（電話：04-23302301轉菇類研究室）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "ae109231b15efcea0e08d3c65582e5acd37de832e04072b5a142c48b65951e13",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

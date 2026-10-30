@@ -1,0 +1,40 @@
+{
+ "id": "tech-bcba30dfaf6d",
+ "source_key": "datamoa:B86:c99e87094483b98e",
+ "title": "請問位於延平鄉鸞山村坡向朝西南農牧用地，適合種油茶樹嗎？品種如何選擇？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場無進行油茶相關試驗研究及栽培輔導，油茶為茶業改良場主要輔導作物，有關油茶詳細資訊可洽詢茶業改良場文山分場羅士凱助理研究員，聯絡資訊：02-26651801分機28。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "請問位於延平鄉鸞山村坡向朝西南農牧用地，適合種油茶樹嗎？品種如何選擇？",
+  "解答": "本場無進行油茶相關試驗研究及栽培輔導，油茶為茶業改良場主要輔導作物，有關油茶詳細資訊可洽詢茶業改良場文山分場羅士凱助理研究員，聯絡資訊：02-26651801分機28。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "adf4dd83154013999c7c74919c7222ec0ca68d669fd7413723b5e44107c4cba3",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "tea"
+ ]
+}

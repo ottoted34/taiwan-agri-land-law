@@ -1,0 +1,38 @@
+{
+ "id": "tech-af0d2b360b1f",
+ "source_key": "datamoa:B86:eb89c4b323b84416",
+ "title": "如何購買貴場推廣的植被草種？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場研究著重於非禾本科地被植物，目前已研究可作為地被覆蓋者為蠅翼草、金腰箭舅與越橘葉蔓榕。禾本科低矮高度者推薦為地毯草、類地毯草與假儉草。2. 本場非營利機關，並無販賣種苗。金腰箭舅可至本場申請少量種苗試種；越橘葉蔓榕及其他禾本科地被可至園藝業者處訂購。申請少量種苗試種請洽本場園藝研究室（電話：089-325110轉661）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "如何購買貴場推廣的植被草種？",
+  "解答": "1. 本場研究著重於非禾本科地被植物，目前已研究可作為地被覆蓋者為蠅翼草、金腰箭舅與越橘葉蔓榕。禾本科低矮高度者推薦為地毯草、類地毯草與假儉草。2. 本場非營利機關，並無販賣種苗。金腰箭舅可至本場申請少量種苗試種；越橘葉蔓榕及其他禾本科地被可至園藝業者處訂購。申請少量種苗試種請洽本場園藝研究室（電話：089-325110轉661）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "e6d59c24e0008a351ff30370a8765af2c06aeecdecae989cc84b8d12bb5be482",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

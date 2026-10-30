@@ -1,0 +1,38 @@
+{
+ "id": "tech-b3351de3179d",
+ "source_key": "datamoa:B86:d6d491de381a888c",
+ "title": "請問哪裡可以買到胭脂樹紅粉？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "胭脂樹紅粉購買管道多元，建議利用網路搜尋胭脂樹紅粉賣家，列舉香草工房有限公司（TEL：04-25206219），正心堂（TEL：07-2868848）兩間廠商供參考。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "請問哪裡可以買到胭脂樹紅粉？",
+  "解答": "胭脂樹紅粉購買管道多元，建議利用網路搜尋胭脂樹紅粉賣家，列舉香草工房有限公司（TEL：04-25206219），正心堂（TEL：07-2868848）兩間廠商供參考。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "bbbf77f0dfe25ac3d8ad3326ac5f54161c36de61ad508f39d3eaa1f5977ad907",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-f255dd122740",
+ "source_key": "datamoa:809:4758d707cf10b221",
+ "title": "大、小油菜與野生近緣種薺菜、蔊菜及葶藶之基因流動風險評估",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "沈雅鈞",
+ "date": "2019-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19344&file_name=4IPlRF7RqPWYxbFZajUNNB8OrQFdElfqQ7n0mM4tL9OGwiA5yfFTcoy7w0jkXZNeeeOJWGSlashBCr2ePTlZMb0T3iSR9AzSXgeoqV9b3FHSp0ma0PRYKdpVBCQTEYw2hbwbaL",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "85",
+  "出版日期": "108年6月",
+  "內容": "大、小油菜與野生近緣種薺菜、蔊菜及葶藶之基因流動風險評估",
+  "作者": "沈雅鈞",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19344&file_name=4IPlRF7RqPWYxbFZajUNNB8OrQFdElfqQ7n0mM4tL9OGwiA5yfFTcoy7w0jkXZNeeeOJWGSlashBCr2ePTlZMb0T3iSR9AzSXgeoqV9b3FHSp0ma0PRYKdpVBCQTEYw2hbwbaL"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "492e92f037b2ea883cfd32162b79ffeeaaff0ebcfdff5da48ad8f9cd897c98d4",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

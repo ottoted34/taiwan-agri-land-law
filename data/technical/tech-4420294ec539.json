@@ -1,0 +1,40 @@
+{
+ "id": "tech-4420294ec539",
+ "source_key": "datamoa:B86:6a7e6ad959b043f0",
+ "title": "請問釋迦套袋的封口機要去哪裡買？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "目前釋迦套袋多以人工用鐵絲或魔帶綁住，無封口機具操作，已知市面無釋迦封口機販售。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "請問釋迦套袋的封口機要去哪裡買？",
+  "解答": "目前釋迦套袋多以人工用鐵絲或魔帶綁住，無封口機具操作，已知市面無釋迦封口機販售。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "58c9ce16174575d1c0fd69d489eb1a8273d9ab7f3d58720922b0b75b51b6f103",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

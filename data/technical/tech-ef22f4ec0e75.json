@@ -1,0 +1,38 @@
+{
+ "id": "tech-ef22f4ec0e75",
+ "source_key": "datamoa:B86:cf60464c572f7f8e",
+ "title": "紅藜米這種生長作物最重要的品質原則是什麼？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺灣藜最重要的品質為採收、脫殼後純淨、無雜質。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "紅藜米這種生長作物最重要的品質原則是什麼？",
+  "解答": "臺灣藜最重要的品質為採收、脫殼後純淨、無雜質。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "e5ff882884e8b62616130dccb43da8ba7ea03bc423703318d1215f059c7ea86a",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

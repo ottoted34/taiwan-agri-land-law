@@ -1,0 +1,38 @@
+{
+ "id": "tech-eb4ce8749fd9",
+ "source_key": "datamoa:B86:5e165be7d8166232",
+ "title": "(1)請問臺灣藜植株外表有何特徵時，就是到達可以收割、進行穗實曝曬的階段？(2)貴場紅藜新聞版面上，左側有綠色穗實一串，請問該串是為畫面美觀，所摘未成熟的藜穗？還是真有成熟的綠色藜？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺灣藜(紅藜)生長期約4個月，待植株穗部由綠色完全轉色以後即可採收，完全轉色後約7-10天，穗色會開始轉黑，轉黑後籽實亦會過熟變黑，故建議於完全轉色後10天內採收完畢。臺灣藜成熟穗色大致分為橘黃、橘紅、紅及紫紅等4個色系，綠色為未成熟之顏色。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "(1)請問臺灣藜植株外表有何特徵時，就是到達可以收割、進行穗實曝曬的階段？(2)貴場紅藜新聞版面上，左側有綠色穗實一串，請問該串是為畫面美觀，所摘未成熟的藜穗？還是真有成熟的綠色藜？",
+  "解答": "臺灣藜(紅藜)生長期約4個月，待植株穗部由綠色完全轉色以後即可採收，完全轉色後約7-10天，穗色會開始轉黑，轉黑後籽實亦會過熟變黑，故建議於完全轉色後10天內採收完畢。臺灣藜成熟穗色大致分為橘黃、橘紅、紅及紫紅等4個色系，綠色為未成熟之顏色。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "e2d6a9d12263d75de9010096128a6f114f26c2289b8a7c7bfd97482e1b380c9b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

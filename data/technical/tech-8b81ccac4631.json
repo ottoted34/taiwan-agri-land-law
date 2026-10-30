@@ -1,0 +1,40 @@
+{
+ "id": "tech-8b81ccac4631",
+ "source_key": "datamoa:115:104a48fc2a07d2af",
+ "title": "電信蘭切葉栽培環境？",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "電信蘭性喜溫暖潮濕，生育適溫約20-28℃。冬季低溫期，生長減緩或停止，氣溫低於15℃以下時，應避免午後澆水，以防葉片寒害；低於10℃以下之濕冷氣候，則會產生寒害徵狀。生育所需光強度約35,000~45,000lux，忌烈日直射，一般栽培需遮蔭，南部栽培需有50~60%的黑色遮光網。栽培期間應保持土壤濕潤、空氣濕度高及適度修剪老葉，可使莖蔓迅速長高。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "花卉研究室",
+  "問題": "電信蘭切葉栽培環境？",
+  "解答": "電信蘭性喜溫暖潮濕，生育適溫約20-28℃。冬季低溫期，生長減緩或停止，氣溫低於15℃以下時，應避免午後澆水，以防葉片寒害；低於10℃以下之濕冷氣候，則會產生寒害徵狀。生育所需光強度約35,000~45,000lux，忌烈日直射，一般栽培需遮蔭，南部栽培需有50~60%的黑色遮光網。栽培期間應保持土壤濕潤、空氣濕度高及適度修剪老葉，可使莖蔓迅速長高。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "8c214dcc6d779f3b42aa94f9c2afd49f1bab2d721cd5c2e07da1ca849968855c",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

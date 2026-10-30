@@ -1,0 +1,44 @@
+{
+ "id": "tech-c39b6e7f2c52",
+ "source_key": "datamoa:809:2e3679e8b1c27be4",
+ "title": "青蔥(Allium fistulosum L.)設施有機栽培肥培管理技術研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "賴昭宏\n許苑培\n羅秋雄",
+ "date": "2017-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19329&file_name=6jDAyWUIsMx3PfKWGSlashm8orZzCrA9ltZ9drlRHmIWFBDThu2RDEpWeUWGEqualKrV9r5sbYawFWGPlusv4o1e2NZqWGPlus29yTGZMX631MZfb1o148npSChiEpM39x",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "82",
+  "出版日期": "106年12月",
+  "內容": "青蔥(Allium fistulosum L.)設施有機栽培肥培管理技術研究",
+  "作者": "賴昭宏\n許苑培\n羅秋雄",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19329&file_name=6jDAyWUIsMx3PfKWGSlashm8orZzCrA9ltZ9drlRHmIWFBDThu2RDEpWeUWGEqualKrV9r5sbYawFWGPlusv4o1e2NZqWGPlus29yTGZMX631MZfb1o148npSChiEpM39x"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "6d5b5103ebb9ac93d290e817731a6568a3375ccf8a80a9e42a0993915c81d62b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "mgmt",
+  "greenhouse_t",
+  "soil"
+ ]
+}

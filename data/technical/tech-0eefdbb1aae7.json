@@ -1,0 +1,40 @@
+{
+ "id": "tech-0eefdbb1aae7",
+ "source_key": "datamoa:B86:44accc438903cf20",
+ "title": "貴場所出版之\\\"紅龍果有機栽培管理技術\\\"一書中有介紹紅龍果套袋，請問要如何購買？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場設計之紅龍果套袋（白色紗網袋），目前所知尚無廠商量產販售，若有需要可洽相關農業資材廠商訂製。2. 關於製作規格，可參考刊物內所述之作法，洽當地農業資材行訂製。若有疑問可逕洽果園有機經營研究室。電話：089-224826",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "果樹",
+  "問題": "貴場所出版之\\\"紅龍果有機栽培管理技術\\\"一書中有介紹紅龍果套袋，請問要如何購買？",
+  "解答": "1. 本場設計之紅龍果套袋（白色紗網袋），目前所知尚無廠商量產販售，若有需要可洽相關農業資材廠商訂製。2. 關於製作規格，可參考刊物內所述之作法，洽當地農業資材行訂製。若有疑問可逕洽果園有機經營研究室。電話：089-224826"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "79e5170cdef4d78123c62d186b774f6885ad1c62108441cdc3cff6d01ca3113b",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "mgmt"
+ ]
+}

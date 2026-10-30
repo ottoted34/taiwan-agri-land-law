@@ -1,0 +1,40 @@
+{
+ "id": "tech-e5342661910f",
+ "source_key": "datamoa:B86:b552f03f5609b121",
+ "title": "紅藜該如何收成及可去哪運用機械設備採收、烘乾、脫殼？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "紅藜採收目前仍以人工採收為主，機械設備不普及，本場有應用水稻捆紮機及脫粒機進行紅藜採收及脫粒相關試驗，詳細資訊可參考臺東區農業改良場網站中第92期農業專訊。烘乾可洽詢鄰近加工廠或委託臺東縣金峰鄉雜糧產銷班處理（089-771453）。脫殼可利用市售小型穀物脫殼機進行，詳細資訊可參考臺東區農業改良場網站中第74期農業專訊。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "紅藜該如何收成及可去哪運用機械設備採收、烘乾、脫殼？",
+  "解答": "紅藜採收目前仍以人工採收為主，機械設備不普及，本場有應用水稻捆紮機及脫粒機進行紅藜採收及脫粒相關試驗，詳細資訊可參考臺東區農業改良場網站中第92期農業專訊。烘乾可洽詢鄰近加工廠或委託臺東縣金峰鄉雜糧產銷班處理（089-771453）。脫殼可利用市售小型穀物脫殼機進行，詳細資訊可參考臺東區農業改良場網站中第74期農業專訊。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "85e8e87c0b873d4b74194ca7c9cbe0bfed9b48fbb529913de961d1719fc3a639",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "machinery"
+ ]
+}

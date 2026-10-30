@@ -1,0 +1,40 @@
+{
+ "id": "tech-a14988cb2796",
+ "source_key": "datamoa:B86:3decd921f37deb8f",
+ "title": "索取貴場推廣之原生蔬菜（假人蔘,巴蔘菜,角菜及赤道櫻草）？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 本場目前僅提供臺東地區具經濟量產計畫農民申請試種種原。2. 如符合上述條件，請逕洽本場作物改良課園藝研究室（089-325110＃633）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "索取貴場推廣之原生蔬菜（假人蔘,巴蔘菜,角菜及赤道櫻草）？",
+  "解答": "1. 本場目前僅提供臺東地區具經濟量產計畫農民申請試種種原。2. 如符合上述條件，請逕洽本場作物改良課園藝研究室（089-325110＃633）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "6fcebc427007d7bb4bb2249df76d002ae1288c74a03afec24ae6e47d8b13ba9d",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "vegetable"
+ ]
+}

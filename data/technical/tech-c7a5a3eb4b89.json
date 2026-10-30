@@ -1,0 +1,41 @@
+{
+ "id": "tech-c7a5a3eb4b89",
+ "source_key": "datamoa:115:257ee65ab52ad733",
+ "title": "防治胡麻葉枯病除了施用藥劑，還有哪些方法?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "1.稻種消毒：本病病原菌藉種子傳播，應避免將罹病株的稻穀當作稻種。為減輕在苗床和本田發病機會，應選擇適當的藥劑進行稻種消毒。\n2.增施有機物：多施堆肥、綠肥等有機質肥料並行深耕，以增進土壤肥力及改善其物理性。\n3.適當的氮肥：宜調節氮肥施用量及施用時期，勿過多或過少。\n4.發病嚴重田，於種植前應施用矽酸爐渣，每公頃 3,000 ~ 4,000 公斤，以增強水稻抗病性。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "植物保護研究室",
+  "問題": "防治胡麻葉枯病除了施用藥劑，還有哪些方法?",
+  "解答": "1.稻種消毒：本病病原菌藉種子傳播，應避免將罹病株的稻穀當作稻種。為減輕在苗床和本田發病機會，應選擇適當的藥劑進行稻種消毒。\n2.增施有機物：多施堆肥、綠肥等有機質肥料並行深耕，以增進土壤肥力及改善其物理性。\n3.適當的氮肥：宜調節氮肥施用量及施用時期，勿過多或過少。\n4.發病嚴重田，於種植前應施用矽酸爐渣，每公頃 3,000 ~ 4,000 公斤，以增強水稻抗病性。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "320d5350eb2959ad88ca75a41772dfa2961fd71193277e451d032312aec4deaa",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special",
+  "pest"
+ ]
+}

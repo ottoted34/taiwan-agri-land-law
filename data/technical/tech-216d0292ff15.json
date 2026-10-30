@@ -1,0 +1,41 @@
+{
+ "id": "tech-216d0292ff15",
+ "source_key": "datamoa:115:282415af702819e7",
+ "title": "我有玉文芒果，請問我要轉色與提升甜度，佳里4號肥料、6號肥料，以上三種 比較省成本 與提升效率。謝謝 。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "謝謝劉先生來函！有關玉文芒果轉色與提升甜度問題，請本場李雪如主持人答覆。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "我有玉文芒果，請問我要轉色與提升甜度，佳里4號肥料、6號肥料，以上三種 比較省成本 與提升效率。謝謝 。",
+  "解答": "謝謝劉先生來函！有關玉文芒果轉色與提升甜度問題，請本場李雪如主持人答覆。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "e8f8bff3e9531195be34da315fa9f6508bb2ab1f7e2708526924c5c3ccf96453",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit",
+  "materials"
+ ]
+}

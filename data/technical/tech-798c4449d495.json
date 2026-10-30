@@ -1,0 +1,41 @@
+{
+ "id": "tech-798c4449d495",
+ "source_key": "datamoa:B86:110808347c9b1d20",
+ "title": "(1)果園覆蓋大豆草生栽培-臺南育七號種子要如何取得？(2)臺東地區可否使用此種來防治雜草？或是有何種子可使用？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "大豆臺南7號為臺南區農業改良場育成，本場並無相關試驗研究，亦無種子可供申請試種。建議您直接與臺南區農業改良場農藝研究室聯繫。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "(1)果園覆蓋大豆草生栽培-臺南育七號種子要如何取得？(2)臺東地區可否使用此種來防治雜草？或是有何種子可使用？",
+  "解答": "大豆臺南7號為臺南區農業改良場育成，本場並無相關試驗研究，亦無種子可供申請試種。建議您直接與臺南區農業改良場農藝研究室聯繫。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "c30a93321d48fc73a2efb30dc066977657979867d2d437a86e5a2d33ab67b773",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "grain",
+  "pest"
+ ]
+}

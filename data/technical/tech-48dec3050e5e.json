@@ -1,0 +1,38 @@
+{
+ "id": "tech-48dec3050e5e",
+ "source_key": "datamoa:115:1b6ce28b4d4c7357",
+ "title": "硼砂每分地施用3公斤，於耕耘基肥時翻耕入土中，但裂果還是不少，是否可再追加噴施於葉面?",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "施用硼砂至土壤被植物吸收到的時間較長，如為立即性的缺乏，建議可使用葉面噴施方式，可至化工原料行夠買硼酸較好溶解。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "土壤肥料研究室",
+  "問題": "硼砂每分地施用3公斤，於耕耘基肥時翻耕入土中，但裂果還是不少，是否可再追加噴施於葉面?",
+  "解答": "施用硼砂至土壤被植物吸收到的時間較長，如為立即性的缺乏，建議可使用葉面噴施方式，可至化工原料行夠買硼酸較好溶解。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "286abe345e4275aadf2c0eca9f1584f7a93ac31410702c3b353a98303ab78c70",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "tech-a120e117fef5",
+ "source_key": "datamoa:B86:66295d01673dfbfb",
+ "title": "田螺會不會吃掉稻米？要怎麼防治？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 水稻田的田螺應該為福壽螺或稱為金寶螺，為害最嚴重的時期為水稻剛插秧時。此時秧苗細小又纖嫩，福壽螺最喜歡吃，待植株長高、稻桿變硬，福壽螺就不會為害了。2. 防治福壽螺有幾個方式供參：●使用藥劑防治（如耐克螺，40公克/分地）●使用苦茶粕防治（1包/分地）●使用菸砂防治（15公斤/分地）",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "稻作",
+  "問題": "田螺會不會吃掉稻米？要怎麼防治？",
+  "解答": "1. 水稻田的田螺應該為福壽螺或稱為金寶螺，為害最嚴重的時期為水稻剛插秧時。此時秧苗細小又纖嫩，福壽螺最喜歡吃，待植株長高、稻桿變硬，福壽螺就不會為害了。2. 防治福壽螺有幾個方式供參：●使用藥劑防治（如耐克螺，40公克/分地）●使用苦茶粕防治（1包/分地）●使用菸砂防治（15公斤/分地）"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "ae7beada5997ba76839b5a9c790fbf430c229fa89a914410353d8bfbf68f23c9",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "rice",
+  "pest"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "id": "tech-9308a9d466bc",
+ "source_key": "datamoa:B86:0306961acf28a1f7",
+ "title": "有機種植稻米的農場都選擇使用哪一家廠商的有機肥料？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關有機肥料選擇，建議您參考行政院農委會農糧署網站提供的「有機農業商品化資材－土壤肥力改良資材品牌推薦」內的肥料廠商，其資料位於行政院農委會農糧署網站有機農業項下，網址如下：http://www.afa.gov.tw/organicAgriculture.aspx?CatID=1&apage=1。該資料為農糧署提供符合有機農業使用之土壤肥力改良資材的品牌，因更新頻繁，建議您直接上網挑選適合品牌購買。在使用上，除了購買符合有機農業規定之有機肥料外，肥料的比率（氮、磷、鉀含量）、每公頃使用量及使用方式均需注意；尤其有機栽培連年施用有機質肥料時，除了當期作施有機質肥料之可提供養份外，土壤中所含有有機質之也可提供養份，建議您採集土壤分析以利施肥計畫訂定，可至本場詢問及利用土壤分析服務。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "有機種植稻米的農場都選擇使用哪一家廠商的有機肥料？",
+  "解答": "有關有機肥料選擇，建議您參考行政院農委會農糧署網站提供的「有機農業商品化資材－土壤肥力改良資材品牌推薦」內的肥料廠商，其資料位於行政院農委會農糧署網站有機農業項下，網址如下：http://www.afa.gov.tw/organicAgriculture.aspx?CatID=1&apage=1。該資料為農糧署提供符合有機農業使用之土壤肥力改良資材的品牌，因更新頻繁，建議您直接上網挑選適合品牌購買。在使用上，除了購買符合有機農業規定之有機肥料外，肥料的比率（氮、磷、鉀含量）、每公頃使用量及使用方式均需注意；尤其有機栽培連年施用有機質肥料時，除了當期作施有機質肥料之可提供養份外，土壤中所含有有機質之也可提供養份，建議您採集土壤分析以利施肥計畫訂定，可至本場詢問及利用土壤分析服務。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "c4e4ac8e219d25e72586911617c33bd71940fe9c450c9b1b6f50e66486c958a4",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": [
+  "rice",
+  "materials"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tech-d4234c15aa71",
+ "source_key": "datamoa:B86:394b27573ea03130",
+ "title": "貴場所研發的火炬九重葛有在賣嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "火炬九重葛目前本場上並無種苗販售，惟可少量索取插穗。若大量或成株栽培，建議洽專業園藝種苗業者詢問，索取插穗請洽本場園藝研究室（電話：089-325110轉661）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "貴場所研發的火炬九重葛有在賣嗎？",
+  "解答": "火炬九重葛目前本場上並無種苗販售，惟可少量索取插穗。若大量或成株栽培，建議洽專業園藝種苗業者詢問，索取插穗請洽本場園藝研究室（電話：089-325110轉661）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "3bc2ac22c44e00c7cc396da9a321b4d9dc747f3763a574ed26a92f9b2b1b97cf",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

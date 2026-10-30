@@ -1,0 +1,38 @@
+{
+ "id": "tech-17e3ed5abfc6",
+ "source_key": "datamoa:B86:1f4d79e018f3dac6",
+ "title": "請問有「太陽能人型驅鳥器」技移廠商連絡方式嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "有關本場研製之太陽能人型驅鳥器已技轉群達環保股份有限公司（聯絡電話：089-385189）和信豐農業股份有限公司（聯絡電話：02-87877000）。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "農機",
+  "問題": "請問有「太陽能人型驅鳥器」技移廠商連絡方式嗎？",
+  "解答": "有關本場研製之太陽能人型驅鳥器已技轉群達環保股份有限公司（聯絡電話：089-385189）和信豐農業股份有限公司（聯絡電話：02-87877000）。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "b7b606747fb25b1db3e307df1c42bdf6404b847f342fae88709655582539edde",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

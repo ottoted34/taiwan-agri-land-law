@@ -33,5 +33,6 @@
  "content_hash": "a3bfca1345c00eb68b8e728343fa1839a1231712eb17d0c2ed6be1dc0446be5e",
  "last_synced": "2026-10-30T13:16:03+08:00",
  "first_seen": "2026-10-30T11:58:05+08:00",
- "topics": []
+ "topics": [],
+ "source_missing_since": "2026-10-30T13:25:41+08:00"
 }

@@ -1,0 +1,40 @@
+{
+ "id": "tech-da960ae1928a",
+ "source_key": "datamoa:809:b7fd3cc948635116",
+ "title": "臺灣日本山薯（Dioscorea japonica Thunb.）植株性狀遺傳變異研究",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "龔財立\n林順福",
+ "date": "2021-06",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19924&file_name=a4eBwrLlbppF6iYkD4uJgWGSlashS5m6h5po72pe5GTLm1HjhmsqFHAmWn06WGSlashMmCyiVGYITZKWGPlusseFEvdDwlPbtOY64YZDfz2KvdVeyQIBxWyNyjT9odaMgAWGSlash0ThUPD631HsDYz",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "89",
+  "出版日期": "110年6月",
+  "內容": "臺灣日本山薯（Dioscorea japonica Thunb.）植株性狀遺傳變異研究",
+  "作者": "龔財立\n林順福",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19924&file_name=a4eBwrLlbppF6iYkD4uJgWGSlashS5m6h5po72pe5GTLm1HjhmsqFHAmWn06WGSlashMmCyiVGYITZKWGPlusseFEvdDwlPbtOY64YZDfz2KvdVeyQIBxWyNyjT9odaMgAWGSlash0ThUPD631HsDYz"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "bc5de59009ef2289f82299cdea5129e7dd53828d5bc831ea696ae9a4c9a4f449",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

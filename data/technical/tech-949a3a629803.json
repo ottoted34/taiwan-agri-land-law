@@ -1,0 +1,38 @@
+{
+ "id": "tech-949a3a629803",
+ "source_key": "datamoa:B86:f58ccabb3c83486f",
+ "title": "請問貴場是否有海洋深層水應用在山葵等高冷植物的栽培研究呢？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "本場目前並無山葵等高冷作物之栽培研究。貴公司或可向財團法人石材暨資源產業研究發展中心洽詢相關資料，其聯絡資料如下：財團法人石材暨資源產業研究發展中心深層海水知識服務平台 http://www.dow.org.tw/",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問貴場是否有海洋深層水應用在山葵等高冷植物的栽培研究呢？",
+  "解答": "本場目前並無山葵等高冷作物之栽培研究。貴公司或可向財團法人石材暨資源產業研究發展中心洽詢相關資料，其聯絡資料如下：財團法人石材暨資源產業研究發展中心深層海水知識服務平台 http://www.dow.org.tw/"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "56f11fc45a6b63c9656925d09e5b2db447ce7280ec78ce18c113d913f1a1cb52",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tech-4b9c1ac657f7",
+ "source_key": "datamoa:809:35509ce0a63db386",
+ "title": "不同栽培介質對草苺品種桃園1號高架栽培生育及產量之影響",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "羅國偉",
+ "date": "2020-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/redirect_files.php?id=19823&file_name=J0vMNwusrXJ2ePC16AHdb8yZGpit5ENed4GQ7WGPluspFo0ROLVDumBOXBP9u5quPCgvXiBHVlQx1i1iSwpsePhpT5OB2XuuDi8x2khFWGPlusAhLvyddbbDFu387vbfJOlyE03ax7",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "88",
+  "出版日期": "109年12月",
+  "內容": "不同栽培介質對草苺品種桃園1號高架栽培生育及產量之影響",
+  "作者": "羅國偉",
+  "下載連結": "https://www.tydares.gov.tw/redirect_files.php?id=19823&file_name=J0vMNwusrXJ2ePC16AHdb8yZGpit5ENed4GQ7WGPluspFo0ROLVDumBOXBP9u5quPCgvXiBHVlQx1i1iSwpsePhpT5OB2XuuDi8x2khFWGPlusAhLvyddbbDFu387vbfJOlyE03ax7"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "20864132751b921f349fdd833cdc6944f79beea2f5f5d8143e24ce5ef4462f29",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "materials"
+ ]
+}

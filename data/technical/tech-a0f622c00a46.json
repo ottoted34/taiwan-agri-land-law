@@ -1,0 +1,38 @@
+{
+ "id": "tech-a0f622c00a46",
+ "source_key": "datamoa:B86:29eddcb3a3e9cd86",
+ "title": "如何購買菜豆嫁接苗？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "目前僅有豇豆（臺語俗稱菜豆）有嫁接苗可以購買，您可以洽種苗改良繁殖場技術移轉業者詢問訂購事宜，聯絡資料如下：育家育苗場05-3781231",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "如何購買菜豆嫁接苗？",
+  "解答": "目前僅有豇豆（臺語俗稱菜豆）有嫁接苗可以購買，您可以洽種苗改良繁殖場技術移轉業者詢問訂購事宜，聯絡資料如下：育家育苗場05-3781231"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "1652fd0c72bd4004a1c24c4a3a70b79f72eb7731e88dcd16e316f37026abf997",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

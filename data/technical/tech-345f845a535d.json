@@ -1,0 +1,41 @@
+{
+ "id": "tech-345f845a535d",
+ "source_key": "datamoa:B86:d50894972b986fd2",
+ "title": "洛神花是否有品種差異，一般用於食品開發（粉末、顆粒）劑型，是否有選擇的差異？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "洛神葵有不同品種，本場將研究運用於保健食品開發之機能性成分，因此目前未有科學性數據分析品種(系)間之差異，品種間是否具有差異性尚屬未知。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "特作（荖花、荖葉）",
+  "問題": "洛神花是否有品種差異，一般用於食品開發（粉末、顆粒）劑型，是否有選擇的差異？",
+  "解答": "洛神葵有不同品種，本場將研究運用於保健食品開發之機能性成分，因此目前未有科學性數據分析品種(系)間之差異，品種間是否具有差異性尚屬未知。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "2a4e23140cf965a88dea42208963dc898466c290c8ea1945fa483d43b9d0a3b1",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "special",
+  "processing"
+ ]
+}

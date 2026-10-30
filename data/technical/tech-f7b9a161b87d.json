@@ -1,0 +1,42 @@
+{
+ "id": "tech-f7b9a161b87d",
+ "source_key": "datamoa:809:e523248a9df74a69",
+ "title": "桂竹炭粉對黃根節蘭金草蘭及朵麗蝶蘭無菌播種之效用",
+ "series": "研究彙報",
+ "issue": "",
+ "agency_id": "tydares",
+ "authors": "李淑真\n廖芳心\n鄭隨和",
+ "date": "2011-12",
+ "abstract": null,
+ "url": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/1947/70-2.pdf",
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "809",
+  "title": "桃園區農業改良場研究彙報",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809"
+ },
+ "raw": {
+  "期號": "70",
+  "出版日期": "100年12月",
+  "內容": "桂竹炭粉對黃根節蘭金草蘭及朵麗蝶蘭無菌播種之效用",
+  "作者": "李淑真\n廖芳心\n鄭隨和",
+  "下載連結": "https://www.tydares.gov.tw/htmlarea_file/web_articles/tydais/1947/70-2.pdf"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=809",
+   "fetched_at": "2026-10-30T13:25:24+08:00"
+  }
+ ],
+ "content_hash": "77a83038d769789e6558d3ef55407ae08f9a5dfab3dc6096cfadc1d74d3c0147",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "flower"
+ ]
+}

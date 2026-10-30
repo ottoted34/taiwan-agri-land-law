@@ -1,0 +1,40 @@
+{
+ "id": "tech-16f4f0c826c8",
+ "source_key": "datamoa:B86:dfbb35db9911cf89",
+ "title": "有關小米栽種是可以連作嗎？連作會減少產量及增加病蟲害嗎？如要連作時，間隔日數多少？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "臺東地區小米栽培時期可分為春作(1-2月播種)及秋作(8月播種)，一般而言，春作與秋作之間約有二個月的空閒時間，可輪作豆科綠肥作物或是休耕，如此一來便可增加土壤有機質。另外，小米連作會減少產量及增加病蟲害危害，應避免連作。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "雜糧",
+  "問題": "有關小米栽種是可以連作嗎？連作會減少產量及增加病蟲害嗎？如要連作時，間隔日數多少？",
+  "解答": "臺東地區小米栽培時期可分為春作(1-2月播種)及秋作(8月播種)，一般而言，春作與秋作之間約有二個月的空閒時間，可輪作豆科綠肥作物或是休耕，如此一來便可增加土壤有機質。另外，小米連作會減少產量及增加病蟲害危害，應避免連作。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "fb7b49eaa2769ef8bae7b2953ddc7076d6ec2e82cb7ae350d62f0d9d39dcc933",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "pest"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tech-dee8601698b9",
+ "source_key": "datamoa:B86:33ccc9409a3d8efb",
+ "title": "請問是否有臺灣溫室有機白蘿蔔的相關資訊？有沒有一年四季都有種植有機白蘿蔔但可能品種不同的窗口？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 有關溫室種植白蘿蔔部分，目前無相關資訊可供參考。於冬季利用溫室保溫特性種植白蘿蔔，雖有其可行性，惟秋冬本是蘿蔔盛產季節，因此栽培成本需審慎考量。2. 蘿蔔適合播種季節多為秋天（8-11月），僅少數耐熱品種（如生生種子公司的紫蘿）可以在夏季播種，或少數耐低溫品種（如農友種苗的紅姑娘）可以冬季播種（1-2月）。惟此些耐熱或耐低溫的品種多為紫肉或紅肉品種，非白蘿蔔。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問是否有臺灣溫室有機白蘿蔔的相關資訊？有沒有一年四季都有種植有機白蘿蔔但可能品種不同的窗口？",
+  "解答": "1. 有關溫室種植白蘿蔔部分，目前無相關資訊可供參考。於冬季利用溫室保溫特性種植白蘿蔔，雖有其可行性，惟秋冬本是蘿蔔盛產季節，因此栽培成本需審慎考量。2. 蘿蔔適合播種季節多為秋天（8-11月），僅少數耐熱品種（如生生種子公司的紫蘿）可以在夏季播種，或少數耐低溫品種（如農友種苗的紅姑娘）可以冬季播種（1-2月）。惟此些耐熱或耐低溫的品種多為紫肉或紅肉品種，非白蘿蔔。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "fe88dec8e2a0bd87744e8d909e38ec156d6f40eb7c4aa2b39f4052a0c71266e1",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "greenhouse_t"
+ ]
+}

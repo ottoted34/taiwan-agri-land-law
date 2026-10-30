@@ -1,0 +1,38 @@
+{
+ "id": "tech-2111a0d3ccc3",
+ "source_key": "datamoa:B86:eaf1f583085a4d26",
+ "title": "如何索取刊物？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 刊物索取服務電話：089-325110分機803、875 (工作天數7天，含寄送時間)> 來電時請務必詳細告知本場服務人員您所需的刊物種類、期數以及您的基本資料( 姓名、聯絡電話、寄送地址)，以便本場服務人員為您寄送書刊。2. 民眾來場索取：(本場地址：臺東市中華路一段675號)> 請至本場農業推廣課填寫刊物索取單，並由服務人員為您辦理。3. 電子服務信箱：service@mail.ttdares.gov.tw (工作天數14天，含寄送時間及信件服務內容轉交承辦員時間)> 來信時請先至本場網頁下載刊物申請單http://ttdares.coa.gov.tw/view.php?catid=1 並詳細填寫資料後寄至 service@mail.ttdares.gov.tw，本場服務人員將儘快為您服務。4. 本場各項電子檔刊物索取請民眾自行上本場網頁http://ttdares.coa.gov.tw/瀏覽下載資料(出版刊物下載區)。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "其他",
+  "問題": "如何索取刊物？",
+  "解答": "1. 刊物索取服務電話：089-325110分機803、875 (工作天數7天，含寄送時間)> 來電時請務必詳細告知本場服務人員您所需的刊物種類、期數以及您的基本資料( 姓名、聯絡電話、寄送地址)，以便本場服務人員為您寄送書刊。2. 民眾來場索取：(本場地址：臺東市中華路一段675號)> 請至本場農業推廣課填寫刊物索取單，並由服務人員為您辦理。3. 電子服務信箱：service@mail.ttdares.gov.tw (工作天數14天，含寄送時間及信件服務內容轉交承辦員時間)> 來信時請先至本場網頁下載刊物申請單http://ttdares.coa.gov.tw/view.php?catid=1 並詳細填寫資料後寄至 service@mail.ttdares.gov.tw，本場服務人員將儘快為您服務。4. 本場各項電子檔刊物索取請民眾自行上本場網頁http://ttdares.coa.gov.tw/瀏覽下載資料(出版刊物下載區)。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "b2b41d852018d16c6dece9332729d745c160c8104204f47652f3e6bcd7353f19",
+ "last_synced": "2026-10-30T13:25:41+08:00",
+ "first_seen": "2026-10-30T13:25:41+08:00",
+ "topics": []
+}

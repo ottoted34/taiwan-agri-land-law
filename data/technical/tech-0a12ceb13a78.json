@@ -1,0 +1,38 @@
+{
+ "id": "tech-0a12ceb13a78",
+ "source_key": "datamoa:115:d674661e891b9de0",
+ "title": "我想請問一下貴公司有提供金腰箭舅種子嗎?如果有的話可以麻煩告知購買方式及價格怎麼計算。",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "因金腰箭舅在國內並非經濟栽培草種，而是先前研究人員在野外發現，並經試驗而推薦做為草生栽培之草種，所以目前並無市售種子可購買。其實其繁殖方式可利用扦插方式便可存活，本場目前在果園內有種植及觀察，若需少量扦插苗進行繁殖的話，可逕與我聯絡。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "土壤肥料研究室",
+  "問題": "我想請問一下貴公司有提供金腰箭舅種子嗎?如果有的話可以麻煩告知購買方式及價格怎麼計算。",
+  "解答": "因金腰箭舅在國內並非經濟栽培草種，而是先前研究人員在野外發現，並經試驗而推薦做為草生栽培之草種，所以目前並無市售種子可購買。其實其繁殖方式可利用扦插方式便可存活，本場目前在果園內有種植及觀察，若需少量扦插苗進行繁殖的話，可逕與我聯絡。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "89f236a63ad4efe863d16efe21aeb22db84b5afc8e6bbbe7c98a9151247bec2d",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

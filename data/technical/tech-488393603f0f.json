@@ -1,0 +1,38 @@
+{
+ "id": "tech-488393603f0f",
+ "source_key": "datamoa:B86:759a9465a965cffe",
+ "title": "蠅翼草北部適合種植嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 臺灣北部地區冬季氣溫較低，蠅翼草屬熱帶草種，越冬可能較困難。2. 蠅翼草栽培管理可參閱本場第87期農業專訊「優良原生地被植物－蠅翼草之繁殖與應用」(可網路搜尋下載)。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "花卉",
+  "問題": "蠅翼草北部適合種植嗎？",
+  "解答": "1. 臺灣北部地區冬季氣溫較低，蠅翼草屬熱帶草種，越冬可能較困難。2. 蠅翼草栽培管理可參閱本場第87期農業專訊「優良原生地被植物－蠅翼草之繁殖與應用」(可網路搜尋下載)。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "053456736b4511ac5154f7d9a6cdcb3084bcba1171a7d3c272da587c841058bf",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

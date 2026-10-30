@@ -1,0 +1,41 @@
+{
+ "id": "tech-ee1413c00250",
+ "source_key": "datamoa:B86:674d1dda40274ac0",
+ "title": "「米食加工產品之開發-稻米預糊化技術」資料刊載於，農政與農情101年11月（245期）陳盈方著作，請教下列問題：臺東30號膨發實驗，膨發前、膨發後之數據各為何？實驗方法？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "如日前(104.3.24)之回信，生米與米香粒之比較試驗並未鑽研，台端如有興趣，可選取50~100粒生米及米香粒，分別量測其長度及寬度，取得平均值後，兩者比較，即可得到您所需數據答案。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "稻作",
+  "問題": "「米食加工產品之開發-稻米預糊化技術」資料刊載於，農政與農情101年11月（245期）陳盈方著作，請教下列問題：臺東30號膨發實驗，膨發前、膨發後之數據各為何？實驗方法？",
+  "解答": "如日前(104.3.24)之回信，生米與米香粒之比較試驗並未鑽研，台端如有興趣，可選取50~100粒生米及米香粒，分別量測其長度及寬度，取得平均值後，兩者比較，即可得到您所需數據答案。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "e0da65c6440567f91890a13c3e61ac20a366655700564536dad60b71392553fc",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "rice",
+  "processing"
+ ]
+}

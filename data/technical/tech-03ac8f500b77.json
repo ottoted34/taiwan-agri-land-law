@@ -1,0 +1,38 @@
+{
+ "id": "tech-03ac8f500b77",
+ "source_key": "datamoa:B86:392998a2baaac870",
+ "title": "請問臺東地區目前是否有水耕種植？有資料可提供嗎？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "水耕植物種類繁多，可供觀賞或水耕蔬菜食用。本場目前無水耕相關研究，建議向臺中區農業改良場諮詢相關資訊。連絡電話：04-8523101~7",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請問臺東地區目前是否有水耕種植？有資料可提供嗎？",
+  "解答": "水耕植物種類繁多，可供觀賞或水耕蔬菜食用。本場目前無水耕相關研究，建議向臺中區農業改良場諮詢相關資訊。連絡電話：04-8523101~7"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "d47595b6e9f0fda36f8642003a6b0226302ff6b28147398cd98f49dc0d385239",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

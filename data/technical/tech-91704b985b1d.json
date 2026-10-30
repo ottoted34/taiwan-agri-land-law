@@ -1,0 +1,40 @@
+{
+ "id": "tech-91704b985b1d",
+ "source_key": "datamoa:115:848160c32746aeb5",
+ "title": "想取得優良品種紅色火龍果枝條進行栽培，想請問貴單位是否可提供優良枝條或協助介紹",
+ "series": "轄區常見農業相關問題(問答Q&A)",
+ "issue": "",
+ "agency_id": "kdais",
+ "authors": "",
+ "date": null,
+ "abstract": "本場無提供紅龍果枝條，請向種苗業者洽購。大紅品種，陳永池0937259591 蔡東訓0931519583。其他品種，高屏地區請洽瀚苗苗圃陳小姐0911880000 (網購網址www.瀚苗果樹苗園.tw)或岷成苗圃阿秋0911880033。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "115",
+  "title": "高雄區農業改良場轄區常見農業相關問題(問答Q&A)",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115"
+ },
+ "raw": {
+  "單位": "果樹研究室",
+  "問題": "想取得優良品種紅色火龍果枝條進行栽培，想請問貴單位是否可提供優良枝條或協助介紹",
+  "解答": "本場無提供紅龍果枝條，請向種苗業者洽購。大紅品種，陳永池0937259591 蔡東訓0931519583。其他品種，高屏地區請洽瀚苗苗圃陳小姐0911880000 (網購網址www.瀚苗果樹苗園.tw)或岷成苗圃阿秋0911880033。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=115",
+   "fetched_at": "2026-10-30T13:25:35+08:00"
+  }
+ ],
+ "content_hash": "80140d15d98980e93ced3a6343f6cc74d4f87608fe5490ff263006bae82508c9",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": [
+  "fruit"
+ ]
+}

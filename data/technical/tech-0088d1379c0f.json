@@ -1,0 +1,38 @@
+{
+ "id": "tech-0088d1379c0f",
+ "source_key": "datamoa:B86:1f217a319888c81a",
+ "title": "請推薦高雄旗山氣候適合的金針品種？臺東6號與7號兩品種哪一個較容易栽培？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 金針菜臺東6號與7號均適合平地栽培，可以在高雄旗山種植。2. 臺東6號抗銹病能力較7號佳，因此病蟲害管理上較容易。臺東7號的是以鮮蕾適合進行無硫加工為最大特色，煮後湯色不會變黑；臺東6號則是以傳統加工方法為主，無硫加工成品品相較差，且煮後湯色會變黑。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "請推薦高雄旗山氣候適合的金針品種？臺東6號與7號兩品種哪一個較容易栽培？",
+  "解答": "1. 金針菜臺東6號與7號均適合平地栽培，可以在高雄旗山種植。2. 臺東6號抗銹病能力較7號佳，因此病蟲害管理上較容易。臺東7號的是以鮮蕾適合進行無硫加工為最大特色，煮後湯色不會變黑；臺東6號則是以傳統加工方法為主，無硫加工成品品相較差，且煮後湯色會變黑。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "bf304d4ba1aaa2c495d9b1e413287363a83ad476792f2721bf8fd8cd8a9fdf86",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}

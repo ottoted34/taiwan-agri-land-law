@@ -1,0 +1,38 @@
+{
+ "id": "tech-4b0baee15cc3",
+ "source_key": "datamoa:B86:f4625fcaa86aa650",
+ "title": "種植的翼豆葉子是長條形，不是一般的小葉卵形，長大後也是開一樣的花朵長小翼豆（附件）。這種長葉子的是長莢形嗎？那長度大概多長時摘下比較好？",
+ "series": "常見問答集",
+ "issue": "",
+ "agency_id": "ttdares",
+ "authors": "",
+ "date": null,
+ "abstract": "1. 翼豆葉形可粗略分為長披針型與卵型。2. 翼豆豆莢亦可粗略分為長莢及短莢兩種型態。長莢指長度超過40公分；短莢25-30公分。適收長度亦同。採收前可觀察嫩莢表面是否有因豆仁膨大而凸起現象，以採收未有明顯凸起者為佳；如已明顯凸起，則有纖維過多現象。",
+ "url": null,
+ "isbn": null,
+ "gpn": null,
+ "pages": null,
+ "doc_class": "technical",
+ "license": "政府資料開放授權條款（書目資料）；出版品全文著作權依原發布機關",
+ "dataset": {
+  "unit_id": "B86",
+  "title": "臺東區農業改良場常見問答集",
+  "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86"
+ },
+ "raw": {
+  "類別": "蔬菜",
+  "問題": "種植的翼豆葉子是長條形，不是一般的小葉卵形，長大後也是開一樣的花朵長小翼豆（附件）。這種長葉子的是長莢形嗎？那長度大概多長時摘下比較好？",
+  "解答": "1. 翼豆葉形可粗略分為長披針型與卵型。2. 翼豆豆莢亦可粗略分為長莢及短莢兩種型態。長莢指長度超過40公分；短莢25-30公分。適收長度亦同。採收前可觀察嫩莢表面是否有因豆仁膨大而凸起現象，以採收未有明顯凸起者為佳；如已明顯凸起，則有纖維過多現象。"
+ },
+ "sources": [
+  {
+   "source_id": "datamoa-publications",
+   "url": "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId=B86",
+   "fetched_at": "2026-10-30T13:25:36+08:00"
+  }
+ ],
+ "content_hash": "cd4786e986f13ef76eaf3b99ebaae8fecb9bfdfbe2e81922cd3353ae4f1fdac1",
+ "last_synced": "2026-10-30T13:25:40+08:00",
+ "first_seen": "2026-10-30T13:25:40+08:00",
+ "topics": []
+}
