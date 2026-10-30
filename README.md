@@ -32,7 +32,7 @@
 
 ## 文件
 
-- [架構](docs/architecture.md)｜[資料結構](docs/data-schema.md)｜[授權](docs/data-licenses.md)｜[更新政策](docs/update-policy.md)｜[部署](docs/deployment.md)｜[維護手冊](docs/maintenance.md)｜[Google 表單評估](docs/google-form.md)
+- [架構](docs/architecture.md)｜[資料結構](docs/data-schema.md)｜[授權](docs/data-licenses.md)｜[更新政策](docs/update-policy.md)｜[部署](docs/deployment.md)｜[維護手冊](docs/maintenance.md)｜[Google 表單評估](docs/google-form.md)｜[已知未收錄函釋](docs/known-missing-interpretations.md)
 
 ## 開發
 
