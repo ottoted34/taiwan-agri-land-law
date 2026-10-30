@@ -37,18 +37,17 @@ GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** →
 
 ### 5-1. 地方規定審核流程（收錄前必經）
 
-其他縣市同仁可在網站「資料來源」頁按「提供地方規定」，以 GitHub Issue 表單提供（`.github/ISSUE_TEMPLATE/local-regulation.yml`），表單會自動加上 `local-regulation`、`needs-review` 標籤（第一次使用前請在 GitHub → Issues → Labels 建立這兩個標籤，否則標籤不會加上，但表單仍可使用）。**任何地方規定都必須經管理者審核才收錄**：
+其他縣市同仁可在網站「資料來源」頁按「提供地方規定」，以 Google 表單提供（建立與設定方式見 `docs/google-form.md`；表單網址填入 `web/src/pages/Sources.tsx` 的 `GOOGLE_FORM_URL` 後按鈕才會出現）。回應只有表單擁有者看得到。**任何地方規定都必須經管理者審核才收錄**：
 
-1. **確認無個資**：Issue 內容公開。若含姓名、電話、身分證字號、地號或個案資料，先編輯刪除（或隱藏該留言）再處理。
+1. **確認無個資**：若回應含姓名、電話、身分證字號、地號或個案資料，處理完即刪除該筆回應（表單「回覆」頁與試算表都要刪）。
 2. **核對官方網址**：網址須為政府機關網域（`gov.tw`），且頁面可看到法規全文或發布令。非官方來源（新聞、部落格、私人整理）一律不收。
 3. **核對內容**：名稱、發布／修正日期、發文字號、施行日期與官方頁面一致；確認是否仍有效（未廢止、未停止適用）、是否有更新版本。
 4. **判斷相關性**：限與農地農用、農業設施容許使用、農地變更使用、農舍、填土等本站主題直接相關者。
 5. **決定收錄方式**：
    - 該縣市法規系統屬「主管法規共用系統」（網址含 `LawContent.aspx?id=GL…`），且 robots.txt 未限制：在 `counties.yaml` 該縣市下設 `law_system`、`source_id: local-縣市英文`、`auto_sync: true`、`checked: true`，並在 `laws:` 新增一筆（見下方範例）。不確定 robots 或頁面格式時，先執行 Actions → **diagnose**，在 `probe` 欄填入法規網址，結果在 `diagnostics` 分支的 `probe-report.json`。
    - 無法自動擷取者（robots 不允許、格式不同、只有 PDF）：設 `checked: true`、`auto_sync: false`，人工建立 `data/laws/<縣市代碼>-<編號>.json`（格式同 `data/laws/TXG-GL000357.json`，須含 `county`、`official_url`、`sources`），並在 `review` 欄註明人工輸入日期與核對人。
-6. **留下審核紀錄**：在該筆設定填 `reviewed_by`（單位或職稱即可）、`reviewed_at`、`basis`（核對之官方頁面）、`issue`（Issue 網址）。網站法規頁會顯示審核紀錄。
-7. **Google 表單來的資料**（若已建立，見 `docs/google-form.md`）：審核方式相同，結果記在回應試算表，`issue` 欄填「Google 表單第 N 筆回應」。
-8. **回覆並關閉 Issue**：說明已收錄（附網站連結）或不收錄之理由；不收錄者可將法規代碼加入該縣市 `rejected:`，候選清單即不再列出。
+6. **留下審核紀錄**：在該筆設定填 `reviewed_by`（單位或職稱即可）、`reviewed_at`、`basis`（核對之官方頁面）、`issue`（選填：審核紀錄連結，或「Google 表單第 N 筆回應」）。網站法規頁會顯示審核紀錄。
+7. **回寫試算表**：在回應試算表填審核狀態（收錄／不收錄）與理由；不收錄者可將法規代碼加入該縣市 `rejected:`，候選清單即不再列出。表單未收集聯絡方式，如需回覆提供者，請以機關內部管道聯繫。
 
 ```yaml
       - law_system_id: GL000357          # 官方網址 id= 後面的代碼
@@ -58,7 +57,7 @@ GitHub → Actions → 左側選 **update-laws** → 右側 **Run workflow** →
         reviewed_by: ○○縣政府農業處
         reviewed_at: 2026-11-01
         basis: 臺中市法規查詢系統法規內容頁（府授農地字第1130041756號令修正）
-        issue: https://github.com/ottoted34/taiwan-agri-land-law/issues/12
+        issue: Google 表單第 12 筆回應
 ```
 
 存檔後下次 update-laws（每日）即會擷取；要立即生效可手動執行 update-laws（mode `daily`）。
