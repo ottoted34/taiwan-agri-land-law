@@ -15,9 +15,11 @@ from .base import CollectResult, Collector
 SVC = "https://data.moa.gov.tw/Service/OpenData/DataFileService.aspx?UnitId={}"
 
 # field aliases across datasets
-TITLE = ["題目", "標題", "書名", "名稱", "主題", "篇名", "Title"]
-DATE = ["出版日期年月", "出刊時間", "出版日期", "發布日期", "日期", "出版年月"]
-LINK = ["連結位址1PDF", "檔案連結", "連結", "網址", "連結位址", "URL", "PDF連結"]
+TITLE = ["題目", "標題", "書名", "篇名", "內容", "問題", "主題", "名稱", "Title"]
+DATE = ["出版日期年月", "出刊時間", "出版日期", "發布日期", "公告日期", "出版年月", "資料日期", "日期"]
+LINK = ["連結位址1PDF", "檔案連結", "下載連結", "刊物網址", "詳細網址", "連結", "網址", "連結位址", "URL", "PDF連結"]
+ABSTRACT = ["解答", "摘要", "說明"]
+PERSONAL_FIELDS = {"姓名", "電子信箱", "聯絡電話", "聮絡電話", "手機", "地址", "身分證"}
 AUTHOR = ["作者", "撰稿人"]
 ISSUE = ["編號", "期別", "期數", "卷期"]
 
@@ -30,9 +32,15 @@ def _first(rec: dict, keys: list[str]):
 
 
 def _ym(s) -> str | None:
-    """'11508' (ROC yyy mm) / '202606' / '2026-06' -> '2026-08'."""
+    """'11508' (ROC yyy mm) / '202606' / '2026-06' / '105年6月' / '2017-11-01' -> ISO (year-month or date)."""
     if s is None:
         return None
+    m = re.match(r"\s*(\d{2,3})\s*年\s*(\d{1,2})\s*月", str(s))
+    if m and 1 <= int(m.group(2)) <= 12:
+        return f"{int(m.group(1)) + 1911}-{int(m.group(2)):02d}"
+    m = re.match(r"\s*((?:19|20)\d{2})[-/](\d{1,2})(?:[-/](\d{1,2}))?", str(s))
+    if m:
+        return f"{m.group(1)}-{int(m.group(2)):02d}" + (f"-{int(m.group(3)):02d}" if m.group(3) else "")
     t = re.sub(r"\D", "", str(s))
     if len(t) == 6 and t.startswith(("19", "20")):
         return f"{t[:4]}-{t[4:6]}"
@@ -47,7 +55,7 @@ def _ym(s) -> str | None:
 
 LIST_API = "https://data.moa.gov.tw/api/open_list.ashx"
 PUB_TITLE = re.compile(r"專刊|彙報|專訊|月刊|季刊|期刊|出版|叢書|專輯|手冊|技術|農情|研究|成果|問答")
-EXCLUDE_TITLE = re.compile(r"技術移轉|技轉|商標|品種權|專利|授權|徵才|採購|預算|決算")
+EXCLUDE_TITLE = re.compile(r"技術移轉|技術轉移|技轉|商標|品種權|品種研發成果|專利|授權|徵才|採購|預算|決算|名冊|通訊錄|聯絡")
 
 
 def discover(client, agencies: dict) -> tuple[list[dict], list[str]]:
@@ -118,6 +126,10 @@ class DataMoaPublications(Collector):
             if not isinstance(data, list):
                 res.errors.append(f"{ds['unit_id']}: 非預期格式")
                 continue
+            if any(PERSONAL_FIELDS & set(row) for row in data[:20] if isinstance(row, dict)):
+                res.notes.append(f"{ds['title']}（{ds['unit_id']}）含個人聯絡資料欄位，依個資原則不收錄")
+                res.extra.setdefault("complete_units", []).append(ds["unit_id"])
+                continue
             n = 0
             for row in data:
                 title = clean(str(_first(row, TITLE) or ""))
@@ -127,7 +139,8 @@ class DataMoaPublications(Collector):
                     title = f"{ds['series']} {issue}".strip()
                 if not title:
                     continue
-                key = sha256([ds["unit_id"], issue, title, str(_first(row, DATE) or ""), str(link or "")])[:16]
+                key = sha256(sorted((k, str(v)) for k, v in row.items() if v not in (None, "")))[:16]
+                ab = _first(row, ABSTRACT)
                 res.records.append({
                     "source_key": f"datamoa:{ds['unit_id']}:{key}",
                     "title": title,
@@ -136,6 +149,7 @@ class DataMoaPublications(Collector):
                     "agency_id": ds["agency_id"],
                     "authors": clean(str(_first(row, AUTHOR) or "")),
                     "date": _ym(_first(row, DATE)),
+                    "abstract": clean(str(ab))[:600] if ab else None,
                     "url": link,
                     "isbn": row.get("ISBN"),
                     "gpn": row.get("政府出版品編號GPN"),

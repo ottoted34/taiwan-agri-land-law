@@ -76,7 +76,7 @@ export function prepLaws(rows: LawIdx[]): PreparedArticle[] {
 }
 export interface PreparedTech { r: TechIdx; t: string; x: string }
 export function prepTech(rows: TechIdx[]): PreparedTech[] {
-  return rows.map((r) => ({ r, t: norm(r.t), x: norm([r.se, r.au, r.is, r.ds].join(" ")) }));
+  return rows.map((r) => ({ r, t: norm(r.t), x: norm([r.se, r.au, r.is, r.ds, r.ab || ""].join(" ")) }));
 }
 
 /** normalised textual forms of an article number, e.g. "29-1" -> 第29條之1 / 第29-1條 / 第29之1條 */

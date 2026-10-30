@@ -6,7 +6,7 @@ export interface InterpIdx {
 }
 export interface TechIdx {
   id: string; t: string; se: string; is: string; ag: string; au: string; d: string | null; u: string | null; tp: string[];
-  isbn?: string | null; gpn?: string | null; pg?: string | null; ds?: string; dsu?: string; lic?: string; ls?: string; miss?: string | null;
+  isbn?: string | null; gpn?: string | null; pg?: string | null; ds?: string; dsu?: string; lic?: string; ls?: string; miss?: string | null; ab?: string | null;
 }
 export interface Manifest {
   built_at: string; git_sha: string;

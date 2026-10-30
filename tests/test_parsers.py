@@ -104,3 +104,12 @@ def test_moj_normalise(fixtures):
 def test_split_fulltext():
     arts = split_fulltext_articles("第 一 章 總則\n\n第一條\n本辦法依據。\n\n第二條\n適用範圍如下：\n一、耕地。")
     assert [a["key"] for a in arts] == ["1", "2"] and arts[1]["text"].endswith("一、耕地。")
+
+
+def test_datamoa_dates_and_personal_data_guard():
+    from agrilaw.collectors.datamoa import PERSONAL_FIELDS, _ym
+    assert _ym("11508") == "2026-08"
+    assert _ym("202606") == "2026-06"
+    assert _ym("105年6月") == "2016-06"
+    assert _ym("2017-11-01") == "2017-11-01"
+    assert {"姓名", "電子信箱"} <= PERSONAL_FIELDS

@@ -26,6 +26,7 @@ export default function TechPage() {
       {t.isbn && <><dt>ISBN</dt><dd>{t.isbn}</dd></>}
       {t.gpn && <><dt>GPN</dt><dd>{t.gpn}</dd></>}
       <dt>技術主題（系統自動標記）</dt><dd>{t.tp.length ? t.tp.map((x) => man.topics.technical_topics[x]?.label || x).join("、") : "—"}</dd>
+      {t.ab && <><dt>官方摘要／解答</dt><dd className="small">{t.ab}{t.ab.length >= 600 ? "…" : ""}</dd></>}
       <dt>原始官方網址</dt><dd>{t.u ? <ExtLink href={t.u}>開啟官方檔案或頁面</ExtLink> : "官方資料未提供連結"}</dd>
       <dt>書目來源</dt><dd>{t.dsu ? <ExtLink href={t.dsu}>{t.ds || "農業資料開放平臺"}</ExtLink> : t.ds}</dd>
       <dt>資料授權</dt><dd className="small">{t.lic}</dd>

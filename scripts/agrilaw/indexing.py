@@ -72,7 +72,7 @@ def build() -> dict:
                    "au": t.get("authors"), "d": t.get("date"), "u": t.get("url"), "tp": t.get("topics", []),
                    "isbn": t.get("isbn"), "gpn": t.get("gpn"), "pg": t.get("pages"), "ds": (t.get("dataset") or {}).get("title"),
                    "dsu": (t.get("dataset") or {}).get("url"), "lic": t.get("license"), "ls": t.get("last_synced"),
-                   "miss": t.get("source_missing_since")} for t in techs]
+                   "miss": t.get("source_missing_since"), "ab": t.get("abstract")} for t in techs]
     write_json(out / "search-tech.json", tech_index, compact=True)
 
     # ---- sources / status

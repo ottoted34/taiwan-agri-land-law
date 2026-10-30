@@ -7,4 +7,4 @@ datasets:
   - {unit_id: "B83", title: 臺東區農業改良場農情月刊, agency_id: ttdares, series: 農情月刊}
   - {unit_id: "809", title: 桃園區農業改良場研究彙報, agency_id: tydares, series: 研究彙報}
 # 經人工判斷與本專案無關、不收錄的資料集代碼
-exclude: []
+exclude: ["107", "109", "801"]  # 107 人員名冊（個資）；109 技術移轉公告；801 品種權清單
