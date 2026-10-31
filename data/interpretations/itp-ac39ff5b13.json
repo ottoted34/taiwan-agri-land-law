@@ -1,0 +1,76 @@
+{
+ "id": "itp-ac39ff5b13",
+ "doc_class": "interpretation",
+ "docno": "農企字第0910125022號",
+ "date": "2002-05-29",
+ "date_text": "91/5/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋苗栗縣卓蘭鎮果樹產銷班擬申請核發農產品冷藏設施用電證明以憑辦農業動力用電案",
+ "content": "依「農業動力用電範圍及標準」第一項第三款規定農產品冷藏及糧食倉儲用電，其適用對象係指農民團體及農產品批發市場冷藏農產品時，得申請農業動力用電優惠，而查農業發展條例第三條第七款「農民團體」之定義，係指農民依農會法、漁會法、合作社法、農田水利會組織通則所組織之農會、漁會、農業合作社及農田水利會；另，農產品批發市場依農產品市場交易法第三條第二款規定，係指每日或定期集中進行農產品交易之機構。故本案果樹產銷班如非屬前述之農民團體或農產品批發市場，自無法適用上開範圍及標準第一項第三款之規定辦理。至第一項第二款「農作物栽培及收穫後處理用電」，並未包含「冷藏」之處理機械用電，故亦不適用該款之規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4872",
+   "serial": null,
+   "fetched_at": "2026-11-01T06:00:09+08:00",
+   "source_key": "rmis:4872"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": null,
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "3",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "963436544b2f824016117779cb411ba89e435d726faabf945e6b24b2facb4e4d",
+ "topics": [
+  "orchard"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "銷班擬申請核發農產品冷藏設施用電證明以憑辦農業動力用電案\n依「農業動力用電範圍及標準」第一項第三款規定農產品冷藏及糧食倉儲用電,其適用對象係指農民團體及農產品批發市場"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "體及農產品批發市場冷藏農產品時,得申請農業動力用電優惠,而查農業發展條例第三條第七款「農民團體」之定義,係指農民依農會法、漁會法、合作社法、農田水利會組織通則"
+  }
+ ]
+}

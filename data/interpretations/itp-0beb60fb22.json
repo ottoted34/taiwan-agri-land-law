@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940157934號",
  "date": "2005-10-26",
- "date_text": "94年10月26日農企字第0940157934號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/10/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "062 釋農牧用地整筆土地上建有祖墳案",
  "content": "查農業用地應作農業使用始得核發農業用地作農業使用證明書。又農業用地作農業使用認定及核發證明辦法第8條雖有明文「農業用地部分面積有下列情形之一，且不影響供農業使用者，得認定為作農業使用：一、於土地使用編定前已存在有墳墓，經檢具證明文件者....」惟其既已撿骨遷葬，該地即應恢復作農業使用，始得認定符合農業使用之定義。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940157934號|釋農牧用地整筆土地上建有祖墳案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4956",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:51+08:00",
+   "source_key": "rmis:4956"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "52e3dc94661ee7be5cabf9694ce93b93bb577d986dfe9f087d83204d1618fda6",
+ "content_hash": "434b3563fecb928d80ffa9ae17f72fb78d4d762fa1c5c3a5872dd257f1f59760",
  "topics": [
   "farm_use_cert",
   "partial_use"
@@ -70,6 +77,18 @@
    "article": "8",
    "kind": "extracted",
    "snippet": "\n查農業用地應作農業使用始得核發農業用地作農業使用證明書。又農業用地作農業使用認定及核發證明辦法第8條雖有明文「農業用地部分面積有下列情形之一,且不影響供農業使用者,得認定為作農業使"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "52e3dc94661ee7be5cabf9694ce93b93bb577d986dfe9f087d83204d1618fda6",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

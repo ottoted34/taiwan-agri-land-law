@@ -1,0 +1,76 @@
+{
+ "id": "itp-7d28aa6397",
+ "doc_class": "interpretation",
+ "docno": "農授水保字第0951851325號",
+ "date": "2006-05-15",
+ "date_text": "95/5/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "貴府函詢有關毗鄰2筆土地（分屬都市計畫保護區及農業區）合併後始達0.25公頃，若無法合併，得否視為符合「農業用地興建農舍辦法」第3條第1項第3款規定之疑義案，復請查照。",
+ "content": "一、復 貴府95年4月25日北府農牧字第0950323681號函。\n二、地籍測量實施規則第225條規定：「土地界址調整應以同一地段、地界相連、使用分區及使用性質均相同之土地為限」經查都市計畫法臺灣省施行細則第27條及第29條，都市計畫保護區與農業區，其劃定原則及使用性質均不相同，依上開規則不得合併為單一筆土地，合先敘明。\n三、農業用地興建農舍辦法第3條第1項第3款規定：「申請興建農舍之該宗農業用地不得小於0.25公頃……。」此所稱「該宗」農業用地，係指土地單1筆地號農業用地而言，若有相鄰兩筆土地同屬一個所有權人，且各筆面積為達0.25公頃，需依地籍測量實施規則第225條辦理合併規定之農業用地者，應先辦理合併為單一地號農業用地，且面積達0.25公頃以上，始得申請興建農舍。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=251",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:41+08:00",
+   "source_key": "rmis:251"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2013-07-01",
+    "history": "中華民國一百零二年七月一日內政部台內營字第 1020805247 號令、行政院農業委員會農水保字第 1021865656 號令會銜修正發布全文 17 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0110013",
+    "law_name": "農業用地興建農舍辦法",
+    "article": "3",
+    "amended_on": "2015-09-04",
+    "history": "中華民國104年09月04日內政部臺內營字第1040813558號令、行政院農業委員會農水保字第1041816006號令會銜修正發布全文 2條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "3e69ddd465079fbe7f70f5a9ec712a069de790acdb2841fbd9a2f31ad60ee896",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0110013",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "區及農業區)合併後始達0.25公頃,若無法合併,得否視為符合「農業用地興建農舍辦法」第3條第1項第3款規定之疑義案,復請查照。\n一、復 貴府95年4月25日北府農牧字第0"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "同一地段、地界相連、使用分區及使用性質均相同之土地為限」經查都市計畫法臺灣省施行細則第27條及第29條,都市計畫保護區與農業區,其劃定原則及使用性質均"
+  }
+ ]
+}

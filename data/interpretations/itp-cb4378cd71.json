@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0910137624號",
  "date": "2002-07-17",
- "date_text": "91年7月17日農企字第0910137624號函",
- "agency_text": "",
- "category": "",
+ "date_text": "91/7/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "025 釋農業用地作假山、庭園造景及水池等使用案",
  "content": "查農業用地作農業使用認定及核發證明辦法第7條「……係指農業用地實際種植各類農作物、林木、飼養禽蓄、水產養殖、種植牧草或植生等而未閒置不用者。……」所稱「植生」係指人為種植草類、灌木及喬木等植物，並有經營管理之事實，以防止土壤之流失及沖蝕，而有涵養水源等水土保持之功能者而言。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0910137624號|釋農業用地作假山庭園造景及水池等使用案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5532",
+   "serial": null,
+   "fetched_at": "2026-11-01T06:00:02+08:00",
+   "source_key": "rmis:5532"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "2db426532d80ef7d8496e122bef6ac5b1b3c236cf9aad3e0962dce8b0757c696",
+ "content_hash": "9ebd930d26a3be2caf3e1bda4f38499ea8126da50daedacb5c6d866a4ce16ab8",
  "topics": [
   "farm_use_cert",
   "aquaculture"
@@ -88,6 +95,18 @@
    "article": "7",
    "kind": "extracted",
    "snippet": "025 釋農業用地作假山、庭園造景及水池等使用案\n查農業用地作農業使用認定及核發證明辦法第7條「......係指農業用地實際種植各類農作物、林木、飼養禽蓄、水產養殖、種植牧草"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "2db426532d80ef7d8496e122bef6ac5b1b3c236cf9aad3e0962dce8b0757c696",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

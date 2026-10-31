@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0931810435號",
  "date": "2004-05-26",
- "date_text": "93年5月26日農企字第0931810435號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/5/26",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "053 釋農業發展條例及相關配套法案於89年1月26日修正施行前，以多筆農地合併興建農舍，配合耕地已移轉他人，該農舍及其坐落之農地併同移轉案",
  "content": "一、查農業用地作農業使用認定及核發證明辦法第6條「農業設施或農舍有下列情形之一者，不得認定為作農業使用……。三、本條例民國89年1月26日修正公布施行前，以多筆農業用地合併計算基地面積申請興建農舍，其原合併計算之農業用地部分或全部業已移轉他人，致不符合原申請興建農舍之要件者。」之規定，係將本會前於91年多次召開會議研商，並就研商結論於91年4月7日以農企字第0910010047號函釋之規定，提升為該辦法之條文，以為執行依據，合先敘明。\n二、本案農舍坐落之農業用地及其他合併計算基地面積之農業用地，如因繼承而分別由二子（合法繼承人）取得，且繼續持有，得認定該合併計算基地面積之農業用地未移轉他人。倘該筆農舍坐落之農業用地無違規使用情事，得依前開函釋規定，核發農業用地作農業使用證明書。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0931810435號|釋農業發展條例及相關配套法案於89年1月26日修正施行前以多"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4929",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:36+08:00",
+   "source_key": "rmis:4929"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "359b955f735e7a78d34eb99c74c6f5e19951c0ae5a5e3a8a47932017cc4c47aa",
+ "content_hash": "e7ae4f9c1bfe30735251634de4410ddbda05d5fed695844b9e321b16e6da5086",
  "topics": [
   "farm_use_cert",
   "farmhouse"
@@ -76,6 +83,18 @@
    "article": "6",
    "kind": "extracted",
    "snippet": ",配合耕地已移轉他人,該農舍及其坐落之農地併同移轉案\n一、查農業用地作農業使用認定及核發證明辦法第6條「農業設施或農舍有下列情形之一者,不得認定為作農業使用......。三、本條例民"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "359b955f735e7a78d34eb99c74c6f5e19951c0ae5a5e3a8a47932017cc4c47aa",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

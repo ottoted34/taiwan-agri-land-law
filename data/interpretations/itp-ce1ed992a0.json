@@ -1,0 +1,79 @@
+{
+ "id": "itp-ce1ed992a0",
+ "doc_class": "interpretation",
+ "docno": "農糧字第0911009297號",
+ "date": "2002-05-16",
+ "date_text": "91/5/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋○○股份有限公司申辦農業動力用電案",
+ "content": "依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定，有關農作物栽培、收穫後處理、冷藏等直接供農業所需者，並經該管直轄市或縣（市）主管機關核發證明文件者，得檢具應備之證明文件，向電力公司申辦基本電費減免手續，請貴公司依前揭規定辦理。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4978",
+   "serial": null,
+   "fetched_at": "2026-11-01T06:00:12+08:00",
+   "source_key": "rmis:4978"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-11-01T06:03:04+08:00",
+   "source_key": "rmis-lawexp:農糧字第0911009297號|釋○○股份有限公司申辦農業動力用電案"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": null,
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "official"
+   }
+  ]
+ },
+ "content_hash": "82473d876f3fc1131f76c33b069981f5c90991c27d73c7cd7fa342e19ced13bf",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "29",
+   "kind": "extracted",
+   "snippet": "釋○○股份有限公司申辦農業動力用電案\n依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定,有關農作物栽培、收穫後處理、冷藏等直"
+  },
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "司申辦農業動力用電案\n依據農業發展條例第二十九條及行政院訂頒「農業動力用電範圍及標準」規定,有關農作物栽培、收穫後處理、冷藏等直接供農業所需者,並經該管直轄市或縣(市"
+  }
+ ]
+}

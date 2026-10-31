@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0920101942號",
  "date": "2003-01-14",
- "date_text": "92年1月14日農企字第0920101942號函",
- "agency_text": "",
- "category": "",
+ "date_text": "92/1/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "059 釋法院拍賣農業用地後，申請核發農業用地作農業使用證明書事宜案",
  "content": "有關金融機構申請法院拍賣債務人之農業用地後，可否以債權人身分申請退還已扣繳之土地增值稅案，經財政部前函檢附該部89年5月30日台財稅第0890453884號函釋略以：「查土地稅法第39條之3第2項……。法院拍賣之農業用地係屬無須申報土地移轉現值之案件，其合於同法第39條之2第1項規定要件者，依上開規定，應由權利人或義務人提出申請，債權人尚不得代位申請不課徵土地增值稅。」準此，農業金融機構既無法以債權人身分，申請退還已扣繳之土地增值稅，應無申請核發農業用地作農業使用證明書之必要。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0920101942號|釋法院拍賣農業用地後申請核發農業用地作農業使用證明書事宜案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4947",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:57+08:00",
+   "source_key": "rmis:4947"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "742cb474edae8bea0ffe1156a7027f5623f3b903a46fd99f60be04df5069d79c",
+ "content_hash": "f357e9570b0f9c81c1da52e9eb867527bc1a3e558f9f421d771441276367c4bd",
  "topics": [
   "farm_use_cert",
   "tax"
@@ -70,6 +77,18 @@
    "article": "39-3",
    "kind": "extracted",
    "snippet": "89年5月30日台財稅第0890453884號函釋略以:「查土地稅法第39條之3第2項......。法院拍賣之農業用地係屬無須申報土地移轉現值之案件,其合於同法"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "742cb474edae8bea0ffe1156a7027f5623f3b903a46fd99f60be04df5069d79c",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

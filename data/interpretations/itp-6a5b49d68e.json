@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0920128617號",
  "date": "2003-05-27",
- "date_text": "92年5月27日農企字第0920128617號函",
- "agency_text": "",
- "category": "",
+ "date_text": "92/5/27",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "079 釋水利用地種植作物或不作灌溉、排水使用，不符合作農業使用認定案",
  "content": "一、查農業發展條例第3條第10款「農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地：……（二）供與農業經營不可分離之農舍、……『灌溉、排水』及其他農用之土地……」前開「灌溉、排水」係屬與農業經營不可分離之設施，其於非都市土地均編定為水利用地，故依區域計畫法劃定為各種使用分區內編定之水利用地，必須符合農業用地作農業使用認定及核發證明辦法第6條所規範之農田水利設施，始符合農業使用認定基準。準此，水利用地作堤防及防汛設施使用並不符合前開認定基準，不宜核發農業用地作農業使用證明書。\n二、另所稱農業用地作農業使用證明書之申請人是否為權利人或已依法解散之私法人（原所有權人）乙節，查農業用地作農業使用證明書僅係證明申請土地係作農業使用無誤，故其申請人得為土地所有權人、承受人或權利關係人。至其土地移轉應納稅賦之申報或審核係屬稅捐稽徵主管機關之權責，宜由稅捐稽徵主管機關本於權責核處。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0920128617號|釋水利用地種植作物或不作灌溉排水使用不符合作農業使用認定案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4993",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:45+08:00",
+   "source_key": "rmis:4993"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "66910d97b3a1ade3f13876d097ad7c92ad0082a8ad8f66b581b2258b217c9b54",
+ "content_hash": "8786b20481b3d6f972a8a0c92135a9904fae461ecf6d4d6296c8ef9b4fc165fc",
  "topics": [
   "farm_use_cert",
   "farmhouse",
@@ -101,6 +108,18 @@
    "article": "6",
    "kind": "extracted",
    "snippet": ",故依區域計畫法劃定為各種使用分區內編定之水利用地,必須符合農業用地作農業使用認定及核發證明辦法第6條所規範之農田水利設施,始符合農業使用認定基準。準此,水利用地作堤防及防汛設施使用"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "66910d97b3a1ade3f13876d097ad7c92ad0082a8ad8f66b581b2258b217c9b54",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

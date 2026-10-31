@@ -50,18 +50,6 @@
  "relations": [
   {
    "law_id": "M0020001",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
-  },
-  {
-   "law_id": "M0020022",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
-  },
-  {
-   "law_id": "M0020001",
    "article": "3",
    "kind": "extracted",
    "snippet": "用地上已興建農舍者,得否於該農地上再行申請興建農業設施案\n依農業發展條例第三條第十二款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"

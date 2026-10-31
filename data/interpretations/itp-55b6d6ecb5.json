@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農授水保字第0951843564號",
  "date": "2006-07-12",
- "date_text": "95年7月12日農授水保字第0951843564號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/7/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "035釋山坡地土石採取所形成之低窪地不予同意規劃供養殖使用",
  "content": "本案涉及「水土保持計畫」部分，仍應依本會95年6月1日農授水保字第0951843363號函辦理，亦即採取土石最終採掘面之最低點，不得低於該最低點毗鄰之土地；涉及「採取土石」部分，依「非都市土地農牧用地容許採取土石審查作業要點」第2點第1項規定，土石採取案件申請容許使用，以無須回填之坡地土石為原則；涉及「供養殖使用」部分，依「農業用地容許作農業設施使用審查辦法」第8條第8款規定，申請水產養殖設施之養殖用地，如屬採取土石後遺留有坑洞者，不予同意。",
  "memo": "",
- "agency_id": null,
- "agency_name": null,
- "historical_name": "（原文未載發文機關；改制前文件）",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農授水保字第0951843564號|釋山坡地土石採取所形成之低窪地不予同意規劃供養殖使用"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5022",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:06+08:00",
+   "source_key": "rmis:5022"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "ef1038b372c31f8f2b95dc1b294dce703de8865fc9fbc205702c9bf29894b066",
+ "content_hash": "ddeebeb8820f44ac6f7794d1ded8ab4a6ba9d5afdcb813c8e40170195f088c7c",
  "topics": [
   "landfill",
   "aquaculture"
@@ -88,6 +95,18 @@
    "article": "8",
    "kind": "extracted",
    "snippet": "使用,以無須回填之坡地土石為原則;涉及「供養殖使用」部分,依「農業用地容許作農業設施使用審查辦法」第8條第8款規定,申請水產養殖設施之養殖用地,如屬採取土石後遺留有坑洞者,不予同意。"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "ef1038b372c31f8f2b95dc1b294dce703de8865fc9fbc205702c9bf29894b066",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

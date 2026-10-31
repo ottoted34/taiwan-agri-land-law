@@ -1,0 +1,83 @@
+{
+ "id": "itp-d1988eb0f0",
+ "doc_class": "interpretation",
+ "docno": "農企字第0920169161號",
+ "date": "2003-11-28",
+ "date_text": "92/11/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋有關已繳交農業用地變更回饋金，因原變更土地被政府徵收無法作變更使用用途，得否申請退還回饋金規定",
+ "content": "主旨：有關申請土地變更後因政府徵收致無法作變更後目的之使用者，是否得申請退還所繳交之農業用地變更回饋金乙案，復請　查照。\n說明：\n一、復　貴府九十二年十一月十九日府農務字第○九二○一三○五八四號函。\n二、配合行政程序法之施行，政府各項作業涉及人民權利義務部分，應以法制層面規範。查農業用地變更回饋金之收取，為農業發展條例第十二條所明定，依其規定，農業用地之變更，應視其事業性質，繳交回饋金；並授權就其有關回饋金、金錢或代金之繳交、撥交與分配方式及繳交基準之辦法，由中央主管機關會商相關機關定之。民眾申請農業用地變更使用，除有農業發展條例第十二條第四項規定得免繳交回饋金之情況外，應依其變更使用情況繳交。\n三、查有關○○○為農產加工設施使用申請農業用地變更使用，經貴府於九十一年十二月同意用地變更使用，雖尚未使用即因政府徵收致部分土地無法為變更後目的使用，如該用地業經依據興辦事業計畫書變更編定為特定目的事業用地完竣，因該農業用地已完成變更編定之程序，其依據農業用地變更回饋金撥繳及分配利用辦法規定繳交之農業用地變更回饋金，應無申請退還之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5175",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:23+08:00",
+   "source_key": "rmis:5175"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2004-11-15",
+    "history": "中華民國九十三年十一月十五日行政院農業委員會農企字第 0930010532 號令修正發布全文 9 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020018",
+    "law_name": "農業用地變更回饋金撥繳及分配利用辦法",
+    "article": null,
+    "amended_on": "2016-05-25",
+    "history": "中華民國一百零五年五月二十五日行政院農業委員會農企字第 1050012376A 號令修正發布全文 11 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "5086152ef8ea5afafdccfc0d5568c3f690124c7d67b01b6fd5e23d288e190880",
+ "topics": [
+  "partial_use",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "A0030055",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "年十一月十九日府農務字第○九二○一三○五八四號函。\n二、配合行政程序法之施行,政府各項作業涉及人民權利義務部分,應以法制層面規範。查農業用地變更回饋金"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "12",
+   "kind": "extracted",
+   "snippet": "利義務部分,應以法制層面規範。查農業用地變更回饋金之收取,為農業發展條例第十二條所明定,依其規定,農業用地之變更,應視其事業性質,繳交回饋金;並授權就其有關回饋"
+  },
+  {
+   "law_id": "M0020018",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "定目的事業用地完竣,因該農業用地已完成變更編定之程序,其依據農業用地變更回饋金撥繳及分配利用辦法規定繳交之農業用地變更回饋金,應無申請退還之適用。"
+  }
+ ]
+}

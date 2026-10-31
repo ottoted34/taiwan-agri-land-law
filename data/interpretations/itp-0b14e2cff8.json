@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950132277號",
  "date": "2006-06-16",
- "date_text": "95年6月16日農企字第0950132277號",
- "agency_text": "",
- "category": "",
+ "date_text": "95/6/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "057 釋都市計畫農業區申請農業用地容許作農業設施使用審查建蔽率不得超過60%認定案。",
  "content": "一、依據都市計畫法臺灣省施行細則第29條第2項規定，「前項但書所訂農業產銷必要設施，不得擅自變更使用，其種類由中央目的事業機關定之；其建蔽率不得超過60%，並不得供為居室、工廠及其他農業產銷必要設施使用。」爰此，都市計畫農業區申請興建「農業產銷必要設施」之相關項目時，應符合「農業用地容許作農業設施使用審查辦法」及各縣(市)政府依都市計畫法臺灣省施行細則所訂頒之相關審查規定，且建蔽率不得超過60%，先予敘明。\n二、按農業發展條例第8條之1規定，興建有固定基礎之農業設施，應申請農業設施之容許使用，並依法申請建築執照，有關都市計畫農業區依農業用地容許作農業設施使用審查辦法第11條申請興建之農作產銷設施-「蓄水池」、第16條第1項水產養殖設施-「養殖池」、第18條第2項養禽設施-「鴨或鵝之水池」，倘涉及建築行為依法應申請建築執照者，其興建之農業設施應納入建蔽率之計算中。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950132277號|釋都市計畫農業區申請農業用地容許作農業設施使用審查建蔽率不得"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5060",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:21+08:00",
+   "source_key": "rmis:5060"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "48d891ca5189931021b2b2eeaceb2f16db558af47fc41aea5370154c1a6574f2",
+ "content_hash": "b3065f2fd1ae03643b00043937d8ca1563fa71ef533780d8fe4e95937dbed4aa",
  "topics": [
   "land_change",
   "aquaculture"
@@ -100,6 +107,18 @@
    "article": "11",
    "kind": "extracted",
    "snippet": "農業設施之容許使用,並依法申請建築執照,有關都市計畫農業區依農業用地容許作農業設施使用審查辦法第11條申請興建之農作產銷設施-「蓄水池」、第16條第1項水產養殖設施-「養殖池」、第1"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "48d891ca5189931021b2b2eeaceb2f16db558af47fc41aea5370154c1a6574f2",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

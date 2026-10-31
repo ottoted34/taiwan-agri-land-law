@@ -40,14 +40,8 @@
  ],
  "flags": [
   "date_unknown",
-  "historical_agency"
+  "historical_agency",
+  "docno_shared"
  ],
- "relations": [
-  {
-   "law_id": "M0020018",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
-  }
- ]
+ "relations": []
 }

@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0930103755號",
  "date": "2004-01-20",
- "date_text": "93年1月20日農企字第0930103755號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/1/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "052 釋法院拍賣之農業用地申請農業用地作農業使用證明書，現場會勘時得由相關權利人或申請人指界案",
  "content": "一、查農業用地作農業使用認定及核發證明辦法第11條第3項明定「申請人非土地所有權人時，應通知土地所有權人到場。」其目的除讓該土地所有權人瞭解有申請人為前開辦法第3條各款之情形，擬申請其所有土地之農業用地作農業使用證明書外，並請其至現場指界，以確認其土地之界址範圍。惟如其因故無法親自到場時，亦得委託他人代理，以保障其權益。\n二、又前開所稱「應通知『土地所有權人』到場」係指申請農業用地作農業使用證明書之該筆或持份部分農業用地之土地所有權人而言，並非指共有土地之全體共有人。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0930103755號|釋法院拍賣之農業用地申請農業用地作農業使用證明書現場會勘時得"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4907",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:15+08:00",
+   "source_key": "rmis:4907"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "d1ca7a285d280609e2d69eb914145f7691f6219da87250ff78bdc37ca6fe46e8",
+ "content_hash": "2dbe24d3a8413253d7af292a8c338a4c6ab680600e3642d54ec688833e523966",
  "topics": [
   "farm_use_cert"
  ],
@@ -69,6 +76,18 @@
    "article": "11",
    "kind": "extracted",
    "snippet": "業使用證明書,現場會勘時得由相關權利人或申請人指界案\n一、查農業用地作農業使用認定及核發證明辦法第11條第3項明定「申請人非土地所有權人時,應通知土地所有權人到場。」其目的除讓該土地所"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "d1ca7a285d280609e2d69eb914145f7691f6219da87250ff78bdc37ca6fe46e8",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

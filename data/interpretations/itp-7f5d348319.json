@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940121403號",
  "date": "2005-04-29",
- "date_text": "94年4月29日農企字第0940121403號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/4/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
  "content": "一、查本會90年7月31日(90)農企字900010341號函釋有關共有農業用地之部分共有人，為申請其持份部分之農業用地作農業使用證明書，該農業用地倘有部分違規使用情事時，得依據全體共有人合意之分管契約書，就申請人分管部分查核是否符合農業使用認定基準，作為是否核發農業用地作農業使用證明書之依據乙節，係基於善意認定申請人並無欺瞞、耍詐之情事，並兼顧法令規定及農業用地共有人之權益，所作之適法措施，合先敘明。\n二、本案共有人之一原以土地所有權人之身分，於該共有土地申請興建自用農舍，其分管區域即應包含該農舍坐落之區域，始為前開函釋保護善意土地共有人之意旨，且符合農業發展條例所規範，無自用農舍者得於自有農業用地上興建自用農舍之立法意旨，以及後續農舍應與其坐落用地併同移轉之管制規定。\n三、綜上，已申請興建自用農舍之共有農業用地，如有必要訂定分管契約書時，農舍及其坐落之農業用地，應屬同一共有人，始符前開法令規定之意旨。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940121403號|釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4811",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:36+08:00",
+   "source_key": "rmis:4811"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -41,7 +48,7 @@
    }
   ]
  },
- "content_hash": "d257b524003217519e7e68596310583a881c9f5074b7f4969cf2446baaf1c0cd",
+ "content_hash": "61173eb4db63c099c08ab1b9e55e8de0e8df5a1513b77a78b4049a39e9e5198d",
  "topics": [
   "farm_use_cert",
   "farmhouse"
@@ -61,6 +68,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "農舍坐落之區域,始為前開函釋保護善意土地共有人之意旨,且符合農業發展條例所規範,無自用農舍者得於自有農業用地上興建自用農舍之立法意旨,以及後續農舍應與其"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "d257b524003217519e7e68596310583a881c9f5074b7f4969cf2446baaf1c0cd",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

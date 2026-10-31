@@ -1,0 +1,55 @@
+{
+ "id": "itp-c55cf5a45f",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930145296號",
+ "date": "2004-09-23",
+ "date_text": "93/9/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋特定農業區內作為墳墓使用之耕地是否可登記在財團法人祭祀公業名下疑義。",
+ "content": "一、依農業發展條例第三條第十一款規定「耕地：指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地。」依台端來文所附之土地登記謄本影本資料所示………地號等四筆土地均為特定農業區農牧用地，屬「耕地」定義無誤，應受同條例第三十三條前段「私法人不得承受耕地」限制，合先敘明。\n二、本案土地如屬日據時代即為墳墓使用，應洽地政主管機關內政部辦理更正編定有關事宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5068",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:20+08:00",
+   "source_key": "rmis:5068"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "79f7b8bae7387ef1a99b0aaa9b8a7ceb6030bf4eef304ef3f5b9d05328ade0fc",
+ "topics": [],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "墳墓使用之耕地是否可登記在財團法人祭祀公業名下疑義。\n一、依農業發展條例第三條第十一款規定「耕地:指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "名下疑義。\n一、依農業發展條例第三條第十一款規定「耕地:指依區域計畫法劃定為特定農業區、一般農業區、山坡地保育區及森林區之農牧用地。」依台端來文所附之"
+  }
+ ]
+}

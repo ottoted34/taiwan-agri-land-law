@@ -1,0 +1,51 @@
+{
+ "id": "itp-a497efcbef",
+ "doc_class": "interpretation",
+ "docno": "營署建管字第0930046961號",
+ "date": "2004-07-29",
+ "date_text": "93/7/29",
+ "agency_text": "內政部營建署",
+ "category": "解釋函",
+ "subject": "貴府函為農業發展條例修正前之農業用地興建農舍已領得使用執照，申請增編門牌增加戶數，是否仍按農民申請農舍以一戶一農舍為原則之規定辦理乙案，復請查照。",
+ "content": "一、復貴府93年7月12日府工使字第0930126676號函。\n二、按實施區域計畫地區，申請自用農舍以同一戶自用為限，為本部81年8月17日台（81）內營字第8104300號函所明釋。本案農業發展條例修正前之農業用地興建農舍已領得使用執照者，仍應符合上開規定，不得增編門牌增加戶數。",
+ "memo": "",
+ "agency_id": null,
+ "agency_name": "內政部營建署",
+ "historical_name": null,
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4520",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:26+08:00",
+   "source_key": "rmis:4520"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "ccb359f227ceeefb428683ea6d7b787cf579ed787c23e9d0f2aa0f0b950c9ae5",
+ "topics": [
+  "farmhouse"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴府函為農業發展條例修正前之農業用地興建農舍已領得使用執照,申請增編門牌增加戶數,是否仍按農民申請農"
+  }
+ ]
+}

@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0920178732號",
  "date": "2004-01-07",
- "date_text": "93年1月7日農企字第0920178732號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/1/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "062 釋農牧用地整筆土地上建有祖墳案",
  "content": "一、查農業用地符合作農業使用之認定基準，始得核發農業用地作農業使用證明書。有關農業使用之定義及認定基準，分別於農業發展條例第3條第12款及農業用地作農業使用認定及核發證明辦法業有明文規定。\n二、依農業用地作農業使用認定及核發證明辦法第8條之規定「農業用地『部分面積』有下列情形之一，且不影響供農業使用者，得認定為作農業使用：一、於土地使用編定前已存在有墳墓，經檢具證明文件者。二、……」旨揭土地如符合前開規定自得核發農業用地作農業使用證明書；惟如不符合前開規定，但係土地使用編定前即已存在之墳墓，得依非都市土地使用管制規則第8條「得為從來之使用」之規定及農業用地作農業使用認定及核發證明辦法第12條第2項之規定，向縣（市）政府申請核發「耕地符合土地使用管制規定證明書」，以辦理耕地所有權移轉登記。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0920178732號|釋農牧用地整筆土地上建有祖墳案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4963",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:20+08:00",
+   "source_key": "rmis:4963"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "11058e9b9c4607789adde52bccad6b14d98ad5e6e14c4971f25e439d765a8d99",
+ "content_hash": "2f3927278af4d48d30d226bfdb0f39d48439903417ef07909e4504aefbdfd5ff",
  "topics": [
   "farm_use_cert",
   "partial_use"
@@ -106,6 +113,18 @@
    "article": "12",
    "kind": "extracted",
    "snippet": ",得依非都市土地使用管制規則第8條「得為從來之使用」之規定及農業用地作農業使用認定及核發證明辦法第12條第2項之規定,向縣(市)政府申請核發「耕地符合土地使用管制規定證明書」,以辦理耕"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "11058e9b9c4607789adde52bccad6b14d98ad5e6e14c4971f25e439d765a8d99",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

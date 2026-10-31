@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0930105880號",
  "date": "2004-02-09",
- "date_text": "93年2月9日農企字第0930105880號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/2/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "061 釋未經申請建築許可即先行動工興建農舍，其為補申請建築執照，應檢附農業用地作農業使用證明書之核發事宜案",
  "content": "有關農業發展條例89年1月26日修正施行後取得之農業用地，未經申請建築許可即先行動工興建農舍，為補申請建築執照，仍得適用本會92年10月31日農企字第0920163303號函示規定，核發「僅供申請補辦農舍建築執照使用」之農業用地作農業使用證明書。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0930105880號|釋未經申請建築許可即先行動工興建農舍其為補申請建築執照應檢附"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4949",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:08+08:00",
+   "source_key": "rmis:4949"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "amended_by_later",
@@ -48,7 +55,7 @@
    }
   ]
  },
- "content_hash": "2438a03d519c7f1792f7b2e26352fb7a775753bf75a79644444b01ba224ceab0",
+ "content_hash": "dddd36deac0f33a7810ba6d2bdb1b7696574478f58f42f0cf702aa81f2c7181e",
  "topics": [
   "farm_use_cert",
   "farmhouse"
@@ -69,6 +76,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "請建築執照,應檢附農業用地作農業使用證明書之核發事宜案\n有關農業發展條例89年1月26日修正施行後取得之農業用地,未經申請建築許可即先行動工興建農舍,為"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "2438a03d519c7f1792f7b2e26352fb7a775753bf75a79644444b01ba224ceab0",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

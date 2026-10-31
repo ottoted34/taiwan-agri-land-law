@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農輔字第0950106494號",
  "date": "2006-02-17",
- "date_text": "95年2月17日農輔字第0950106494號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/2/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "043釋休閒農場申請籌設中涉及既有或新設農業設施或農舍（包括民宿）等疑義案",
  "content": "一、休閒農場籌設申請土地範圍內，既存或新設農業設施及自有農舍，將提供休閒使用者，其設施面積應列入經營計畫書併入計算，但已取得容許使用許可者，若其使用型態未有變更，其面積得不計入休閒農業設施面積比率。\n二、休閒農業輔導理辦法第18條規定，休閒農場設置住宿設施、餐飲設施、自產農產品加工（釀造）廠、農產品與農村文物展示（售）及教育解說中心等休閒農業設施，除現況土地編定依法得容許使用者外，得依相關規定辦理非都市土地變更編定。爰此，已取得農業設施容許使用之自產農產品加工室或符合農舍管理相關規定之農舍，未變更使用目的或型態者，得依非都市土地容許使用執行要點規定辦理；若前述相關設施已轉變用途另供休閒使用者，則依據本辦法關規定辦理用地變更。",
  "memo": "",
- "agency_id": null,
- "agency_name": null,
- "historical_name": "（原文未載發文機關；改制前文件）",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農輔字第0950106494號|釋休閒農場申請籌設中涉及既有或新設農業設施或農舍包括民宿等疑"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5028",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:12+08:00",
+   "source_key": "rmis:5028"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "e3376ec8abfc5773adb0ecc0dc8ed086cc4229cb0a75d71d7f7c2d0c496b5fa9",
+ "content_hash": "00a082f1f4690c467f073323574ebedc478c94ebc58bd44399b770f466db5d1d",
  "topics": [
   "land_change",
   "farmhouse",
@@ -65,6 +72,18 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "e3376ec8abfc5773adb0ecc0dc8ed086cc4229cb0a75d71d7f7c2d0c496b5fa9",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

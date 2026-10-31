@@ -39,7 +39,8 @@
   "material_room"
  ],
  "flags": [
-  "date_unknown"
+  "date_unknown",
+  "docno_shared"
  ],
  "relations": [
   {

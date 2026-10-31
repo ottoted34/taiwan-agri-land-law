@@ -1,0 +1,1478 @@
+{
+ "run_id": "41245376610",
+ "mode": "weekly",
+ "started_at": "2026-11-01T05:49:42+08:00",
+ "sources": [
+  {
+   "source_id": "moj-law-api",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 28,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 2,
+   "notes": [
+    "全國法規資料庫查無（名稱不符或已廢止）：農業動力用電範圍及標準、農業技術密集或資本密集類目標準、都市計畫法臺灣省施行細則",
+    "資料集更新日期：{'law': '2026/10/22 上午 12:00:00', 'order': '2026/10/22 上午 12:00:00'}"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-laws",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 24,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 25,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "status": "partial",
+   "complete": true,
+   "added": 100,
+   "modified": 103,
+   "status_changed": 0,
+   "unchanged": 6,
+   "rejected": 0,
+   "failed": 1,
+   "missing_flagged": 0,
+   "requests": 382,
+   "notes": [
+    "列表頁數：172，本次讀取列表 1712 筆（不重複）",
+    "明細擷取 210 筆"
+   ],
+   "errors": [
+    "detail 52: 明細頁無資料"
+   ]
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 24,
+   "notes": [
+    "官方列示關聯 4055 筆；本次新收錄僅見於法規對應頁之函釋 0 筆（官方頁面未載發文日期）"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "forest-interpretations",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 103,
+   "notes": [
+    "列表 103 頁，本次讀取 103 頁、1022 筆，符合收錄範圍 366 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "talis-green-energy",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 14,
+   "notes": [
+    "列表 14 頁，本次讀取 14 頁、112 筆，符合收錄範圍 112 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "local-taichung",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 6,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 64,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "course-summaries",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 50,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 0,
+   "notes": [],
+   "errors": []
+  }
+ ],
+ "events": [
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-55b6d6ecb5",
+   "docno": "農授水保字第0951843564號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7b43ea292e",
+   "docno": "農企字第0950137804號",
+   "date": "2006-07-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-845b8347a6",
+   "docno": "農企字第0950137031號",
+   "date": "2006-07-11"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b9b8987c8c",
+   "docno": "農企字第0950137031號",
+   "date": "2006-07-11"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-e5951d2c37",
+   "docno": "農企字第0950136679號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a8b61bfecd",
+   "docno": "農企字第0950135010號",
+   "date": "2006-06-30"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-346815260f",
+   "docno": "農企字第0950131799號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a3f59960a8",
+   "docno": "農企字第0950133502號",
+   "date": "2006-06-22"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-e16c6c987b",
+   "docno": "農企字第0950132666號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e682e0e00b",
+   "docno": "農企字第0950132615號",
+   "date": "2006-06-19"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-0b14e2cff8",
+   "docno": "農企字第0950132277號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2aab629bb6",
+   "docno": "農企字第0950131969號",
+   "date": "2006-06-14"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fd647a8fd5",
+   "docno": "農企字第0950131455號",
+   "date": "2006-06-13"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-20e024ce5b",
+   "docno": "農企字第0950131496號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-9937188610",
+   "docno": "農企字第0950131123號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-120148617d",
+   "docno": "農企字第0950130654號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-07b9b4e03c",
+   "docno": "農企字第0950129165號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-919418eab4",
+   "docno": "農企字第0950127408號",
+   "date": "2006-05-26"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2fb770a76f",
+   "docno": "農企字第0950125313號",
+   "date": "2006-05-22"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-024097819a",
+   "docno": "農企字第0950127139號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-786139afdd",
+   "docno": "農企字第0950127362號",
+   "date": "2006-05-22"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-b4e54a2cbe",
+   "docno": "農企字第0950127088號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4832734d86",
+   "docno": "農企字第0950126498號",
+   "date": "2006-05-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7d28aa6397",
+   "docno": "農授水保字第0951851325號",
+   "date": "2006-05-15"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-82c640c231",
+   "docno": "農企字第0950120199號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-d13ede1973",
+   "docno": "農牧字第0950124088號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-eb7e001b25",
+   "docno": "農企字第0950123873號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b330c1d01f",
+   "docno": "農企字第0950123052號",
+   "date": "2006-05-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b51e412ef3",
+   "docno": "農企字第0950122290號",
+   "date": "2006-05-01"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-3535887205",
+   "docno": "農企字第0950121233號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ce27b3561b",
+   "docno": "農企字第0950117504號",
+   "date": "2006-04-18"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-24e078592f",
+   "docno": "農企字第0950118308號",
+   "date": "2006-04-12"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-50a0d391b2",
+   "docno": "農企字第0950115471號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4f86ad97ff",
+   "docno": "農企字第0950115741號",
+   "date": "2006-03-29"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-cd399eae75",
+   "docno": "農企字第0950010504號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-9725d12d4b",
+   "docno": "農企字第0950111314號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7faa3a7301",
+   "docno": "農企字第0950113287號",
+   "date": "2006-03-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d6559084e5",
+   "docno": "農企字第0950111784號",
+   "date": "2006-03-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-2f6a302d6a",
+   "docno": "農企字第0950111783號",
+   "date": "2006-03-13"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-57e6e727e4",
+   "docno": "農企字第0950111395號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-f1ed0f4a57",
+   "docno": "農企字第0950110067號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f116c84df5",
+   "docno": "農企字第0950110065號",
+   "date": "2006-03-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-933d83d811",
+   "docno": "農企字第0950109181號",
+   "date": "2006-02-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a349cfe40c",
+   "docno": "農企字第0950108160號",
+   "date": "2006-02-20"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-36d0b8fca8",
+   "docno": "農輔字第0950106494號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-95bfc3e1d9",
+   "docno": "農企字第0950107069號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-91593be5bb",
+   "docno": "農企字第0950106961號",
+   "date": "2006-02-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-5dd1008e9d",
+   "docno": "農授水保字第0951850824號",
+   "date": "2006-01-25"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-f57ad9f358",
+   "docno": "農企字第0950101994號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-72cf63e2fe",
+   "docno": "農企字第0941026866號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-5d29466aa0",
+   "docno": "農企字第0950101994號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-447d873f29",
+   "docno": "農企字第0940170383號",
+   "date": "2005-12-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-141c224fbf",
+   "docno": "農企字第0940169721號",
+   "date": "2005-12-21"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-89b2f56567",
+   "docno": "農企字第0940168992號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c876807b1e",
+   "docno": "農企字第0940168416號",
+   "date": "2005-12-16"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-6885c1715d",
+   "docno": "農企字第0940168682號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-00f8572f1a",
+   "docno": "農企字第0940168415號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0fdabecd2d",
+   "docno": "農企字第0940167698號",
+   "date": "2005-12-12"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-aaff6068a2",
+   "docno": "農企字第0940167220號",
+   "date": "2005-12-09"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-785d3e6133",
+   "docno": "農企字第0940167220號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-47beddab26",
+   "docno": "台內營字第0940011948號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-993f9c4647",
+   "docno": "農企字第0940166848號",
+   "date": "2005-12-08"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-39789af2fb",
+   "docno": "農企字第0940165779號",
+   "date": "2005-12-05"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-bbda0b5b9d",
+   "docno": "農企字第0940165987號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8e75a93bf2",
+   "docno": "農企字第0940164436號",
+   "date": "2005-11-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-be947016bd",
+   "docno": "農企字第0940163764號",
+   "date": "2005-11-28"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9c28871bbd",
+   "docno": "農企字第0940163998號",
+   "date": "2005-11-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8acb5aadc2",
+   "docno": "農企字第0940162190號",
+   "date": "2005-11-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-eb96e36255",
+   "docno": "農企字第0940159516號",
+   "date": "2005-11-04"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-a0f85ef3c0",
+   "docno": "農企字第0940158903號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-0beb60fb22",
+   "docno": "農企字第0940157934號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-4dd1c7e8ec",
+   "docno": "農企字第0940155744號",
+   "date": "2005-10-14"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-0acad23656",
+   "docno": "農企字第0940149702號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f603280f40",
+   "docno": "農企字第0940149417號",
+   "date": "2005-09-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-63087b7b70",
+   "docno": "農企字第0940147679號",
+   "date": "2005-09-13"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7672a6948e",
+   "docno": "農企字第0940147701號",
+   "date": "2005-09-09"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-b390aac063",
+   "docno": "農企字第0940144188號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-13c5ed5f2e",
+   "docno": "農企字第0940141062號",
+   "date": "2005-08-16"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-c0976fb2d8",
+   "docno": "農企字第0940140473號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e73204d0e7",
+   "docno": "農企字第0940711352號",
+   "date": "2005-07-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3d8969ba73",
+   "docno": "農企字第0940135305號",
+   "date": "2005-07-12"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-3b7fa6508c",
+   "docno": "農牧字第0940133031號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-dadb54927b",
+   "docno": "農企字第0940134444號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e03aeaa1ed",
+   "docno": "農企字第0940134158號",
+   "date": "2005-07-04"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-94b5fc4d91",
+   "docno": "台內營字第0940084214號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-54e7793f73",
+   "docno": "農企字第0940131813號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-01958fea7f",
+   "docno": "農企字第0940010289號",
+   "date": "2005-06-23"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-e59b528880",
+   "docno": "農企字第0940131757號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb89fdf08b",
+   "docno": "農企字第0940131724號",
+   "date": "2005-06-21"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-cb36759646",
+   "docno": "內授營建管字第0940006860號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-97abc567db",
+   "docno": "內授營建管字第0940006860號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-282093eb31",
+   "docno": "農企字第0940130614號",
+   "date": "2005-06-16"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-f682db56fd",
+   "docno": "農企字第0940130438號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-9c54bb0b80",
+   "docno": "農企字第0940126286號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-02b279df98",
+   "docno": "農企字第0940125066號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-d17ce7f4a2",
+   "docno": "農企字第0940124047號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-77c8ac0ae1",
+   "docno": "農企字第0941008519號",
+   "date": "2005-05-11"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-a382d5997c",
+   "docno": "農企字第0940122771號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0cf3384d65",
+   "docno": "農企字第0940121935號",
+   "date": "2005-05-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-77376a4f44",
+   "docno": "農企字第0940121156號",
+   "date": "2005-05-02"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-7f5d348319",
+   "docno": "農企字第0940121403號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-da31f89784",
+   "docno": "農企字第0940120497號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-bb1aa351d2",
+   "docno": "內營字第9083323號",
+   "date": "2005-04-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-694ade0f1e",
+   "docno": "農企字第0940114321號",
+   "date": "2005-03-29"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-33cdb56253",
+   "docno": "農企字第0940113021號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-022c004dfc",
+   "docno": "農企字第0940111877號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-dbdaf12ea8",
+   "docno": "農牧字第0930161996號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c071798e80",
+   "docno": "農企字第0930159878號",
+   "date": "2004-12-21"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-20964cd83e",
+   "docno": "農企字第0930159038號",
+   "date": "2004-12-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d26b5c96cd",
+   "docno": "農授林務字第0930155325號",
+   "date": "2004-12-10"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-08d6be21e5",
+   "docno": "農企字第0930010551號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-796b8c85d4",
+   "docno": "農企字第0930156485號",
+   "date": "2004-12-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f205a3d6bb",
+   "docno": "農企字第0930156778號",
+   "date": "2004-12-03"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-796b8c85d4",
+   "docno": "農企字第0930156485號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-e5c9fc6bdd",
+   "docno": "營署中城字第0930072654號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-4c02a72e31",
+   "docno": "農企字第0931826247號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d77d34009f",
+   "docno": "農授漁字第0931233378號",
+   "date": "2004-11-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c355aa9c6d",
+   "docno": "農企字第0930155982號",
+   "date": "2004-11-29"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-103f29905c",
+   "docno": "農企字第0930154232號",
+   "date": "2004-11-16"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e47987f920",
+   "docno": "農企字第0931021339號",
+   "date": "2004-11-11"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-ea8c5bf26f",
+   "docno": "農牧字第0930151160號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-1fd54a15c6",
+   "docno": "農企字第0930151979號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-99f5aa81cb",
+   "docno": "農企字第0930150946號",
+   "date": "2004-10-29"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-682846cc3c",
+   "docno": "內授營建管字第0930087248號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1758d8944d",
+   "docno": "農糧企字第0931071869號",
+   "date": "2004-09-30"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-3587bd2936",
+   "docno": "農企字第0930144289號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c55cf5a45f",
+   "docno": "農企字第0930145296號",
+   "date": "2004-09-23"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-a2adc0de42",
+   "docno": "農企字第0930141642號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-7742ba8775",
+   "docno": "農企字第0930141296號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-2ea1199914",
+   "docno": "農企字第0930140936號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a497efcbef",
+   "docno": "營署建管字第0930046961號",
+   "date": "2004-07-29"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-1abcbc3b73",
+   "docno": "農企字第0930132447號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9eb4aa1b4f",
+   "docno": "農授糧字第0930124396號",
+   "date": "2004-06-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9ebacdf3d3",
+   "docno": "農糧企字第0930125735號",
+   "date": "2004-06-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-9adf0b832e",
+   "docno": "農糧企字第0931010160號",
+   "date": "2004-06-01"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-029e966a65",
+   "docno": "農企字第0931810435號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-bf142068d7",
+   "docno": "農牧字第0930120273號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-39852c5e01",
+   "docno": "農授水保字第0931806098號",
+   "date": "2004-04-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ebb9ef2057",
+   "docno": "農糧企字第0931070367號",
+   "date": "2004-04-06"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-e0501a8ed3",
+   "docno": "九十三年四月六日農糧企字○九三一○七○三六七號函"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a01af9cb6a",
+   "docno": "農授糧字第0931005270號",
+   "date": "2004-04-01"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0677b96ee2",
+   "docno": "農授糧字第093109456號",
+   "date": "2004-04-01"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-a01af9cb6a",
+   "docno": "農授糧字第0931005270號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-0677b96ee2",
+   "docno": "農授糧字第093109456號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-e8691c4d62",
+   "docno": "農企字第0930115376號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-2ff20a05e6",
+   "docno": "農糧企字第093105383號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-b19b97b7f5",
+   "docno": "農糧企字第0931005383號",
+   "date": "2004-03-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-89a9835833",
+   "docno": "農糧企字第0930112830號",
+   "date": "2004-03-16"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-d3b6c03742",
+   "docno": "農糧企字第0930112142號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-5b39dc0fd2",
+   "docno": "農授糧字第0931001956號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e59e253ddc",
+   "docno": "農授糧字第0931001956號",
+   "date": "2004-03-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-363849efb0",
+   "docno": "農糧企字第0931003390號",
+   "date": "2004-02-24"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8a50339af3",
+   "docno": "農授糧字第0931002492號",
+   "date": "2004-02-23"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-c7d36cf4bf",
+   "docno": "農授糧字第0931002492號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-dda23394b1",
+   "docno": "內授營建管字第0920013745號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-1ff6d976ad",
+   "docno": "內授營建管字第0920013745號",
+   "date": "2004-02-12"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-72628fd3f2",
+   "docno": "農企字第0930105880號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cf2cbc8113",
+   "docno": "農授糧字第0931001784號",
+   "date": "2004-02-05"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-127c14b46b",
+   "docno": "農企字第0930105021號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-04b930294a",
+   "docno": "農企字第0930101902號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-07b261b9ea",
+   "docno": "農企字第0930103755號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-bc91426d25",
+   "docno": "農企字第0931000065號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-91010083bb",
+   "docno": "農企字第0920177652號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-69d4ba2be9",
+   "docno": "農企字第0920178732號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-23640a3fda",
+   "docno": "農授中字第0921070708號",
+   "date": "2003-12-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-d1988eb0f0",
+   "docno": "農企字第0920169161號",
+   "date": "2003-11-28"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-3724ef1be0",
+   "docno": "農企字第0920168390號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-c256b6a292",
+   "docno": "農企字第0920165323號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-b9f6504bbb",
+   "docno": "農企字第0920162962號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-482bbd1826",
+   "docno": "農企字第0920165301號",
+   "date": "2003-11-06"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-8255d1dd62",
+   "docno": "農企字第0920163303號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-8255d1dd62",
+   "docno": "農企字第0920163303號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e59e16a192",
+   "docno": "農企字第0920161438號",
+   "date": "2003-10-27"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-49b02e090e",
+   "docno": "農企字第0920160737號",
+   "date": "2003-10-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e200376527",
+   "docno": "農企字第0920161675號",
+   "date": "2003-10-23"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-cca9952d28",
+   "docno": "農企字第0920161439號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-f36206b5c6",
+   "docno": "農企字第0920161007號",
+   "date": "2003-10-17"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-f87f63bdfe",
+   "docno": "農企字第0920138812號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-55316d3f43",
+   "docno": "農企字第0920138230號",
+   "date": "2003-07-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c68a10f34e",
+   "docno": "農企字第0920136398號",
+   "date": "2003-06-27"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-6a5b49d68e",
+   "docno": "農企字第0920128617號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-c3140442cb",
+   "docno": "農企字第0920123089號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-cbae041454",
+   "docno": "農企字第0920126127號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-e68caf05e7",
+   "docno": "農企字第0920116122號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-fceedffa7f",
+   "docno": "農企字第0920114246號",
+   "date": "2003-03-19"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e2d5602bed",
+   "docno": "農企字第0920114465號",
+   "date": "2003-03-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-e0a721e77f",
+   "docno": "農企字第0920111558號",
+   "date": "2003-03-07"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-83970f0c83",
+   "docno": "農企字第0920101942號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-77ef433a0f",
+   "docno": "農企字第0910171880號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-245254973a",
+   "docno": "農企字第0910171051號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-cb4378cd71",
+   "docno": "農企字第0910137624號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-23fcc26c16",
+   "docno": "農企字第0910137637號",
+   "date": "2002-07-17"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ef7c7806bb",
+   "docno": "農企字第0910137654號",
+   "date": "2002-07-11"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-7f596ace80",
+   "docno": "營署建管字第0912909522號"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-bf90d38d9b",
+   "docno": "農企字第0910130826號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ac39ff5b13",
+   "docno": "農企字第0910125022號",
+   "date": "2002-05-29"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-d8bbb7cfff",
+   "docno": "農企字第0910126111號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ce1ed992a0",
+   "docno": "農糧字第0911009297號",
+   "date": "2002-05-16"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-9e749b3917",
+   "docno": "農企字第0910120824號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0fa7b0250d",
+   "docno": "農牧字第0910115760號",
+   "date": "2002-04-19"
+  },
+  {
+   "kind": "modified",
+   "type": "interpretation",
+   "id": "itp-c86ea3bc73",
+   "docno": "農企字第0910010038號"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-a0cddbc09d",
+   "docno": "農企字第0910010044號",
+   "date": "2002-04-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3d02187c59",
+   "docno": "農中經一字第901008996號",
+   "date": "2002-04-09"
+  }
+ ],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 194,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 1039,
+   "no_known_cessation": 3466,
+   "needs_review": 64,
+   "amended_by_later": 66
+  },
+  "relations_extracted": 6800,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-11-01T06:07:41+08:00",
+ "result": "partial_failure"
+}

@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0930105021號",
  "date": "2004-02-02",
- "date_text": "93年2月2日農企字第0930105021號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/2/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "063 釋水土保持設施仍屬農業使用",
  "content": "查農業發展條例第3條第12款明定「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、『保育』及設置相關之農業設施或農舍使用者。」所稱「保育」應係指為維護國土保安、水土保持等需要而設置之設施。本案簡易水土保持設施經貴府核屬需要並予以備查，應符合前開農業使用之定義，得核發農業用地作農業使用證明書。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0930105021號|釋水土保持設施仍屬農業使用"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4967",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:12+08:00",
+   "source_key": "rmis:4967"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -41,7 +48,7 @@
    }
   ]
  },
- "content_hash": "c6a6325c216df67369b4d11d00cd01cff93ba441429168e9faf0a88cb66a88ef",
+ "content_hash": "add6be190735742b2fdd4963197ac5ab7408287b91601370d716e81916c028a0",
  "topics": [
   "farm_use_cert",
   "farmhouse",
@@ -63,6 +70,18 @@
    "article": "3",
    "kind": "extracted",
    "snippet": "063 釋水土保持設施仍屬農業使用\n查農業發展條例第3條第12款明定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、『保育』及設"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "c6a6325c216df67369b4d11d00cd01cff93ba441429168e9faf0a88cb66a88ef",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

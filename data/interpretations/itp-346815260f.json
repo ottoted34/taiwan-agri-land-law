@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950131799號",
  "date": "2006-06-22",
- "date_text": "95年6月22日農企字第0950131799號書函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/6/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "045 釋農業用地申請容許作農業設施使用，於山坡地保育區農牧用地申請興建農路、整坡作業等相關設施之水土保持計畫提送疑義案。",
  "content": "依水土保持法第12條第1項規定，於山坡地內修築農路或整坡作業，水土保持義務人應先擬具水土保持計畫，另依同條文第2項水土保持計畫未經主管機關核定前，各目的事業主管機關不得逕行核發開發或利用之許可。台端擬於山坡地範圍內申請農業設施及進行興建農路、整坡作業等事宜，應依水土保持法規定擬具水土保持計畫，同時提送農業用地作農業設施使用之申請案及水土保持計畫，由直轄市、縣(市)政府內農務單位及水土保持單位審查同意及核定後，始能進行相關作業。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950131799號|釋農業用地申請容許作農業設施使用於山坡地保育區農牧用地申請興"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5030",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:15+08:00",
+   "source_key": "rmis:5030"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "d4ac8aeb331be44087d266aadd41e6faff4e0db092940eac3d08743a04d32b73",
+ "content_hash": "66c37857493a01a5cb0cb5691b7be16c7b963be3bcd34303aa140dfc867192c8",
  "topics": [],
  "flags": [
   "historical_agency"
@@ -67,6 +74,18 @@
    "article": "12",
    "kind": "extracted",
    "snippet": "請興建農路、整坡作業等相關設施之水土保持計畫提送疑義案。\n依水土保持法第12條第1項規定,於山坡地內修築農路或整坡作業,水土保持義務人應先擬具水土保持計畫,另"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "d4ac8aeb331be44087d266aadd41e6faff4e0db092940eac3d08743a04d32b73",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

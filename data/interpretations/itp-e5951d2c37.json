@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950136679號",
  "date": "2006-07-07",
- "date_text": "95年7月7日農企字第0950136679號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/7/7",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "049 釋農業用地容許作農業設施使用審查辦法第23條所規定未依計畫用途使用之認定標準及農業設施住人之認定標準等疑義案。",
  "content": "一、依農業用地容許作農業設施使用審查辦法第23條規定，依本辦法取得農業用地容許作農業設施使用，未依計畫內容使用者，原核定機關得廢止其許可...。按本辦法第10條、第12條、第15條、第17條之規定，經營計畫書內容應敘明所列之各款事項，所稱之「未依計畫內容使用」即指未依申請容許使用時所擬定之經營計畫書各款內容使用而言。\n二、按農業發展條例第3條第12款規定，「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者」，農業設施及農舍雖屬農地上與農業經營有關之建築物，然農業設施為供農業生產管理之經營所需而非供居住使用，與農舍供居住使用之功能不同，且依據之法律及管制規定也不相同，故「農業用地容許作農業設施使用審查辦法」未規範相關農業設施得住人之審查標準。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950136679號|釋農業用地容許作農業設施使用審查辦法第23條所規定未依計畫用"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5053",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:12+08:00",
+   "source_key": "rmis:5053"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -113,7 +120,7 @@
    }
   ]
  },
- "content_hash": "2f2d0b6e8b7390d4f9fab6ecdf25e909d2ffb1b3149ce638b8c6b7dad0c8e601",
+ "content_hash": "c447c9feb19ec4b69158b3cac0d32fdce859022de9833127eb2a1fffb14d2f88",
  "topics": [
   "facility_use",
   "farmhouse",
@@ -141,6 +148,18 @@
    "article": "3",
    "kind": "extracted",
    "snippet": "依申請容許使用時所擬定之經營計畫書各款內容使用而言。\n二、按農業發展條例第3條第12款規定,「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "2f2d0b6e8b7390d4f9fab6ecdf25e909d2ffb1b3149ce638b8c6b7dad0c8e601",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

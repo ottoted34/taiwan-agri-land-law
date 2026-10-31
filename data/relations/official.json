@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T13:10:36+08:00",
+ "generated_at": "2026-11-01T06:03:04+08:00",
  "relations": [
   {
    "interp_id": "itp-f1f802bad8",
@@ -107,7 +107,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-e5c25923e7",
+   "interp_id": "itp-20964cd83e",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
@@ -121,7 +121,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-c07ac0863c",
+   "interp_id": "itp-796b8c85d4",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
@@ -163,7 +163,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-70ebe318e1",
+   "interp_id": "itp-103f29905c",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
@@ -184,7 +184,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-f7fbf3f947",
+   "interp_id": "itp-1758d8944d",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
@@ -219,21 +219,21 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-ac5fe604f7",
+   "interp_id": "itp-a01af9cb6a",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-446f64ce86",
+   "interp_id": "itp-0677b96ee2",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-c67fe0ed56",
+   "interp_id": "itp-b19b97b7f5",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
@@ -254,7 +254,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-e7fa5321f6",
+   "interp_id": "itp-89a9835833",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
@@ -268,14 +268,14 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-fae5ee93d2",
+   "interp_id": "itp-cf2cbc8113",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
   },
   {
-   "interp_id": "itp-323b072f85",
+   "interp_id": "itp-23640a3fda",
    "law_id": "M0020001",
    "article": null,
    "kind": "official",
@@ -380,7 +380,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2011"
   },
   {
-   "interp_id": "itp-cc620d84e6",
+   "interp_id": "itp-99f5aa81cb",
    "law_id": "M0020014",
    "article": null,
    "kind": "official",
@@ -2823,7 +2823,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-2cdbc5b795",
+   "interp_id": "itp-2aab629bb6",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -2837,21 +2837,21 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-ba8bf70479",
+   "interp_id": "itp-919418eab4",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-75a9dad802",
+   "interp_id": "itp-2fb770a76f",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-2fa40a9c9e",
+   "interp_id": "itp-24e078592f",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -2872,28 +2872,28 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-fa555b60ab",
+   "interp_id": "itp-7faa3a7301",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-6db0277225",
+   "interp_id": "itp-39789af2fb",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-d06020e594",
+   "interp_id": "itp-9c28871bbd",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-4bd07b33cd",
+   "interp_id": "itp-2f6a302d6a",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -2914,35 +2914,35 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-e6989a84b0",
+   "interp_id": "itp-91593be5bb",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-c5bee51556",
+   "interp_id": "itp-447d873f29",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-b162f43483",
+   "interp_id": "itp-8acb5aadc2",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-6d66826d9e",
+   "interp_id": "itp-4dd1c7e8ec",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-d33f121910",
+   "interp_id": "itp-8e75a93bf2",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -2984,7 +2984,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-fe35dd7435",
+   "interp_id": "itp-e200376527",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -3005,14 +3005,14 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-d40eba74d3",
+   "interp_id": "itp-55316d3f43",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-fe49bb2379",
+   "interp_id": "itp-c68a10f34e",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -3033,7 +3033,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-968aa2e99c",
+   "interp_id": "itp-23fcc26c16",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -3054,7 +3054,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
   },
   {
-   "interp_id": "itp-e59ede1f22",
+   "interp_id": "itp-a0cddbc09d",
    "law_id": "M0020018",
    "article": null,
    "kind": "official",
@@ -3985,7 +3985,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-ac5fe604f7",
+   "interp_id": "itp-a01af9cb6a",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -4055,14 +4055,14 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-446f64ce86",
+   "interp_id": "itp-0677b96ee2",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-c07ac0863c",
+   "interp_id": "itp-796b8c85d4",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -4517,7 +4517,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-6f3d059303",
+   "interp_id": "itp-141c224fbf",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -4538,7 +4538,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-d5ab223e38",
+   "interp_id": "itp-0fdabecd2d",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -4552,7 +4552,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-a6f9f66a6a",
+   "interp_id": "itp-993f9c4647",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -4580,7 +4580,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-8df4704a42",
+   "interp_id": "itp-694ade0f1e",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -4594,49 +4594,49 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-cbb16f90bf",
+   "interp_id": "itp-13c5ed5f2e",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-8a24ad1652",
+   "interp_id": "itp-63087b7b70",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-4d00544ee1",
+   "interp_id": "itp-3d8969ba73",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-7da1eff28c",
+   "interp_id": "itp-282093eb31",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-c1e8c8d0d1",
+   "interp_id": "itp-77c8ac0ae1",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-1a568cc52b",
+   "interp_id": "itp-01958fea7f",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-70ebe318e1",
+   "interp_id": "itp-103f29905c",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -4678,21 +4678,21 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-474dc69a82",
+   "interp_id": "itp-363849efb0",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-dda23394b1",
+   "interp_id": "itp-1ff6d976ad",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
   },
   {
-   "interp_id": "itp-fae5ee93d2",
+   "interp_id": "itp-cf2cbc8113",
    "law_id": "M0020022",
    "article": null,
    "kind": "official",
@@ -6764,7 +6764,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "interp_id": "itp-8fde7662d3",
+   "interp_id": "itp-39852c5e01",
    "law_id": "M0110013",
    "article": null,
    "kind": "official",
@@ -11874,7 +11874,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006"
   },
   {
-   "interp_id": "itp-63a5c52880",
+   "interp_id": "itp-5dd1008e9d",
    "law_id": "M0110013",
    "article": null,
    "kind": "official",
@@ -27617,14 +27617,14 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
   },
   {
-   "interp_id": "itp-ce3771aec2",
+   "interp_id": "itp-ce1ed992a0",
    "law_id": "RMIS-2007",
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
   },
   {
-   "interp_id": "itp-805e502bb4",
+   "interp_id": "itp-0fa7b0250d",
    "law_id": "RMIS-2007",
    "article": null,
    "kind": "official",
@@ -27848,7 +27848,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "interp_id": "itp-abe9f1966f",
+   "interp_id": "itp-4f86ad97ff",
    "law_id": "RMIS-3008",
    "article": null,
    "kind": "official",
@@ -27876,7 +27876,7 @@
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
   },
   {
-   "interp_id": "itp-3e60177fd4",
+   "interp_id": "itp-0cf3384d65",
    "law_id": "RMIS-3008",
    "article": null,
    "kind": "official",

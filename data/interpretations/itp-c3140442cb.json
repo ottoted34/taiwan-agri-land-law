@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0920123089號",
  "date": "2003-05-16",
- "date_text": "92年5月16日農企字第0920123089號函",
- "agency_text": "",
- "category": "",
+ "date_text": "92/5/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "065 釋非都市土地一般農業區養殖用地且實際作養殖使用，申請農業用地作農業使用證明書時，無需檢附養殖漁業登記證案",
  "content": "依據區域計畫法施行細則第15條之規定，非都市土地「養殖用地：供水產養殖及其設施使用者。」準此，養殖用地除興建有養殖設施需依規定申請容許使用外，其作養殖使用應即符合農業使用之認定基準，其申請農業用地作農業使用證明書尚無須以養殖漁業登記證為審核要件。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0920123089號|釋非都市土地一般農業區養殖用地且實際作養殖使用申請農業用地作"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4972",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:47+08:00",
+   "source_key": "rmis:4972"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -59,7 +66,7 @@
    }
   ]
  },
- "content_hash": "e72778e758e1d4039e57284f13bd7a7955d111bf3a1a29fa637aeb4ed326ed3f",
+ "content_hash": "d2853b746eeb443ad8eb1bc84b26db957cc779443513f14db45a0d3fff47b6f1",
  "topics": [
   "farm_use_cert",
   "aquaculture"
@@ -79,6 +86,18 @@
    "article": "15",
    "kind": "extracted",
    "snippet": "請農業用地作農業使用證明書時,無需檢附養殖漁業登記證案\n依據區域計畫法施行細則第15條之規定,非都市土地「養殖用地:供水產養殖及其設施使用者。」準此,養殖用地除興建有"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "e72778e758e1d4039e57284f13bd7a7955d111bf3a1a29fa637aeb4ed326ed3f",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

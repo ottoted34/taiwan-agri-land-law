@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940168992號",
  "date": "2005-12-20",
- "date_text": "94年12月20日農企字第0940168992號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/12/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "079 釋水利用地種植作物或不作灌溉、排水使用，不符合作農業使用認定案",
  "content": "查農業用地必須作農業使用，始得核發農業用地作農業使用證明書。又區域計畫法施行細則第15條第1項第12款明定「水利用地：供水利及其設施使用者。」另農業用地作農業使用認定及核發證明辦法第7條明定「農業用地有下列各款情形之一者，不得認定為作農業使用：一、現場有阻斷排灌水系統等情事者。二、....」因此，水利用地因淤塞與地面同高、雜草叢生，業已無法依法作水利及其設施使用，且已阻斷該水利用地作灌排水之使用，故依前開規定，應不得核發農業用地作農業使用證明書。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940168992號|釋水利用地種植作物或不作灌溉排水使用不符合作農業使用認定案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4990",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:26+08:00",
+   "source_key": "rmis:4990"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -59,7 +66,7 @@
    }
   ]
  },
- "content_hash": "31bbe6aa14f773ef415f94ef54933db331ecf4d6eb3f5d5bf4bc6ca0fff1d72b",
+ "content_hash": "8729dacea06ca32d4c69455444b9d4c24aa456cd832d5b067c63c8f74239d193",
  "topics": [
   "farm_use_cert"
  ],
@@ -84,6 +91,18 @@
    "article": "7",
    "kind": "extracted",
    "snippet": "5條第1項第12款明定「水利用地:供水利及其設施使用者。」另農業用地作農業使用認定及核發證明辦法第7條明定「農業用地有下列各款情形之一者,不得認定為作農業使用:一、現場有阻斷排灌水系"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "31bbe6aa14f773ef415f94ef54933db331ecf4d6eb3f5d5bf4bc6ca0fff1d72b",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0920165323號",
  "date": "2003-11-12",
- "date_text": "92年11月12日農企字第0920165323號函",
- "agency_text": "",
- "category": "",
+ "date_text": "92/11/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
  "content": "查本會90年7月31日（90）農企字第900010341號函釋有關共有土地之部分共有人申請其持分部分之農業用地作農業使用證明書案，係基於保障善意共有人及第三人之權益。本案依卷附文卷所陳如屬實情，○○○、第三人與○○○等不無虛偽作假及通謀之嫌，因此，涉及本案之農業用地作農業使用證明書之申請應予以駁回；前已核發者應予以撤銷，並通知稅捐稽徵機關及地政機關為適法之處分。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0920165323號|釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4813",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:26+08:00",
+   "source_key": "rmis:4813"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "161a85b5ebea0fe4d5b6e1dbf7c496648456c0165f46b1b0c1e070cd012d2db0",
+ "content_hash": "59241b0027454c145b5a6d7fc963e52ec781a8973c74eda09b79874d540f4460",
  "topics": [
   "farm_use_cert",
   "facility_use"
@@ -64,6 +71,18 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "161a85b5ebea0fe4d5b6e1dbf7c496648456c0165f46b1b0c1e070cd012d2db0",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

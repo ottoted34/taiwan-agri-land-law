@@ -1,0 +1,86 @@
+{
+ "id": "itp-be947016bd",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940163764號",
+ "date": "2005-11-28",
+ "date_text": "94/11/28",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關放寬埔里地區農機具室之審核以配合日本人居住埔里意願案。",
+ "content": "主旨：有關　貴服務處函送○○○建議放寬埔里地區農機具室之審核以配合日本人居住埔里意願一案，復請　查照。\n說明：\n一、復　貴服務處94年11月16日耘生投字第941041號函。\n二、查農機具室係屬農業使用設施之一種，而非供人居住使用之場所，依農業發展條例第3條第12款規定，「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者」，即農業設施係農地上與農業經營不可分離之設施，其使用應以農業經營為主體。另依農業發展條例第8條之1及農業用地容許作農業設施使用審查辦法第11條第8款規定，農機具室限供停放農機具使用，建造以1層樓為限，其係以提供農業經營需要之停放農機具場所，而非供居住使用，與一般建築物或農舍之功能有所差別。\n三、另　貴服務處所附○○○關切觀光旅遊發展及民宿管理事宜，係屬交通部觀光局主政業務，併案轉請該局參處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5325",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:44+08:00",
+   "source_key": "rmis:5325"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "11",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "7692f455ec4c183bbf746f800dc1c3b8ca28265f8195795222281e416e2b054c",
+ "topics": [
+  "machinery_room",
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "inseparable"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "查農機具室係屬農業使用設施之一種,而非供人居住使用之場所,依農業發展條例第3條第12款規定,「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "地上與農業經營不可分離之設施,其使用應以農業經營為主體。另依農業發展條例第8條之1及農業用地容許作農業設施使用審查辦法第11條第8款規定,農機具室限供停放農機具使"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "11",
+   "kind": "extracted",
+   "snippet": "設施,其使用應以農業經營為主體。另依農業發展條例第8條之1及農業用地容許作農業設施使用審查辦法第11條第8款規定,農機具室限供停放農機具使用,建造以1層樓為限,其係以提供農業經營需要"
+  }
+ ]
+}

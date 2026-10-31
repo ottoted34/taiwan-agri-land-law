@@ -1,0 +1,74 @@
+{
+ "id": "itp-786139afdd",
+ "doc_class": "interpretation",
+ "docno": "農企字第0950127362號",
+ "date": "2006-05-22",
+ "date_text": "95/5/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關農業發展條例第8條之1規定，得免申請建築執照之農業設施，及先行興建後輔導補辦容許使用之農業設施，是否須辦理地基調查案。",
+ "content": "主旨：有關　貴府函詢農業發展條例第8條之1規定，得免申請建築執照之農業設施，及先行興建後輔導補辦容許使用之農業設施，是否須辦理地基調查案，復請　查照。\n說明：\n一、依據內政部95年5月17日內授營建管字第0950081149號辦理(附件一)，並復貴府95年5月1日北府農牧字第0950349446號函。\n二、本案經洽內政部函復略以：「查農業發展條例第8條之1第2項規定『．．．但農業設施面積在45平方公尺以下，且屬一層樓之建築者，免申請建築執照。本條例中華民國92年1月13日修正施行前，已興建有固定基礎之農業設施，面積在250平方公尺以下而無安全顧慮者，得免申請建築執照。』有關免申請建築執照之農業設施，及先行興建後輔導補辦容許使用之農業設施，既依上開規定免申請建築執照，未納入建築管理，應否辦理地基調查乙節，自非屬本管業務」，另查農業發展條例及農業用地容許作農業設施使用審查辦法亦無規範地基調查等有關事宜，綜上，免申請建築執照之農業設施，應無建築技術規則建築構造編第64條辦理地基調查之適用。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5317",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:36+08:00",
+   "source_key": "rmis:5317"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "76bc7994d9a0b9188699ba6edacd036a5af04c1c7b071bfb435ccfd4eea04ddc",
+ "topics": [],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "有關農業發展條例第8條之1規定,得免申請建築執照之農業設施,及先行興建後輔導補辦容許使用之農業設施,是否須"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": ",應否辦理地基調查乙節,自非屬本管業務」,另查農業發展條例及農業用地容許作農業設施使用審查辦法亦無規範地基調查等有關事宜,綜上,免申請建築執照之農業設施,應無建築技術規則建築"
+  }
+ ]
+}

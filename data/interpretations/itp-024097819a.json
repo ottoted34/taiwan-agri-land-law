@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950127139號",
  "date": "2006-05-22",
- "date_text": "95年5月22日農企字第0950127139號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/5/22",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "019 釋非都市土地農牧用地申請作農業設施抽水機房容許使用，在非屬地下水管制區範圍內之鄉鎮是否應檢附水權狀證明文件疑義",
  "content": "依農業用地容許作農業設施使用審查辦法第11條第5款規定，抽水機房應先取得水權登記，係指其用水來源依法應辦理水權登記者，應先取得水權登記，倘申請案依水利法第42條免為水權登記者，自應依該規定免辦理水權登記。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950127139號|釋非都市土地農牧用地申請作農業設施抽水機房容許使用在非屬地下"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5018",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:35+08:00",
+   "source_key": "rmis:5018"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "fead0092d89147a8b73b9c795907e5901ec6b5e27c6af34bb83c8f236064a5df",
+ "content_hash": "d94b088d30e98298ff4cb8d5720bd816a169126c744fbc578211b6cbdd7ea03c",
  "topics": [],
  "flags": [
   "historical_agency"
@@ -85,6 +92,18 @@
    "article": "11",
    "kind": "extracted",
    "snippet": "非屬地下水管制區範圍內之鄉鎮是否應檢附水權狀證明文件疑義\n依農業用地容許作農業設施使用審查辦法第11條第5款規定,抽水機房應先取得水權登記,係指其用水來源依法應辦理水權登記者,應先取"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "fead0092d89147a8b73b9c795907e5901ec6b5e27c6af34bb83c8f236064a5df",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

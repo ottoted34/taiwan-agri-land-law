@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0930144289號",
  "date": "2004-09-23",
- "date_text": "93年9月23日農企字第0930144289號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/9/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "064 釋農業用地從事非畜牧範疇之動物（寵物）繁殖，不符合農業發展條例第3條第12款農業使用案",
  "content": "一、查農業發展條例第3條第12款明定「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」所稱「保育」係因農業用地之範圍包括依區域計畫法劃定為各種使用分區內編定之林業用地、……、生態保護用地、國土保安用地等，基於國土保安、生態保育、水土保持等設施興建之需要，而明訂於前開條文中。並非為設置「保育類動物」繁殖場所而訂定，故無論作為保育類或非保育類動物繁殖場所使用，均非屬前開條文所稱「保育」使用之範疇，合先敘明。\n二、又依畜牧法有關畜禽之定義、畜牧學門之領域，蛇類之繁殖管理應非屬「畜牧」之範疇，其使用亦不宜認定為畜牧使用。綜上，農業用地作蛇類繁殖場使用並不符合農業發展條例第3條第12款農業使用之定義。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0930144289號|釋農業用地從事非畜牧範疇之動物寵物繁殖不符合農業發展條例第3"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4969",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:18+08:00",
+   "source_key": "rmis:4969"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -41,7 +48,7 @@
    }
   ]
  },
- "content_hash": "bafd7dd0943c96c46eec7661ec17c91648f980beb5277d98edbf40134ad7c87e",
+ "content_hash": "0ec9a4f5e7e25d0cd0de7b3a8869608a4266cded79b70131c3b2a2bd12bde2ef",
  "topics": [
   "farmhouse",
   "livestock",
@@ -68,6 +75,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "農業設施或農舍使用者。」所稱「保育」係因農業用地之範圍包括依區域計畫法劃定為各種使用分區內編定之林業用地、......、生態保護用地、國土保安用地等,"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "bafd7dd0943c96c46eec7661ec17c91648f980beb5277d98edbf40134ad7c87e",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

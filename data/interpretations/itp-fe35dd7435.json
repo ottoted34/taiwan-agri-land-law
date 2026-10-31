@@ -40,6 +40,14 @@
    },
    {
     "type": "amend_signal",
+    "by_id": "itp-2f6a302d6a",
+    "by_docno": "農企字第0950111783號",
+    "by_date": "2006-03-13",
+    "kind": "amend",
+    "phrase": "」鑒於部分設施之設置不以建築為要件,查本會業於92年10月23日農企字第0920161675號函釋略以:「因部分設施之設置不以建築為要件,且依現行都市計畫法規定,似亦未有核准面積與範圍,不同於都市計畫範圍外變更編定為各種使用地之方式(即有明確建蔽率規定),於作業上如經徵詢目的事業主管機關復以未有核定可建築使用面積或未有訂定建蔽率規定者,為求繳交農地變更回饋金有一致性之標準,參酌非都市土地變更為相同"
+   },
+   {
+    "type": "amend_signal",
     "by_id": "itp-33282196cd",
     "by_docno": "農企字第0950154141號",
     "by_date": "2006-09-29",
@@ -90,15 +98,10 @@
  ],
  "flags": [
   "date_unknown",
-  "historical_agency"
+  "historical_agency",
+  "docno_shared"
  ],
  "relations": [
-  {
-   "law_id": "M0020018",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
-  },
   {
    "law_id": "M0020001",
    "article": "12",

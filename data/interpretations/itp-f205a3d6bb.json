@@ -1,0 +1,78 @@
+{
+ "id": "itp-f205a3d6bb",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930156778號",
+ "date": "2004-12-03",
+ "date_text": "93/12/3",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業用地（山坡地保育區農牧用地）容許作管理室農業設施包含廁所等審查疑義案",
+ "content": "一、依農業發展條例第三條第十二款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故農業用地申請興建農業設施，係屬計畫型之土地使用型態，均需與農業生產或農業使用相關。因此，農業用地同時申請施設多種農作產銷設施使用，貴府應本於職權就當地農業經營發展、農業設施是否確屬經營所需及「農業用地容許作農業設施使用審查辦法」等相關規定，視個案實務及事實予以審認。\n二、至農業用地申請作廁所等設備使用，考量農業使用之涵義及農業生產環境之完整，並參照上揭辦法第八條等審查標準規定，不宜單獨申請設置或將農業設施僅作廁所功能使用。惟如於農業產銷設施內設置，宜就該設施最高核准興建面積範圍內本於職權核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4847",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:54+08:00",
+   "source_key": "rmis:4847"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "764e568766cf759ce6bc5a30cd224b6957a6dec14b3976f1668f6284248fa4ea",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "區農牧用地)容許作管理室農業設施包含廁所等審查疑義案\n一、依農業發展條例第三條第十二款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "貴府應本於職權就當地農業經營發展、農業設施是否確屬經營所需及「農業用地容許作農業設施使用審查辦法」等相關規定,視個案實務及事實予以審認。\n二、至農業用地申請作廁所等設備使用,考量"
+  }
+ ]
+}

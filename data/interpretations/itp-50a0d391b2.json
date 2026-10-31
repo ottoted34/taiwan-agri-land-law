@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950115471號",
  "date": "2006-03-30",
- "date_text": "95年3月30日農企字第0950115471號",
- "agency_text": "",
- "category": "",
+ "date_text": "95/3/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "058 釋非都市土地農牧用地上興建有未經申請之農業設施及農舍，申請農業用地容許作農業設施使用之疑義案。",
  "content": "一、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍使用者。」故農業用地申請興建農舍或農業設施，均需與農業生產或農業使用相關，並應考量農業使用之內涵、當地農業經營發展、設施與農業生產經營之必要性及合理性，視個案實務及事實予以審認，先予敘明。\n二、查本會95年3月23日農企字第0950010504號函(諒達)重申本會函釋略以：「有關農業用地上興建有未經申請核准容許使用之農業設施，該農業用地於申請核發農業用地作農業使用證明書，應輔導補辦申請容許使用，符合相關審查規定者，並於核發農業用地作農業使用證明書時，一併發給容許使用證明。」又依本會93年2月9日農企字第0930105880號函釋略以：「有關農業發展條例89年1月26日修正施行後取得之農業用地，未經申請建築許可即先行動工興建農舍，為補申請建築執照仍得適用本會92年10月31日農企字第0920163303號函釋規定，核發僅供申請補辦農舍建築執照使用之農業使用證明書。」\n三、綜上，本案農業用地上有未經申請之設施或建築物，宜請先確認是否屬得核准容許使用之農業設施或農舍，倘經確認且除該農業設施及農舍外，並無其他違規使用情事，則得參據說明三之上開函釋意旨，予以補辦相關程序。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950115471號|釋非都市土地農牧用地上興建有未經申請之農業設施及農舍申請農業"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5061",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:54+08:00",
+   "source_key": "rmis:5061"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "5f37d02e11cf617af06fdb59afdb8bf4d402e0bb54407fc99c9cd8d65c0b16f2",
+ "content_hash": "740ecb863f0462a5f6017074d9782c239613ba527371acf0e28d3e75b7e5dfc5",
  "topics": [
   "farm_use_cert",
   "farmhouse",
@@ -72,6 +79,18 @@
    "article": "3",
    "kind": "extracted",
    "snippet": "設施及農舍,申請農業用地容許作農業設施使用之疑義案。\n一、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "5f37d02e11cf617af06fdb59afdb8bf4d402e0bb54407fc99c9cd8d65c0b16f2",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

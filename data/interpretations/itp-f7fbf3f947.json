@@ -37,15 +37,9 @@
  "content_hash": "04bba7e8a7bae511a779162840ace6499e79dc245bb7839af5348e578680efe7",
  "topics": [],
  "flags": [
-  "date_unknown"
+  "date_unknown",
+  "docno_shared"
  ],
- "relations": [
-  {
-   "law_id": "M0020001",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
-  }
- ],
+ "relations": [],
  "agency_inferred": true
 }

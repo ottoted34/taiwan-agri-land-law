@@ -1,0 +1,62 @@
+{
+ "id": "itp-bb89fdf08b",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940131724號",
+ "date": "2005-06-21",
+ "date_text": "94/6/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款之「夾雜」疑義案。",
+ "content": "主旨：有關○○股份有限公司委託　貴公司向桃園縣政府申請之「中園貨櫃集散站」用地變更案，是否有「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款，不同意變更使用規定之情形，復如說明，請　查照。\n說明：\n一、依據　貴公司94年6月14日(94)鉅工字第398號函辦理。\n二、查本會訂頒之「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款規定：「申請變更範圍內夾雜未申請變更之農業用地且妨礙其農業經營者。」所稱「夾雜」應指未申請變更之農業用地為新申請變更編定之用地與原已變更編定之用地所包圍，致該農業用地無通路與外界聯絡等情形，本案是否屬上述情形，仍宜由縣政府本於實況逕為審認。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5245",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:18+08:00",
+   "source_key": "rmis:5245"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-3008",
+    "law_name": "農業主管機關同意農業用地變更使用審查作業要點",
+    "article": null,
+    "amended_on": "2013-08-06",
+    "history": "中華民國102年08月06日行政院農業委員會農企字第 1020012756A 號令修正發布全文18點規定及附表；並自即日生效",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "8245a995c1cbc524101de3f2e06cf8c69fdfc20d62712226530a4826d454297f",
+ "topics": [
+  "container",
+  "land_change"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-3008",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "有關「農業主管機關同意農業用地變更使用審查作業要點」第5點第3款之「夾雜」疑義案。\n主旨:有關○○股份有限公司委託 貴公司向桃園縣政"
+  }
+ ]
+}

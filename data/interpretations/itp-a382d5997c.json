@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940122771號",
  "date": "2005-05-06",
- "date_text": "94年5月6日農企字第0940122771號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/5/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "044 釋原為農業用地經都市計畫變更為行水區、河川區或洪水平原一級管制區之土地，在未依水利法徵收前，如經查明仍作農業使用且未違反水利法規及都市計畫書管制規定者，適用農業發展條例第37條及第38條之規定，得申請不課徵土地增值稅或免徵遺產稅、贈與稅案",
  "content": "一、查原為農業用地經都市計畫變更為行水區、河川區或洪水平原一級管制區之土地，在未依水利法徵收前，如經查明仍作農業使用且未違反水利法規及都市計畫管制規定者，適用農業發展條例第37條及第38條之規定，得申請不課徵土地增值稅或免徵遺產稅、贈與稅案，前經本會報奉行政院核定，並函釋在案。\n二、本案土地原由都市計畫農業區變更為都市計畫河川區，其種植果樹等高莖作物不符合河川區之管制規定，惟倘經查明該等果樹係於都市計畫農業區時即已種植者，得依都市計畫法第31條規定，「都市計畫發布實施後，不合分區使用規定之土地及建築物，除經自行停止使用兩年或經目的事業主管機關令其停止使用者外，得繼續為原有之使用....。」辦理。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940122771號|釋原為農業用地經都市計畫變更為行水區河川區或洪水平原一級管制"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4898",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:32+08:00",
+   "source_key": "rmis:4898"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -41,7 +48,7 @@
    }
   ]
  },
- "content_hash": "14a10f3ad86d3add28d643f642a98a1b370be492f89d6b60f7ba05a0b39cf981",
+ "content_hash": "9cd0ed784f611799efca3a55024f4c0aa2b651aa74c24d873b1d1be1184eede6",
  "topics": [
   "orchard",
   "facility_use",
@@ -68,6 +75,18 @@
    "article": "31",
    "kind": "extracted",
    "snippet": "規定,惟倘經查明該等果樹係於都市計畫農業區時即已種植者,得依都市計畫法第31條規定,「都市計畫發布實施後,不合分區使用規定之土地及建築物,除經自行停止使用兩年"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "14a10f3ad86d3add28d643f642a98a1b370be492f89d6b60f7ba05a0b39cf981",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

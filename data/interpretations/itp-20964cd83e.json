@@ -1,0 +1,136 @@
+{
+ "id": "itp-20964cd83e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930159038號",
+ "date": "2004-12-17",
+ "date_text": "93/12/17",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業用地基地面積僅289平方公尺申請容許設置「集貨及包裝處理場」設施使用等執行疑義案",
+ "content": "一、依農業發展條例第三條第十二款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故農業用地申請施設農業設施，均需與農業生產或農業使用相關，而貴府亦應本於職權就當地農業經營發展、農業設施與農業生產經營之必要性及「農業用地容許作農業設施使用審查辦法」等相關規定，視個案實務及事實予以審認，合先敘明。\n二、查農業用地依上開審查辦法第十一條第十款規定設置集貨及包裝處理場之條件，限供「自產農產品」使用，所稱自產，應不限於申請興建農業設施之該筆土地，而可及於其他包括契作之農業用地，且每處最小興建面積一六五平方公尺；最大興建面積為一、○六○平方公尺。因此，本案農業設施是否合理部分，可就申請人有無其他農業用地所生產之農產品或實際產量，且該農產品有無供集貨及包裝使用之必要性等情事，併貴府原已審認之「該地號位於縱貫公路旁，基地面積僅二八九平方公尺（約八十七坪）顯然太小」等事實，綜合判斷後予以准駁。\n三、另取得容許作農業設施使用之農業用地，如該設施未依經營計畫內容使用者，即應依農業用地容許作農業設施使用審查辦法第二十三條規定核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4844",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:48+08:00",
+   "source_key": "rmis:4844"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-11-01T06:03:04+08:00",
+   "source_key": "rmis-lawexp:農企字第0930159038號|釋農業用地基地面積僅289平方公尺申請容許設置集貨及包裝處理"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2017-06-28",
+    "history": "中華民國一百零六年六月二十八日行政院農業委員會農企字第 1060012754A 號令修正發布第 6、23、27～30、32、33 條條文及第 13 條條文之附表一、第 16 條條文之附表二、第 21 條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2018-03-23",
+    "history": "中華民國一百零七年三月二十三日行政院農業委員會農企字第 1070012379A 號令修正發布第 23 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2021-01-28",
+    "history": "中華民國一百十年一月二十八日行政院農業委員會農企字第 1100012001A 號令修正發布第 23 條條文之附表五",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2021-05-13",
+    "history": "中華民國一百十年五月十三日行政院農業委員會農企字第 1100012423A 號令修正發布第 23 條條文",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "23",
+    "amended_on": "2022-05-02",
+    "history": "中華民國一百十一年五月二日行政院農業委員會農企字第 1110012611 號令修正發布第 23 條條文之附表五",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "4e0cd39a43bb31d46f0d8fde13d57ef841e419381a2d74f78799b730ff23436c",
+ "topics": [
+  "facility_use",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "申請容許設置「集貨及包裝處理場」設施使用等執行疑義案\n一、依農業發展條例第三條第十二款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "23",
+   "kind": "extracted",
+   "snippet": "業設施使用之農業用地,如該設施未依經營計畫內容使用者,即應依農業用地容許作農業設施使用審查辦法第二十三條規定核處。"
+  }
+ ]
+}

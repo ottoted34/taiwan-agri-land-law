@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0920168390號",
  "date": "2003-11-24",
- "date_text": "92年11月24日農企字第0920168390號函",
- "agency_text": "",
- "category": "",
+ "date_text": "92/11/24",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "025 釋農業用地作假山、庭園造景及水池等使用案",
  "content": "一、查農業用地作農業使用認定及核發證明辦法業有農業使用認定之相關條文規定，以作為農業用地是否符合作農業使用認定之依據；另所稱「植生」本會前於91年7月17日函釋在案；準此，農舍外之其餘農 業用地如作假山、庭園造景使用，並不符合前開農業使用認定基準，不宜核發農業用地作農業使用證明書。\n二、至所稱「農地上因配合農耕時節而休閒」乙節，係指短期作物收成後，下一期作物未施播前，讓農地短暫之休養，俾利恢復農地之生產力。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0920168390號|釋農業用地作假山庭園造景及水池等使用案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5530",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:24+08:00",
+   "source_key": "rmis:5530"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "1ab7f750feb842c026276ee213755834bd9971b8ea52b322a345a0c45b1db29d",
+ "content_hash": "14a74f58b1d4b33d991b6a019511612e907801305ad032c1e2fb8df28f02b99d",
  "topics": [
   "farm_use_cert",
   "farmhouse"
@@ -70,6 +77,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "025 釋農業用地作假山、庭園造景及水池等使用案\n一、查農業用地作農業使用認定及核發證明辦法業有農業使用認定之相關條文規定,以作為農業用地是否符合作農業使用認定之依據;另所"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "1ab7f750feb842c026276ee213755834bd9971b8ea52b322a345a0c45b1db29d",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

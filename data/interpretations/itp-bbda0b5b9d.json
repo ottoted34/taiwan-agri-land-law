@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940165987號",
  "date": "2005-12-02",
- "date_text": "94年12月2日農企字第0940165987號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/12/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "034 釋農業用地上正興建中之農舍，已請領建築執照而尚未竣工，無法檢附使用執照，得否核發農業用地作農業使用證明書疑義案",
  "content": "查本會94年6月10日農授水保字第0941811323號函(影本如附)說明二略以：「已依相關規定申請興建農舍之建築基地(總面積10%)辦理現有農舍增建，不受『農業用地興建農舍辦法』第3條規定之限制。」換言之，合法農舍之申請增建並無須檢附農業用地作農業使用證明書。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940165987號|釋農業用地上正興建中之農舍已請領建築執照而尚未竣工無法檢附使"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4798",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:41+08:00",
+   "source_key": "rmis:4798"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -59,7 +66,7 @@
    }
   ]
  },
- "content_hash": "bf6210ee0df779fbe7688782f63bf66914c41676463f5772d7447cc3344d96ee",
+ "content_hash": "8d820b35c462633bdbc46b022239d18cde16877bd5cf5b5ff093406967cc59af",
  "topics": [
   "farm_use_cert",
   "farmhouse"
@@ -79,6 +86,18 @@
    "article": "3",
    "kind": "extracted",
    "snippet": "申請興建農舍之建築基地(總面積10%)辦理現有農舍增建,不受『農業用地興建農舍辦法』第3條規定之限制。」換言之,合法農舍之申請增建並無須檢附農業用地作農業使用證明書。"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "bf6210ee0df779fbe7688782f63bf66914c41676463f5772d7447cc3344d96ee",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940168682號",
  "date": "2005-12-15",
- "date_text": "94年12月15日農企字第0940168682號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/12/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "078 釋水利用地需作與農業經營不可分離之灌溉、排水使用案",
  "content": "一、查本會92年5月27日農企字第0920128617號函（副本諒達）釋略以：「查農業發展條例第三條第十款『農業用地：指非都市土地或都市土地農業區、保護區範圍內，依法供下列使用之土地（一）...（二）供與農業經營不可分離之農舍、...灌溉、排水及其他農用之土地...』前開『灌溉、排水』係屬與農業經營不可分離之設施，其於非都市土地均編定為水利用地，故依區域計畫法劃定為各種使用分區內編定之水利用地，必須符合農業用地作農業使用認定及核發證明辦法第六條所規範之農田水利設施，始符合農業使用認定基準...」另本會90年2月2日（90）農企字第900102222號函釋略以：「查水利用地之主要功能在於維持灌、排用水之流通，其利用型態與農牧用地或林業用地等有所不同。若能維持無妨礙灌、排水流通功能之情況，即符合該種用地之使用認定；且非都市土地使用管制規則有關水利用地之容許使用項目包括『現況及水利計畫使用』。因此，本案暨經貴府水利單位簽以『並未違反水利法相關規定』，縱使該地為雜草野花，並不影響水流之通行，亦不宜視為閒置不用。」合先敘明。\n二、綜上，旨揭一般農業區水利用地倘係屬與農業經營不可分離之農田水利灌、排水設施，且經水利單位認定未違反水利法相關規定，始得認定符合農業使用之定義。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940168682號|釋水利用地需作與農業經營不可分離之灌溉排水使用案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4985",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:29+08:00",
+   "source_key": "rmis:4985"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "7283f91f4b8fc0cd00903c44abc9537cced36dd1bb2ae4256e105b522c403fc5",
+ "content_hash": "1305c6c552e381d0409afa09cc21b8e95450384a27c4b85e62196cf989e2b2c3",
  "topics": [
   "farm_use_cert",
   "farmhouse",
@@ -89,6 +96,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "持無妨礙灌、排水流通功能之情況,即符合該種用地之使用認定;且非都市土地使用管制規則有關水利用地之容許使用項目包括『現況及水利計畫使用』。因此,本案暨經貴府水利單位"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "7283f91f4b8fc0cd00903c44abc9537cced36dd1bb2ae4256e105b522c403fc5",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

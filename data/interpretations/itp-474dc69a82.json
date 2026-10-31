@@ -42,15 +42,10 @@
   "aquaculture"
  ],
  "flags": [
-  "date_unknown"
+  "date_unknown",
+  "docno_shared"
  ],
  "relations": [
-  {
-   "law_id": "M0020022",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
-  },
   {
    "law_id": "M0020001",
    "article": "8-1",

@@ -40,15 +40,10 @@
   "livestock"
  ],
  "flags": [
-  "date_unknown"
+  "date_unknown",
+  "docno_shared"
  ],
  "relations": [
-  {
-   "law_id": "RMIS-2007",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
-  },
   {
    "law_id": "M0020001",
    "article": "29",

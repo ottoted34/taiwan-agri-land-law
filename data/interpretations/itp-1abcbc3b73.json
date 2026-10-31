@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0930132447號",
  "date": "2004-07-12",
- "date_text": "93年7月12日農企字第0930132447號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/7/12",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "038 釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明書案份部份之農業用地作農業使用證明書案",
  "content": "查「不動產物權，依法律行為而取得、設定、喪失及變更者，非經登記，不生效力。」、「因繼承、強制執行、公用徵收或法院之判決，於登記前已取得不動產物權者，非經登記不得處分其物權。」分別為民法第758條及第759條所明定。有關共有農業用地部分共有人之應有持份部分移轉與第三人，自應依法辦理不動產物權變更登記，始生效力。至前土地共有人間所訂定之分管契約書對於受讓人縱使具有拘束力，但當事人既已變更，該分管契約書自應隨同辦理當事人變更，始符名實。準此，共有農業用地之共有人申請農業用地作農業使用證明書，如需檢附分管契約書時，仍應以土地登記簿所載之共有人所簽署之分管契約書為準。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0930132447號|釋共有農業用地之共有人申請其持份部份之農業用地作農業使用證明"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4812",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:27+08:00",
+   "source_key": "rmis:4812"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -41,7 +48,7 @@
    }
   ]
  },
- "content_hash": "bee312a86b76897ba7ee39c684b38d07ead1584ab4707d8c5e2a5fc546582516",
+ "content_hash": "1daf43e7441414fd95abc78dfbc14bf392ee637d663127abae7462487fb4a66e",
  "topics": [
   "farm_use_cert"
  ],
@@ -54,6 +61,18 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "bee312a86b76897ba7ee39c684b38d07ead1584ab4707d8c5e2a5fc546582516",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

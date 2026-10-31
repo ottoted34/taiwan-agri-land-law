@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950132666號",
  "date": "2006-06-21",
- "date_text": "95年6月21日農企字第0950132666號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/6/21",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "045 釋農業用地作農業使用認定及核發證明辦法第6條第2款規範執行疑義案",
  "content": "一、查非都市土地使用管制規則第8條明定「土地使用編定後，其原有使用或原有建築物不合土地使用分區規定者，在政府令其變更使用或拆除建築物前，得為從來之使用。」惟依農業發展條例第3條第12款有關農業使用之定義「指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故從來使用並不等同於農業使用，應無疑義。\n二、又農業用地作農業使用認定及核發證明辦法第5條明定「農業用地有下列情形，且無第6條及第7條之情形者，認定為作農業使用：一、...二、農業用地上興建有農舍或施設有農業設施，並檢附合法證明文件者。」所稱合法證明文件應包括農業發展條例第8條之1第2項所規範之容許使用及建築執照。且該項但書亦有明文規範得免申請建築執照之要件。換言之，縱使該建築物得為從來之使用，仍應符合前開條項之規定，始得核發農業用地作農業使用證明書。\n三、綜上，有關農業用地上有未經申請核准興建之農業設施，仍請依本會95年3月23日農企字第0950010504號函釋(諒達)規定，輔導補辦容許使用，始符合法令規定。至所稱農舍，仍應依農業發展條例第18條、農業用地興建農舍辦法及實施區域計畫地區建築管理辦法等法規所規範之要件申請興建者，始符合農舍之定義。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950132666號|釋農業用地作農業使用認定及核發證明辦法第6條第2款規範執行疑"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4900",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:18+08:00",
+   "source_key": "rmis:4900"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -86,7 +93,7 @@
    }
   ]
  },
- "content_hash": "f54a5378798af9f49543f0c5e911ba5d38b6654e5f54553b48298f54190fa4f6",
+ "content_hash": "6999dab038b1b93355e4cc2e7861d4c2155e45bc0645b57d3feeaf3d56256490",
  "topics": [
   "farm_use_cert",
   "land_change",
@@ -145,6 +152,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "用,始符合法令規定。至所稱農舍,仍應依農業發展條例第18條、農業用地興建農舍辦法及實施區域計畫地區建築管理辦法等法規所規範之要件申請興建者,始符合農舍之定義。"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "f54a5378798af9f49543f0c5e911ba5d38b6654e5f54553b48298f54190fa4f6",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

@@ -1,0 +1,68 @@
+{
+ "id": "itp-9eb4aa1b4f",
+ "doc_class": "interpretation",
+ "docno": "農授糧字第0930124396號",
+ "date": "2004-06-02",
+ "date_text": "93/6/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋修正農業用地容許作農業設施使用審查辦法第八條第一項第七款規定案",
+ "content": "一、查水權登記係依據「水利法」規定辦理，該法第四十二條第一項規定，下列用水免為水權登記：（一）家用及牲畜飲料。（二）在私有土地內挖塘。（三）在私有土地內鑿井汲水，其出水量每分鐘在一百公升以下者。（四）用人力、獸力或其他簡易方法引水。同條文第二項亦明定：前項各款用水，如足以防害公共水利事業或他人用水之利益時，主管機關得酌予限制，或令其辦理登記。是以，水利單位對於水權登記係依前開辦法作一般性管理，其中有關養豬使用之水權係以牲畜飲料方式認定，故無需特別載明出具水權證明，至水禽之飼養水池，因非僅作飲料使用，尚有作為生產飼養之功能，故予以明定須取得合法用水。\n二、查「農業用地容許作農業設施省用審查辦法」第八條第一項第七款規定在執行水利法規定事項，有關貴府建請修正允許九十二年十二月十五日上開辦法發布施行前既有之畜舍水池，及發布施行後飼養量二萬隻以下者免付水權登記證一節，在「水利法」未有作修正前實有不宜，以免逾越法律規定。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4856",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:29+08:00",
+   "source_key": "rmis:4856"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "a497db6d39c7ac0fc08d1825584aba58acede1b4e8edca1c876f027b1b5a95d0",
+ "topics": [],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "釋修正農業用地容許作農業設施使用審查辦法第八條第一項第七款規定案\n一、查水權登記係依據「水利法」規定辦理,該法第四十二條第一項"
+  }
+ ]
+}

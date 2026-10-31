@@ -37,7 +37,8 @@
  "content_hash": "205f4db26dc73498f0b726e70bf223314a9e7dd3850d94ee737497f2a0d9c43c",
  "topics": [],
  "flags": [
-  "date_unknown"
+  "date_unknown",
+  "docno_shared"
  ],
  "relations": [
   {

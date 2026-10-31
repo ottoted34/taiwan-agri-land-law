@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0920126127號",
  "date": "2003-05-15",
- "date_text": "92年5月15日農企字第0920126127號函",
- "agency_text": "",
- "category": "",
+ "date_text": "92/5/15",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "064 釋農業用地從事非畜牧範疇之動物（寵物）繁殖，不符合農業發展條例第3條第12款農業使用案",
  "content": "一、查寵物業許可證之核發係依「寵物業管理辦法」之規定辦理，其審理核定均未涉及農地管理事項；另依「非都市土地農業用地作畜牧設施 容許使用審查作業要點」之規定，並未列有犬隻飼養設施，合先敘明。\n二、又依「農業用地作農業使用認定及核發證明辦法」第8條之規定，農業設施係指農業用地符合區域計畫法或都市計畫法土地使用分區管制相關法令規定興建之農業設施，並持有證明文件且確實依所核定用途、面積使用者。準此，本案所稱犬舍並不符合前開農業設施興建之規定。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0920126127號|釋農業用地從事非畜牧範疇之動物寵物繁殖不符合農業發展條例第3"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4971",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:59:48+08:00",
+   "source_key": "rmis:4971"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "71fd7394c21390c3e278be0319e282eced6ebf6012518afb7ad9bf80fb608f54",
+ "content_hash": "4e674c7f71c15f9188997094bccc666bb653dea25f7763b7366de4961418f69b",
  "topics": [
   "farm_use_cert",
   "livestock"
@@ -106,6 +113,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "證明辦法」第8條之規定,農業設施係指農業用地符合區域計畫法或都市計畫法土地使用分區管制相關法令規定興建之農業設施,並持有證明文件且確實依所核定用途、面"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "71fd7394c21390c3e278be0319e282eced6ebf6012518afb7ad9bf80fb608f54",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

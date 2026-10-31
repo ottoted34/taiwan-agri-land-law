@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農授糧字第0931001956號",
  "date": "2004-03-02",
- "date_text": "93年3月2日農授糧字第0931001956號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/3/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "002 釋農業發展條例第8條之1第1項規定免申請建築執照之農業設施案",
  "content": "一、查農業發展條例第8條之1第1項規定：農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。上開條文所稱「無固定基礎」之農業設施，係指依上開材料所興建之農業設施，且無建築法第4條所稱之承載建築物（包括屋頂、樓地板、承重牆壁、樑柱）之重量，而設計之版基礎，樁基礎或墩基礎等基礎構造而言。準此，在實務認定上，屬無固定基礎農業設施宜符合下列規定之要件：\n（1）以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建者。\n（2）非利用前項材料、材質所搭建且具有頂蓋（屋頂）、樑柱、圍牆及舖設水泥地板等建築結構者，不宜認定屬無固定基礎之農業設施。但為?固前項材料所搭建之農業設施而架設之水泥桿（柱），不在此限。\n二、又前開條例第8條之1第1項後段規定：直轄市、縣（市）政府得斟酌地方農業經營需要，訂定農業用地上搭建無固定基礎之臨時性與農業生產有關設施之審查規範。",
  "memo": "",
- "agency_id": null,
- "agency_name": null,
- "historical_name": "（原文未載發文機關；改制前文件）",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農授糧字第0931001956號|釋農業發展條例第8條之1第1項規定免申請建築執照之農業設施案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4995",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:57+08:00",
+   "source_key": "rmis:4995"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "338cf45173dccdc1ccba0afcd8aff292d1b8114b27f8116c74f7493b7b9a1614",
+ "content_hash": "3578df61b0db98857d1fa8648d9a25d6cf8d890a34c62f398672355eed9d345d",
  "topics": [
   "paving",
   "container"
@@ -77,6 +84,18 @@
    "article": "4",
    "kind": "extracted",
    "snippet": "無固定基礎」之農業設施,係指依上開材料所興建之農業設施,且無建築法第4條所稱之承載建築物(包括屋頂、樓地板、承重牆壁、樑柱)之重量,而設計之版基礎,樁基"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "338cf45173dccdc1ccba0afcd8aff292d1b8114b27f8116c74f7493b7b9a1614",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

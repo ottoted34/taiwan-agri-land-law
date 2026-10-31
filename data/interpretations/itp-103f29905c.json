@@ -1,0 +1,127 @@
+{
+ "id": "itp-103f29905c",
+ "doc_class": "interpretation",
+ "docno": "農企字第0930154232號",
+ "date": "2004-11-16",
+ "date_text": "93/11/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋辦理農業用地容許作農業設施涉及廁所、衛浴之審查疑義案",
+ "content": "一、本會依據農業發展條例第八條之一第三項規定及授權，於九十二年十二月十五令頒「農業用地容許作農業設施使用審查辦法」，藉以提昇法律位階，作為農業主管機關審查及農民申請農業用地容許作農業設施使用之一致性規定。又農業發展條例第三條第十二款規定「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」因此，申請於農業用地容許作農作產銷等設施使用，仍屬計畫型之土地使用型態，原則上均需與農業生產或農業使用相關，如設施申請目的已非農業使用，農業主管機關應不同意以容許使用方式辦理。\n二、本類農業用地申請作廁所、衛浴等設備使用，考量農業使用之涵義及農業生產環境之完整，並參照「農業用地容許作農業設施使用審查辦法」第八條第一款及第六款等規定意旨，不宜單獨申請設置。惟如於農業產銷設施內設置，宜就其必要性本於職權核處。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5351",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:05+08:00",
+   "source_key": "rmis:5351"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4852",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:06+08:00",
+   "source_key": "rmis:4852"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-11-01T06:03:04+08:00",
+   "source_key": "rmis-lawexp:農企字第0930154232號|釋辦理農業用地容許作農業設施涉及廁所衛浴之審查疑義案"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "8",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "647a214a1bdc43d5a2c342e1a2ab26ad830a0175dbc362ed4b90f5fbf56832fc",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8-1",
+   "kind": "extracted",
+   "snippet": "業用地容許作農業設施涉及廁所、衛浴之審查疑義案\n一、本會依據農業發展條例第八條之一第三項規定及授權,於九十二年十二月十五令頒「農業用地容許作農業設施使用審查辦法」"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "機關審查及農民申請農業用地容許作農業設施使用之一致性規定。又農業發展條例第三條第十二款規定「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "浴等設備使用,考量農業使用之涵義及農業生產環境之完整,並參照「農業用地容許作農業設施使用審查辦法」第八條第一款及第六款等規定意旨,不宜單獨申請設置。惟如於農業產銷設施內設置,宜就其必要"
+  }
+ ]
+}

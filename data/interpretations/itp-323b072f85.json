@@ -47,12 +47,6 @@
  "relations": [
   {
    "law_id": "M0020001",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
-  },
-  {
-   "law_id": "M0020001",
    "article": "8-1",
    "kind": "extracted",
    "snippet": "六、其他經建築師、土木技師或結構技師簽證之農業設施。\n\n符合農業發展條例第八條之一第二項規定免申請建築執照之農業設施,得檢具政府核發之農業用地容許作農業設施使用同"

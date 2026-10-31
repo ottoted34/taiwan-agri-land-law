@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950101994號",
  "date": "2006-01-02",
- "date_text": "95年1月2日農企字第0950101994號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/1/2",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "079 釋水利用地種植作物或不作灌溉、排水使用，不符合作農業使用認定案",
  "content": "查農業用地應符合作農業使用之認定基準始得核發農業用地作農業使用證明書，所稱農業使用認定基準除應實際作農業相關使用外，尚包括應符合土地使用管制規定。又內政部90年10月25日曾函示略以：「查區域計畫法施行細則第15條...『水利用地』係供水利及其設施使用者。次查非都市土地使用管制規則第6條第3項附表一規定，水利用地之容許使用項目包括『按現況或水利計畫使用』...上開『按現況使用』係指依編定水利用地當時合法使用狀況使用，並非依目前之現況使用；又其使用方式除應具有水利目的外，並應符合相關水利法令之規定。」換言之，前開土地使用管制法規並未容許水利用地作農業使用，故水利用地種植水稻業已違反土地使用管制規定，應不得核發農業用地作農業使用證明書。水利單位倘認為該水利用地種植水稻並不影響灌溉排水，宜請依法變更該水利用地為農牧用地，始符合土地使用編定目的。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950101994號|釋水利用地種植作物或不作灌溉排水使用不符合作農業使用認定案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4989",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:21+08:00",
+   "source_key": "rmis:4989"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -122,7 +129,7 @@
    }
   ]
  },
- "content_hash": "b09f20e87b2176b6ec51b8d5bb8ffe3532fd924a1089d1045a2d4308370f68ce",
+ "content_hash": "306948892d8d7aacdd459d083c4e63651d8e9acd635842f8fabffe1b4c73be88",
  "topics": [
   "farm_use_cert"
  ],
@@ -148,6 +155,18 @@
    "article": "6",
    "kind": "extracted",
    "snippet": "行細則第15條...『水利用地』係供水利及其設施使用者。次查非都市土地使用管制規則第6條第3項附表一規定,水利用地之容許使用項目包括『按現況或水利計畫使用』...上開『"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "b09f20e87b2176b6ec51b8d5bb8ffe3532fd924a1089d1045a2d4308370f68ce",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

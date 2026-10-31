@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940131813號",
  "date": "2005-06-23",
- "date_text": "94年6月23日農企字第0940131813號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/6/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "041 釋農業產銷必要設施45平方公尺以下免申請建築執照案",
  "content": "釋農業發展條例第8條之1第2項但書所規範，符合相關要件之農業設施面積在45平方公尺或250平方公尺以下，得免申請建築執照之執行疑義案，仍請參酌內政部90年9月14日台90內營字第9012691號函辦理案\n一、依據內政部94年6月17日內授營建管字第0940006860號函辦理。\n二、查內政部旨揭函釋略以：「....經農業主管機關認定之農業必要設施面積在45平方公尺以下免申請建築執照，係指其總樓地板面積在45平方公尺以下，且以1層樓為限。如設置1處以上，其總樓地板面積應合併檢討。....。」\n三、檢附前開內政部二函影本乙份。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940131813號|釋農業產銷必要設施45平方公尺以下免申請建築執照案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4819",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:14+08:00",
+   "source_key": "rmis:4819"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -41,7 +48,7 @@
    }
   ]
  },
- "content_hash": "51e45ff3be2c57071d18528679e883250d430c1c9123a3b9e8df13cc10ac6c63",
+ "content_hash": "f21f837f094600e69b537fd59d722e46ad6d5b958142c43ecf86511d573a846c",
  "topics": [],
  "flags": [
   "historical_agency"
@@ -58,6 +65,18 @@
    "article": "8-1",
    "kind": "extracted",
    "snippet": "41 釋農業產銷必要設施45平方公尺以下免申請建築執照案\n釋農業發展條例第8條之1第2項但書所規範,符合相關要件之農業設施面積在45平方公尺或250平方公尺以下,"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "51e45ff3be2c57071d18528679e883250d430c1c9123a3b9e8df13cc10ac6c63",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

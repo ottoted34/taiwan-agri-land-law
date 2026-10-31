@@ -46,7 +46,8 @@
  ],
  "flags": [
   "date_unknown",
-  "historical_agency"
+  "historical_agency",
+  "docno_shared"
  ],
  "relations": [
   {

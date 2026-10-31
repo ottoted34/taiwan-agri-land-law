@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940130438號",
  "date": "2005-06-14",
- "date_text": "94年6月14日農企字第0940130438號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/6/14",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "釋水土保持相關使用",
  "content": "一、查農業用地作農業使用認定及核發證明辦法第5條明定「農業用地有下列情形，且無第6條及第7條之情形者，認定為作農業使用：一、農業用地實際作農作、森林、養殖、畜牧、『保育』使用者；....。二、農業用地上興建有農舍或施設有農業設施，並檢附合法證明文件者。」所稱保育係指為維護國土保安、水土保持等需要而設置之設施。又農業發展條例第8條之1第2項明定「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。」\n二、綜上，本案有關簡易水土保持計畫應經核准，且應依原核定計畫使用，故宜俟其依核准之簡易水土保持計畫施設完竣後，再依前開規定審核。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940130438號|釋水土保持相關使用"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4966",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:24+08:00",
+   "source_key": "rmis:4966"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -59,7 +66,7 @@
    }
   ]
  },
- "content_hash": "607b2abf735e7bae88f88a9bbea16c248d0531d1addc64ab464184e7bc653431",
+ "content_hash": "144aff880e151bbbca759e405084f50c913ff3aab81d7dcfc2cba4c9d916b5ae",
  "topics": [
   "farm_use_cert",
   "facility_use",
@@ -88,6 +95,18 @@
    "article": "8-1",
    "kind": "extracted",
    "snippet": "」所稱保育係指為維護國土保安、水土保持等需要而設置之設施。又農業發展條例第8條之1第2項明定「農業用地上興建有固定基礎之農業設施,應先申請農業設施之容許使用,並依"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "607b2abf735e7bae88f88a9bbea16c248d0531d1addc64ab464184e7bc653431",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940126286號",
  "date": "2005-05-23",
- "date_text": "94年5月23日農企字第0940126286號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/5/23",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "079 釋水利用地種植作物或不作灌溉、排水使用，不符合作農業使用認定案",
  "content": "查農業用地應作農業使用始得核發農業用地作農業使用證明書，非都市土地水利用地倘作農業灌排水設施使用，應即符合該農業用地作農業使用之認定。至其溝渠上加蓋以利通行乙節，倘仍能維持其灌排水之功能，應無農業用作農業使用認定及核發證明辦法第7條之適用。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940126286號|釋水利用地種植作物或不作灌溉排水使用不符合作農業使用認定案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4992",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:26+08:00",
+   "source_key": "rmis:4992"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "b0f3a178622e6b6aa9e03d99f8aab444ff3eb6d58d88b34a5209b08a8a78256c",
+ "content_hash": "27902e836625e143c8aab978fe7a1095327372f9eebd177263cdd86e875663b1",
  "topics": [
   "farm_use_cert"
  ],
@@ -69,6 +76,18 @@
    "article": "7",
    "kind": "extracted",
    "snippet": "以利通行乙節,倘仍能維持其灌排水之功能,應無農業用作農業使用認定及核發證明辦法第7條之適用。"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "b0f3a178622e6b6aa9e03d99f8aab444ff3eb6d58d88b34a5209b08a8a78256c",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

@@ -32,6 +32,14 @@
   "basis": [
    {
     "type": "cessation_signal",
+    "by_id": "itp-2fb770a76f",
+    "by_docno": "農企字第0950125313號",
+    "by_date": "2006-05-22",
+    "kind": "cease",
+    "phrase": "三、本會92年4月23日農企字第0920121474號函(附件2)及95年4月12日農企字第0950118308號函(附件3),自上開號函發文日(95年5月1日)起,停止適用"
+   },
+   {
+    "type": "cessation_signal",
     "by_id": "itp-75a9dad802",
     "by_docno": "農企字第0950125313號",
     "by_date": null,
@@ -49,15 +57,10 @@
  ],
  "flags": [
   "date_unknown",
-  "historical_agency"
+  "historical_agency",
+  "docno_shared"
  ],
  "relations": [
-  {
-   "law_id": "M0020018",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008"
-  },
   {
    "law_id": "D0060013",
    "article": null,

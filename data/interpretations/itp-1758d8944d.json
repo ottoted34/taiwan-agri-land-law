@@ -1,0 +1,55 @@
+{
+ "id": "itp-1758d8944d",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第0931071869號",
+ "date": "2004-09-30",
+ "date_text": "93/9/30",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋為審查農業用地容許作農業設施使用，對於「依水利法應檢附水權登記證者並已檢附」之審查規定疑義案",
+ "content": "一、興辦水利事業，凡合於水利法第四十六條規定建造物之建造、改造或拆除，均應經主管機關之核准；未經主管機關之核准而擅行施工之水利建造物，主管機關得令其更改或拆除。另有關水權登記部分，除依水利法第四十二條免為水權登記之規定外，凡需取用水源者，均應依水利法相關規定辦理。\n二、水利法第四十二條第一項第三款規定，在私有土地內鑿井汲水，其出水量每分鐘在一百公升以下者，免為水權登記。又地下水水權登記係以申請案件之引水（鑿井）地點所在地之直轄市或縣（市）政府為主管機關。爰此，本案關於在私有土地內鑿井汲水是否符合免為水權登記要件，應由貴府（水利單位）依每一引水地點（地下水井）之出水量進行檢測並認定之。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4855",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:17+08:00",
+   "source_key": "rmis:4855"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-11-01T06:03:04+08:00",
+   "source_key": "rmis-lawexp:農糧企字第0931071869號|釋為審查農業用地容許作農業設施使用對於依水利法應檢附水權登記"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "30825ab8bf0e6fec7801e1ad1742a47c5b64871b6bee5f2c676811f2d0e8789b",
+ "topics": [],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001"
+  }
+ ]
+}

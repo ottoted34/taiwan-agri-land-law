@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "營署建管字第0912909522號",
  "date": "2002-06-20",
- "date_text": "內政部營建署91年6月20日營署建管字第0912909522號函",
- "agency_text": "",
- "category": "",
+ "date_text": "91/6/20",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "041 釋農業產銷必要設施45平方公尺以下免申請建築執照案",
  "content": "一、有關農業用地上與農業經營不可分離之農業（含林業、畜牧及養殖等）必要設施，免申請建築執照之規定，宜循修正農業發展條例第8條第3項之方式予以規範，以利執行。\n二、農業發展條例第8條有關規定未修正發布前，同意依行政院農業委員會建議，大面積農業用地且各共有人分管分營之情況下，各共有人就其農業經營之需要分別興建45平方公尺以下之農業必要設施，得免申請建築執照。並請農業主管機關注意審核其農業必要設施申辦位置，於建造完成後加強其使用管理。",
  "memo": "",
- "agency_id": null,
- "agency_name": null,
- "historical_name": "（原文未載發文機關；改制前文件）",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:營署建管字第0912909522號|釋農業產銷必要設施45平方公尺以下免申請建築執照案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4821",
+   "serial": null,
+   "fetched_at": "2026-11-01T06:00:06+08:00",
+   "source_key": "rmis:4821"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -59,7 +66,7 @@
    }
   ]
  },
- "content_hash": "b9b6f587250a76755a78d3aa27ca4421733e3fc629505ffb48d6e601e691bd3e",
+ "content_hash": "125c30b501adefd75eb17f18ce50bcb17925eb0531a549c46395c5e5d6c21056",
  "topics": [
   "livestock",
   "aquaculture",
@@ -80,6 +87,18 @@
    "article": "8",
    "kind": "extracted",
    "snippet": "林業、畜牧及養殖等)必要設施,免申請建築執照之規定,宜循修正農業發展條例第8條第3項之方式予以規範,以利執行。\n二、農業發展條例第8條有關規定未修正發布前,同"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "b9b6f587250a76755a78d3aa27ca4421733e3fc629505ffb48d6e601e691bd3e",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

@@ -1,0 +1,139 @@
+{
+ "id": "itp-13c5ed5f2e",
+ "doc_class": "interpretation",
+ "docno": "農企字第0940141062號",
+ "date": "2005-08-16",
+ "date_text": "94/8/16",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "有關貴會就農業設施之申辦釋疑案。",
+ "content": "主旨：有關貴會就農業設施之申辦釋疑乙案，復如說明，請　查照。\n說明：\n一、復　貴會94年8月2日(94)投羊協字第014號函。\n二、依「農業用地容許作農業設施使用審查辦法」第3條規定，農業設施之種類包括農作產銷、林業、水產養殖運銷、畜牧及休閒農業設施，而為避免造成上開5大種類農業設施彼此之經營計畫書關係不明確或不一致，故上開辦法第10條、第12條、第15條、第17條及第19條，分別明定其經營計畫書應敘明之事項或應依休閒農業輔導管理辦法規定提出申請，並無申辦得以兼具各項用途及功能之農業設施。由於來函並未說明個案事實及具體案情，故如仍有法令適用等疑義，爰請依非都市土地使用管制規則及上開辦法等相關規定，洽請土地所在之直轄市、縣(市)政府協助瞭解。\n三、依農業發展條例第3條第12款規定：「農業使用：指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。」故農業用地申請設置農業等設施，均需與農業生產或農業使用相結合，如設施申請目的係屬非農業使用，農業主管機關應依上開辦法第8條規定不予同意辦理。因此，貴會另詢於農地上搭設簡易遮蔭遮雨設施，應非屬農業使用之必要性設施。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5330",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:57:02+08:00",
+   "source_key": "rmis:5330"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
+   "fetched_at": "2026-11-01T06:03:04+08:00",
+   "source_key": "rmis-lawexp:農企字第0940141062號|有關貴會就農業設施之申辦釋疑案"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "3",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "3",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0090014",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": null,
+    "amended_on": "2006-02-20",
+    "history": "中華民國九十五年二月二十日行政院農業委員會農輔字第 0950050094號令修正發布全文 30 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0090014",
+    "law_name": "休閒農業輔導管理辦法",
+    "article": null,
+    "amended_on": "2018-05-18",
+    "history": "中華民國一百零七年五月十八日行政院農業委員會農輔字第 1070022573 號令修正發布全文 45 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "ec115fab04b7f9112aa98b6db0e7a27177b420a79f0733939f2d621e970677d0",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture",
+  "leisure"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  },
+  {
+   "law_id": "M0020022",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "復 貴會94年8月2日(94)投羊協字第014號函。\n二、依「農業用地容許作農業設施使用審查辦法」第3條規定,農業設施之種類包括農作產銷、林業、水產養殖運銷、畜牧及休閒農業設施,而為避"
+  },
+  {
+   "law_id": "M0090014",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、第17條及第19條,分別明定其經營計畫書應敘明之事項或應依休閒農業輔導管理辦法規定提出申請,並無申辦得以兼具各項用途及功能之農業設施。由於來函並未說明個案事實"
+  },
+  {
+   "law_id": "D0060013",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "函並未說明個案事實及具體案情,故如仍有法令適用等疑義,爰請依非都市土地使用管制規則及上開辦法等相關規定,洽請土地所在之直轄市、縣(市)政府協助瞭解。\n三、依農業發"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "關規定,洽請土地所在之直轄市、縣(市)政府協助瞭解。\n三、依農業發展條例第3條第12款規定:「農業使用:指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置"
+  }
+ ]
+}

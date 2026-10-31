@@ -1,0 +1,97 @@
+{
+ "id": "itp-d77d34009f",
+ "doc_class": "interpretation",
+ "docno": "農授漁字第0931233378號",
+ "date": "2004-11-29",
+ "date_text": "93/11/29",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋水產養殖運銷設施許可使用細目可否同時配置於同一建構物或需分別獨立興建案",
+ "content": "查農業用地容許作農業設施使用審查辦法第十六條第一項第一款各目，業已明定水產養殖設施許可使用項目及面積，其中第十目一般室內養殖設施特別規定，室內養殖槽面積應佔該室內面積百分之八十以上，且與建以一層為限，以明確規範該建構物之使用用途。至同一建構物是否得以隔間方式，則尚無禁止規定。另申請人尚有室外養殖池者，其室內養殖設施以外之水產養殖設施許可使用細目，得另依第一至第八目規定辦理，且以獨立興建為宜。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4849",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:00+08:00",
+   "source_key": "rmis:4849"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "16",
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "16",
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "16",
+    "amended_on": "2015-04-09",
+    "history": "中華民國一百零四年四月九日行政院農業委員會農企字第 1040012236A號令修正發布第 16 條條文之附表二及第 21 條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "16",
+    "amended_on": "2017-06-28",
+    "history": "中華民國一百零六年六月二十八日行政院農業委員會農企字第 1060012754A 號令修正發布第 6、23、27～30、32、33 條條文及第 13 條條文之附表一、第 16 條條文之附表二、第 21 條條文之附表四",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": "16",
+    "amended_on": "2025-12-31",
+    "history": "中華民國一百十四年十二月三十一日農業部農農保字第 1142656636號令修正發布第 7、13、14、21、32、33 條條文、第 16 條條文之附表二；增訂第 29-1 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "94bbf3b6ec8aee57828d0821973cfd69fe11dc65ce8d0a98a346835ba1b7328f",
+ "topics": [
+  "aquaculture"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "16",
+   "kind": "extracted",
+   "snippet": "施許可使用細目可否同時配置於同一建構物或需分別獨立興建案\n查農業用地容許作農業設施使用審查辦法第十六條第一項第一款各目,業已明定水產養殖設施許可使用項目及面積,其中第十目一般室內養殖"
+  }
+ ]
+}

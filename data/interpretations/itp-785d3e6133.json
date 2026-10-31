@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0940167220號",
  "date": "2005-12-09",
- "date_text": "94年12月9日農企字第0940167220號函",
- "agency_text": "",
- "category": "",
+ "date_text": "94/12/9",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "032 釋特定農業區農牧用地申請農業用地容許作農業設施使用(農作產銷設施)，於基地內規劃通路以進出產業道路，其通路寬度是否須受建築技術規則建築設計施工編第2條第1項第4款規定限制疑義案",
  "content": "依建築技術規則建築設計施工編第2條規定，係規範「私設通路」之寬度。查「非都市土地使用管制規則」第6條第3項附表一規範，農牧用地容許使用項目中之私設通路，限以集村方式興建農舍者及甲種、乙種、丙種、丁種建築用地，因未面臨建築線，無道路可出入需要者；而農業設施其許可使用細目包含農路，限於農業經營所需要者。本案建議 貴府依據農業使用之內涵、當地農業經營發展、設施與農業生產經營之必要性及合理性，釐清究係屬「私設通路」或農業經營所需要之「農路」，視個案實務及事實予以審認核處。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0940167220號|釋特定農業區農牧用地申請農業用地容許作農業設施使用農作產銷設"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5021",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:35+08:00",
+   "source_key": "rmis:5021"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -122,7 +129,7 @@
    }
   ]
  },
- "content_hash": "889a44cd34570989274707fb26fa1dfc1a15b4997f5e11552578726d52287ff0",
+ "content_hash": "ffec6b9da4b2b185ebcca3ab54b32a85d1d1ab124b0233a5e0e0d3a638a3b3b7",
  "topics": [
   "farmhouse"
  ],
@@ -142,6 +149,18 @@
    "article": "6",
    "kind": "extracted",
    "snippet": "術規則建築設計施工編第2條規定,係規範「私設通路」之寬度。查「非都市土地使用管制規則」第6條第3項附表一規範,農牧用地容許使用項目中之私設通路,限以集村方式興建農舍者及甲種"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "889a44cd34570989274707fb26fa1dfc1a15b4997f5e11552578726d52287ff0",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

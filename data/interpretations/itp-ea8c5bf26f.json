@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農牧字第0930151160號",
  "date": "2004-11-05",
- "date_text": "93年11月5日農牧字第0930151160號函",
- "agency_text": "",
- "category": "",
+ "date_text": "93/11/5",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "014釋申請畜牧場登記涉及土地共有疑義案",
  "content": "一、申請畜牧場登記之土地如為共有者，依畜牧法施行細則第4條第2項：「．．．；土地為共有者，應以共有人過半數及其應有部分合計過半數，．．．之使用同意書。」，至○○○申請畜牧場登記之共有土地所持「土地分管契約」一節，按分管原無消滅共有關係之意，只係遷就共有土地使用狀態之權宜措施，各共有土地之共有關係依然維持，其經管土地仍屬各共有人共有所有權之型態。\n二、另據內政部查復，以土地法第34條之1規定申辦共有土地處分、變更及設定負擔時，其應備文件並不包含土地分管契約及分管位置圖；又依民法第818條規定，共有人得按其應有部分對共有物之全部有使用收益權，為避免爭議，本案須視其分管契約協議內容，是否包含同意為畜牧設施使用土地之權利，依○○○所提供契約影本所列內容，該筆土地其他共有人並無同意其土地作畜牧設施使用之表示，是以本案如於分管契約中列有二分之一土地共有人同意其土地作畜牧設施使用之表示，方得視為土地共有人之同意書。",
  "memo": "",
- "agency_id": null,
- "agency_name": null,
- "historical_name": "（原文未載發文機關；改制前文件）",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農牧字第0930151160號|釋申請畜牧場登記涉及土地共有疑義案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5011",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:11+08:00",
+   "source_key": "rmis:5011"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "aa1ad0be8e8d28460a70fd06cf7092119b7569b91c46855ed59feec26e6f43aa",
+ "content_hash": "3d1a3dabbbc95e643ba1b2783a39f39475c5c20e7ba2ed04904b9a28da79ae29",
  "topics": [
   "livestock"
  ],
@@ -63,6 +70,18 @@
    "article": null,
    "kind": "official",
    "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "aa1ad0be8e8d28460a70fd06cf7092119b7569b91c46855ed59feec26e6f43aa",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

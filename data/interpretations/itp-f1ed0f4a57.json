@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950110067號",
  "date": "2006-03-06",
- "date_text": "95年3月6日農企字第0950110067號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/3/6",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "006 釋免申請建築執照之無固定基礎農業設施得否核發接水、接電證明書等疑義案",
  "content": "依現行農業發展條例第8條之1第1項規定，農業用地上申請以竹木、稻草、塑膠材料、角鋼、鐵絲網或其他材料搭建無固定基礎之臨時性與農業生產有關之設施，免申請建築執照。另依本會90年10月9日（90）農企字第9000010368號函附會議紀錄決議略以：「依農業發展條例第8條第3項所搭建無固定基礎之臨時性與農業生產有關之建築物(設施)，不論其屬於都市土地或非都市土地，得免申請容許使用或認定，而直轄市、各縣市政府，若有特殊需要必須核發容許使用或認定之證明文件，得受理容許使用或認定之申請」。本案免申請建築執照之無固定基礎農業設施，如有特殊需要必須核發相關證明文件，請 貴府參考上開會議決議核處。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950110067號|釋免申請建築執照之無固定基礎農業設施得否核發接水接電證明書等"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5001",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:56:06+08:00",
+   "source_key": "rmis:5001"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -50,7 +57,7 @@
    }
   ]
  },
- "content_hash": "3f86026813614322c9f9cb7efda74b3e430fc2d26630420d543e0252994d5dd5",
+ "content_hash": "8a107c76e54bc63f81d1e5560472469d146caf87e64ed12d345a308e23f363a2",
  "topics": [
   "container"
  ],
@@ -75,6 +82,18 @@
    "article": "8",
    "kind": "extracted",
    "snippet": "0)農企字第9000010368號函附會議紀錄決議略以:「依農業發展條例第8條第3項所搭建無固定基礎之臨時性與農業生產有關之建築物(設施),不論其屬於都市土地"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "3f86026813614322c9f9cb7efda74b3e430fc2d26630420d543e0252994d5dd5",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

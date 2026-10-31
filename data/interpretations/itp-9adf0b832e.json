@@ -1,0 +1,75 @@
+{
+ "id": "itp-9adf0b832e",
+ "doc_class": "interpretation",
+ "docno": "農糧企字第0931010160號",
+ "date": "2004-06-01",
+ "date_text": "93/6/1",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋農業用地可否合併申請容許作農業設施及水稻育苗作業室等疑義",
+ "content": "於農業用地申請作農業設施使用，應視所申請農業設施之種類及容許使用細目依「農業用地容許作農業設施使用審查辦法」規定之要件予以審議，多筆毗連土地得合併申請作同一種設施使用，惟該設施面積不得超過許可興建面積。又申請農業設施容許使用，申請人必須於經營計畫書上詳為說明該項設施之用途，以利主管機關審議及查核，故經營計畫書必須明確，倘主管機關對經營計畫書如有疑義，應依照本辦法第八條規定通知申請人補正。至於水稻育苗作業室是否需規劃綠化場及堆土區乙節，查水稻育苗作業、堆土區係供生產水稻苗箱所需物料之放置場所，非屬長期堆放者，無須描繪；而綠化場如與農業使用不相容時，始有規劃之必要。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4858",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:32+08:00",
+   "source_key": "rmis:4858"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5355",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:58:35+08:00",
+   "source_key": "rmis:5355"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2009-03-16",
+    "history": "中華民國九十八年三月十六日行政院農業委員會農企字第 0980010695 號令修正發布名稱及全文 30 條；並自發布日施行（原名稱：農業用地容許作農業設施使用審查辦法；新名稱：申請農業用地作農業設施容許使用審查辦法）",
+    "relation_kind": "extracted"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020022",
+    "law_name": "申請農業用地作農業設施容許使用審查辦法",
+    "article": null,
+    "amended_on": "2013-10-09",
+    "history": "中華民國一百零二年十月九日行政院農業委員會農企字第 1020013047A號令修正發布全文 37 條；並自發布日施行",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "e7a26cbda7f95cba95a99ce5ca4bb4716013697255c69fb024d5d486144a9711",
+ "topics": [],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請作農業設施使用,應視所申請農業設施之種類及容許使用細目依「農業用地容許作農業設施使用審查辦法」規定之要件予以審議,多筆毗連土地得合併申請作同一種設施使用,惟該設施面積不得超過"
+  }
+ ]
+}

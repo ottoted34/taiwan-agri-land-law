@@ -1,0 +1,89 @@
+{
+ "id": "itp-0fa7b0250d",
+ "doc_class": "interpretation",
+ "docno": "農牧字第0910115760號",
+ "date": "2002-04-19",
+ "date_text": "91/4/19",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
+ "subject": "釋畜牧設施用電申請疑義案",
+ "content": "一、有關農業生產用電之申請辦法一節，因電力供應係屬臺灣電力股份有限公司之業務，本會業另函轉請該公司逕復台端；至農業動力用電之範圍及標準，本會業依「農業發展條例」第二十九條第三項規定發布施行。\n二、另有關畜牧設施是否為「設施利用型農業之農業生產用之地上遮蔽設施」一節，查「農業發展條例」及「畜牧法」等法令均未有是項定義，至畜牧設施是否應申辦建造執照，係依設施建築材質、面積等實際情形由縣（市 ）政府主管單位依建管法令及「農業發展條例」等相關法令加以判定，如該等農業設施符合「農業發展條例」第八條第三項規定：農地申請以竹木、稻草、塑膠材料、角鋼或鐵絲網搭建無固定基礎之臨時性與農業生產有關之建築物，可免申請建築執照。農民並可填報「農業發展條例第八條第三項無固定基礎之臨時性與農業生產有關之建築物證明申請書」送請縣（市）政府主管單位逕依權責核予「農業發展條例第八條第三項無固定基礎之臨時性與農業生產有關之建築物證明申請書」。",
+ "memo": "",
+ "agency_id": "moa",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
+ "is_historical": true,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5063",
+   "serial": null,
+   "fetched_at": "2026-11-01T06:00:15+08:00",
+   "source_key": "rmis:5063"
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
+   "fetched_at": "2026-11-01T06:03:04+08:00",
+   "source_key": "rmis-lawexp:農牧字第0910115760號|釋畜牧設施用電申請疑義案"
+  }
+ ],
+ "first_seen": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "possibly_affected",
+  "confirmed": false,
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "RMIS-2007",
+    "law_name": "農業動力用電範圍及標準",
+    "article": null,
+    "amended_on": "2020-08-19",
+    "history": "中華民國109年08月19日行政院院臺農字第 1090024797 號令修 正發布名稱及全文 7 條；並自發布日施行。（原名稱：農業動力用電範圍及標準；新名稱：農業動力用電範圍標準 ）",
+    "relation_kind": "official"
+   },
+   {
+    "type": "law_amendment",
+    "law_id": "M0020001",
+    "law_name": "農業發展條例",
+    "article": "8",
+    "amended_on": "2003-02-07",
+    "history": "中華民國九十二年二月七日總統華總一義字第 092000200080 號令修正公布第 3、5、8、16、17、20～22、26、27、30～32、36、37、39、43、52、54、55、63～65、67、69、74、77 條條文；增訂第 8-1、9-1、22-1、25-1、67-1、67-2 條條文；並刪除第 11、1",
+    "relation_kind": "extracted"
+   }
+  ]
+ },
+ "content_hash": "b830787199c9844af17ab0504bd0cbb1973b6250a21547a62b24e5f829b863d3",
+ "topics": [
+  "container",
+  "livestock"
+ ],
+ "flags": [
+  "historical_agency",
+  "docno_shared"
+ ],
+ "relations": [
+  {
+   "law_id": "RMIS-2007",
+   "article": null,
+   "kind": "official",
+   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "29",
+   "kind": "extracted",
+   "snippet": "另函轉請該公司逕復台端;至農業動力用電之範圍及標準,本會業依「農業發展條例」第二十九條第三項規定發布施行。\n二、另有關畜牧設施是否為「設施利用型農業之農業生產用之地上"
+  },
+  {
+   "law_id": "M0020001",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "法令及「農業發展條例」等相關法令加以判定,如該等農業設施符合「農業發展條例」第八條第三項規定:農地申請以竹木、稻草、塑膠材料、角鋼或鐵絲網搭建無固定基礎之臨時性與"
+  }
+ ]
+}

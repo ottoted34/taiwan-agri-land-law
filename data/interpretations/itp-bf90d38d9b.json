@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0910130826號",
  "date": "2002-06-18",
- "date_text": "91年6月18日農企字第0910130826號函",
- "agency_text": "",
- "category": "",
+ "date_text": "91/6/18",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "002 釋申請農用證明收取規費案",
  "content": "一、查農業用地作農業使用認定及核發證明辦法第18條明定「直轄市或縣（市）政府或其委任之鄉（鎮、市、區）公所為辦理農業用地作農業使用認定作業，應依農業主管機關受理申請許可案件及核發證明文件收費標準之規定，向申請人收取必要之行政規費。」合先敘明。\n二、貴府為執行農業發展條例施行細則第2條第2項所規範土地，現況是否作農業使用之認定業務，如貴府為受理窗口，且鄉（鎮、市、區）公所並未就同一案件收取規費，則貴府依前開規定收取行政規費，並無不妥。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0910130826號|釋申請農用證明收取規費案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4883",
+   "serial": null,
+   "fetched_at": "2026-11-01T06:00:08+08:00",
+   "source_key": "rmis:4883"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -77,7 +84,7 @@
    }
   ]
  },
- "content_hash": "b50d07d517278ca55dc36286bd9b0736d4a007e2d748953ee9e6b1997cb6b87a",
+ "content_hash": "edb952b43541c3b1418bde4f6cbc21c4d9916b7885d5ef8c6845e6d7adc65f6f",
  "topics": [
   "farm_use_cert"
  ],
@@ -108,6 +115,18 @@
    "article": "2",
    "kind": "extracted",
    "snippet": "定,向申請人收取必要之行政規費。」合先敘明。\n二、貴府為執行農業發展條例施行細則第2條第2項所規範土地,現況是否作農業使用之認定業務,如貴府為受理窗口,且鄉(鎮、市、"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "b50d07d517278ca55dc36286bd9b0736d4a007e2d748953ee9e6b1997cb6b87a",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

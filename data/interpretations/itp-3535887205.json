@@ -3,15 +3,15 @@
  "doc_class": "interpretation",
  "docno": "農企字第0950121233號",
  "date": "2006-04-25",
- "date_text": "95年4月25日農企字第0950121233號函",
- "agency_text": "",
- "category": "",
+ "date_text": "95/4/25",
+ "agency_text": "行政院農業委員會",
+ "category": "解釋函",
  "subject": "055 釋經核定休閒農業區範圍內之休閒農業設施，符合作農業使用之認定案",
  "content": "一、查非都市土地使用管制規則附表一「各種使用地容許使用項目及許可使用細目表」明定農牧用地、林業用地及養殖用地容許作休閒農業設施使用，惟其附帶條件為「限經農業主管機關劃定之休閒農業區或准予籌設之休閒農場」；又農業發展條例第8條之1第2項明定「農業用地上興建有固定基礎之農業設施，應先申請農業設施之容許使用，並依法申請建築執照。」本會並依該條第3項之授權，訂頒有農業用地容許作農業設施使用審查辦法乙種，以作為審查之依據。該辦法第3條及第19條分別明定「本辦法所稱之農業設施種類如下：一、...五、休閒農業設施。」、「農業用地容許作為休閒農業設施使用，應依休閒農業輔導管理辦法規定提出申請。」\n二、綜上，經核定為休閒農業區或休閒農場範圍內土地，依前開規定得申請設置休閒農業設施，至其是否符合旨揭農業用地作農業使用認定及核發證明辦法規定乙節，該辦法第5條明定「農業用地有下列情形，且無第6條及第7條之情形者，認定為作農業使用：……二、農業用地上興建有農舍或施設有農業設施，並檢附合法證明文件者。」倘該休閒農業區範圍內之各項公共設施經認定為休閒農業設施經依休閒農業相關法規規定，申請核准施設，且取得相關證明文件者，該農業用地得依前開規定認定為作農業使用。",
  "memo": "",
  "agency_id": "moa",
- "agency_name": null,
- "historical_name": "行政院農業委員會企劃處（依字號字頭推定）",
+ "agency_name": "農業部",
+ "historical_name": "行政院農業委員會",
  "is_historical": true,
  "year_hint": null,
  "sources": [
@@ -20,11 +20,18 @@
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950121233號|釋經核定休閒農業區範圍內之休閒農業設施符合作農業使用之認定案"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4937",
+   "serial": null,
+   "fetched_at": "2026-11-01T05:55:50+08:00",
+   "source_key": "rmis:4937"
   }
  ],
  "first_seen": "2026-10-30T11:57:10+08:00",
- "last_synced": "2026-10-30T11:57:10+08:00",
- "version": 1,
+ "last_synced": "2026-11-01T06:00:20+08:00",
+ "version": 2,
  "flags_in": [],
  "validity": {
   "status": "possibly_affected",
@@ -68,7 +75,7 @@
    }
   ]
  },
- "content_hash": "2df526f3b10f17850242dec372f6d191f9ff529e8bfccdfa43969e83c69c7cb4",
+ "content_hash": "d7055937db605e6d1780c9f4462d8f8a198838c9e0c9433a43dce4dcbf45c15d",
  "topics": [
   "farm_use_cert",
   "farmhouse",
@@ -114,6 +121,18 @@
    "article": null,
    "kind": "extracted",
    "snippet": "圍內土地,依前開規定得申請設置休閒農業設施,至其是否符合旨揭農業用地作農業使用認定及核發證明辦法規定乙節,該辦法第5條明定「農業用地有下列情形,且無第6條及第7條之情形者,認定"
+  }
+ ],
+ "history": [
+  {
+   "at": "2026-11-01T06:00:20+08:00",
+   "previous_hash": "2df526f3b10f17850242dec372f6d191f9ff529e8bfccdfa43969e83c69c7cb4",
+   "changed_fields": [
+    "category"
+   ],
+   "previous": {
+    "category": ""
+   }
   }
  ]
 }

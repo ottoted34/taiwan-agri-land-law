@@ -47,12 +47,6 @@
  ],
  "relations": [
   {
-   "law_id": "RMIS-3008",
-   "article": null,
-   "kind": "official",
-   "evidence": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008"
-  },
-  {
    "law_id": "M0020001",
    "article": "10",
    "kind": "extracted",
