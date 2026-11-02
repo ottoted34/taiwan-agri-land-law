@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3326",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:31:54+08:00",
-   "source_key": "rmis:3326"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:11+08:00",
    "source_key": "rmis-lawexp:農授水保字第1040214702號|貴轄○○○等24人於桃園市龍潭區○○○地號以集村方式興建農舍"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3326",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:13:57+08:00",
+   "source_key": "rmis:3326"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

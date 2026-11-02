@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3726",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:37:07+08:00",
-   "source_key": "rmis:3726"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:11+08:00",
    "source_key": "rmis-lawexp:水保農字第1020244040號|為非都市土地使用管制規則第6條附表一農牧用地容許使用項目農舍"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3726",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:19:10+08:00",
+   "source_key": "rmis:3726"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

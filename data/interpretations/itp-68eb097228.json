@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=471",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:43:12+08:00",
-   "source_key": "rmis:471"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農授水保字第1000130832號|有關貴府函為興建自用農舍之申請人身分疑義案復請查照"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=471",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:25:04+08:00",
+   "source_key": "rmis:471"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

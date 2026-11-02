@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5598",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:21:33+08:00",
-   "source_key": "rmis:5598"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第1080257540號|復花蓮政縣府太陽光電如有編號供公眾通行之農路得適用有聯外道路"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5598",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:03:27+08:00",
+   "source_key": "rmis:5598"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

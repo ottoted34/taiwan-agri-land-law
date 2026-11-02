@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2838",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:38:00+08:00",
-   "source_key": "rmis:2838"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:11+08:00",
    "source_key": "rmis-lawexp:水保農字第1020237303號|有關民眾擬於農舍販賣並製作農產品手工皂是否適法一案復請查照"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2838",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:20:03+08:00",
+   "source_key": "rmis:2838"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

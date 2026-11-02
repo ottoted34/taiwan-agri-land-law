@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5227",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:47:04+08:00",
-   "source_key": "rmis:5227"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第0960159015號|釋補辦登記寺廟位於特定農業區農地重劃土地輔導處理方案之同意變"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5227",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:28:57+08:00",
+   "source_key": "rmis:5227"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

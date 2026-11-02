@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5324",
-   "serial": null,
-   "fetched_at": "2026-11-01T05:56:38+08:00",
-   "source_key": "rmis:5324"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-11-01T06:03:04+08:00",
    "source_key": "rmis-lawexp:農企字第0940166848號|有關特定農業區農牧用地申請容許作農業設施苗木包裝處理場使用疑"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5324",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:32:51+08:00",
+   "source_key": "rmis:5324"
   }
  ],
  "first_seen": "2026-11-01T06:00:20+08:00",
- "last_synced": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

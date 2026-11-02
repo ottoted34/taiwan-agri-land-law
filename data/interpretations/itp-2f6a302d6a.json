@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5166",
-   "serial": null,
-   "fetched_at": "2026-11-01T05:56:03+08:00",
-   "source_key": "rmis:5166"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-11-01T06:03:04+08:00",
    "source_key": "rmis-lawexp:農企字第0950111783號|都市計畫農業區申請設置運動場館設施游泳池涉及收取農業用地變更"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5166",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:32:16+08:00",
+   "source_key": "rmis:5166"
   }
  ],
  "first_seen": "2026-11-01T06:00:20+08:00",
- "last_synced": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

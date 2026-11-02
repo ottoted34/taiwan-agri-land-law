@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5202",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:49:44+08:00",
-   "source_key": "rmis:5202"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第900153848號|釋縣市政府成立農業發展基金後要求回撥已繳回饋金之作業方式問題"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5202",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:36:51+08:00",
+   "source_key": "rmis:5202"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:38+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

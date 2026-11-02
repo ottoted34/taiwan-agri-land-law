@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3635",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:32:51+08:00",
-   "source_key": "rmis:3635"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:11+08:00",
    "source_key": "rmis-lawexp:水保農字第1041800982號|有關貴府函為都市計畫農業區土地辦理共有物分割申請興建農舍疑義"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=3635",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:14:54+08:00",
+   "source_key": "rmis:3635"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

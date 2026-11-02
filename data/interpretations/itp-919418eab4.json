@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5158",
-   "serial": null,
-   "fetched_at": "2026-11-01T05:55:32+08:00",
-   "source_key": "rmis:5158"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-11-01T06:03:04+08:00",
    "source_key": "rmis-lawexp:農企字第0950127408號|有關依非都市土地農牧用地容許採取黏土作為自用窯業製磚原料來源"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5158",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:31:45+08:00",
+   "source_key": "rmis:5158"
   }
  ],
  "first_seen": "2026-11-01T06:00:20+08:00",
- "last_synced": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

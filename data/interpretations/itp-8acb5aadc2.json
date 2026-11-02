@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5171",
-   "serial": null,
-   "fetched_at": "2026-11-01T05:56:47+08:00",
-   "source_key": "rmis:5171"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-11-01T06:03:04+08:00",
    "source_key": "rmis-lawexp:農企字第0940162190號|有關高鐵軌道工程T220標承包商接續使用原土建工程C250標"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5171",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:33:00+08:00",
+   "source_key": "rmis:5171"
   }
  ],
  "first_seen": "2026-11-01T06:00:20+08:00",
- "last_synced": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

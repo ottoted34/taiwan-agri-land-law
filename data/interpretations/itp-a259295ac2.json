@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5612",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:19:57+08:00",
-   "source_key": "rmis:5612"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第1090236916號|復屏東縣府○○及○○公司於養殖漁業生產區內申請光電設施之新舊"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5612",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:01:51+08:00",
+   "source_key": "rmis:5612"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

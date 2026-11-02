@@ -15,21 +15,21 @@
  "is_historical": false,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6037",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:15:48+08:00",
-   "source_key": "rmis:6037"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農保規字第1130256991號|有關貴府函詢特定工廠出入口需經國有農牧用地通行得否規劃為私設"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6037",
+   "serial": null,
+   "fetched_at": "2026-11-02T07:57:42+08:00",
+   "source_key": "rmis:6037"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:36+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5188",
-   "serial": null,
-   "fetched_at": "2026-11-01T06:00:03+08:00",
-   "source_key": "rmis:5188"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-11-01T06:03:04+08:00",
    "source_key": "rmis-lawexp:農企字第0910137637號|釋國防部所屬單位申請農業用地變更使用作為炮陣地使用之回饋金免"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5188",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:36:17+08:00",
+   "source_key": "rmis:5188"
   }
  ],
  "first_seen": "2026-11-01T06:00:20+08:00",
- "last_synced": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

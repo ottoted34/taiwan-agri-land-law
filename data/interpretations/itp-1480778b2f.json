@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2803",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:42:09+08:00",
-   "source_key": "rmis:2803"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:11+08:00",
    "source_key": "rmis-lawexp:營署建管字第1010004749號|有關起造人於領得農舍建造執照開工前死亡繼承人是否依農業用地興"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=2803",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:24:01+08:00",
+   "source_key": "rmis:2803"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "amended_by_later",

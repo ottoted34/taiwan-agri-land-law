@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5210",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:50:38+08:00",
-   "source_key": "rmis:5210"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第900116518號|釋都市計畫範圍內及非都市土地農業用地變更使用回饋金之繳交標準"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5210",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:37:45+08:00",
+   "source_key": "rmis:5210"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:38+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

@@ -19,19 +19,19 @@
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4853",
    "serial": null,
-   "fetched_at": "2026-11-01T05:58:08+08:00",
+   "fetched_at": "2026-11-02T08:34:21+08:00",
    "source_key": "rmis:4853"
   },
   {
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5352",
    "serial": null,
-   "fetched_at": "2026-11-01T05:58:09+08:00",
+   "fetched_at": "2026-11-02T08:34:23+08:00",
    "source_key": "rmis:5352"
   }
  ],
  "first_seen": "2026-11-01T06:00:20+08:00",
- "last_synced": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

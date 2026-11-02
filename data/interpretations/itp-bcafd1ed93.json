@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5142",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:48:49+08:00",
-   "source_key": "rmis:5142"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0950158636號|釋農業用地申請變更為非農業使用案件如已依山坡地開發利用回饋金"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5142",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:30:42+08:00",
+   "source_key": "rmis:5142"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

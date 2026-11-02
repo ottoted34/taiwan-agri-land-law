@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5232",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:48:17+08:00",
-   "source_key": "rmis:5232"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第0960108020號|釋有關現階段以容許使用方式申請於非都市土地農牧用地架設戶外廣"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5232",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:30:09+08:00",
+   "source_key": "rmis:5232"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

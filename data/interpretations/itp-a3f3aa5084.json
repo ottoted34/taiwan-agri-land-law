@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5130",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:48:24+08:00",
-   "source_key": "rmis:5130"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0960103065號|釋涉及申請都市計畫農業區變更為醫療專用區其應繳納之農業用地變"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5130",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:30:16+08:00",
+   "source_key": "rmis:5130"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

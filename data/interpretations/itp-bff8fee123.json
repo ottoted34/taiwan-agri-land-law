@@ -15,13 +15,6 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5950",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:19:13+08:00",
-   "source_key": "rmis:5950"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2013",
    "fetched_at": "2026-10-30T11:57:10+08:00",
@@ -32,10 +25,17 @@
    "url": "https://talis.moa.gov.tw/age/Page/Content/610d8eda-135b-43fa-a693-cc516b79853d?group=Regulation&category=Explanation",
    "fetched_at": "2026-10-30T15:17:53+08:00",
    "source_key": "talis:610d8eda-135b-43fa-a693-cc516b79853d"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5950",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:01:08+08:00",
+   "source_key": "rmis:5950"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T15:19:53+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "validity": {
   "status": "no_known_cessation",

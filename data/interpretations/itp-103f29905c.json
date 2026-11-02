@@ -16,28 +16,28 @@
  "year_hint": null,
  "sources": [
   {
+   "source_id": "rmis-lawexp",
+   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
+   "fetched_at": "2026-11-01T06:03:04+08:00",
+   "source_key": "rmis-lawexp:農企字第0930154232號|釋辦理農業用地容許作農業設施涉及廁所衛浴之審查疑義案"
+  },
+  {
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5351",
    "serial": null,
-   "fetched_at": "2026-11-01T05:58:05+08:00",
+   "fetched_at": "2026-11-02T08:34:18+08:00",
    "source_key": "rmis:5351"
   },
   {
    "source_id": "rmis-interpretations",
    "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4852",
    "serial": null,
-   "fetched_at": "2026-11-01T05:58:06+08:00",
+   "fetched_at": "2026-11-02T08:34:20+08:00",
    "source_key": "rmis:4852"
-  },
-  {
-   "source_id": "rmis-lawexp",
-   "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=1001",
-   "fetched_at": "2026-11-01T06:03:04+08:00",
-   "source_key": "rmis-lawexp:農企字第0930154232號|釋辦理農業用地容許作農業設施涉及廁所衛浴之審查疑義案"
   }
  ],
  "first_seen": "2026-11-01T06:00:20+08:00",
- "last_synced": "2026-11-01T06:00:20+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

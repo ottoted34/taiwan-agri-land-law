@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5209",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:50:36+08:00",
-   "source_key": "rmis:5209"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2008",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第900116518號|釋駕駛訓練班是否適用農業用地變更回饋金撥繳及分配利用辦法第四"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5209",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:37:44+08:00",
+   "source_key": "rmis:5209"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:38+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

@@ -15,21 +15,21 @@
  "is_historical": false,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6041",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:15:39+08:00",
-   "source_key": "rmis:6041"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=3008",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農保規字第1140210269號|有關貴處規劃使用新北市淡水區○○○地號內土地設置輸配電鐵塔鄰"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6041",
+   "serial": null,
+   "fetched_at": "2026-11-02T07:57:33+08:00",
+   "source_key": "rmis:6041"
   }
  ],
  "first_seen": "2026-10-30T10:20:57+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:36+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

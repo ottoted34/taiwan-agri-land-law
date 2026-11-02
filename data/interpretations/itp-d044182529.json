@@ -15,21 +15,21 @@
  "is_historical": true,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5534",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:47:21+08:00",
-   "source_key": "rmis:5534"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:農企字第0960149506號|釋涉及所有權移轉之農業用地分割應以分割前原地號查核作農業使用"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5534",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:29:13+08:00",
+   "source_key": "rmis:5534"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:37+08:00",
  "version": 2,
  "validity": {
   "status": "possibly_affected",

@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5065",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:51:21+08:00",
-   "source_key": "rmis:5065"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2007",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第890120475號|釋台糖公虎尾總廠附設蔗渣堆肥場申請使用電力比照畜殖場模式適用"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5065",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:38:29+08:00",
+   "source_key": "rmis:5065"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:38+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

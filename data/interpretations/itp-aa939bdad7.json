@@ -16,21 +16,21 @@
  "year_hint": null,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4896",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:49:56+08:00",
-   "source_key": "rmis:4896"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2012",
    "fetched_at": "2026-10-30T11:57:10+08:00",
    "source_key": "rmis-lawexp:內營字第9085315號|釋都市計畫主管機關出具符合農業發展條例施行細則第14條之1土"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=4896",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:37:04+08:00",
+   "source_key": "rmis:4896"
   }
  ],
  "first_seen": "2026-10-30T11:51:29+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:38+08:00",
  "version": 1,
  "flags_in": [],
  "validity": {

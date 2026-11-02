@@ -15,21 +15,21 @@
  "is_historical": false,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5910",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:18:30+08:00",
-   "source_key": "rmis:5910"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第1110205777號|為營造西伯利亞白鶴友善棲息環境擬推動農業環境營造生態補貼計畫"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5910",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:00:24+08:00",
+   "source_key": "rmis:5910"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:36+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",

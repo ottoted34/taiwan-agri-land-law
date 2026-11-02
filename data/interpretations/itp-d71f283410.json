@@ -15,21 +15,21 @@
  "is_historical": false,
  "sources": [
   {
-   "source_id": "rmis-interpretations",
-   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5908",
-   "serial": null,
-   "fetched_at": "2026-10-30T11:18:36+08:00",
-   "source_key": "rmis:5908"
-  },
-  {
    "source_id": "rmis-lawexp",
    "url": "https://rmis.ardswc.gov.tw/Web/LawExp.aspx?id=2006",
    "fetched_at": "2026-10-30T11:57:12+08:00",
    "source_key": "rmis-lawexp:農企字第1110204780號|農舍配置疑義"
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=5908",
+   "serial": null,
+   "fetched_at": "2026-11-02T08:00:30+08:00",
+   "source_key": "rmis:5908"
   }
  ],
  "first_seen": "2026-10-30T10:20:58+08:00",
- "last_synced": "2026-10-30T11:51:29+08:00",
+ "last_synced": "2026-11-02T08:38:36+08:00",
  "version": 1,
  "validity": {
   "status": "possibly_affected",
