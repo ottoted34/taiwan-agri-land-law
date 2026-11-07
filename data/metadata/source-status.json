@@ -1,27 +1,25 @@
 {
  "moj-law-api": {
-  "last_checked": "2026-11-08T06:16:26+08:00",
+  "last_checked": "2026-11-08T06:51:08+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-08T06:16:26+08:00",
-  "last_full_compare": "2026-11-08T06:16:26+08:00",
+  "last_success": "2026-11-08T06:51:08+08:00",
+  "last_full_compare": "2026-11-08T06:51:08+08:00",
   "last_changed": "2026-10-30T12:07:25+08:00"
  },
  "rmis-laws": {
-  "last_checked": "2026-11-08T06:17:03+08:00",
+  "last_checked": "2026-11-08T06:51:46+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-08T06:17:03+08:00",
-  "last_full_compare": "2026-11-08T06:17:03+08:00",
+  "last_success": "2026-11-08T06:51:46+08:00",
+  "last_full_compare": "2026-11-08T06:51:46+08:00",
   "last_changed": "2026-10-30T09:42:14+08:00"
  },
  "rmis-interpretations": {
-  "last_checked": "2026-11-08T06:21:23+08:00",
-  "last_status": "partial",
-  "last_errors": [
-   "detail 52: 明細頁無資料"
-  ],
-  "last_success": "2026-11-08T06:21:23+08:00",
+  "last_checked": "2026-11-08T06:51:50+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-11-08T06:51:50+08:00",
   "last_full_compare": "2026-11-08T06:21:23+08:00",
   "last_changed": "2026-11-02T08:38:38+08:00"
  },
@@ -49,34 +47,34 @@
   "last_full_compare": "2026-11-02T07:50:34+08:00"
  },
  "local-taichung": {
-  "last_checked": "2026-11-08T06:29:28+08:00",
+  "last_checked": "2026-11-08T06:53:35+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-08T06:29:28+08:00",
-  "last_full_compare": "2026-11-08T06:29:28+08:00",
+  "last_success": "2026-11-08T06:53:35+08:00",
+  "last_full_compare": "2026-11-08T06:53:35+08:00",
   "last_changed": "2026-10-30T15:21:42+08:00"
  },
  "forest-interpretations": {
-  "last_checked": "2026-11-08T06:27:29+08:00",
+  "last_checked": "2026-11-08T06:51:55+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-08T06:27:29+08:00",
+  "last_success": "2026-11-08T06:51:55+08:00",
   "last_full_compare": "2026-11-08T06:27:29+08:00",
   "last_changed": "2026-11-03T09:47:08+08:00"
  },
  "talis-green-energy": {
-  "last_checked": "2026-11-08T06:27:50+08:00",
+  "last_checked": "2026-11-08T06:51:58+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-08T06:27:50+08:00",
+  "last_success": "2026-11-08T06:51:58+08:00",
   "last_full_compare": "2026-11-08T06:27:50+08:00",
   "last_changed": "2026-10-30T15:19:53+08:00"
  },
  "course-summaries": {
-  "last_checked": "2026-11-08T06:29:29+08:00",
+  "last_checked": "2026-11-08T06:53:35+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-08T06:29:29+08:00",
-  "last_full_compare": "2026-11-08T06:29:29+08:00"
+  "last_success": "2026-11-08T06:53:35+08:00",
+  "last_full_compare": "2026-11-08T06:53:35+08:00"
  }
 }
