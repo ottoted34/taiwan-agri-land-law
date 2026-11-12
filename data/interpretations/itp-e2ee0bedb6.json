@@ -1,0 +1,40 @@
+{
+ "id": "itp-e2ee0bedb6",
+ "doc_class": "interpretation",
+ "docno": "農授林業字第1150245758號",
+ "date": "2026-11-10",
+ "date_text": "115/11/10",
+ "agency_text": "",
+ "category": "森林產業組／山坡地開發利用回饋金繳交辦法",
+ "subject": "貴局函詢能源股份有限公司申請埋沉寶藏挖掘使用（座落新北市林口區下福段地號土地）之山坡地開發利用回饋金核處疑義案，復如說明，請查照。",
+ "content": "一、復貴局115年10月15日新北農林字第1152054805號函。\n二、按本部112年9月6日修正發布「山坡地開發利用回饋金繳交辦法」（以下簡稱本辦法）第4條規定，山坡地開發利用回饋金(以下簡稱回饋金)繳交義務人，為向目的事業主管機關申請從事本辦法第3條各款行為之人。地方主管機關接獲目的事業主管機關核發山坡地開發利用許可後，應依本辦法第5條附表計算回饋金，並通知回饋金繳交義務人於一個月內一次繳交。\n三、本案經據函附財政部國有財產署北區分署核定函及用印「新北市林口區下福段○○○○號日據時代埋沉寶藏挖掘計劃書」內容觀之，埋沉財產種類(黃金)之寶藏掘發行為屬性，尚與本辦法第3條第1款「探礦、採礦、鑿井、採取土石或設置有關附屬設施」行為之事物本質相同，其回饋金課徵，請本權責依該款及本辦法第5條規定論處。\n正本：新北市政府農業局\n副本:本部林業及自然保育署",
+ "memo": "林業及自然保育署公文函釋專區",
+ "agency_id": null,
+ "agency_name": null,
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "forest-interpretations",
+   "url": "https://www.forest.gov.tw/0000062/0001091",
+   "fetched_at": "2026-11-12T09:39:05+08:00",
+   "source_key": "forest:0001091"
+  }
+ ],
+ "first_seen": "2026-11-12T09:39:05+08:00",
+ "last_synced": "2026-11-12T09:39:05+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "dec4223ef1fde5f0ecd7d95ad21d3fd87d814ede4478c4682f6aee69e50b8f51",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [],
+ "relations": []
+}
