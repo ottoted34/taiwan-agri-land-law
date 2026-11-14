@@ -1,0 +1,142 @@
+{
+ "run_id": "43533808583",
+ "mode": "daily",
+ "started_at": "2026-11-14T08:23:10+08:00",
+ "sources": [
+  {
+   "source_id": "moj-law-api",
+   "status": "partial",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 12,
+   "rejected": 0,
+   "failed": 1,
+   "missing_flagged": 0,
+   "requests": 4,
+   "notes": [
+    "全國法規資料庫查無（名稱不符或已廢止）：休閒農業輔導管理辦法、區域計畫法施行細則、土地稅法施行細則、實施都市計畫以外地區建築物管理辦法、擴大家庭農場經營規模協助農民購買耕地貸款辦法、水土保持法施行細則、申請農業用地作農業設施容許使用審查辦法、農業主管機關受理申請許可案件及核發證明文件收費標準、農業動力用電範圍及標準、農業技術密集或資本密集類目標準、農業用地作農業使用認定及核發證明辦法、農業用地興建農舍辦法、農業用地變更回饋金撥繳及分配利用辦法、農業用地違規使用檢舉獎勵辦法、農業發展條例施行細則、農民團體農業企業機構及農業試驗研究機構申請承受耕地移轉許可準則、都市計畫法臺灣省施行細則、集村興建農舍獎勵及協助辦法、非都市土地使用管制規則",
+    "資料集更新日期：{'law': '2026/11/6 上午 12:00:00'}"
+   ],
+   "errors": [
+    "https://law.moj.gov.tw/api/ch/order/json: HTTP 500 https://law.moj.gov.tw/api/ch/order/json"
+   ]
+  },
+  {
+   "source_id": "rmis-laws",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 24,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 25,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 3,
+   "notes": [
+    "列表頁數：172，本次讀取列表 30 筆（不重複）",
+    "明細擷取 0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "forest-interpretations",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 3,
+   "notes": [
+    "列表 103 頁，本次讀取 3 頁、30 筆，符合收錄範圍 30 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "talis-green-energy",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 2,
+   "notes": [
+    "列表 14 頁，本次讀取 2 頁、16 筆，符合收錄範圍 16 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "local-taichung",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 6,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 64,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "course-summaries",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 50,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 0,
+   "notes": [],
+   "errors": []
+  }
+ ],
+ "events": [],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 0,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 1039,
+   "no_known_cessation": 3469,
+   "needs_review": 64,
+   "amended_by_later": 66
+  },
+  "relations_extracted": 6800,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-11-14T08:26:28+08:00",
+ "result": "partial_failure"
+}
