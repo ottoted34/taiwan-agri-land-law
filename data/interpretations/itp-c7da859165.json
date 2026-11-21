@@ -50,7 +50,8 @@
   "green_energy"
  ],
  "flags": [
-  "historical_agency"
+  "historical_agency",
+  "source_missing"
  ],
  "relations": [
   {
@@ -67,5 +68,6 @@
   }
  ],
  "year_hint": null,
- "flags_in": []
+ "flags_in": [],
+ "source_missing_since": "2026-11-22T07:39:13+08:00"
 }

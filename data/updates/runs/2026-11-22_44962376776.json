@@ -1,0 +1,252 @@
+{
+ "run_id": "44962376776",
+ "mode": "weekly",
+ "started_at": "2026-11-22T07:33:40+08:00",
+ "sources": [
+  {
+   "source_id": "moj-law-api",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 28,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 2,
+   "notes": [
+    "全國法規資料庫查無（名稱不符或已廢止）：農業動力用電範圍及標準、農業技術密集或資本密集類目標準、都市計畫法臺灣省施行細則",
+    "資料集更新日期：{'law': '2026/11/13 上午 12:00:00', 'order': '2026/11/13 上午 12:00:00'}"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-laws",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 24,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 25,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "status": "partial",
+   "complete": true,
+   "added": 11,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 1,
+   "missing_flagged": 3,
+   "requests": 186,
+   "notes": [
+    "列表頁數：174，本次讀取列表 1733 筆（不重複）",
+    "明細擷取 12 筆"
+   ],
+   "errors": [
+    "detail 52: 明細頁無資料"
+   ]
+  },
+  {
+   "source_id": "rmis-lawexp",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 24,
+   "notes": [
+    "官方列示關聯 4055 筆；本次新收錄僅見於法規對應頁之函釋 0 筆（官方頁面未載發文日期）"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "forest-interpretations",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 103,
+   "notes": [
+    "列表 103 頁，本次讀取 103 頁、1025 筆，符合收錄範圍 369 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "talis-green-energy",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 14,
+   "notes": [
+    "列表 14 頁，本次讀取 14 頁、112 筆，符合收錄範圍 112 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "local-taichung",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 6,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 64,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "course-summaries",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 50,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 0,
+   "notes": [],
+   "errors": []
+  }
+ ],
+ "events": [
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-8e9ed21edc",
+   "docno": "農保規字第1152604407號",
+   "date": "2026-04-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-86728fb6c7",
+   "docno": "農保規字第1152604835號",
+   "date": "2026-04-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-3c61f44283",
+   "docno": "農保規字第1152604812號",
+   "date": "2026-04-15"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0e98b50e8b",
+   "docno": "農保規字第1152603958號",
+   "date": "2026-03-30"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-7ef5eed586",
+   "docno": "農保規字第1152602856號",
+   "date": "2026-03-10"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-ea965adb36",
+   "docno": "農保規字第1152601746號",
+   "date": "2026-02-25"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-761665e593",
+   "docno": "農保規字第1152600929號",
+   "date": "2026-02-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-cefaff5c30",
+   "docno": "農保規字第1140215291號",
+   "date": "2025-07-02"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-c8aacb6c5c",
+   "docno": "農保規字第1140707777號",
+   "date": "2025-06-03"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-0bcc6f6dbb",
+   "docno": "農保規字第1140209727號",
+   "date": "2025-04-23"
+  },
+  {
+   "kind": "added",
+   "type": "interpretation",
+   "id": "itp-198ddfa2c3",
+   "docno": "農保規字第1132620760號",
+   "date": "2025-01-09"
+  },
+  {
+   "kind": "missing_from_source",
+   "id": "itp-24dc313f31",
+   "source_key": "rmis:5438"
+  },
+  {
+   "kind": "missing_from_source",
+   "id": "itp-c7da859165",
+   "source_key": "rmis:5441"
+  },
+  {
+   "kind": "missing_from_source",
+   "id": "itp-34dff274dd",
+   "source_key": "rmis:5281"
+  }
+ ],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 15,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 1039,
+   "no_known_cessation": 3493,
+   "needs_review": 64,
+   "amended_by_later": 66
+  },
+  "relations_extracted": 6844,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-11-22T07:46:13+08:00",
+ "result": "partial_failure"
+}

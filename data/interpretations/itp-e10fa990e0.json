@@ -32,6 +32,14 @@
   "basis": [
    {
     "type": "cessation_signal",
+    "by_id": "itp-86728fb6c7",
+    "by_docno": "農保規字第1152604835號",
+    "by_date": "2026-04-15",
+    "kind": "cease",
+    "phrase": "另貴府來函所提農委會102年11月8日農企字第1020732757號函,亦由該會以上開108年函停止適用"
+   },
+   {
+    "type": "cessation_signal",
     "by_id": "itp-bdef3467d6",
     "by_docno": "農企字第1080232427號",
     "by_date": "2019-08-21",

@@ -1,0 +1,54 @@
+{
+ "id": "itp-86728fb6c7",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152604835號",
+ "date": "2026-04-15",
+ "date_text": "115/4/15",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關民眾於貴市桃園區○○○地號土地（都市計畫住宅區）申請設置農作產銷設施－農業資材室、堆肥室及雞舍疑義案，復請查照。",
+ "content": "有關農業發展條例第38條之1土地申請農業設施容許使用，改制前行政院農業委員會(下稱農委會)業以108年8月21日農企字第1080232427號函(諒達)說明略以，農業發展條例第38條之1規定係為土地移轉之稅賦優惠，該土地已非屬農業用地，而申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)係規範農業設施，且以農業用地為適用範圍，二者規範之目的不同、適用之土地亦有別，故農業發展條例第38條之1土地無容許辦法之適用。另貴府來函所提農委會102年11月8日農企字第1020732757號函，亦由該會以上開108年函停止適用。是以，本案請貴府依上開函釋原則予以核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6102",
+   "serial": null,
+   "fetched_at": "2026-11-22T07:38:57+08:00",
+   "source_key": "rmis:6102"
+  }
+ ],
+ "first_seen": "2026-11-22T07:39:13+08:00",
+ "last_synced": "2026-11-22T07:39:13+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "277ff4d2f62bf447fdb9e3409d241892864742ac9efe4ebf95f71e34ddc10d7b",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "38-1",
+   "kind": "extracted",
+   "snippet": "作產銷設施-農業資材室、堆肥室及雞舍疑義案,復請查照。\n有關農業發展條例第38條之1土地申請農業設施容許使用,改制前行政院農業委員會(下稱農委會)業以108年8月2"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "8條之1規定係為土地移轉之稅賦優惠,該土地已非屬農業用地,而申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)係規範農業設施,且以農業用地為適用範圍,二者規範之目的不同、適用"
+  }
+ ]
+}
