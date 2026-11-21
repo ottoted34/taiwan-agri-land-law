@@ -1,0 +1,63 @@
+{
+ "id": "itp-9e291a4678",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152611951號",
+ "date": "2026-08-25",
+ "date_text": "115/8/25",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢貴縣番路鄉○○○地號土地經核准115年獎勵輔導造林計畫，申請核發農業用地作農業使用證明書疑義案，復如說明，請查照。",
+ "content": "依農業發展條例第3條第12款規定，農業使用係指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相關之農業設施或農舍等使用者。所稱「依法」係指依區域計畫法等土地使用管制規定。復依非都市土地使用管制規則第6條附表1規定，農牧用地、林業用地容許作造林使用，須符合農業部林業及自然保育署所規定之樹種，且經完成造林、造林木已達3年生以上、成活率在70%以上等要件，始屬經濟性之農業生產活動。至於經核准獎勵造林之農業用地，申請人應依該核准事項履行造林作業及義務，與上開「造林使用」係屬二事。是以，有關農業用地作造林使用，仍應符合上開要件，始符合農業使用之認定基準，爰請貴府依上開審認原則，協助公所就個案實情予以核處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6123",
+   "serial": null,
+   "fetched_at": "2026-11-21T08:53:20+08:00",
+   "source_key": "rmis:6123"
+  }
+ ],
+ "first_seen": "2026-11-21T08:53:44+08:00",
+ "last_synced": "2026-11-21T08:53:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "4ec0cd4274219785fa05545737f023bbbc70ee5c4ee0897a7b9dcd783ded8c18",
+ "topics": [
+  "farm_use_cert",
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "請核發農業用地作農業使用證明書疑義案,復如說明,請查照。\n依農業發展條例第3條第12款規定,農業使用係指農業用地依法實際供農作、森林、養殖、畜牧、保育及設置相"
+  },
+  {
+   "law_id": "D0070030",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "、保育及設置相關之農業設施或農舍等使用者。所稱「依法」係指依區域計畫法等土地使用管制規定。復依非都市土地使用管制規則第6條附表1規定,農牧用地、林業用"
+  },
+  {
+   "law_id": "D0060013",
+   "article": "6",
+   "kind": "extracted",
+   "snippet": "使用者。所稱「依法」係指依區域計畫法等土地使用管制規定。復依非都市土地使用管制規則第6條附表1規定,農牧用地、林業用地容許作造林使用,須符合農業部林業及自然保育署所規定"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "itp-5aec41e7b5",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152605984號",
+ "date": "2026-05-08",
+ "date_text": "115/5/8",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴署函詢農業資材室興建高度審認疑義案，本署提供意見如說明，請查照。",
+ "content": "一、依據申請農業用地作農業設施容許使用審查辦法第8條規定，農業設施興建高度及樓層應依本辦法規定辦理；未規定高度之農業設施，其高度不得超過14公尺。貴署來函援引之改制前行政院農業委員會100年7月20日農企字第1000144536號函已說明，各項農業設施之申請基準或條件，未明定高度及樓層限制者，其高度不得超過14公尺，並應以建築物最高點（頂高）予以審認。\n二、依貴署來函及附件，農業資材室屋頂上設置不鏽鋼儲水桶（蓄水設施），則設施高度，應以該2設施之高度合併加總計算，始符合前開以最高點審認之原則。\n三、另查高雄市政府針對轄內農業設施之高度及樓層，定有「高雄市申請農業設施興建高度及樓層審查自治條例」，故該市轄內農業設施之高度或樓層，應依該自治條例規定辦理。又涉及高度之計算，宜請申請人逕向該府洽詢。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6103",
+   "serial": null,
+   "fetched_at": "2026-11-21T08:53:44+08:00",
+   "source_key": "rmis:6103"
+  }
+ ],
+ "first_seen": "2026-11-21T08:53:44+08:00",
+ "last_synced": "2026-11-21T08:53:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "a6f22ee06ba68b0115fd7eefcf2d28740d69b4c9fd92c811864af43f4f82d8bf",
+ "topics": [
+  "material_room"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": "8",
+   "kind": "extracted",
+   "snippet": "室興建高度審認疑義案,本署提供意見如說明,請查照。\n一、依據申請農業用地作農業設施容許使用審查辦法第8條規定,農業設施興建高度及樓層應依本辦法規定辦理;未規定高度之農業設施,其高度不得"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "id": "itp-e55eabcca8",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152607654號",
+ "date": "2026-06-09",
+ "date_text": "115/6/9",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢「農業主管機關受理申請許可案件及核發證明\n文件收費標準」涉及農業設施收費方式疑義案，請查照。",
+ "content": "有關旨揭收費標準第4條第1款所定「申請農業設施之容許使用者，每件收取新臺幣200元。」，依貴局來函援引之改制前行政院農業委員會94年6月22日農企字第0940131757號函，所稱「每件」係指每一應申請容許使用之農業設施而言。是以，申請農業用地作農業設施容許使用，其收費標準係以該申請案所請農業設施許可使用細目之數量，予以核算，故所提同一申請案申請設置2座同一許可使用細目之農業設施，雖分別配置於不同位置，仍以1許可使用細目計算，收取200元。至於附屬設施，非屬許可使用細目，自不納入規費之核算。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6106",
+   "serial": null,
+   "fetched_at": "2026-11-21T08:53:38+08:00",
+   "source_key": "rmis:6106"
+  }
+ ],
+ "first_seen": "2026-11-21T08:53:44+08:00",
+ "last_synced": "2026-11-21T08:53:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "55638c841fd434bae256e84cbf0f54058016cdb8ad01391d2e73e9eb30fcc186",
+ "topics": [
+  "farm_use_cert"
+ ],
+ "flags": [],
+ "relations": []
+}

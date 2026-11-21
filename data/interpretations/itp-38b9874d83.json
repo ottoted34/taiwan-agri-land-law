@@ -1,0 +1,48 @@
+{
+ "id": "itp-38b9874d83",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1152628548號",
+ "date": "2026-06-09",
+ "date_text": "115/6/9",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴公司函詢共有農業用地申請屋頂型綠能設施所涉土地使用同意書疑義案，請查照。",
+ "content": "一、按申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第4條第5款規定，申請農業用地作農業設施容許使用，應檢附土地使用同意書，但土地為申請人單獨所有者，免附。是以，共有農業用地申請農業設施容許使用，應檢附全體共有人之土地使用同意書，倘個案無法徵得全體共有人之書面同意，得依土地法第34條之1規定辦理，且應符合同法第34條之1執行要點第3點規定，以有償或不影響不同意共有人之利益為限。\n二、又針對共有農業用地申請屋頂型錄能設施，倘屋頂型綠能設施與其附屬之農業設施申請人不同，依改制前行政院農業委員會108年5月20日農企字第1080219535號函說明，除須依容許辦法第4條規定檢附土地所有權人出具之土地使用同意書外，應請屋頂型綠能設施之申請人檢附其使用該農業設施屋頂之權利證明文件。本案涉及個案實情審認事宜，建議得洽土地所在地直轄市或縣（市）政府提供協處。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6107",
+   "serial": null,
+   "fetched_at": "2026-11-21T08:53:40+08:00",
+   "source_key": "rmis:6107"
+  }
+ ],
+ "first_seen": "2026-11-21T08:53:44+08:00",
+ "last_synced": "2026-11-21T08:53:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "47e673c1e38f2b3a080e331f84c5b053faa9e9601f7ca02830a48c6d7bd40589",
+ "topics": [
+  "green_energy"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "申請屋頂型綠能設施所涉土地使用同意書疑義案,請查照。\n一、按申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第4條第5款規定,申請農業用地作農業設施容許使用,應檢附土地使用"
+  }
+ ]
+}

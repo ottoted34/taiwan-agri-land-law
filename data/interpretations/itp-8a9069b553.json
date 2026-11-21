@@ -1,0 +1,56 @@
+{
+ "id": "itp-8a9069b553",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150219846號",
+ "date": "2026-05-21",
+ "date_text": "115/5/21",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴府函詢都市計畫保護區土地申請農業設施疑義案，請查照。",
+ "content": "一、依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第2條第1項第2款規定，都市計畫範圍內之保護區屬該辦法適用之農業用地。次查貴府來函所提都市計畫法桃園市施行細則第27條定有保護區於都市計畫發布前，原有依法實際供農作、養殖、畜牧生產且未停止供其使用者，得比照農業區之有關規定及條件，申請建築農舍及農業產銷必要設施之規定。是以，貴府所詢貴市蘆竹區赤塗段都市計畫保護區土地擬依容許辦法規定申請農業設施，應符合上開施行細則之規定，並應由貴府都市計畫主管機關就所請土地是否符合都市計畫土地使用管制事項予以審認。\n二、另依貴府來函附件，貴市蘆竹區○○○地號土地業經貴府交通局114年7月16日核准設置路外停車場在案，故該2筆土地不得認定為作農業使用，自無申設農業設施之合理性及必要性，併予敘明。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6104",
+   "serial": null,
+   "fetched_at": "2026-11-21T08:53:43+08:00",
+   "source_key": "rmis:6104"
+  }
+ ],
+ "first_seen": "2026-11-21T08:53:44+08:00",
+ "last_synced": "2026-11-21T08:53:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "f2447750f3ada049a15da822a1fac58f52b515dfb3f053e68e1f926dc3efd05a",
+ "topics": [
+  "farmhouse",
+  "livestock",
+  "aquaculture"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "府函詢都市計畫保護區土地申請農業設施疑義案,請查照。\n一、依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第2條第1項第2款規定,都市計畫範圍內之保護區屬該辦法適用之農業"
+  },
+  {
+   "law_id": "D0070001",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "市計畫範圍內之保護區屬該辦法適用之農業用地。次查貴府來函所提都市計畫法桃園市施行細則第27條定有保護區於都市計畫發布前,原有依法實際供農作、養殖、畜牧"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "itp-eb441d574d",
+ "doc_class": "interpretation",
+ "docno": "農保規字第1150225160號",
+ "date": "2026-06-22",
+ "date_text": "115/6/22",
+ "agency_text": "農業部農村發展及水土保持署",
+ "category": "解釋函",
+ "subject": "有關貴局函詢農牧用地堆置樹木、枯枝、樹葉，申請堆肥舍(場)容許使用疑義案，復如說明，請查照。",
+ "content": "查農業用地應以作農業使用為原則，所稱農業使用於農業發展條例第3條第12款業有明文定義，故農業用地堆置樹木、枯枝、樹葉等使用，未符合農業使用之認定。至於農業設施係輔助其坐落農業用地之農業生產，須基於農業生產事實，與生產行為相連結，始可設置。又依申請農業用地作農業設施容許使用審查辦法（下稱容許辦法）第13條附表1堆肥舍（場）之申請基準或條件明定，不得露天堆置原物料，原料以農業生產後之副產物及剩餘物為主，不得混入非屬「肥料登記證申請及核發辦法」第5條第3項規定之事業廢棄物。爰依貴局來函及附件，前開樹木、枯枝、樹葉係承攬修剪樹枝、樹葉工程所產生，非屬農業生產後之副產物或剩餘物，且露天堆置農業用地，自未符上開容許辦法之規定。",
+ "memo": "",
+ "agency_id": "ardswc",
+ "agency_name": "農業部農村發展及水土保持署",
+ "historical_name": null,
+ "is_historical": false,
+ "year_hint": null,
+ "sources": [
+  {
+   "source_id": "rmis-interpretations",
+   "url": "https://rmis.ardswc.gov.tw/Web/NewsDetail.aspx?id=6108",
+   "serial": null,
+   "fetched_at": "2026-11-21T08:53:37+08:00",
+   "source_key": "rmis:6108"
+  }
+ ],
+ "first_seen": "2026-11-21T08:53:44+08:00",
+ "last_synced": "2026-11-21T08:53:44+08:00",
+ "version": 1,
+ "flags_in": [],
+ "validity": {
+  "status": "no_known_cessation",
+  "confirmed": false,
+  "basis": []
+ },
+ "content_hash": "fdd9efd5a6fa5ff2b2b473e1e72b2a6cf8e0f942c5236ccb9a08666d80b9f401",
+ "topics": [
+  "landfill"
+ ],
+ "flags": [],
+ "relations": [
+  {
+   "law_id": "M0020001",
+   "article": "3",
+   "kind": "extracted",
+   "snippet": "明,請查照。\n查農業用地應以作農業使用為原則,所稱農業使用於農業發展條例第3條第12款業有明文定義,故農業用地堆置樹木、枯枝、樹葉等使用,未符合農業使用之認定"
+  },
+  {
+   "law_id": "M0020022",
+   "article": null,
+   "kind": "extracted",
+   "snippet": "業生產,須基於農業生產事實,與生產行為相連結,始可設置。又依申請農業用地作農業設施容許使用審查辦法(下稱容許辦法)第13條附表1堆肥舍(場)之申請基準或條件明定,不得露天堆置原物"
+  }
+ ]
+}
