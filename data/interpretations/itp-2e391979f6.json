@@ -27,9 +27,19 @@
  "version": 1,
  "flags_in": [],
  "validity": {
-  "status": "no_known_cessation",
+  "status": "possibly_affected",
   "confirmed": false,
-  "basis": []
+  "basis": [
+   {
+    "type": "law_amendment",
+    "law_id": "M0110001",
+    "law_name": "水土保持法",
+    "article": "33",
+    "amended_on": "2026-11-20",
+    "history": "中華民國一百十五年十一月二十日總統華總一經字第 11500115411 號令修正公布第 2、23、32、33 條條文",
+    "relation_kind": "extracted"
+   }
+  ]
  },
  "content_hash": "b4b13637caa461182c3495829849c02fa99649132cd920f84d56aa939f777d91",
  "topics": [],

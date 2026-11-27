@@ -1,0 +1,180 @@
+{
+ "run_id": "45927489432",
+ "mode": "daily",
+ "started_at": "2026-11-27T10:18:06+08:00",
+ "sources": [
+  {
+   "source_id": "moj-law-api",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 3,
+   "status_changed": 0,
+   "unchanged": 25,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 2,
+   "notes": [
+    "全國法規資料庫查無（名稱不符或已廢止）：農業動力用電範圍及標準、農業技術密集或資本密集類目標準、都市計畫法臺灣省施行細則",
+    "資料集更新日期：{'law': '2026/11/20 上午 12:00:00', 'order': '2026/11/20 上午 12:00:00'}"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-laws",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 24,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 25,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "rmis-interpretations",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 3,
+   "notes": [
+    "列表頁數：174，本次讀取列表 30 筆（不重複）",
+    "明細擷取 0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "forest-interpretations",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 3,
+   "notes": [
+    "列表 103 頁，本次讀取 3 頁、30 筆，符合收錄範圍 30 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "talis-green-energy",
+   "status": "ok",
+   "complete": false,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 0,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 2,
+   "notes": [
+    "列表 14 頁，本次讀取 2 頁、16 筆，符合收錄範圍 16 筆",
+    "與既有函釋（字號＋日期相同）合併為同一筆並加註來源：0 筆"
+   ],
+   "errors": []
+  },
+  {
+   "source_id": "local-taichung",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 6,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 64,
+   "notes": [],
+   "errors": []
+  },
+  {
+   "source_id": "course-summaries",
+   "status": "ok",
+   "complete": true,
+   "added": 0,
+   "modified": 0,
+   "status_changed": 0,
+   "unchanged": 50,
+   "rejected": 0,
+   "failed": 0,
+   "missing_flagged": 0,
+   "requests": 0,
+   "notes": [],
+   "errors": []
+  }
+ ],
+ "events": [
+  {
+   "kind": "law_amended",
+   "id": "M0020001",
+   "name": "農業發展條例",
+   "articles": [
+    "2",
+    "10-1",
+    "60",
+    "65-1",
+    "69"
+   ],
+   "modified_date": "2026-11-20"
+  },
+  {
+   "kind": "law_amended",
+   "id": "M0110006",
+   "name": "山坡地保育利用條例",
+   "articles": [
+    "2",
+    "10",
+    "15",
+    "34",
+    "35",
+    "37"
+   ],
+   "modified_date": "2026-11-20"
+  },
+  {
+   "kind": "law_amended",
+   "id": "M0110001",
+   "name": "水土保持法",
+   "articles": [
+    "2",
+    "23",
+    "32",
+    "33"
+   ],
+   "modified_date": "2026-11-20"
+  }
+ ],
+ "deploy": "pending",
+ "postprocess": {
+  "interpretations_updated": 14,
+  "technical_updated": 0,
+  "validity_counts": {
+   "possibly_affected": 1045,
+   "no_known_cessation": 3487,
+   "needs_review": 64,
+   "amended_by_later": 66
+  },
+  "relations_extracted": 6844,
+  "relations_official": 4055
+ },
+ "finished_at": "2026-11-27T10:20:58+08:00",
+ "result": "success_changed"
+}

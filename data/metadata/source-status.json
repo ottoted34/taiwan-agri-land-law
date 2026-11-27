@@ -1,29 +1,25 @@
 {
  "moj-law-api": {
-  "last_checked": "2026-11-26T10:18:20+08:00",
+  "last_checked": "2026-11-27T10:18:24+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-26T10:18:20+08:00",
-  "last_full_compare": "2026-11-26T10:18:20+08:00",
-  "last_changed": "2026-10-30T12:07:25+08:00"
+  "last_success": "2026-11-27T10:18:24+08:00",
+  "last_full_compare": "2026-11-27T10:18:24+08:00",
+  "last_changed": "2026-11-27T10:18:24+08:00"
  },
  "rmis-laws": {
-  "last_checked": "2026-11-26T10:18:20+08:00",
-  "last_status": "failed",
-  "last_errors": [
-   "https://rmis.ardswc.gov.tw/Web/Directory.aspx"
-  ],
-  "last_success": "2026-11-25T11:07:20+08:00",
-  "last_full_compare": "2026-11-25T11:07:20+08:00",
+  "last_checked": "2026-11-27T10:19:02+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-11-27T10:19:02+08:00",
+  "last_full_compare": "2026-11-27T10:19:02+08:00",
   "last_changed": "2026-10-30T09:42:14+08:00"
  },
  "rmis-interpretations": {
-  "last_checked": "2026-11-26T10:18:20+08:00",
-  "last_status": "robots_disallowed",
-  "last_errors": [
-   "https://rmis.ardswc.gov.tw/Web/NewsList.aspx"
-  ],
-  "last_success": "2026-11-25T11:07:25+08:00",
+  "last_checked": "2026-11-27T10:19:06+08:00",
+  "last_status": "ok",
+  "last_errors": [],
+  "last_success": "2026-11-27T10:19:06+08:00",
   "last_full_compare": "2026-11-22T07:39:13+08:00",
   "last_changed": "2026-11-22T07:39:13+08:00"
  },
@@ -51,34 +47,34 @@
   "last_full_compare": "2026-11-02T07:50:34+08:00"
  },
  "local-taichung": {
-  "last_checked": "2026-11-26T10:20:07+08:00",
+  "last_checked": "2026-11-27T10:20:54+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-26T10:20:07+08:00",
-  "last_full_compare": "2026-11-26T10:20:07+08:00",
+  "last_success": "2026-11-27T10:20:54+08:00",
+  "last_full_compare": "2026-11-27T10:20:54+08:00",
   "last_changed": "2026-10-30T15:21:42+08:00"
  },
  "forest-interpretations": {
-  "last_checked": "2026-11-26T10:18:26+08:00",
+  "last_checked": "2026-11-27T10:19:14+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-26T10:18:26+08:00",
+  "last_success": "2026-11-27T10:19:14+08:00",
   "last_full_compare": "2026-11-22T07:44:13+08:00",
   "last_changed": "2026-11-12T09:39:05+08:00"
  },
  "talis-green-energy": {
-  "last_checked": "2026-11-26T10:18:30+08:00",
+  "last_checked": "2026-11-27T10:19:17+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-26T10:18:30+08:00",
+  "last_success": "2026-11-27T10:19:17+08:00",
   "last_full_compare": "2026-11-22T07:44:34+08:00",
   "last_changed": "2026-10-30T15:19:53+08:00"
  },
  "course-summaries": {
-  "last_checked": "2026-11-26T10:20:07+08:00",
+  "last_checked": "2026-11-27T10:20:54+08:00",
   "last_status": "ok",
   "last_errors": [],
-  "last_success": "2026-11-26T10:20:07+08:00",
-  "last_full_compare": "2026-11-26T10:20:07+08:00"
+  "last_success": "2026-11-27T10:20:54+08:00",
+  "last_full_compare": "2026-11-27T10:20:54+08:00"
  }
 }
